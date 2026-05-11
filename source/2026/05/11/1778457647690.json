@@ -1,0 +1,410 @@
+{
+  "runTime": 1778457647690,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3063003,
+        "num": 3063003,
+        "word": "国乒男团3比0大胜日本",
+        "onboard_time": 1778434696,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1330961,
+        "num": 1330961,
+        "word": "优酷官宣藏海传2等高分续作",
+        "onboard_time": 1778454679,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 54615,
+        "num": 951835,
+        "word": "中国潜水器发现深海生命绿洲",
+        "onboard_time": 1778406440,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 946794,
+        "num": 946794,
+        "word": "王楚钦当选MVP",
+        "onboard_time": 1778454439,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 421996,
+        "num": 710618,
+        "word": "17岁女生写作业至凌晨外出复印失联",
+        "onboard_time": 1778456240,
+        "rank": 4,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 675034,
+        "num": 675034,
+        "word": "身体的炎症全部消失22个tips",
+        "onboard_time": 1778414660,
+        "rank": 5,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 571762,
+        "num": 571762,
+        "word": "梁靖崑逆转张本智和",
+        "onboard_time": 1778429482,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 499019,
+        "num": 499019,
+        "word": "巴萨2比0皇马",
+        "onboard_time": 1778454617,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 442858,
+        "num": 442858,
+        "word": "盼弟 来弟",
+        "onboard_time": 1778419461,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 300991,
+        "num": 300991,
+        "word": "吃出24块鸡头顾客被免单仍想市监介入",
+        "onboard_time": 1778423003,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1672733,
+        "num": 295104,
+        "word": "疑似维嘉卖掉的衣服被马丁淘回来了",
+        "onboard_time": 1778454737,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 558530,
+        "num": 283117,
+        "word": "国家体育总局中国奥委会贺信",
+        "onboard_time": 1778455339,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1493755,
+        "num": 263601,
+        "word": "王楚钦夺冠后吃生日蛋糕",
+        "onboard_time": 1778455760,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 459017,
+        "num": 256565,
+        "word": "张凌赫拍的绿色",
+        "onboard_time": 1778455699,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 428118,
+        "num": 241958,
+        "word": "有生之年还能看见猪肉下岗",
+        "onboard_time": 1778452276,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 236252,
+        "num": 236252,
+        "word": "成毅狩谎宣传节奏",
+        "onboard_time": 1778455940,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 198104,
+        "num": 235119,
+        "word": "何猷君关联公司近7亿元三亚拿地",
+        "onboard_time": 1778455460,
+        "rank": 16,
+        "category": "财经,艺人"
+      },
+      {
+        "raw_hot": 158141,
+        "num": 234046,
+        "word": "狩谎",
+        "onboard_time": 1778455339,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 4489,
+        "num": 232926,
+        "word": "到底谁是马雪晴啊",
+        "onboard_time": 1778384180,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 410849,
+        "num": 231671,
+        "word": "王曼昱哭了",
+        "onboard_time": 1778421684,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 529074,
+        "num": 230776,
+        "word": "中国妇女报评OPPO母亲节文案",
+        "onboard_time": 1778422400,
+        "rank": 20,
+        "category": "民生新闻,数码"
+      },
+      {
+        "raw_hot": 423173,
+        "num": 229359,
+        "word": "宋祖儿的腿瘦凹回去了",
+        "onboard_time": 1778425042,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 400304,
+        "num": 228588,
+        "word": "半挂司机养了只半挂猫",
+        "onboard_time": 1778453538,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 388097,
+        "num": 228129,
+        "word": "许昕回应国乒双冠",
+        "onboard_time": 1778456181,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 370299,
+        "num": 226459,
+        "word": "德国跨国迷奸案涉华人高管名校学生",
+        "onboard_time": 1778455518,
+        "rank": 24,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 328946,
+        "num": 224946,
+        "word": "国乒男团12连冠",
+        "onboard_time": 1778434518,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 318135,
+        "num": 223834,
+        "word": "村民被眼镜王蛇咬伤打了13支血清",
+        "onboard_time": 1778426302,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 174709,
+        "num": 222747,
+        "word": "汉坦病毒邮轮零号病人身份曝光",
+        "onboard_time": 1778412680,
+        "rank": 27,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 129379,
+        "num": 222335,
+        "word": "主角收视率",
+        "onboard_time": 1778423063,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 72854,
+        "num": 220446,
+        "word": "梁家辉方回应接触狩谎",
+        "onboard_time": 1778437215,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 308012,
+        "num": 219532,
+        "word": "王曼昱说孙颖莎站了出来",
+        "onboard_time": 1778431400,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 289841,
+        "num": 218216,
+        "word": "虞书欣GoldGala红毯路透",
+        "onboard_time": 1778456119,
+        "rank": 31,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 273978,
+        "num": 217230,
+        "word": "王楚钦回应国乒男团夺冠",
+        "onboard_time": 1778440693,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 271725,
+        "num": 215580,
+        "word": "严浩翔正常毕业流程当中",
+        "onboard_time": 1778454018,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 246169,
+        "num": 215110,
+        "word": "孙颖莎不停支招王曼昱",
+        "onboard_time": 1778454258,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 244348,
+        "num": 214199,
+        "word": "睫毛掉进眼睛里钙化了",
+        "onboard_time": 1778418859,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 192624,
+        "num": 212601,
+        "word": "原来这才是有效的控糖方式",
+        "onboard_time": 1778452396,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 189457,
+        "num": 211233,
+        "word": "孙颖莎新世纪中国女乒单届最佳战绩",
+        "onboard_time": 1778429183,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 183395,
+        "num": 210908,
+        "word": "阿森纳",
+        "onboard_time": 1778436495,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 179150,
+        "num": 209601,
+        "word": "央视曝光三无手搓汽车",
+        "onboard_time": 1778421803,
+        "rank": 39,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 174163,
+        "num": 208084,
+        "word": "伊朗称国产潜艇在霍尔木兹执行任务",
+        "onboard_time": 1778445673,
+        "rank": 40,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 163567,
+        "num": 206612,
+        "word": "林诗栋vs户上隼辅",
+        "onboard_time": 1778431879,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 160665,
+        "num": 206075,
+        "word": "身体有炎症要忌口4种食物",
+        "onboard_time": 1778423844,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 145408,
+        "num": 204234,
+        "word": "17岁的张桂源",
+        "onboard_time": 1778454018,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139792,
+        "num": 203816,
+        "word": "王楚钦vs松岛辉空",
+        "onboard_time": 1778429482,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125768,
+        "num": 202491,
+        "word": "梁靖崑让二追三的神",
+        "onboard_time": 1778429720,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 70983,
+        "num": 201371,
+        "word": "初代跑男",
+        "onboard_time": 1778456840,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 69305,
+        "num": 199489,
+        "word": "宋亚轩国乐无双彩排花絮",
+        "onboard_time": 1778457441,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 33104,
+        "num": 198886,
+        "word": "美客机撞到人致其被吸入引擎死亡",
+        "onboard_time": 1778454018,
+        "rank": 48,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1746,
+        "num": 197874,
+        "word": "领克07GT公告图曝光",
+        "onboard_time": 1778391199,
+        "rank": 49,
+        "category": "汽车"
+      }
+    ],
+    "hotgov": {
+      "word": "#世间最深沉的爱#"
+    }
+  }
+}

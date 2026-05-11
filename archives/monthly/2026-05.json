@@ -1,6 +1,6 @@
 {
   "startTime": 1777565126834,
-  "endTime": 1778454964623,
+  "endTime": 1778457647690,
   "band_list": [
     {
       "raw_hot": 25375641,
@@ -955,6 +955,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1672733,
+      "num": 295104,
+      "word": "疑似维嘉卖掉的衣服被马丁淘回来了",
+      "onboard_time": 1778454737,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1669484,
       "num": 1407101,
       "word": "皮皮虾事件游客已删除所有爆料内容",
@@ -1153,6 +1161,14 @@
       "onboard_time": 1778395401,
       "rank": 11,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1493755,
+      "num": 263601,
+      "word": "王楚钦夺冠后吃生日蛋糕",
+      "onboard_time": 1778455760,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 1493266,
@@ -1377,6 +1393,14 @@
       "onboard_time": 1778384899,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1330961,
+      "num": 1330961,
+      "word": "优酷官宣藏海传2等高分续作",
+      "onboard_time": 1778454679,
+      "rank": 1,
+      "category": "剧集"
     },
     {
       "raw_hot": 1330191,
@@ -2179,6 +2203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 946794,
+      "num": 946794,
+      "word": "王楚钦当选MVP",
+      "onboard_time": 1778454439,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 946279,
       "num": 743081,
       "word": "中国男团vs韩国对阵名单",
@@ -2193,14 +2225,6 @@
       "onboard_time": 1777904963,
       "rank": 28,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 941819,
-      "num": 970239,
-      "word": "优酷官宣藏海传2等高分续作",
-      "onboard_time": 1778454679,
-      "rank": 1,
-      "category": "剧集"
     },
     {
       "raw_hot": 934711,
@@ -4403,6 +4427,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 571762,
+      "num": 571762,
+      "word": "梁靖崑逆转张本智和",
+      "onboard_time": 1778429482,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 571119,
       "num": 571119,
       "word": "meiko赛后发文",
@@ -4521,6 +4553,14 @@
       "onboard_time": 1777951460,
       "rank": 28,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 558530,
+      "num": 283117,
+      "word": "国家体育总局中国奥委会贺信",
+      "onboard_time": 1778455339,
+      "rank": 11,
+      "category": "体育"
     },
     {
       "raw_hot": 557054,
@@ -4755,14 +4795,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 534448,
-      "num": 317718,
-      "word": "梁靖崑逆转张本智和",
-      "onboard_time": 1778429482,
-      "rank": 12,
-      "category": "体育"
-    },
-    {
       "raw_hot": 533278,
       "num": 533278,
       "word": "央视或低价拿下世界杯转播权",
@@ -4801,6 +4833,14 @@
       "onboard_time": 1778073323,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 529074,
+      "num": 230776,
+      "word": "中国妇女报评OPPO母亲节文案",
+      "onboard_time": 1778422400,
+      "rank": 35,
+      "category": "民生新闻,数码"
     },
     {
       "raw_hot": 528270,
@@ -5051,14 +5091,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 510510,
-      "num": 218109,
-      "word": "疑似维嘉卖掉的衣服被马丁淘回来了",
-      "onboard_time": 1778454737,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 509319,
       "num": 485996,
       "word": "曝钱天一退役自主择业",
@@ -5153,6 +5185,14 @@
       "onboard_time": 1778147181,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 499019,
+      "num": 499019,
+      "word": "巴萨2比0皇马",
+      "onboard_time": 1778454617,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 498382,
@@ -5691,6 +5731,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 459017,
+      "num": 256565,
+      "word": "张凌赫拍的绿色",
+      "onboard_time": 1778455699,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 458198,
       "num": 261872,
       "word": "曝孟美岐主动放弃公司资源",
@@ -6091,6 +6139,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 428118,
+      "num": 251882,
+      "word": "有生之年还能看见猪肉下岗",
+      "onboard_time": 1778452276,
+      "rank": 19,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 426841,
       "num": 426841,
       "word": "合租因室友掉两根头发报警",
@@ -6145,6 +6201,14 @@
       "onboard_time": 1778295980,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 421996,
+      "num": 710618,
+      "word": "17岁女生写作业至凌晨外出复印失联",
+      "onboard_time": 1778456240,
+      "rank": 4,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 421753,
@@ -6443,6 +6507,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 400304,
+      "num": 228588,
+      "word": "半挂司机养了只半挂猫",
+      "onboard_time": 1778453538,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 400143,
       "num": 400143,
       "word": "国乒男团已无退路",
@@ -6681,6 +6753,14 @@
       "onboard_time": 1778253323,
       "rank": 21,
       "category": "电影"
+    },
+    {
+      "raw_hot": 388097,
+      "num": 228129,
+      "word": "许昕回应国乒双冠",
+      "onboard_time": 1778456181,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 387184,
@@ -7009,6 +7089,14 @@
       "onboard_time": 1778402119,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 370299,
+      "num": 226459,
+      "word": "德国跨国迷奸案涉华人高管名校学生",
+      "onboard_time": 1778455518,
+      "rank": 24,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 369672,
@@ -8859,6 +8947,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 289841,
+      "num": 218216,
+      "word": "虞书欣GoldGala红毯路透",
+      "onboard_time": 1778456119,
+      "rank": 31,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 289804,
       "num": 279728,
       "word": "张翅 音乐节",
@@ -9219,14 +9315,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 276828,
-      "num": 215048,
-      "word": "中国妇女报评OPPO母亲节文案",
-      "onboard_time": 1778422400,
-      "rank": 35,
-      "category": "民生新闻,数码"
-    },
-    {
       "raw_hot": 276677,
       "num": 440881,
       "word": "鹿晗没带馒头参加五哈的原因",
@@ -9361,6 +9449,14 @@
       "onboard_time": 1778143823,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 271725,
+      "num": 215580,
+      "word": "严浩翔正常毕业流程当中",
+      "onboard_time": 1778454018,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 271583,
@@ -9987,14 +10083,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 251882,
-      "num": 251882,
-      "word": "有生之年还能看见猪肉下岗",
-      "onboard_time": 1778452276,
-      "rank": 19,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 251417,
       "num": 251417,
       "word": "曝章若楠常驻跑男",
@@ -10153,6 +10241,14 @@
       "onboard_time": 1778115920,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 246169,
+      "num": 215110,
+      "word": "孙颖莎不停支招王曼昱",
+      "onboard_time": 1778454258,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 246091,
@@ -10568,6 +10664,14 @@
       "word": "千里江山图妆造",
       "onboard_time": 1778305340,
       "rank": 37,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 236252,
+      "num": 236252,
+      "word": "成毅狩谎宣传节奏",
+      "onboard_time": 1778455940,
+      "rank": 15,
       "category": "剧集"
     },
     {
@@ -12299,6 +12403,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 198104,
+      "num": 235119,
+      "word": "何猷君关联公司近7亿元三亚拿地",
+      "onboard_time": 1778455460,
+      "rank": 16,
+      "category": "财经,艺人"
+    },
+    {
       "raw_hot": 197440,
       "num": 197440,
       "word": "新疆地震",
@@ -12507,6 +12619,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 192624,
+      "num": 212601,
+      "word": "原来这才是有效的控糖方式",
+      "onboard_time": 1778452396,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 192612,
       "num": 183464,
       "word": "小伙刮20元刮刮乐中100万",
@@ -12643,14 +12763,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 190239,
-      "num": 208778,
-      "word": "孙颖莎不停支招王曼昱",
-      "onboard_time": 1778454258,
-      "rank": 22,
-      "category": "体育"
-    },
-    {
       "raw_hot": 190161,
       "num": 271402,
       "word": "日本几乎已无巢鸭监狱痕迹",
@@ -12745,14 +12857,6 @@
       "onboard_time": 1777886422,
       "rank": 39,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 187720,
-      "num": 207220,
-      "word": "王楚钦当选MVP",
-      "onboard_time": 1778454439,
-      "rank": 23,
-      "category": "体育"
     },
     {
       "raw_hot": 187676,
@@ -12873,14 +12977,6 @@
       "onboard_time": 1778047641,
       "rank": 38,
       "category": "情感"
-    },
-    {
-      "raw_hot": 184773,
-      "num": 206969,
-      "word": "原来这才是有效的控糖方式",
-      "onboard_time": 1778452396,
-      "rank": 21,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 184766,
@@ -13113,14 +13209,6 @@
       "onboard_time": 1778118320,
       "rank": 35,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 180732,
-      "num": 205964,
-      "word": "严浩翔正常毕业流程当中",
-      "onboard_time": 1778454018,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 180612,
@@ -13529,6 +13617,14 @@
       "onboard_time": 1778159483,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 174163,
+      "num": 208084,
+      "word": "伊朗称国产潜艇在霍尔木兹执行任务",
+      "onboard_time": 1778445673,
+      "rank": 48,
+      "category": "军事"
     },
     {
       "raw_hot": 174151,
@@ -14259,14 +14355,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 160342,
-      "num": 197004,
-      "word": "半挂司机养了只半挂猫",
-      "onboard_time": 1778453538,
-      "rank": 42,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 159916,
       "num": 508166,
       "word": "突然觉得小学老师好厉害",
@@ -14337,6 +14425,14 @@
       "onboard_time": 1777788020,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 158141,
+      "num": 234046,
+      "word": "狩谎",
+      "onboard_time": 1778455339,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 158138,
@@ -15017,6 +15113,14 @@
       "onboard_time": 1778393300,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 145408,
+      "num": 204234,
+      "word": "17岁的张桂源",
+      "onboard_time": 1778454018,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 145368,
@@ -15795,14 +15899,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 131440,
-      "num": 195053,
-      "word": "伊朗称国产潜艇在霍尔木兹执行任务",
-      "onboard_time": 1778445673,
-      "rank": 48,
-      "category": "军事"
-    },
-    {
       "raw_hot": 131417,
       "num": 181330,
       "word": "一高校招事业编被指近半数为萝卜岗",
@@ -15865,14 +15961,6 @@
       "onboard_time": 1778033540,
       "rank": 29,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 130662,
-      "num": 194315,
-      "word": "17岁的张桂源",
-      "onboard_time": 1778454018,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 130407,
@@ -16361,14 +16449,6 @@
       "onboard_time": 1777858999,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 122130,
-      "num": 192661,
-      "word": "巴萨2比0皇马",
-      "onboard_time": 1778454617,
-      "rank": 37,
-      "category": "体育"
     },
     {
       "raw_hot": 122055,
@@ -18108,7 +18188,7 @@
     },
     {
       "raw_hot": 77161,
-      "num": 202804,
+      "num": 220446,
       "word": "梁家辉方回应接触狩谎",
       "onboard_time": 1778437215,
       "rank": 48,
@@ -18409,6 +18489,14 @@
       "onboard_time": 1778329762,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 69305,
+      "num": 199489,
+      "word": "宋亚轩国乐无双彩排花絮",
+      "onboard_time": 1778457441,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 69113,
@@ -20067,6 +20155,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 33104,
+      "num": 211731,
+      "word": "美客机撞到人致其被吸入引擎死亡",
+      "onboard_time": 1778454018,
+      "rank": 19,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 33036,
       "num": 62162,
       "word": "斯诺克新王诞生宁波吴宜泽书写传奇",
@@ -21345,14 +21441,6 @@
       "onboard_time": 1777813283,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 3792,
-      "num": 211731,
-      "word": "美客机撞到人致其被吸入引擎死亡",
-      "onboard_time": 1778454018,
-      "rank": 19,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 3237,

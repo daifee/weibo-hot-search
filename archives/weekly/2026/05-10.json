@@ -1,6 +1,6 @@
 {
   "startTime": 1778342585344,
-  "endTime": 1778454964623,
+  "endTime": 1778457647690,
   "band_list": [
     {
       "raw_hot": 19315463,
@@ -203,6 +203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1672733,
+      "num": 295104,
+      "word": "疑似维嘉卖掉的衣服被马丁淘回来了",
+      "onboard_time": 1778454737,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1647093,
       "num": 1647093,
       "word": "马琳战术",
@@ -275,6 +283,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1493755,
+      "num": 263601,
+      "word": "王楚钦夺冠后吃生日蛋糕",
+      "onboard_time": 1778455760,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1493266,
       "num": 1493266,
       "word": "王曼昱vs张本美和",
@@ -321,6 +337,14 @@
       "onboard_time": 1778384899,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1330961,
+      "num": 1330961,
+      "word": "优酷官宣藏海传2等高分续作",
+      "onboard_time": 1778454679,
+      "rank": 1,
+      "category": "剧集"
     },
     {
       "raw_hot": 1307418,
@@ -395,12 +419,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 941819,
-      "num": 970239,
-      "word": "优酷官宣藏海传2等高分续作",
-      "onboard_time": 1778454679,
-      "rank": 1,
-      "category": "剧集"
+      "raw_hot": 946794,
+      "num": 946794,
+      "word": "王楚钦当选MVP",
+      "onboard_time": 1778454439,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 934471,
@@ -675,12 +699,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 571762,
+      "num": 571762,
+      "word": "梁靖崑逆转张本智和",
+      "onboard_time": 1778429482,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 564727,
       "num": 266358,
       "word": "乘客拒付高速费00后车主果断返程",
       "onboard_time": 1778368817,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 558530,
+      "num": 283117,
+      "word": "国家体育总局中国奥委会贺信",
+      "onboard_time": 1778455339,
+      "rank": 11,
+      "category": "体育"
     },
     {
       "raw_hot": 539198,
@@ -707,20 +747,20 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 534448,
-      "num": 317718,
-      "word": "梁靖崑逆转张本智和",
-      "onboard_time": 1778429482,
-      "rank": 12,
-      "category": "体育"
-    },
-    {
       "raw_hot": 531575,
       "num": 521448,
       "word": "孙颖莎哽咽了",
       "onboard_time": 1778423485,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 529074,
+      "num": 230776,
+      "word": "中国妇女报评OPPO母亲节文案",
+      "onboard_time": 1778422400,
+      "rank": 35,
+      "category": "民生新闻,数码"
     },
     {
       "raw_hot": 526873,
@@ -747,14 +787,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 510510,
-      "num": 218109,
-      "word": "疑似维嘉卖掉的衣服被马丁淘回来了",
-      "onboard_time": 1778454737,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 506049,
       "num": 217589,
       "word": "王楚钦回应国乒男团夺冠",
@@ -769,6 +801,14 @@
       "onboard_time": 1778392099,
       "rank": 5,
       "category": "情感"
+    },
+    {
+      "raw_hot": 499019,
+      "num": 499019,
+      "word": "巴萨2比0皇马",
+      "onboard_time": 1778454617,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 498382,
@@ -867,6 +907,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 459017,
+      "num": 256565,
+      "word": "张凌赫拍的绿色",
+      "onboard_time": 1778455699,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 450974,
       "num": 450974,
       "word": "广东男篮绝杀",
@@ -899,12 +947,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 428118,
+      "num": 251882,
+      "word": "有生之年还能看见猪肉下岗",
+      "onboard_time": 1778452276,
+      "rank": 19,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 424251,
       "num": 424251,
       "word": "王安宇对章若楠炫耀快杀青了",
       "onboard_time": 1778382920,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 421996,
+      "num": 710618,
+      "word": "17岁女生写作业至凌晨外出复印失联",
+      "onboard_time": 1778456240,
+      "rank": 4,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 420253,
@@ -963,6 +1027,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 400304,
+      "num": 228588,
+      "word": "半挂司机养了只半挂猫",
+      "onboard_time": 1778453538,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 399978,
       "num": 238084,
       "word": "白鹿凌晨三点还在练歌",
@@ -1019,6 +1091,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 388097,
+      "num": 228129,
+      "word": "许昕回应国乒双冠",
+      "onboard_time": 1778456181,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 386856,
       "num": 386856,
       "word": "中国女团vs日本对阵名单",
@@ -1033,6 +1113,14 @@
       "onboard_time": 1778402119,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 370299,
+      "num": 226459,
+      "word": "德国跨国迷奸案涉华人高管名校学生",
+      "onboard_time": 1778455518,
+      "rank": 24,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 367398,
@@ -1275,6 +1363,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 289841,
+      "num": 218216,
+      "word": "虞书欣GoldGala红毯路透",
+      "onboard_time": 1778456119,
+      "rank": 31,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 288582,
       "num": 271726,
       "word": "辛芷蕾骑车又摔了四肢全废",
@@ -1331,20 +1427,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 276828,
-      "num": 215048,
-      "word": "中国妇女报评OPPO母亲节文案",
-      "onboard_time": 1778422400,
-      "rank": 35,
-      "category": "民生新闻,数码"
-    },
-    {
       "raw_hot": 274334,
       "num": 274334,
       "word": "王楚钦15比13科顿",
       "onboard_time": 1778360354,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 271725,
+      "num": 215580,
+      "word": "严浩翔正常毕业流程当中",
+      "onboard_time": 1778454018,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 270006,
@@ -1435,20 +1531,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 251882,
-      "num": 251882,
-      "word": "有生之年还能看见猪肉下岗",
-      "onboard_time": 1778452276,
-      "rank": 19,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 251284,
       "num": 308800,
       "word": "女儿的100个橡皮",
       "onboard_time": 1778320640,
       "rank": 22,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 246169,
+      "num": 215110,
+      "word": "孙颖莎不停支招王曼昱",
+      "onboard_time": 1778454258,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 245593,
@@ -1497,6 +1593,14 @@
       "onboard_time": 1778426063,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 236252,
+      "num": 236252,
+      "word": "成毅狩谎宣传节奏",
+      "onboard_time": 1778455940,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 233605,
@@ -1675,6 +1779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 198104,
+      "num": 235119,
+      "word": "何猷君关联公司近7亿元三亚拿地",
+      "onboard_time": 1778455460,
+      "rank": 16,
+      "category": "财经,艺人"
+    },
+    {
       "raw_hot": 196130,
       "num": 181809,
       "word": "陈奕恒回复王橹杰",
@@ -1707,6 +1819,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 192624,
+      "num": 212601,
+      "word": "原来这才是有效的控糖方式",
+      "onboard_time": 1778452396,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 192612,
       "num": 183464,
       "word": "小伙刮20元刮刮乐中100万",
@@ -1721,14 +1841,6 @@
       "onboard_time": 1778397920,
       "rank": 42,
       "category": "艺人,电竞"
-    },
-    {
-      "raw_hot": 190239,
-      "num": 208778,
-      "word": "孙颖莎不停支招王曼昱",
-      "onboard_time": 1778454258,
-      "rank": 22,
-      "category": "体育"
     },
     {
       "raw_hot": 189372,
@@ -1755,14 +1867,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 187720,
-      "num": 207220,
-      "word": "王楚钦当选MVP",
-      "onboard_time": 1778454439,
-      "rank": 23,
-      "category": "体育"
-    },
-    {
       "raw_hot": 187452,
       "num": 215009,
       "word": "47名消费者准备正式起诉张静初",
@@ -1785,14 +1889,6 @@
       "onboard_time": 1778398761,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 184773,
-      "num": 206969,
-      "word": "原来这才是有效的控糖方式",
-      "onboard_time": 1778452396,
-      "rank": 21,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 184382,
@@ -1851,14 +1947,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 180732,
-      "num": 205964,
-      "word": "严浩翔正常毕业流程当中",
-      "onboard_time": 1778454018,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 180080,
       "num": 180080,
       "word": "梁靖崑回应惊天逆转",
@@ -1889,6 +1977,14 @@
       "onboard_time": 1778409859,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 174163,
+      "num": 208084,
+      "word": "伊朗称国产潜艇在霍尔木兹执行任务",
+      "onboard_time": 1778445673,
+      "rank": 48,
+      "category": "军事"
     },
     {
       "raw_hot": 174151,
@@ -2003,20 +2099,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 160342,
-      "num": 197004,
-      "word": "半挂司机养了只半挂猫",
-      "onboard_time": 1778453538,
-      "rank": 42,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 159443,
       "num": 281127,
       "word": "浙江宣传谈OPPO争议文案",
       "onboard_time": 1778413460,
       "rank": 43,
       "category": "舆论监督,数码"
+    },
+    {
+      "raw_hot": 158141,
+      "num": 234046,
+      "word": "狩谎",
+      "onboard_time": 1778455339,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 157330,
@@ -2073,6 +2169,14 @@
       "onboard_time": 1778393300,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 145408,
+      "num": 204234,
+      "word": "17岁的张桂源",
+      "onboard_time": 1778454018,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 144121,
@@ -2171,14 +2275,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 131440,
-      "num": 195053,
-      "word": "伊朗称国产潜艇在霍尔木兹执行任务",
-      "onboard_time": 1778445673,
-      "rank": 48,
-      "category": "军事"
-    },
-    {
       "raw_hot": 131383,
       "num": 128775,
       "word": "骑士1比2活塞",
@@ -2193,14 +2289,6 @@
       "onboard_time": 1778439914,
       "rank": 20,
       "category": "体育"
-    },
-    {
-      "raw_hot": 130662,
-      "num": 194315,
-      "word": "17岁的张桂源",
-      "onboard_time": 1778454018,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 129918,
@@ -2249,14 +2337,6 @@
       "onboard_time": 1778323103,
       "rank": 47,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 122130,
-      "num": 192661,
-      "word": "巴萨2比0皇马",
-      "onboard_time": 1778454617,
-      "rank": 37,
-      "category": "体育"
     },
     {
       "raw_hot": 121475,
@@ -2412,7 +2492,7 @@
     },
     {
       "raw_hot": 77161,
-      "num": 202804,
+      "num": 220446,
       "word": "梁家辉方回应接触狩谎",
       "onboard_time": 1778437215,
       "rank": 48,
@@ -2459,12 +2539,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 70983,
+      "num": 201371,
+      "word": "初代跑男",
+      "onboard_time": 1778456840,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 69350,
       "num": 69350,
       "word": "文章在酒吧门口亲自招呼客人",
       "onboard_time": 1778329762,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 69305,
+      "num": 199489,
+      "word": "宋亚轩国乐无双彩排花絮",
+      "onboard_time": 1778457441,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 68270,
@@ -2819,6 +2915,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 33104,
+      "num": 211731,
+      "word": "美客机撞到人致其被吸入引擎死亡",
+      "onboard_time": 1778454018,
+      "rank": 19,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 32304,
       "num": 37418,
       "word": "国乒男女团双杀日本",
@@ -3057,14 +3161,6 @@
       "onboard_time": 1778407281,
       "rank": 37,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 3792,
-      "num": 211731,
-      "word": "美客机撞到人致其被吸入引擎死亡",
-      "onboard_time": 1778454018,
-      "rank": 19,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 3237,
