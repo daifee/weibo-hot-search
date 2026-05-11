@@ -1,0 +1,410 @@
+{
+  "runTime": 1778488982005,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 777439,
+        "num": 1124390,
+        "word": "孙颖莎晒照总结世乒赛",
+        "onboard_time": 1778483360,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 369114,
+        "num": 804583,
+        "word": "优酷9部剧集官宣第二部",
+        "onboard_time": 1778474061,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 59047,
+        "num": 662817,
+        "word": "一图读懂家庭应急物资该备什么",
+        "onboard_time": 1778485999,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1211755,
+        "num": 662524,
+        "word": "李晨 五哈",
+        "onboard_time": 1778484981,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 965102,
+        "num": 649194,
+        "word": "雪糕是糖油混合物具象化了",
+        "onboard_time": 1778476041,
+        "rank": 4,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 875986,
+        "num": 642329,
+        "word": "前台笑了半小时才说出wifi密码",
+        "onboard_time": 1778475142,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 630061,
+        "num": 630061,
+        "word": "王俊凯出发录中餐厅路透",
+        "onboard_time": 1778487561,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 511652,
+        "num": 511652,
+        "word": "三亚游泳耳朵里爬出了螃蟹",
+        "onboard_time": 1778481980,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 495195,
+        "num": 495195,
+        "word": "村驴减脂餐教程",
+        "onboard_time": 1778475321,
+        "rank": 8,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 174657,
+        "num": 420563,
+        "word": "贾跃亭被任命为FF全球CEO",
+        "onboard_time": 1778469741,
+        "rank": 9,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1162354,
+        "num": 402780,
+        "word": "武汉大学犯了不该回应时乱回应大忌",
+        "onboard_time": 1778486720,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 572109,
+        "num": 400413,
+        "word": "公司欠债倒闭五只猫咪员工被法拍",
+        "onboard_time": 1778485820,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 383408,
+        "num": 383408,
+        "word": "中方决定不同意台湾地区参加世卫大会",
+        "onboard_time": 1778487921,
+        "rank": 12,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 381640,
+        "num": 381640,
+        "word": "A股进入牛市下半场",
+        "onboard_time": 1778480899,
+        "rank": 13,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 331947,
+        "num": 331947,
+        "word": "南京山姆欠租金887万",
+        "onboard_time": 1778478019,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 319315,
+        "num": 319315,
+        "word": "穆祉丞 个代",
+        "onboard_time": 1778481859,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 278857,
+        "num": 278857,
+        "word": "优酷续集 原班人马",
+        "onboard_time": 1778483119,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 246762,
+        "num": 246762,
+        "word": "微信转账组合支付",
+        "onboard_time": 1778481139,
+        "rank": 17,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 244312,
+        "num": 244312,
+        "word": "陈伟霆何穗儿子小名",
+        "onboard_time": 1778472321,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89124,
+        "num": 243842,
+        "word": "女子离婚多年被判共还前夫百万欠债",
+        "onboard_time": 1778488400,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 243478,
+        "num": 243478,
+        "word": "嫁金钗",
+        "onboard_time": 1778485339,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 237861,
+        "num": 237861,
+        "word": "闪闪看见黄一鸣整容害怕",
+        "onboard_time": 1778482159,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173513,
+        "num": 231461,
+        "word": "A股飙升见证历史",
+        "onboard_time": 1778485881,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 227365,
+        "num": 227365,
+        "word": "唐艺昕的妆像当年郑恺化的",
+        "onboard_time": 1778487320,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 182960,
+        "num": 227199,
+        "word": "杨丽萍教小酒窝孔雀舞",
+        "onboard_time": 1778478620,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101736,
+        "num": 226644,
+        "word": "小米新一代智能座舱入网",
+        "onboard_time": 1778484981,
+        "rank": 25,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 55037,
+        "num": 225649,
+        "word": "美国总统外访后勤保障规模有多大",
+        "onboard_time": 1778487679,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 70090,
+        "num": 225366,
+        "word": "AI 掠夺水资源",
+        "onboard_time": 1778475741,
+        "rank": 27,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 60161,
+        "num": 224205,
+        "word": "天舟十号将人工胚胎送上太空",
+        "onboard_time": 1778477719,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 57339,
+        "num": 223516,
+        "word": "比亚迪海鸥也能上激光雷达了",
+        "onboard_time": 1778475861,
+        "rank": 29,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 174167,
+        "num": 223171,
+        "word": "虞书欣说不再依赖姐姐梗过时了",
+        "onboard_time": 1778484741,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 259195,
+        "num": 222321,
+        "word": "建议爱躺着玩手机的反复观看",
+        "onboard_time": 1778472981,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 240474,
+        "num": 221576,
+        "word": "建议不要给自己的人生加重量",
+        "onboard_time": 1778473882,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 236123,
+        "num": 221414,
+        "word": "女孩误拧油门150斤卤菜全毁",
+        "onboard_time": 1778481920,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 220908,
+        "num": 220908,
+        "word": "梁靖崑夺冠后回复妻子打错字",
+        "onboard_time": 1778486180,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 200221,
+        "num": 200221,
+        "word": "为什么上班后胖得越来越快",
+        "onboard_time": 1778486841,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 196586,
+        "num": 196586,
+        "word": "中方宣布特朗普访华日期",
+        "onboard_time": 1778461822,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 60631,
+        "num": 195185,
+        "word": "贾冰呼吁正视脂肪肝慢病隐患",
+        "onboard_time": 1778488761,
+        "rank": 37,
+        "category": "艺人,健康医疗"
+      },
+      {
+        "raw_hot": 105467,
+        "num": 195034,
+        "word": "沙溢瘦得都认不出来了",
+        "onboard_time": 1778488761,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 63714,
+        "num": 195004,
+        "word": "孙艺洲被阿嬷的情书自来水顶号了",
+        "onboard_time": 1778488821,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 194993,
+        "num": 194993,
+        "word": "突然意识到会做饭的人有多厉害",
+        "onboard_time": 1778483600,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 185965,
+        "num": 185965,
+        "word": "无忧传媒晒与王暖暖成绩单",
+        "onboard_time": 1778488821,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 173528,
+        "num": 173528,
+        "word": "马龙总结伦敦世乒赛",
+        "onboard_time": 1778488341,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 170956,
+        "num": 170956,
+        "word": "藏海传导演回应和肖战二搭",
+        "onboard_time": 1778468841,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162799,
+        "num": 162799,
+        "word": "少年歌行2等了四年终于开拍",
+        "onboard_time": 1778472141,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159391,
+        "num": 159391,
+        "word": "多省市地震局都发短信了",
+        "onboard_time": 1778486480,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151428,
+        "num": 151428,
+        "word": "刘涛天庭编制",
+        "onboard_time": 1778470941,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124218,
+        "num": 149591,
+        "word": "李嘉格男友恋爱后胖了20斤",
+        "onboard_time": 1778487801,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 44871,
+        "num": 149351,
+        "word": "本田中国4月销量腰斩",
+        "onboard_time": 1778483539,
+        "rank": 48,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 158968,
+        "num": 149313,
+        "word": "广东地震局短信",
+        "onboard_time": 1778465240,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平谈中美关系#"
+    }
+  }
+}
