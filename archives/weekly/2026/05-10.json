@@ -1,6 +1,6 @@
 {
   "startTime": 1778342585344,
-  "endTime": 1778537690606,
+  "endTime": 1778542298731,
   "band_list": [
     {
       "raw_hot": 19315463,
@@ -769,6 +769,14 @@
       "onboard_time": 1778397799,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 733569,
+      "num": 799593,
+      "word": "微信公关总监曾回应访客功能",
+      "onboard_time": 1778526494,
+      "rank": 3,
+      "category": "互联网"
     },
     {
       "raw_hot": 732665,
@@ -1579,6 +1587,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 357582,
+      "num": 357582,
+      "word": "焦虑型人格的真实表现",
+      "onboard_time": 1778500460,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 355205,
       "num": 409074,
       "word": "15岁女孩被害父亲1天2斤酒5包烟",
@@ -1715,14 +1731,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 342323,
-      "num": 342323,
-      "word": "焦虑型人格的真实表现",
-      "onboard_time": 1778500460,
-      "rank": 35,
-      "category": "情感"
-    },
-    {
       "raw_hot": 341356,
       "num": 230295,
       "word": "虞书欣GoldGala红毯路透",
@@ -1833,6 +1841,14 @@
       "onboard_time": 1778429061,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 313688,
+      "num": 313688,
+      "word": "主角收视率走势",
+      "onboard_time": 1778541138,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 312451,
@@ -2043,14 +2059,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 280780,
-      "num": 209483,
-      "word": "微信公关总监曾回应访客功能",
-      "onboard_time": 1778526494,
-      "rank": 3,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 279726,
       "num": 279726,
       "word": "嫁金钗",
@@ -2083,6 +2091,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 277130,
+      "num": 212880,
+      "word": "青海17岁失联高中女生遗体已找到",
+      "onboard_time": 1778514441,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 276997,
       "num": 276997,
       "word": "西汉姆联vs阿森纳",
@@ -2113,6 +2129,14 @@
       "onboard_time": 1778421803,
       "rank": 45,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 266908,
+      "num": 323716,
+      "word": "你脸上敷的嘴里吃的或含广东大蟑螂",
+      "onboard_time": 1778513720,
+      "rank": 19,
+      "category": "科学科普"
     },
     {
       "raw_hot": 265307,
@@ -2177,6 +2201,14 @@
       "onboard_time": 1778510843,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 259015,
+      "num": 149966,
+      "word": "3种炎症拖久了很危险",
+      "onboard_time": 1778541317,
+      "rank": 20,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 256377,
@@ -2492,7 +2524,7 @@
     },
     {
       "raw_hot": 218221,
-      "num": 218221,
+      "num": 219408,
       "word": "JDG对战LGDNBW",
       "onboard_time": 1778502022,
       "rank": 35,
@@ -2595,6 +2627,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 208829,
+      "num": 208829,
+      "word": "汶川小英雄林浩也有女儿了",
+      "onboard_time": 1778541618,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 208566,
       "num": 208566,
       "word": "17岁失联女生家属回应已找到遗体",
@@ -2633,6 +2673,14 @@
       "onboard_time": 1778343200,
       "rank": 37,
       "category": "演出"
+    },
+    {
+      "raw_hot": 205988,
+      "num": 141780,
+      "word": "沙溢瘦了胡可功不可没",
+      "onboard_time": 1778541198,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 205819,
@@ -3067,14 +3115,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 165175,
-      "num": 124958,
-      "word": "青海17岁失联高中女生遗体已找到",
-      "onboard_time": 1778514441,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 164969,
       "num": 164969,
       "word": "左航家人生怕孩子饿到",
@@ -3275,6 +3315,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 137511,
+      "num": 137511,
+      "word": "四川叫震生的孩子今年18岁",
+      "onboard_time": 1778523974,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 137279,
       "num": 101536,
       "word": "母亲节文案",
@@ -3377,6 +3425,14 @@
       "onboard_time": 1778513841,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 128201,
+      "num": 128201,
+      "word": "医生回应婴儿被喂鹅蛋后进ICU",
+      "onboard_time": 1778541258,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 128084,
@@ -3499,12 +3555,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 118736,
-      "num": 323716,
-      "word": "你脸上敷的嘴里吃的或含广东大蟑螂",
-      "onboard_time": 1778513720,
-      "rank": 19,
-      "category": "科学科普"
+      "raw_hot": 118865,
+      "num": 118865,
+      "word": "警方通报女子遭男生冲撞倒地",
+      "onboard_time": 1778541317,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 118701,
@@ -3513,6 +3569,14 @@
       "onboard_time": 1778489900,
       "rank": 48,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 116424,
+      "num": 116424,
+      "word": "106岁老太染手指甲每天喝小酒",
+      "onboard_time": 1778541678,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 116402,
@@ -3611,12 +3675,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 102162,
+      "num": 102162,
+      "word": "萨摩耶偷面包全过程",
+      "onboard_time": 1778520795,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 101736,
       "num": 230970,
       "word": "小米新一代智能座舱入网",
       "onboard_time": 1778484981,
       "rank": 23,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 98863,
+      "num": 98863,
+      "word": "男子凌晨遭追打直奔武警营门求救",
+      "onboard_time": 1778515340,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 98496,
@@ -3641,6 +3721,14 @@
       "onboard_time": 1778344821,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 95777,
+      "num": 95777,
+      "word": "18年前汶川一条没发出的短信",
+      "onboard_time": 1778541198,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 92533,
@@ -3723,6 +3811,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 83636,
+      "num": 83636,
+      "word": "汉坦病毒在湖南有传播风险吗",
+      "onboard_time": 1778541138,
+      "rank": 36,
+      "category": "健康医疗,民生新闻"
+    },
+    {
       "raw_hot": 83626,
       "num": 200301,
       "word": "刘晓庆照片被刻意修很多皱纹",
@@ -3761,6 +3857,14 @@
       "onboard_time": 1778434756,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 79416,
+      "num": 79416,
+      "word": "张桂源的蛋糕",
+      "onboard_time": 1778541317,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 78553,
@@ -3875,14 +3979,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 65386,
-      "num": 51899,
-      "word": "四川叫震生的孩子今年18岁",
-      "onboard_time": 1778523974,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 65012,
       "num": 2313889,
       "word": "一句句妈妈听哭了",
@@ -3955,6 +4051,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 60477,
+      "num": 60477,
+      "word": "下次我就这样喝牛奶",
+      "onboard_time": 1778519955,
+      "rank": 30,
+      "category": "美食"
+    },
+    {
       "raw_hot": 60313,
       "num": 122517,
       "word": "浪姐歌手邪恶栀子花大战菠萝菠萝蜜",
@@ -4011,6 +4115,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 59137,
+      "num": 61291,
+      "word": "张小斐新角色眼里全是野心",
+      "onboard_time": 1778529794,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 58045,
       "num": 230872,
       "word": "SK海力士今年人均奖金或320万",
@@ -4057,14 +4169,6 @@
       "onboard_time": 1778472499,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 55825,
-      "num": 57648,
-      "word": "男子凌晨遭追打直奔武警营门求救",
-      "onboard_time": 1778515340,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 55714,
@@ -4203,14 +4307,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 45656,
-      "num": 57611,
-      "word": "下次我就这样喝牛奶",
-      "onboard_time": 1778519955,
-      "rank": 30,
-      "category": "美食"
-    },
-    {
       "raw_hot": 45286,
       "num": 57605,
       "word": "女子戒碳水狂减重吃出糖尿病前期",
@@ -4241,14 +4337,6 @@
       "onboard_time": 1778324659,
       "rank": 49,
       "category": "美食"
-    },
-    {
-      "raw_hot": 43575,
-      "num": 57580,
-      "word": "萨摩耶偷面包全过程",
-      "onboard_time": 1778520795,
-      "rank": 34,
-      "category": "幽默"
     },
     {
       "raw_hot": 43518,
@@ -4427,14 +4515,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 31254,
-      "num": 31254,
-      "word": "张小斐新角色眼里全是野心",
-      "onboard_time": 1778529794,
-      "rank": 44,
-      "category": "电影"
-    },
-    {
       "raw_hot": 31129,
       "num": 303652,
       "word": "榴莲商家称顾客吃完了平台还能给退",
@@ -4611,6 +4691,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 19933,
+      "num": 79673,
+      "word": "刘诗雯回顾伦敦行",
+      "onboard_time": 1778541499,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 19509,
       "num": 212536,
       "word": "起诉东尼理发店公司唯一董事系中国人",
@@ -4745,6 +4833,14 @@
       "onboard_time": 1778502141,
       "rank": 39,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 5430,
+      "num": 217113,
+      "word": "周启豪向鹏成为国乒新世界冠军",
+      "onboard_time": 1778541979,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 3237,

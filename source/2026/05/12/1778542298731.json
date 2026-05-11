@@ -1,0 +1,410 @@
+{
+  "runTime": 1778542298731,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2247802,
+        "num": 2247802,
+        "word": "微信状态 访客记录",
+        "onboard_time": 1778502381,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 733569,
+        "num": 799593,
+        "word": "微信公关总监曾回应访客功能",
+        "onboard_time": 1778526494,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 6957,
+        "num": 629917,
+        "word": "2026互联中国公益行动",
+        "onboard_time": 1778502381,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 482005,
+        "num": 482005,
+        "word": "烫牛奶是善良的食物",
+        "onboard_time": 1778506645,
+        "rank": 3,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 357582,
+        "num": 357582,
+        "word": "焦虑型人格的真实表现",
+        "onboard_time": 1778500460,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 313688,
+        "num": 313688,
+        "word": "主角收视率走势",
+        "onboard_time": 1778541138,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 219424,
+        "num": 219424,
+        "word": "吴彤直播道歉",
+        "onboard_time": 1778508324,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 17537,
+        "num": 219408,
+        "word": "JDG对战LGDNBW",
+        "onboard_time": 1778502022,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 5430,
+        "num": 217113,
+        "word": "周启豪向鹏成为国乒新世界冠军",
+        "onboard_time": 1778541979,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 33074,
+        "num": 216777,
+        "word": "汶川地震18周年",
+        "onboard_time": 1778501961,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 454713,
+        "num": 215688,
+        "word": "李连杰因患甲亢改变面容",
+        "onboard_time": 1778503943,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 440383,
+        "num": 214155,
+        "word": "女孩演出完退礼服被商家曝光",
+        "onboard_time": 1778501541,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 277130,
+        "num": 212880,
+        "word": "青海17岁失联高中女生遗体已找到",
+        "onboard_time": 1778514441,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 266908,
+        "num": 211336,
+        "word": "你脸上敷的嘴里吃的或含广东大蟑螂",
+        "onboard_time": 1778513720,
+        "rank": 13,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 223068,
+        "num": 210069,
+        "word": "吴京发文庆祝与谢楠结婚十四周年",
+        "onboard_time": 1778496200,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 221763,
+        "num": 209718,
+        "word": "蔡依林状态 九点睡觉的魔力",
+        "onboard_time": 1778502141,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208829,
+        "num": 208829,
+        "word": "汶川小英雄林浩也有女儿了",
+        "onboard_time": 1778541618,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160249,
+        "num": 160249,
+        "word": "A股史诗级爆发原因",
+        "onboard_time": 1778507245,
+        "rank": 17,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 154981,
+        "num": 154981,
+        "word": "常石磊国乐无双发言",
+        "onboard_time": 1778510843,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 216706,
+        "num": 152841,
+        "word": "沙溢瘦得都认不出来了",
+        "onboard_time": 1778488761,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 259015,
+        "num": 149966,
+        "word": "3种炎症拖久了很危险",
+        "onboard_time": 1778541317,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 182032,
+        "num": 148900,
+        "word": "儿子高三脑出血妈妈十几年失去自我",
+        "onboard_time": 1778511742,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179410,
+        "num": 144832,
+        "word": "马龙夏露晒伦敦同款情侣照",
+        "onboard_time": 1778499140,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 144514,
+        "num": 144514,
+        "word": "金银价格大涨",
+        "onboard_time": 1778526314,
+        "rank": 23,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 205988,
+        "num": 141780,
+        "word": "沙溢瘦了胡可功不可没",
+        "onboard_time": 1778541198,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137511,
+        "num": 137511,
+        "word": "四川叫震生的孩子今年18岁",
+        "onboard_time": 1778523974,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129737,
+        "num": 129737,
+        "word": "成年人的崩溃从父母生病开始",
+        "onboard_time": 1778498901,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 128201,
+        "num": 128201,
+        "word": "医生回应婴儿被喂鹅蛋后进ICU",
+        "onboard_time": 1778541258,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91774,
+        "num": 123159,
+        "word": "玉泽演尼坤已婚和未婚的区别",
+        "onboard_time": 1778495240,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 63595,
+        "num": 120898,
+        "word": "单依纯说吴彤谨言慎行",
+        "onboard_time": 1778514021,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118865,
+        "num": 118865,
+        "word": "警方通报女子遭男生冲撞倒地",
+        "onboard_time": 1778541317,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116424,
+        "num": 116424,
+        "word": "106岁老太染手指甲每天喝小酒",
+        "onboard_time": 1778541678,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102162,
+        "num": 102162,
+        "word": "萨摩耶偷面包全过程",
+        "onboard_time": 1778520795,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 98863,
+        "num": 98863,
+        "word": "男子凌晨遭追打直奔武警营门求救",
+        "onboard_time": 1778515340,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98732,
+        "num": 98732,
+        "word": "开榴莲开出三房榴莲糖",
+        "onboard_time": 1778494460,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 95777,
+        "num": 95777,
+        "word": "18年前汶川一条没发出的短信",
+        "onboard_time": 1778541198,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 83636,
+        "num": 83636,
+        "word": "汉坦病毒在湖南有传播风险吗",
+        "onboard_time": 1778541138,
+        "rank": 36,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 81748,
+        "num": 81748,
+        "word": "法医刘良因家属送梨被告与人串通",
+        "onboard_time": 1778505742,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81166,
+        "num": 81166,
+        "word": "12306回应动车卧铺加装床帘",
+        "onboard_time": 1778515701,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19933,
+        "num": 79673,
+        "word": "刘诗雯回顾伦敦行",
+        "onboard_time": 1778541499,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 79416,
+        "num": 79416,
+        "word": "张桂源的蛋糕",
+        "onboard_time": 1778541317,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 77399,
+        "num": 77399,
+        "word": "张凌赫我也没长大我们互相依赖吧",
+        "onboard_time": 1778508744,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 68890,
+        "num": 68890,
+        "word": "急救宣布老人死亡家属发现仍有呼吸",
+        "onboard_time": 1778500880,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 65208,
+        "num": 65208,
+        "word": "老人有房有儿有存款住超市10年",
+        "onboard_time": 1778510784,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 59137,
+        "num": 61291,
+        "word": "张小斐新角色眼里全是野心",
+        "onboard_time": 1778529794,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 60477,
+        "num": 60477,
+        "word": "下次我就这样喝牛奶",
+        "onboard_time": 1778519955,
+        "rank": 45,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 60275,
+        "num": 60275,
+        "word": "时代少年团演唱会 青岛",
+        "onboard_time": 1778513121,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 50549,
+        "num": 59986,
+        "word": "王俊凯狄仁杰剧照",
+        "onboard_time": 1778505264,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 38187,
+        "num": 59808,
+        "word": "韩国涨怕了",
+        "onboard_time": 1778498841,
+        "rank": 48,
+        "category": "财经,国际时政"
+      },
+      {
+        "raw_hot": 19871,
+        "num": 59784,
+        "word": "腾讯客服称暂未支持访客记录查询",
+        "onboard_time": 1778507123,
+        "rank": 49,
+        "category": "互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主席高度重视中美关系#"
+    }
+  }
+}
