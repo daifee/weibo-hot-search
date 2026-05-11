@@ -1,6 +1,6 @@
 {
   "startTime": 1778342585344,
-  "endTime": 1778515687163,
+  "endTime": 1778523499586,
   "band_list": [
     {
       "raw_hot": 19315463,
@@ -3059,6 +3059,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 165175,
+      "num": 124958,
+      "word": "青海17岁失联高中女生遗体已找到",
+      "onboard_time": 1778514441,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 164969,
       "num": 164969,
       "word": "左航家人生怕孩子饿到",
@@ -3235,6 +3243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 141222,
+      "num": 141222,
+      "word": "突然发现拼豆B26很像酸豆角",
+      "onboard_time": 1778518818,
+      "rank": 4,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 140142,
       "num": 132624,
       "word": "良陈美锦",
@@ -3384,14 +3400,6 @@
       "word": "法医刘良因家属送梨被告与人串通",
       "onboard_time": 1778505742,
       "rank": 43,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 124958,
-      "num": 124958,
-      "word": "青海17岁失联高中女生遗体已找到",
-      "onboard_time": 1778514441,
-      "rank": 42,
       "category": "民生新闻"
     },
     {
@@ -3561,6 +3569,14 @@
       "onboard_time": 1778456840,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 104510,
+      "num": 90663,
+      "word": "12306回应动车卧铺加装床帘",
+      "onboard_time": 1778515701,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 104282,
@@ -3979,6 +3995,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 57668,
+      "num": 57668,
+      "word": "妈妈的日记里有一只1990年的蚊子",
+      "onboard_time": 1778518818,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 57339,
       "num": 229601,
       "word": "比亚迪海鸥也能上激光雷达了",
@@ -4041,6 +4065,14 @@
       "onboard_time": 1778487679,
       "rank": 20,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 54337,
+      "num": 57648,
+      "word": "男子凌晨遭追打直奔武警营门求救",
+      "onboard_time": 1778515340,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 54304,
@@ -4155,6 +4187,22 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 45656,
+      "num": 57611,
+      "word": "下次我就这样喝牛奶",
+      "onboard_time": 1778519955,
+      "rank": 30,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 45286,
+      "num": 57605,
+      "word": "女子戒碳水狂减重吃出糖尿病前期",
+      "onboard_time": 1778518756,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 44981,
       "num": 759428,
       "word": "23岁小伙开挖机滚落山崖遇难",
@@ -4177,6 +4225,14 @@
       "onboard_time": 1778324659,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 43575,
+      "num": 57580,
+      "word": "萨摩耶偷面包全过程",
+      "onboard_time": 1778520795,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 43518,
@@ -4209,6 +4265,14 @@
       "onboard_time": 1778440394,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 39263,
+      "num": 57556,
+      "word": "汶川地震18周年纪念海报",
+      "onboard_time": 1778521096,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 38832,
@@ -4313,6 +4377,14 @@
       "onboard_time": 1778489062,
       "rank": 47,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 32329,
+      "num": 57524,
+      "word": "佳偶天成",
+      "onboard_time": 1778518877,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 32304,
@@ -4425,6 +4497,14 @@
       "onboard_time": 1778343200,
       "rank": 19,
       "category": "军事"
+    },
+    {
+      "raw_hot": 25417,
+      "num": 57502,
+      "word": "上海诞生新币王身价5083万",
+      "onboard_time": 1778511324,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 23865,
