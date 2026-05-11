@@ -1,0 +1,410 @@
+{
+  "runTime": 1778514345194,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 14929156,
+        "num": 14929156,
+        "word": "微信状态 访客记录",
+        "onboard_time": 1778502381,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 350090,
+        "num": 2105893,
+        "word": "少年歌行",
+        "onboard_time": 1778508263,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 9707,
+        "num": 1613281,
+        "word": "2026互联中国公益行动",
+        "onboard_time": 1778502381,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 949909,
+        "num": 949909,
+        "word": "吴彤直播道歉",
+        "onboard_time": 1778508324,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 689980,
+        "num": 689980,
+        "word": "烫牛奶是善良的食物",
+        "onboard_time": 1778506645,
+        "rank": 4,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 439338,
+        "num": 439338,
+        "word": "开榴莲开出三房榴莲糖",
+        "onboard_time": 1778494460,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 378918,
+        "num": 378918,
+        "word": "时代少年团演唱会 青岛",
+        "onboard_time": 1778513121,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 342323,
+        "num": 342323,
+        "word": "焦虑型人格的真实表现",
+        "onboard_time": 1778500460,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 329880,
+        "num": 329880,
+        "word": "韩国男子入狱前重仓股票6年后翻402倍",
+        "onboard_time": 1778505444,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 165764,
+        "num": 329870,
+        "word": "腾讯客服称暂未支持访客记录查询",
+        "onboard_time": 1778507123,
+        "rank": 9,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1195197,
+        "num": 329748,
+        "word": "李连杰因患甲亢改变面容",
+        "onboard_time": 1778503943,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 764438,
+        "num": 329596,
+        "word": "沙溢瘦得都认不出来了",
+        "onboard_time": 1778488761,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 489026,
+        "num": 329513,
+        "word": "女孩演出完退礼服被商家曝光",
+        "onboard_time": 1778501541,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 549887,
+        "num": 329316,
+        "word": "蔡依林状态 九点睡觉的魔力",
+        "onboard_time": 1778502141,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 412767,
+        "num": 329199,
+        "word": "20岁女子生5斤多女儿才知怀孕",
+        "onboard_time": 1778502921,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 368804,
+        "num": 329099,
+        "word": "张凌赫爸妈给他送饭",
+        "onboard_time": 1778499679,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191846,
+        "num": 329028,
+        "word": "JDG首次晋级胜者组决赛",
+        "onboard_time": 1778509462,
+        "rank": 16,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 345146,
+        "num": 328934,
+        "word": "儿子高三脑出血妈妈十几年失去自我",
+        "onboard_time": 1778511742,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 328856,
+        "num": 328856,
+        "word": "夫妻吵架半岁婴儿被放外婆家门口",
+        "onboard_time": 1778509523,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 53362,
+        "num": 323716,
+        "word": "你脸上敷的嘴里吃的或含广东大蟑螂",
+        "onboard_time": 1778513720,
+        "rank": 19,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 322674,
+        "num": 322674,
+        "word": "章若楠走路姿势",
+        "onboard_time": 1778496981,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 298813,
+        "num": 298813,
+        "word": "吴京发文庆祝与谢楠结婚十四周年",
+        "onboard_time": 1778496200,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 255613,
+        "num": 287440,
+        "word": "A股史诗级爆发原因",
+        "onboard_time": 1778507245,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 281924,
+        "num": 281924,
+        "word": "王俊凯狄仁杰剧照",
+        "onboard_time": 1778505264,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 260357,
+        "num": 260357,
+        "word": "常石磊国乐无双发言",
+        "onboard_time": 1778510843,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 226301,
+        "num": 226301,
+        "word": "急救宣布老人死亡家属发现仍有呼吸",
+        "onboard_time": 1778500880,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 243043,
+        "num": 220528,
+        "word": "金在中称无法原谅亲生父亲",
+        "onboard_time": 1778506703,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199720,
+        "num": 199720,
+        "word": "1颗话梅129元有人泡水喝3天",
+        "onboard_time": 1778500880,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158522,
+        "num": 197301,
+        "word": "韩国涨怕了",
+        "onboard_time": 1778498841,
+        "rank": 28,
+        "category": "财经,国际时政"
+      },
+      {
+        "raw_hot": 81831,
+        "num": 195902,
+        "word": "官方通报服农药中毒老人救治情况",
+        "onboard_time": 1778512581,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 195889,
+        "num": 195889,
+        "word": "等风热吻你 宋祖儿宋威龙",
+        "onboard_time": 1778497341,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183735,
+        "num": 183735,
+        "word": "成年人的崩溃从父母生病开始",
+        "onboard_time": 1778498901,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 174928,
+        "num": 174928,
+        "word": "张凌赫我也没长大我们互相依赖吧",
+        "onboard_time": 1778508744,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173121,
+        "num": 173121,
+        "word": "主角",
+        "onboard_time": 1778501780,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128135,
+        "num": 165999,
+        "word": "瑜伽馆回应女子天天上课被踢出群",
+        "onboard_time": 1778495301,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161304,
+        "num": 161304,
+        "word": "单依纯说吴彤谨言慎行",
+        "onboard_time": 1778514021,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160708,
+        "num": 160708,
+        "word": "吕小雨回应一月暴瘦20斤",
+        "onboard_time": 1778510122,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122614,
+        "num": 160573,
+        "word": "老人有房有儿有存款住超市10年",
+        "onboard_time": 1778510784,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160565,
+        "num": 160565,
+        "word": "李兰迪说不会追求骨感",
+        "onboard_time": 1778510963,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158154,
+        "num": 158154,
+        "word": "优酷来了个全男综艺",
+        "onboard_time": 1778504962,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118348,
+        "num": 118348,
+        "word": "孙颖莎11350分女单世一",
+        "onboard_time": 1778498000,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 135160,
+        "num": 118248,
+        "word": "佳偶天成大结局",
+        "onboard_time": 1778498000,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121669,
+        "num": 117793,
+        "word": "中餐厅10",
+        "onboard_time": 1778492240,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116491,
+        "num": 116491,
+        "word": "法医刘良因家属送梨被告与人串通",
+        "onboard_time": 1778505742,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120074,
+        "num": 112130,
+        "word": "宋祖儿没少看AI水果短剧吧",
+        "onboard_time": 1778510902,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107662,
+        "num": 107662,
+        "word": "杨幂早期还是古早画风太太",
+        "onboard_time": 1778509283,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102578,
+        "num": 102578,
+        "word": "九尾 败者组",
+        "onboard_time": 1778513841,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 32868,
+        "num": 100148,
+        "word": "免费DeepSeek和收费豆包你选哪个",
+        "onboard_time": 1778489062,
+        "rank": 47,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 30182,
+        "num": 99803,
+        "word": "小米汽车销量跻身国产前五",
+        "onboard_time": 1778489900,
+        "rank": 48,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 102804,
+        "num": 99792,
+        "word": "蔡徐坤直播",
+        "onboard_time": 1778505022,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主席高度重视中美关系#"
+    }
+  }
+}

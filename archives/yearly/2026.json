@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1778502574232,
+  "endTime": 1778514345194,
   "band_list": [
     {
       "raw_hot": 46860992,
@@ -177,6 +177,14 @@
       "onboard_time": 1772329044,
       "rank": 0,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 14929156,
+      "num": 14929156,
+      "word": "微信状态 访客记录",
+      "onboard_time": 1778502381,
+      "rank": 22,
+      "category": "互联网"
     },
     {
       "raw_hot": 14888503,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1771254640,
       "rank": 5,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 2603317,
-      "num": 287004,
-      "word": "贺娇龙抢救无效不幸离世",
-      "onboard_time": 1768409658,
-      "rank": 13,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
