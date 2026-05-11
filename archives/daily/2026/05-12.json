@@ -1,6 +1,6 @@
 {
   "startTime": 1778515687163,
-  "endTime": 1778530550727,
+  "endTime": 1778532839046,
   "band_list": [
     {
       "raw_hot": 12278520,
@@ -171,6 +171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 208194,
+      "num": 94439,
+      "word": "微信公关总监曾回应访客功能",
+      "onboard_time": 1778526494,
+      "rank": 3,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 193240,
       "num": 193240,
       "word": "金在中称无法原谅亲生父亲",
@@ -225,14 +233,6 @@
       "onboard_time": 1778498901,
       "rank": 31,
       "category": "情感"
-    },
-    {
-      "raw_hot": 154767,
-      "num": 94439,
-      "word": "微信公关总监曾回应访客功能",
-      "onboard_time": 1778526494,
-      "rank": 3,
-      "category": "互联网"
     },
     {
       "raw_hot": 154392,
@@ -459,19 +459,19 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 43399,
+      "num": 38760,
+      "word": "四川叫震生的孩子今年18岁",
+      "onboard_time": 1778523974,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 39263,
       "num": 57556,
       "word": "汶川地震18周年纪念海报",
       "onboard_time": 1778521096,
       "rank": 38,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 38760,
-      "num": 38760,
-      "word": "四川叫震生的孩子今年18岁",
-      "onboard_time": 1778523974,
-      "rank": 26,
       "category": "民生新闻"
     },
     {
