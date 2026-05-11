@@ -1,0 +1,410 @@
+{
+  "runTime": 1778537690606,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 684550,
+        "num": 684550,
+        "word": "微信状态 访客记录",
+        "onboard_time": 1778502381,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 172620,
+        "num": 314647,
+        "word": "烫牛奶是善良的食物",
+        "onboard_time": 1778506645,
+        "rank": 1,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 6129,
+        "num": 243132,
+        "word": "2026互联中国公益行动",
+        "onboard_time": 1778502381,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 262179,
+        "num": 209483,
+        "word": "微信公关总监曾回应访客功能",
+        "onboard_time": 1778526494,
+        "rank": 3,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 158778,
+        "num": 158778,
+        "word": "吴彤直播道歉",
+        "onboard_time": 1778508324,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108656,
+        "num": 108656,
+        "word": "焦虑型人格的真实表现",
+        "onboard_time": 1778500460,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 77204,
+        "num": 77204,
+        "word": "你脸上敷的嘴里吃的或含广东大蟑螂",
+        "onboard_time": 1778513720,
+        "rank": 6,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 67197,
+        "num": 67197,
+        "word": "开榴莲开出三房榴莲糖",
+        "onboard_time": 1778494460,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 62861,
+        "num": 62861,
+        "word": "妈妈的日记里有一只1990年的蚊子",
+        "onboard_time": 1778518818,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 61085,
+        "num": 61085,
+        "word": "常石磊国乐无双发言",
+        "onboard_time": 1778510843,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 205776,
+        "num": 60963,
+        "word": "女孩演出完退礼服被商家曝光",
+        "onboard_time": 1778501541,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108401,
+        "num": 60902,
+        "word": "青海17岁失联高中女生遗体已找到",
+        "onboard_time": 1778514441,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85133,
+        "num": 60786,
+        "word": "儿子高三脑出血妈妈十几年失去自我",
+        "onboard_time": 1778511742,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 60566,
+        "num": 60566,
+        "word": "成年人的崩溃从父母生病开始",
+        "onboard_time": 1778498901,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 55825,
+        "num": 55825,
+        "word": "男子凌晨遭追打直奔武警营门求救",
+        "onboard_time": 1778515340,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 51899,
+        "num": 51899,
+        "word": "四川叫震生的孩子今年18岁",
+        "onboard_time": 1778523974,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 51202,
+        "num": 51202,
+        "word": "突然发现拼豆B26很像酸豆角",
+        "onboard_time": 1778518818,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 45017,
+        "num": 45017,
+        "word": "A股史诗级爆发原因",
+        "onboard_time": 1778507245,
+        "rank": 17,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 43400,
+        "num": 43400,
+        "word": "汶川地震18周年纪念海报",
+        "onboard_time": 1778521096,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37215,
+        "num": 37215,
+        "word": "马龙夏露晒伦敦同款情侣照",
+        "onboard_time": 1778499140,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 58774,
+        "num": 35765,
+        "word": "金银价格大涨",
+        "onboard_time": 1778526314,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 33479,
+        "num": 33479,
+        "word": "急救宣布老人死亡家属发现仍有呼吸",
+        "onboard_time": 1778500880,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33361,
+        "num": 33361,
+        "word": "老人有房有儿有存款住超市10年",
+        "onboard_time": 1778510784,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33104,
+        "num": 33104,
+        "word": "20岁女子生5斤多女儿才知怀孕",
+        "onboard_time": 1778502921,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31968,
+        "num": 31968,
+        "word": "法医刘良因家属送梨被告与人串通",
+        "onboard_time": 1778505742,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31877,
+        "num": 31877,
+        "word": "玉泽演尼坤已婚和未婚的区别",
+        "onboard_time": 1778495240,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 31527,
+        "num": 31527,
+        "word": "下次我就这样喝牛奶",
+        "onboard_time": 1778519955,
+        "rank": 26,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 31254,
+        "num": 31254,
+        "word": "张小斐新角色眼里全是野心",
+        "onboard_time": 1778529794,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 30217,
+        "num": 31119,
+        "word": "女子戒碳水狂减重吃出糖尿病前期",
+        "onboard_time": 1778518756,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 31116,
+        "num": 31116,
+        "word": "国际奥委会国际乒联盛赞国乒双冠卫冕",
+        "onboard_time": 1778534474,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 30515,
+        "num": 30515,
+        "word": "萨摩耶偷面包全过程",
+        "onboard_time": 1778520795,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 27214,
+        "num": 30510,
+        "word": "瑜伽馆回应女子天天上课被踢出群",
+        "onboard_time": 1778495301,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26756,
+        "num": 30508,
+        "word": "消防队炒菜放油太多冒浓烟被当失火",
+        "onboard_time": 1778514919,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26733,
+        "num": 30502,
+        "word": "12306回应动车卧铺加装床帘",
+        "onboard_time": 1778515701,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26435,
+        "num": 30494,
+        "word": "致敬重生的汶川",
+        "onboard_time": 1778523554,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25883,
+        "num": 30490,
+        "word": "优酷来了个全男综艺",
+        "onboard_time": 1778504962,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 25841,
+        "num": 30487,
+        "word": "佳偶天成大结局",
+        "onboard_time": 1778498000,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 25589,
+        "num": 30484,
+        "word": "单依纯说吴彤谨言慎行",
+        "onboard_time": 1778514021,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 25394,
+        "num": 30479,
+        "word": "时代少年团演唱会 青岛",
+        "onboard_time": 1778513121,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 25061,
+        "num": 30469,
+        "word": "加拿大温哥华发生一起离奇事故",
+        "onboard_time": 1778506401,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 24056,
+        "num": 30464,
+        "word": "主角",
+        "onboard_time": 1778501780,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 23623,
+        "num": 30460,
+        "word": "王俊凯狄仁杰剧照",
+        "onboard_time": 1778505264,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 22197,
+        "num": 30458,
+        "word": "1颗话梅129元有人泡水喝3天",
+        "onboard_time": 1778500880,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21967,
+        "num": 30451,
+        "word": "韩国涨怕了",
+        "onboard_time": 1778498841,
+        "rank": 43,
+        "category": "财经,国际时政"
+      },
+      {
+        "raw_hot": 21711,
+        "num": 30443,
+        "word": "孙颖莎11350分女单世一",
+        "onboard_time": 1778498000,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 18417,
+        "num": 30439,
+        "word": "少年歌行",
+        "onboard_time": 1778508263,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17494,
+        "num": 30434,
+        "word": "等风热吻你 宋祖儿宋威龙",
+        "onboard_time": 1778497341,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17288,
+        "num": 30430,
+        "word": "佳偶天成",
+        "onboard_time": 1778518877,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 14400,
+        "num": 30426,
+        "word": "JDG首次晋级胜者组决赛",
+        "onboard_time": 1778509462,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 13918,
+        "num": 30421,
+        "word": "腾讯客服称暂未支持访客记录查询",
+        "onboard_time": 1778507123,
+        "rank": 49,
+        "category": "互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主席高度重视中美关系#"
+    }
+  }
+}
