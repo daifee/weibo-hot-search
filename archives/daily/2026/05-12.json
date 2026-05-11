@@ -1,6 +1,6 @@
 {
   "startTime": 1778515687163,
-  "endTime": 1778523499586,
+  "endTime": 1778526206591,
   "band_list": [
     {
       "raw_hot": 12278520,
@@ -259,20 +259,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 147750,
+      "num": 147750,
+      "word": "突然发现拼豆B26很像酸豆角",
+      "onboard_time": 1778518818,
+      "rank": 4,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 143007,
       "num": 143007,
       "word": "优酷来了个全男综艺",
       "onboard_time": 1778504962,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 141222,
-      "num": 141222,
-      "word": "突然发现拼豆B26很像酸豆角",
-      "onboard_time": 1778518818,
-      "rank": 4,
-      "category": "幽默"
     },
     {
       "raw_hot": 139943,
@@ -404,7 +404,7 @@
     },
     {
       "raw_hot": 57668,
-      "num": 57668,
+      "num": 77673,
       "word": "妈妈的日记里有一只1990年的蚊子",
       "onboard_time": 1778518818,
       "rank": 20,
@@ -459,6 +459,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 38760,
+      "num": 38760,
+      "word": "四川叫震生的孩子今年18岁",
+      "onboard_time": 1778523974,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 36157,
       "num": 57545,
       "word": "马龙夏露晒伦敦同款情侣照",
@@ -481,6 +489,14 @@
       "onboard_time": 1778500160,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 30864,
+      "num": 38731,
+      "word": "JDG对战LGDNBW",
+      "onboard_time": 1778502022,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 28371,
@@ -513,6 +529,14 @@
       "onboard_time": 1778493801,
       "rank": 49,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 21229,
+      "num": 38726,
+      "word": "致敬重生的汶川",
+      "onboard_time": 1778523554,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 9507,
