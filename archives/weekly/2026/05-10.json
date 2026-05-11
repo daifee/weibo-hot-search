@@ -1,6 +1,6 @@
 {
   "startTime": 1778342585344,
-  "endTime": 1778501942084,
+  "endTime": 1778502574232,
   "band_list": [
     {
       "raw_hot": 19315463,
@@ -436,7 +436,7 @@
     },
     {
       "raw_hot": 1175316,
-      "num": 261905,
+      "num": 279235,
       "word": "汶川地震一个班幸存的11人不敢相聚",
       "onboard_time": 1778496141,
       "rank": 16,
@@ -516,7 +516,7 @@
     },
     {
       "raw_hot": 980537,
-      "num": 271756,
+      "num": 287550,
       "word": "吴京发文庆祝与谢楠结婚十四周年",
       "onboard_time": 1778496200,
       "rank": 10,
@@ -524,7 +524,7 @@
     },
     {
       "raw_hot": 971996,
-      "num": 270882,
+      "num": 288877,
       "word": "沙溢瘦得都认不出来了",
       "onboard_time": 1778488761,
       "rank": 38,
@@ -812,7 +812,7 @@
     },
     {
       "raw_hot": 681708,
-      "num": 269308,
+      "num": 286940,
       "word": "韩国涨怕了",
       "onboard_time": 1778498841,
       "rank": 12,
@@ -955,6 +955,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 577371,
+      "num": 1092379,
+      "word": "孙颖莎11350分女单世一",
+      "onboard_time": 1778498000,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 572109,
       "num": 400413,
       "word": "公司欠债倒闭五只猫咪员工被法拍",
@@ -969,14 +977,6 @@
       "onboard_time": 1778474061,
       "rank": 15,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 567841,
-      "num": 1090854,
-      "word": "孙颖莎11350分女单世一",
-      "onboard_time": 1778498000,
-      "rank": 0,
-      "category": "体育"
     },
     {
       "raw_hot": 567098,
@@ -1041,6 +1041,14 @@
       "onboard_time": 1778406381,
       "rank": 14,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 535479,
+      "num": 817116,
+      "word": "急救宣布老人死亡家属发现仍有呼吸",
+      "onboard_time": 1778500880,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 531575,
@@ -1131,20 +1139,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 498350,
+      "num": 285622,
+      "word": "章若楠走路姿势",
+      "onboard_time": 1778496981,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 497500,
       "num": 497500,
       "word": "母亲节红包",
       "onboard_time": 1778371279,
       "rank": 22,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 497485,
-      "num": 265227,
-      "word": "章若楠走路姿势",
-      "onboard_time": 1778496981,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 494256,
@@ -1243,12 +1251,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 461745,
+      "num": 285063,
+      "word": "张凌赫爸妈给他送饭",
+      "onboard_time": 1778499679,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 460944,
       "num": 460944,
       "word": "涉疫邮轮上唯一一名医生也感染了",
       "onboard_time": 1778382381,
       "rank": 8,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 460130,
+      "num": 283778,
+      "word": "成年人的崩溃从父母生病开始",
+      "onboard_time": 1778498901,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 459084,
@@ -1459,14 +1483,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 378570,
-      "num": 263073,
-      "word": "张凌赫爸妈给他送饭",
-      "onboard_time": 1778499679,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 370735,
       "num": 329771,
       "word": "沈梦辰理想型张凌赫嫁给杜海涛",
@@ -1489,22 +1505,6 @@
       "onboard_time": 1778459661,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 358228,
-      "num": 791660,
-      "word": "急救宣布老人死亡家属发现仍有呼吸",
-      "onboard_time": 1778500880,
-      "rank": 1,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 358135,
-      "num": 253633,
-      "word": "成年人的崩溃从父母生病开始",
-      "onboard_time": 1778498901,
-      "rank": 20,
-      "category": "情感"
     },
     {
       "raw_hot": 355205,
@@ -1619,8 +1619,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 342063,
-      "num": 251625,
+      "raw_hot": 342391,
+      "num": 277615,
       "word": "中餐厅10",
       "onboard_time": 1778492240,
       "rank": 21,
@@ -1772,7 +1772,7 @@
     },
     {
       "raw_hot": 305182,
-      "num": 250730,
+      "num": 293048,
       "word": "国乐无双直播",
       "onboard_time": 1778494941,
       "rank": 22,
@@ -1940,7 +1940,7 @@
     },
     {
       "raw_hot": 278535,
-      "num": 278535,
+      "num": 290160,
       "word": "女子离婚多年被判共还前夫百万欠债",
       "onboard_time": 1778488400,
       "rank": 19,
@@ -1961,6 +1961,14 @@
       "onboard_time": 1778474120,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 277111,
+      "num": 277111,
+      "word": "微信状态 访客记录",
+      "onboard_time": 1778502381,
+      "rank": 22,
+      "category": "互联网"
     },
     {
       "raw_hot": 276997,
@@ -2123,6 +2131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 249214,
+      "num": 249214,
+      "word": "瑜伽馆回应女子天天上课被踢出群",
+      "onboard_time": 1778495301,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 248401,
       "num": 496742,
       "word": "何猷君关联公司近7亿元三亚拿地",
@@ -2169,6 +2185,14 @@
       "onboard_time": 1778368877,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 241102,
+      "num": 241102,
+      "word": "张慧雯因肠胃炎去急诊",
+      "onboard_time": 1778497100,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 239854,
@@ -2259,14 +2283,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 230000,
-      "num": 230000,
-      "word": "瑜伽馆回应女子天天上课被踢出群",
-      "onboard_time": 1778495301,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 229972,
       "num": 323374,
       "word": "杭州多个街道被MIUMIU限购",
@@ -2281,6 +2297,14 @@
       "onboard_time": 1778343020,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 228863,
+      "num": 228863,
+      "word": "女孩演出完退礼服被商家曝光",
+      "onboard_time": 1778501541,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 226173,
@@ -2299,12 +2323,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 225626,
+      "num": 220607,
+      "word": "马龙夏露晒伦敦同款情侣照",
+      "onboard_time": 1778499140,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 222285,
       "num": 211394,
       "word": "女子遭8年爱人背叛哭到呼吸碱中毒",
       "onboard_time": 1778343260,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 219833,
+      "num": 219833,
+      "word": "NMIXX和aespaMelon新歌空降成绩",
+      "onboard_time": 1778501661,
+      "rank": 41,
+      "category": "音乐"
     },
     {
       "raw_hot": 218594,
@@ -2323,6 +2363,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 218221,
+      "num": 218221,
+      "word": "JDG对战LGDNBW",
+      "onboard_time": 1778502022,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 218053,
       "num": 218053,
       "word": "尼坤宋茜曾被称为南韩颜霸cp",
@@ -2336,14 +2384,6 @@
       "word": "世乒赛收视率破8",
       "onboard_time": 1778430979,
       "rank": 23,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 216393,
-      "num": 216393,
-      "word": "马龙夏露晒伦敦同款情侣照",
-      "onboard_time": 1778499140,
-      "rank": 28,
       "category": "体育"
     },
     {
@@ -2419,12 +2459,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 210409,
-      "num": 210409,
-      "word": "张慧雯因肠胃炎去急诊",
-      "onboard_time": 1778497100,
-      "rank": 29,
-      "category": "艺人"
+      "raw_hot": 211841,
+      "num": 211841,
+      "word": "玉泽演尼坤已婚和未婚的区别",
+      "onboard_time": 1778495240,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 208566,
+      "num": 208566,
+      "word": "17岁失联女生家属回应已找到遗体",
+      "onboard_time": 1778497341,
+      "rank": 40,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 208172,
@@ -2459,14 +2507,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 206317,
-      "num": 206317,
-      "word": "玉泽演尼坤已婚和未婚的区别",
-      "onboard_time": 1778495240,
-      "rank": 30,
-      "category": "演出"
-    },
-    {
       "raw_hot": 205819,
       "num": 421463,
       "word": "国际乒联发布中国女团夺冠海报",
@@ -2492,7 +2532,7 @@
     },
     {
       "raw_hot": 200155,
-      "num": 274959,
+      "num": 292093,
       "word": "中国将发射20万颗卫星",
       "onboard_time": 1778493801,
       "rank": 9,
@@ -2571,6 +2611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 189016,
+      "num": 189016,
+      "word": "焦虑型人格的真实表现",
+      "onboard_time": 1778500460,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 188825,
       "num": 234046,
       "word": "狩谎",
@@ -2627,20 +2675,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 184509,
-      "num": 184509,
-      "word": "女孩演出完退礼服被商家曝光",
-      "onboard_time": 1778501541,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 184382,
       "num": 184382,
       "word": "刘雨昕离了王濛发现外面根本没雨",
       "onboard_time": 1778383099,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 184320,
+      "num": 184320,
+      "word": "佳偶天成大结局",
+      "onboard_time": 1778498000,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 182697,
@@ -2707,28 +2755,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 177952,
-      "num": 177952,
-      "word": "佳偶天成大结局",
-      "onboard_time": 1778498000,
-      "rank": 34,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 177159,
       "num": 3660464,
       "word": "中国潜水器发现深海生命绿洲",
       "onboard_time": 1778406440,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 176444,
-      "num": 176444,
-      "word": "焦虑型人格的真实表现",
-      "onboard_time": 1778500460,
-      "rank": 35,
-      "category": "情感"
     },
     {
       "raw_hot": 175644,
@@ -2835,6 +2867,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 171895,
+      "num": 171895,
+      "word": "蔡依林状态 九点睡觉的魔力",
+      "onboard_time": 1778502141,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 171250,
       "num": 185086,
       "word": "孙颖莎把早田希娜打到趴台上无奈笑",
@@ -2843,12 +2883,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 170607,
-      "num": 170607,
-      "word": "17岁失联女生家属回应已找到遗体",
-      "onboard_time": 1778497341,
-      "rank": 40,
-      "category": "突发/灾害"
+      "raw_hot": 171235,
+      "num": 171235,
+      "word": "权志龙rap",
+      "onboard_time": 1778500280,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 170229,
@@ -2857,14 +2897,6 @@
       "onboard_time": 1778470581,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 169648,
-      "num": 169648,
-      "word": "NMIXX和aespaMelon新歌空降成绩",
-      "onboard_time": 1778501661,
-      "rank": 41,
-      "category": "音乐"
     },
     {
       "raw_hot": 167163,
@@ -2897,6 +2929,14 @@
       "onboard_time": 1778409140,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 161812,
+      "num": 258303,
+      "word": "1颗话梅129元有人泡水喝3天",
+      "onboard_time": 1778500880,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 161318,
@@ -2963,19 +3003,19 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 153568,
+      "num": 175682,
+      "word": "陈奕恒 啥玩意这是",
+      "onboard_time": 1778496800,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 152070,
       "num": 204234,
       "word": "17岁的张桂源",
       "onboard_time": 1778454018,
       "rank": 36,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 149991,
-      "num": 149991,
-      "word": "权志龙rap",
-      "onboard_time": 1778500280,
-      "rank": 44,
       "category": "艺人"
     },
     {
@@ -3003,20 +3043,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 145586,
+      "num": 145586,
+      "word": "妈妈回应女儿误把150斤卤菜洒一地",
+      "onboard_time": 1778497400,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 144121,
       "num": 102106,
       "word": "王皓暖心安慰林诗栋",
       "onboard_time": 1778371398,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 143924,
-      "num": 175682,
-      "word": "陈奕恒 啥玩意这是",
-      "onboard_time": 1778496800,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 143584,
@@ -3147,20 +3187,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 128084,
+      "num": 291545,
+      "word": "汶川地震18周年",
+      "onboard_time": 1778501961,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 128045,
       "num": 348634,
       "word": "刘浩存陈都灵什么时候认识",
       "onboard_time": 1778409560,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 127080,
-      "num": 127080,
-      "word": "妈妈回应女儿误把150斤卤菜洒一地",
-      "onboard_time": 1778497400,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 124450,
@@ -3427,20 +3467,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 83626,
+      "num": 200301,
+      "word": "刘晓庆照片被刻意修很多皱纹",
+      "onboard_time": 1778501961,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 83278,
       "num": 230284,
       "word": "AI 掠夺水资源",
       "onboard_time": 1778475741,
       "rank": 26,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 82894,
-      "num": 258303,
-      "word": "1颗话梅129元有人泡水喝3天",
-      "onboard_time": 1778500880,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 79668,
@@ -3473,6 +3513,14 @@
       "onboard_time": 1778437215,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 76161,
+      "num": 222752,
+      "word": "京沪高铁部分动车组列车涨价20%",
+      "onboard_time": 1778502381,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 75173,
@@ -3923,6 +3971,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 38639,
+      "num": 279537,
+      "word": "白敬亭包梯含鸽量百分百",
+      "onboard_time": 1778501541,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 38135,
       "num": 55818,
       "word": "伦敦赛场再奏义勇军进行曲",
@@ -4001,14 +4057,6 @@
       "onboard_time": 1778454018,
       "rank": 19,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 32910,
-      "num": 258964,
-      "word": "白敬亭包梯含鸽量百分百",
-      "onboard_time": 1778501541,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 32304,
@@ -4251,6 +4299,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 13418,
+      "num": 738847,
+      "word": "2026互联中国公益行动",
+      "onboard_time": 1778502381,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 12154,
       "num": 110086,
       "word": "母亲节C罗催泪发文",
@@ -4297,6 +4353,14 @@
       "onboard_time": 1778407281,
       "rank": 37,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 5976,
+      "num": 198420,
+      "word": "美国政府派人寻找UFO目击者",
+      "onboard_time": 1778502141,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 3237,

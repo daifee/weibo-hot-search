@@ -1,0 +1,410 @@
+{
+  "runTime": 1778502574232,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 577371,
+        "num": 1092379,
+        "word": "孙颖莎11350分女单世一",
+        "onboard_time": 1778498000,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 535479,
+        "num": 817116,
+        "word": "急救宣布老人死亡家属发现仍有呼吸",
+        "onboard_time": 1778500880,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13418,
+        "num": 738847,
+        "word": "2026互联中国公益行动",
+        "onboard_time": 1778502381,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 853992,
+        "num": 730485,
+        "word": "开榴莲开出三房榴莲糖",
+        "onboard_time": 1778494460,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 689701,
+        "num": 689701,
+        "word": "等风热吻你 宋祖儿宋威龙",
+        "onboard_time": 1778497341,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 315952,
+        "num": 315952,
+        "word": "唐艺昕的妆像当年郑恺化的",
+        "onboard_time": 1778487320,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 252529,
+        "num": 299854,
+        "word": "雪糕是糖油混合物具象化了",
+        "onboard_time": 1778476041,
+        "rank": 6,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 293048,
+        "num": 293048,
+        "word": "国乐无双直播",
+        "onboard_time": 1778494941,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179729,
+        "num": 292093,
+        "word": "中国将发射20万颗卫星",
+        "onboard_time": 1778493801,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128084,
+        "num": 291545,
+        "word": "汶川地震18周年",
+        "onboard_time": 1778501961,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 252371,
+        "num": 290160,
+        "word": "女子离婚多年被判共还前夫百万欠债",
+        "onboard_time": 1778488400,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 941734,
+        "num": 288877,
+        "word": "沙溢瘦得都认不出来了",
+        "onboard_time": 1778488761,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 907941,
+        "num": 287550,
+        "word": "吴京发文庆祝与谢楠结婚十四周年",
+        "onboard_time": 1778496200,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 541095,
+        "num": 286940,
+        "word": "韩国涨怕了",
+        "onboard_time": 1778498841,
+        "rank": 13,
+        "category": "财经,国际时政"
+      },
+      {
+        "raw_hot": 498350,
+        "num": 285622,
+        "word": "章若楠走路姿势",
+        "onboard_time": 1778496981,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 461745,
+        "num": 285063,
+        "word": "张凌赫爸妈给他送饭",
+        "onboard_time": 1778499679,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 460130,
+        "num": 283778,
+        "word": "成年人的崩溃从父母生病开始",
+        "onboard_time": 1778498901,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 55583,
+        "num": 282171,
+        "word": "一图读懂家庭应急物资该备什么",
+        "onboard_time": 1778485999,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 425799,
+        "num": 280629,
+        "word": "主角",
+        "onboard_time": 1778501780,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 38639,
+        "num": 279537,
+        "word": "白敬亭包梯含鸽量百分百",
+        "onboard_time": 1778501541,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 878157,
+        "num": 279235,
+        "word": "汶川地震一个班幸存的11人不敢相聚",
+        "onboard_time": 1778496141,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 342391,
+        "num": 277615,
+        "word": "中餐厅10",
+        "onboard_time": 1778492240,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 277111,
+        "num": 277111,
+        "word": "微信状态 访客记录",
+        "onboard_time": 1778502381,
+        "rank": 22,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 258874,
+        "num": 258874,
+        "word": "低智商犯罪",
+        "onboard_time": 1778494340,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 249214,
+        "num": 249214,
+        "word": "瑜伽馆回应女子天天上课被踢出群",
+        "onboard_time": 1778495301,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 241102,
+        "num": 241102,
+        "word": "张慧雯因肠胃炎去急诊",
+        "onboard_time": 1778497100,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 239627,
+        "num": 239627,
+        "word": "樊振东带动乒乓球联赛全球化",
+        "onboard_time": 1778501842,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 234089,
+        "num": 234089,
+        "word": "齐豫 歌手2026",
+        "onboard_time": 1778493561,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 228863,
+        "num": 228863,
+        "word": "女孩演出完退礼服被商家曝光",
+        "onboard_time": 1778501541,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101615,
+        "num": 227336,
+        "word": "A股进入牛市下半场",
+        "onboard_time": 1778480899,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 227144,
+        "num": 227144,
+        "word": "宋亚轩体制内老公",
+        "onboard_time": 1778500160,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 76161,
+        "num": 222752,
+        "word": "京沪高铁部分动车组列车涨价20%",
+        "onboard_time": 1778502381,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 220766,
+        "num": 220766,
+        "word": "中方决定不同意台湾地区参加世卫大会",
+        "onboard_time": 1778487921,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 225626,
+        "num": 220607,
+        "word": "马龙夏露晒伦敦同款情侣照",
+        "onboard_time": 1778499140,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 219833,
+        "num": 219833,
+        "word": "NMIXX和aespaMelon新歌空降成绩",
+        "onboard_time": 1778501661,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 218221,
+        "num": 218221,
+        "word": "JDG对战LGDNBW",
+        "onboard_time": 1778502022,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 211841,
+        "num": 211841,
+        "word": "玉泽演尼坤已婚和未婚的区别",
+        "onboard_time": 1778495240,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 208566,
+        "num": 208566,
+        "word": "17岁失联女生家属回应已找到遗体",
+        "onboard_time": 1778497341,
+        "rank": 37,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 83626,
+        "num": 200301,
+        "word": "刘晓庆照片被刻意修很多皱纹",
+        "onboard_time": 1778501961,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 5976,
+        "num": 198420,
+        "word": "美国政府派人寻找UFO目击者",
+        "onboard_time": 1778502141,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 197785,
+        "num": 197785,
+        "word": "藏海传",
+        "onboard_time": 1778496921,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189016,
+        "num": 189016,
+        "word": "焦虑型人格的真实表现",
+        "onboard_time": 1778500460,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 184320,
+        "num": 184320,
+        "word": "佳偶天成大结局",
+        "onboard_time": 1778498000,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171895,
+        "num": 171895,
+        "word": "蔡依林状态 九点睡觉的魔力",
+        "onboard_time": 1778502141,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161812,
+        "num": 171310,
+        "word": "1颗话梅129元有人泡水喝3天",
+        "onboard_time": 1778500880,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 171235,
+        "num": 171235,
+        "word": "权志龙rap",
+        "onboard_time": 1778500280,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162680,
+        "num": 162680,
+        "word": "aespa空降成绩",
+        "onboard_time": 1778494759,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 151230,
+        "num": 151230,
+        "word": "梁靖崑夺冠后回复妻子打错字",
+        "onboard_time": 1778486180,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 153568,
+        "num": 149373,
+        "word": "陈奕恒 啥玩意这是",
+        "onboard_time": 1778496800,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145586,
+        "num": 145586,
+        "word": "妈妈回应女儿误把150斤卤菜洒一地",
+        "onboard_time": 1778497400,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平谈中美关系#"
+    }
+  }
+}
