@@ -1,6 +1,6 @@
 {
   "startTime": 1778342585344,
-  "endTime": 1778532839046,
+  "endTime": 1778536242733,
   "band_list": [
     {
       "raw_hot": 19315463,
@@ -2043,6 +2043,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 280780,
+      "num": 153365,
+      "word": "微信公关总监曾回应访客功能",
+      "onboard_time": 1778526494,
+      "rank": 3,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 279726,
       "num": 279726,
       "word": "嫁金钗",
@@ -2593,14 +2601,6 @@
       "onboard_time": 1778497341,
       "rank": 40,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 208194,
-      "num": 94439,
-      "word": "微信公关总监曾回应访客功能",
-      "onboard_time": 1778526494,
-      "rank": 3,
-      "category": "互联网"
     },
     {
       "raw_hot": 208172,
@@ -3875,6 +3875,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 65386,
+      "num": 49939,
+      "word": "四川叫震生的孩子今年18岁",
+      "onboard_time": 1778523974,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 65012,
       "num": 2313889,
       "word": "一句句妈妈听哭了",
@@ -4251,14 +4259,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 43399,
-      "num": 38760,
-      "word": "四川叫震生的孩子今年18岁",
-      "onboard_time": 1778523974,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 42262,
       "num": 199700,
       "word": "邓超给鹿晗撒饭",
@@ -4459,6 +4459,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 28163,
+      "num": 38726,
+      "word": "致敬重生的汶川",
+      "onboard_time": 1778523554,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 28119,
       "num": 193788,
       "word": "211毕业当保安当事人再发声",
@@ -4481,14 +4489,6 @@
       "onboard_time": 1778396539,
       "rank": 9,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 27547,
-      "num": 38726,
-      "word": "致敬重生的汶川",
-      "onboard_time": 1778523554,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 26893,
@@ -4529,6 +4529,14 @@
       "onboard_time": 1778511324,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 24035,
+      "num": 24035,
+      "word": "加拿大温哥华发生一起离奇事故",
+      "onboard_time": 1778506401,
+      "rank": 43,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 23865,
@@ -4611,20 +4619,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 17744,
-      "num": 23260,
-      "word": "加拿大温哥华发生一起离奇事故",
-      "onboard_time": 1778506401,
-      "rank": 43,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 17478,
+      "raw_hot": 18330,
       "num": 23260,
       "word": "张小斐新角色眼里全是野心",
       "onboard_time": 1778529794,
       "rank": 44,
       "category": "电影"
+    },
+    {
+      "raw_hot": 18050,
+      "num": 23013,
+      "word": "国际奥委会国际乒联盛赞国乒双冠卫冕",
+      "onboard_time": 1778534474,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 16932,
