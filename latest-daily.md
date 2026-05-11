@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/05/12 00:08:07 ~ 2026/05/12 03:03:26
+本榜单时间：2026/05/12 00:08:07 ~ 2026/05/12 04:15:50
 </p>
 </blockquote>
 <p>
@@ -179,6 +179,12 @@ A股史诗级爆发原因（热度：224393）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E5%B9%B4%E4%BA%BA%E7%9A%84%E5%B4%A9%E6%BA%83%E4%BB%8E%E7%88%B6%E6%AF%8D%E7%94%9F%E7%97%85%E5%BC%80%E5%A7%8B%23" target="weibo">
 成年人的崩溃从父母生病开始（热度：156835）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%E5%85%AC%E5%85%B3%E6%80%BB%E7%9B%91%E6%9B%BE%E5%9B%9E%E5%BA%94%E8%AE%BF%E5%AE%A2%E5%8A%9F%E8%83%BD%23" target="weibo">
+微信公关总监曾回应访客功能（热度：154767）
 </a>
 </li>
 
@@ -369,6 +375,12 @@ JDG首次晋级胜者组决赛（热度：150877）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E9%93%B6%E4%BB%B7%E6%A0%BC%E5%A4%A7%E6%B6%A8%23" target="weibo">
+金银价格大涨（热度：35422）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%B3%E5%81%B6%E5%A4%A9%E6%88%90%23" target="weibo">
 佳偶天成（热度：32329）
 </a>
@@ -393,6 +405,12 @@ JDG对战LGDNBW（热度：30864）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%87%B4%E6%95%AC%E9%87%8D%E7%94%9F%E7%9A%84%E6%B1%B6%E5%B7%9D%23" target="weibo">
+致敬重生的汶川（热度：27547）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%86%B3%E5%AE%9A%E4%B8%8D%E5%90%8C%E6%84%8F%E5%8F%B0%E6%B9%BE%E5%9C%B0%E5%8C%BA%E5%8F%82%E5%8A%A0%E4%B8%96%E5%8D%AB%E5%A4%A7%E4%BC%9A%23" target="weibo">
 中方决定不同意台湾地区参加世卫大会（热度：26749）
 </a>
@@ -411,8 +429,14 @@ JDG对战LGDNBW（热度：30864）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%87%B4%E6%95%AC%E9%87%8D%E7%94%9F%E7%9A%84%E6%B1%B6%E5%B7%9D%23" target="weibo">
-致敬重生的汶川（热度：21229）
+<a href="https://s.weibo.com/weibo?q=%23%E5%8A%A0%E6%8B%BF%E5%A4%A7%E6%B8%A9%E5%93%A5%E5%8D%8E%E5%8F%91%E7%94%9F%E4%B8%80%E8%B5%B7%E7%A6%BB%E5%A5%87%E4%BA%8B%E6%95%85%23" target="weibo">
+加拿大温哥华发生一起离奇事故（热度：17744）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%B0%8F%E6%96%90%E6%96%B0%E8%A7%92%E8%89%B2%E7%9C%BC%E9%87%8C%E5%85%A8%E6%98%AF%E9%87%8E%E5%BF%83%23" target="weibo">
+张小斐新角色眼里全是野心（热度：17478）
 </a>
 </li>
 

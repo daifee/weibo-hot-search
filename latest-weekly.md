@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/05/10 00:03:05 ~ 2026/05/12 03:03:26
+本榜单时间：2026/05/10 00:03:05 ~ 2026/05/12 04:15:50
 </p>
 </blockquote>
 <p>
@@ -2379,6 +2379,12 @@ DeepSeek被曝融资500亿（热度：161318）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%E5%85%AC%E5%85%B3%E6%80%BB%E7%9B%91%E6%9B%BE%E5%9B%9E%E5%BA%94%E8%AE%BF%E5%AE%A2%E5%8A%9F%E8%83%BD%23" target="weibo">
+微信公关总监曾回应访客功能（热度：154767）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E8%A1%80%E7%B3%96%E5%8F%98%E5%8C%96%E4%BC%9A%E5%B8%A6%E6%9D%A5%E5%B7%A8%E5%A4%A7%E7%9A%84%E9%A5%A5%E9%A5%BF%E6%84%9F%23" target="weibo">
 原来血糖变化会带来巨大的饥饿感（热度：154179）
 </a>
@@ -3369,6 +3375,12 @@ DeepSeek估值直冲3500亿（热度：43518）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%87%B4%E6%95%AC%E9%87%8D%E7%94%9F%E7%9A%84%E6%B1%B6%E5%B7%9D%23" target="weibo">
+致敬重生的汶川（热度：27547）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%B9%92%E4%B8%80%E6%99%9A%E5%8F%8C%E5%86%A0%23" target="weibo">
 国乒一晚双冠（热度：26893）
 </a>
@@ -3435,12 +3447,6 @@ ZmjjKK我不在乎对手是谁（热度：22479）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%87%B4%E6%95%AC%E9%87%8D%E7%94%9F%E7%9A%84%E6%B1%B6%E5%B7%9D%23" target="weibo">
-致敬重生的汶川（热度：21229）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%AA%E7%A9%BA%E5%BF%AB%E9%80%92%E8%B7%91%E5%87%BA%E4%B8%AD%E5%9B%BD%E5%8A%A0%E9%80%9F%E5%BA%A6%23" target="weibo">
 太空快递跑出中国加速度（热度：20360）
 </a>
@@ -3461,6 +3467,18 @@ ZmjjKK我不在乎对手是谁（热度：22479）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%AE%B6%E4%BC%81%E4%B8%9A%E4%BB%A5%E4%B8%9C%E5%B0%BC%E9%80%A0%E5%9E%8B%E5%91%BD%E5%90%8D%23" target="weibo">
 多家企业以东尼造型命名（热度：19301）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8A%A0%E6%8B%BF%E5%A4%A7%E6%B8%A9%E5%93%A5%E5%8D%8E%E5%8F%91%E7%94%9F%E4%B8%80%E8%B5%B7%E7%A6%BB%E5%A5%87%E4%BA%8B%E6%95%85%23" target="weibo">
+加拿大温哥华发生一起离奇事故（热度：17744）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%B0%8F%E6%96%90%E6%96%B0%E8%A7%92%E8%89%B2%E7%9C%BC%E9%87%8C%E5%85%A8%E6%98%AF%E9%87%8E%E5%BF%83%23" target="weibo">
+张小斐新角色眼里全是野心（热度：17478）
 </a>
 </li>
 

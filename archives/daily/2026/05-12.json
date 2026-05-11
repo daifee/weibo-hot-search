@@ -1,6 +1,6 @@
 {
   "startTime": 1778515687163,
-  "endTime": 1778526206591,
+  "endTime": 1778530550727,
   "band_list": [
     {
       "raw_hot": 12278520,
@@ -225,6 +225,14 @@
       "onboard_time": 1778498901,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 154767,
+      "num": 94439,
+      "word": "微信公关总监曾回应访客功能",
+      "onboard_time": 1778526494,
+      "rank": 3,
+      "category": "互联网"
     },
     {
       "raw_hot": 154392,
@@ -475,6 +483,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 35422,
+      "num": 30693,
+      "word": "金银价格大涨",
+      "onboard_time": 1778526314,
+      "rank": 20,
+      "category": "财经"
+    },
+    {
       "raw_hot": 32329,
       "num": 57524,
       "word": "佳偶天成",
@@ -507,6 +523,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 27547,
+      "num": 38726,
+      "word": "致敬重生的汶川",
+      "onboard_time": 1778523554,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 26749,
       "num": 57580,
       "word": "中方决定不同意台湾地区参加世卫大会",
@@ -531,12 +555,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 21229,
-      "num": 38726,
-      "word": "致敬重生的汶川",
-      "onboard_time": 1778523554,
-      "rank": 47,
-      "category": "民生新闻"
+      "raw_hot": 17744,
+      "num": 23260,
+      "word": "加拿大温哥华发生一起离奇事故",
+      "onboard_time": 1778506401,
+      "rank": 43,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 17478,
+      "num": 23260,
+      "word": "张小斐新角色眼里全是野心",
+      "onboard_time": 1778529794,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 9507,
