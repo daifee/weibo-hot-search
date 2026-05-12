@@ -1,6 +1,6 @@
 {
   "startTime": 1778342585344,
-  "endTime": 1778610207243,
+  "endTime": 1778612614987,
   "band_list": [
     {
       "raw_hot": 19315463,
@@ -6403,6 +6403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 26000,
+      "num": 26000,
+      "word": "第一次看到金丝楠木狗",
+      "onboard_time": 1778610975,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 25417,
       "num": 57502,
       "word": "上海诞生新币王身价5083万",
@@ -6433,6 +6441,14 @@
       "onboard_time": 1778592321,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 23011,
+      "num": 25999,
+      "word": "钟意镜MVP",
+      "onboard_time": 1778610855,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 22479,
@@ -6521,6 +6537,14 @@
       "onboard_time": 1778473702,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 19121,
+      "num": 25996,
+      "word": "夏天首次开空调要注意什么",
+      "onboard_time": 1778596462,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 16932,
