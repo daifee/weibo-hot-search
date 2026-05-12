@@ -1,6 +1,6 @@
 {
   "startTime": 1778342585344,
-  "endTime": 1778592073999,
+  "endTime": 1778601635166,
   "band_list": [
     {
       "raw_hot": 19315463,
@@ -156,7 +156,7 @@
     },
     {
       "raw_hot": 2460654,
-      "num": 618089,
+      "num": 913739,
       "word": "白鹿演唱会过审",
       "onboard_time": 1778585960,
       "rank": 3,
@@ -284,11 +284,19 @@
     },
     {
       "raw_hot": 1694789,
-      "num": 344770,
+      "num": 503149,
       "word": "汪涵有多爱吃槟榔",
       "onboard_time": 1778583560,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1694167,
+      "num": 1694167,
+      "word": "特朗普访华",
+      "onboard_time": 1778596462,
+      "rank": 0,
+      "category": "国际时政"
     },
     {
       "raw_hot": 1686373,
@@ -348,7 +356,7 @@
     },
     {
       "raw_hot": 1577973,
-      "num": 329683,
+      "num": 431086,
       "word": "曝某升咖艺人想抢李宇春跨年压轴",
       "onboard_time": 1778590580,
       "rank": 20,
@@ -444,7 +452,7 @@
     },
     {
       "raw_hot": 1454493,
-      "num": 611752,
+      "num": 706207,
       "word": "下午休是性价比最高的半天假",
       "onboard_time": 1778588482,
       "rank": 4,
@@ -465,6 +473,14 @@
       "onboard_time": 1778401100,
       "rank": 3,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1424530,
+      "num": 907963,
+      "word": "AG战胜狼队",
+      "onboard_time": 1778600061,
+      "rank": 4,
+      "category": "电竞"
     },
     {
       "raw_hot": 1417996,
@@ -723,6 +739,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1004296,
+      "num": 500426,
+      "word": "李昀锐工作室点赞廖慧佳",
+      "onboard_time": 1778597181,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 980537,
       "num": 315619,
       "word": "吴京发文庆祝与谢楠结婚十四周年",
@@ -867,6 +891,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 889701,
+      "num": 889701,
+      "word": "南审通报男子偷拍事件",
+      "onboard_time": 1778599642,
+      "rank": 5,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 889414,
       "num": 889414,
       "word": "空调 霉菌",
@@ -987,12 +1019,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 802959,
+      "num": 802959,
+      "word": "清清 一直送",
+      "onboard_time": 1778595683,
+      "rank": 6,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 800731,
       "num": 632105,
       "word": "少年歌行2等了四年终于开拍",
       "onboard_time": 1778472141,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 788277,
+      "num": 499330,
+      "word": "曝限薪令前顶流1.8亿片酬",
+      "onboard_time": 1778593041,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 782699,
@@ -1057,6 +1105,14 @@
       "onboard_time": 1778587280,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 760078,
+      "num": 502191,
+      "word": "狼队对战AG",
+      "onboard_time": 1778584580,
+      "rank": 25,
+      "category": "电竞"
     },
     {
       "raw_hot": 753133,
@@ -1129,6 +1185,14 @@
       "onboard_time": 1778497341,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 714717,
+      "num": 714717,
+      "word": "南京审计大学偷拍男生被开除",
+      "onboard_time": 1778599940,
+      "rank": 7,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 710789,
@@ -1339,6 +1403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 595645,
+      "num": 497710,
+      "word": "67岁产女的妈妈现已卧床",
+      "onboard_time": 1778600300,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 587363,
       "num": 396616,
       "word": "香港富豪孙女被绑架案细节披露",
@@ -1353,6 +1425,14 @@
       "onboard_time": 1778404101,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 583876,
+      "num": 495813,
+      "word": "汪海林的发言",
+      "onboard_time": 1778596522,
+      "rank": 16,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 581282,
@@ -1595,6 +1675,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 503462,
+      "num": 503462,
+      "word": "给阿嬷的情书",
+      "onboard_time": 1778595561,
+      "rank": 9,
+      "category": "电影"
+    },
+    {
       "raw_hot": 499857,
       "num": 499857,
       "word": "五十公里桃花坞6全阵容官宣",
@@ -1625,6 +1713,22 @@
       "onboard_time": 1778371279,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 495608,
+      "num": 495608,
+      "word": "宜宾地震",
+      "onboard_time": 1778598921,
+      "rank": 17,
+      "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 494578,
+      "num": 449013,
+      "word": "宋亚轩 重庆",
+      "onboard_time": 1778598142,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 494256,
@@ -1761,6 +1865,22 @@
       "onboard_time": 1778368516,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 464997,
+      "num": 442423,
+      "word": "樊振东加盟杜塞上百家企业竞价赞助",
+      "onboard_time": 1778595021,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 464644,
+      "num": 464644,
+      "word": "一念江南通告单有黄杨钿甜朱志鑫",
+      "onboard_time": 1778595201,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 464406,
@@ -2075,6 +2195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 399840,
+      "num": 399840,
+      "word": "辛芷蕾 赵婷",
+      "onboard_time": 1778592982,
+      "rank": 22,
+      "category": "电影"
+    },
+    {
       "raw_hot": 399793,
       "num": 272102,
       "word": "小伙连刮3天刮刮乐中百万连夜返乡",
@@ -2137,6 +2265,14 @@
       "onboard_time": 1778326820,
       "rank": 14,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 388291,
+      "num": 388291,
+      "word": "红狼大战 只为去打JDG",
+      "onboard_time": 1778600061,
+      "rank": 23,
+      "category": "电竞"
     },
     {
       "raw_hot": 387089,
@@ -2467,14 +2603,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 333219,
-      "num": 318589,
-      "word": "狼队对战AG",
-      "onboard_time": 1778584580,
-      "rank": 25,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 331923,
       "num": 331923,
       "word": "清华硕士参与智力测验仅25分",
@@ -2577,6 +2705,14 @@
       "onboard_time": 1778429061,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 314670,
+      "num": 241385,
+      "word": "AG晋级挑杯胜决",
+      "onboard_time": 1778600420,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 312451,
@@ -2753,6 +2889,14 @@
       "onboard_time": 1778486180,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 291620,
+      "num": 230623,
+      "word": "金智媛宝格丽入场视频",
+      "onboard_time": 1778597122,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 289709,
@@ -3091,6 +3235,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 250195,
+      "num": 250195,
+      "word": "藏海传2断层第一",
+      "onboard_time": 1778596161,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 250090,
       "num": 384569,
       "word": "王曼昱给孙颖莎看手机",
@@ -3217,6 +3369,14 @@
       "onboard_time": 1778402060,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 239520,
+      "num": 239520,
+      "word": "跑男争议不该先定罪后解读",
+      "onboard_time": 1778598321,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 238355,
@@ -3435,6 +3595,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 216216,
+      "num": 216216,
+      "word": "以防你没见过坚果年轻时的样子",
+      "onboard_time": 1778594002,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 216047,
       "num": 342910,
       "word": "三星堆首次发现陨铁器",
@@ -3465,6 +3633,14 @@
       "onboard_time": 1778398761,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 214603,
+      "num": 246116,
+      "word": "全球昆虫正在以惊人速度灭绝",
+      "onboard_time": 1778599520,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 214546,
@@ -3595,6 +3771,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 206967,
+      "num": 206967,
+      "word": "55岁大妈和邻居吵架后气死",
+      "onboard_time": 1778597962,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 205819,
       "num": 421463,
       "word": "国际乒联发布中国女团夺冠海报",
@@ -3617,6 +3801,14 @@
       "onboard_time": 1778546902,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 202678,
+      "num": 202678,
+      "word": "重庆震感",
+      "onboard_time": 1778601079,
+      "rank": 39,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 201955,
@@ -3673,6 +3865,14 @@
       "onboard_time": 1778500880,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 196965,
+      "num": 196965,
+      "word": "女生没电脑在电竞馆学习获免单",
+      "onboard_time": 1778600122,
+      "rank": 41,
+      "category": "正能量"
     },
     {
       "raw_hot": 196130,
@@ -4251,6 +4451,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 162540,
+      "num": 155449,
+      "word": "95花扎堆开演唱会",
+      "onboard_time": 1778594599,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
       "raw_hot": 162497,
       "num": 248349,
       "word": "杨幂烫伤在逐渐痊愈了",
@@ -4657,6 +4865,14 @@
       "onboard_time": 1778377459,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 129004,
+      "num": 250150,
+      "word": "深铁集团再借万科25亿",
+      "onboard_time": 1778598921,
+      "rank": 28,
+      "category": "财经"
     },
     {
       "raw_hot": 128512,
@@ -5755,6 +5971,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 40317,
+      "num": 150888,
+      "word": "宇树载人变形机甲海外引热议",
+      "onboard_time": 1778597242,
+      "rank": 48,
+      "category": "数码"
+    },
+    {
       "raw_hot": 39070,
       "num": 277237,
       "word": "月嫂白天摸鱼让娃睡觉夜晚粗暴带娃",
@@ -6027,6 +6251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 26649,
+      "num": 916514,
+      "word": "舒某编造涉人造大米网络谣言被罚",
+      "onboard_time": 1778601199,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 26117,
       "num": 143385,
       "word": "愿每一位妈妈都被岁月温柔以待",
@@ -6064,6 +6296,14 @@
       "word": "男童坠小区6米竖井昏迷已10天",
       "onboard_time": 1778402840,
       "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 23585,
+      "num": 162176,
+      "word": "从4月先行指标看我国经济持续向好",
+      "onboard_time": 1778592321,
+      "rank": 45,
       "category": "民生新闻"
     },
     {
@@ -6387,6 +6627,9 @@
     },
     {
       "word": "#中美元首北京会晤三个特殊时间点#"
+    },
+    {
+      "word": "#习近平会见联合国教科文组织总干事#"
     }
   ]
 }
