@@ -1,6 +1,6 @@
 {
   "startTime": 1777565126834,
-  "endTime": 1778624362727,
+  "endTime": 1778629070432,
   "band_list": [
     {
       "raw_hot": 25375641,
@@ -867,6 +867,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1894157,
+      "num": 141578,
+      "word": "辛芷蕾",
+      "onboard_time": 1778627717,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1890709,
       "num": 2078456,
       "word": "跑男学这么精彩吗",
@@ -1555,6 +1563,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1351174,
+      "num": 1351174,
+      "word": "南京审计大学偷拍男生被开除",
+      "onboard_time": 1778599940,
+      "rank": 7,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 1350834,
       "num": 479169,
       "word": "豆包把付费说的如此清新脱俗",
@@ -1899,14 +1915,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1142490,
-      "num": 1142490,
-      "word": "南京审计大学偷拍男生被开除",
-      "onboard_time": 1778599940,
-      "rank": 7,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 1140880,
       "num": 377236,
       "word": "OPPO 道歉诚意",
@@ -2227,6 +2235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1051282,
+      "num": 591316,
+      "word": "67岁产女的妈妈现已卧床",
+      "onboard_time": 1778600300,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1051200,
       "num": 1051200,
       "word": "广东地震局短信",
@@ -2249,14 +2265,6 @@
       "onboard_time": 1777907244,
       "rank": 0,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1043668,
-      "num": 497710,
-      "word": "67岁产女的妈妈现已卧床",
-      "onboard_time": 1778600300,
-      "rank": 15,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1040526,
@@ -4835,6 +4843,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 611550,
+      "num": 141544,
+      "word": "遭15岁男孩冲撞女子称检查出了别的",
+      "onboard_time": 1778627837,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 611467,
       "num": 1315236,
       "word": "莫雷加德认证樊振东定海神针",
@@ -5001,6 +5017,14 @@
       "onboard_time": 1778212639,
       "rank": 49,
       "category": "电影"
+    },
+    {
+      "raw_hot": 591041,
+      "num": 591041,
+      "word": "跑男争议不该先定罪后解读",
+      "onboard_time": 1778598321,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 589504,
@@ -7195,6 +7219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 429422,
+      "num": 143037,
+      "word": "涉偷拍男生与拟录公务员姓名院校一致",
+      "onboard_time": 1778626097,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 429166,
       "num": 429166,
       "word": "詹姆斯 湖人",
@@ -8081,6 +8113,14 @@
       "onboard_time": 1777793540,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 382024,
+      "num": 141477,
+      "word": "美股",
+      "onboard_time": 1778627779,
+      "rank": 13,
+      "category": "财经"
     },
     {
       "raw_hot": 381967,
@@ -9131,6 +9171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 335666,
+      "num": 216216,
+      "word": "以防你没见过坚果年轻时的样子",
+      "onboard_time": 1778594002,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 335483,
       "num": 481824,
       "word": "央视五四晚会官宣",
@@ -9913,6 +9961,14 @@
       "onboard_time": 1778079682,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 307389,
+      "num": 141377,
+      "word": "巩俐中文宣布戛纳开幕",
+      "onboard_time": 1778628438,
+      "rank": 15,
+      "category": "电影,综艺"
     },
     {
       "raw_hot": 307303,
@@ -10963,6 +11019,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 274169,
+      "num": 246116,
+      "word": "全球昆虫正在以惊人速度灭绝",
+      "onboard_time": 1778599520,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 274018,
       "num": 257452,
       "word": "91岁老人子宫脱垂靠子宫托忍了30年",
@@ -11299,6 +11363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 264491,
+      "num": 259031,
+      "word": "辛芷蕾新片演黄柳霜",
+      "onboard_time": 1778603598,
+      "rank": 4,
+      "category": "电影,剧集"
+    },
+    {
       "raw_hot": 263852,
       "num": 263852,
       "word": "被小朋友涂鸦的政府牌匾暂不会更换",
@@ -11481,14 +11553,6 @@
       "onboard_time": 1778223440,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 259031,
-      "num": 259031,
-      "word": "辛芷蕾新片演黄柳霜",
-      "onboard_time": 1778603598,
-      "rank": 4,
-      "category": "电影,剧集"
     },
     {
       "raw_hot": 258681,
@@ -12089,14 +12153,6 @@
       "onboard_time": 1777796839,
       "rank": 30,
       "category": "演出"
-    },
-    {
-      "raw_hot": 244682,
-      "num": 244682,
-      "word": "跑男争议不该先定罪后解读",
-      "onboard_time": 1778598321,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 244673,
@@ -12867,6 +12923,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 228582,
+      "num": 141191,
+      "word": "单场次见面会 亏本",
+      "onboard_time": 1778627717,
+      "rank": 20,
+      "category": "演出"
+    },
+    {
       "raw_hot": 228578,
       "num": 228578,
       "word": "秦昊女儿9岁身高",
@@ -12912,14 +12976,6 @@
       "word": "女子吃榴莲后喝白酒呼吸衰竭",
       "onboard_time": 1777768818,
       "rank": 28,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 226719,
-      "num": 246116,
-      "word": "全球昆虫正在以惊人速度灭绝",
-      "onboard_time": 1778599520,
-      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -13401,14 +13457,6 @@
       "onboard_time": 1777984282,
       "rank": 41,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 216216,
-      "num": 216216,
-      "word": "以防你没见过坚果年轻时的样子",
-      "onboard_time": 1778594002,
-      "rank": 34,
-      "category": "幽默"
     },
     {
       "raw_hot": 216152,
@@ -15475,6 +15523,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 178881,
+      "num": 141132,
+      "word": "F勒布伦回应被王楚钦打哭",
+      "onboard_time": 1778627779,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 178845,
       "num": 178845,
       "word": "王楚钦vs兰弗利",
@@ -16747,6 +16803,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 160241,
+      "num": 141052,
+      "word": "存储芯片股重挫",
+      "onboard_time": 1778627837,
+      "rank": 24,
+      "category": "财经"
+    },
+    {
       "raw_hot": 159916,
       "num": 508166,
       "word": "突然觉得小学老师好厉害",
@@ -17187,6 +17251,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 153762,
+      "num": 141006,
+      "word": "日落大道将以英语和普通话拍摄",
+      "onboard_time": 1778628258,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 153720,
       "num": 137055,
       "word": "万花世界简介只有鞠婧祎",
@@ -17499,6 +17571,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 147699,
+      "num": 140976,
+      "word": "高能量的人有什么特征",
+      "onboard_time": 1778605219,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 147498,
       "num": 173072,
       "word": "林志玲决定和Akira交往的原因",
@@ -17771,6 +17851,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 142533,
+      "num": 140924,
+      "word": "第一次看到金丝楠木狗",
+      "onboard_time": 1778610975,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 142449,
       "num": 173914,
       "word": "DeepSeek估值450亿美元",
@@ -17841,6 +17929,14 @@
       "onboard_time": 1777690521,
       "rank": 36,
       "category": "演出"
+    },
+    {
+      "raw_hot": 141641,
+      "num": 141641,
+      "word": "灰熊球员布兰登克拉克去世",
+      "onboard_time": 1778628739,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 140876,
@@ -18033,6 +18129,14 @@
       "onboard_time": 1778360415,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 137603,
+      "num": 137603,
+      "word": "逐玉奖项",
+      "onboard_time": 1778627837,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 137585,
@@ -18593,6 +18697,22 @@
       "onboard_time": 1778159483,
       "rank": 27,
       "category": "数码"
+    },
+    {
+      "raw_hot": 129467,
+      "num": 129467,
+      "word": "戛纳电影节",
+      "onboard_time": 1778628258,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 129451,
+      "num": 110287,
+      "word": "戛纳红毯",
+      "onboard_time": 1778628018,
+      "rank": 34,
+      "category": "电影"
     },
     {
       "raw_hot": 129211,
@@ -19659,6 +19779,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 112601,
+      "num": 109118,
+      "word": "邱泽母亲节送许玮甯两束花",
+      "onboard_time": 1778626818,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 112600,
       "num": 200970,
       "word": "我妈当上了邓超MV的女主角",
@@ -19713,6 +19841,14 @@
       "onboard_time": 1778071823,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 110918,
+      "num": 110918,
+      "word": "孙颖莎打匹克球赢了振臂欢呼",
+      "onboard_time": 1778598741,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 110477,
@@ -20075,14 +20211,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 102091,
-      "num": 102091,
-      "word": "第一次看到金丝楠木狗",
-      "onboard_time": 1778610975,
-      "rank": 43,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 101736,
       "num": 230970,
       "word": "小米新一代智能座舱入网",
@@ -20113,6 +20241,14 @@
       "onboard_time": 1778223980,
       "rank": 47,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 100557,
+      "num": 108106,
+      "word": "美股存储芯片持续暴涨",
+      "onboard_time": 1778628319,
+      "rank": 36,
+      "category": "财经,国际时政"
     },
     {
       "raw_hot": 100479,
@@ -20257,6 +20393,14 @@
       "onboard_time": 1777568418,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 97380,
+      "num": 97380,
+      "word": "旺旺副董点赞刘宇宁",
+      "onboard_time": 1778626818,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 97274,
@@ -20427,6 +20571,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 95174,
+      "num": 91490,
+      "word": "网传最终版歌手2026阵容",
+      "onboard_time": 1778628739,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 94672,
       "num": 94672,
       "word": "金饰消费大跌金条狂涨",
@@ -20521,6 +20673,14 @@
       "onboard_time": 1778155282,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 91641,
+      "num": 91641,
+      "word": "全国多地蛇开始活动了",
+      "onboard_time": 1778628319,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 91612,
@@ -20835,6 +20995,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 83423,
+      "num": 83423,
+      "word": "说唱巅峰对决",
+      "onboard_time": 1778628078,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 83395,
       "num": 105291,
       "word": "肖战未来想尝试说重庆话的角色",
@@ -21025,6 +21193,22 @@
       "onboard_time": 1778434756,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 79377,
+      "num": 79377,
+      "word": "穆里尼奥执教皇马达成协议",
+      "onboard_time": 1778628319,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 79049,
+      "num": 79049,
+      "word": "果然人在做坏事的时候是最能忍的",
+      "onboard_time": 1778605877,
+      "rank": 25,
+      "category": "幽默"
     },
     {
       "raw_hot": 78908,
@@ -21329,6 +21513,14 @@
       "onboard_time": 1778251822,
       "rank": 14,
       "category": "海外新闻,健康医疗"
+    },
+    {
+      "raw_hot": 71433,
+      "num": 141632,
+      "word": "宇树称会调整机甲售价",
+      "onboard_time": 1778626818,
+      "rank": 9,
+      "category": "数码"
     },
     {
       "raw_hot": 71263,
@@ -21657,14 +21849,6 @@
       "onboard_time": 1777716081,
       "rank": 38,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 61973,
-      "num": 61973,
-      "word": "果然人在做坏事的时候是最能忍的",
-      "onboard_time": 1778605877,
-      "rank": 25,
-      "category": "幽默"
     },
     {
       "raw_hot": 61913,
@@ -22091,14 +22275,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 55384,
-      "num": 61267,
-      "word": "孙颖莎打匹克球赢了振臂欢呼",
-      "onboard_time": 1778598741,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 55037,
       "num": 263979,
       "word": "美国总统外访后勤保障规模有多大",
@@ -22265,14 +22441,6 @@
       "onboard_time": 1778413159,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 52216,
-      "num": 61469,
-      "word": "高能量的人有什么特征",
-      "onboard_time": 1778605219,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 52163,
@@ -24865,6 +25033,14 @@
       "onboard_time": 1777703120,
       "rank": 37,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 7481,
+      "num": 63243,
+      "word": "李想称自研芯片被质疑跟风烧钱",
+      "onboard_time": 1778627898,
+      "rank": 49,
+      "category": "汽车"
     },
     {
       "raw_hot": 7349,

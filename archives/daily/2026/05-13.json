@@ -1,7 +1,15 @@
 {
   "startTime": 1778601635166,
-  "endTime": 1778624362727,
+  "endTime": 1778629070432,
   "band_list": [
+    {
+      "raw_hot": 1894157,
+      "num": 141578,
+      "word": "辛芷蕾",
+      "onboard_time": 1778627717,
+      "rank": 10,
+      "category": "艺人"
+    },
     {
       "raw_hot": 1706634,
       "num": 1049961,
@@ -35,8 +43,8 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 1142490,
-      "num": 1142490,
+      "raw_hot": 1351174,
+      "num": 1351174,
       "word": "南京审计大学偷拍男生被开除",
       "onboard_time": 1778599940,
       "rank": 7,
@@ -51,8 +59,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1043668,
-      "num": 497710,
+      "raw_hot": 1051282,
+      "num": 591316,
       "word": "67岁产女的妈妈现已卧床",
       "onboard_time": 1778600300,
       "rank": 15,
@@ -131,6 +139,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 611550,
+      "num": 141544,
+      "word": "遭15岁男孩冲撞女子称检查出了别的",
+      "onboard_time": 1778627837,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 591041,
+      "num": 591041,
+      "word": "跑男争议不该先定罪后解读",
+      "onboard_time": 1778598321,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 583876,
       "num": 495813,
       "word": "汪海林的发言",
@@ -179,6 +203,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 429422,
+      "num": 143037,
+      "word": "涉偷拍男生与拟录公务员姓名院校一致",
+      "onboard_time": 1778626097,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 399840,
       "num": 399840,
       "word": "辛芷蕾 赵婷",
@@ -193,6 +225,14 @@
       "onboard_time": 1778600061,
       "rank": 23,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 382024,
+      "num": 141477,
+      "word": "美股",
+      "onboard_time": 1778627779,
+      "rank": 13,
+      "category": "财经"
     },
     {
       "raw_hot": 358000,
@@ -219,6 +259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 335666,
+      "num": 216216,
+      "word": "以防你没见过坚果年轻时的样子",
+      "onboard_time": 1778594002,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 331631,
       "num": 242521,
       "word": "颜如晶半年瘦了60斤",
@@ -233,6 +281,14 @@
       "onboard_time": 1778600420,
       "rank": 31,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 307389,
+      "num": 141377,
+      "word": "巩俐中文宣布戛纳开幕",
+      "onboard_time": 1778628438,
+      "rank": 15,
+      "category": "电影,综艺"
     },
     {
       "raw_hot": 291620,
@@ -251,6 +307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 274169,
+      "num": 246116,
+      "word": "全球昆虫正在以惊人速度灭绝",
+      "onboard_time": 1778599520,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 266988,
       "num": 266988,
       "word": "宋亚轩你好吗 端午档",
@@ -259,7 +323,7 @@
       "category": "电影"
     },
     {
-      "raw_hot": 259031,
+      "raw_hot": 264491,
       "num": 259031,
       "word": "辛芷蕾新片演黄柳霜",
       "onboard_time": 1778603598,
@@ -275,14 +339,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 244682,
-      "num": 244682,
-      "word": "跑男争议不该先定罪后解读",
-      "onboard_time": 1778598321,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 232029,
       "num": 232029,
       "word": "重庆震感",
@@ -291,20 +347,12 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 226719,
-      "num": 246116,
-      "word": "全球昆虫正在以惊人速度灭绝",
-      "onboard_time": 1778599520,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 216216,
-      "num": 216216,
-      "word": "以防你没见过坚果年轻时的样子",
-      "onboard_time": 1778594002,
-      "rank": 34,
-      "category": "幽默"
+      "raw_hot": 228582,
+      "num": 141191,
+      "word": "单场次见面会 亏本",
+      "onboard_time": 1778627717,
+      "rank": 20,
+      "category": "演出"
     },
     {
       "raw_hot": 214602,
@@ -347,6 +395,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 178881,
+      "num": 141132,
+      "word": "F勒布伦回应被王楚钦打哭",
+      "onboard_time": 1778627779,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 167432,
       "num": 167432,
       "word": "王俊凯给同学的初中毕业寄语",
@@ -379,6 +435,46 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 160241,
+      "num": 141052,
+      "word": "存储芯片股重挫",
+      "onboard_time": 1778627837,
+      "rank": 24,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 153762,
+      "num": 141006,
+      "word": "日落大道将以英语和普通话拍摄",
+      "onboard_time": 1778628258,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 147699,
+      "num": 140976,
+      "word": "高能量的人有什么特征",
+      "onboard_time": 1778605219,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 142533,
+      "num": 140924,
+      "word": "第一次看到金丝楠木狗",
+      "onboard_time": 1778610975,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 141641,
+      "num": 141641,
+      "word": "灰熊球员布兰登克拉克去世",
+      "onboard_time": 1778628739,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 140063,
       "num": 140063,
       "word": "女子反对生娃再领证被诉返30万彩礼",
@@ -387,12 +483,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 137603,
+      "num": 137603,
+      "word": "逐玉奖项",
+      "onboard_time": 1778627837,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 134265,
       "num": 146763,
       "word": "杨幂北魏复原妆",
       "onboard_time": 1778585240,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 129467,
+      "num": 129467,
+      "word": "戛纳电影节",
+      "onboard_time": 1778628258,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 129451,
+      "num": 110287,
+      "word": "戛纳红毯",
+      "onboard_time": 1778628018,
+      "rank": 34,
+      "category": "电影"
     },
     {
       "raw_hot": 129004,
@@ -411,12 +531,92 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 102091,
-      "num": 102091,
-      "word": "第一次看到金丝楠木狗",
-      "onboard_time": 1778610975,
+      "raw_hot": 112601,
+      "num": 109118,
+      "word": "邱泽母亲节送许玮甯两束花",
+      "onboard_time": 1778626818,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 110918,
+      "num": 110918,
+      "word": "孙颖莎打匹克球赢了振臂欢呼",
+      "onboard_time": 1778598741,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 100557,
+      "num": 108106,
+      "word": "美股存储芯片持续暴涨",
+      "onboard_time": 1778628319,
+      "rank": 36,
+      "category": "财经,国际时政"
+    },
+    {
+      "raw_hot": 97380,
+      "num": 97380,
+      "word": "旺旺副董点赞刘宇宁",
+      "onboard_time": 1778626818,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 95174,
+      "num": 91490,
+      "word": "网传最终版歌手2026阵容",
+      "onboard_time": 1778628739,
       "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 91641,
+      "num": 91641,
+      "word": "全国多地蛇开始活动了",
+      "onboard_time": 1778628319,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 83423,
+      "num": 83423,
+      "word": "说唱巅峰对决",
+      "onboard_time": 1778628078,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 79377,
+      "num": 79377,
+      "word": "穆里尼奥执教皇马达成协议",
+      "onboard_time": 1778628319,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 79049,
+      "num": 79049,
+      "word": "果然人在做坏事的时候是最能忍的",
+      "onboard_time": 1778605877,
+      "rank": 25,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 71433,
+      "num": 141632,
+      "word": "宇树称会调整机甲售价",
+      "onboard_time": 1778626818,
+      "rank": 9,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 67800,
+      "num": 67800,
+      "word": "当地回应偷拍裙底男生已拟录公务员",
+      "onboard_time": 1778589140,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 67338,
@@ -427,36 +627,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 61973,
-      "num": 61973,
-      "word": "果然人在做坏事的时候是最能忍的",
-      "onboard_time": 1778605877,
-      "rank": 25,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 60346,
       "num": 118975,
       "word": "京东一季度净利润74亿",
       "onboard_time": 1778602099,
       "rank": 47,
       "category": "财经,互联网"
-    },
-    {
-      "raw_hot": 55384,
-      "num": 61267,
-      "word": "孙颖莎打匹克球赢了振臂欢呼",
-      "onboard_time": 1778598741,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 52216,
-      "num": 61469,
-      "word": "高能量的人有什么特征",
-      "onboard_time": 1778605219,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 47936,
@@ -472,14 +648,6 @@
       "word": "舒某编造涉人造大米网络谣言被罚",
       "onboard_time": 1778601199,
       "rank": 2,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 44157,
-      "num": 61393,
-      "word": "当地回应偷拍裙底男生已拟录公务员",
-      "onboard_time": 1778589140,
-      "rank": 35,
       "category": "民生新闻"
     },
     {
@@ -601,6 +769,14 @@
       "onboard_time": 1778612294,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 7481,
+      "num": 63243,
+      "word": "李想称自研芯片被质疑跟风烧钱",
+      "onboard_time": 1778627898,
+      "rank": 49,
+      "category": "汽车"
     }
   ],
   "hotgov_list": [
