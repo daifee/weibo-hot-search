@@ -1,0 +1,410 @@
+{
+  "runTime": 1778622609709,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 320280,
+        "num": 320280,
+        "word": "特朗普访华",
+        "onboard_time": 1778596462,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 243258,
+        "num": 243258,
+        "word": "南京审计大学偷拍男生被开除",
+        "onboard_time": 1778599940,
+        "rank": 1,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 14672,
+        "num": 149437,
+        "word": "舒某编造涉人造大米网络谣言被罚",
+        "onboard_time": 1778601199,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118193,
+        "num": 118193,
+        "word": "白鹿演唱会过审",
+        "onboard_time": 1778585960,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 105172,
+        "num": 105172,
+        "word": "跑男争议不该先定罪后解读",
+        "onboard_time": 1778598321,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 78565,
+        "num": 78565,
+        "word": "辛芷蕾新片演黄柳霜",
+        "onboard_time": 1778603598,
+        "rank": 5,
+        "category": "电影,剧集"
+      },
+      {
+        "raw_hot": 64210,
+        "num": 64210,
+        "word": "下午休是性价比最高的半天假",
+        "onboard_time": 1778588482,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 59727,
+        "num": 59727,
+        "word": "第一次看到金丝楠木狗",
+        "onboard_time": 1778610975,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 59110,
+        "num": 59110,
+        "word": "藏海传2断层第一",
+        "onboard_time": 1778596161,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 57896,
+        "num": 57896,
+        "word": "以防你没见过坚果年轻时的样子",
+        "onboard_time": 1778594002,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 321067,
+        "num": 55895,
+        "word": "67岁产女的妈妈现已卧床",
+        "onboard_time": 1778600300,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86313,
+        "num": 54772,
+        "word": "全球昆虫正在以惊人速度灭绝",
+        "onboard_time": 1778599520,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 65364,
+        "num": 53918,
+        "word": "江苏税务回应偷拍男生拟录公务员",
+        "onboard_time": 1778589740,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 51455,
+        "num": 51455,
+        "word": "女生没电脑在电竞馆学习获免单",
+        "onboard_time": 1778600122,
+        "rank": 13,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 44402,
+        "num": 44402,
+        "word": "一诺哽咽",
+        "onboard_time": 1778602639,
+        "rank": 14,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 43451,
+        "num": 43451,
+        "word": "宋亚轩你好吗 端午档",
+        "onboard_time": 1778602040,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 39027,
+        "num": 39027,
+        "word": "4月汽车销量前10仅1款油车",
+        "onboard_time": 1778586560,
+        "rank": 16,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 38143,
+        "num": 38143,
+        "word": "给阿嬷的情书",
+        "onboard_time": 1778595561,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 36205,
+        "num": 36205,
+        "word": "AG战胜狼队",
+        "onboard_time": 1778600061,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 35274,
+        "num": 35274,
+        "word": "女子反对生娃再领证被诉返30万彩礼",
+        "onboard_time": 1778591661,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34773,
+        "num": 34773,
+        "word": "孙颖莎打匹克球赢了振臂欢呼",
+        "onboard_time": 1778598741,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 31438,
+        "num": 31438,
+        "word": "55岁大妈和邻居吵架后气死",
+        "onboard_time": 1778597962,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31203,
+        "num": 31203,
+        "word": "高能量的人有什么特征",
+        "onboard_time": 1778605219,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 28214,
+        "num": 28214,
+        "word": "宇树载人变形机甲发布",
+        "onboard_time": 1778612714,
+        "rank": 23,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 27924,
+        "num": 27924,
+        "word": "公司买50箱飞天茅台41箱是假货",
+        "onboard_time": 1778605277,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27707,
+        "num": 27707,
+        "word": "狗 这水怎么会咬舌头",
+        "onboard_time": 1778589802,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 27307,
+        "num": 27307,
+        "word": "AG晋级挑杯胜决",
+        "onboard_time": 1778600420,
+        "rank": 26,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 27052,
+        "num": 27052,
+        "word": "南审通报男子偷拍事件",
+        "onboard_time": 1778599642,
+        "rank": 27,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 27017,
+        "num": 27017,
+        "word": "中国拳击手非洲比赛疑遭下药",
+        "onboard_time": 1778605219,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 25812,
+        "num": 27015,
+        "word": "果然人在做坏事的时候是最能忍的",
+        "onboard_time": 1778605877,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 24233,
+        "num": 27011,
+        "word": "2700次恶意仅退款男子获刑",
+        "onboard_time": 1778596101,
+        "rank": 30,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 23655,
+        "num": 27003,
+        "word": "建议不要在小环境中待太久",
+        "onboard_time": 1778576720,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 22312,
+        "num": 26998,
+        "word": "主角",
+        "onboard_time": 1778589081,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22033,
+        "num": 26993,
+        "word": "重庆震感",
+        "onboard_time": 1778601079,
+        "rank": 33,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 21308,
+        "num": 26989,
+        "word": "狼队对战AG",
+        "onboard_time": 1778584580,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 20570,
+        "num": 26987,
+        "word": "恋与深空回应擦边低俗争议",
+        "onboard_time": 1778583621,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 20431,
+        "num": 26979,
+        "word": "网红穿完就退成产业链",
+        "onboard_time": 1778596341,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19450,
+        "num": 26972,
+        "word": "当地回应偷拍裙底男生已拟录公务员",
+        "onboard_time": 1778589140,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19433,
+        "num": 26968,
+        "word": "清清 一直送",
+        "onboard_time": 1778595683,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 19335,
+        "num": 26962,
+        "word": "夏天首次开空调要注意什么",
+        "onboard_time": 1778596462,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 18835,
+        "num": 26961,
+        "word": "深铁集团再借万科25亿",
+        "onboard_time": 1778598921,
+        "rank": 40,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 18048,
+        "num": 26954,
+        "word": "95花扎堆开演唱会",
+        "onboard_time": 1778594599,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 18028,
+        "num": 26950,
+        "word": "中方强烈谴责巴方有关行径",
+        "onboard_time": 1778575401,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 17927,
+        "num": 26942,
+        "word": "汶川地震18年了",
+        "onboard_time": 1778612294,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17289,
+        "num": 26939,
+        "word": "宜宾地震",
+        "onboard_time": 1778598921,
+        "rank": 44,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 16409,
+        "num": 26933,
+        "word": "杨幂北魏复原妆",
+        "onboard_time": 1778585240,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 14464,
+        "num": 26931,
+        "word": "红狼大战 只为去打JDG",
+        "onboard_time": 1778600061,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 14028,
+        "num": 26921,
+        "word": "给阿嬷的情书 商科女发光发热",
+        "onboard_time": 1778588661,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 13479,
+        "num": 26920,
+        "word": "王俊凯中餐厅招商能力",
+        "onboard_time": 1778585240,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 12397,
+        "num": 26914,
+        "word": "有一诺的AG",
+        "onboard_time": 1778608095,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见联合国教科文组织总干事#"
+    }
+  }
+}
