@@ -1,0 +1,410 @@
+{
+  "runTime": 1778616960167,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 160411,
+        "num": 160411,
+        "word": "南京审计大学偷拍男生被开除",
+        "onboard_time": 1778599940,
+        "rank": 0,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 158129,
+        "num": 158129,
+        "word": "特朗普访华",
+        "onboard_time": 1778596462,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 14248,
+        "num": 137664,
+        "word": "舒某编造涉人造大米网络谣言被罚",
+        "onboard_time": 1778601199,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123911,
+        "num": 123911,
+        "word": "白鹿演唱会过审",
+        "onboard_time": 1778585960,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 108416,
+        "num": 108416,
+        "word": "跑男争议不该先定罪后解读",
+        "onboard_time": 1778598321,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 61198,
+        "num": 61198,
+        "word": "下午休是性价比最高的半天假",
+        "onboard_time": 1778588482,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 56136,
+        "num": 56136,
+        "word": "辛芷蕾新片演黄柳霜",
+        "onboard_time": 1778603598,
+        "rank": 6,
+        "category": "电影,剧集"
+      },
+      {
+        "raw_hot": 53551,
+        "num": 53551,
+        "word": "女生没电脑在电竞馆学习获免单",
+        "onboard_time": 1778600122,
+        "rank": 7,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 41871,
+        "num": 41871,
+        "word": "藏海传2断层第一",
+        "onboard_time": 1778596161,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 40703,
+        "num": 40703,
+        "word": "以防你没见过坚果年轻时的样子",
+        "onboard_time": 1778594002,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 289539,
+        "num": 40563,
+        "word": "67岁产女的妈妈现已卧床",
+        "onboard_time": 1778600300,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 60391,
+        "num": 40419,
+        "word": "全球昆虫正在以惊人速度灭绝",
+        "onboard_time": 1778599520,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 50198,
+        "num": 40110,
+        "word": "一诺哽咽",
+        "onboard_time": 1778602639,
+        "rank": 12,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 48979,
+        "num": 39923,
+        "word": "江苏税务回应偷拍男生拟录公务员",
+        "onboard_time": 1778589740,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 42326,
+        "num": 39613,
+        "word": "清清 一直送",
+        "onboard_time": 1778595683,
+        "rank": 14,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 41940,
+        "num": 39588,
+        "word": "4月汽车销量前10仅1款油车",
+        "onboard_time": 1778586560,
+        "rank": 15,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 41363,
+        "num": 39375,
+        "word": "宋亚轩你好吗 端午档",
+        "onboard_time": 1778602040,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 39158,
+        "num": 39158,
+        "word": "AG战胜狼队",
+        "onboard_time": 1778600061,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 38761,
+        "num": 38761,
+        "word": "给阿嬷的情书",
+        "onboard_time": 1778595561,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 34909,
+        "num": 34909,
+        "word": "重庆震感",
+        "onboard_time": 1778601079,
+        "rank": 19,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 35568,
+        "num": 33468,
+        "word": "果然人在做坏事的时候是最能忍的",
+        "onboard_time": 1778605877,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 30770,
+        "num": 30770,
+        "word": "第一次看到金丝楠木狗",
+        "onboard_time": 1778610975,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 30647,
+        "num": 30647,
+        "word": "狗 这水怎么会咬舌头",
+        "onboard_time": 1778589802,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 30413,
+        "num": 30413,
+        "word": "高能量的人有什么特征",
+        "onboard_time": 1778605219,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 28358,
+        "num": 28358,
+        "word": "恋与深空回应擦边低俗争议",
+        "onboard_time": 1778583621,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 26816,
+        "num": 26816,
+        "word": "当地回应偷拍裙底男生已拟录公务员",
+        "onboard_time": 1778589140,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26530,
+        "num": 26530,
+        "word": "AG晋级挑杯胜决",
+        "onboard_time": 1778600420,
+        "rank": 26,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 26429,
+        "num": 26429,
+        "word": "南审通报男子偷拍事件",
+        "onboard_time": 1778599642,
+        "rank": 27,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 25990,
+        "num": 25990,
+        "word": "红狼大战 只为去打JDG",
+        "onboard_time": 1778600061,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 25634,
+        "num": 25634,
+        "word": "女子反对生娃再领证被诉返30万彩礼",
+        "onboard_time": 1778591661,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24813,
+        "num": 24813,
+        "word": "宇树载人变形机甲发布",
+        "onboard_time": 1778612714,
+        "rank": 30,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 24238,
+        "num": 24238,
+        "word": "中国拳击手非洲比赛疑遭下药",
+        "onboard_time": 1778605219,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 22524,
+        "num": 22524,
+        "word": "宜宾地震",
+        "onboard_time": 1778598921,
+        "rank": 32,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 22487,
+        "num": 22487,
+        "word": "狼队对战AG",
+        "onboard_time": 1778584580,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 22148,
+        "num": 22148,
+        "word": "主角",
+        "onboard_time": 1778589081,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 21313,
+        "num": 21313,
+        "word": "55岁大妈和邻居吵架后气死",
+        "onboard_time": 1778597962,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21025,
+        "num": 21025,
+        "word": "北京男篮vs广东男篮",
+        "onboard_time": 1778590041,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 20852,
+        "num": 20852,
+        "word": "建议不要在小环境中待太久",
+        "onboard_time": 1778576720,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 20721,
+        "num": 20721,
+        "word": "2700次恶意仅退款男子获刑",
+        "onboard_time": 1778596101,
+        "rank": 38,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 20219,
+        "num": 20219,
+        "word": "网红穿完就退成产业链",
+        "onboard_time": 1778596341,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20210,
+        "num": 20210,
+        "word": "孙颖莎打匹克球赢了振臂欢呼",
+        "onboard_time": 1778598741,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 19193,
+        "num": 19193,
+        "word": "95花扎堆开演唱会",
+        "onboard_time": 1778594599,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 18932,
+        "num": 18932,
+        "word": "公司买50箱飞天茅台41箱是假货",
+        "onboard_time": 1778605277,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18843,
+        "num": 18843,
+        "word": "王俊凯中餐厅招商能力",
+        "onboard_time": 1778585240,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 18341,
+        "num": 18341,
+        "word": "有一诺的AG",
+        "onboard_time": 1778608095,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 17046,
+        "num": 18341,
+        "word": "深铁集团再借万科25亿",
+        "onboard_time": 1778598921,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 16891,
+        "num": 18330,
+        "word": "汶川地震18年了",
+        "onboard_time": 1778612294,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16449,
+        "num": 18329,
+        "word": "给阿嬷的情书 商科女发光发热",
+        "onboard_time": 1778588661,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 16067,
+        "num": 18323,
+        "word": "杨幂北魏复原妆",
+        "onboard_time": 1778585240,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 13738,
+        "num": 18315,
+        "word": "BLG战胜iG",
+        "onboard_time": 1778605219,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见联合国教科文组织总干事#"
+    }
+  }
+}
