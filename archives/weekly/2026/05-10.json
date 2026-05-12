@@ -1,6 +1,6 @@
 {
   "startTime": 1778342585344,
-  "endTime": 1778542298731,
+  "endTime": 1778544381215,
   "band_list": [
     {
       "raw_hot": 19315463,
@@ -185,6 +185,14 @@
       "onboard_time": 1778414660,
       "rank": 32,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 2021884,
+      "num": 856843,
+      "word": "Deepseek分析145斤怎么瘦到100斤",
+      "onboard_time": 1778542758,
+      "rank": 3,
+      "category": "运动健身"
     },
     {
       "raw_hot": 1885356,
@@ -603,6 +611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 911093,
+      "num": 818565,
+      "word": "被内测微信状态访客记录用户发声",
+      "onboard_time": 1778542758,
+      "rank": 4,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 909497,
       "num": 642329,
       "word": "前台笑了半小时才说出wifi密码",
@@ -657,6 +673,14 @@
       "onboard_time": 1778483360,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 841363,
+      "num": 1075944,
+      "word": "汶川小英雄林浩也有女儿了",
+      "onboard_time": 1778541618,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 840321,
@@ -939,6 +963,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 614433,
+      "num": 288967,
+      "word": "宁艺卓 别来身材羞辱那一套",
+      "onboard_time": 1778542819,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 608199,
       "num": 462564,
       "word": "水谷隼盛赞孙颖莎伟大",
@@ -1009,6 +1041,14 @@
       "onboard_time": 1778485820,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 571522,
+      "num": 571522,
+      "word": "主角收视率走势",
+      "onboard_time": 1778541138,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 570848,
@@ -1171,6 +1211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 502602,
+      "num": 329513,
+      "word": "女孩演出完退礼服被商家曝光",
+      "onboard_time": 1778501541,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 499857,
       "num": 499857,
       "word": "五十公里桃花坞6全阵容官宣",
@@ -1217,14 +1265,6 @@
       "onboard_time": 1778452276,
       "rank": 19,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 489026,
-      "num": 329513,
-      "word": "女孩演出完退礼服被商家曝光",
-      "onboard_time": 1778501541,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 485655,
@@ -1385,6 +1425,14 @@
       "onboard_time": 1778480899,
       "rank": 12,
       "category": "财经"
+    },
+    {
+      "raw_hot": 429684,
+      "num": 285094,
+      "word": "沙溢瘦了胡可功不可没",
+      "onboard_time": 1778541198,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 428474,
@@ -1787,6 +1835,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 327697,
+      "num": 235235,
+      "word": "3种炎症拖久了很危险",
+      "onboard_time": 1778541317,
+      "rank": 20,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 326174,
       "num": 326174,
       "word": "刘宪华 歌手2026",
@@ -1841,14 +1897,6 @@
       "onboard_time": 1778429061,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 313688,
-      "num": 313688,
-      "word": "主角收视率走势",
-      "onboard_time": 1778541138,
-      "rank": 5,
-      "category": "剧集"
     },
     {
       "raw_hot": 312451,
@@ -1947,6 +1995,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 298366,
+      "num": 282887,
+      "word": "警方通报女子遭男生冲撞倒地",
+      "onboard_time": 1778541317,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 298076,
       "num": 348651,
       "word": "机器人有没有体面一点的打包方式",
@@ -1977,6 +2033,14 @@
       "onboard_time": 1778374939,
       "rank": 22,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 294441,
+      "num": 373933,
+      "word": "金银价格大涨",
+      "onboard_time": 1778394560,
+      "rank": 38,
+      "category": "财经"
     },
     {
       "raw_hot": 294292,
@@ -2035,14 +2099,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 282567,
-      "num": 373933,
-      "word": "金银价格大涨",
-      "onboard_time": 1778394560,
-      "rank": 38,
-      "category": "财经"
-    },
-    {
       "raw_hot": 281924,
       "num": 281924,
       "word": "王俊凯狄仁杰剧照",
@@ -2092,7 +2148,7 @@
     },
     {
       "raw_hot": 277130,
-      "num": 212880,
+      "num": 235263,
       "word": "青海17岁失联高中女生遗体已找到",
       "onboard_time": 1778514441,
       "rank": 42,
@@ -2201,14 +2257,6 @@
       "onboard_time": 1778510843,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 259015,
-      "num": 149966,
-      "word": "3种炎症拖久了很危险",
-      "onboard_time": 1778541317,
-      "rank": 20,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 256377,
@@ -2524,7 +2572,7 @@
     },
     {
       "raw_hot": 218221,
-      "num": 219408,
+      "num": 292562,
       "word": "JDG对战LGDNBW",
       "onboard_time": 1778502022,
       "rank": 35,
@@ -2611,6 +2659,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 213253,
+      "num": 213253,
+      "word": "马克龙紧急撤回表态改口不派军舰",
+      "onboard_time": 1778543657,
+      "rank": 24,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 212075,
       "num": 212601,
       "word": "原来这才是有效的控糖方式",
@@ -2625,14 +2681,6 @@
       "onboard_time": 1778495240,
       "rank": 30,
       "category": "演出"
-    },
-    {
-      "raw_hot": 208829,
-      "num": 208829,
-      "word": "汶川小英雄林浩也有女儿了",
-      "onboard_time": 1778541618,
-      "rank": 16,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 208566,
@@ -2675,14 +2723,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 205988,
-      "num": 141780,
-      "word": "沙溢瘦了胡可功不可没",
-      "onboard_time": 1778541198,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 205819,
       "num": 421463,
       "word": "国际乒联发布中国女团夺冠海报",
@@ -2705,6 +2745,14 @@
       "onboard_time": 1778483600,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 200263,
+      "num": 200263,
+      "word": "汉坦病毒在湖南有传播风险吗",
+      "onboard_time": 1778541138,
+      "rank": 36,
+      "category": "健康医疗,民生新闻"
     },
     {
       "raw_hot": 200155,
@@ -2736,6 +2784,14 @@
       "word": "多省市地震局都发短信了",
       "onboard_time": 1778486480,
       "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 195562,
+      "num": 195562,
+      "word": "106岁老太染手指甲每天喝小酒",
+      "onboard_time": 1778541678,
+      "rank": 31,
       "category": "民生新闻"
     },
     {
@@ -3227,6 +3283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 152680,
+      "num": 152680,
+      "word": "常石磊说没听过李宇春的歌",
+      "onboard_time": 1778544321,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 152070,
       "num": 204234,
       "word": "17岁的张桂源",
@@ -3379,6 +3443,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 132630,
+      "num": 194541,
+      "word": "张杰是国乐无双发起者",
+      "onboard_time": 1778542999,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 131745,
       "num": 195777,
       "word": "DRG对战TCG",
@@ -3411,6 +3483,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 129760,
+      "num": 129760,
+      "word": "王皓喊梁靖崑梁教授",
+      "onboard_time": 1778544019,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 129500,
+      "num": 129500,
+      "word": "医生回应婴儿被喂鹅蛋后进ICU",
+      "onboard_time": 1778541258,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 128512,
       "num": 128512,
       "word": "孙颖莎甜妹攻击",
@@ -3425,14 +3513,6 @@
       "onboard_time": 1778513841,
       "rank": 46,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 128201,
-      "num": 128201,
-      "word": "医生回应婴儿被喂鹅蛋后进ICU",
-      "onboard_time": 1778541258,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 128084,
@@ -3547,6 +3627,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 119503,
+      "num": 194529,
+      "word": "18年前汶川一条没发出的短信",
+      "onboard_time": 1778541198,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 119335,
       "num": 222650,
       "word": "现货黄金",
@@ -3555,12 +3643,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 118865,
-      "num": 118865,
-      "word": "警方通报女子遭男生冲撞倒地",
-      "onboard_time": 1778541317,
-      "rank": 30,
-      "category": "民生新闻"
+      "raw_hot": 119175,
+      "num": 119175,
+      "word": "萨摩耶偷面包全过程",
+      "onboard_time": 1778520795,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 118701,
@@ -3571,11 +3659,11 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 116424,
-      "num": 116424,
-      "word": "106岁老太染手指甲每天喝小酒",
-      "onboard_time": 1778541678,
-      "rank": 31,
+      "raw_hot": 117653,
+      "num": 117653,
+      "word": "男子凌晨遭追打直奔武警营门求救",
+      "onboard_time": 1778515340,
+      "rank": 24,
       "category": "民生新闻"
     },
     {
@@ -3635,6 +3723,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 108696,
+      "num": 108696,
+      "word": "美光科技大涨7%",
+      "onboard_time": 1778542639,
+      "rank": 41,
+      "category": "财经"
+    },
+    {
       "raw_hot": 106659,
       "num": 201371,
       "word": "初代跑男",
@@ -3675,28 +3771,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 102162,
-      "num": 102162,
-      "word": "萨摩耶偷面包全过程",
-      "onboard_time": 1778520795,
-      "rank": 34,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 101736,
       "num": 230970,
       "word": "小米新一代智能座舱入网",
       "onboard_time": 1778484981,
       "rank": 23,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 98863,
-      "num": 98863,
-      "word": "男子凌晨遭追打直奔武警营门求救",
-      "onboard_time": 1778515340,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 98496,
@@ -3721,14 +3801,6 @@
       "onboard_time": 1778344821,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 95777,
-      "num": 95777,
-      "word": "18年前汶川一条没发出的短信",
-      "onboard_time": 1778541198,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 92533,
@@ -3787,6 +3859,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 87481,
+      "num": 87481,
+      "word": "护士节",
+      "onboard_time": 1778542878,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 87335,
       "num": 312119,
       "word": "夸克TV崩了",
@@ -3811,12 +3891,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 83636,
-      "num": 83636,
-      "word": "汉坦病毒在湖南有传播风险吗",
-      "onboard_time": 1778541138,
-      "rank": 36,
-      "category": "健康医疗,民生新闻"
+      "raw_hot": 86636,
+      "num": 86636,
+      "word": "张桂源的蛋糕",
+      "onboard_time": 1778541317,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 83626,
@@ -3843,6 +3923,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 81724,
+      "num": 194656,
+      "word": "张小斐新角色眼里全是野心",
+      "onboard_time": 1778529794,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 79668,
       "num": 265900,
       "word": "打印店回应高中生凌晨外出复印失联",
@@ -3857,14 +3945,6 @@
       "onboard_time": 1778434756,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 79416,
-      "num": 79416,
-      "word": "张桂源的蛋糕",
-      "onboard_time": 1778541317,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 78553,
@@ -4113,14 +4193,6 @@
       "onboard_time": 1778485999,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 59137,
-      "num": 61291,
-      "word": "张小斐新角色眼里全是野心",
-      "onboard_time": 1778529794,
-      "rank": 44,
-      "category": "电影"
     },
     {
       "raw_hot": 58045,
@@ -4513,6 +4585,14 @@
       "onboard_time": 1778458221,
       "rank": 18,
       "category": "数码"
+    },
+    {
+      "raw_hot": 31812,
+      "num": 235391,
+      "word": "AI挑衅Viper",
+      "onboard_time": 1778543058,
+      "rank": 18,
+      "category": "电竞"
     },
     {
       "raw_hot": 31129,

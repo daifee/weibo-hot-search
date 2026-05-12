@@ -1,6 +1,6 @@
 {
   "startTime": 1777565126834,
-  "endTime": 1778542298731,
+  "endTime": 1778544381215,
   "band_list": [
     {
       "raw_hot": 25375641,
@@ -753,6 +753,14 @@
       "onboard_time": 1778324600,
       "rank": 10,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 2021884,
+      "num": 856843,
+      "word": "Deepseek分析145斤怎么瘦到100斤",
+      "onboard_time": 1778542758,
+      "rank": 3,
+      "category": "运动健身"
     },
     {
       "raw_hot": 2021613,
@@ -2451,6 +2459,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 911093,
+      "num": 818565,
+      "word": "被内测微信状态访客记录用户发声",
+      "onboard_time": 1778542758,
+      "rank": 4,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 909971,
       "num": 701268,
       "word": "悬崖秋千事故景区已停业",
@@ -2777,6 +2793,14 @@
       "onboard_time": 1777644742,
       "rank": 5,
       "category": "演出"
+    },
+    {
+      "raw_hot": 841363,
+      "num": 1075944,
+      "word": "汶川小英雄林浩也有女儿了",
+      "onboard_time": 1778541618,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 840321,
@@ -4371,6 +4395,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 614433,
+      "num": 288967,
+      "word": "宁艺卓 别来身材羞辱那一套",
+      "onboard_time": 1778542819,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 613967,
       "num": 613967,
       "word": "林诗栋2比3兰弗利",
@@ -4729,6 +4761,14 @@
       "onboard_time": 1778485820,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 571522,
+      "num": 571522,
+      "word": "主角收视率走势",
+      "onboard_time": 1778541138,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 571119,
@@ -5507,6 +5547,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 502602,
+      "num": 329513,
+      "word": "女孩演出完退礼服被商家曝光",
+      "onboard_time": 1778501541,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 502474,
       "num": 438686,
       "word": "新物种广西两头蛇被发现",
@@ -5737,14 +5785,6 @@
       "onboard_time": 1777718780,
       "rank": 14,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 489026,
-      "num": 329513,
-      "word": "女孩演出完退礼服被商家曝光",
-      "onboard_time": 1778501541,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 488832,
@@ -6537,6 +6577,14 @@
       "onboard_time": 1778249182,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 429684,
+      "num": 285094,
+      "word": "沙溢瘦了胡可功不可没",
+      "onboard_time": 1778541198,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 428901,
@@ -8507,6 +8555,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 327697,
+      "num": 235235,
+      "word": "3种炎症拖久了很危险",
+      "onboard_time": 1778541317,
+      "rank": 20,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 327420,
       "num": 327420,
       "word": "给阿嬷的情书豆瓣开分9.0",
@@ -8857,14 +8913,6 @@
       "onboard_time": 1777739001,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 313688,
-      "num": 313688,
-      "word": "主角收视率走势",
-      "onboard_time": 1778541138,
-      "rank": 5,
-      "category": "剧集"
     },
     {
       "raw_hot": 313487,
@@ -9299,6 +9347,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 298366,
+      "num": 282887,
+      "word": "警方通报女子遭男生冲撞倒地",
+      "onboard_time": 1778541317,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 298076,
       "num": 348651,
       "word": "机器人有没有体面一点的打包方式",
@@ -9385,6 +9441,14 @@
       "onboard_time": 1778374939,
       "rank": 22,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 294441,
+      "num": 373933,
+      "word": "金银价格大涨",
+      "onboard_time": 1778198359,
+      "rank": 36,
+      "category": "财经"
     },
     {
       "raw_hot": 294322,
@@ -9795,14 +9859,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 282567,
-      "num": 373933,
-      "word": "金银价格大涨",
-      "onboard_time": 1778198359,
-      "rank": 36,
-      "category": "财经"
-    },
-    {
       "raw_hot": 281924,
       "num": 281924,
       "word": "王俊凯狄仁杰剧照",
@@ -9956,7 +10012,7 @@
     },
     {
       "raw_hot": 277130,
-      "num": 212880,
+      "num": 235263,
       "word": "青海17岁失联高中女生遗体已找到",
       "onboard_time": 1778514441,
       "rank": 42,
@@ -10521,14 +10577,6 @@
       "onboard_time": 1778223440,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 259015,
-      "num": 149966,
-      "word": "3种炎症拖久了很危险",
-      "onboard_time": 1778541317,
-      "rank": 20,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 258681,
@@ -12228,7 +12276,7 @@
     },
     {
       "raw_hot": 218221,
-      "num": 219408,
+      "num": 292562,
       "word": "JDG对战LGDNBW",
       "onboard_time": 1778502022,
       "rank": 35,
@@ -12531,6 +12579,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 213253,
+      "num": 213253,
+      "word": "马克龙紧急撤回表态改口不派军舰",
+      "onboard_time": 1778543657,
+      "rank": 24,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 213163,
       "num": 213163,
       "word": "国乒男团冲4强",
@@ -12747,14 +12803,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 208829,
-      "num": 208829,
-      "word": "汶川小英雄林浩也有女儿了",
-      "onboard_time": 1778541618,
-      "rank": 16,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 208753,
       "num": 331472,
       "word": "店主回应女子200多元刮刮乐中100万",
@@ -12873,14 +12921,6 @@
       "onboard_time": 1777708160,
       "rank": 43,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 205988,
-      "num": 141780,
-      "word": "沙溢瘦了胡可功不可没",
-      "onboard_time": 1778541198,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 205840,
@@ -13203,6 +13243,14 @@
       "category": "民生新闻,健康医疗"
     },
     {
+      "raw_hot": 200263,
+      "num": 200263,
+      "word": "汉坦病毒在湖南有传播风险吗",
+      "onboard_time": 1778541138,
+      "rank": 36,
+      "category": "健康医疗,民生新闻"
+    },
+    {
       "raw_hot": 200155,
       "num": 292093,
       "word": "中国将发射20万颗卫星",
@@ -13385,6 +13433,14 @@
       "onboard_time": 1777896263,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 195562,
+      "num": 195562,
+      "word": "106岁老太染手指甲每天喝小酒",
+      "onboard_time": 1778541678,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 195288,
@@ -15907,6 +15963,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 152680,
+      "num": 152680,
+      "word": "常石磊说没听过李宇春的歌",
+      "onboard_time": 1778544321,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 152184,
       "num": 138174,
       "word": "奔跑吧这期是复古造型",
@@ -16899,6 +16963,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 132630,
+      "num": 194541,
+      "word": "张杰是国乐无双发起者",
+      "onboard_time": 1778542999,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 132609,
       "num": 151844,
       "word": "中国台北男团3比2瑞典",
@@ -17115,6 +17187,22 @@
       "category": "数码"
     },
     {
+      "raw_hot": 129760,
+      "num": 129760,
+      "word": "王皓喊梁靖崑梁教授",
+      "onboard_time": 1778544019,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 129500,
+      "num": 129500,
+      "word": "医生回应婴儿被喂鹅蛋后进ICU",
+      "onboard_time": 1778541258,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 129211,
       "num": 303389,
       "word": "五四晚会",
@@ -17169,14 +17257,6 @@
       "onboard_time": 1778513841,
       "rank": 46,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 128201,
-      "num": 128201,
-      "word": "医生回应婴儿被喂鹅蛋后进ICU",
-      "onboard_time": 1778541258,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 128084,
@@ -17811,6 +17891,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 119503,
+      "num": 194529,
+      "word": "18年前汶川一条没发出的短信",
+      "onboard_time": 1778541198,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 119426,
       "num": 325446,
       "word": "英伟达新技术翻车",
@@ -17843,6 +17931,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 119175,
+      "num": 119175,
+      "word": "萨摩耶偷面包全过程",
+      "onboard_time": 1778520795,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 119059,
       "num": 119059,
       "word": "李若彤被路人认成40岁",
@@ -17857,14 +17953,6 @@
       "onboard_time": 1778047041,
       "rank": 46,
       "category": "网红,体育"
-    },
-    {
-      "raw_hot": 118865,
-      "num": 118865,
-      "word": "警方通报女子遭男生冲撞倒地",
-      "onboard_time": 1778541317,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 118701,
@@ -17929,6 +18017,14 @@
       "onboard_time": 1778076442,
       "rank": 29,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 117653,
+      "num": 117653,
+      "word": "男子凌晨遭追打直奔武警营门求救",
+      "onboard_time": 1778515340,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 117533,
@@ -18009,14 +18105,6 @@
       "onboard_time": 1777874781,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 116424,
-      "num": 116424,
-      "word": "106岁老太染手指甲每天喝小酒",
-      "onboard_time": 1778541678,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 116402,
@@ -18299,6 +18387,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 108696,
+      "num": 108696,
+      "word": "美光科技大涨7%",
+      "onboard_time": 1778542639,
+      "rank": 41,
+      "category": "财经"
+    },
+    {
       "raw_hot": 108578,
       "num": 471349,
       "word": "河成云晒和赖冠霖聊天记录",
@@ -18547,14 +18643,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 102162,
-      "num": 102162,
-      "word": "萨摩耶偷面包全过程",
-      "onboard_time": 1778520795,
-      "rank": 34,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 101736,
       "num": 230970,
       "word": "小米新一代智能座舱入网",
@@ -18673,14 +18761,6 @@
       "onboard_time": 1777560021,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 98863,
-      "num": 98863,
-      "word": "男子凌晨遭追打直奔武警营门求救",
-      "onboard_time": 1778515340,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 98714,
@@ -18865,14 +18945,6 @@
       "onboard_time": 1777826900,
       "rank": 39,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 95777,
-      "num": 95777,
-      "word": "18年前汶川一条没发出的短信",
-      "onboard_time": 1778541198,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 95545,
@@ -19131,6 +19203,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 87481,
+      "num": 87481,
+      "word": "护士节",
+      "onboard_time": 1778542878,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 87241,
       "num": 87241,
       "word": "吴宜泽一阶段3比1领先墨菲",
@@ -19185,6 +19265,14 @@
       "onboard_time": 1778496921,
       "rank": 37,
       "category": "演出"
+    },
+    {
+      "raw_hot": 86636,
+      "num": 86636,
+      "word": "张桂源的蛋糕",
+      "onboard_time": 1778541317,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 86498,
@@ -19257,14 +19345,6 @@
       "onboard_time": 1777906824,
       "rank": 45,
       "category": "演出"
-    },
-    {
-      "raw_hot": 83636,
-      "num": 83636,
-      "word": "汉坦病毒在湖南有传播风险吗",
-      "onboard_time": 1778541138,
-      "rank": 36,
-      "category": "健康医疗,民生新闻"
     },
     {
       "raw_hot": 83626,
@@ -19387,6 +19467,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 81724,
+      "num": 194656,
+      "word": "张小斐新角色眼里全是野心",
+      "onboard_time": 1778529794,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 81648,
       "num": 138184,
       "word": "保罗进入尼克斯老鹰直播间",
@@ -19457,14 +19545,6 @@
       "onboard_time": 1778434756,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 79416,
-      "num": 79416,
-      "word": "张桂源的蛋糕",
-      "onboard_time": 1778541317,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 78908,
@@ -20233,14 +20313,6 @@
       "onboard_time": 1778485999,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 59137,
-      "num": 61291,
-      "word": "张小斐新角色眼里全是野心",
-      "onboard_time": 1778529794,
-      "rank": 44,
-      "category": "电影"
     },
     {
       "raw_hot": 59120,
@@ -21777,6 +21849,14 @@
       "onboard_time": 1778458221,
       "rank": 18,
       "category": "数码"
+    },
+    {
+      "raw_hot": 31812,
+      "num": 235391,
+      "word": "AI挑衅Viper",
+      "onboard_time": 1778543058,
+      "rank": 18,
+      "category": "电竞"
     },
     {
       "raw_hot": 31772,
