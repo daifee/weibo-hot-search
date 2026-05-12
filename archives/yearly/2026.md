@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/05/12 09:19:26
+本榜单时间：2026/01/01 00:35:36 ~ 2026/05/12 12:42:54
 </p>
 </blockquote>
 <p>
@@ -1095,6 +1095,12 @@ JYP从JYP辞职了（热度：4682490）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%8D%E5%99%AA%E8%80%B3%E6%9C%BA%E5%8F%97%E5%AE%B3%E8%80%85%E5%87%BA%E7%8E%B0%23" target="weibo">
+降噪耳机受害者出现（热度：3656669）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%A7%8B%E5%8D%83%E5%9D%A0%E4%BA%A1%E4%BA%8B%E5%8F%91%E5%9C%B0%E7%80%91%E5%B8%83%E8%90%BD%E5%B7%AE168%E7%B1%B3%23" target="weibo">
 女子秋千坠亡事发地瀑布落差168米（热度：3655676）
 </a>
@@ -1805,12 +1811,6 @@ YSL 撞衫（热度：2608306）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E6%80%A1%E9%81%93%E6%AD%89%23" target="weibo">
 孙怡道歉（热度：2608150）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B2%88%E8%85%BE%E9%A9%AC%E4%B8%BD%20%E5%97%91%E6%99%95%E4%BA%86%23" target="weibo">
-沈腾马丽 嗑晕了（热度：2607026）
 </a>
 </li>
 

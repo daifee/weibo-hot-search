@@ -1,0 +1,410 @@
+{
+  "runTime": 1778560974487,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3656669,
+        "num": 3656669,
+        "word": "降噪耳机受害者出现",
+        "onboard_time": 1778554520,
+        "rank": 0,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 827635,
+        "num": 1118752,
+        "word": "汶川地震的可乐男孩入职可口可乐",
+        "onboard_time": 1778556019,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31174,
+        "num": 914799,
+        "word": "今天全国防灾减灾日",
+        "onboard_time": 1778552539,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 676914,
+        "num": 676914,
+        "word": "别让没煮过饭的人买菜",
+        "onboard_time": 1778544802,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 507861,
+        "num": 507861,
+        "word": "梁靖崑担任北电教师",
+        "onboard_time": 1778557640,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 470024,
+        "num": 470024,
+        "word": "特朗普发文称非常期待中国之行",
+        "onboard_time": 1778553200,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 443203,
+        "num": 443203,
+        "word": "打司美格鲁肽减重的人怎么样了",
+        "onboard_time": 1778558241,
+        "rank": 6,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 362967,
+        "num": 362967,
+        "word": "给阿嬷的情书 观众的报复性投票",
+        "onboard_time": 1778559742,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 360270,
+        "num": 360270,
+        "word": "湖人vs雷霆",
+        "onboard_time": 1778548700,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 322177,
+        "num": 322177,
+        "word": "黑夜告白大结局",
+        "onboard_time": 1778559080,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1446596,
+        "num": 321800,
+        "word": "演出完退礼服女孩发声",
+        "onboard_time": 1778547979,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 955541,
+        "num": 320650,
+        "word": "曝蒋毅有老婆孩子",
+        "onboard_time": 1778558179,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 782699,
+        "num": 318420,
+        "word": "宁艺卓 别来身材羞辱那一套",
+        "onboard_time": 1778542819,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 773789,
+        "num": 317447,
+        "word": "汶川地震失去双腿舞者廖智生四胎",
+        "onboard_time": 1778550621,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 632302,
+        "num": 314913,
+        "word": "虞书欣全英文采访",
+        "onboard_time": 1778555059,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 372285,
+        "num": 313410,
+        "word": "刘浩存00花咖位",
+        "onboard_time": 1778556381,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 614380,
+        "num": 312297,
+        "word": "贵州一男子2天内嫖娼2次被行拘",
+        "onboard_time": 1778551818,
+        "rank": 16,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 59860,
+        "num": 310585,
+        "word": "湖北一小学被指调查家长职业背景",
+        "onboard_time": 1778559860,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 46506,
+        "num": 308986,
+        "word": "当年汶川追空投的男孩已成空降兵",
+        "onboard_time": 1778559801,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 488572,
+        "num": 308420,
+        "word": "鹿晗给新婚粉丝送礼盒",
+        "onboard_time": 1778545101,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 435298,
+        "num": 306871,
+        "word": "小猫的脚原来这么臭",
+        "onboard_time": 1778555899,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 380751,
+        "num": 304441,
+        "word": "双胞胎姐妹杀人案后续",
+        "onboard_time": 1778560341,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 334512,
+        "num": 303076,
+        "word": "512",
+        "onboard_time": 1778549360,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2497,
+        "num": 301668,
+        "word": "2026互联中国公益行动",
+        "onboard_time": 1778502381,
+        "rank": 23,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 319958,
+        "num": 300183,
+        "word": "Deepseek分析145斤怎么瘦到100斤",
+        "onboard_time": 1778542758,
+        "rank": 24,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 312457,
+        "num": 299397,
+        "word": "热依扎是单亲妈妈",
+        "onboard_time": 1778559561,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 299490,
+        "num": 296883,
+        "word": "微信状态 访客记录",
+        "onboard_time": 1778502381,
+        "rank": 26,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 284609,
+        "num": 295145,
+        "word": "美国确认首例汉坦病毒感染病例",
+        "onboard_time": 1778558722,
+        "rank": 27,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 278398,
+        "num": 294455,
+        "word": "黄子韬调侃徐艺洋怪异跑姿",
+        "onboard_time": 1778555119,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 307893,
+        "num": 293165,
+        "word": "双休和单休其实差了两天",
+        "onboard_time": 1778553980,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 299921,
+        "num": 290592,
+        "word": "医生才是最不听医嘱的",
+        "onboard_time": 1778559261,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 265599,
+        "num": 289997,
+        "word": "被妈妈护住的宝宝今年18岁了",
+        "onboard_time": 1778551580,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 265057,
+        "num": 288375,
+        "word": "626聊天记录",
+        "onboard_time": 1778555540,
+        "rank": 32,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 249891,
+        "num": 287388,
+        "word": "微信状态浏览者计数测试已停止",
+        "onboard_time": 1778553320,
+        "rank": 33,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 246631,
+        "num": 285216,
+        "word": "日本名将赞孙颖莎决赛史上最强",
+        "onboard_time": 1778557280,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 189780,
+        "num": 283876,
+        "word": "常石磊发言",
+        "onboard_time": 1778553200,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 240200,
+        "num": 282820,
+        "word": "A股年内首只翻倍ETF诞生",
+        "onboard_time": 1778556560,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 209614,
+        "num": 281382,
+        "word": "孟子义AI换脸高叶",
+        "onboard_time": 1778560521,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 55883,
+        "num": 279566,
+        "word": "聂远12岁女儿好高",
+        "onboard_time": 1778560461,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39070,
+        "num": 277237,
+        "word": "月嫂白天摸鱼让娃睡觉夜晚粗暴带娃",
+        "onboard_time": 1778560101,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 233935,
+        "num": 275907,
+        "word": "常石磊说没听过李宇春的歌",
+        "onboard_time": 1778544321,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187605,
+        "num": 274355,
+        "word": "发现孩子还是很在意妈妈的穿着",
+        "onboard_time": 1778545101,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 184943,
+        "num": 273357,
+        "word": "乒协公布名古屋亚运会选拔办法",
+        "onboard_time": 1778560762,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 183968,
+        "num": 271345,
+        "word": "被内测微信状态访客记录用户发声",
+        "onboard_time": 1778542758,
+        "rank": 43,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 178058,
+        "num": 269846,
+        "word": "向太曝向佐在校被霸凌",
+        "onboard_time": 1778557398,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171901,
+        "num": 269024,
+        "word": "汶川小英雄林浩也有女儿了",
+        "onboard_time": 1778541618,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92603,
+        "num": 267789,
+        "word": "特朗普敲打鲁比奥等强硬派别捣乱",
+        "onboard_time": 1778559501,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 168366,
+        "num": 266319,
+        "word": "教刘浩存秦腔的老师都想收她为徒了",
+        "onboard_time": 1778556502,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138975,
+        "num": 263906,
+        "word": "宋亚轩好命苦的表情",
+        "onboard_time": 1778557280,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167557,
+        "num": 262199,
+        "word": "第一次坐高铁竟是为见女儿最后一面",
+        "onboard_time": 1778556860,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平谈中美关系#"
+    }
+  }
+}
