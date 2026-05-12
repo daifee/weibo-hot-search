@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/05/13 00:00:35 ~ 2026/05/13 04:16:00
+本榜单时间：2026/05/13 00:00:35 ~ 2026/05/13 04:50:18
 </p>
 </blockquote>
 <p>
@@ -393,14 +393,14 @@ hybe拒绝宫脇咲良参与创作（热度：214602）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23BLG%E6%88%98%E8%83%9CiG%23" target="weibo">
-BLG战胜iG（热度：30777）
+<a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%AC%A1%E7%9C%8B%E5%88%B0%E9%87%91%E4%B8%9D%E6%A5%A0%E6%9C%A8%E7%8B%97%23" target="weibo">
+第一次看到金丝楠木狗（热度：31207）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%AC%A1%E7%9C%8B%E5%88%B0%E9%87%91%E4%B8%9D%E6%A5%A0%E6%9C%A8%E7%8B%97%23" target="weibo">
-第一次看到金丝楠木狗（热度：30770）
+<a href="https://s.weibo.com/weibo?q=%23BLG%E6%88%98%E8%83%9CiG%23" target="weibo">
+BLG战胜iG（热度：30777）
 </a>
 </li>
 
