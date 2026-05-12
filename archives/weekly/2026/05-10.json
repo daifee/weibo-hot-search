@@ -1,6 +1,6 @@
 {
   "startTime": 1778342585344,
-  "endTime": 1778603248351,
+  "endTime": 1778610207243,
   "band_list": [
     {
       "raw_hot": 19315463,
@@ -3179,6 +3179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 259031,
+      "num": 259031,
+      "word": "辛芷蕾新片演黄柳霜",
+      "onboard_time": 1778603598,
+      "rank": 4,
+      "category": "电影,剧集"
+    },
+    {
       "raw_hot": 256377,
       "num": 232269,
       "word": "桂林文旅为何不能直面一张脏凳子",
@@ -5635,6 +5643,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 61973,
+      "num": 61973,
+      "word": "果然人在做坏事的时候是最能忍的",
+      "onboard_time": 1778605877,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 60631,
       "num": 195185,
       "word": "贾冰呼吁正视脂肪肝慢病隐患",
@@ -5867,6 +5883,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 48580,
+      "num": 61469,
+      "word": "高能量的人有什么特征",
+      "onboard_time": 1778605219,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 48548,
       "num": 184662,
       "word": "秦海璐一出场这味儿就对了",
@@ -5889,6 +5913,14 @@
       "onboard_time": 1778452155,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 47936,
+      "num": 61439,
+      "word": "狗 这水怎么会咬舌头",
+      "onboard_time": 1778589802,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 47365,
@@ -6043,6 +6075,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 38758,
+      "num": 61341,
+      "word": "中国拳击手非洲比赛疑遭下药",
+      "onboard_time": 1778605219,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 38639,
       "num": 279537,
       "word": "白敬亭包梯含鸽量百分百",
@@ -6075,12 +6115,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 36165,
+      "num": 61288,
+      "word": "有一诺的AG",
+      "onboard_time": 1778608095,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 35829,
       "num": 348324,
       "word": "黔江2死6伤车祸目击者发声",
       "onboard_time": 1778414479,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 35574,
+      "num": 61267,
+      "word": "孙颖莎打匹克球赢了振臂欢呼",
+      "onboard_time": 1778598741,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 35573,
@@ -6211,6 +6267,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 30777,
+      "num": 61242,
+      "word": "BLG战胜iG",
+      "onboard_time": 1778605219,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 30530,
+      "num": 61232,
+      "word": "网红穿完就退成产业链",
+      "onboard_time": 1778596341,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 30402,
       "num": 268253,
       "word": "叔叔起诉民政局要求分割侄子遗产",
@@ -6235,6 +6307,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 29240,
+      "num": 61206,
+      "word": "公司买50箱飞天茅台41箱是假货",
+      "onboard_time": 1778605277,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 28163,
       "num": 38726,
       "word": "致敬重生的汶川",
@@ -6248,6 +6328,14 @@
       "word": "211毕业当保安当事人再发声",
       "onboard_time": 1778396539,
       "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 27995,
+      "num": 61192,
+      "word": "四川泸定地震",
+      "onboard_time": 1778599102,
+      "rank": 47,
       "category": "民生新闻"
     },
     {
@@ -6305,6 +6393,14 @@
       "onboard_time": 1778343200,
       "rank": 19,
       "category": "军事"
+    },
+    {
+      "raw_hot": 26055,
+      "num": 61178,
+      "word": "湖南卫视521招商片单",
+      "onboard_time": 1778600901,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 25417,
