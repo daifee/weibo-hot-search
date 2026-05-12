@@ -1,0 +1,410 @@
+{
+  "runTime": 1778573405164,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1748761,
+        "num": 1748761,
+        "word": "宇树机甲390万起",
+        "onboard_time": 1778565981,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 884063,
+        "num": 948418,
+        "word": "降噪耳机受害者出现",
+        "onboard_time": 1778554520,
+        "rank": 1,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 26378,
+        "num": 891484,
+        "word": "科学避险自救指南",
+        "onboard_time": 1778569520,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1405555,
+        "num": 890987,
+        "word": "原来健康的人身体是静音的",
+        "onboard_time": 1778561302,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1101304,
+        "num": 890598,
+        "word": "深圳夫妻囤存储芯片5个月狂涨320亿",
+        "onboard_time": 1778565800,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 889414,
+        "num": 889414,
+        "word": "空调 霉菌",
+        "onboard_time": 1778568741,
+        "rank": 5,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 795433,
+        "num": 795433,
+        "word": "中餐厅10录制",
+        "onboard_time": 1778569101,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 770116,
+        "num": 770116,
+        "word": "演出完退礼服女孩演出已暂停",
+        "onboard_time": 1778567242,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 399683,
+        "num": 399683,
+        "word": "RNG复活了",
+        "onboard_time": 1778570599,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 276205,
+        "num": 396870,
+        "word": "给阿嬷的情书 观众的报复性投票",
+        "onboard_time": 1778559742,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1093802,
+        "num": 392566,
+        "word": "15岁撞人男生当天撞了2个女孩",
+        "onboard_time": 1778571201,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1021336,
+        "num": 385516,
+        "word": "放羊的星星演员李威被判刑",
+        "onboard_time": 1778561243,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 843554,
+        "num": 384631,
+        "word": "白鹿综艺互动为何会被逐帧审判",
+        "onboard_time": 1778571201,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 680881,
+        "num": 375911,
+        "word": "无忧传媒创始人凌晨发朋友圈",
+        "onboard_time": 1778565140,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 646020,
+        "num": 372972,
+        "word": "消杀公司愿为误开房门赔30倍房费",
+        "onboard_time": 1778570360,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 487256,
+        "num": 367441,
+        "word": "腾讯 已读访客功能不会开发",
+        "onboard_time": 1778565021,
+        "rank": 15,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 459276,
+        "num": 359932,
+        "word": "遭15岁男孩冲撞女子拒绝和解",
+        "onboard_time": 1778568260,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 435816,
+        "num": 355372,
+        "word": "特朗普称访华行程将非常精彩",
+        "onboard_time": 1778565381,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 331410,
+        "num": 351310,
+        "word": "詹姆斯 湖人",
+        "onboard_time": 1778564181,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 349601,
+        "num": 349601,
+        "word": "机票价格大跳水",
+        "onboard_time": 1778564721,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 527168,
+        "num": 348708,
+        "word": "白鹿泼水李晨",
+        "onboard_time": 1778565080,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 351666,
+        "num": 347099,
+        "word": "打司美格鲁肽减重的人怎么样了",
+        "onboard_time": 1778558241,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 81801,
+        "num": 342000,
+        "word": "何小鹏和朋友们聚会品鉴小鹏GX",
+        "onboard_time": 1778570661,
+        "rank": 22,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 341588,
+        "num": 341588,
+        "word": "双休和单休其实差了两天",
+        "onboard_time": 1778553980,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 323663,
+        "num": 323663,
+        "word": "南京审计大学一男子被曝偷拍女生",
+        "onboard_time": 1778571502,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 278985,
+        "num": 278985,
+        "word": "詹姆斯回应是否退役",
+        "onboard_time": 1778571980,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 273329,
+        "num": 273329,
+        "word": "沪上阿姨回应骚扰顾客5000陪一晚",
+        "onboard_time": 1778572339,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 270420,
+        "num": 271984,
+        "word": "百念好何be",
+        "onboard_time": 1778568621,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157153,
+        "num": 271775,
+        "word": "黑夜告白大结局",
+        "onboard_time": 1778559080,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 57343,
+        "num": 269398,
+        "word": "特朗普发文称非常期待中国之行",
+        "onboard_time": 1778553200,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 19695,
+        "num": 269153,
+        "word": "夏威夷海滩一男子袭击海豹被痛打",
+        "onboard_time": 1778573241,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 267489,
+        "num": 266992,
+        "word": "演出完退礼服女孩发声",
+        "onboard_time": 1778547979,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 253550,
+        "num": 265544,
+        "word": "曝蒋毅有老婆孩子",
+        "onboard_time": 1778558179,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201184,
+        "num": 264682,
+        "word": "商家称演出完退礼服女孩想私下和解",
+        "onboard_time": 1778571861,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 198652,
+        "num": 263106,
+        "word": "汶川地震的可乐男孩入职可口可乐",
+        "onboard_time": 1778556019,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 197287,
+        "num": 261055,
+        "word": "田曦薇入围亚洲内容大赏视后",
+        "onboard_time": 1778568982,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197000,
+        "num": 260425,
+        "word": "宇树载人变形机甲",
+        "onboard_time": 1778564241,
+        "rank": 36,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 194842,
+        "num": 258658,
+        "word": "医生才是最不听医嘱的",
+        "onboard_time": 1778559261,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 65744,
+        "num": 257785,
+        "word": "痞幼回应与小袁同学关系",
+        "onboard_time": 1778573241,
+        "rank": 38,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 174105,
+        "num": 256123,
+        "word": "小猫的脚原来这么臭",
+        "onboard_time": 1778555899,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 172519,
+        "num": 254862,
+        "word": "退货女孩演出当天曾说礼服有问题",
+        "onboard_time": 1778570121,
+        "rank": 40,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 169745,
+        "num": 252680,
+        "word": "迅猛龙被问小澈在她家住过的反应",
+        "onboard_time": 1778563460,
+        "rank": 41,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 166243,
+        "num": 251133,
+        "word": "陈丽君进组",
+        "onboard_time": 1778570300,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 162920,
+        "num": 250982,
+        "word": "雷霆4比0湖人",
+        "onboard_time": 1778563822,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 162497,
+        "num": 248349,
+        "word": "杨幂烫伤在逐渐痊愈了",
+        "onboard_time": 1778571502,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160502,
+        "num": 247128,
+        "word": "詹姆斯回应雷霆4比0湖人",
+        "onboard_time": 1778569520,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 62928,
+        "num": 246497,
+        "word": "宋亚轩好命苦的表情",
+        "onboard_time": 1778557280,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 62279,
+        "num": 245552,
+        "word": "优酷招商大会微指百指",
+        "onboard_time": 1778564422,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158901,
+        "num": 243642,
+        "word": "月嫂上户2天夜里粗暴摇晃婴儿",
+        "onboard_time": 1778567541,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157528,
+        "num": 241570,
+        "word": "湖人站着死",
+        "onboard_time": 1778571921,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中美元首北京会晤三个特殊时间点#"
+    }
+  }
+}
