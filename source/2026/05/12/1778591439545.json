@@ -1,0 +1,410 @@
+{
+  "runTime": 1778591439545,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 986172,
+        "num": 1157787,
+        "word": "4月汽车销量前10仅1款油车",
+        "onboard_time": 1778586560,
+        "rank": 0,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 277871,
+        "num": 817517,
+        "word": "给阿嬷的情书 商科女发光发热",
+        "onboard_time": 1778588661,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 16772,
+        "num": 648648,
+        "word": "2026世界市长对话成都",
+        "onboard_time": 1778591060,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2460654,
+        "num": 618089,
+        "word": "白鹿演唱会过审",
+        "onboard_time": 1778585960,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 1405071,
+        "num": 611752,
+        "word": "下午休是性价比最高的半天假",
+        "onboard_time": 1778588482,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 562810,
+        "num": 562810,
+        "word": "建议不要在小环境中待太久",
+        "onboard_time": 1778576720,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 435462,
+        "num": 435462,
+        "word": "燃油附加费 涨价",
+        "onboard_time": 1778582179,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 432353,
+        "num": 432353,
+        "word": "杨幂北魏复原妆",
+        "onboard_time": 1778585240,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 371202,
+        "num": 371202,
+        "word": "深圳夫妻囤存储芯片5个月狂涨320亿",
+        "onboard_time": 1778565800,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 283320,
+        "num": 283320,
+        "word": "恋与深空回应擦边低俗争议",
+        "onboard_time": 1778583621,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 2251847,
+        "num": 280490,
+        "word": "樊振东无缘名古屋亚运会",
+        "onboard_time": 1778588180,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1528506,
+        "num": 274392,
+        "word": "汪涵有多爱吃槟榔",
+        "onboard_time": 1778583560,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1051337,
+        "num": 271816,
+        "word": "考试坐严浩翔前面的同学发声",
+        "onboard_time": 1778581521,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 929427,
+        "num": 264262,
+        "word": "江苏税务回应偷拍男生拟录公务员",
+        "onboard_time": 1778589740,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 646677,
+        "num": 258415,
+        "word": "宋祖儿纯素颜",
+        "onboard_time": 1778587280,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 634404,
+        "num": 252420,
+        "word": "hybe拒绝宫脇咲良参与创作",
+        "onboard_time": 1778584281,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 423989,
+        "num": 248914,
+        "word": "女孩退礼服事件合唱团称受牵连",
+        "onboard_time": 1778577379,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 358114,
+        "num": 242060,
+        "word": "巴掌榴莲",
+        "onboard_time": 1778576422,
+        "rank": 17,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 14897,
+        "num": 237368,
+        "word": "河道放水灌溉不料溃口致农田被淹",
+        "onboard_time": 1778590341,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 625610,
+        "num": 226209,
+        "word": "白敬亭沈腾合开新公司",
+        "onboard_time": 1778585781,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1120259,
+        "num": 222953,
+        "word": "曝某升咖艺人想抢李宇春跨年压轴",
+        "onboard_time": 1778590580,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 220263,
+        "num": 220263,
+        "word": "当地回应偷拍裙底男生已拟录公务员",
+        "onboard_time": 1778589140,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 411447,
+        "num": 212778,
+        "word": "王俊凯中餐厅招商能力",
+        "onboard_time": 1778585240,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 405928,
+        "num": 205819,
+        "word": "抖音评论区 陈赫眼中含泪",
+        "onboard_time": 1778578459,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 223970,
+        "num": 197947,
+        "word": "北京男篮vs广东男篮",
+        "onboard_time": 1778590041,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 333219,
+        "num": 178545,
+        "word": "狼队对战AG",
+        "onboard_time": 1778584580,
+        "rank": 25,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 329703,
+        "num": 169695,
+        "word": "颜如晶半年瘦了60斤",
+        "onboard_time": 1778583501,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167362,
+        "num": 167362,
+        "word": "低智商犯罪",
+        "onboard_time": 1778581940,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 303459,
+        "num": 167144,
+        "word": "南京审计大学通报男生偷拍",
+        "onboard_time": 1778575041,
+        "rank": 28,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 186323,
+        "num": 166999,
+        "word": "印度游客在莫斯科喷泉水池洗衣服",
+        "onboard_time": 1778581101,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 313096,
+        "num": 166572,
+        "word": "时代少年团 真维斯",
+        "onboard_time": 1778582241,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 289709,
+        "num": 166403,
+        "word": "惊现活蛇火锅店老板致歉",
+        "onboard_time": 1778583680,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 256828,
+        "num": 166116,
+        "word": "宇树机甲 民用交通工具",
+        "onboard_time": 1778580140,
+        "rank": 32,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 253743,
+        "num": 165719,
+        "word": "沪上阿姨报警",
+        "onboard_time": 1778583200,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 228566,
+        "num": 165615,
+        "word": "宋慧乔在朋友婚礼上致辞",
+        "onboard_time": 1778579781,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 220225,
+        "num": 165272,
+        "word": "王俊凯给同学的初中毕业寄语",
+        "onboard_time": 1778589680,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182344,
+        "num": 165035,
+        "word": "AG剧透",
+        "onboard_time": 1778588180,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 204319,
+        "num": 164786,
+        "word": "放羊的星星演员李威被判刑",
+        "onboard_time": 1778561243,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150561,
+        "num": 164493,
+        "word": "布朗尼回应詹姆斯是否退役",
+        "onboard_time": 1778590762,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 68417,
+        "num": 164119,
+        "word": "中美元首北京会晤三个特殊时间点",
+        "onboard_time": 1778591361,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 19418,
+        "num": 163914,
+        "word": "科学避险自救指南",
+        "onboard_time": 1778569520,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 170111,
+        "num": 163667,
+        "word": "当母虎头露出来时才知小虎多小",
+        "onboard_time": 1778588301,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 171479,
+        "num": 163360,
+        "word": "iG对战BLG",
+        "onboard_time": 1778590280,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 170574,
+        "num": 163123,
+        "word": "王曼昱给孙颖莎看手机",
+        "onboard_time": 1778576720,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 60737,
+        "num": 162789,
+        "word": "中美首次联合发布禁毒声明",
+        "onboard_time": 1778577681,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 162618,
+        "num": 162618,
+        "word": "中方强烈谴责巴方有关行径",
+        "onboard_time": 1778575401,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 161028,
+        "num": 161028,
+        "word": "白鹿综艺互动为何会被逐帧审判",
+        "onboard_time": 1778571201,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148971,
+        "num": 148971,
+        "word": "主角",
+        "onboard_time": 1778589081,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109820,
+        "num": 146506,
+        "word": "腾讯收购喜马拉雅股权案获批",
+        "onboard_time": 1778585120,
+        "rank": 48,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 130902,
+        "num": 146266,
+        "word": "辛芷蕾 奉俊昊电影",
+        "onboard_time": 1778587399,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#中美元首北京会晤三个特殊时间点#"
+    }
+  }
+}
