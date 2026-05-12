@@ -1,6 +1,6 @@
 {
   "startTime": 1778515687163,
-  "endTime": 1778560974487,
+  "endTime": 1778561968071,
   "band_list": [
     {
       "raw_hot": 12278520,
@@ -28,15 +28,15 @@
     },
     {
       "raw_hot": 1941166,
-      "num": 311135,
+      "num": 335557,
       "word": "鹿晗给新婚粉丝送礼盒",
       "onboard_time": 1778545101,
       "rank": 11,
       "category": "艺人"
     },
     {
-      "raw_hot": 1446596,
-      "num": 321800,
+      "raw_hot": 1753371,
+      "num": 349698,
       "word": "演出完退礼服女孩发声",
       "onboard_time": 1778547979,
       "rank": 16,
@@ -51,8 +51,16 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 1070616,
+      "num": 1118752,
+      "word": "汶川地震的可乐男孩入职可口可乐",
+      "onboard_time": 1778556019,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 955541,
-      "num": 320650,
+      "num": 343999,
       "word": "曝蒋毅有老婆孩子",
       "onboard_time": 1778558179,
       "rank": 11,
@@ -83,16 +91,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 827635,
-      "num": 1118752,
-      "word": "汶川地震的可乐男孩入职可口可乐",
-      "onboard_time": 1778556019,
-      "rank": 1,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 782699,
-      "num": 318420,
+      "num": 348550,
       "word": "宁艺卓 别来身材羞辱那一套",
       "onboard_time": 1778542819,
       "rank": 11,
@@ -108,7 +108,7 @@
     },
     {
       "raw_hot": 773789,
-      "num": 317447,
+      "num": 347232,
       "word": "汶川地震失去双腿舞者廖智生四胎",
       "onboard_time": 1778550621,
       "rank": 13,
@@ -148,7 +148,7 @@
     },
     {
       "raw_hot": 632302,
-      "num": 314913,
+      "num": 343267,
       "word": "虞书欣全英文采访",
       "onboard_time": 1778555059,
       "rank": 14,
@@ -156,7 +156,7 @@
     },
     {
       "raw_hot": 614380,
-      "num": 312297,
+      "num": 341633,
       "word": "贵州一男子2天内嫖娼2次被行拘",
       "onboard_time": 1778551818,
       "rank": 16,
@@ -169,6 +169,14 @@
       "onboard_time": 1778541138,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 542645,
+      "num": 542645,
+      "word": "给阿嬷的情书 观众的报复性投票",
+      "onboard_time": 1778559742,
+      "rank": 7,
+      "category": "电影"
     },
     {
       "raw_hot": 529923,
@@ -185,6 +193,14 @@
       "onboard_time": 1778557640,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 488056,
+      "num": 488056,
+      "word": "美国确认首例汉坦病毒感染病例",
+      "onboard_time": 1778558722,
+      "rank": 27,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 472556,
@@ -227,6 +243,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 438919,
+      "num": 338051,
+      "word": "小猫的脚原来这么臭",
+      "onboard_time": 1778555899,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 437365,
       "num": 316044,
       "word": "蔡依林状态 九点睡觉的魔力",
@@ -235,12 +259,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 435298,
-      "num": 306871,
-      "word": "小猫的脚原来这么臭",
-      "onboard_time": 1778555899,
-      "rank": 20,
-      "category": "幽默"
+      "raw_hot": 429971,
+      "num": 276093,
+      "word": "双胞胎姐妹遭袭案后续",
+      "onboard_time": 1778560341,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 418657,
+      "num": 336387,
+      "word": "放羊的星星演员李威被判刑",
+      "onboard_time": 1778561243,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 417510,
+      "num": 417510,
+      "word": "湖人vs雷霆",
+      "onboard_time": 1778548700,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 406052,
@@ -275,28 +315,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 378418,
+      "num": 327346,
+      "word": "热依扎是单亲妈妈",
+      "onboard_time": 1778559561,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 372285,
-      "num": 313410,
+      "num": 340746,
       "word": "刘浩存00花咖位",
       "onboard_time": 1778556381,
       "rank": 15,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 362967,
-      "num": 362967,
-      "word": "给阿嬷的情书 观众的报复性投票",
-      "onboard_time": 1778559742,
-      "rank": 7,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 360270,
-      "num": 360270,
-      "word": "湖人vs雷霆",
-      "onboard_time": 1778548700,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 359885,
@@ -315,6 +347,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 350643,
+      "num": 350643,
+      "word": "黑夜告白大结局",
+      "onboard_time": 1778559080,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 340946,
       "num": 310567,
       "word": "特朗普金卡翻车",
@@ -328,6 +368,14 @@
       "word": "开榴莲开出三房榴莲糖",
       "onboard_time": 1778494460,
       "rank": 6,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 335113,
+      "num": 335113,
+      "word": "医生才是最不听医嘱的",
+      "onboard_time": 1778559261,
+      "rank": 30,
       "category": "幽默"
     },
     {
@@ -355,27 +403,11 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 322177,
-      "num": 322177,
-      "word": "黑夜告白大结局",
-      "onboard_time": 1778559080,
-      "rank": 9,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 315619,
       "num": 315619,
       "word": "吴京发文庆祝与谢楠结婚十四周年",
       "onboard_time": 1778496200,
       "rank": 14,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 312457,
-      "num": 299397,
-      "word": "热依扎是单亲妈妈",
-      "onboard_time": 1778559561,
-      "rank": 25,
       "category": "艺人"
     },
     {
@@ -385,6 +417,14 @@
       "onboard_time": 1778545642,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 311698,
+      "num": 275638,
+      "word": "原来健康的人身体是静音的",
+      "onboard_time": 1778561302,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 309561,
@@ -411,14 +451,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 299921,
-      "num": 290592,
-      "word": "医生才是最不听医嘱的",
-      "onboard_time": 1778559261,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 298739,
       "num": 298739,
       "word": "20岁女子生5斤多女儿才知怀孕",
@@ -435,16 +467,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 284609,
-      "num": 295145,
-      "word": "美国确认首例汉坦病毒感染病例",
-      "onboard_time": 1778558722,
-      "rank": 27,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 278398,
-      "num": 294455,
+      "num": 340517,
       "word": "黄子韬调侃徐艺洋怪异跑姿",
       "onboard_time": 1778555119,
       "rank": 28,
@@ -457,6 +481,14 @@
       "onboard_time": 1778508263,
       "rank": 1,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 277237,
+      "num": 277237,
+      "word": "乒协公布名古屋亚运会选拔办法",
+      "onboard_time": 1778560762,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 277130,
@@ -651,14 +683,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 184943,
-      "num": 273357,
-      "word": "乒协公布名古屋亚运会选拔办法",
-      "onboard_time": 1778560762,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 184135,
       "num": 184135,
       "word": "吴京 慕强",
@@ -739,11 +763,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 158839,
+      "num": 158839,
+      "word": "小猫被主人栓门口炫耀",
+      "onboard_time": 1778561543,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 157621,
       "num": 194529,
       "word": "18年前汶川一条没发出的短信",
       "onboard_time": 1778541198,
       "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 157607,
+      "num": 157607,
+      "word": "汶川地震15名空降勇士大多已退役",
+      "onboard_time": 1778561842,
+      "rank": 43,
       "category": "民生新闻"
     },
     {
@@ -777,6 +817,14 @@
       "onboard_time": 1778510122,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 151483,
+      "num": 263906,
+      "word": "宋亚轩好命苦的表情",
+      "onboard_time": 1778557280,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 150877,
@@ -817,14 +865,6 @@
       "onboard_time": 1778498841,
       "rank": 28,
       "category": "财经,国际时政"
-    },
-    {
-      "raw_hot": 138975,
-      "num": 263906,
-      "word": "宋亚轩好命苦的表情",
-      "onboard_time": 1778557280,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 137511,
@@ -931,6 +971,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 110343,
+      "num": 143304,
+      "word": "小新在恩恩怀里爆哭",
+      "onboard_time": 1778560402,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 109827,
       "num": 109827,
       "word": "孙颖莎11350分女单世一",
@@ -993,6 +1041,14 @@
       "onboard_time": 1778529794,
       "rank": 44,
       "category": "电影"
+    },
+    {
+      "raw_hot": 89489,
+      "num": 339068,
+      "word": "平台回应演出完退礼服事件",
+      "onboard_time": 1778561060,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 88714,
