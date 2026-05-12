@@ -1,6 +1,6 @@
 {
   "startTime": 1778515687163,
-  "endTime": 1778544381215,
+  "endTime": 1778548766386,
   "band_list": [
     {
       "raw_hot": 12278520,
@@ -11,16 +11,24 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 2021884,
-      "num": 856843,
+      "raw_hot": 2583692,
+      "num": 875467,
       "word": "Deepseek分析145斤怎么瘦到100斤",
       "onboard_time": 1778542758,
       "rank": 3,
       "category": "运动健身"
     },
     {
-      "raw_hot": 911093,
-      "num": 818565,
+      "raw_hot": 1941166,
+      "num": 311135,
+      "word": "鹿晗给新婚粉丝送礼盒",
+      "onboard_time": 1778545101,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1085354,
+      "num": 875140,
       "word": "被内测微信状态访客记录用户发声",
       "onboard_time": 1778542758,
       "rank": 4,
@@ -33,6 +41,14 @@
       "onboard_time": 1778503943,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 843464,
+      "num": 843464,
+      "word": "别让没煮过饭的人买菜",
+      "onboard_time": 1778544802,
+      "rank": 5,
+      "category": "幽默"
     },
     {
       "raw_hot": 841363,
@@ -51,12 +67,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 769121,
+      "num": 311080,
+      "word": "常石磊说没听过李宇春的歌",
+      "onboard_time": 1778544321,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 733569,
       "num": 799593,
       "word": "微信公关总监曾回应访客功能",
       "onboard_time": 1778526494,
       "rank": 3,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 712785,
+      "num": 310904,
+      "word": "宁艺卓 别来身材羞辱那一套",
+      "onboard_time": 1778542819,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 680139,
@@ -75,14 +107,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 614433,
-      "num": 288967,
-      "word": "宁艺卓 别来身材羞辱那一套",
-      "onboard_time": 1778542819,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 571522,
       "num": 571522,
       "word": "主角收视率走势",
@@ -91,7 +115,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 502602,
+      "raw_hot": 529923,
       "num": 316419,
       "word": "女孩演出完退礼服被商家曝光",
       "onboard_time": 1778501541,
@@ -107,6 +131,22 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 458685,
+      "num": 311016,
+      "word": "50只羊吃地里毒玉米接连死亡",
+      "onboard_time": 1778546120,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 443643,
+      "num": 310709,
+      "word": "沙溢瘦了胡可功不可没",
+      "onboard_time": 1778541198,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 437365,
       "num": 316044,
       "word": "蔡依林状态 九点睡觉的魔力",
@@ -115,12 +155,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 429684,
-      "num": 285094,
-      "word": "沙溢瘦了胡可功不可没",
-      "onboard_time": 1778541198,
-      "rank": 24,
-      "category": "艺人"
+      "raw_hot": 406052,
+      "num": 310137,
+      "word": "发现孩子还是很在意妈妈的穿着",
+      "onboard_time": 1778545101,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 387089,
+      "num": 387089,
+      "word": "王皓喊梁靖崑梁教授",
+      "onboard_time": 1778544019,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 385271,
@@ -131,12 +179,36 @@
       "category": "演出"
     },
     {
+      "raw_hot": 359885,
+      "num": 309965,
+      "word": "金银价格大涨",
+      "onboard_time": 1778526314,
+      "rank": 20,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 358461,
+      "num": 310626,
+      "word": "演出完退礼服女孩发声",
+      "onboard_time": 1778547979,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 357582,
       "num": 357582,
       "word": "焦虑型人格的真实表现",
       "onboard_time": 1778500460,
       "rank": 7,
       "category": "情感"
+    },
+    {
+      "raw_hot": 340946,
+      "num": 310567,
+      "word": "特朗普金卡翻车",
+      "onboard_time": 1778544680,
+      "rank": 17,
+      "category": "国际时政"
     },
     {
       "raw_hot": 339524,
@@ -147,8 +219,24 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 329012,
+      "num": 309854,
+      "word": "儿子高三脑出血妈妈十几年失去自我",
+      "onboard_time": 1778511742,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 328583,
+      "num": 309763,
+      "word": "湖人vs雷霆",
+      "onboard_time": 1778548700,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 327697,
-      "num": 235235,
+      "num": 309191,
       "word": "3种炎症拖久了很危险",
       "onboard_time": 1778541317,
       "rank": 20,
@@ -160,6 +248,22 @@
       "word": "吴京发文庆祝与谢楠结婚十四周年",
       "onboard_time": 1778496200,
       "rank": 14,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 312041,
+      "num": 309641,
+      "word": "王暖暖声明",
+      "onboard_time": 1778545642,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 309561,
+      "num": 309561,
+      "word": "张凌赫刘宇宁或被邀请赴台交流",
+      "onboard_time": 1778544802,
+      "rank": 26,
       "category": "艺人"
     },
     {
@@ -187,14 +291,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 294441,
-      "num": 235093,
-      "word": "金银价格大涨",
-      "onboard_time": 1778526314,
-      "rank": 20,
-      "category": "财经"
-    },
-    {
       "raw_hot": 278010,
       "num": 2179362,
       "word": "少年歌行",
@@ -209,6 +305,14 @@
       "onboard_time": 1778514441,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 270197,
+      "num": 270197,
+      "word": "注销几十万粉账号后考上医生",
+      "onboard_time": 1778545221,
+      "rank": 30,
+      "category": "正能量"
     },
     {
       "raw_hot": 266908,
@@ -243,16 +347,8 @@
       "category": "财经"
     },
     {
-      "raw_hot": 231748,
-      "num": 285933,
-      "word": "儿子高三脑出血妈妈十几年失去自我",
-      "onboard_time": 1778511742,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 227767,
-      "num": 213864,
+      "num": 273250,
       "word": "王俊凯狄仁杰剧照",
       "onboard_time": 1778505264,
       "rank": 23,
@@ -275,6 +371,30 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 210954,
+      "num": 210954,
+      "word": "医生回应婴儿被喂鹅蛋后进ICU",
+      "onboard_time": 1778541258,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 209932,
+      "num": 209932,
+      "word": "刘晓庆感谢卓伟",
+      "onboard_time": 1778547441,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 204344,
+      "num": 204344,
+      "word": "本周做什么都顺的星座",
+      "onboard_time": 1778546902,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 200263,
       "num": 200263,
       "word": "汉坦病毒在湖南有传播风险吗",
@@ -289,6 +409,14 @@
       "onboard_time": 1778541678,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 194219,
+      "num": 310409,
+      "word": "张杰是国乐无双发起者",
+      "onboard_time": 1778542999,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 193240,
@@ -307,12 +435,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 184135,
+      "num": 184135,
+      "word": "吴京 慕强",
+      "onboard_time": 1778547979,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 179410,
       "num": 144832,
       "word": "马龙夏露晒伦敦同款情侣照",
       "onboard_time": 1778499140,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 176853,
+      "num": 176853,
+      "word": "市监局介入女子用烧烤签喂狗事件",
+      "onboard_time": 1778548100,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 176354,
+      "num": 176354,
+      "word": "iOS26.5正式版发布",
+      "onboard_time": 1778544741,
+      "rank": 42,
+      "category": "数码"
     },
     {
       "raw_hot": 176277,
@@ -339,6 +491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 157621,
+      "num": 194529,
+      "word": "18年前汶川一条没发出的短信",
+      "onboard_time": 1778541198,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 156835,
       "num": 156835,
       "word": "成年人的崩溃从父母生病开始",
@@ -361,14 +521,6 @@
       "onboard_time": 1778501780,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 152680,
-      "num": 152680,
-      "word": "常石磊说没听过李宇春的歌",
-      "onboard_time": 1778544321,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 151952,
@@ -427,28 +579,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 132630,
-      "num": 194541,
-      "word": "张杰是国乐无双发起者",
-      "onboard_time": 1778542999,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 129760,
-      "num": 129760,
-      "word": "王皓喊梁靖崑梁教授",
-      "onboard_time": 1778544019,
-      "rank": 33,
+      "raw_hot": 133975,
+      "num": 310286,
+      "word": "文班亚马不会遭到追加处罚",
+      "onboard_time": 1778547201,
+      "rank": 19,
       "category": "体育"
     },
     {
-      "raw_hot": 129500,
-      "num": 129500,
-      "word": "医生回应婴儿被喂鹅蛋后进ICU",
-      "onboard_time": 1778541258,
-      "rank": 27,
-      "category": "民生新闻"
+      "raw_hot": 130662,
+      "num": 181803,
+      "word": "活塞vs骑士",
+      "onboard_time": 1778547681,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 128344,
@@ -467,6 +611,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 127307,
+      "num": 127307,
+      "word": "日本卡乐比部分薯片包装改成黑白",
+      "onboard_time": 1778548700,
+      "rank": 47,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 126632,
       "num": 126632,
       "word": "佳偶天成大结局",
@@ -480,14 +632,6 @@
       "word": "法医刘良因家属送梨被告与人串通",
       "onboard_time": 1778505742,
       "rank": 38,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 119503,
-      "num": 194529,
-      "word": "18年前汶川一条没发出的短信",
-      "onboard_time": 1778541198,
-      "rank": 35,
       "category": "民生新闻"
     },
     {
@@ -579,6 +723,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 90864,
+      "num": 289014,
+      "word": "张小斐新角色眼里全是野心",
+      "onboard_time": 1778529794,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 88714,
       "num": 96190,
       "word": "腾讯客服称暂未支持访客记录查询",
@@ -603,12 +755,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 81724,
-      "num": 194656,
-      "word": "张小斐新角色眼里全是野心",
-      "onboard_time": 1778529794,
-      "rank": 44,
-      "category": "电影"
+      "raw_hot": 76209,
+      "num": 117984,
+      "word": "无名高地 阿信",
+      "onboard_time": 1778548519,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 62861,

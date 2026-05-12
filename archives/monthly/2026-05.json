@@ -1,6 +1,6 @@
 {
   "startTime": 1777565126834,
-  "endTime": 1778544381215,
+  "endTime": 1778548766386,
   "band_list": [
     {
       "raw_hot": 25375641,
@@ -515,6 +515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2583692,
+      "num": 875467,
+      "word": "Deepseek分析145斤怎么瘦到100斤",
+      "onboard_time": 1778542758,
+      "rank": 3,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 2499356,
       "num": 1001345,
       "word": "对方拒绝了你的恶意",
@@ -755,14 +763,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 2021884,
-      "num": 856843,
-      "word": "Deepseek分析145斤怎么瘦到100斤",
-      "onboard_time": 1778542758,
-      "rank": 3,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 2021613,
       "num": 2125402,
       "word": "奔跑吧打假",
@@ -776,6 +776,14 @@
       "word": "曝汪峰森林北分手",
       "onboard_time": 1778331441,
       "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1941166,
+      "num": 311135,
+      "word": "鹿晗给新婚粉丝送礼盒",
+      "onboard_time": 1778545101,
+      "rank": 11,
       "category": "艺人"
     },
     {
@@ -1907,6 +1915,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1085354,
+      "num": 875140,
+      "word": "被内测微信状态访客记录用户发声",
+      "onboard_time": 1778542758,
+      "rank": 4,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1081907,
       "num": 703786,
       "word": "白鹿隐藏了和范丞丞的手势舞",
@@ -2459,14 +2475,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 911093,
-      "num": 818565,
-      "word": "被内测微信状态访客记录用户发声",
-      "onboard_time": 1778542758,
-      "rank": 4,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 909971,
       "num": 701268,
       "word": "悬崖秋千事故景区已停业",
@@ -2793,6 +2801,14 @@
       "onboard_time": 1777644742,
       "rank": 5,
       "category": "演出"
+    },
+    {
+      "raw_hot": 843464,
+      "num": 843464,
+      "word": "别让没煮过饭的人买菜",
+      "onboard_time": 1778544802,
+      "rank": 5,
+      "category": "幽默"
     },
     {
       "raw_hot": 841363,
@@ -3251,6 +3267,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 769121,
+      "num": 311080,
+      "word": "常石磊说没听过李宇春的歌",
+      "onboard_time": 1778544321,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 764298,
       "num": 402703,
       "word": "陈璟翊 时代峰峻",
@@ -3585,6 +3609,14 @@
       "onboard_time": 1778103375,
       "rank": 15,
       "category": "民生新闻,艺人"
+    },
+    {
+      "raw_hot": 712785,
+      "num": 310904,
+      "word": "宁艺卓 别来身材羞辱那一套",
+      "onboard_time": 1778542819,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 711922,
@@ -4395,14 +4427,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 614433,
-      "num": 288967,
-      "word": "宁艺卓 别来身材羞辱那一套",
-      "onboard_time": 1778542819,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 613967,
       "num": 613967,
       "word": "林诗栋2比3兰弗利",
@@ -5203,6 +5227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 529923,
+      "num": 329513,
+      "word": "女孩演出完退礼服被商家曝光",
+      "onboard_time": 1778501541,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 529840,
       "num": 666899,
       "word": "赖冠霖首次公开在北京近况",
@@ -5545,14 +5577,6 @@
       "onboard_time": 1777954101,
       "rank": 14,
       "category": "网红"
-    },
-    {
-      "raw_hot": 502602,
-      "num": 329513,
-      "word": "女孩演出完退礼服被商家曝光",
-      "onboard_time": 1778501541,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 502474,
@@ -6203,6 +6227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 458685,
+      "num": 311016,
+      "word": "50只羊吃地里毒玉米接连死亡",
+      "onboard_time": 1778546120,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 458198,
       "num": 261872,
       "word": "曝孟美岐主动放弃公司资源",
@@ -6377,6 +6409,14 @@
       "onboard_time": 1777714580,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 443643,
+      "num": 310709,
+      "word": "沙溢瘦了胡可功不可没",
+      "onboard_time": 1778541198,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 443375,
@@ -6577,14 +6617,6 @@
       "onboard_time": 1778249182,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 429684,
-      "num": 285094,
-      "word": "沙溢瘦了胡可功不可没",
-      "onboard_time": 1778541198,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 428901,
@@ -6921,6 +6953,14 @@
       "onboard_time": 1778402720,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 406052,
+      "num": 310137,
+      "word": "发现孩子还是很在意妈妈的穿着",
+      "onboard_time": 1778545101,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 405215,
@@ -7265,6 +7305,14 @@
       "onboard_time": 1778138661,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 387089,
+      "num": 387089,
+      "word": "王皓喊梁靖崑梁教授",
+      "onboard_time": 1778544019,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 386942,
@@ -7787,12 +7835,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 359885,
+      "num": 373933,
+      "word": "金银价格大涨",
+      "onboard_time": 1778198359,
+      "rank": 36,
+      "category": "财经"
+    },
+    {
       "raw_hot": 358748,
       "num": 568746,
       "word": "国乒男团9比0横扫澳大利亚",
       "onboard_time": 1778014454,
       "rank": 10,
       "category": "体育"
+    },
+    {
+      "raw_hot": 358461,
+      "num": 310626,
+      "word": "演出完退礼服女孩发声",
+      "onboard_time": 1778547979,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 358270,
@@ -8267,6 +8331,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 340946,
+      "num": 310567,
+      "word": "特朗普金卡翻车",
+      "onboard_time": 1778544680,
+      "rank": 17,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 340627,
       "num": 340627,
       "word": "刘宇宁请客张凌赫归鸾剧组",
@@ -8556,7 +8628,7 @@
     },
     {
       "raw_hot": 327697,
-      "num": 235235,
+      "num": 309191,
       "word": "3种炎症拖久了很危险",
       "onboard_time": 1778541317,
       "rank": 20,
@@ -8971,6 +9043,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 312041,
+      "num": 309641,
+      "word": "王暖暖声明",
+      "onboard_time": 1778545642,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 311978,
       "num": 334364,
       "word": "余额宝收益率破1是什么情况",
@@ -9041,6 +9121,14 @@
       "onboard_time": 1777904364,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 309561,
+      "num": 309561,
+      "word": "张凌赫刘宇宁或被邀请赴台交流",
+      "onboard_time": 1778544802,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 309259,
@@ -9441,14 +9529,6 @@
       "onboard_time": 1778374939,
       "rank": 22,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 294441,
-      "num": 373933,
-      "word": "金银价格大涨",
-      "onboard_time": 1778198359,
-      "rank": 36,
-      "category": "财经"
     },
     {
       "raw_hot": 294322,
@@ -10233,6 +10313,14 @@
       "onboard_time": 1778074102,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 270197,
+      "num": 270197,
+      "word": "注销几十万粉账号后考上医生",
+      "onboard_time": 1778545221,
+      "rank": 30,
+      "category": "正能量"
     },
     {
       "raw_hot": 270006,
@@ -12707,6 +12795,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 210954,
+      "num": 210954,
+      "word": "医生回应婴儿被喂鹅蛋后进ICU",
+      "onboard_time": 1778541258,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 210284,
       "num": 135118,
       "word": "魔力歌先生 喜人",
@@ -12721,6 +12817,14 @@
       "onboard_time": 1778225121,
       "rank": 29,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 209932,
+      "num": 209932,
+      "word": "刘晓庆感谢卓伟",
+      "onboard_time": 1778547441,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 209763,
@@ -13049,6 +13153,14 @@
       "onboard_time": 1777950562,
       "rank": 24,
       "category": "财经"
+    },
+    {
+      "raw_hot": 204344,
+      "num": 204344,
+      "word": "本周做什么都顺的星座",
+      "onboard_time": 1778546902,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 204131,
@@ -13481,6 +13593,14 @@
       "onboard_time": 1778246301,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 194219,
+      "num": 310409,
+      "word": "张杰是国乐无双发起者",
+      "onboard_time": 1778542999,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 194192,
@@ -14027,6 +14147,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 184135,
+      "num": 184135,
+      "word": "吴京 慕强",
+      "onboard_time": 1778547979,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 183830,
       "num": 278091,
       "word": "76人抢七淘汰凯尔特人",
@@ -14403,6 +14531,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 176853,
+      "num": 176853,
+      "word": "市监局介入女子用烧烤签喂狗事件",
+      "onboard_time": 1778548100,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 176815,
       "num": 176815,
       "word": "三星史上最大罢工逼近",
@@ -14433,6 +14569,14 @@
       "onboard_time": 1777737861,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 176354,
+      "num": 176354,
+      "word": "iOS26.5正式版发布",
+      "onboard_time": 1778544741,
+      "rank": 42,
+      "category": "数码"
     },
     {
       "raw_hot": 176179,
@@ -15595,6 +15739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 157621,
+      "num": 194529,
+      "word": "18年前汶川一条没发出的短信",
+      "onboard_time": 1778541198,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 157518,
       "num": 151845,
       "word": "要当心韩餐店里的这种凳子",
@@ -15961,14 +16113,6 @@
       "onboard_time": 1778250923,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 152680,
-      "num": 152680,
-      "word": "常石磊说没听过李宇春的歌",
-      "onboard_time": 1778544321,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 152184,
@@ -16899,6 +17043,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 133975,
+      "num": 310286,
+      "word": "文班亚马不会遭到追加处罚",
+      "onboard_time": 1778547201,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 133944,
       "num": 225714,
       "word": "以色列这次真的紧张了",
@@ -16961,14 +17113,6 @@
       "onboard_time": 1778154741,
       "rank": 28,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 132630,
-      "num": 194541,
-      "word": "张杰是国乐无双发起者",
-      "onboard_time": 1778542999,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 132609,
@@ -17123,6 +17267,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 130662,
+      "num": 181803,
+      "word": "活塞vs骑士",
+      "onboard_time": 1778547681,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 130407,
       "num": 130407,
       "word": "中国游客退南极邮轮最高或损失13万",
@@ -17185,22 +17337,6 @@
       "onboard_time": 1778159483,
       "rank": 27,
       "category": "数码"
-    },
-    {
-      "raw_hot": 129760,
-      "num": 129760,
-      "word": "王皓喊梁靖崑梁教授",
-      "onboard_time": 1778544019,
-      "rank": 33,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 129500,
-      "num": 129500,
-      "word": "医生回应婴儿被喂鹅蛋后进ICU",
-      "onboard_time": 1778541258,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 129211,
@@ -17345,6 +17481,14 @@
       "onboard_time": 1778229920,
       "rank": 43,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 127307,
+      "num": 127307,
+      "word": "日本卡乐比部分薯片包装改成黑白",
+      "onboard_time": 1778548700,
+      "rank": 47,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 127306,
@@ -17889,14 +18033,6 @@
       "onboard_time": 1778085318,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 119503,
-      "num": 194529,
-      "word": "18年前汶川一条没发出的短信",
-      "onboard_time": 1778541198,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 119426,
@@ -19091,6 +19227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 90864,
+      "num": 289014,
+      "word": "张小斐新角色眼里全是野心",
+      "onboard_time": 1778529794,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 90263,
       "num": 177192,
       "word": "AI手搓小黄人产生意识了",
@@ -19467,14 +19611,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 81724,
-      "num": 194656,
-      "word": "张小斐新角色眼里全是野心",
-      "onboard_time": 1778529794,
-      "rank": 44,
-      "category": "电影"
-    },
-    {
       "raw_hot": 81648,
       "num": 138184,
       "word": "保罗进入尼克斯老鹰直播间",
@@ -19657,6 +19793,14 @@
       "onboard_time": 1777734084,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 76209,
+      "num": 117984,
+      "word": "无名高地 阿信",
+      "onboard_time": 1778548519,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 76195,
