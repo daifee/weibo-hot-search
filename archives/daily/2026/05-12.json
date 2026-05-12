@@ -1,6 +1,6 @@
 {
   "startTime": 1778515687163,
-  "endTime": 1778573405164,
+  "endTime": 1778582439753,
   "band_list": [
     {
       "raw_hot": 12278520,
@@ -51,6 +51,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1725608,
+      "num": 953777,
+      "word": "黄晓明 丫头别拿错行李箱",
+      "onboard_time": 1778576241,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1519088,
       "num": 975053,
       "word": "原来健康的人身体是静音的",
@@ -59,11 +67,35 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1441746,
+      "num": 946597,
+      "word": "建议不要在小环境中待太久",
+      "onboard_time": 1778576720,
+      "rank": 4,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1374654,
       "num": 427929,
       "word": "女子酒店一丝不挂被开房门",
       "onboard_time": 1778570360,
       "rank": 10,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1319994,
+      "num": 309652,
+      "word": "抖音评论区 陈赫眼中含泪",
+      "onboard_time": 1778578459,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1260830,
+      "num": 1260830,
+      "word": "女孩退礼服事件合唱团称受牵连",
+      "onboard_time": 1778577379,
+      "rank": 0,
       "category": "民生新闻"
     },
     {
@@ -107,6 +139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1040526,
+      "num": 1040526,
+      "word": "南京审计大学通报男生偷拍",
+      "onboard_time": 1778575041,
+      "rank": 1,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 964166,
       "num": 964166,
       "word": "演出完退礼服女孩演出已暂停",
@@ -121,6 +161,14 @@
       "onboard_time": 1778558179,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 924544,
+      "num": 924544,
+      "word": "巴掌榴莲",
+      "onboard_time": 1778576422,
+      "rank": 5,
+      "category": "美食"
     },
     {
       "raw_hot": 902015,
@@ -145,6 +193,14 @@
       "onboard_time": 1778569101,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 845577,
+      "num": 845577,
+      "word": "宇树机甲 民用交通工具",
+      "onboard_time": 1778580140,
+      "rank": 6,
+      "category": "数码"
     },
     {
       "raw_hot": 843554,
@@ -243,6 +299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 678066,
+      "num": 678066,
+      "word": "小沈阳因减肥进急诊",
+      "onboard_time": 1778581940,
+      "rank": 8,
+      "category": "演出"
+    },
+    {
       "raw_hot": 646020,
       "num": 372972,
       "word": "消杀公司愿为误开房门赔30倍房费",
@@ -299,12 +363,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 521785,
+      "num": 304626,
+      "word": "中方强烈谴责巴方有关行径",
+      "onboard_time": 1778575401,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 507861,
       "num": 507861,
       "word": "梁靖崑担任北电教师",
       "onboard_time": 1778557640,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 491537,
+      "num": 301977,
+      "word": "严浩翔回北电考试了",
+      "onboard_time": 1778574201,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 488056,
@@ -387,6 +467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 435452,
+      "num": 300234,
+      "word": "网传歌手2026首发人数",
+      "onboard_time": 1778581340,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 429971,
       "num": 276093,
       "word": "双胞胎姐妹遭袭案后续",
@@ -409,6 +497,14 @@
       "onboard_time": 1778548700,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 412583,
+      "num": 299568,
+      "word": "双胞胎1死1伤案发前双方仍在调解",
+      "onboard_time": 1778576540,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 408893,
@@ -499,6 +595,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 363569,
+      "num": 290373,
+      "word": "宋慧乔在朋友婚礼上致辞",
+      "onboard_time": 1778579781,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 359885,
       "num": 309965,
       "word": "金银价格大涨",
@@ -563,6 +667,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 325664,
+      "num": 290052,
+      "word": "张元英黑色抹胸丝绒裙",
+      "onboard_time": 1778580560,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 323663,
       "num": 416925,
       "word": "南京审计大学一男子被曝偷拍女生",
@@ -619,8 +731,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 282028,
+      "num": 252963,
+      "word": "德国跨国迷奸案",
+      "onboard_time": 1778575220,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 278985,
-      "num": 278985,
+      "num": 298699,
       "word": "詹姆斯回应是否退役",
       "onboard_time": 1778571980,
       "rank": 36,
@@ -747,6 +867,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 243847,
+      "num": 243847,
+      "word": "考试坐严浩翔前面的同学发声",
+      "onboard_time": 1778581521,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 240200,
       "num": 282820,
       "word": "A股年内首只翻倍ETF诞生",
@@ -769,6 +897,14 @@
       "onboard_time": 1778505264,
       "rank": 23,
       "category": "电影"
+    },
+    {
+      "raw_hot": 221139,
+      "num": 292347,
+      "word": "王曼昱给孙颖莎看手机",
+      "onboard_time": 1778576720,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 213767,
@@ -827,6 +963,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 208857,
+      "num": 162784,
+      "word": "低智商犯罪",
+      "onboard_time": 1778581940,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 204344,
       "num": 204344,
       "word": "本周做什么都顺的星座",
@@ -883,12 +1027,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 192222,
+      "num": 192222,
+      "word": "梁朝伟捡鸡蛋张曼玉挖芋头",
+      "onboard_time": 1778576180,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 189780,
       "num": 283876,
       "word": "常石磊发言",
       "onboard_time": 1778553200,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 189673,
+      "num": 189673,
+      "word": "李天泽近况",
+      "onboard_time": 1778580140,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 188642,
@@ -1011,12 +1171,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 166871,
+      "num": 256575,
+      "word": "中美首次联合发布禁毒声明",
+      "onboard_time": 1778577681,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 166243,
       "num": 251133,
       "word": "陈丽君进组",
       "onboard_time": 1778570300,
       "rank": 42,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 163627,
+      "num": 163627,
+      "word": "印度游客在莫斯科喷泉水池洗衣服",
+      "onboard_time": 1778581101,
+      "rank": 37,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 162497,
@@ -1051,6 +1227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 157601,
+      "num": 157601,
+      "word": "国内航线燃油费又要涨",
+      "onboard_time": 1778581160,
+      "rank": 40,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 156835,
       "num": 156835,
       "word": "成年人的崩溃从父母生病开始",
@@ -1064,6 +1248,14 @@
       "word": "张凌赫我也没长大我们互相依赖吧",
       "onboard_time": 1778508744,
       "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 153272,
+      "num": 153272,
+      "word": "时代少年团 真维斯",
+      "onboard_time": 1778582241,
+      "rank": 41,
       "category": "艺人"
     },
     {
@@ -1099,12 +1291,36 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 150692,
+      "num": 150692,
+      "word": "国乒男团女团抵京",
+      "onboard_time": 1778577140,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 150100,
+      "num": 150100,
+      "word": "王俊凯和他的粉色行李箱",
+      "onboard_time": 1778577681,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 147750,
       "num": 147750,
       "word": "突然发现拼豆B26很像酸豆角",
       "onboard_time": 1778518818,
       "rank": 4,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 143023,
+      "num": 143023,
+      "word": "影石Luna被吐槽太贵",
+      "onboard_time": 1778577259,
+      "rank": 45,
+      "category": "数码"
     },
     {
       "raw_hot": 143007,
@@ -1123,12 +1339,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 139614,
+      "num": 139614,
+      "word": "A股重回4200点 国家队买了谁",
+      "onboard_time": 1778574500,
+      "rank": 46,
+      "category": "财经"
+    },
+    {
       "raw_hot": 139076,
       "num": 168562,
       "word": "韩国涨怕了",
       "onboard_time": 1778498841,
       "rank": 28,
       "category": "财经,国际时政"
+    },
+    {
+      "raw_hot": 138296,
+      "num": 138296,
+      "word": "海底捞保洁藏顾客手机警方不予立案",
+      "onboard_time": 1778580081,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 138059,
+      "num": 138059,
+      "word": "低智商犯罪 五花八门的傻子",
+      "onboard_time": 1778574920,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 137511,
@@ -1451,6 +1691,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 43458,
+      "num": 295845,
+      "word": "上海大学通报一院长数据存疑",
+      "onboard_time": 1778581280,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 43400,
       "num": 57556,
       "word": "汶川地震18周年纪念海报",
@@ -1593,6 +1841,22 @@
       "onboard_time": 1778573241,
       "rank": 30,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 17747,
+      "num": 296898,
+      "word": "我国每6对夫妇就有1对面临不孕困扰",
+      "onboard_time": 1778582241,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 16176,
+      "num": 158633,
+      "word": "误开房门消杀公司曾中标多个项目",
+      "onboard_time": 1778582179,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 9507,
