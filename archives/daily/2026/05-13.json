@@ -1,7 +1,15 @@
 {
   "startTime": 1778601635166,
-  "endTime": 1778657972182,
+  "endTime": 1778659006152,
   "band_list": [
+    {
+      "raw_hot": 4446373,
+      "num": 4446373,
+      "word": "豆包 机票退款",
+      "onboard_time": 1778657241,
+      "rank": 4,
+      "category": "互联网"
+    },
     {
       "raw_hot": 3683874,
       "num": 3683874,
@@ -275,6 +283,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 685348,
+      "num": 364846,
+      "word": "特朗普回应访华团高管名单",
+      "onboard_time": 1778655621,
+      "rank": 12,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 684843,
       "num": 684843,
       "word": "豆包收费 大模型将告别免费时代",
@@ -289,14 +305,6 @@
       "onboard_time": 1778598321,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 665728,
-      "num": 665728,
-      "word": "豆包 机票退款",
-      "onboard_time": 1778657241,
-      "rank": 4,
-      "category": "互联网"
     },
     {
       "raw_hot": 658790,
@@ -379,6 +387,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 510789,
+      "num": 296547,
+      "word": "张碧晨咋这么瘦了",
+      "onboard_time": 1778658139,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 504269,
       "num": 401522,
       "word": "王俊凯黄晓明昆凌中餐厅同框",
@@ -403,6 +419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 501007,
+      "num": 293423,
+      "word": "白鹿已成立独资工作室",
+      "onboard_time": 1778658321,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 495608,
       "num": 495608,
       "word": "宜宾地震",
@@ -411,12 +435,12 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 477993,
-      "num": 364846,
-      "word": "特朗普回应访华团高管名单",
-      "onboard_time": 1778655621,
-      "rank": 12,
-      "category": "国际时政"
+      "raw_hot": 494865,
+      "num": 280755,
+      "word": "用不用心谈恋爱真的很明显",
+      "onboard_time": 1778657121,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 468706,
@@ -451,6 +475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 450031,
+      "num": 450031,
+      "word": "开花店真的要有审美",
+      "onboard_time": 1778657180,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 429808,
       "num": 399919,
       "word": "郑业成不知道佳偶天成被配音",
@@ -465,6 +497,14 @@
       "onboard_time": 1778636719,
       "rank": 8,
       "category": "数码"
+    },
+    {
+      "raw_hot": 425391,
+      "num": 363693,
+      "word": "十年前的裤子vs现在的裤子",
+      "onboard_time": 1778653880,
+      "rank": 16,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 409310,
@@ -523,14 +563,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 378508,
-      "num": 363693,
-      "word": "十年前的裤子vs现在的裤子",
-      "onboard_time": 1778653880,
-      "rank": 16,
-      "category": "议题讨论"
-    },
-    {
       "raw_hot": 364223,
       "num": 384297,
       "word": "网红糖果掺超高剂量伟哥",
@@ -563,7 +595,23 @@
       "category": "情感"
     },
     {
-      "raw_hot": 345932,
+      "raw_hot": 354906,
+      "num": 298673,
+      "word": "男子10天内3次杀害女友未遂",
+      "onboard_time": 1778657121,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 354274,
+      "num": 208705,
+      "word": "歌手2026 舞美",
+      "onboard_time": 1778658499,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 349919,
       "num": 345932,
       "word": "张凌赫聊天真的很摩羯座",
       "onboard_time": 1778649562,
@@ -659,14 +707,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 298673,
-      "num": 298673,
-      "word": "男子10天内3次杀害女友未遂",
-      "onboard_time": 1778657121,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 291620,
       "num": 230623,
       "word": "金智媛宝格丽入场视频",
@@ -697,6 +737,14 @@
       "onboard_time": 1778585781,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 285235,
+      "num": 285235,
+      "word": "欢迎特朗普访问中国",
+      "onboard_time": 1778658800,
+      "rank": 19,
+      "category": "国内时政"
     },
     {
       "raw_hot": 277228,
@@ -795,14 +843,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 240424,
-      "num": 240424,
-      "word": "用不用心谈恋爱真的很明显",
-      "onboard_time": 1778657121,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 234938,
       "num": 234938,
       "word": "逐玉奖项",
@@ -873,14 +913,6 @@
       "onboard_time": 1778597962,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 203050,
-      "num": 203050,
-      "word": "开花店真的要有审美",
-      "onboard_time": 1778657180,
-      "rank": 32,
-      "category": "情感"
     },
     {
       "raw_hot": 202929,
@@ -979,6 +1011,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 184470,
+      "num": 362760,
+      "word": "小伙弄丢了免费领养的猫被要求赔2万",
+      "onboard_time": 1778655441,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 178881,
       "num": 167193,
       "word": "F勒布伦回应被王楚钦打哭",
@@ -995,12 +1035,36 @@
       "category": "电影"
     },
     {
+      "raw_hot": 174404,
+      "num": 174404,
+      "word": "aespa官方点赞公司爆炸梗图",
+      "onboard_time": 1778658681,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 172943,
       "num": 282873,
       "word": "在夜市买了一只很可爱的小狗",
       "onboard_time": 1778647940,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 172264,
+      "num": 148060,
+      "word": "方圆疑似恋爱",
+      "onboard_time": 1778658439,
+      "rank": 38,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 171841,
+      "num": 144446,
+      "word": "于正轰动内娱的王炸",
+      "onboard_time": 1778658321,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 167432,
@@ -1017,14 +1081,6 @@
       "onboard_time": 1778627837,
       "rank": 24,
       "category": "财经"
-    },
-    {
-      "raw_hot": 166834,
-      "num": 362760,
-      "word": "小伙弄丢了免费领养的猫被要求赔2万",
-      "onboard_time": 1778655441,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 166462,
@@ -1219,6 +1275,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 118683,
+      "num": 141697,
+      "word": "基本盘不该成为被嘲讽对象",
+      "onboard_time": 1778654778,
+      "rank": 46,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 116494,
       "num": 134282,
       "word": "中美元首会晤在即",
@@ -1259,14 +1323,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 107606,
-      "num": 123700,
-      "word": "基本盘不该成为被嘲讽对象",
-      "onboard_time": 1778654778,
-      "rank": 46,
-      "category": "议题讨论"
-    },
-    {
       "raw_hot": 106045,
       "num": 106045,
       "word": "全国多地蛇开始活动了",
@@ -1281,6 +1337,14 @@
       "onboard_time": 1778629700,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 103936,
+      "num": 133944,
+      "word": "天赐爸爸曾说有退休金不会麻烦子女",
+      "onboard_time": 1778658860,
+      "rank": 46,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 100812,
@@ -1387,6 +1451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 52615,
+      "num": 146423,
+      "word": "肖战将参加亚洲艺术电影节",
+      "onboard_time": 1778658681,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 50070,
       "num": 352525,
       "word": "歼20歼16歼10C空战对抗演练",
@@ -1441,6 +1513,14 @@
       "onboard_time": 1778589081,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 38058,
+      "num": 956786,
+      "word": "北方多地迎今年首个高温日",
+      "onboard_time": 1778657900,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 36165,
@@ -1553,14 +1633,6 @@
       "onboard_time": 1778612294,
       "rank": 46,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 16760,
-      "num": 738649,
-      "word": "北方多地迎今年首个高温日",
-      "onboard_time": 1778657900,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 8267,

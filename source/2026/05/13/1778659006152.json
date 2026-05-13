@@ -1,0 +1,410 @@
+{
+  "runTime": 1778659006152,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4446373,
+        "num": 4446373,
+        "word": "豆包 机票退款",
+        "onboard_time": 1778657241,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1552166,
+        "num": 1552166,
+        "word": "特朗普访华",
+        "onboard_time": 1778596462,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 38058,
+        "num": 956786,
+        "word": "北方多地迎今年首个高温日",
+        "onboard_time": 1778657900,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 679228,
+        "num": 679228,
+        "word": "金曲奖入围名单",
+        "onboard_time": 1778650819,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 544042,
+        "num": 544042,
+        "word": "豆包收费 大模型将告别免费时代",
+        "onboard_time": 1778654360,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 450031,
+        "num": 450031,
+        "word": "开花店真的要有审美",
+        "onboard_time": 1778657180,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 442669,
+        "num": 442669,
+        "word": "李小冉知道自己笑起来像森碟",
+        "onboard_time": 1778646381,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 359753,
+        "num": 359753,
+        "word": "单依纯入围金曲奖",
+        "onboard_time": 1778651061,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 330487,
+        "num": 330487,
+        "word": "公瑾爆蛋",
+        "onboard_time": 1778652620,
+        "rank": 8,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 313875,
+        "num": 313875,
+        "word": "孙铭阳退出国家队",
+        "onboard_time": 1778644879,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1881241,
+        "num": 310963,
+        "word": "于正回应白鹿争议",
+        "onboard_time": 1778646862,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1100045,
+        "num": 307694,
+        "word": "吴京 什么李心洁谁",
+        "onboard_time": 1778650641,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 685348,
+        "num": 304656,
+        "word": "特朗普回应访华团高管名单",
+        "onboard_time": 1778655621,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 723022,
+        "num": 303888,
+        "word": "孙怡捂鼻子下班",
+        "onboard_time": 1778651480,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 328663,
+        "num": 299606,
+        "word": "樊振东心相印纸巾不离手",
+        "onboard_time": 1778652441,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 510789,
+        "num": 296547,
+        "word": "张碧晨咋这么瘦了",
+        "onboard_time": 1778658139,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 501007,
+        "num": 293423,
+        "word": "白鹿已成立独资工作室",
+        "onboard_time": 1778658321,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 425391,
+        "num": 288506,
+        "word": "十年前的裤子vs现在的裤子",
+        "onboard_time": 1778653880,
+        "rank": 17,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 354906,
+        "num": 287031,
+        "word": "男子10天内3次杀害女友未遂",
+        "onboard_time": 1778657121,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 285235,
+        "num": 285235,
+        "word": "欢迎特朗普访问中国",
+        "onboard_time": 1778658800,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 494865,
+        "num": 280755,
+        "word": "用不用心谈恋爱真的很明显",
+        "onboard_time": 1778657121,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 459819,
+        "num": 270658,
+        "word": "左航cos孙权",
+        "onboard_time": 1778651001,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 412838,
+        "num": 267354,
+        "word": "LA迪士尼偶遇刘亦菲",
+        "onboard_time": 1778645961,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 215948,
+        "num": 215948,
+        "word": "没喝过标准奶茶",
+        "onboard_time": 1778652199,
+        "rank": 23,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 354274,
+        "num": 208705,
+        "word": "歌手2026 舞美",
+        "onboard_time": 1778658499,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 349919,
+        "num": 206858,
+        "word": "张凌赫聊天真的很摩羯座",
+        "onboard_time": 1778649562,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184470,
+        "num": 184470,
+        "word": "小伙弄丢了免费领养的猫被要求赔2万",
+        "onboard_time": 1778655441,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 313141,
+        "num": 183372,
+        "word": "纯妹妹",
+        "onboard_time": 1778654478,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 312210,
+        "num": 182235,
+        "word": "杨丞琳金曲奖0提",
+        "onboard_time": 1778655801,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 127106,
+        "num": 181592,
+        "word": "A股第10只千元股诞生",
+        "onboard_time": 1778656341,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 197461,
+        "num": 179643,
+        "word": "方圆回应与男网红恋情",
+        "onboard_time": 1778654842,
+        "rank": 30,
+        "category": "网红,作品衍生"
+      },
+      {
+        "raw_hot": 178834,
+        "num": 178834,
+        "word": "王安宇赵今麦排名不分先后",
+        "onboard_time": 1778650341,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156443,
+        "num": 176200,
+        "word": "第一个想到这么赚零花钱的是个天才",
+        "onboard_time": 1778644579,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 174761,
+        "num": 174761,
+        "word": "谢娜 被主持耽误的影后",
+        "onboard_time": 1778649562,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174404,
+        "num": 174404,
+        "word": "aespa官方点赞公司爆炸梗图",
+        "onboard_time": 1778658681,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151680,
+        "num": 151680,
+        "word": "追觅创始人俞浩回应崩老头",
+        "onboard_time": 1778646023,
+        "rank": 35,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 143655,
+        "num": 150495,
+        "word": "女子往河里倒大量奶茶还念念有词",
+        "onboard_time": 1778645600,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 173180,
+        "num": 149960,
+        "word": "时代少年团官宣长沙发布会",
+        "onboard_time": 1778652199,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172264,
+        "num": 148060,
+        "word": "方圆疑似恋爱",
+        "onboard_time": 1778658439,
+        "rank": 38,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 110419,
+        "num": 147565,
+        "word": "多位国乒名将祝福孙铭阳",
+        "onboard_time": 1778654842,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 52615,
+        "num": 146423,
+        "word": "肖战将参加亚洲艺术电影节",
+        "onboard_time": 1778658681,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 171841,
+        "num": 144446,
+        "word": "于正轰动内娱的王炸",
+        "onboard_time": 1778658321,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143876,
+        "num": 143876,
+        "word": "在夜市买了一只很可爱的小狗",
+        "onboard_time": 1778647940,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 118683,
+        "num": 141697,
+        "word": "基本盘不该成为被嘲讽对象",
+        "onboard_time": 1778654778,
+        "rank": 43,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 171307,
+        "num": 140293,
+        "word": "阿云嘎发视频道歉",
+        "onboard_time": 1778639658,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 160284,
+        "num": 135289,
+        "word": "若曦原来在浣衣局洗衣服洗了8年",
+        "onboard_time": 1778640499,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103936,
+        "num": 133944,
+        "word": "天赐爸爸曾说有退休金不会麻烦子女",
+        "onboard_time": 1778658860,
+        "rank": 46,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 84117,
+        "num": 130905,
+        "word": "小米17Max来了",
+        "onboard_time": 1778636719,
+        "rank": 47,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 147978,
+        "num": 126739,
+        "word": "金曲奖",
+        "onboard_time": 1778648719,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 102148,
+        "num": 124729,
+        "word": "中美元首会晤在即",
+        "onboard_time": 1778650701,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平讲述的中美友谊故事#"
+    }
+  }
+}

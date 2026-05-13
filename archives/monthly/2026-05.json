@@ -1,6 +1,6 @@
 {
   "startTime": 1777565126834,
-  "endTime": 1778657972182,
+  "endTime": 1778659006152,
   "band_list": [
     {
       "raw_hot": 25375641,
@@ -169,6 +169,14 @@
       "onboard_time": 1777817785,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 4446373,
+      "num": 4446373,
+      "word": "豆包 机票退款",
+      "onboard_time": 1778657241,
+      "rank": 4,
+      "category": "互联网"
     },
     {
       "raw_hot": 4358466,
@@ -4275,6 +4283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 685348,
+      "num": 364846,
+      "word": "特朗普回应访华团高管名单",
+      "onboard_time": 1778655621,
+      "rank": 12,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 684946,
       "num": 548549,
       "word": "何宣林 镜头",
@@ -4489,14 +4505,6 @@
       "onboard_time": 1778464760,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 665728,
-      "num": 665728,
-      "word": "豆包 机票退款",
-      "onboard_time": 1778657241,
-      "rank": 4,
-      "category": "互联网"
     },
     {
       "raw_hot": 665148,
@@ -6203,6 +6211,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 510789,
+      "num": 296547,
+      "word": "张碧晨咋这么瘦了",
+      "onboard_time": 1778658139,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 509319,
       "num": 485996,
       "word": "曝钱天一退役自主择业",
@@ -6299,6 +6315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 501007,
+      "num": 293423,
+      "word": "白鹿已成立独资工作室",
+      "onboard_time": 1778658321,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 500719,
       "num": 500719,
       "word": "军犬救援演练发现是熟人扭头就走",
@@ -6377,6 +6401,14 @@
       "onboard_time": 1777558520,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 494865,
+      "num": 280755,
+      "word": "用不用心谈恋爱真的很明显",
+      "onboard_time": 1778657121,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 494680,
@@ -6641,14 +6673,6 @@
       "onboard_time": 1777625539,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 477993,
-      "num": 364846,
-      "word": "特朗普回应访华团高管名单",
-      "onboard_time": 1778655621,
-      "rank": 12,
-      "category": "国际时政"
     },
     {
       "raw_hot": 477630,
@@ -7097,6 +7121,14 @@
       "onboard_time": 1777978881,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 450031,
+      "num": 450031,
+      "word": "开花店真的要有审美",
+      "onboard_time": 1778657180,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 449159,
@@ -7553,6 +7585,14 @@
       "onboard_time": 1778294359,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 425391,
+      "num": 363693,
+      "word": "十年前的裤子vs现在的裤子",
+      "onboard_time": 1778653880,
+      "rank": 16,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 425229,
@@ -8475,14 +8515,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 378508,
-      "num": 363693,
-      "word": "十年前的裤子vs现在的裤子",
-      "onboard_time": 1778653880,
-      "rank": 16,
-      "category": "议题讨论"
-    },
-    {
       "raw_hot": 377781,
       "num": 377781,
       "word": "曝张凌赫加盟跑男第15季",
@@ -9003,6 +9035,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 354906,
+      "num": 298673,
+      "word": "男子10天内3次杀害女友未遂",
+      "onboard_time": 1778657121,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 354494,
       "num": 354494,
       "word": "张雪解释德比斯退赛原因",
@@ -9017,6 +9057,14 @@
       "onboard_time": 1777817785,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 354274,
+      "num": 208705,
+      "word": "歌手2026 舞美",
+      "onboard_time": 1778658499,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 353189,
@@ -9139,6 +9187,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 349919,
+      "num": 345932,
+      "word": "张凌赫聊天真的很摩羯座",
+      "onboard_time": 1778649562,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 349907,
       "num": 349907,
       "word": "榴莲买家回应包装和坏榴莲分开扔",
@@ -9241,14 +9297,6 @@
       "onboard_time": 1778420903,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 345932,
-      "num": 345932,
-      "word": "张凌赫聊天真的很摩羯座",
-      "onboard_time": 1778649562,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 345931,
@@ -10595,14 +10643,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 298673,
-      "num": 298673,
-      "word": "男子10天内3次杀害女友未遂",
-      "onboard_time": 1778657121,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 298499,
       "num": 224577,
       "word": "时代少年团演唱会直播",
@@ -11057,6 +11097,14 @@
       "onboard_time": 1777893860,
       "rank": 29,
       "category": "财经"
+    },
+    {
+      "raw_hot": 285235,
+      "num": 285235,
+      "word": "欢迎特朗普访问中国",
+      "onboard_time": 1778658800,
+      "rank": 19,
+      "category": "国内时政"
     },
     {
       "raw_hot": 285181,
@@ -12761,14 +12809,6 @@
       "onboard_time": 1778050040,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 240424,
-      "num": 240424,
-      "word": "用不用心谈恋爱真的很明显",
-      "onboard_time": 1778657121,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 240281,
@@ -14771,14 +14811,6 @@
       "category": "互联网,幽默"
     },
     {
-      "raw_hot": 203050,
-      "num": 203050,
-      "word": "开花店真的要有审美",
-      "onboard_time": 1778657180,
-      "rank": 32,
-      "category": "情感"
-    },
-    {
       "raw_hot": 202860,
       "num": 202860,
       "word": "王安宇赵今麦排名不分先后",
@@ -15779,6 +15811,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 184470,
+      "num": 362760,
+      "word": "小伙弄丢了免费领养的猫被要求赔2万",
+      "onboard_time": 1778655441,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 184434,
       "num": 184434,
       "word": "陈奕恒翻唱Marry",
@@ -16451,6 +16491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 174404,
+      "num": 174404,
+      "word": "aespa官方点赞公司爆炸梗图",
+      "onboard_time": 1778658681,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 174397,
       "num": 625407,
       "word": "詹姆斯回应不敌雷霆",
@@ -16675,12 +16723,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 172264,
+      "num": 148060,
+      "word": "方圆疑似恋爱",
+      "onboard_time": 1778658439,
+      "rank": 38,
+      "category": "网红"
+    },
+    {
       "raw_hot": 171995,
       "num": 162760,
       "word": "五一晚会节目单",
       "onboard_time": 1777624999,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 171841,
+      "num": 144446,
+      "word": "于正轰动内娱的王炸",
+      "onboard_time": 1778658321,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 171839,
@@ -16977,14 +17041,6 @@
       "onboard_time": 1778334022,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 166834,
-      "num": 362760,
-      "word": "小伙弄丢了免费领养的猫被要求赔2万",
-      "onboard_time": 1778655441,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 166706,
@@ -20187,6 +20243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 118683,
+      "num": 141697,
+      "word": "基本盘不该成为被嘲讽对象",
+      "onboard_time": 1778654778,
+      "rank": 46,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 118526,
       "num": 118526,
       "word": "76人vs凯尔特人",
@@ -20699,14 +20763,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 107606,
-      "num": 123700,
-      "word": "基本盘不该成为被嘲讽对象",
-      "onboard_time": 1778654778,
-      "rank": 46,
-      "category": "议题讨论"
-    },
-    {
       "raw_hot": 107329,
       "num": 107329,
       "word": "国乒男团峰回路转得绝佳好签",
@@ -20865,6 +20921,14 @@
       "onboard_time": 1778137280,
       "rank": 38,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 103936,
+      "num": 133944,
+      "word": "天赐爸爸曾说有退休金不会麻烦子女",
+      "onboard_time": 1778658860,
+      "rank": 46,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 103769,
@@ -23187,6 +23251,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 52615,
+      "num": 146423,
+      "word": "肖战将参加亚洲艺术电影节",
+      "onboard_time": 1778658681,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 52289,
       "num": 320628,
       "word": "14岁男生杀女同学案无期判决已生效",
@@ -24017,6 +24089,14 @@
       "onboard_time": 1778444234,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 38058,
+      "num": 956786,
+      "word": "北方多地迎今年首个高温日",
+      "onboard_time": 1778657900,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 37889,
@@ -25385,14 +25465,6 @@
       "onboard_time": 1778591060,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 16760,
-      "num": 738649,
-      "word": "北方多地迎今年首个高温日",
-      "onboard_time": 1778657900,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 16606,
