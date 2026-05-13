@@ -1,6 +1,6 @@
 {
   "startTime": 1778689652010,
-  "endTime": 1778710858667,
+  "endTime": 1778712357305,
   "band_list": [
     {
       "raw_hot": 2678236,
@@ -187,6 +187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 222775,
+      "num": 417257,
+      "word": "一代人有一代人的带娃邪修",
+      "onboard_time": 1778691798,
+      "rank": 4,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 214230,
       "num": 214230,
       "word": "于正回应白鹿争议",
@@ -243,6 +251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 195764,
+      "num": 154786,
+      "word": "此人的气血强度恐怕在我之上",
+      "onboard_time": 1778676744,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 190826,
       "num": 388898,
       "word": "日本爆发大规模反战抗议活动",
@@ -291,14 +307,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 154786,
-      "num": 154786,
-      "word": "此人的气血强度恐怕在我之上",
-      "onboard_time": 1778676744,
-      "rank": 41,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 142581,
       "num": 142581,
       "word": "宋雨琦bobo头造型",
@@ -329,14 +337,6 @@
       "onboard_time": 1778683461,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 127405,
-      "num": 291653,
-      "word": "一代人有一代人的带娃邪修",
-      "onboard_time": 1778691798,
-      "rank": 4,
-      "category": "母婴育儿"
     },
     {
       "raw_hot": 123659,
@@ -379,6 +379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 91913,
+      "num": 57393,
+      "word": "美股半导体板块大跌",
+      "onboard_time": 1778706614,
+      "rank": 22,
+      "category": "财经"
+    },
+    {
       "raw_hot": 91201,
       "num": 133732,
       "word": "小伙刚结婚满嘴牙龈瘤不敢接吻",
@@ -403,12 +411,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 84096,
+      "num": 56188,
+      "word": "老人砍绊脚绳不料宝宝坐到刀上",
+      "onboard_time": 1778693297,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 82323,
       "num": 117505,
       "word": "孕妇感染李斯特菌早产自曝曾吃外卖",
       "onboard_time": 1778674462,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 59865,
+      "num": 59865,
+      "word": "雨霖铃播了4集打了4集",
+      "onboard_time": 1778699414,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 59329,
@@ -419,36 +443,28 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 54479,
-      "num": 49074,
-      "word": "老人砍绊脚绳不料宝宝坐到刀上",
-      "onboard_time": 1778693297,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 48980,
-      "num": 48980,
-      "word": "美股半导体板块大跌",
-      "onboard_time": 1778706614,
-      "rank": 22,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 48915,
-      "num": 48915,
-      "word": "雨霖铃播了4集打了4集",
-      "onboard_time": 1778699414,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 45812,
-      "num": 45812,
+      "raw_hot": 55257,
+      "num": 55257,
       "word": "猫咪知道主人给它打电话就是回家",
       "onboard_time": 1778692277,
       "rank": 25,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 54079,
+      "num": 60341,
+      "word": "男子等电梯里看到mini版自己",
+      "onboard_time": 1778709794,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 43379,
+      "num": 51054,
+      "word": "谁还没到李佳琦直播间抢小样",
+      "onboard_time": 1778668880,
+      "rank": 45,
+      "category": "美妆"
     },
     {
       "raw_hot": 42108,
@@ -459,16 +475,24 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 32863,
-      "num": 41542,
-      "word": "男子等电梯里看到mini版自己",
-      "onboard_time": 1778709794,
-      "rank": 28,
+      "raw_hot": 37269,
+      "num": 51045,
+      "word": "肖战一句台词梦回藏海",
+      "onboard_time": 1778695335,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 35337,
+      "num": 51057,
+      "word": "重庆桥下佛头的雕刻者找到了",
+      "onboard_time": 1778710574,
+      "rank": 37,
       "category": "民生新闻"
     },
     {
       "raw_hot": 31997,
-      "num": 41488,
+      "num": 51028,
       "word": "主角",
       "onboard_time": 1778677463,
       "rank": 36,
@@ -481,14 +505,6 @@
       "onboard_time": 1778694255,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 29715,
-      "num": 41514,
-      "word": "肖战一句台词梦回藏海",
-      "onboard_time": 1778695335,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 26531,
@@ -515,28 +531,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 24720,
-      "num": 41475,
-      "word": "重庆桥下佛头的雕刻者找到了",
-      "onboard_time": 1778710574,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 24323,
-      "num": 41404,
+      "num": 51018,
       "word": "低智商犯罪热度破万",
       "onboard_time": 1778674341,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 23360,
-      "num": 41475,
-      "word": "谁还没到李佳琦直播间抢小样",
-      "onboard_time": 1778668880,
-      "rank": 45,
-      "category": "美妆"
     },
     {
       "raw_hot": 21176,
@@ -547,8 +547,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 18318,
-      "num": 41413,
+      "raw_hot": 19422,
+      "num": 51011,
       "word": "苏新皓预告发新歌",
       "onboard_time": 1778685741,
       "rank": 47,

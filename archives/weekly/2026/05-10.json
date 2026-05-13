@@ -1,6 +1,6 @@
 {
   "startTime": 1778342585344,
-  "endTime": 1778710858667,
+  "endTime": 1778712357305,
   "band_list": [
     {
       "raw_hot": 20021872,
@@ -4555,6 +4555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 222775,
+      "num": 417257,
+      "word": "一代人有一代人的带娃邪修",
+      "onboard_time": 1778691798,
+      "rank": 4,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 222285,
       "num": 211394,
       "word": "女子遭8年爱人背叛哭到呼吸碱中毒",
@@ -5003,6 +5011,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 195764,
+      "num": 249351,
+      "word": "此人的气血强度恐怕在我之上",
+      "onboard_time": 1778676744,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 195562,
       "num": 195562,
       "word": "106岁老太染手指甲每天喝小酒",
@@ -5209,14 +5225,6 @@
       "onboard_time": 1778488821,
       "rank": 41,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 185939,
-      "num": 249351,
-      "word": "此人的气血强度恐怕在我之上",
-      "onboard_time": 1778676744,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 184470,
@@ -6379,14 +6387,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 127405,
-      "num": 291653,
-      "word": "一代人有一代人的带娃邪修",
-      "onboard_time": 1778691798,
-      "rank": 4,
-      "category": "母婴育儿"
-    },
-    {
       "raw_hot": 127307,
       "num": 127307,
       "word": "日本卡乐比部分薯片包装改成黑白",
@@ -6867,6 +6867,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 91913,
+      "num": 57393,
+      "word": "美股半导体板块大跌",
+      "onboard_time": 1778706614,
+      "rank": 22,
+      "category": "财经"
+    },
+    {
       "raw_hot": 91079,
       "num": 241608,
       "word": "哈啰回应员工聚会脚踩青桔美团",
@@ -6993,6 +7001,14 @@
       "onboard_time": 1778685982,
       "rank": 39,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 84096,
+      "num": 56188,
+      "word": "老人砍绊脚绳不料宝宝坐到刀上",
+      "onboard_time": 1778693297,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 83863,
@@ -7435,6 +7451,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 59865,
+      "num": 59865,
+      "word": "雨霖铃播了4集打了4集",
+      "onboard_time": 1778699414,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 59860,
       "num": 310585,
       "word": "湖北一小学被指调查家长职业背景",
@@ -7571,20 +7595,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 55257,
+      "num": 55257,
+      "word": "猫咪知道主人给它打电话就是回家",
+      "onboard_time": 1778692277,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 55037,
       "num": 263979,
       "word": "美国总统外访后勤保障规模有多大",
       "onboard_time": 1778487679,
       "rank": 20,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 54479,
-      "num": 49074,
-      "word": "老人砍绊脚绳不料宝宝坐到刀上",
-      "onboard_time": 1778693297,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 54304,
@@ -7601,6 +7625,14 @@
       "onboard_time": 1778394320,
       "rank": 29,
       "category": "情感"
+    },
+    {
+      "raw_hot": 54079,
+      "num": 60341,
+      "word": "男子等电梯里看到mini版自己",
+      "onboard_time": 1778709794,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 53519,
@@ -7649,22 +7681,6 @@
       "onboard_time": 1778645600,
       "rank": 40,
       "category": "军事"
-    },
-    {
-      "raw_hot": 48980,
-      "num": 48980,
-      "word": "美股半导体板块大跌",
-      "onboard_time": 1778706614,
-      "rank": 22,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 48915,
-      "num": 48915,
-      "word": "雨霖铃播了4集打了4集",
-      "onboard_time": 1778699414,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 48706,
@@ -7753,14 +7769,6 @@
       "onboard_time": 1778483539,
       "rank": 29,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 45812,
-      "num": 45812,
-      "word": "猫咪知道主人给它打电话就是回家",
-      "onboard_time": 1778692277,
-      "rank": 25,
-      "category": "幽默"
     },
     {
       "raw_hot": 45286,
@@ -7939,6 +7947,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 37269,
+      "num": 51045,
+      "word": "肖战一句台词梦回藏海",
+      "onboard_time": 1778695335,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 36991,
       "num": 394582,
       "word": "白宫回应黄仁勋陪特朗普访华",
@@ -8003,6 +8019,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 35337,
+      "num": 51057,
+      "word": "重庆桥下佛头的雕刻者找到了",
+      "onboard_time": 1778710574,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 35098,
       "num": 348910,
       "word": "哥斯拉级厄尔尼诺正酝酿",
@@ -8065,14 +8089,6 @@
       "onboard_time": 1778489062,
       "rank": 47,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 32863,
-      "num": 41542,
-      "word": "男子等电梯里看到mini版自己",
-      "onboard_time": 1778709794,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 32329,
@@ -8185,14 +8201,6 @@
       "onboard_time": 1778694255,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 29715,
-      "num": 41514,
-      "word": "肖战一句台词梦回藏海",
-      "onboard_time": 1778695335,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 29404,
@@ -8387,14 +8395,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 24720,
-      "num": 41475,
-      "word": "重庆桥下佛头的雕刻者找到了",
-      "onboard_time": 1778710574,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 23865,
       "num": 276304,
       "word": "男童坠小区6米竖井昏迷已10天",
@@ -8499,6 +8499,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 19422,
+      "num": 51011,
+      "word": "苏新皓预告发新歌",
+      "onboard_time": 1778685741,
+      "rank": 47,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 19399,
       "num": 40395,
       "word": "国乐无双",
@@ -8513,14 +8521,6 @@
       "onboard_time": 1778473702,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 18318,
-      "num": 41413,
-      "word": "苏新皓预告发新歌",
-      "onboard_time": 1778685741,
-      "rank": 47,
-      "category": "音乐"
     },
     {
       "raw_hot": 18021,
