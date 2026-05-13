@@ -1,0 +1,410 @@
+{
+  "runTime": 1778668695777,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2115429,
+        "num": 2115429,
+        "word": "欢迎特朗普访问中国",
+        "onboard_time": 1778658800,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 799451,
+        "num": 981390,
+        "word": "华南理工男生偷拍女同学裙底",
+        "onboard_time": 1778665342,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30563,
+        "num": 768117,
+        "word": "北方多地迎今年首个高温日",
+        "onboard_time": 1778657900,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 2100229,
+        "num": 760732,
+        "word": "程十安改名姜乘澜回归",
+        "onboard_time": 1778660180,
+        "rank": 3,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 671901,
+        "num": 671901,
+        "word": "封神2特效 不如AI",
+        "onboard_time": 1778659160,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 775516,
+        "num": 548369,
+        "word": "黄灿灿瘦了好多",
+        "onboard_time": 1778665342,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 389936,
+        "num": 389936,
+        "word": "女子闪婚闪离起诉要千万房产的99%",
+        "onboard_time": 1778666480,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 328277,
+        "num": 328277,
+        "word": "小米新耳机将采用全新形态设计",
+        "onboard_time": 1778663241,
+        "rank": 7,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 279457,
+        "num": 328268,
+        "word": "歌手2026 舞美",
+        "onboard_time": 1778658499,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 241517,
+        "num": 328167,
+        "word": "Chovy遭削弱",
+        "onboard_time": 1778661024,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 1340010,
+        "num": 328055,
+        "word": "张元英雷霆平底鞋",
+        "onboard_time": 1778664020,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1149794,
+        "num": 327997,
+        "word": "夏天了迪丽热巴还在穿毛衣",
+        "onboard_time": 1778665821,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 775684,
+        "num": 327892,
+        "word": "特朗普访华",
+        "onboard_time": 1778596462,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1040426,
+        "num": 327812,
+        "word": "于正回应白鹿争议",
+        "onboard_time": 1778646862,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 522659,
+        "num": 327717,
+        "word": "郑晓龙回应无肖战不藏海",
+        "onboard_time": 1778662222,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 519984,
+        "num": 327652,
+        "word": "孙颖莎祝福孙铭阳",
+        "onboard_time": 1778662222,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 466335,
+        "num": 327559,
+        "word": "女孩穿吊带等地铁遇暖心提醒",
+        "onboard_time": 1778663660,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 459868,
+        "num": 327456,
+        "word": "曝知名男歌手音乐节假唱",
+        "onboard_time": 1778659642,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 48706,
+        "num": 327319,
+        "word": "突然弹出一堆券我人傻了",
+        "onboard_time": 1778667619,
+        "rank": 18,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 28068,
+        "num": 327272,
+        "word": "精神病院男子吃馒头噎死保险拒赔",
+        "onboard_time": 1778667680,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 938109,
+        "num": 327204,
+        "word": "网传柳岩疑似怀孕",
+        "onboard_time": 1778660060,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 452310,
+        "num": 327048,
+        "word": "北京机场高速附近挂起中美国旗",
+        "onboard_time": 1778662640,
+        "rank": 21,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 382174,
+        "num": 327020,
+        "word": "用不用心谈恋爱真的很明显",
+        "onboard_time": 1778657121,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 330722,
+        "num": 326902,
+        "word": "A股",
+        "onboard_time": 1778659341,
+        "rank": 23,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 326849,
+        "num": 326849,
+        "word": "鹿晗发箍挂脖",
+        "onboard_time": 1778663660,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 326333,
+        "num": 326333,
+        "word": "吴京 什么李心洁谁",
+        "onboard_time": 1778650641,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 311784,
+        "num": 311784,
+        "word": "豆包收费 大模型将告别免费时代",
+        "onboard_time": 1778654360,
+        "rank": 26,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 317695,
+        "num": 311228,
+        "word": "瞿颖王俊凯中餐厅同框",
+        "onboard_time": 1778663302,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 305300,
+        "num": 305300,
+        "word": "特朗普回应访华团高管名单",
+        "onboard_time": 1778655621,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 289323,
+        "num": 289323,
+        "word": "曝何炅要开演唱会",
+        "onboard_time": 1778667800,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 288174,
+        "num": 288174,
+        "word": "自助餐没吃几口就饱的元凶",
+        "onboard_time": 1778664321,
+        "rank": 30,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 211113,
+        "num": 211113,
+        "word": "左航cos孙权",
+        "onboard_time": 1778651001,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202321,
+        "num": 202321,
+        "word": "白鹿已成立独资工作室",
+        "onboard_time": 1778658321,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184165,
+        "num": 184165,
+        "word": "开花店真的要有审美",
+        "onboard_time": 1778657180,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 200177,
+        "num": 184101,
+        "word": "刘晓庆自曝不生孩子原因",
+        "onboard_time": 1778662101,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28531,
+        "num": 183837,
+        "word": "原来防晒服才是穿搭届的万金油",
+        "onboard_time": 1778666241,
+        "rank": 35,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 79604,
+        "num": 183833,
+        "word": "直观的感受到了搭配的重要性",
+        "onboard_time": 1778666241,
+        "rank": 36,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 183830,
+        "num": 183830,
+        "word": "阳台突然出现了六个小狗头",
+        "onboard_time": 1778660782,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 172008,
+        "num": 172008,
+        "word": "公瑾爆蛋",
+        "onboard_time": 1778652620,
+        "rank": 38,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 167619,
+        "num": 167619,
+        "word": "孙怡捂鼻子下班",
+        "onboard_time": 1778651480,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167559,
+        "num": 167559,
+        "word": "向太回应向佐郭碧婷分居两地",
+        "onboard_time": 1778657719,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 77935,
+        "num": 164159,
+        "word": "留学生在悉尼麦当劳被流浪汉掰断手",
+        "onboard_time": 1778667861,
+        "rank": 41,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 161589,
+        "num": 161589,
+        "word": "金曲奖入围名单",
+        "onboard_time": 1778650819,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 152084,
+        "num": 152084,
+        "word": "雨霖铃",
+        "onboard_time": 1778668580,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108376,
+        "num": 146842,
+        "word": "十年前的裤子vs现在的裤子",
+        "onboard_time": 1778653880,
+        "rank": 44,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 146654,
+        "num": 146654,
+        "word": "肖战将参加亚洲艺术电影节",
+        "onboard_time": 1778658681,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 141782,
+        "num": 141782,
+        "word": "孟子坤胜诉",
+        "onboard_time": 1778668279,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 75929,
+        "num": 139639,
+        "word": "小米发布自动驾驶模型",
+        "onboard_time": 1778667140,
+        "rank": 47,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 138466,
+        "num": 138466,
+        "word": "张凌赫聊天真的很摩羯座",
+        "onboard_time": 1778649562,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132927,
+        "num": 132927,
+        "word": "aespa官方点赞公司爆炸梗图",
+        "onboard_time": 1778658681,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平讲述的中美友谊故事#"
+    }
+  }
+}
