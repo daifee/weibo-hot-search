@@ -1,6 +1,6 @@
 {
   "startTime": 1778689652010,
-  "endTime": 1778705660959,
+  "endTime": 1778706502016,
   "band_list": [
     {
       "raw_hot": 2678236,
@@ -515,6 +515,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 15776,
+      "num": 28403,
+      "word": "苏新皓预告发新歌",
+      "onboard_time": 1778685741,
+      "rank": 47,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 14385,
       "num": 28442,
       "word": "谁还没到李佳琦直播间抢小样",
@@ -529,14 +537,6 @@
       "onboard_time": 1778702115,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 13956,
-      "num": 28403,
-      "word": "苏新皓预告发新歌",
-      "onboard_time": 1778685741,
-      "rank": 47,
-      "category": "音乐"
     },
     {
       "raw_hot": 12180,
