@@ -1,7 +1,15 @@
 {
   "startTime": 1778601635166,
-  "endTime": 1778670368501,
+  "endTime": 1778678596780,
   "band_list": [
+    {
+      "raw_hot": 20021872,
+      "num": 20021872,
+      "word": "特朗普抵京",
+      "onboard_time": 1778673262,
+      "rank": 0,
+      "category": "国内时政"
+    },
     {
       "raw_hot": 4446373,
       "num": 4446373,
@@ -25,6 +33,14 @@
       "onboard_time": 1778643739,
       "rank": 10,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 2232787,
+      "num": 487897,
+      "word": "特朗普走出机舱",
+      "onboard_time": 1778674583,
+      "rank": 4,
+      "category": "国内时政"
     },
     {
       "raw_hot": 2132209,
@@ -129,6 +145,22 @@
       "onboard_time": 1778664020,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1339480,
+      "num": 281694,
+      "word": "特朗普访问中国现场画面",
+      "onboard_time": 1778672479,
+      "rank": 10,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 1300414,
+      "num": 2287625,
+      "word": "马化腾回应AI掉队",
+      "onboard_time": 1778675722,
+      "rank": 1,
+      "category": "互联网"
     },
     {
       "raw_hot": 1296800,
@@ -259,6 +291,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 891373,
+      "num": 274969,
+      "word": "杨幂烫伤 演员和角色命运共振",
+      "onboard_time": 1778671942,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 889701,
       "num": 889701,
       "word": "南审通报男子偷拍事件",
@@ -337,6 +377,14 @@
       "onboard_time": 1778666480,
       "rank": 6,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 738875,
+      "num": 271768,
+      "word": "柳岩停更时间线",
+      "onboard_time": 1778671460,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 720173,
@@ -491,6 +539,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 506177,
+      "num": 263799,
+      "word": "虞书欣直播",
+      "onboard_time": 1778675480,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 504292,
+      "num": 259470,
+      "word": "田曦薇告别低智商犯罪",
+      "onboard_time": 1778677282,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 504269,
       "num": 401522,
       "word": "王俊凯黄晓明昆凌中餐厅同框",
@@ -539,12 +603,28 @@
       "category": "情感"
     },
     {
-      "raw_hot": 478688,
-      "num": 478688,
+      "raw_hot": 490694,
+      "num": 219487,
+      "word": "歌手2026",
+      "onboard_time": 1778670680,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 488564,
+      "num": 488564,
       "word": "自助餐没吃几口就饱的元凶",
       "onboard_time": 1778664321,
       "rank": 30,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 471482,
+      "num": 471482,
+      "word": "雨霖铃",
+      "onboard_time": 1778668580,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 468706,
@@ -651,6 +731,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 407809,
+      "num": 407809,
+      "word": "低智商犯罪",
+      "onboard_time": 1778671460,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 399840,
       "num": 399840,
       "word": "辛芷蕾 赵婷",
@@ -715,6 +803,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 359128,
+      "num": 293923,
+      "word": "留学生在悉尼麦当劳被流浪汉掰断手",
+      "onboard_time": 1778667861,
+      "rank": 41,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 358000,
       "num": 358000,
       "word": "考试坐严浩翔前面的同学发声",
@@ -747,12 +843,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 354177,
+      "num": 307705,
+      "word": "黄灿灿有200多个发夹",
+      "onboard_time": 1778677163,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 349919,
       "num": 345932,
       "word": "张凌赫聊天真的很摩羯座",
       "onboard_time": 1778649562,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 344639,
+      "num": 253146,
+      "word": "网传刘宪华不来歌手2026了",
+      "onboard_time": 1778676563,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 339891,
@@ -835,6 +947,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 321057,
+      "num": 201623,
+      "word": "低智商犯罪热度破万",
+      "onboard_time": 1778674341,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 317695,
       "num": 311228,
       "word": "瞿颖王俊凯中餐厅同框",
@@ -859,6 +979,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 309191,
+      "num": 309191,
+      "word": "日本爆发大规模反战抗议活动",
+      "onboard_time": 1778671280,
+      "rank": 7,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 307940,
       "num": 307940,
       "word": "戛纳电影节",
@@ -872,6 +1000,14 @@
       "word": "金智媛宝格丽入场视频",
       "onboard_time": 1778597122,
       "rank": 33,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 291562,
+      "num": 180058,
+      "word": "宋雨琦bobo头造型",
+      "onboard_time": 1778674102,
+      "rank": 31,
       "category": "艺人"
     },
     {
@@ -897,6 +1033,14 @@
       "onboard_time": 1778585781,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 282196,
+      "num": 282196,
+      "word": "拖米为清清发声",
+      "onboard_time": 1778677822,
+      "rank": 9,
+      "category": "电竞"
     },
     {
       "raw_hot": 277228,
@@ -953,6 +1097,14 @@
       "onboard_time": 1778652199,
       "rank": 27,
       "category": "美食"
+    },
+    {
+      "raw_hot": 261933,
+      "num": 178338,
+      "word": "严浩翔请工作人员喝咖啡",
+      "onboard_time": 1778676803,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 255676,
@@ -1147,20 +1299,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 196741,
-      "num": 445961,
-      "word": "雨霖铃",
-      "onboard_time": 1778668580,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 195841,
       "num": 290058,
       "word": "开榴莲开到音响了",
       "onboard_time": 1778647222,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 195223,
+      "num": 195223,
+      "word": "华南理工被偷拍女生认可校方处分",
+      "onboard_time": 1778676803,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 195040,
@@ -1211,6 +1363,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 182059,
+      "num": 182059,
+      "word": "小米官宣YU7交付能力大幅提升",
+      "onboard_time": 1778677222,
+      "rank": 29,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 178881,
       "num": 167193,
       "word": "F勒布伦回应被王楚钦打哭",
@@ -1251,6 +1411,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 171942,
+      "num": 171942,
+      "word": "主角",
+      "onboard_time": 1778589081,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 171841,
       "num": 144446,
       "word": "于正轰动内娱的王炸",
@@ -1259,12 +1427,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 171602,
-      "num": 293923,
-      "word": "留学生在悉尼麦当劳被流浪汉掰断手",
-      "onboard_time": 1778667861,
+      "raw_hot": 170752,
+      "num": 151854,
+      "word": "网红白冰复更被吐槽",
+      "onboard_time": 1778676502,
+      "rank": 42,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 170100,
+      "num": 151948,
+      "word": "田曦薇全集有广数量95花断层第一",
+      "onboard_time": 1778676863,
       "rank": 41,
-      "category": "突发/灾害"
+      "category": "剧集"
     },
     {
       "raw_hot": 167432,
@@ -1347,6 +1523,30 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 156102,
+      "num": 151609,
+      "word": "正午阳光 雨霖铃",
+      "onboard_time": 1778676923,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 152732,
+      "num": 152732,
+      "word": "小伙刚结婚满嘴牙龈瘤不敢接吻",
+      "onboard_time": 1778670381,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 148749,
+      "num": 148749,
+      "word": "低智商犯罪大结局",
+      "onboard_time": 1778673141,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 146802,
       "num": 355360,
       "word": "女子往河里倒大量奶茶还念念有词",
@@ -1363,12 +1563,36 @@
       "category": "电影"
     },
     {
+      "raw_hot": 141913,
+      "num": 174122,
+      "word": "北京绿化带是要考研吗",
+      "onboard_time": 1778676803,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 141782,
       "num": 141782,
       "word": "孟子坤胜诉",
       "onboard_time": 1778668279,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 137605,
+      "num": 152604,
+      "word": "A股存储芯片全线爆发",
+      "onboard_time": 1778668940,
+      "rank": 38,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 136399,
+      "num": 136399,
+      "word": "此人的气血强度恐怕在我之上",
+      "onboard_time": 1778676744,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 136339,
@@ -1443,6 +1667,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 124503,
+      "num": 136050,
+      "word": "12306购票页面将出现敬字",
+      "onboard_time": 1778670562,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 124356,
       "num": 124356,
       "word": "邓超带女儿小花参加拉丁舞比赛",
@@ -1513,6 +1745,14 @@
       "onboard_time": 1778626818,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 112142,
+      "num": 152365,
+      "word": "雨霖铃杨洋演技",
+      "onboard_time": 1778678483,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 111219,
@@ -1651,6 +1891,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 70356,
+      "num": 181880,
+      "word": "WE对战AL",
+      "onboard_time": 1778677282,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 68740,
       "num": 322407,
       "word": "杨洋章若楠方逸伦换头像",
@@ -1755,6 +2003,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 44559,
+      "num": 176741,
+      "word": "铁路将推老年旅客淡季周中购票优惠",
+      "onboard_time": 1778677702,
+      "rank": 33,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 44507,
       "num": 359391,
       "word": "中国驻美大使谈中美关系",
@@ -1787,14 +2043,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 38443,
-      "num": 61321,
-      "word": "主角",
-      "onboard_time": 1778589081,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 38058,
       "num": 956786,
       "word": "北方多地迎今年首个高温日",
@@ -1809,6 +2057,14 @@
       "onboard_time": 1778670081,
       "rank": 27,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 36848,
+      "num": 152179,
+      "word": "孙铭阳让孙颖莎保护好自己",
+      "onboard_time": 1778678542,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 36165,
@@ -1969,6 +2225,14 @@
       "onboard_time": 1778666541,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 14929,
+      "num": 1728807,
+      "word": "天舟十号货运飞船发射任务全回顾",
+      "onboard_time": 1778678243,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 12362,

@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1778670368501,
+  "endTime": 1778678596780,
   "band_list": [
     {
       "raw_hot": 46860992,
@@ -121,6 +121,14 @@
       "onboard_time": 1777349244,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 20021872,
+      "num": 20021872,
+      "word": "特朗普抵京",
+      "onboard_time": 1778673262,
+      "rank": 0,
+      "category": "国内时政"
     },
     {
       "raw_hot": 19818554,
@@ -2392,14 +2400,6 @@
       "word": "金晨被曝肇事逃逸被撞墙农户已获赔",
       "onboard_time": 1769762062,
       "rank": 22,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 2620230,
-      "num": 119745,
-      "word": "蔡徐坤方回应金子涵",
-      "onboard_time": 1769603661,
-      "rank": 25,
       "category": "艺人"
     }
   ],
