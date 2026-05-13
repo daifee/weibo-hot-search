@@ -1,0 +1,410 @@
+{
+  "runTime": 1778698952255,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 274049,
+        "num": 274049,
+        "word": "特朗普抵京",
+        "onboard_time": 1778673262,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 96075,
+        "num": 96075,
+        "word": "马化腾回应AI掉队",
+        "onboard_time": 1778675722,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 6476,
+        "num": 78739,
+        "word": "天舟十号货运飞船发射任务全回顾",
+        "onboard_time": 1778678243,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 67570,
+        "num": 67570,
+        "word": "小米四款新车曝光",
+        "onboard_time": 1778680823,
+        "rank": 3,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 66432,
+        "num": 66432,
+        "word": "一代人有一代人的带娃邪修",
+        "onboard_time": 1778691798,
+        "rank": 4,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 62868,
+        "num": 62868,
+        "word": "日本爆发大规模反战抗议活动",
+        "onboard_time": 1778671280,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 59329,
+        "num": 59329,
+        "word": "曾沛慈数到十入围金曲奖",
+        "onboard_time": 1778691617,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 53591,
+        "num": 59299,
+        "word": "雨霖铃",
+        "onboard_time": 1778668580,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 43215,
+        "num": 59238,
+        "word": "小米增程SUV车头logo曝光",
+        "onboard_time": 1778683041,
+        "rank": 8,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 42654,
+        "num": 59151,
+        "word": "低智商犯罪",
+        "onboard_time": 1778671460,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 382891,
+        "num": 59049,
+        "word": "华南理工被偷拍女生隐忍到下课",
+        "onboard_time": 1778686820,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160749,
+        "num": 58957,
+        "word": "摸腿事件脱口秀女演员一年还没走出来",
+        "onboard_time": 1778686521,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135223,
+        "num": 58880,
+        "word": "23岁研究生遭遇车祸心智如幼童",
+        "onboard_time": 1778687660,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133583,
+        "num": 58857,
+        "word": "曝某古装剧组恶意炒cp",
+        "onboard_time": 1778682142,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114716,
+        "num": 58766,
+        "word": "国际足联希望中国队能参与世界杯",
+        "onboard_time": 1778680225,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100203,
+        "num": 58688,
+        "word": "中国人疯狂追求奶茶面包超进化",
+        "onboard_time": 1778679801,
+        "rank": 15,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 78258,
+        "num": 58608,
+        "word": "很久以前羊肉串致歉",
+        "onboard_time": 1778688562,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 74725,
+        "num": 58551,
+        "word": "特朗普访问中国现场画面",
+        "onboard_time": 1778672479,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 53182,
+        "num": 58430,
+        "word": "1天内2名国乒女将退出国家队",
+        "onboard_time": 1778690958,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 33542,
+        "num": 58365,
+        "word": "张本智和说王楚钦实力高出一筹",
+        "onboard_time": 1778680582,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 58341,
+        "num": 58341,
+        "word": "檀健次车裂戏",
+        "onboard_time": 1778683821,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 54262,
+        "num": 54262,
+        "word": "此人的气血强度恐怕在我之上",
+        "onboard_time": 1778676744,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 53804,
+        "num": 53804,
+        "word": "月薪1.6万放羊已有两对夫妻试岗",
+        "onboard_time": 1778680823,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 52088,
+        "num": 52088,
+        "word": "67岁产女妈妈现已卧床",
+        "onboard_time": 1778681962,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 49070,
+        "num": 49070,
+        "word": "田曦薇告别低智商犯罪",
+        "onboard_time": 1778677282,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 45013,
+        "num": 45013,
+        "word": "猫咪知道主人给它打电话就是回家",
+        "onboard_time": 1778692277,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 44087,
+        "num": 44087,
+        "word": "京城大师赛",
+        "onboard_time": 1778690358,
+        "rank": 26,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 42019,
+        "num": 42019,
+        "word": "特朗普走出机舱",
+        "onboard_time": 1778674583,
+        "rank": 27,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 29648,
+        "num": 40762,
+        "word": "孕妇感染李斯特菌早产自曝曾吃外卖",
+        "onboard_time": 1778674462,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27251,
+        "num": 40378,
+        "word": "多位国乒名将祝福刘炜珊",
+        "onboard_time": 1778686820,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 40158,
+        "num": 40158,
+        "word": "小米挖孔机盖案法院认定存夸大宣传",
+        "onboard_time": 1778685021,
+        "rank": 30,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 36740,
+        "num": 36740,
+        "word": "随特朗普访华的商界代表有谁",
+        "onboard_time": 1778685741,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 35953,
+        "num": 35953,
+        "word": "小伙刚结婚满嘴牙龈瘤不敢接吻",
+        "onboard_time": 1778670381,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35774,
+        "num": 35774,
+        "word": "六旬保洁离职手写千字辞职信",
+        "onboard_time": 1778681661,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35330,
+        "num": 35330,
+        "word": "雨霖铃杨洋演技",
+        "onboard_time": 1778678483,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 33533,
+        "num": 35327,
+        "word": "老人砍绊脚绳不料宝宝坐到刀上",
+        "onboard_time": 1778693297,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31997,
+        "num": 35297,
+        "word": "主角",
+        "onboard_time": 1778677463,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 30716,
+        "num": 35280,
+        "word": "网传刘宪华不来歌手2026了",
+        "onboard_time": 1778676563,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 30034,
+        "num": 35271,
+        "word": "女子起诉舅舅争母亲857万遗产被驳回",
+        "onboard_time": 1778694255,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26810,
+        "num": 35247,
+        "word": "自助餐没吃几口就饱的元凶",
+        "onboard_time": 1778664321,
+        "rank": 39,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 28141,
+        "num": 35242,
+        "word": "兄妹勇救4名落水者后却遭拉黑",
+        "onboard_time": 1778688860,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26531,
+        "num": 35215,
+        "word": "姜乘澜更新美妆视频",
+        "onboard_time": 1778696475,
+        "rank": 41,
+        "category": "美妆,网红"
+      },
+      {
+        "raw_hot": 26252,
+        "num": 35206,
+        "word": "Faker单场比赛五次单杀",
+        "onboard_time": 1778692097,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 25858,
+        "num": 35179,
+        "word": "狼队挺进败者组半决赛",
+        "onboard_time": 1778685082,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 25718,
+        "num": 35167,
+        "word": "欢迎特朗普访问中国",
+        "onboard_time": 1778658800,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 25141,
+        "num": 35148,
+        "word": "周也抵达戛纳电影节",
+        "onboard_time": 1778690358,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 24503,
+        "num": 35135,
+        "word": "刘浩存小娥变大娥转场",
+        "onboard_time": 1778683461,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 24323,
+        "num": 35102,
+        "word": "低智商犯罪热度破万",
+        "onboard_time": 1778674341,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 24078,
+        "num": 35098,
+        "word": "肖战一句台词梦回藏海",
+        "onboard_time": 1778695335,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 23079,
+        "num": 35080,
+        "word": "又一艘邮轮疑似暴发疫情1人死亡",
+        "onboard_time": 1778685982,
+        "rank": 49,
+        "category": "海外新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席的中美关系之喻#"
+    }
+  }
+}
