@@ -1,0 +1,410 @@
+{
+  "runTime": 1778689652010,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2678236,
+        "num": 2678236,
+        "word": "特朗普抵京",
+        "onboard_time": 1778673262,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 718758,
+        "num": 906855,
+        "word": "国际足联希望中国队能参与世界杯",
+        "onboard_time": 1778680225,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 12032,
+        "num": 729326,
+        "word": "天舟十号货运飞船发射任务全回顾",
+        "onboard_time": 1778678243,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 426930,
+        "num": 426930,
+        "word": "马化腾回应AI掉队",
+        "onboard_time": 1778675722,
+        "rank": 3,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 389417,
+        "num": 389417,
+        "word": "小米四款新车曝光",
+        "onboard_time": 1778680823,
+        "rank": 4,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 203482,
+        "num": 389330,
+        "word": "低智商犯罪",
+        "onboard_time": 1778671460,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 268602,
+        "num": 389216,
+        "word": "小米增程SUV车头logo曝光",
+        "onboard_time": 1778683041,
+        "rank": 6,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 198716,
+        "num": 389011,
+        "word": "雨霖铃",
+        "onboard_time": 1778668580,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190826,
+        "num": 388898,
+        "word": "日本爆发大规模反战抗议活动",
+        "onboard_time": 1778671280,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 179420,
+        "num": 388685,
+        "word": "张本智和说王楚钦实力高出一筹",
+        "onboard_time": 1778680582,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1712791,
+        "num": 388631,
+        "word": "何炅演唱会没通知何炅",
+        "onboard_time": 1778681302,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1452312,
+        "num": 388469,
+        "word": "华南理工被偷拍女生隐忍到下课",
+        "onboard_time": 1778686820,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 821073,
+        "num": 388254,
+        "word": "金晨 眼泪把面膜冲没了",
+        "onboard_time": 1778679082,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 791868,
+        "num": 388162,
+        "word": "柳岩停更时间线",
+        "onboard_time": 1778671460,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 702175,
+        "num": 387935,
+        "word": "特朗普访问中国现场画面",
+        "onboard_time": 1778672479,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 568199,
+        "num": 387783,
+        "word": "虞书欣工作室出图",
+        "onboard_time": 1778684422,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 533790,
+        "num": 387576,
+        "word": "曝某古装剧组恶意炒cp",
+        "onboard_time": 1778682142,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 387546,
+        "num": 387546,
+        "word": "月薪1.6万放羊已有两对夫妻试岗",
+        "onboard_time": 1778680823,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 352055,
+        "num": 352055,
+        "word": "檀健次车裂戏",
+        "onboard_time": 1778683821,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116503,
+        "num": 341962,
+        "word": "自助餐没吃几口就饱的元凶",
+        "onboard_time": 1778664321,
+        "rank": 19,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 334869,
+        "num": 334869,
+        "word": "张元英雷霆平底鞋",
+        "onboard_time": 1778664020,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 42108,
+        "num": 329467,
+        "word": "兄妹勇救4名落水者后却遭拉黑",
+        "onboard_time": 1778688860,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 328017,
+        "num": 328017,
+        "word": "豆包 我不敢动饶雪漫这四个字",
+        "onboard_time": 1778671642,
+        "rank": 22,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 281072,
+        "num": 281072,
+        "word": "摸腿事件脱口秀女演员一年还没走出来",
+        "onboard_time": 1778686521,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 278331,
+        "num": 278331,
+        "word": "23岁研究生遭遇车祸心智如幼童",
+        "onboard_time": 1778687660,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 247167,
+        "num": 247167,
+        "word": "六旬保洁离职手写千字辞职信",
+        "onboard_time": 1778681661,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165260,
+        "num": 246345,
+        "word": "随特朗普访华的商界代表有谁",
+        "onboard_time": 1778685741,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 163170,
+        "num": 245042,
+        "word": "田曦薇告别低智商犯罪",
+        "onboard_time": 1778677282,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 99506,
+        "num": 243263,
+        "word": "欢迎特朗普访问中国",
+        "onboard_time": 1778658800,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 96839,
+        "num": 242347,
+        "word": "多位国乒名将祝福刘炜珊",
+        "onboard_time": 1778686820,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 240990,
+        "num": 240990,
+        "word": "夏天了迪丽热巴还在穿毛衣",
+        "onboard_time": 1778665821,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 234411,
+        "num": 234411,
+        "word": "特朗普走出机舱",
+        "onboard_time": 1778674583,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 238733,
+        "num": 234337,
+        "word": "67岁产女妈妈现已卧床",
+        "onboard_time": 1778681962,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 214230,
+        "num": 214230,
+        "word": "于正回应白鹿争议",
+        "onboard_time": 1778646862,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202383,
+        "num": 202383,
+        "word": "尼坤又瘦回来了",
+        "onboard_time": 1778680044,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201541,
+        "num": 201541,
+        "word": "中国人疯狂追求奶茶面包超进化",
+        "onboard_time": 1778679801,
+        "rank": 35,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 200629,
+        "num": 200629,
+        "word": "杨幂烫伤 演员和角色命运共振",
+        "onboard_time": 1778671942,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198580,
+        "num": 198580,
+        "word": "网传柳岩疑似怀孕",
+        "onboard_time": 1778660060,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169765,
+        "num": 169765,
+        "word": "小米挖孔机盖案法院认定存夸大宣传",
+        "onboard_time": 1778685021,
+        "rank": 38,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 85632,
+        "num": 158213,
+        "word": "又一艘邮轮疑似暴发疫情1人死亡",
+        "onboard_time": 1778685982,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 155069,
+        "num": 155069,
+        "word": "很久以前羊肉串致歉",
+        "onboard_time": 1778688562,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154786,
+        "num": 154786,
+        "word": "此人的气血强度恐怕在我之上",
+        "onboard_time": 1778676744,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 142581,
+        "num": 142581,
+        "word": "宋雨琦bobo头造型",
+        "onboard_time": 1778674102,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138983,
+        "num": 138983,
+        "word": "雨霖铃杨洋演技",
+        "onboard_time": 1778678483,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 91201,
+        "num": 133732,
+        "word": "小伙刚结婚满嘴牙龈瘤不敢接吻",
+        "onboard_time": 1778670381,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131006,
+        "num": 131006,
+        "word": "严浩翔请工作人员喝咖啡",
+        "onboard_time": 1778676803,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128274,
+        "num": 128274,
+        "word": "刘浩存小娥变大娥转场",
+        "onboard_time": 1778683461,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 89132,
+        "num": 124174,
+        "word": "狼队挺进败者组半决赛",
+        "onboard_time": 1778685082,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 123659,
+        "num": 123659,
+        "word": "网传刘宪华不来歌手2026了",
+        "onboard_time": 1778676563,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 82323,
+        "num": 117505,
+        "word": "孕妇感染李斯特菌早产自曝曾吃外卖",
+        "onboard_time": 1778674462,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席的中美关系之喻#"
+    }
+  }
+}
