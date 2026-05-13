@@ -1,6 +1,6 @@
 {
   "startTime": 1778601635166,
-  "endTime": 1778646651148,
+  "endTime": 1778648085258,
   "band_list": [
     {
       "raw_hot": 3683874,
@@ -19,6 +19,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 2125216,
+      "num": 449353,
+      "word": "于正回应白鹿争议",
+      "onboard_time": 1778646862,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1940727,
       "num": 568383,
       "word": "辛芷蕾",
@@ -28,11 +36,19 @@
     },
     {
       "raw_hot": 1753964,
-      "num": 929987,
+      "num": 947423,
       "word": "阿云嘎发视频道歉",
       "onboard_time": 1778639658,
       "rank": 3,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1731469,
+      "num": 446994,
+      "word": "南京偷拍男拟录用公务员公示期已过",
+      "onboard_time": 1778646139,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1706634,
@@ -84,11 +100,27 @@
     },
     {
       "raw_hot": 1296800,
-      "num": 406139,
+      "num": 427442,
       "word": "白鹿也被泼水了",
       "onboard_time": 1778630780,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1240242,
+      "num": 1240242,
+      "word": "孙铭阳退出国家队",
+      "onboard_time": 1778644879,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1189075,
+      "num": 823179,
+      "word": "李小冉知道自己笑起来像森碟",
+      "onboard_time": 1778646381,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 1188449,
@@ -105,14 +137,6 @@
       "onboard_time": 1778590580,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1097445,
-      "num": 1121912,
-      "word": "孙铭阳退出国家队",
-      "onboard_time": 1778644879,
-      "rank": 1,
-      "category": "体育"
     },
     {
       "raw_hot": 1093790,
@@ -155,8 +179,8 @@
       "category": "财经"
     },
     {
-      "raw_hot": 899942,
-      "num": 899942,
+      "raw_hot": 921238,
+      "num": 921238,
       "word": "江苏税务正处理偷拍男生拟录资格",
       "onboard_time": 1778642901,
       "rank": 4,
@@ -227,12 +251,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 658790,
+      "num": 658790,
+      "word": "怎么现在不垃圾分类了",
+      "onboard_time": 1778646980,
+      "rank": 6,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 620391,
       "num": 405264,
       "word": "67岁产女6岁女儿天赐现状",
       "onboard_time": 1778638759,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 602211,
+      "num": 602211,
+      "word": "黄仁勋年薪约2.47亿元",
+      "onboard_time": 1778646441,
+      "rank": 34,
+      "category": "财经"
     },
     {
       "raw_hot": 583876,
@@ -243,20 +283,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 566574,
+      "num": 390517,
+      "word": "若曦原来在浣衣局洗衣服洗了8年",
+      "onboard_time": 1778640499,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 562364,
       "num": 403442,
       "word": "75岁的天赐爸爸还要挣钱养家",
       "onboard_time": 1778637319,
       "rank": 13,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 521495,
-      "num": 390517,
-      "word": "若曦原来在浣衣局洗衣服洗了8年",
-      "onboard_time": 1778640499,
-      "rank": 21,
-      "category": "剧集"
     },
     {
       "raw_hot": 518795,
@@ -276,7 +316,7 @@
     },
     {
       "raw_hot": 504269,
-      "num": 401452,
+      "num": 401522,
       "word": "王俊凯黄晓明昆凌中餐厅同框",
       "onboard_time": 1778640200,
       "rank": 14,
@@ -331,6 +371,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 433695,
+      "num": 433695,
+      "word": "LA迪士尼偶遇刘亦菲",
+      "onboard_time": 1778645961,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 429808,
       "num": 399919,
       "word": "郑业成不知道佳偶天成被配音",
@@ -340,7 +388,7 @@
     },
     {
       "raw_hot": 429522,
-      "num": 429522,
+      "num": 456681,
       "word": "小米17Max来了",
       "onboard_time": 1778636719,
       "rank": 8,
@@ -353,14 +401,6 @@
       "onboard_time": 1778637858,
       "rank": 9,
       "category": "电影"
-    },
-    {
-      "raw_hot": 402333,
-      "num": 385947,
-      "word": "南京偷拍男拟录用公务员公示期已过",
-      "onboard_time": 1778646139,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 399840,
@@ -393,14 +433,6 @@
       "onboard_time": 1778628018,
       "rank": 34,
       "category": "电影"
-    },
-    {
-      "raw_hot": 366687,
-      "num": 396624,
-      "word": "李小冉知道自己笑起来像森碟",
-      "onboard_time": 1778646381,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 364223,
@@ -457,6 +489,14 @@
       "onboard_time": 1778583501,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 325678,
+      "num": 360665,
+      "word": "追觅创始人俞浩回应崩老头",
+      "onboard_time": 1778646023,
+      "rank": 36,
+      "category": "互联网"
     },
     {
       "raw_hot": 325073,
@@ -523,12 +563,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 277228,
+      "num": 304034,
+      "word": "韩寒希望给阿嬷的情书票房破10亿",
+      "onboard_time": 1778647341,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 274169,
       "num": 246116,
       "word": "全球昆虫正在以惊人速度灭绝",
       "onboard_time": 1778599520,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 268186,
+      "num": 338166,
+      "word": "第一个想到这么赚零花钱的是个天才",
+      "onboard_time": 1778644579,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 266988,
@@ -587,14 +643,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 241776,
-      "num": 364321,
-      "word": "黄仁勋年薪约2.47亿元",
-      "onboard_time": 1778646441,
-      "rank": 34,
-      "category": "财经"
-    },
-    {
       "raw_hot": 234938,
       "num": 234938,
       "word": "逐玉奖项",
@@ -611,20 +659,20 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 228549,
-      "num": 338166,
-      "word": "第一个想到这么赚零花钱的是个天才",
-      "onboard_time": 1778644579,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 225143,
       "num": 336603,
       "word": "马刺3比2森林狼",
       "onboard_time": 1778641459,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 216809,
+      "num": 315926,
+      "word": "蔡徐坤 林里",
+      "onboard_time": 1778647101,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 214602,
@@ -643,20 +691,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 211094,
+      "num": 382390,
+      "word": "穆祉丞 舒客",
+      "onboard_time": 1778643859,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 210424,
+      "num": 294810,
+      "word": "电力股狂掀涨停潮",
+      "onboard_time": 1778647161,
+      "rank": 39,
+      "category": "财经"
+    },
+    {
       "raw_hot": 206967,
       "num": 206967,
       "word": "55岁大妈和邻居吵架后气死",
       "onboard_time": 1778597962,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 204614,
-      "num": 382390,
-      "word": "穆祉丞 舒客",
-      "onboard_time": 1778643859,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 202929,
@@ -689,6 +745,14 @@
       "onboard_time": 1778600122,
       "rank": 41,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 195841,
+      "num": 290058,
+      "word": "开榴莲开到音响了",
+      "onboard_time": 1778647222,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 195040,
@@ -729,6 +793,22 @@
       "onboard_time": 1778627779,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 174549,
+      "num": 286736,
+      "word": "给阿嬷的情书 戛纳",
+      "onboard_time": 1778642000,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 172943,
+      "num": 282873,
+      "word": "在夜市买了一只很可爱的小狗",
+      "onboard_time": 1778647940,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 167432,
@@ -787,6 +867,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 160630,
+      "num": 277626,
+      "word": "马斯克点赞宇树机甲",
+      "onboard_time": 1778646261,
+      "rank": 49,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 156164,
       "num": 156164,
       "word": "第一次看到金丝楠木狗",
@@ -795,20 +883,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 149589,
-      "num": 360665,
-      "word": "追觅创始人俞浩回应崩老头",
-      "onboard_time": 1778646023,
-      "rank": 36,
-      "category": "互联网"
-    },
-    {
-      "raw_hot": 136688,
-      "num": 356121,
-      "word": "LA迪士尼偶遇刘亦菲",
-      "onboard_time": 1778645961,
-      "rank": 38,
-      "category": "艺人"
+      "raw_hot": 136339,
+      "num": 308396,
+      "word": "便宜冰箱和贵的比差在哪",
+      "onboard_time": 1778646801,
+      "rank": 30,
+      "category": "数码"
     },
     {
       "raw_hot": 134265,
@@ -955,20 +1035,20 @@
       "category": "数码"
     },
     {
+      "raw_hot": 81118,
+      "num": 962990,
+      "word": "月壤用拔丝地瓜手法做成纤维",
+      "onboard_time": 1778639479,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 79049,
       "num": 79049,
       "word": "果然人在做坏事的时候是最能忍的",
       "onboard_time": 1778605877,
       "rank": 25,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 76977,
-      "num": 946096,
-      "word": "月壤用拔丝地瓜手法做成纤维",
-      "onboard_time": 1778639479,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 76936,
@@ -985,6 +1065,14 @@
       "onboard_time": 1778645600,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 68740,
+      "num": 322407,
+      "word": "杨洋章若楠方逸伦换头像",
+      "onboard_time": 1778647640,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 67800,
@@ -1019,6 +1107,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 58073,
+      "num": 313950,
+      "word": "520用晶钻加满桃花运",
+      "onboard_time": 1778647581,
+      "rank": 27,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 56209,
       "num": 340652,
       "word": "金智媛张元英边佑锡宝格丽合照",
@@ -1049,6 +1145,14 @@
       "onboard_time": 1778601199,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 44507,
+      "num": 359391,
+      "word": "中国驻美大使谈中美关系",
+      "onboard_time": 1778646621,
+      "rank": 37,
+      "category": "国内时政"
     },
     {
       "raw_hot": 41285,
@@ -1137,14 +1241,6 @@
       "onboard_time": 1778599102,
       "rank": 47,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 27332,
-      "num": 359391,
-      "word": "中国驻美大使谈中美关系",
-      "onboard_time": 1778646621,
-      "rank": 37,
-      "category": "国内时政"
     },
     {
       "raw_hot": 26280,

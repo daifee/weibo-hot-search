@@ -1,0 +1,410 @@
+{
+  "runTime": 1778648085258,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3511479,
+        "num": 3511479,
+        "word": "特朗普访华",
+        "onboard_time": 1778596462,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1240242,
+        "num": 1240242,
+        "word": "孙铭阳退出国家队",
+        "onboard_time": 1778644879,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 81118,
+        "num": 962990,
+        "word": "月壤用拔丝地瓜手法做成纤维",
+        "onboard_time": 1778639479,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1406303,
+        "num": 947423,
+        "word": "阿云嘎发视频道歉",
+        "onboard_time": 1778639658,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 921238,
+        "num": 921238,
+        "word": "江苏税务正处理偷拍男生拟录资格",
+        "onboard_time": 1778642901,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1189075,
+        "num": 823179,
+        "word": "李小冉知道自己笑起来像森碟",
+        "onboard_time": 1778646381,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 658790,
+        "num": 658790,
+        "word": "怎么现在不垃圾分类了",
+        "onboard_time": 1778646980,
+        "rank": 6,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 602211,
+        "num": 602211,
+        "word": "黄仁勋年薪约2.47亿元",
+        "onboard_time": 1778646441,
+        "rank": 7,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 464008,
+        "num": 464008,
+        "word": "任何关系都是阶段性陪伴",
+        "onboard_time": 1778630479,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 340078,
+        "num": 456681,
+        "word": "小米17Max来了",
+        "onboard_time": 1778636719,
+        "rank": 9,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 2125216,
+        "num": 449353,
+        "word": "于正回应白鹿争议",
+        "onboard_time": 1778646862,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1731469,
+        "num": 446994,
+        "word": "南京偷拍男拟录用公务员公示期已过",
+        "onboard_time": 1778646139,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1054048,
+        "num": 437656,
+        "word": "阿娇 短剧",
+        "onboard_time": 1778632460,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 433695,
+        "num": 433695,
+        "word": "LA迪士尼偶遇刘亦菲",
+        "onboard_time": 1778645961,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 431570,
+        "num": 431570,
+        "word": "迪士尼优速通",
+        "onboard_time": 1778630900,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1186650,
+        "num": 427442,
+        "word": "白鹿也被泼水了",
+        "onboard_time": 1778630780,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 401522,
+        "num": 401522,
+        "word": "王俊凯黄晓明昆凌中餐厅同框",
+        "onboard_time": 1778640200,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 356580,
+        "num": 356580,
+        "word": "一天内2个NBA球员去世",
+        "onboard_time": 1778633660,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 367928,
+        "num": 355817,
+        "word": "给阿嬷的情书消失的人 秦岭淮河线",
+        "onboard_time": 1778637858,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 325678,
+        "num": 325678,
+        "word": "追觅创始人俞浩回应崩老头",
+        "onboard_time": 1778646023,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 3164939,
+        "num": 325310,
+        "word": "黄仁勋搭空军一号随特朗普访华",
+        "onboard_time": 1778643739,
+        "rank": 20,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 566574,
+        "num": 324005,
+        "word": "若曦原来在浣衣局洗衣服洗了8年",
+        "onboard_time": 1778640499,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 68740,
+        "num": 322407,
+        "word": "杨洋章若楠方逸伦换头像",
+        "onboard_time": 1778647640,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 338727,
+        "num": 319595,
+        "word": "郑业成不知道佳偶天成被配音",
+        "onboard_time": 1778632400,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 299205,
+        "num": 318615,
+        "word": "周慧敏的猫去世了",
+        "onboard_time": 1778636778,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 290930,
+        "num": 316662,
+        "word": "网红糖果掺超高剂量伟哥",
+        "onboard_time": 1778631439,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 216809,
+        "num": 315926,
+        "word": "蔡徐坤 林里",
+        "onboard_time": 1778647101,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 58073,
+        "num": 313950,
+        "word": "520用晶钻加满桃花运",
+        "onboard_time": 1778647581,
+        "rank": 27,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 211094,
+        "num": 311735,
+        "word": "穆祉丞 舒客",
+        "onboard_time": 1778643859,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192538,
+        "num": 310686,
+        "word": "煎饼果仔澄清收入问题",
+        "onboard_time": 1778641819,
+        "rank": 29,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 136339,
+        "num": 308396,
+        "word": "便宜冰箱和贵的比差在哪",
+        "onboard_time": 1778646801,
+        "rank": 30,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 44507,
+        "num": 306491,
+        "word": "中国驻美大使谈中美关系",
+        "onboard_time": 1778646621,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 284295,
+        "num": 305855,
+        "word": "只对喜欢的人才会做的事",
+        "onboard_time": 1778641161,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 277228,
+        "num": 304034,
+        "word": "韩寒希望给阿嬷的情书票房破10亿",
+        "onboard_time": 1778647341,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 268186,
+        "num": 302939,
+        "word": "第一个想到这么赚零花钱的是个天才",
+        "onboard_time": 1778644579,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 249394,
+        "num": 300582,
+        "word": "中国明星戛纳生图",
+        "onboard_time": 1778632941,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 248075,
+        "num": 298937,
+        "word": "黄雅琼拟入职衢州职业技术学院",
+        "onboard_time": 1778635339,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 242136,
+        "num": 297899,
+        "word": "雨霖铃首播4集",
+        "onboard_time": 1778642600,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 214026,
+        "num": 295801,
+        "word": "巩俐中文宣布戛纳开幕",
+        "onboard_time": 1778628438,
+        "rank": 38,
+        "category": "电影,综艺"
+      },
+      {
+        "raw_hot": 210424,
+        "num": 294810,
+        "word": "电力股狂掀涨停潮",
+        "onboard_time": 1778647161,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 197085,
+        "num": 292323,
+        "word": "贾跃亭宣布转战机器人业务",
+        "onboard_time": 1778632580,
+        "rank": 40,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 196579,
+        "num": 290807,
+        "word": "跟你们不爱健身的说不清楚",
+        "onboard_time": 1778633300,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 195841,
+        "num": 290058,
+        "word": "开榴莲开到音响了",
+        "onboard_time": 1778647222,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 192759,
+        "num": 287666,
+        "word": "马刺3比2森林狼",
+        "onboard_time": 1778641459,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 174549,
+        "num": 286736,
+        "word": "给阿嬷的情书 戛纳",
+        "onboard_time": 1778642000,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 173024,
+        "num": 284599,
+        "word": "ENEMY单集付费8.8元",
+        "onboard_time": 1778635701,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172943,
+        "num": 282873,
+        "word": "在夜市买了一只很可爱的小狗",
+        "onboard_time": 1778647940,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 128994,
+        "num": 281644,
+        "word": "小猫主宰我 626",
+        "onboard_time": 1778643260,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106108,
+        "num": 280710,
+        "word": "碎叫叫向商家道歉",
+        "onboard_time": 1778640318,
+        "rank": 48,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 160630,
+        "num": 277626,
+        "word": "马斯克点赞宇树机甲",
+        "onboard_time": 1778646261,
+        "rank": 49,
+        "category": "民生新闻,互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国和文莱是亲密邻邦#"
+    }
+  }
+}
