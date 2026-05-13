@@ -1,0 +1,410 @@
+{
+  "runTime": 1778670368501,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2132209,
+        "num": 2132209,
+        "word": "欢迎特朗普访问中国",
+        "onboard_time": 1778658800,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 741120,
+        "num": 993240,
+        "word": "女子闪婚闪离起诉要千万房产的99%",
+        "onboard_time": 1778666480,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26811,
+        "num": 791403,
+        "word": "北方多地迎今年首个高温日",
+        "onboard_time": 1778657900,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 703277,
+        "num": 703277,
+        "word": "封神2特效 不如AI",
+        "onboard_time": 1778659160,
+        "rank": 3,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 478688,
+        "num": 478688,
+        "word": "自助餐没吃几口就饱的元凶",
+        "onboard_time": 1778664321,
+        "rank": 4,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 458032,
+        "num": 458032,
+        "word": "小米新耳机将采用全新形态设计",
+        "onboard_time": 1778663241,
+        "rank": 5,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 229966,
+        "num": 455537,
+        "word": "歌手2026 舞美",
+        "onboard_time": 1778658499,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 219781,
+        "num": 452531,
+        "word": "开花店真的要有审美",
+        "onboard_time": 1778657180,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 200579,
+        "num": 449969,
+        "word": "Chovy遭削弱",
+        "onboard_time": 1778661024,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 196741,
+        "num": 445961,
+        "word": "雨霖铃",
+        "onboard_time": 1778668580,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 2038381,
+        "num": 444149,
+        "word": "程十安改名姜乘澜回归",
+        "onboard_time": 1778660180,
+        "rank": 10,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 1237682,
+        "num": 441187,
+        "word": "张元英雷霆平底鞋",
+        "onboard_time": 1778664020,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1180634,
+        "num": 437758,
+        "word": "曝何炅要开演唱会",
+        "onboard_time": 1778667800,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 186558,
+        "num": 433463,
+        "word": "豆包收费 大模型将告别免费时代",
+        "onboard_time": 1778654360,
+        "rank": 13,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1171151,
+        "num": 431481,
+        "word": "夏天了迪丽热巴还在穿毛衣",
+        "onboard_time": 1778665821,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 952797,
+        "num": 426766,
+        "word": "于正回应白鹿争议",
+        "onboard_time": 1778646862,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 761274,
+        "num": 426000,
+        "word": "特朗普访华",
+        "onboard_time": 1778596462,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 423442,
+        "num": 423442,
+        "word": "北京机场高速附近挂起中美国旗",
+        "onboard_time": 1778662640,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 58986,
+        "num": 407615,
+        "word": "章若楠透露杨洋拍戏坠马",
+        "onboard_time": 1778666541,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 15896,
+        "num": 399495,
+        "word": "主角这陕西话是能播的吗",
+        "onboard_time": 1778666541,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 12362,
+        "num": 396216,
+        "word": "57岁男子吵架猝死邻居被判赔近12万",
+        "onboard_time": 1778670020,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 396137,
+        "num": 396137,
+        "word": "曝知名男歌手音乐节假唱",
+        "onboard_time": 1778659642,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 942,
+        "num": 396133,
+        "word": "LPL第二赛段周最佳阵容",
+        "onboard_time": 1778670081,
+        "rank": 22,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 101335,
+        "num": 395619,
+        "word": "谁还没到李佳琦直播间抢小样",
+        "onboard_time": 1778668880,
+        "rank": 23,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 88474,
+        "num": 395476,
+        "word": "吃饺子用8张纸被老板挂网吐槽",
+        "onboard_time": 1778670081,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81344,
+        "num": 395028,
+        "word": "巴勒斯坦记者曝光以监狱三餐",
+        "onboard_time": 1778670081,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1488,
+        "num": 394993,
+        "word": "Viper心里想的是On",
+        "onboard_time": 1778670081,
+        "rank": 26,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 36991,
+        "num": 394582,
+        "word": "白宫回应黄仁勋陪特朗普访华",
+        "onboard_time": 1778670081,
+        "rank": 27,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 823619,
+        "num": 394302,
+        "word": "网传柳岩疑似怀孕",
+        "onboard_time": 1778660060,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 394147,
+        "num": 394147,
+        "word": "女孩穿吊带等地铁遇暖心提醒",
+        "onboard_time": 1778663660,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 412003,
+        "num": 387234,
+        "word": "孙颖莎祝福孙铭阳",
+        "onboard_time": 1778662222,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 373761,
+        "num": 373761,
+        "word": "郑晓龙回应无肖战不藏海",
+        "onboard_time": 1778662222,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 295562,
+        "num": 295562,
+        "word": "A股",
+        "onboard_time": 1778659341,
+        "rank": 32,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 171602,
+        "num": 293923,
+        "word": "留学生在悉尼麦当劳被流浪汉掰断手",
+        "onboard_time": 1778667861,
+        "rank": 33,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 33108,
+        "num": 292780,
+        "word": "突然弹出一堆券我人傻了",
+        "onboard_time": 1778667619,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 99976,
+        "num": 290798,
+        "word": "张凌赫将出席Gucci大秀",
+        "onboard_time": 1778670140,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28790,
+        "num": 289826,
+        "word": "送礼送惊喜还是送实用",
+        "onboard_time": 1778669059,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 42894,
+        "num": 287430,
+        "word": "第一次离王俊凯这么近",
+        "onboard_time": 1778670140,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28240,
+        "num": 286468,
+        "word": "山西中午的动物园一个醒着的都没有",
+        "onboard_time": 1778670081,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 60795,
+        "num": 284206,
+        "word": "沈腾免单",
+        "onboard_time": 1778670261,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17094,
+        "num": 282386,
+        "word": "特朗普两次访华随行美企有何不同",
+        "onboard_time": 1778670081,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 486169,
+        "num": 280401,
+        "word": "黄灿灿瘦了好多",
+        "onboard_time": 1778665342,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 280201,
+        "num": 280201,
+        "word": "鹿晗发箍挂脖",
+        "onboard_time": 1778663660,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 290577,
+        "num": 275422,
+        "word": "用不用心谈恋爱真的很明显",
+        "onboard_time": 1778657121,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 260852,
+        "num": 260852,
+        "word": "吴京 什么李心洁谁",
+        "onboard_time": 1778650641,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 253827,
+        "num": 253827,
+        "word": "特朗普回应访华团高管名单",
+        "onboard_time": 1778655621,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 242791,
+        "num": 242791,
+        "word": "瞿颖王俊凯中餐厅同框",
+        "onboard_time": 1778663302,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 234113,
+        "num": 234113,
+        "word": "华南理工男生偷拍女同学裙底",
+        "onboard_time": 1778665342,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 227360,
+        "num": 227360,
+        "word": "向太回应向佐郭碧婷分居两地",
+        "onboard_time": 1778657719,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 209251,
+        "num": 209251,
+        "word": "白鹿已成立独资工作室",
+        "onboard_time": 1778658321,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平讲述的中美友谊故事#"
+    }
+  }
+}
