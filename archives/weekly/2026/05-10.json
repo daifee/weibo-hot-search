@@ -1,6 +1,6 @@
 {
   "startTime": 1778342585344,
-  "endTime": 1778699861848,
+  "endTime": 1778705660959,
   "band_list": [
     {
       "raw_hot": 20021872,
@@ -8585,6 +8585,22 @@
       "onboard_time": 1778590341,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 13972,
+      "num": 28417,
+      "word": "雨霖铃电影质感",
+      "onboard_time": 1778702115,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 13956,
+      "num": 28403,
+      "word": "苏新皓预告发新歌",
+      "onboard_time": 1778685741,
+      "rank": 47,
+      "category": "音乐"
     },
     {
       "raw_hot": 13778,
