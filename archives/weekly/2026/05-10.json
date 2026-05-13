@@ -1,6 +1,6 @@
 {
   "startTime": 1778342585344,
-  "endTime": 1778629070432,
+  "endTime": 1778630885631,
   "band_list": [
     {
       "raw_hot": 19315463,
@@ -211,6 +211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2072791,
+      "num": 2072791,
+      "word": "特朗普访华",
+      "onboard_time": 1778596462,
+      "rank": 0,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 2072644,
       "num": 2072644,
       "word": "暗河传2官宣",
@@ -243,8 +251,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1894157,
-      "num": 141578,
+      "raw_hot": 1940727,
+      "num": 568383,
       "word": "辛芷蕾",
       "onboard_time": 1778627717,
       "rank": 10,
@@ -297,14 +305,6 @@
       "onboard_time": 1778583560,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1694167,
-      "num": 1694167,
-      "word": "特朗普访华",
-      "onboard_time": 1778596462,
-      "rank": 0,
-      "category": "国际时政"
     },
     {
       "raw_hot": 1686373,
@@ -379,6 +379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1535204,
+      "num": 1535204,
+      "word": "南京审计大学偷拍男生被开除",
+      "onboard_time": 1778599940,
+      "rank": 7,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 1522951,
       "num": 1522951,
       "word": "王楚钦打哭F勒布伦",
@@ -441,6 +449,14 @@
       "onboard_time": 1778408540,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1490542,
+      "num": 1490542,
+      "word": "67岁产女的妈妈现已卧床",
+      "onboard_time": 1778600300,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1487736,
@@ -507,6 +523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1395287,
+      "num": 1395287,
+      "word": "遭15岁男孩冲撞女子称检查出了别的",
+      "onboard_time": 1778627837,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1374654,
       "num": 427929,
       "word": "女子酒店一丝不挂被开房门",
@@ -521,14 +545,6 @@
       "onboard_time": 1778454679,
       "rank": 1,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1351174,
-      "num": 1351174,
-      "word": "南京审计大学偷拍男生被开除",
-      "onboard_time": 1778599940,
-      "rank": 7,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 1334269,
@@ -675,6 +691,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1093790,
+      "num": 1093790,
+      "word": "灰熊球员布兰登克拉克去世",
+      "onboard_time": 1778628739,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1085354,
       "num": 875140,
       "word": "被内测微信状态访客记录用户发声",
@@ -731,14 +755,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1051282,
-      "num": 591316,
-      "word": "67岁产女的妈妈现已卧床",
-      "onboard_time": 1778600300,
-      "rank": 15,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 1051200,
       "num": 1051200,
       "word": "广东地震局短信",
@@ -769,6 +785,14 @@
       "onboard_time": 1778597181,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 999915,
+      "num": 999915,
+      "word": "巩俐中文宣布戛纳开幕",
+      "onboard_time": 1778628438,
+      "rank": 15,
+      "category": "电影,综艺"
     },
     {
       "raw_hot": 980537,
@@ -833,6 +857,14 @@
       "onboard_time": 1778558179,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 954103,
+      "num": 531683,
+      "word": "美股",
+      "onboard_time": 1778627779,
+      "rank": 13,
+      "category": "财经"
     },
     {
       "raw_hot": 949909,
@@ -1291,6 +1323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 668522,
+      "num": 668522,
+      "word": "跑男争议不该先定罪后解读",
+      "onboard_time": 1778598321,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 665799,
       "num": 665799,
       "word": "是世界第一也是MVP",
@@ -1395,14 +1435,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 611550,
-      "num": 141544,
-      "word": "遭15岁男孩冲撞女子称检查出了别的",
-      "onboard_time": 1778627837,
-      "rank": 11,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 608312,
       "num": 406941,
       "word": "白鹿泼水李晨",
@@ -1433,14 +1465,6 @@
       "onboard_time": 1778423063,
       "rank": 9,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 591041,
-      "num": 591041,
-      "word": "跑男争议不该先定罪后解读",
-      "onboard_time": 1778598321,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 587363,
@@ -1721,6 +1745,14 @@
       "onboard_time": 1778595561,
       "rank": 9,
       "category": "电影"
+    },
+    {
+      "raw_hot": 501412,
+      "num": 501412,
+      "word": "涉偷拍男生与拟录公务员姓名院校一致",
+      "onboard_time": 1778626097,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 499857,
@@ -2067,14 +2099,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 429422,
-      "num": 143037,
-      "word": "涉偷拍男生与拟录公务员姓名院校一致",
-      "onboard_time": 1778626097,
-      "rank": 7,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 429166,
       "num": 429166,
       "word": "詹姆斯 湖人",
@@ -2355,12 +2379,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 382024,
-      "num": 141477,
-      "word": "美股",
-      "onboard_time": 1778627779,
-      "rank": 13,
-      "category": "财经"
+      "raw_hot": 382073,
+      "num": 382073,
+      "word": "戛纳红毯",
+      "onboard_time": 1778628018,
+      "rank": 34,
+      "category": "电影"
     },
     {
       "raw_hot": 380751,
@@ -2611,8 +2635,8 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 335666,
-      "num": 216216,
+      "raw_hot": 339891,
+      "num": 339891,
       "word": "以防你没见过坚果年轻时的样子",
       "onboard_time": 1778594002,
       "rank": 34,
@@ -2705,6 +2729,14 @@
       "onboard_time": 1778487320,
       "rank": 44,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 325073,
+      "num": 325073,
+      "word": "单场次见面会 亏本",
+      "onboard_time": 1778627717,
+      "rank": 20,
+      "category": "演出"
     },
     {
       "raw_hot": 323949,
@@ -2819,12 +2851,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 307389,
-      "num": 141377,
-      "word": "巩俐中文宣布戛纳开幕",
-      "onboard_time": 1778628438,
-      "rank": 15,
-      "category": "电影,综艺"
+      "raw_hot": 307940,
+      "num": 307940,
+      "word": "戛纳电影节",
+      "onboard_time": 1778628258,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 306955,
@@ -3259,6 +3291,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 255676,
+      "num": 255676,
+      "word": "藏海传2断层第一",
+      "onboard_time": 1778596161,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 255640,
       "num": 255640,
       "word": "王励勤说国乒男团阵容不是最强",
@@ -3321,14 +3361,6 @@
       "onboard_time": 1778320640,
       "rank": 22,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 250195,
-      "num": 250195,
-      "word": "藏海传2断层第一",
-      "onboard_time": 1778596161,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 250090,
@@ -3507,6 +3539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 234938,
+      "num": 234938,
+      "word": "逐玉奖项",
+      "onboard_time": 1778627837,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 233605,
       "num": 233605,
       "word": "马嘉祺我们生活在南京预告",
@@ -3577,14 +3617,6 @@
       "onboard_time": 1778343020,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 228582,
-      "num": 141191,
-      "word": "单场次见面会 亏本",
-      "onboard_time": 1778627717,
-      "rank": 20,
-      "category": "演出"
     },
     {
       "raw_hot": 226173,
@@ -4075,6 +4107,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 188605,
+      "num": 186559,
+      "word": "日落大道将以英语和普通话拍摄",
+      "onboard_time": 1778628258,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 188388,
       "num": 410511,
       "word": "主角 电影质感",
@@ -4107,6 +4147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 186623,
+      "num": 295801,
+      "word": "女子反对生娃再领证被诉返30万彩礼",
+      "onboard_time": 1778591661,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 186534,
       "num": 310405,
       "word": "交管队长回应被举报与女性举止亲密",
@@ -4121,6 +4169,14 @@
       "onboard_time": 1778571921,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 185984,
+      "num": 185984,
+      "word": "柬埔寨电诈园区被警方突袭视频曝光",
+      "onboard_time": 1778629518,
+      "rank": 27,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 185965,
@@ -4228,7 +4284,7 @@
     },
     {
       "raw_hot": 178881,
-      "num": 141132,
+      "num": 167193,
       "word": "F勒布伦回应被王楚钦打哭",
       "onboard_time": 1778627779,
       "rank": 22,
@@ -4483,6 +4539,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 167057,
+      "num": 167057,
+      "word": "存储芯片股重挫",
+      "onboard_time": 1778627837,
+      "rank": 24,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 166462,
+      "num": 166462,
+      "word": "高能量的人有什么特征",
+      "onboard_time": 1778605219,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 166243,
       "num": 251133,
       "word": "陈丽君进组",
@@ -4547,6 +4619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 161599,
+      "num": 640284,
+      "word": "穆里尼奥执教皇马达成协议",
+      "onboard_time": 1778628319,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 161318,
       "num": 350794,
       "word": "DeepSeek被曝融资500亿",
@@ -4577,14 +4657,6 @@
       "onboard_time": 1778510963,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 160241,
-      "num": 141052,
-      "word": "存储芯片股重挫",
-      "onboard_time": 1778627837,
-      "rank": 24,
-      "category": "财经"
     },
     {
       "raw_hot": 159443,
@@ -4659,6 +4731,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 156164,
+      "num": 156164,
+      "word": "第一次看到金丝楠木狗",
+      "onboard_time": 1778610975,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 154179,
       "num": 154179,
       "word": "原来血糖变化会带来巨大的饥饿感",
@@ -4673,14 +4753,6 @@
       "onboard_time": 1778401339,
       "rank": 46,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 153762,
-      "num": 141006,
-      "word": "日落大道将以英语和普通话拍摄",
-      "onboard_time": 1778628258,
-      "rank": 25,
-      "category": "电影"
     },
     {
       "raw_hot": 153568,
@@ -4747,14 +4819,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 147699,
-      "num": 140976,
-      "word": "高能量的人有什么特征",
-      "onboard_time": 1778605219,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 146274,
       "num": 223022,
       "word": "林昀儒世乒赛铜牌",
@@ -4803,36 +4867,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 142533,
-      "num": 140924,
-      "word": "第一次看到金丝楠木狗",
-      "onboard_time": 1778610975,
-      "rank": 43,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 141641,
-      "num": 141641,
-      "word": "灰熊球员布兰登克拉克去世",
-      "onboard_time": 1778628739,
-      "rank": 8,
-      "category": "体育"
-    },
-    {
       "raw_hot": 140142,
       "num": 132624,
       "word": "良陈美锦",
       "onboard_time": 1778387180,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 140063,
-      "num": 295801,
-      "word": "女子反对生娃再领证被诉返30万彩礼",
-      "onboard_time": 1778591661,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 139614,
@@ -4873,14 +4913,6 @@
       "onboard_time": 1778360415,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 137603,
-      "num": 137603,
-      "word": "逐玉奖项",
-      "onboard_time": 1778627837,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 137511,
@@ -4955,6 +4987,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 132279,
+      "num": 132279,
+      "word": "说唱巅峰对决",
+      "onboard_time": 1778628078,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 131745,
       "num": 195777,
       "word": "DRG对战TCG",
@@ -5003,22 +5043,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 129467,
-      "num": 129467,
-      "word": "戛纳电影节",
-      "onboard_time": 1778628258,
-      "rank": 31,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 129451,
-      "num": 110287,
-      "word": "戛纳红毯",
-      "onboard_time": 1778628018,
-      "rank": 34,
-      "category": "电影"
-    },
-    {
       "raw_hot": 129004,
       "num": 250150,
       "word": "深铁集团再借万科25亿",
@@ -5059,6 +5083,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 127949,
+      "num": 127949,
+      "word": "旺旺副董点赞刘宇宁",
+      "onboard_time": 1778626818,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 127646,
       "num": 317558,
       "word": "无畏带队突破队史",
@@ -5073,6 +5105,22 @@
       "onboard_time": 1778548700,
       "rank": 47,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 127198,
+      "num": 135717,
+      "word": "孙颖莎打匹克球赢了振臂欢呼",
+      "onboard_time": 1778598741,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 126536,
+      "num": 123575,
+      "word": "网传最终版歌手2026阵容",
+      "onboard_time": 1778628739,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 125885,
@@ -5104,6 +5152,22 @@
       "word": "Cui71 韩国游戏",
       "onboard_time": 1778346019,
       "rank": 34,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 123720,
+      "num": 123720,
+      "word": "U17国足获世少赛参赛资格",
+      "onboard_time": 1778629158,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 122884,
+      "num": 122884,
+      "word": "久诚 谁又不释怀谁又不肯原谅呢",
+      "onboard_time": 1778629579,
+      "rank": 43,
       "category": "电竞"
     },
     {
@@ -5211,6 +5275,22 @@
       "category": "体育,汽车"
     },
     {
+      "raw_hot": 116257,
+      "num": 116257,
+      "word": "白鹿也被泼水了",
+      "onboard_time": 1778630780,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 114921,
+      "num": 114921,
+      "word": "美股存储芯片持续暴涨",
+      "onboard_time": 1778628319,
+      "rank": 36,
+      "category": "财经,国际时政"
+    },
+    {
       "raw_hot": 114112,
       "num": 250312,
       "word": "央视网更正锁电相关报道",
@@ -5251,14 +5331,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 110918,
-      "num": 110918,
-      "word": "孙颖莎打匹克球赢了振臂欢呼",
-      "onboard_time": 1778598741,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 110477,
       "num": 185316,
       "word": "ZmjjKK解锁3000击败里程碑",
@@ -5291,6 +5363,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 109396,
+      "num": 109396,
+      "word": "任何关系都是阶段性陪伴",
+      "onboard_time": 1778630479,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 109243,
       "num": 109243,
       "word": "杨幂早期还是古早画风太太",
@@ -5313,6 +5393,22 @@
       "onboard_time": 1778456840,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 106045,
+      "num": 106045,
+      "word": "全国多地蛇开始活动了",
+      "onboard_time": 1778628319,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 105183,
+      "num": 133821,
+      "word": "杭州一街道被多品牌拉黑",
+      "onboard_time": 1778629700,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 104510,
@@ -5355,12 +5451,12 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 100557,
-      "num": 108106,
-      "word": "美股存储芯片持续暴涨",
-      "onboard_time": 1778628319,
-      "rank": 36,
-      "category": "财经,国际时政"
+      "raw_hot": 100812,
+      "num": 286733,
+      "word": "AI圈突传大变局",
+      "onboard_time": 1778629518,
+      "rank": 19,
+      "category": "互联网"
     },
     {
       "raw_hot": 98496,
@@ -5379,28 +5475,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 97380,
-      "num": 97380,
-      "word": "旺旺副董点赞刘宇宁",
-      "onboard_time": 1778626818,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 97023,
       "num": 126231,
       "word": "周琦失误",
       "onboard_time": 1778344821,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 95174,
-      "num": 91490,
-      "word": "网传最终版歌手2026阵容",
-      "onboard_time": 1778628739,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 94064,
@@ -5425,14 +5505,6 @@
       "onboard_time": 1778433979,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 91641,
-      "num": 91641,
-      "word": "全国多地蛇开始活动了",
-      "onboard_time": 1778628319,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 91079,
@@ -5539,20 +5611,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 83863,
+      "num": 141632,
+      "word": "宇树称会调整机甲售价",
+      "onboard_time": 1778626818,
+      "rank": 9,
+      "category": "数码"
+    },
+    {
       "raw_hot": 83626,
       "num": 200301,
       "word": "刘晓庆照片被刻意修很多皱纹",
       "onboard_time": 1778501961,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 83423,
-      "num": 83423,
-      "word": "说唱巅峰对决",
-      "onboard_time": 1778628078,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 83278,
@@ -5600,14 +5672,6 @@
       "word": "国乒男团收视全网断层第一",
       "onboard_time": 1778434756,
       "rank": 42,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 79377,
-      "num": 79377,
-      "word": "穆里尼奥执教皇马达成协议",
-      "onboard_time": 1778628319,
-      "rank": 46,
       "category": "体育"
     },
     {
@@ -5697,14 +5761,6 @@
       "onboard_time": 1778346019,
       "rank": 42,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 71433,
-      "num": 141632,
-      "word": "宇树称会调整机甲售价",
-      "onboard_time": 1778626818,
-      "rank": 9,
-      "category": "数码"
     },
     {
       "raw_hot": 69350,
@@ -6620,7 +6676,7 @@
     },
     {
       "raw_hot": 23585,
-      "num": 162176,
+      "num": 1493117,
       "word": "从4月先行指标看我国经济持续向好",
       "onboard_time": 1778592321,
       "rank": 45,

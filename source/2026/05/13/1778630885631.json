@@ -1,0 +1,410 @@
+{
+  "runTime": 1778630885631,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2072791,
+        "num": 2072791,
+        "word": "特朗普访华",
+        "onboard_time": 1778596462,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1535204,
+        "num": 1535204,
+        "word": "南京审计大学偷拍男生被开除",
+        "onboard_time": 1778599940,
+        "rank": 1,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 13221,
+        "num": 1493117,
+        "word": "从4月先行指标看我国经济持续向好",
+        "onboard_time": 1778592321,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1490542,
+        "num": 1490542,
+        "word": "67岁产女的妈妈现已卧床",
+        "onboard_time": 1778600300,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1395287,
+        "num": 1395287,
+        "word": "遭15岁男孩冲撞女子称检查出了别的",
+        "onboard_time": 1778627837,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1093790,
+        "num": 1093790,
+        "word": "灰熊球员布兰登克拉克去世",
+        "onboard_time": 1778628739,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 999915,
+        "num": 999915,
+        "word": "巩俐中文宣布戛纳开幕",
+        "onboard_time": 1778628438,
+        "rank": 6,
+        "category": "电影,综艺"
+      },
+      {
+        "raw_hot": 668522,
+        "num": 668522,
+        "word": "跑男争议不该先定罪后解读",
+        "onboard_time": 1778598321,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161599,
+        "num": 640284,
+        "word": "穆里尼奥执教皇马达成协议",
+        "onboard_time": 1778628319,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131467,
+        "num": 627163,
+        "word": "4月汽车销量前10仅1款油车",
+        "onboard_time": 1778586560,
+        "rank": 9,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 1940727,
+        "num": 568383,
+        "word": "辛芷蕾",
+        "onboard_time": 1778627717,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 954103,
+        "num": 531683,
+        "word": "美股",
+        "onboard_time": 1778627779,
+        "rank": 11,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 526844,
+        "num": 526844,
+        "word": "白鹿演唱会过审",
+        "onboard_time": 1778585960,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 501412,
+        "num": 501412,
+        "word": "涉偷拍男生与拟录公务员姓名院校一致",
+        "onboard_time": 1778626097,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 410338,
+        "num": 410338,
+        "word": "下午休是性价比最高的半天假",
+        "onboard_time": 1778588482,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 382073,
+        "num": 382073,
+        "word": "戛纳红毯",
+        "onboard_time": 1778628018,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 339891,
+        "num": 339891,
+        "word": "以防你没见过坚果年轻时的样子",
+        "onboard_time": 1778594002,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 325073,
+        "num": 325073,
+        "word": "单场次见面会 亏本",
+        "onboard_time": 1778627717,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 307940,
+        "num": 307940,
+        "word": "戛纳电影节",
+        "onboard_time": 1778628258,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 100812,
+        "num": 286733,
+        "word": "AI圈突传大变局",
+        "onboard_time": 1778629518,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 279260,
+        "num": 279260,
+        "word": "曝某升咖艺人想抢李宇春跨年压轴",
+        "onboard_time": 1778590580,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 255676,
+        "num": 255676,
+        "word": "藏海传2断层第一",
+        "onboard_time": 1778596161,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 214969,
+        "num": 237159,
+        "word": "全球昆虫正在以惊人速度灭绝",
+        "onboard_time": 1778599520,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 234938,
+        "num": 234938,
+        "word": "逐玉奖项",
+        "onboard_time": 1778627837,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 228654,
+        "num": 228654,
+        "word": "辛芷蕾新片演黄柳霜",
+        "onboard_time": 1778603598,
+        "rank": 24,
+        "category": "电影,剧集"
+      },
+      {
+        "raw_hot": 186623,
+        "num": 186623,
+        "word": "女子反对生娃再领证被诉返30万彩礼",
+        "onboard_time": 1778591661,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188605,
+        "num": 186559,
+        "word": "日落大道将以英语和普通话拍摄",
+        "onboard_time": 1778628258,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 185984,
+        "num": 185984,
+        "word": "柬埔寨电诈园区被警方突袭视频曝光",
+        "onboard_time": 1778629518,
+        "rank": 27,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 167193,
+        "num": 167193,
+        "word": "F勒布伦回应被王楚钦打哭",
+        "onboard_time": 1778627779,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 167057,
+        "num": 167057,
+        "word": "存储芯片股重挫",
+        "onboard_time": 1778627837,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 166462,
+        "num": 166462,
+        "word": "高能量的人有什么特征",
+        "onboard_time": 1778605219,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 160852,
+        "num": 160852,
+        "word": "汪海林的发言",
+        "onboard_time": 1778596522,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 160820,
+        "num": 160820,
+        "word": "曝限薪令前顶流1.8亿片酬",
+        "onboard_time": 1778593041,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156164,
+        "num": 156164,
+        "word": "第一次看到金丝楠木狗",
+        "onboard_time": 1778610975,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 149352,
+        "num": 149352,
+        "word": "女生没电脑在电竞馆学习获免单",
+        "onboard_time": 1778600122,
+        "rank": 34,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 146567,
+        "num": 146567,
+        "word": "宋亚轩你好吗 端午档",
+        "onboard_time": 1778602040,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 146442,
+        "num": 146442,
+        "word": "给阿嬷的情书",
+        "onboard_time": 1778595561,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 127198,
+        "num": 135717,
+        "word": "孙颖莎打匹克球赢了振臂欢呼",
+        "onboard_time": 1778598741,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 105183,
+        "num": 133821,
+        "word": "杭州一街道被多品牌拉黑",
+        "onboard_time": 1778629700,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132279,
+        "num": 132279,
+        "word": "说唱巅峰对决",
+        "onboard_time": 1778628078,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127949,
+        "num": 127949,
+        "word": "旺旺副董点赞刘宇宁",
+        "onboard_time": 1778626818,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123720,
+        "num": 123720,
+        "word": "U17国足获世少赛参赛资格",
+        "onboard_time": 1778629158,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126536,
+        "num": 123575,
+        "word": "网传最终版歌手2026阵容",
+        "onboard_time": 1778628739,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122884,
+        "num": 122884,
+        "word": "久诚 谁又不释怀谁又不肯原谅呢",
+        "onboard_time": 1778629579,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 116257,
+        "num": 116257,
+        "word": "白鹿也被泼水了",
+        "onboard_time": 1778630780,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114921,
+        "num": 114921,
+        "word": "美股存储芯片持续暴涨",
+        "onboard_time": 1778628319,
+        "rank": 45,
+        "category": "财经,国际时政"
+      },
+      {
+        "raw_hot": 83863,
+        "num": 113721,
+        "word": "宇树称会调整机甲售价",
+        "onboard_time": 1778626818,
+        "rank": 46,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 113231,
+        "num": 113231,
+        "word": "汪涵有多爱吃槟榔",
+        "onboard_time": 1778583560,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109396,
+        "num": 109396,
+        "word": "任何关系都是阶段性陪伴",
+        "onboard_time": 1778630479,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 106045,
+        "num": 106045,
+        "word": "全国多地蛇开始活动了",
+        "onboard_time": 1778628319,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见联合国教科文组织总干事#"
+    }
+  }
+}
