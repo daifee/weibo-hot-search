@@ -1,7 +1,15 @@
 {
   "startTime": 1778689652010,
-  "endTime": 1778755425841,
+  "endTime": 1778763591879,
   "band_list": [
+    {
+      "raw_hot": 13876227,
+      "num": 13876227,
+      "word": "特朗普访华欢迎宴会",
+      "onboard_time": 1778753481,
+      "rank": 1,
+      "category": "国内时政"
+    },
     {
       "raw_hot": 10065284,
       "num": 10065284,
@@ -17,14 +25,6 @@
       "onboard_time": 1778735724,
       "rank": 1,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 6980626,
-      "num": 1707132,
-      "word": "特朗普访华欢迎宴会",
-      "onboard_time": 1778753481,
-      "rank": 1,
-      "category": "国内时政"
     },
     {
       "raw_hot": 4799447,
@@ -75,6 +75,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 2165192,
+      "num": 325800,
+      "word": "马斯克携幼子现身人民大会堂",
+      "onboard_time": 1778756182,
+      "rank": 10,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 2082931,
       "num": 589710,
       "word": "何九华宣布当爸",
@@ -89,6 +97,14 @@
       "onboard_time": 1778733505,
       "rank": 14,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 1939145,
+      "num": 1939145,
+      "word": "方媛坚持要住男生单人间",
+      "onboard_time": 1778758763,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 1868365,
@@ -108,7 +124,7 @@
     },
     {
       "raw_hot": 1753237,
-      "num": 1753237,
+      "num": 2907951,
       "word": "中美领导人致辞",
       "onboard_time": 1778752343,
       "rank": 0,
@@ -201,6 +217,22 @@
       "onboard_time": 1778727381,
       "rank": 3,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 985661,
+      "num": 320662,
+      "word": "马斯克回复360度转圈拍人民大会堂",
+      "onboard_time": 1778760263,
+      "rank": 12,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 977692,
+      "num": 324060,
+      "word": "徐志胜疯狂暗示方媛不太方便",
+      "onboard_time": 1778761941,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 955153,
@@ -297,6 +329,14 @@
       "onboard_time": 1778730803,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 778740,
+      "num": 308438,
+      "word": "曝又一部剧男主跑路",
+      "onboard_time": 1778761702,
+      "rank": 20,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 771439,
@@ -563,6 +603,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 505397,
+      "num": 308023,
+      "word": "曝李昀锐孟子义昀牵孟绕解绑节奏",
+      "onboard_time": 1778758221,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 505204,
       "num": 497329,
       "word": "吴宣仪成立个人工作室",
@@ -649,6 +697,14 @@
       "onboard_time": 1778687660,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 427807,
+      "num": 332874,
+      "word": "爸爸当家5嘉宾阵容",
+      "onboard_time": 1778755043,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 426930,
@@ -763,6 +819,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 333916,
+      "num": 333916,
+      "word": "果然岁月从不败美人",
+      "onboard_time": 1778751921,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 331779,
       "num": 294584,
       "word": "香港80后地产女王烧炭身亡",
@@ -801,6 +865,14 @@
       "onboard_time": 1778718442,
       "rank": 25,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 292544,
+      "num": 292544,
+      "word": "周也戛纳淡紫色纱裙",
+      "onboard_time": 1778762602,
+      "rank": 30,
+      "category": "电影"
     },
     {
       "raw_hot": 291089,
@@ -859,12 +931,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 263074,
+      "num": 329946,
+      "word": "中美关系只能搞好不能搞坏",
+      "onboard_time": 1778760682,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 261746,
       "num": 261746,
       "word": "标价15元结账收29.9元",
       "onboard_time": 1778733625,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 257775,
+      "num": 304162,
+      "word": "王楚钦被夸得不好意思了",
+      "onboard_time": 1778761223,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 256150,
@@ -875,20 +963,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 255785,
-      "num": 255785,
-      "word": "爸爸当家5嘉宾阵容",
-      "onboard_time": 1778755043,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 254431,
       "num": 172481,
       "word": "A股放量1222亿调整",
       "onboard_time": 1778745682,
       "rank": 49,
       "category": "财经"
+    },
+    {
+      "raw_hot": 250997,
+      "num": 250997,
+      "word": "31岁女子从60斤增到90斤像变个人",
+      "onboard_time": 1778751382,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 248714,
@@ -905,6 +993,14 @@
       "onboard_time": 1778681661,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 246175,
+      "num": 246175,
+      "word": "10种不舒服是抑郁症躯体化表现",
+      "onboard_time": 1778759362,
+      "rank": 34,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 245716,
@@ -995,6 +1091,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 232041,
+      "num": 232041,
+      "word": "刘亦菲烈焰玫瑰裙",
+      "onboard_time": 1778762242,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 231539,
       "num": 231539,
       "word": "37岁小伙吹气球半个月赚60万",
@@ -1051,14 +1155,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 215079,
-      "num": 215079,
-      "word": "果然岁月从不败美人",
-      "onboard_time": 1778751921,
-      "rank": 40,
-      "category": "情感"
-    },
-    {
       "raw_hot": 214230,
       "num": 214230,
       "word": "于正回应白鹿争议",
@@ -1081,14 +1177,6 @@
       "onboard_time": 1778739142,
       "rank": 43,
       "category": "数码"
-    },
-    {
-      "raw_hot": 203227,
-      "num": 197482,
-      "word": "31岁女子从60斤增到90斤像变个人",
-      "onboard_time": 1778751382,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 202383,
@@ -1121,6 +1209,14 @@
       "onboard_time": 1778749341,
       "rank": 29,
       "category": "数码"
+    },
+    {
+      "raw_hot": 199095,
+      "num": 199095,
+      "word": "桃花坞9个男生共用1个卫生间",
+      "onboard_time": 1778756421,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 198716,
@@ -1283,12 +1379,36 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 166685,
+      "num": 166685,
+      "word": "张凌赫出发GUCCI大秀",
+      "onboard_time": 1778761762,
+      "rank": 41,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 165804,
+      "num": 165804,
+      "word": "主角",
+      "onboard_time": 1778677463,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 164385,
       "num": 164385,
       "word": "歌手",
       "onboard_time": 1778746522,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 163979,
+      "num": 163979,
+      "word": "藏海传2简介",
+      "onboard_time": 1778757681,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 163170,
@@ -1331,6 +1451,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 154388,
+      "num": 203645,
+      "word": "男生口臭2年险患癌体内发现罕见菌株",
+      "onboard_time": 1778757322,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 152002,
+      "num": 293401,
+      "word": "中美人民都是伟大的人民",
+      "onboard_time": 1778761881,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 151410,
       "num": 151410,
       "word": "多名小学生忘带书本被老师扇到耳出血",
@@ -1355,12 +1491,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 149261,
+      "num": 149261,
+      "word": "吴宣仪新公司叫祎琏文化",
+      "onboard_time": 1778756421,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 147607,
-      "num": 1461209,
+      "num": 2159055,
       "word": "这些美方代表在中美元首会谈会场",
       "onboard_time": 1778744421,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 146153,
+      "num": 165908,
+      "word": "女子喂宠物猪鼻蛇被咬手肿如气球",
+      "onboard_time": 1778761042,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 146129,
@@ -1459,6 +1611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 130562,
+      "num": 201226,
+      "word": "马斯克说会晤会有好成果",
+      "onboard_time": 1778760682,
+      "rank": 39,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 128494,
       "num": 366233,
       "word": "多位国乒名将祝福刘炜珊",
@@ -1529,6 +1689,14 @@
       "onboard_time": 1778690358,
       "rank": 44,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 103648,
+      "num": 299062,
+      "word": "小米17Max首发搭载徕卡2亿主摄",
+      "onboard_time": 1778756661,
+      "rank": 27,
+      "category": "数码"
     },
     {
       "raw_hot": 103211,
@@ -1635,6 +1803,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 67595,
+      "num": 149325,
+      "word": "多方回应关闭支付功能后被扣184万",
+      "onboard_time": 1778763322,
+      "rank": 48,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 64169,
       "num": 162428,
       "word": "早田希娜说孙颖莎王曼昱是最强双核",
@@ -1739,14 +1915,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 31997,
-      "num": 51028,
-      "word": "主角",
-      "onboard_time": 1778677463,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 30034,
       "num": 37118,
       "word": "女子起诉舅舅争母亲857万遗产被驳回",
@@ -1833,6 +2001,14 @@
       "onboard_time": 1778678243,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 16893,
+      "num": 309747,
+      "word": "月薪1.6万招羊倌是夫妻两人薪资",
+      "onboard_time": 1778763141,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 13972,
