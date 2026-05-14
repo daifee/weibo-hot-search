@@ -1,6 +1,6 @@
 {
   "startTime": 1777565126834,
-  "endTime": 1778782658961,
+  "endTime": 1778788799675,
   "band_list": [
     {
       "raw_hot": 25375641,
@@ -25875,6 +25875,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 49019,
+      "num": 40987,
+      "word": "女子让全家常年食用无碘盐",
+      "onboard_time": 1778783595,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 48706,
       "num": 327319,
       "word": "突然弹出一堆券我人傻了",
@@ -27907,6 +27915,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 21017,
+      "num": 23143,
+      "word": "接张局事业运",
+      "onboard_time": 1778786294,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 20944,
       "num": 28970,
       "word": "国乒男团3比1罗马尼亚",
@@ -28009,6 +28025,14 @@
       "onboard_time": 1778324301,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 19391,
+      "num": 22962,
+      "word": "欢迎宴会上强调了什么",
+      "onboard_time": 1778786534,
+      "rank": 39,
+      "category": "国内时政"
     },
     {
       "raw_hot": 19319,
@@ -28161,6 +28185,14 @@
       "onboard_time": 1778591060,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 16655,
+      "num": 22786,
+      "word": "构建中美建设性战略稳定关系",
+      "onboard_time": 1778784915,
+      "rank": 42,
+      "category": "国内时政"
     },
     {
       "raw_hot": 16606,
@@ -28369,6 +28401,14 @@
       "onboard_time": 1778403619,
       "rank": 35,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 13608,
+      "num": 22339,
+      "word": "曾沛慈宝莲练舞vlog",
+      "onboard_time": 1778783535,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 13446,
