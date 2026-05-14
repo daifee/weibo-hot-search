@@ -1,0 +1,410 @@
+{
+  "runTime": 1778781642218,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 89424,
+        "num": 264307,
+        "word": "中美领导人致辞",
+        "onboard_time": 1778752343,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 439461,
+        "num": 257122,
+        "word": "国家反诈中心APP 检测AI图",
+        "onboard_time": 1778773042,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 21795,
+        "num": 252484,
+        "word": "天坛里的中国古建智慧",
+        "onboard_time": 1778766442,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 359646,
+        "num": 243747,
+        "word": "方媛坚持要住男生单人间",
+        "onboard_time": 1778758763,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 311590,
+        "num": 237618,
+        "word": "疑似周也对戛纳火力全开",
+        "onboard_time": 1778773402,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 232871,
+        "num": 232871,
+        "word": "特朗普访华欢迎宴会",
+        "onboard_time": 1778753481,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 140437,
+        "num": 140437,
+        "word": "有的猫一看面相就老实巴交",
+        "onboard_time": 1778770343,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 112066,
+        "num": 112066,
+        "word": "想减肥可以去KTV吃饭",
+        "onboard_time": 1778763743,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 109613,
+        "num": 109613,
+        "word": "泰兰尼斯被曝千元童鞋成本仅37元",
+        "onboard_time": 1778769324,
+        "rank": 8,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 106205,
+        "num": 106205,
+        "word": "给阿嬷的情书女主官宣入行",
+        "onboard_time": 1778748623,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 818871,
+        "num": 105566,
+        "word": "徐志胜疯狂暗示方媛不太方便",
+        "onboard_time": 1778761941,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 382598,
+        "num": 102626,
+        "word": "马斯克回复360度转圈拍人民大会堂",
+        "onboard_time": 1778760263,
+        "rank": 11,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 271620,
+        "num": 99683,
+        "word": "李现看给阿嬷的情书哭得好狼狈",
+        "onboard_time": 1778773402,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 196593,
+        "num": 99660,
+        "word": "马斯克携幼子现身人民大会堂",
+        "onboard_time": 1778756182,
+        "rank": 13,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 127359,
+        "num": 96021,
+        "word": "那英再次加盟歌手",
+        "onboard_time": 1778773161,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117817,
+        "num": 94258,
+        "word": "特朗普说美高法门楣刻孔子无比荣幸",
+        "onboard_time": 1778769743,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 112424,
+        "num": 92948,
+        "word": "男子1万买榴莲付11万几个月才发现",
+        "onboard_time": 1778751623,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90943,
+        "num": 90943,
+        "word": "歌手",
+        "onboard_time": 1778772261,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 89059,
+        "num": 89059,
+        "word": "王楚钦不打球的时候长这样",
+        "onboard_time": 1778765362,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 88504,
+        "num": 88504,
+        "word": "全红婵妈妈生病住院",
+        "onboard_time": 1778768244,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 140020,
+        "num": 87689,
+        "word": "睡前做这个动作30秒连续三天都睡得香",
+        "onboard_time": 1778770403,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 95659,
+        "num": 87333,
+        "word": "10种不舒服是抑郁症躯体化表现",
+        "onboard_time": 1778759362,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 86621,
+        "num": 86621,
+        "word": "AI还原烂梗有多毒",
+        "onboard_time": 1778772922,
+        "rank": 22,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 85182,
+        "num": 85182,
+        "word": "周也戛纳淡紫色纱裙",
+        "onboard_time": 1778762602,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 74505,
+        "num": 74505,
+        "word": "黄仁勋谈中国AI发展",
+        "onboard_time": 1778764462,
+        "rank": 24,
+        "category": "国内时政,互联网"
+      },
+      {
+        "raw_hot": 72569,
+        "num": 72569,
+        "word": "日本男教师对女学生水瓶做不雅动作",
+        "onboard_time": 1778770463,
+        "rank": 25,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 69672,
+        "num": 69672,
+        "word": "爸爸当家5嘉宾阵容",
+        "onboard_time": 1778755043,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 69026,
+        "num": 69026,
+        "word": "伊能静神吐槽孙杨",
+        "onboard_time": 1778778018,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 62390,
+        "num": 68971,
+        "word": "值得坚持一生的24个好习惯",
+        "onboard_time": 1778770224,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 52370,
+        "num": 68862,
+        "word": "妈妈低碘饮食女儿2岁不太会说话",
+        "onboard_time": 1778774241,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 59951,
+        "num": 68760,
+        "word": "女子喂宠物猪鼻蛇被咬手肿如气球",
+        "onboard_time": 1778761042,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 59228,
+        "num": 68621,
+        "word": "多方回应关闭支付功能后被扣184万",
+        "onboard_time": 1778763322,
+        "rank": 31,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 56142,
+        "num": 68576,
+        "word": "男孩幽门螺杆菌阳性治疗4次全失败",
+        "onboard_time": 1778764401,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 53518,
+        "num": 68468,
+        "word": "马斯克谈会晤感受",
+        "onboard_time": 1778778018,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 52836,
+        "num": 68317,
+        "word": "秦岭分水岭事故死者妻子发声",
+        "onboard_time": 1778774540,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 47744,
+        "num": 68194,
+        "word": "浪姐",
+        "onboard_time": 1778769624,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 45525,
+        "num": 68100,
+        "word": "白鹿演唱会票价加起来是十年",
+        "onboard_time": 1778735303,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 45191,
+        "num": 67933,
+        "word": "马頔因为心疼李纯去剧组给她做饭",
+        "onboard_time": 1778771364,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 41096,
+        "num": 67897,
+        "word": "易烊千玺 惊悚片",
+        "onboard_time": 1778751802,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 37733,
+        "num": 67731,
+        "word": "张本智和说世界排名不代表一切",
+        "onboard_time": 1778767043,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 40329,
+        "num": 67625,
+        "word": "特朗普感叹大美中国",
+        "onboard_time": 1778745381,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 31995,
+        "num": 67540,
+        "word": "老人焚烧自家田地枯草被顶格罚款",
+        "onboard_time": 1778771364,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36642,
+        "num": 67415,
+        "word": "特朗普说二三把手我都不让他们来",
+        "onboard_time": 1778731402,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 31966,
+        "num": 67332,
+        "word": "主角 小白鞋改编",
+        "onboard_time": 1778778018,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 35578,
+        "num": 67179,
+        "word": "特朗普抵达欢迎宴会现场",
+        "onboard_time": 1778753001,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 29456,
+        "num": 67054,
+        "word": "小鬼新加坡站延期",
+        "onboard_time": 1778778018,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 32662,
+        "num": 66979,
+        "word": "高通总裁安蒙谈中国机遇",
+        "onboard_time": 1778774720,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 29135,
+        "num": 66878,
+        "word": "种地吧陪看变陪哭了",
+        "onboard_time": 1778778018,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 28597,
+        "num": 66805,
+        "word": "31岁女子从60斤增到90斤像变个人",
+        "onboard_time": 1778751382,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24302,
+        "num": 66710,
+        "word": "Jiejie单局抢四条龙",
+        "onboard_time": 1778772982,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#中美元首再会面#"
+    }
+  }
+}

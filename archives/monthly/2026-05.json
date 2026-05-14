@@ -1,6 +1,6 @@
 {
   "startTime": 1777565126834,
-  "endTime": 1778773366284,
+  "endTime": 1778781642218,
   "band_list": [
     {
       "raw_hot": 25375641,
@@ -8251,6 +8251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 439461,
+      "num": 257122,
+      "word": "国家反诈中心APP 检测AI图",
+      "onboard_time": 1778773042,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 438919,
       "num": 338051,
       "word": "小猫的脚原来这么臭",
@@ -11443,6 +11451,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 311590,
+      "num": 237618,
+      "word": "疑似周也对戛纳火力全开",
+      "onboard_time": 1778773402,
+      "rank": 4,
+      "category": "电影"
+    },
+    {
       "raw_hot": 311580,
       "num": 311580,
       "word": "刘宇宁穿高定直播",
@@ -12769,6 +12785,14 @@
       "onboard_time": 1778143823,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 271620,
+      "num": 99683,
+      "word": "李现看给阿嬷的情书哭得好狼狈",
+      "onboard_time": 1778773402,
+      "rank": 12,
+      "category": "电影"
     },
     {
       "raw_hot": 271583,
@@ -17337,14 +17361,6 @@
       "onboard_time": 1778457741,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 186731,
-      "num": 186731,
-      "word": "国家反诈中心APP 检测AI图",
-      "onboard_time": 1778773042,
-      "rank": 39,
-      "category": "幽默"
     },
     {
       "raw_hot": 186623,
@@ -23891,6 +23907,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 86621,
+      "num": 395571,
+      "word": "AI还原烂梗有多毒",
+      "onboard_time": 1778772922,
+      "rank": 9,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 86498,
       "num": 217139,
       "word": "郭晶晶陈若琳假期同框热聊",
@@ -24713,6 +24737,14 @@
       "onboard_time": 1777730303,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 69026,
+      "num": 69026,
+      "word": "伊能静神吐槽孙杨",
+      "onboard_time": 1778778018,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 68833,
@@ -25571,6 +25603,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 53518,
+      "num": 68468,
+      "word": "马斯克谈会晤感受",
+      "onboard_time": 1778778018,
+      "rank": 33,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 53513,
       "num": 313987,
       "word": "用AI把我家猫养在了电脑上",
@@ -25617,6 +25657,22 @@
       "onboard_time": 1778169921,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 52836,
+      "num": 68317,
+      "word": "秦岭分水岭事故死者妻子发声",
+      "onboard_time": 1778774540,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 52370,
+      "num": 68862,
+      "word": "妈妈低碘饮食女儿2岁不太会说话",
+      "onboard_time": 1778774241,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 52289,
@@ -26923,6 +26979,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 32662,
+      "num": 66979,
+      "word": "高通总裁安蒙谈中国机遇",
+      "onboard_time": 1778774720,
+      "rank": 46,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 32415,
       "num": 287652,
       "word": "上海市监局通报一糖果中检出伟哥",
@@ -26969,6 +27033,14 @@
       "onboard_time": 1778442915,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 31966,
+      "num": 67332,
+      "word": "主角 小白鞋改编",
+      "onboard_time": 1778778018,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 31952,
@@ -27203,12 +27275,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 29456,
+      "num": 67054,
+      "word": "小鬼新加坡站延期",
+      "onboard_time": 1778778018,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
       "raw_hot": 29404,
       "num": 152731,
       "word": "曝字节今年AI支出将超2000亿",
       "onboard_time": 1778398459,
       "rank": 49,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 29135,
+      "num": 66878,
+      "word": "种地吧陪看变陪哭了",
+      "onboard_time": 1778778018,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 29052,
@@ -27409,14 +27497,6 @@
       "onboard_time": 1777841953,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 26877,
-      "num": 395571,
-      "word": "AI还原烂梗有多毒",
-      "onboard_time": 1778772922,
-      "rank": 9,
-      "category": "互联网"
     },
     {
       "raw_hot": 26752,
