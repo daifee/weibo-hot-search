@@ -1,0 +1,410 @@
+{
+  "runTime": 1778772449689,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2439113,
+        "num": 2439113,
+        "word": "联想确认成为英伟达H200中国分销商",
+        "onboard_time": 1778769204,
+        "rank": 0,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 3221359,
+        "num": 2323832,
+        "word": "克宫宣布普京即将访华",
+        "onboard_time": 1778765425,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 131093,
+        "num": 1639583,
+        "word": "天坛里的中国古建智慧",
+        "onboard_time": 1778766442,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 3136833,
+        "num": 1579975,
+        "word": "徐志胜疯狂暗示方媛不太方便",
+        "onboard_time": 1778761941,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1360551,
+        "num": 1360551,
+        "word": "特朗普访华欢迎宴会",
+        "onboard_time": 1778753481,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 631286,
+        "num": 631286,
+        "word": "想减肥可以去KTV吃饭",
+        "onboard_time": 1778763743,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 424977,
+        "num": 424977,
+        "word": "中美领导人致辞",
+        "onboard_time": 1778752343,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 412666,
+        "num": 412666,
+        "word": "泰兰尼斯被曝千元童鞋成本仅37元",
+        "onboard_time": 1778769324,
+        "rank": 7,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 1277057,
+        "num": 411683,
+        "word": "方媛坚持要住男生单人间",
+        "onboard_time": 1778758763,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 406899,
+        "num": 406899,
+        "word": "王楚钦不打球的时候长这样",
+        "onboard_time": 1778765362,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 928204,
+        "num": 403776,
+        "word": "马斯克回复360度转圈拍人民大会堂",
+        "onboard_time": 1778760263,
+        "rank": 10,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 921458,
+        "num": 400106,
+        "word": "张月首封销量",
+        "onboard_time": 1778767945,
+        "rank": 11,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 762293,
+        "num": 398096,
+        "word": "马斯克携幼子现身人民大会堂",
+        "onboard_time": 1778756182,
+        "rank": 12,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 612474,
+        "num": 393555,
+        "word": "黄景瑜微博改名",
+        "onboard_time": 1778749702,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 568221,
+        "num": 387025,
+        "word": "鹿晗寸头",
+        "onboard_time": 1778723901,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 476138,
+        "num": 383276,
+        "word": "男子1万买榴莲付11万几个月才发现",
+        "onboard_time": 1778751623,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 382258,
+        "num": 382258,
+        "word": "给阿嬷的情书女主官宣入行",
+        "onboard_time": 1778748623,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 415890,
+        "num": 380579,
+        "word": "宋亚轩和张杰女儿撞小名",
+        "onboard_time": 1778751382,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 40446,
+        "num": 369055,
+        "word": "老人焚烧自家田地枯草被顶格罚款",
+        "onboard_time": 1778771364,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 359787,
+        "num": 359787,
+        "word": "周也戛纳淡紫色纱裙",
+        "onboard_time": 1778762602,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 729364,
+        "num": 348233,
+        "word": "曝又一部剧男主跑路",
+        "onboard_time": 1778761702,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 336257,
+        "num": 336257,
+        "word": "10种不舒服是抑郁症躯体化表现",
+        "onboard_time": 1778759362,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 333540,
+        "num": 333540,
+        "word": "男孩幽门螺杆菌阳性治疗4次全失败",
+        "onboard_time": 1778764401,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 327864,
+        "num": 327864,
+        "word": "黄仁勋谈中国AI发展",
+        "onboard_time": 1778764462,
+        "rank": 23,
+        "category": "国内时政,互联网"
+      },
+      {
+        "raw_hot": 321916,
+        "num": 321916,
+        "word": "常华森主动找刘诗诗打招呼",
+        "onboard_time": 1778766324,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 311475,
+        "num": 311475,
+        "word": "全红婵妈妈生病住院",
+        "onboard_time": 1778768244,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 293426,
+        "num": 293426,
+        "word": "特朗普说美高法门楣刻孔子无比荣幸",
+        "onboard_time": 1778769743,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 280223,
+        "num": 280223,
+        "word": "爸爸当家5嘉宾阵容",
+        "onboard_time": 1778755043,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 40756,
+        "num": 276564,
+        "word": "小米17Max首发搭载徕卡2亿主摄",
+        "onboard_time": 1778756661,
+        "rank": 28,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 124774,
+        "num": 271524,
+        "word": "张本智和说世界排名不代表一切",
+        "onboard_time": 1778767043,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 298347,
+        "num": 267302,
+        "word": "睡前做这个动作30秒连续三天都睡得香",
+        "onboard_time": 1778770403,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 294348,
+        "num": 263185,
+        "word": "曝李昀锐孟子义昀牵孟绕解绑节奏",
+        "onboard_time": 1778758221,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 259514,
+        "num": 259514,
+        "word": "多方回应关闭支付功能后被扣184万",
+        "onboard_time": 1778763322,
+        "rank": 32,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 243081,
+        "num": 243081,
+        "word": "姜乘澜韩妆速通预告",
+        "onboard_time": 1778768426,
+        "rank": 33,
+        "category": "网红,美妆"
+      },
+      {
+        "raw_hot": 228676,
+        "num": 228676,
+        "word": "日本男教师对女学生水瓶做不雅动作",
+        "onboard_time": 1778770463,
+        "rank": 34,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 223552,
+        "num": 223552,
+        "word": "女子喂宠物猪鼻蛇被咬手肿如气球",
+        "onboard_time": 1778761042,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188031,
+        "num": 188031,
+        "word": "有的猫一看面相就老实巴交",
+        "onboard_time": 1778770343,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 184214,
+        "num": 184214,
+        "word": "白鹿演唱会票价加起来是十年",
+        "onboard_time": 1778735303,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 182163,
+        "num": 182163,
+        "word": "程十安已被注册59枚商标",
+        "onboard_time": 1778769563,
+        "rank": 38,
+        "category": "网红,时尚"
+      },
+      {
+        "raw_hot": 108094,
+        "num": 181465,
+        "word": "特朗普抵达欢迎宴会现场",
+        "onboard_time": 1778753001,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 14797,
+        "num": 181341,
+        "word": "北漂独居青年每月花5000给猫续命",
+        "onboard_time": 1778771303,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 181331,
+        "num": 181331,
+        "word": "特朗普说二三把手我都不让他们来",
+        "onboard_time": 1778731402,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 172249,
+        "num": 172249,
+        "word": "浪姐",
+        "onboard_time": 1778769624,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170745,
+        "num": 170745,
+        "word": "马頔因为心疼李纯去剧组给她做饭",
+        "onboard_time": 1778771364,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165647,
+        "num": 165647,
+        "word": "值得坚持一生的24个好习惯",
+        "onboard_time": 1778770224,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 166787,
+        "num": 165528,
+        "word": "歌手",
+        "onboard_time": 1778772261,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160672,
+        "num": 160672,
+        "word": "张凌赫出发GUCCI大秀",
+        "onboard_time": 1778761762,
+        "rank": 46,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 130551,
+        "num": 148542,
+        "word": "果然岁月从不败美人",
+        "onboard_time": 1778751921,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 24213,
+        "num": 144132,
+        "word": "腾讯成立800人团队适配鸿蒙",
+        "onboard_time": 1778745921,
+        "rank": 48,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 143109,
+        "num": 143109,
+        "word": "林大厨 不再依赖王俊凯算长大吗",
+        "onboard_time": 1778761281,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#中美元首再会面#"
+    }
+  }
+}
