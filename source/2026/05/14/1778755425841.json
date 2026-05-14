@@ -1,0 +1,410 @@
+{
+  "runTime": 1778755425841,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1212778,
+        "num": 1212778,
+        "word": "中美领导人致辞",
+        "onboard_time": 1778752343,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 6980626,
+        "num": 1183766,
+        "word": "特朗普访华欢迎宴会",
+        "onboard_time": 1778753481,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 140072,
+        "num": 1172131,
+        "word": "这些美方代表在中美元首会谈会场",
+        "onboard_time": 1778744421,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1082454,
+        "num": 1082454,
+        "word": "关闭支付宝支付功能后被扣捐赠184万",
+        "onboard_time": 1778749823,
+        "rank": 3,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 955153,
+        "num": 955153,
+        "word": "给阿嬷的情书女主官宣入行",
+        "onboard_time": 1778748623,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 930977,
+        "num": 930977,
+        "word": "白鹿演唱会票价加起来是十年",
+        "onboard_time": 1778735303,
+        "rank": 5,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 553484,
+        "num": 553484,
+        "word": "韩国股市暴涨超200%散户癫狂",
+        "onboard_time": 1778747181,
+        "rank": 6,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 598546,
+        "num": 552251,
+        "word": "歌手2026定档官宣",
+        "onboard_time": 1778747661,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 210925,
+        "num": 549318,
+        "word": "腾讯成立800人团队适配鸿蒙",
+        "onboard_time": 1778745921,
+        "rank": 8,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 156133,
+        "num": 543814,
+        "word": "世界杯",
+        "onboard_time": 1778736082,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2502028,
+        "num": 538992,
+        "word": "特朗普说二三把手我都不让他们来",
+        "onboard_time": 1778731402,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1477283,
+        "num": 534819,
+        "word": "黄景瑜微博改名",
+        "onboard_time": 1778749702,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1388953,
+        "num": 532440,
+        "word": "特朗普抵达欢迎宴会现场",
+        "onboard_time": 1778753001,
+        "rank": 12,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1005050,
+        "num": 529507,
+        "word": "鹿晗寸头",
+        "onboard_time": 1778723901,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1344811,
+        "num": 522264,
+        "word": "特朗普感叹大美中国",
+        "onboard_time": 1778745381,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 775752,
+        "num": 518454,
+        "word": "宋亚轩和张杰女儿撞小名",
+        "onboard_time": 1778751382,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 751288,
+        "num": 518048,
+        "word": "爱喝粥和爱喝咖啡的人都沉默了",
+        "onboard_time": 1778744661,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 684969,
+        "num": 513783,
+        "word": "为什么大多数人都喜欢约晚饭",
+        "onboard_time": 1778753301,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 682199,
+        "num": 507434,
+        "word": "男子1万买榴莲付11万几个月才发现",
+        "onboard_time": 1778751623,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 613335,
+        "num": 503587,
+        "word": "所有不尊重你的人赌的都是你没有前途",
+        "onboard_time": 1778750842,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 581046,
+        "num": 498747,
+        "word": "白玉兰奖动了",
+        "onboard_time": 1778751501,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 498623,
+        "num": 498623,
+        "word": "易烊千玺 惊悚片",
+        "onboard_time": 1778751802,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 492795,
+        "num": 492795,
+        "word": "鲁比奥称中美关系非常有建设性",
+        "onboard_time": 1778749222,
+        "rank": 22,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 450693,
+        "num": 450693,
+        "word": "中美元首在祈年殿广场合影",
+        "onboard_time": 1778737044,
+        "rank": 23,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 476947,
+        "num": 424858,
+        "word": "特朗普参观天坛",
+        "onboard_time": 1778735724,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 395766,
+        "num": 395766,
+        "word": "薯片透明包装",
+        "onboard_time": 1778731522,
+        "rank": 25,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 297763,
+        "num": 297763,
+        "word": "爸爸当家",
+        "onboard_time": 1778744902,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 294584,
+        "num": 294584,
+        "word": "香港80后地产女王烧炭身亡",
+        "onboard_time": 1778748142,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 279465,
+        "num": 279465,
+        "word": "台湾问题处理好了中美关系就能稳定",
+        "onboard_time": 1778731822,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 193269,
+        "num": 262071,
+        "word": "苹果2028款iPhone曝光",
+        "onboard_time": 1778749341,
+        "rank": 29,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 256150,
+        "num": 256150,
+        "word": "杨洋来河南也得抱捆蒜苔回去",
+        "onboard_time": 1778753962,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 255785,
+        "num": 255785,
+        "word": "爸爸当家5嘉宾阵容",
+        "onboard_time": 1778755043,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 223354,
+        "num": 245011,
+        "word": "韩国股市收盘前厕所挤爆了",
+        "onboard_time": 1778754623,
+        "rank": 32,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 239249,
+        "num": 239249,
+        "word": "吴宣仪成立个人工作室",
+        "onboard_time": 1778743881,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 228745,
+        "num": 228745,
+        "word": "王鸥 何九华",
+        "onboard_time": 1778725583,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 215079,
+        "num": 215079,
+        "word": "果然岁月从不败美人",
+        "onboard_time": 1778751921,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 218804,
+        "num": 209729,
+        "word": "阿嬷爆了之后 业内连夜学习潮汕文化",
+        "onboard_time": 1778737823,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 181570,
+        "num": 181570,
+        "word": "脑子变迟钝了怎么补救",
+        "onboard_time": 1778751861,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 178889,
+        "num": 178889,
+        "word": "辅导员 情侣请假只批一个",
+        "onboard_time": 1778755342,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 151842,
+        "num": 151842,
+        "word": "31岁女子从60斤增到90斤像变个人",
+        "onboard_time": 1778751382,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 50684,
+        "num": 151504,
+        "word": "歌手来了浪7你还有热度吗",
+        "onboard_time": 1778754920,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151410,
+        "num": 151410,
+        "word": "多名小学生忘带书本被老师扇到耳出血",
+        "onboard_time": 1778754861,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150994,
+        "num": 150994,
+        "word": "袁姗姗戛纳黑天鹅",
+        "onboard_time": 1778748922,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 145640,
+        "num": 145640,
+        "word": "美方企业家离场时纷纷点赞",
+        "onboard_time": 1778751742,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 92404,
+        "num": 145490,
+        "word": "日系车三巨头卖不动了",
+        "onboard_time": 1778739263,
+        "rank": 44,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 29918,
+        "num": 145486,
+        "word": "520天猫把短剧男友团请来送礼了",
+        "onboard_time": 1778755162,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145485,
+        "num": 145485,
+        "word": "刘海为什么不能叫张海",
+        "onboard_time": 1778730263,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 64169,
+        "num": 141550,
+        "word": "早田希娜说孙颖莎王曼昱是最强双核",
+        "onboard_time": 1778746582,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 55827,
+        "num": 139766,
+        "word": "Kanavi说自己喜欢LPL",
+        "onboard_time": 1778740761,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 50570,
+        "num": 139094,
+        "word": "恋与深空新衣服",
+        "onboard_time": 1778747841,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#中美元首会谈#"
+    }
+  }
+}
