@@ -1,0 +1,410 @@
+{
+  "runTime": 1778799873075,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 136649,
+        "num": 609641,
+        "word": "中美领导人致辞",
+        "onboard_time": 1778752343,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 296940,
+        "num": 454860,
+        "word": "特朗普访华欢迎宴会",
+        "onboard_time": 1778753481,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 37218,
+        "num": 350718,
+        "word": "天坛里的中国古建智慧",
+        "onboard_time": 1778766442,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 603867,
+        "num": 342223,
+        "word": "方媛坚持要住男生单人间",
+        "onboard_time": 1778758763,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 576818,
+        "num": 334625,
+        "word": "国家反诈中心APP 检测AI图",
+        "onboard_time": 1778773042,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 357166,
+        "num": 331936,
+        "word": "疑似周也对戛纳火力全开",
+        "onboard_time": 1778773402,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 322514,
+        "num": 322514,
+        "word": "有的猫一看面相就老实巴交",
+        "onboard_time": 1778770343,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 156733,
+        "num": 251081,
+        "word": "泰兰尼斯被曝千元童鞋成本仅37元",
+        "onboard_time": 1778769324,
+        "rank": 7,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 134363,
+        "num": 233854,
+        "word": "英国乒乓球官方称赞孙颖莎人品和球技",
+        "onboard_time": 1778789533,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 14798,
+        "num": 233374,
+        "word": "AI还原烂梗有多毒",
+        "onboard_time": 1778772922,
+        "rank": 9,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 233320,
+        "num": 233320,
+        "word": "马斯克回复360度转圈拍人民大会堂",
+        "onboard_time": 1778760263,
+        "rank": 10,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 224358,
+        "num": 224358,
+        "word": "女子让全家常年食用无碘盐",
+        "onboard_time": 1778783595,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 217263,
+        "num": 217263,
+        "word": "李现看给阿嬷的情书哭得好狼狈",
+        "onboard_time": 1778773402,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 208280,
+        "num": 208280,
+        "word": "徐志胜疯狂暗示方媛不太方便",
+        "onboard_time": 1778761941,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 206713,
+        "num": 206713,
+        "word": "马斯克携幼子现身人民大会堂",
+        "onboard_time": 1778756182,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 124163,
+        "num": 124163,
+        "word": "杨紫来到了董竹君的城市",
+        "onboard_time": 1778797095,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123290,
+        "num": 123290,
+        "word": "复旦大学王德峰教授谈缘起性空",
+        "onboard_time": 1778794934,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 117890,
+        "num": 117890,
+        "word": "想减肥可以去KTV吃饭",
+        "onboard_time": 1778763743,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 101697,
+        "num": 101697,
+        "word": "王一博天高海阔获评年度优秀歌曲",
+        "onboard_time": 1778794154,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 96940,
+        "num": 96940,
+        "word": "马斯克谈会晤感受",
+        "onboard_time": 1778778018,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 166434,
+        "num": 96499,
+        "word": "睡前做这个动作30秒连续三天都睡得香",
+        "onboard_time": 1778770403,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 115273,
+        "num": 96252,
+        "word": "10种不舒服是抑郁症躯体化表现",
+        "onboard_time": 1778759362,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 94691,
+        "num": 94691,
+        "word": "欢迎宴会上强调了什么",
+        "onboard_time": 1778786534,
+        "rank": 22,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 89969,
+        "num": 89969,
+        "word": "歌手",
+        "onboard_time": 1778772261,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 72299,
+        "num": 89400,
+        "word": "特朗普说美高法门楣刻孔子无比荣幸",
+        "onboard_time": 1778769743,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 55972,
+        "num": 87730,
+        "word": "老人焚烧自家田地枯草被顶格罚款",
+        "onboard_time": 1778771364,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 55293,
+        "num": 86506,
+        "word": "妈妈低碘饮食女儿2岁不太会说话",
+        "onboard_time": 1778774241,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 53178,
+        "num": 84744,
+        "word": "值得坚持一生的24个好习惯",
+        "onboard_time": 1778770224,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 51283,
+        "num": 83178,
+        "word": "王楚钦不打球的时候长这样",
+        "onboard_time": 1778765362,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 50345,
+        "num": 82916,
+        "word": "男孩幽门螺杆菌阳性治疗4次全失败",
+        "onboard_time": 1778764401,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81816,
+        "num": 81816,
+        "word": "内娱集体宿舍大通铺名场面又来了",
+        "onboard_time": 1778789954,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 53173,
+        "num": 81807,
+        "word": "多方回应关闭支付功能后被扣184万",
+        "onboard_time": 1778763322,
+        "rank": 31,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 45436,
+        "num": 81795,
+        "word": "黄仁勋谈中国AI发展",
+        "onboard_time": 1778764462,
+        "rank": 32,
+        "category": "国内时政,互联网"
+      },
+      {
+        "raw_hot": 45158,
+        "num": 81780,
+        "word": "医师回应宝宝头顶九个旋",
+        "onboard_time": 1778793553,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 43427,
+        "num": 81769,
+        "word": "程十安改名姜乘澜细节曝光",
+        "onboard_time": 1778799617,
+        "rank": 34,
+        "category": "网红,美妆"
+      },
+      {
+        "raw_hot": 40639,
+        "num": 81762,
+        "word": "秦岭分水岭事故死者妻子发声",
+        "onboard_time": 1778774540,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 40124,
+        "num": 81754,
+        "word": "张本智和说世界排名不代表一切",
+        "onboard_time": 1778767043,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 39060,
+        "num": 81733,
+        "word": "爸爸当家5嘉宾阵容",
+        "onboard_time": 1778755043,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 37911,
+        "num": 81727,
+        "word": "那英再次加盟歌手",
+        "onboard_time": 1778773161,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 28059,
+        "num": 81710,
+        "word": "日本男教师对女学生水瓶做不雅动作",
+        "onboard_time": 1778770463,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 36285,
+        "num": 81703,
+        "word": "接张局事业运",
+        "onboard_time": 1778786294,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 35932,
+        "num": 81697,
+        "word": "台作家称身边台湾朋友都喜欢刘宇宁",
+        "onboard_time": 1778799617,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25095,
+        "num": 81679,
+        "word": "高通总裁安蒙谈中国机遇",
+        "onboard_time": 1778774720,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 35902,
+        "num": 81672,
+        "word": "周也戛纳淡紫色纱裙",
+        "onboard_time": 1778762602,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 32398,
+        "num": 81657,
+        "word": "给阿嬷的情书女主官宣入行",
+        "onboard_time": 1778748623,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 22480,
+        "num": 81648,
+        "word": "全红婵妈妈生病住院",
+        "onboard_time": 1778768244,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 29242,
+        "num": 81637,
+        "word": "伊能静神吐槽孙杨",
+        "onboard_time": 1778778018,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 28191,
+        "num": 81620,
+        "word": "叶璇发文力挺刘松仁专业",
+        "onboard_time": 1778799678,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21488,
+        "num": 81605,
+        "word": "31岁女子从60斤增到90斤像变个人",
+        "onboard_time": 1778751382,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26290,
+        "num": 81595,
+        "word": "浪姐",
+        "onboard_time": 1778769624,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#中美元首再会面#"
+    }
+  }
+}

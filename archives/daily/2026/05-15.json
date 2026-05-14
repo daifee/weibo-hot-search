@@ -1,18 +1,26 @@
 {
   "startTime": 1778781642218,
-  "endTime": 1778795102801,
+  "endTime": 1778799873075,
   "band_list": [
     {
       "raw_hot": 818871,
-      "num": 105566,
+      "num": 208280,
       "word": "徐志胜疯狂暗示方媛不太方便",
       "onboard_time": 1778761941,
       "rank": 10,
       "category": "综艺"
     },
     {
-      "raw_hot": 439461,
-      "num": 257122,
+      "raw_hot": 603867,
+      "num": 342223,
+      "word": "方媛坚持要住男生单人间",
+      "onboard_time": 1778758763,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 576818,
+      "num": 334625,
       "word": "国家反诈中心APP 检测AI图",
       "onboard_time": 1778773042,
       "rank": 1,
@@ -20,67 +28,91 @@
     },
     {
       "raw_hot": 382598,
-      "num": 102626,
+      "num": 233320,
       "word": "马斯克回复360度转圈拍人民大会堂",
       "onboard_time": 1778760263,
       "rank": 11,
       "category": "国内时政"
     },
     {
-      "raw_hot": 359646,
-      "num": 243747,
-      "word": "方媛坚持要住男生单人间",
-      "onboard_time": 1778758763,
-      "rank": 3,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 311590,
-      "num": 237618,
+      "raw_hot": 357166,
+      "num": 331936,
       "word": "疑似周也对戛纳火力全开",
       "onboard_time": 1778773402,
       "rank": 4,
       "category": "电影"
     },
     {
-      "raw_hot": 271620,
-      "num": 99683,
-      "word": "李现看给阿嬷的情书哭得好狼狈",
-      "onboard_time": 1778773402,
-      "rank": 12,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 232871,
-      "num": 232871,
-      "word": "特朗普访华欢迎宴会",
-      "onboard_time": 1778753481,
-      "rank": 5,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 196593,
-      "num": 99660,
-      "word": "马斯克携幼子现身人民大会堂",
-      "onboard_time": 1778756182,
-      "rank": 13,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 140437,
-      "num": 140437,
+      "raw_hot": 322514,
+      "num": 322514,
       "word": "有的猫一看面相就老实巴交",
       "onboard_time": 1778770343,
       "rank": 6,
       "category": "幽默"
     },
     {
-      "raw_hot": 140020,
-      "num": 87689,
+      "raw_hot": 296940,
+      "num": 454860,
+      "word": "特朗普访华欢迎宴会",
+      "onboard_time": 1778753481,
+      "rank": 5,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 271620,
+      "num": 217263,
+      "word": "李现看给阿嬷的情书哭得好狼狈",
+      "onboard_time": 1778773402,
+      "rank": 12,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 224358,
+      "num": 224358,
+      "word": "女子让全家常年食用无碘盐",
+      "onboard_time": 1778783595,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 206713,
+      "num": 206713,
+      "word": "马斯克携幼子现身人民大会堂",
+      "onboard_time": 1778756182,
+      "rank": 13,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 166434,
+      "num": 96499,
       "word": "睡前做这个动作30秒连续三天都睡得香",
       "onboard_time": 1778770403,
       "rank": 20,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 156733,
+      "num": 251081,
+      "word": "泰兰尼斯被曝千元童鞋成本仅37元",
+      "onboard_time": 1778769324,
+      "rank": 8,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 136649,
+      "num": 609641,
+      "word": "中美领导人致辞",
+      "onboard_time": 1778752343,
+      "rank": 0,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 134363,
+      "num": 233854,
+      "word": "英国乒乓球官方称赞孙颖莎人品和球技",
+      "onboard_time": 1778789533,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 127359,
@@ -91,12 +123,44 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 124163,
+      "num": 124163,
+      "word": "杨紫来到了董竹君的城市",
+      "onboard_time": 1778797095,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 123290,
+      "num": 123290,
+      "word": "复旦大学王德峰教授谈缘起性空",
+      "onboard_time": 1778794934,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 117890,
+      "num": 117890,
+      "word": "想减肥可以去KTV吃饭",
+      "onboard_time": 1778763743,
+      "rank": 7,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 117817,
       "num": 94258,
       "word": "特朗普说美高法门楣刻孔子无比荣幸",
       "onboard_time": 1778769743,
       "rank": 15,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 115273,
+      "num": 96252,
+      "word": "10种不舒服是抑郁症躯体化表现",
+      "onboard_time": 1778759362,
+      "rank": 21,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 112424,
@@ -107,22 +171,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 112066,
-      "num": 112066,
-      "word": "想减肥可以去KTV吃饭",
-      "onboard_time": 1778763743,
-      "rank": 7,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 109613,
-      "num": 109613,
-      "word": "泰兰尼斯被曝千元童鞋成本仅37元",
-      "onboard_time": 1778769324,
-      "rank": 8,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 106205,
       "num": 106205,
       "word": "给阿嬷的情书女主官宣入行",
@@ -131,12 +179,28 @@
       "category": "电影"
     },
     {
-      "raw_hot": 95659,
-      "num": 87333,
-      "word": "10种不舒服是抑郁症躯体化表现",
-      "onboard_time": 1778759362,
-      "rank": 21,
-      "category": "健康医疗"
+      "raw_hot": 101697,
+      "num": 101697,
+      "word": "王一博天高海阔获评年度优秀歌曲",
+      "onboard_time": 1778794154,
+      "rank": 24,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 96940,
+      "num": 96940,
+      "word": "马斯克谈会晤感受",
+      "onboard_time": 1778778018,
+      "rank": 33,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 94691,
+      "num": 94691,
+      "word": "欢迎宴会上强调了什么",
+      "onboard_time": 1778786534,
+      "rank": 39,
+      "category": "国内时政"
     },
     {
       "raw_hot": 90943,
@@ -145,14 +209,6 @@
       "onboard_time": 1778772261,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 89424,
-      "num": 264307,
-      "word": "中美领导人致辞",
-      "onboard_time": 1778752343,
-      "rank": 0,
-      "category": "国内时政"
     },
     {
       "raw_hot": 89059,
@@ -172,7 +228,7 @@
     },
     {
       "raw_hot": 86621,
-      "num": 86621,
+      "num": 233374,
       "word": "AI还原烂梗有多毒",
       "onboard_time": 1778772922,
       "rank": 22,
@@ -187,16 +243,16 @@
       "category": "电影"
     },
     {
-      "raw_hot": 77284,
-      "num": 42084,
-      "word": "女子让全家常年食用无碘盐",
-      "onboard_time": 1778783595,
-      "rank": 13,
-      "category": "民生新闻"
+      "raw_hot": 81816,
+      "num": 81816,
+      "word": "内娱集体宿舍大通铺名场面又来了",
+      "onboard_time": 1778789954,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 74505,
-      "num": 74505,
+      "num": 81795,
       "word": "黄仁勋谈中国AI发展",
       "onboard_time": 1778764462,
       "rank": 24,
@@ -204,7 +260,7 @@
     },
     {
       "raw_hot": 72569,
-      "num": 73231,
+      "num": 81710,
       "word": "日本男教师对女学生水瓶做不雅动作",
       "onboard_time": 1778770463,
       "rank": 25,
@@ -212,7 +268,7 @@
     },
     {
       "raw_hot": 69672,
-      "num": 72975,
+      "num": 81733,
       "word": "爸爸当家5嘉宾阵容",
       "onboard_time": 1778755043,
       "rank": 26,
@@ -220,7 +276,7 @@
     },
     {
       "raw_hot": 69026,
-      "num": 70608,
+      "num": 81637,
       "word": "伊能静神吐槽孙杨",
       "onboard_time": 1778778018,
       "rank": 27,
@@ -228,7 +284,7 @@
     },
     {
       "raw_hot": 63263,
-      "num": 73735,
+      "num": 84744,
       "word": "值得坚持一生的24个好习惯",
       "onboard_time": 1778770224,
       "rank": 28,
@@ -244,7 +300,7 @@
     },
     {
       "raw_hot": 59228,
-      "num": 72173,
+      "num": 81807,
       "word": "多方回应关闭支付功能后被扣184万",
       "onboard_time": 1778763322,
       "rank": 31,
@@ -252,39 +308,39 @@
     },
     {
       "raw_hot": 56142,
-      "num": 71311,
+      "num": 82916,
       "word": "男孩幽门螺杆菌阳性治疗4次全失败",
       "onboard_time": 1778764401,
       "rank": 32,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 53518,
-      "num": 71774,
-      "word": "马斯克谈会晤感受",
-      "onboard_time": 1778778018,
-      "rank": 33,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 52836,
-      "num": 72073,
-      "word": "秦岭分水岭事故死者妻子发声",
-      "onboard_time": 1778774540,
-      "rank": 34,
+      "raw_hot": 55972,
+      "num": 87730,
+      "word": "老人焚烧自家田地枯草被顶格罚款",
+      "onboard_time": 1778771364,
+      "rank": 41,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 52370,
-      "num": 72565,
+      "raw_hot": 55293,
+      "num": 86506,
       "word": "妈妈低碘饮食女儿2岁不太会说话",
       "onboard_time": 1778774241,
       "rank": 29,
       "category": "民生新闻"
     },
     {
+      "raw_hot": 52836,
+      "num": 81762,
+      "word": "秦岭分水岭事故死者妻子发声",
+      "onboard_time": 1778774540,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 47744,
-      "num": 70935,
+      "num": 81595,
       "word": "浪姐",
       "onboard_time": 1778769624,
       "rank": 35,
@@ -307,12 +363,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 41760,
-      "num": 26729,
-      "word": "内娱集体宿舍大通铺名场面又来了",
-      "onboard_time": 1778789954,
-      "rank": 30,
-      "category": "综艺"
+      "raw_hot": 45158,
+      "num": 81780,
+      "word": "医师回应宝宝头顶九个旋",
+      "onboard_time": 1778793553,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 43427,
+      "num": 81769,
+      "word": "程十安改名姜乘澜细节曝光",
+      "onboard_time": 1778799617,
+      "rank": 34,
+      "category": "网红,美妆"
     },
     {
       "raw_hot": 41096,
@@ -331,24 +395,24 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 37733,
-      "num": 69344,
+      "raw_hot": 40124,
+      "num": 81754,
       "word": "张本智和说世界排名不代表一切",
       "onboard_time": 1778767043,
       "rank": 39,
       "category": "体育"
     },
     {
-      "raw_hot": 37685,
-      "num": 37683,
-      "word": "欢迎宴会上强调了什么",
-      "onboard_time": 1778786534,
-      "rank": 39,
+      "raw_hot": 37218,
+      "num": 350718,
+      "word": "天坛里的中国古建智慧",
+      "onboard_time": 1778766442,
+      "rank": 2,
       "category": "国内时政"
     },
     {
       "raw_hot": 36941,
-      "num": 70185,
+      "num": 81605,
       "word": "31岁女子从60斤增到90斤像变个人",
       "onboard_time": 1778751382,
       "rank": 48,
@@ -363,6 +427,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 36285,
+      "num": 81703,
+      "word": "接张局事业运",
+      "onboard_time": 1778786294,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 35932,
+      "num": 81697,
+      "word": "台作家称身边台湾朋友都喜欢刘宇宁",
+      "onboard_time": 1778799617,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 35578,
       "num": 69934,
       "word": "特朗普抵达欢迎宴会现场",
@@ -372,27 +452,11 @@
     },
     {
       "raw_hot": 32662,
-      "num": 68920,
+      "num": 81679,
       "word": "高通总裁安蒙谈中国机遇",
       "onboard_time": 1778774720,
       "rank": 46,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 32267,
-      "num": 32267,
-      "word": "医师回应宝宝头顶九个旋",
-      "onboard_time": 1778793553,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 31995,
-      "num": 68687,
-      "word": "老人焚烧自家田地枯草被顶格罚款",
-      "onboard_time": 1778771364,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 31966,
@@ -401,14 +465,6 @@
       "onboard_time": 1778778018,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 31507,
-      "num": 31507,
-      "word": "王一博天高海阔获评年度优秀歌曲",
-      "onboard_time": 1778794154,
-      "rank": 24,
-      "category": "音乐"
     },
     {
       "raw_hot": 29456,
@@ -427,6 +483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 28191,
+      "num": 81620,
+      "word": "叶璇发文力挺刘松仁专业",
+      "onboard_time": 1778799678,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 24302,
       "num": 67489,
       "word": "Jiejie单局抢四条龙",
@@ -441,38 +505,6 @@
       "onboard_time": 1778784915,
       "rank": 42,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 24155,
-      "num": 26696,
-      "word": "接张局事业运",
-      "onboard_time": 1778786294,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 21795,
-      "num": 252484,
-      "word": "天坛里的中国古建智慧",
-      "onboard_time": 1778766442,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 21342,
-      "num": 26678,
-      "word": "英国乒乓球官方称赞孙颖莎人品和球技",
-      "onboard_time": 1778789533,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 13618,
-      "num": 26602,
-      "word": "复旦大学王德峰教授谈缘起性空",
-      "onboard_time": 1778794934,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 13608,
