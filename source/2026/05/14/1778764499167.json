@@ -1,0 +1,410 @@
+{
+  "runTime": 1778764499167,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 594118,
+        "num": 2681016,
+        "word": "中美领导人致辞",
+        "onboard_time": 1778752343,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 10234956,
+        "num": 10234956,
+        "word": "特朗普访华欢迎宴会",
+        "onboard_time": 1778753481,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 86027,
+        "num": 2214091,
+        "word": "这些美方代表在中美元首会谈会场",
+        "onboard_time": 1778744421,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 2000797,
+        "num": 2000797,
+        "word": "方媛坚持要住男生单人间",
+        "onboard_time": 1778758763,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 489180,
+        "num": 489180,
+        "word": "给阿嬷的情书女主官宣入行",
+        "onboard_time": 1778748623,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 313102,
+        "num": 473290,
+        "word": "果然岁月从不败美人",
+        "onboard_time": 1778751921,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 469965,
+        "num": 469965,
+        "word": "爸爸当家5嘉宾阵容",
+        "onboard_time": 1778755043,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121360,
+        "num": 469721,
+        "word": "腾讯成立800人团队适配鸿蒙",
+        "onboard_time": 1778745921,
+        "rank": 7,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 243864,
+        "num": 465246,
+        "word": "中美关系只能搞好不能搞坏",
+        "onboard_time": 1778760682,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 118138,
+        "num": 463623,
+        "word": "世界杯",
+        "onboard_time": 1778736082,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1906961,
+        "num": 459193,
+        "word": "马斯克携幼子现身人民大会堂",
+        "onboard_time": 1778756182,
+        "rank": 10,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1343450,
+        "num": 454925,
+        "word": "徐志胜疯狂暗示方媛不太方便",
+        "onboard_time": 1778761941,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 757124,
+        "num": 454549,
+        "word": "马斯克回复360度转圈拍人民大会堂",
+        "onboard_time": 1778760263,
+        "rank": 12,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 651092,
+        "num": 450978,
+        "word": "宋亚轩和张杰女儿撞小名",
+        "onboard_time": 1778751382,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 566049,
+        "num": 447407,
+        "word": "鹿晗寸头",
+        "onboard_time": 1778723901,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 546242,
+        "num": 444283,
+        "word": "男子1万买榴莲付11万几个月才发现",
+        "onboard_time": 1778751623,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 537521,
+        "num": 441559,
+        "word": "黄景瑜微博改名",
+        "onboard_time": 1778749702,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 517339,
+        "num": 437948,
+        "word": "特朗普说二三把手我都不让他们来",
+        "onboard_time": 1778731402,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 436632,
+        "num": 436632,
+        "word": "曝李昀锐孟子义昀牵孟绕解绑节奏",
+        "onboard_time": 1778758221,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 238795,
+        "num": 393986,
+        "word": "特朗普抵达欢迎宴会现场",
+        "onboard_time": 1778753001,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 858845,
+        "num": 392331,
+        "word": "曝又一部剧男主跑路",
+        "onboard_time": 1778761702,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 446847,
+        "num": 385122,
+        "word": "关闭支付宝支付功能后被扣捐赠184万",
+        "onboard_time": 1778749823,
+        "rank": 21,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 368341,
+        "num": 368341,
+        "word": "周也戛纳淡紫色纱裙",
+        "onboard_time": 1778762602,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 329052,
+        "num": 329052,
+        "word": "爱喝粥和爱喝咖啡的人都沉默了",
+        "onboard_time": 1778744661,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 319457,
+        "num": 319457,
+        "word": "白鹿演唱会票价加起来是十年",
+        "onboard_time": 1778735303,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 317145,
+        "num": 317145,
+        "word": "特朗普感叹大美中国",
+        "onboard_time": 1778745381,
+        "rank": 25,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 264200,
+        "num": 264200,
+        "word": "刘亦菲烈焰玫瑰裙",
+        "onboard_time": 1778762242,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111155,
+        "num": 251610,
+        "word": "特朗普参观天坛",
+        "onboard_time": 1778735724,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 84842,
+        "num": 249828,
+        "word": "多方回应关闭支付功能后被扣184万",
+        "onboard_time": 1778763322,
+        "rank": 28,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 248634,
+        "num": 248634,
+        "word": "王楚钦被夸得不好意思了",
+        "onboard_time": 1778761223,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 243888,
+        "num": 243888,
+        "word": "易烊千玺 惊悚片",
+        "onboard_time": 1778751802,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 237512,
+        "num": 237512,
+        "word": "10种不舒服是抑郁症躯体化表现",
+        "onboard_time": 1778759362,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 224412,
+        "num": 224412,
+        "word": "白玉兰奖动了",
+        "onboard_time": 1778751501,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 220678,
+        "num": 220678,
+        "word": "所有不尊重你的人赌的都是你没有前途",
+        "onboard_time": 1778750842,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 53006,
+        "num": 218898,
+        "word": "月薪1.6万招羊倌是夫妻两人薪资",
+        "onboard_time": 1778763141,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 217635,
+        "num": 217635,
+        "word": "男孩幽门螺杆菌阳性治疗4次全失败",
+        "onboard_time": 1778764401,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 198422,
+        "num": 198422,
+        "word": "歌手2026定档官宣",
+        "onboard_time": 1778747661,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184088,
+        "num": 184088,
+        "word": "31岁女子从60斤增到90斤像变个人",
+        "onboard_time": 1778751382,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102636,
+        "num": 179432,
+        "word": "马斯克说会晤会有好成果",
+        "onboard_time": 1778760682,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 175717,
+        "num": 175717,
+        "word": "时团集体转发贺峻霖",
+        "onboard_time": 1778763981,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183031,
+        "num": 175647,
+        "word": "张凌赫出发GUCCI大秀",
+        "onboard_time": 1778761762,
+        "rank": 40,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 175043,
+        "num": 175043,
+        "word": "女子喂宠物猪鼻蛇被咬手肿如气球",
+        "onboard_time": 1778761042,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179002,
+        "num": 171681,
+        "word": "桃花坞9个男生共用1个卫生间",
+        "onboard_time": 1778756421,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149717,
+        "num": 149717,
+        "word": "杨洋来河南也得抱捆蒜苔回去",
+        "onboard_time": 1778753962,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148652,
+        "num": 148652,
+        "word": "想减肥可以去KTV吃饭",
+        "onboard_time": 1778763743,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 135024,
+        "num": 148373,
+        "word": "黄仁勋谈中国AI发展",
+        "onboard_time": 1778764462,
+        "rank": 45,
+        "category": "国内时政,互联网"
+      },
+      {
+        "raw_hot": 16801,
+        "num": 147173,
+        "word": "中芯国际一季度净利润13.61亿",
+        "onboard_time": 1778764462,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 92146,
+        "num": 145444,
+        "word": "中美人民都是伟大的人民",
+        "onboard_time": 1778761881,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 86732,
+        "num": 144374,
+        "word": "中美元首在祈年殿广场合影",
+        "onboard_time": 1778737044,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 73812,
+        "num": 143444,
+        "word": "小米17Max首发搭载徕卡2亿主摄",
+        "onboard_time": 1778756661,
+        "rank": 49,
+        "category": "数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同特朗普参观天坛#"
+    }
+  }
+}

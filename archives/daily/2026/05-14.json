@@ -1,6 +1,6 @@
 {
   "startTime": 1778689652010,
-  "endTime": 1778763591879,
+  "endTime": 1778764499167,
   "band_list": [
     {
       "raw_hot": 13876227,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 2165192,
-      "num": 325800,
+      "num": 459193,
       "word": "马斯克携幼子现身人民大会堂",
       "onboard_time": 1778756182,
       "rank": 10,
@@ -91,20 +91,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2000797,
+      "num": 2000797,
+      "word": "方媛坚持要住男生单人间",
+      "onboard_time": 1778758763,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1980718,
       "num": 814966,
       "word": "马斯克360度转圈拍摄人民大会堂",
       "onboard_time": 1778733505,
       "rank": 14,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 1939145,
-      "num": 1939145,
-      "word": "方媛坚持要住男生单人间",
-      "onboard_time": 1778758763,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 1868365,
@@ -211,6 +211,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 1343450,
+      "num": 454925,
+      "word": "徐志胜疯狂暗示方媛不太方便",
+      "onboard_time": 1778761941,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1114132,
       "num": 1114132,
       "word": "豆包 嬉皮笑脸",
@@ -220,19 +228,11 @@
     },
     {
       "raw_hot": 985661,
-      "num": 320662,
+      "num": 454549,
       "word": "马斯克回复360度转圈拍人民大会堂",
       "onboard_time": 1778760263,
       "rank": 12,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 977692,
-      "num": 324060,
-      "word": "徐志胜疯狂暗示方媛不太方便",
-      "onboard_time": 1778761941,
-      "rank": 11,
-      "category": "综艺"
     },
     {
       "raw_hot": 955153,
@@ -273,6 +273,14 @@
       "onboard_time": 1778751382,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 858845,
+      "num": 392331,
+      "word": "曝又一部剧男主跑路",
+      "onboard_time": 1778761702,
+      "rank": 20,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 838808,
@@ -329,14 +337,6 @@
       "onboard_time": 1778730803,
       "rank": 21,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 778740,
-      "num": 308438,
-      "word": "曝又一部剧男主跑路",
-      "onboard_time": 1778761702,
-      "rank": 20,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 771439,
@@ -604,7 +604,7 @@
     },
     {
       "raw_hot": 505397,
-      "num": 308023,
+      "num": 436632,
       "word": "曝李昀锐孟子义昀牵孟绕解绑节奏",
       "onboard_time": 1778758221,
       "rank": 21,
@@ -683,6 +683,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 469965,
+      "num": 469965,
+      "word": "爸爸当家5嘉宾阵容",
+      "onboard_time": 1778755043,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 452847,
       "num": 518718,
       "word": "中美关系新定位",
@@ -697,14 +705,6 @@
       "onboard_time": 1778687660,
       "rank": 24,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 427807,
-      "num": 332874,
-      "word": "爸爸当家5嘉宾阵容",
-      "onboard_time": 1778755043,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 426930,
@@ -753,6 +753,14 @@
       "onboard_time": 1778691798,
       "rank": 4,
       "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 368341,
+      "num": 368341,
+      "word": "周也戛纳淡紫色纱裙",
+      "onboard_time": 1778762602,
+      "rank": 30,
+      "category": "电影"
     },
     {
       "raw_hot": 367989,
@@ -820,7 +828,7 @@
     },
     {
       "raw_hot": 333916,
-      "num": 333916,
+      "num": 473290,
       "word": "果然岁月从不败美人",
       "onboard_time": 1778751921,
       "rank": 40,
@@ -865,14 +873,6 @@
       "onboard_time": 1778718442,
       "rank": 25,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 292544,
-      "num": 292544,
-      "word": "周也戛纳淡紫色纱裙",
-      "onboard_time": 1778762602,
-      "rank": 30,
-      "category": "电影"
     },
     {
       "raw_hot": 291089,
@@ -931,8 +931,16 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 264200,
+      "num": 264200,
+      "word": "刘亦菲烈焰玫瑰裙",
+      "onboard_time": 1778762242,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 263074,
-      "num": 329946,
+      "num": 465246,
       "word": "中美关系只能搞好不能搞坏",
       "onboard_time": 1778760682,
       "rank": 8,
@@ -1091,14 +1099,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 232041,
-      "num": 232041,
-      "word": "刘亦菲烈焰玫瑰裙",
-      "onboard_time": 1778762242,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 231539,
       "num": 231539,
       "word": "37岁小伙吹气球半个月赚60万",
@@ -1153,6 +1153,14 @@
       "onboard_time": 1778729241,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 217635,
+      "num": 217635,
+      "word": "男孩幽门螺杆菌阳性治疗4次全失败",
+      "onboard_time": 1778764401,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 214230,
@@ -1299,6 +1307,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 183031,
+      "num": 175647,
+      "word": "张凌赫出发GUCCI大秀",
+      "onboard_time": 1778761762,
+      "rank": 41,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 182752,
       "num": 521568,
       "word": "中美元首参观天坛高清大图",
@@ -1371,20 +1387,28 @@
       "category": "网红"
     },
     {
+      "raw_hot": 175717,
+      "num": 175717,
+      "word": "时团集体转发贺峻霖",
+      "onboard_time": 1778763981,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 175043,
+      "num": 175043,
+      "word": "女子喂宠物猪鼻蛇被咬手肿如气球",
+      "onboard_time": 1778761042,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 169765,
       "num": 169765,
       "word": "小米挖孔机盖案法院认定存夸大宣传",
       "onboard_time": 1778685021,
       "rank": 38,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 166685,
-      "num": 166685,
-      "word": "张凌赫出发GUCCI大秀",
-      "onboard_time": 1778761762,
-      "rank": 41,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 165804,
@@ -1499,20 +1523,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 148652,
+      "num": 148652,
+      "word": "想减肥可以去KTV吃饭",
+      "onboard_time": 1778763743,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 147607,
-      "num": 2159055,
+      "num": 2214091,
       "word": "这些美方代表在中美元首会谈会场",
       "onboard_time": 1778744421,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 146153,
-      "num": 165908,
-      "word": "女子喂宠物猪鼻蛇被咬手肿如气球",
-      "onboard_time": 1778761042,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 146129,
@@ -1593,6 +1617,14 @@
       "onboard_time": 1778734823,
       "rank": 21,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 135024,
+      "num": 148373,
+      "word": "黄仁勋谈中国AI发展",
+      "onboard_time": 1778764462,
+      "rank": 45,
+      "category": "国内时政,互联网"
     },
     {
       "raw_hot": 131576,
@@ -1771,6 +1803,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 84842,
+      "num": 249828,
+      "word": "多方回应关闭支付功能后被扣184万",
+      "onboard_time": 1778763322,
+      "rank": 48,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 84096,
       "num": 56188,
       "word": "老人砍绊脚绳不料宝宝坐到刀上",
@@ -1801,14 +1841,6 @@
       "onboard_time": 1778744602,
       "rank": 49,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 67595,
-      "num": 149325,
-      "word": "多方回应关闭支付功能后被扣184万",
-      "onboard_time": 1778763322,
-      "rank": 48,
-      "category": "互联网"
     },
     {
       "raw_hot": 64169,
@@ -1865,6 +1897,14 @@
       "onboard_time": 1778747841,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 53006,
+      "num": 309747,
+      "word": "月薪1.6万招羊倌是夫妻两人薪资",
+      "onboard_time": 1778763141,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 50684,
@@ -2003,12 +2043,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 16893,
-      "num": 309747,
-      "word": "月薪1.6万招羊倌是夫妻两人薪资",
-      "onboard_time": 1778763141,
-      "rank": 19,
-      "category": "民生新闻"
+      "raw_hot": 16801,
+      "num": 147173,
+      "word": "中芯国际一季度净利润13.61亿",
+      "onboard_time": 1778764462,
+      "rank": 46,
+      "category": "财经"
     },
     {
       "raw_hot": 13972,
