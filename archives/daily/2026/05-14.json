@@ -1,6 +1,6 @@
 {
   "startTime": 1778689652010,
-  "endTime": 1778717396590,
+  "endTime": 1778722006696,
   "band_list": [
     {
       "raw_hot": 2678236,
@@ -11,8 +11,24 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 2619846,
+      "num": 2619846,
+      "word": "空军一号轰鸣而过中国军人纹丝不动",
+      "onboard_time": 1778720120,
+      "rank": 0,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 1778161,
+      "num": 1778161,
+      "word": "乃万演唱会40元票价",
+      "onboard_time": 1778718382,
+      "rank": 3,
+      "category": "演出"
+    },
+    {
       "raw_hot": 1712791,
-      "num": 388631,
+      "num": 484213,
       "word": "何炅演唱会没通知何炅",
       "onboard_time": 1778681302,
       "rank": 10,
@@ -25,6 +41,22 @@
       "onboard_time": 1778686820,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 954158,
+      "num": 954158,
+      "word": "保时捷称被抄袭致敬有些许无奈",
+      "onboard_time": 1778715619,
+      "rank": 5,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 821723,
+      "num": 821723,
+      "word": "英伟达总市值超越德国GDP",
+      "onboard_time": 1778717841,
+      "rank": 5,
+      "category": "财经"
     },
     {
       "raw_hot": 821073,
@@ -43,12 +75,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 750166,
+      "num": 484108,
+      "word": "贝克汉姆14岁小女儿因不上学被吐槽",
+      "onboard_time": 1778718082,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 718758,
       "num": 906855,
       "word": "国际足联希望中国队能参与世界杯",
       "onboard_time": 1778680225,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 714419,
+      "num": 471121,
+      "word": "小新被恶意举报",
+      "onboard_time": 1778716699,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 702175,
@@ -59,12 +107,44 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 641080,
-      "num": 641080,
+      "raw_hot": 695880,
+      "num": 695880,
       "word": "日本人全球对线破大防",
       "onboard_time": 1778714299,
       "rank": 3,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 669612,
+      "num": 483934,
+      "word": "以为王格格刘萧旭结婚了",
+      "onboard_time": 1778717060,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 646889,
+      "num": 483832,
+      "word": "华南理工偷拍男生未被开除",
+      "onboard_time": 1778717241,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 632327,
+      "num": 632327,
+      "word": "高敏感人群一生的主线任务",
+      "onboard_time": 1778715139,
+      "rank": 16,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 585232,
+      "num": 483782,
+      "word": "美民众谈特朗普访华",
+      "onboard_time": 1778718922,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 578242,
@@ -83,12 +163,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 563593,
+      "num": 483504,
+      "word": "特朗普访华欢迎仪式",
+      "onboard_time": 1778721860,
+      "rank": 16,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 557780,
+      "num": 483623,
+      "word": "昀牵孟绕真的be了吗",
+      "onboard_time": 1778717060,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 533790,
       "num": 387576,
       "word": "曝某古装剧组恶意炒cp",
       "onboard_time": 1778682142,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 524674,
+      "num": 483035,
+      "word": "小马云成年后首次直播",
+      "onboard_time": 1778720061,
+      "rank": 19,
+      "category": "网红"
     },
     {
       "raw_hot": 494555,
@@ -107,28 +211,36 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 484486,
+      "num": 484486,
+      "word": "陈妍希看给阿嬷的情书看哭了",
+      "onboard_time": 1778717361,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 482957,
+      "num": 482957,
+      "word": "点奶茶时要避开的4个字眼",
+      "onboard_time": 1778717660,
+      "rank": 20,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 430217,
+      "num": 430217,
+      "word": "23岁研究生遭遇车祸心智如幼童",
+      "onboard_time": 1778687660,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 426930,
       "num": 426930,
       "word": "马化腾回应AI掉队",
       "onboard_time": 1778675722,
       "rank": 3,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 398252,
-      "num": 398252,
-      "word": "保时捷称被抄袭致敬有些许无奈",
-      "onboard_time": 1778715619,
-      "rank": 5,
-      "category": "汽车"
-    },
-    {
-      "raw_hot": 394202,
-      "num": 353954,
-      "word": "23岁研究生遭遇车祸心智如幼童",
-      "onboard_time": 1778687660,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 389417,
@@ -187,12 +299,20 @@
       "category": "艺人,互联网"
     },
     {
-      "raw_hot": 305698,
-      "num": 305698,
-      "word": "高敏感人群一生的主线任务",
-      "onboard_time": 1778715139,
-      "rank": 16,
-      "category": "情感"
+      "raw_hot": 322553,
+      "num": 483261,
+      "word": "小米寻天N90新车尾标曝光",
+      "onboard_time": 1778720781,
+      "rank": 17,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 315097,
+      "num": 315097,
+      "word": "小狗 快把我的鼻子还给我",
+      "onboard_time": 1778718442,
+      "rank": 25,
+      "category": "幽默"
     },
     {
       "raw_hot": 268602,
@@ -204,7 +324,7 @@
     },
     {
       "raw_hot": 248714,
-      "num": 389330,
+      "num": 483231,
       "word": "低智商犯罪",
       "onboard_time": 1778671460,
       "rank": 5,
@@ -216,6 +336,14 @@
       "word": "六旬保洁离职手写千字辞职信",
       "onboard_time": 1778681661,
       "rank": 25,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 241996,
+      "num": 241996,
+      "word": "武汉大学进校全面放开",
+      "onboard_time": 1778720902,
+      "rank": 28,
       "category": "民生新闻"
     },
     {
@@ -235,12 +363,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 234748,
-      "num": 234748,
-      "word": "昀牵孟绕真的be了吗",
-      "onboard_time": 1778717060,
-      "rank": 21,
-      "category": "艺人"
+      "raw_hot": 234913,
+      "num": 234913,
+      "word": "东北姑娘在杭州地铁被一句小姐弄破防",
+      "onboard_time": 1778718201,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 234411,
@@ -339,6 +467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 191880,
+      "num": 191880,
+      "word": "白鹿曾说于正是她恩人",
+      "onboard_time": 1778720662,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 186248,
       "num": 246345,
       "word": "随特朗普访华的商界代表有谁",
@@ -395,6 +531,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 151111,
+      "num": 246492,
+      "word": "裴总和月亮谈恋爱了",
+      "onboard_time": 1778717000,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 146129,
       "num": 139103,
       "word": "德牧以为自己还是只小狗勾",
@@ -417,6 +561,14 @@
       "onboard_time": 1778674102,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 141997,
+      "num": 141997,
+      "word": "赛力斯维权索赔100万",
+      "onboard_time": 1778719821,
+      "rank": 41,
+      "category": "汽车"
     },
     {
       "raw_hot": 138983,
@@ -475,14 +627,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 117959,
-      "num": 117959,
-      "word": "陈妍希看给阿嬷的情书看哭了",
-      "onboard_time": 1778717361,
-      "rank": 36,
-      "category": "电影"
-    },
-    {
       "raw_hot": 116503,
       "num": 341962,
       "word": "自助餐没吃几口就饱的元凶",
@@ -497,6 +641,14 @@
       "onboard_time": 1778706614,
       "rank": 22,
       "category": "财经"
+    },
+    {
+      "raw_hot": 108576,
+      "num": 108576,
+      "word": "章若楠打戏",
+      "onboard_time": 1778721921,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 104130,
@@ -531,28 +683,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 98213,
-      "num": 98213,
-      "word": "华南理工偷拍男生未被开除",
-      "onboard_time": 1778717241,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 94818,
       "num": 94818,
       "word": "九章四号研制成功",
       "onboard_time": 1778714419,
       "rank": 42,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 94350,
-      "num": 94350,
-      "word": "裴总和月亮谈恋爱了",
-      "onboard_time": 1778717000,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 91201,
@@ -569,14 +705,6 @@
       "onboard_time": 1778685082,
       "rank": 47,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 88448,
-      "num": 88448,
-      "word": "小新被恶意举报",
-      "onboard_time": 1778716699,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 86930,
@@ -603,14 +731,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 82507,
-      "num": 82507,
-      "word": "以为王格格刘萧旭结婚了",
-      "onboard_time": 1778717060,
-      "rank": 49,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 82323,
       "num": 117505,
       "word": "孕妇感染李斯特菌早产自曝曾吃外卖",
@@ -619,8 +739,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 72572,
-      "num": 82565,
+      "raw_hot": 75865,
+      "num": 107959,
       "word": "曼城3比0水晶宫",
       "onboard_time": 1778714057,
       "rank": 48,
@@ -715,6 +835,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 22338,
+      "num": 107026,
+      "word": "平流雾遇火箭云堪称宇宙级浪漫",
+      "onboard_time": 1778720481,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 21176,
       "num": 324321,
       "word": "自家车撞自家车保险公司拒赔",
@@ -732,7 +860,7 @@
     },
     {
       "raw_hot": 17112,
-      "num": 736636,
+      "num": 1784036,
       "word": "天舟十号货运飞船发射任务全回顾",
       "onboard_time": 1778678243,
       "rank": 2,

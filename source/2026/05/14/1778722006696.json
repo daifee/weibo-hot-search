@@ -1,0 +1,410 @@
+{
+  "runTime": 1778722006696,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2619846,
+        "num": 2619846,
+        "word": "空军一号轰鸣而过中国军人纹丝不动",
+        "onboard_time": 1778720120,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1859151,
+        "num": 1859151,
+        "word": "特朗普抵京",
+        "onboard_time": 1778673262,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 14275,
+        "num": 1784036,
+        "word": "天舟十号货运飞船发射任务全回顾",
+        "onboard_time": 1778678243,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1778161,
+        "num": 1778161,
+        "word": "乃万演唱会40元票价",
+        "onboard_time": 1778718382,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 954158,
+        "num": 954158,
+        "word": "保时捷称被抄袭致敬有些许无奈",
+        "onboard_time": 1778715619,
+        "rank": 4,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 821723,
+        "num": 821723,
+        "word": "英伟达总市值超越德国GDP",
+        "onboard_time": 1778717841,
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 695880,
+        "num": 695880,
+        "word": "日本人全球对线破大防",
+        "onboard_time": 1778714299,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 632327,
+        "num": 632327,
+        "word": "高敏感人群一生的主线任务",
+        "onboard_time": 1778715139,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 484486,
+        "num": 484486,
+        "word": "陈妍希看给阿嬷的情书看哭了",
+        "onboard_time": 1778717361,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 310046,
+        "num": 484480,
+        "word": "国际足联希望中国队能参与世界杯",
+        "onboard_time": 1778680225,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 907977,
+        "num": 484213,
+        "word": "何炅演唱会没通知何炅",
+        "onboard_time": 1778681302,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 750166,
+        "num": 484108,
+        "word": "贝克汉姆14岁小女儿因不上学被吐槽",
+        "onboard_time": 1778718082,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 669612,
+        "num": 483934,
+        "word": "以为王格格刘萧旭结婚了",
+        "onboard_time": 1778717060,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 646889,
+        "num": 483832,
+        "word": "华南理工偷拍男生未被开除",
+        "onboard_time": 1778717241,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 585232,
+        "num": 483782,
+        "word": "美民众谈特朗普访华",
+        "onboard_time": 1778718922,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 557780,
+        "num": 483623,
+        "word": "昀牵孟绕真的be了吗",
+        "onboard_time": 1778717060,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 563593,
+        "num": 483504,
+        "word": "特朗普访华欢迎仪式",
+        "onboard_time": 1778721860,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 322553,
+        "num": 483261,
+        "word": "小米寻天N90新车尾标曝光",
+        "onboard_time": 1778720781,
+        "rank": 17,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 185684,
+        "num": 483231,
+        "word": "低智商犯罪",
+        "onboard_time": 1778671460,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 524674,
+        "num": 483035,
+        "word": "小马云成年后首次直播",
+        "onboard_time": 1778720061,
+        "rank": 19,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 482957,
+        "num": 482957,
+        "word": "点奶茶时要避开的4个字眼",
+        "onboard_time": 1778717660,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 714419,
+        "num": 471121,
+        "word": "小新被恶意举报",
+        "onboard_time": 1778716699,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 430217,
+        "num": 430217,
+        "word": "23岁研究生遭遇车祸心智如幼童",
+        "onboard_time": 1778687660,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 387408,
+        "num": 387408,
+        "word": "特朗普访问中国现场画面",
+        "onboard_time": 1778672479,
+        "rank": 23,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 328633,
+        "num": 328633,
+        "word": "许嵩",
+        "onboard_time": 1778715919,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 315097,
+        "num": 315097,
+        "word": "小狗 快把我的鼻子还给我",
+        "onboard_time": 1778718442,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 170902,
+        "num": 251315,
+        "word": "檀健次车裂戏",
+        "onboard_time": 1778683821,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151111,
+        "num": 246492,
+        "word": "裴总和月亮谈恋爱了",
+        "onboard_time": 1778717000,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 241996,
+        "num": 241996,
+        "word": "武汉大学进校全面放开",
+        "onboard_time": 1778720902,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 234913,
+        "num": 234913,
+        "word": "东北姑娘在杭州地铁被一句小姐弄破防",
+        "onboard_time": 1778718201,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 274738,
+        "num": 229818,
+        "word": "柳岩停更时间线",
+        "onboard_time": 1778671460,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 272892,
+        "num": 217797,
+        "word": "王译磊自曝患抑郁症",
+        "onboard_time": 1778715799,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203650,
+        "num": 203650,
+        "word": "日本爆发大规模反战抗议活动",
+        "onboard_time": 1778671280,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 203170,
+        "num": 203170,
+        "word": "月薪1.6万放羊已有两对夫妻试岗",
+        "onboard_time": 1778680823,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 198650,
+        "num": 198650,
+        "word": "马化腾回应AI掉队",
+        "onboard_time": 1778675722,
+        "rank": 34,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 191880,
+        "num": 191880,
+        "word": "白鹿曾说于正是她恩人",
+        "onboard_time": 1778720662,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186656,
+        "num": 186656,
+        "word": "张本智和致敬马龙樊振东",
+        "onboard_time": 1778714838,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 178788,
+        "num": 178788,
+        "word": "宁艺卓预录舞台晕倒",
+        "onboard_time": 1778715740,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158764,
+        "num": 158764,
+        "word": "一代人有一代人的带娃邪修",
+        "onboard_time": 1778691798,
+        "rank": 38,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 158229,
+        "num": 158229,
+        "word": "越南老太冲进网吧打孙子结果认错人",
+        "onboard_time": 1778714778,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 143594,
+        "num": 143594,
+        "word": "随特朗普访华的商界代表有谁",
+        "onboard_time": 1778685741,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 141997,
+        "num": 141997,
+        "word": "赛力斯维权索赔100万",
+        "onboard_time": 1778719821,
+        "rank": 41,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 141374,
+        "num": 141374,
+        "word": "男子等电梯里看到mini版自己",
+        "onboard_time": 1778709794,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131595,
+        "num": 131595,
+        "word": "许嵩安泊猜想演唱会",
+        "onboard_time": 1778715740,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 125751,
+        "num": 125751,
+        "word": "豆包 我不敢动饶雪漫这四个字",
+        "onboard_time": 1778671642,
+        "rank": 44,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 125525,
+        "num": 125525,
+        "word": "美股芯片股遭抛售潮",
+        "onboard_time": 1778714299,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 114629,
+        "num": 114629,
+        "word": "曝某古装剧组恶意炒cp",
+        "onboard_time": 1778682142,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108576,
+        "num": 108576,
+        "word": "章若楠打戏",
+        "onboard_time": 1778721921,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 75865,
+        "num": 107959,
+        "word": "曼城3比0水晶宫",
+        "onboard_time": 1778714057,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 22338,
+        "num": 107026,
+        "word": "平流雾遇火箭云堪称宇宙级浪漫",
+        "onboard_time": 1778720481,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席的中美关系之喻#"
+    }
+  }
+}
