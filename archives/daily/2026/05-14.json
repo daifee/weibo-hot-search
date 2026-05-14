@@ -1,6 +1,6 @@
 {
   "startTime": 1778689652010,
-  "endTime": 1778712357305,
+  "endTime": 1778717396590,
   "band_list": [
     {
       "raw_hot": 2678236,
@@ -59,6 +59,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 641080,
+      "num": 641080,
+      "word": "日本人全球对线破大防",
+      "onboard_time": 1778714299,
+      "rank": 3,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 578242,
+      "num": 360297,
+      "word": "摸腿事件脱口秀女演员一年还没走出来",
+      "onboard_time": 1778686521,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 568199,
       "num": 387783,
       "word": "虞书欣工作室出图",
@@ -75,12 +91,44 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 494555,
+      "num": 356032,
+      "word": "许嵩",
+      "onboard_time": 1778715919,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 491237,
+      "num": 926280,
+      "word": "日本爆发大规模反战抗议活动",
+      "onboard_time": 1778671280,
+      "rank": 8,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 426930,
       "num": 426930,
       "word": "马化腾回应AI掉队",
       "onboard_time": 1778675722,
       "rank": 3,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 398252,
+      "num": 398252,
+      "word": "保时捷称被抄袭致敬有些许无奈",
+      "onboard_time": 1778715619,
+      "rank": 5,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 394202,
+      "num": 353954,
+      "word": "23岁研究生遭遇车祸心智如幼童",
+      "onboard_time": 1778687660,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 389417,
@@ -99,12 +147,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 360004,
-      "num": 326117,
-      "word": "23岁研究生遭遇车祸心智如幼童",
-      "onboard_time": 1778687660,
-      "rank": 24,
-      "category": "民生新闻"
+      "raw_hot": 372711,
+      "num": 417257,
+      "word": "一代人有一代人的带娃邪修",
+      "onboard_time": 1778691798,
+      "rank": 4,
+      "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 352500,
+      "num": 352500,
+      "word": "王译磊自曝患抑郁症",
+      "onboard_time": 1778715799,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 352055,
@@ -131,12 +187,12 @@
       "category": "艺人,互联网"
     },
     {
-      "raw_hot": 281072,
-      "num": 281072,
-      "word": "摸腿事件脱口秀女演员一年还没走出来",
-      "onboard_time": 1778686521,
-      "rank": 23,
-      "category": "民生新闻"
+      "raw_hot": 305698,
+      "num": 305698,
+      "word": "高敏感人群一生的主线任务",
+      "onboard_time": 1778715139,
+      "rank": 16,
+      "category": "情感"
     },
     {
       "raw_hot": 268602,
@@ -145,6 +201,14 @@
       "onboard_time": 1778683041,
       "rank": 6,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 248714,
+      "num": 389330,
+      "word": "低智商犯罪",
+      "onboard_time": 1778671460,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 247167,
@@ -171,6 +235,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 234748,
+      "num": 234748,
+      "word": "昀牵孟绕真的be了吗",
+      "onboard_time": 1778717060,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 234411,
       "num": 234411,
       "word": "特朗普走出机舱",
@@ -187,12 +259,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 222775,
-      "num": 417257,
-      "word": "一代人有一代人的带娃邪修",
-      "onboard_time": 1778691798,
-      "rank": 4,
-      "category": "母婴育儿"
+      "raw_hot": 220722,
+      "num": 246685,
+      "word": "张本智和致敬马龙樊振东",
+      "onboard_time": 1778714838,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 214230,
@@ -201,14 +273,6 @@
       "onboard_time": 1778646862,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 203482,
-      "num": 389330,
-      "word": "低智商犯罪",
-      "onboard_time": 1778671460,
-      "rank": 5,
-      "category": "剧集"
     },
     {
       "raw_hot": 202383,
@@ -259,11 +323,27 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 190826,
-      "num": 388898,
-      "word": "日本爆发大规模反战抗议活动",
-      "onboard_time": 1778671280,
-      "rank": 8,
+      "raw_hot": 195441,
+      "num": 195441,
+      "word": "美股芯片股遭抛售潮",
+      "onboard_time": 1778714299,
+      "rank": 22,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 193443,
+      "num": 193443,
+      "word": "宁艺卓预录舞台晕倒",
+      "onboard_time": 1778715740,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 186248,
+      "num": 246345,
+      "word": "随特朗普访华的商界代表有谁",
+      "onboard_time": 1778685741,
+      "rank": 26,
       "category": "国际时政"
     },
     {
@@ -283,12 +363,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 173012,
-      "num": 246345,
-      "word": "随特朗普访华的商界代表有谁",
-      "onboard_time": 1778685741,
-      "rank": 26,
-      "category": "国际时政"
+      "raw_hot": 177906,
+      "num": 369925,
+      "word": "雨霖铃播了4集打了4集",
+      "onboard_time": 1778699414,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 169765,
@@ -307,6 +387,30 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 158952,
+      "num": 158952,
+      "word": "越南老太冲进网吧打孙子结果认错人",
+      "onboard_time": 1778714778,
+      "rank": 28,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 146129,
+      "num": 139103,
+      "word": "德牧以为自己还是只小狗勾",
+      "onboard_time": 1778715619,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 143908,
+      "num": 143908,
+      "word": "男子等电梯里看到mini版自己",
+      "onboard_time": 1778709794,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 142581,
       "num": 142581,
       "word": "宋雨琦bobo头造型",
@@ -323,12 +427,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 138447,
+      "num": 162116,
+      "word": "许嵩安泊猜想演唱会",
+      "onboard_time": 1778715740,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 131006,
       "num": 131006,
       "word": "严浩翔请工作人员喝咖啡",
       "onboard_time": 1778676803,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 128494,
+      "num": 366233,
+      "word": "多位国乒名将祝福刘炜珊",
+      "onboard_time": 1778686820,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 128274,
@@ -347,12 +467,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 121780,
+      "num": 121780,
+      "word": "猫咪知道主人给它打电话就是回家",
+      "onboard_time": 1778692277,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 117959,
+      "num": 117959,
+      "word": "陈妍希看给阿嬷的情书看哭了",
+      "onboard_time": 1778717361,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
       "raw_hot": 116503,
       "num": 341962,
       "word": "自助餐没吃几口就饱的元凶",
       "onboard_time": 1778664321,
       "rank": 19,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 114779,
+      "num": 114779,
+      "word": "美股半导体板块大跌",
+      "onboard_time": 1778706614,
+      "rank": 22,
+      "category": "财经"
     },
     {
       "raw_hot": 104130,
@@ -363,6 +507,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 103211,
+      "num": 103211,
+      "word": "网红白冰复更被吐槽",
+      "onboard_time": 1778676502,
+      "rank": 38,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 99671,
+      "num": 99671,
+      "word": "中概股集体飙升大涨",
+      "onboard_time": 1778715680,
+      "rank": 40,
+      "category": "财经"
+    },
+    {
       "raw_hot": 99506,
       "num": 243263,
       "word": "欢迎特朗普访问中国",
@@ -371,20 +531,28 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 96839,
-      "num": 242347,
-      "word": "多位国乒名将祝福刘炜珊",
-      "onboard_time": 1778686820,
-      "rank": 29,
-      "category": "体育"
+      "raw_hot": 98213,
+      "num": 98213,
+      "word": "华南理工偷拍男生未被开除",
+      "onboard_time": 1778717241,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
-      "raw_hot": 91913,
-      "num": 57393,
-      "word": "美股半导体板块大跌",
-      "onboard_time": 1778706614,
-      "rank": 22,
-      "category": "财经"
+      "raw_hot": 94818,
+      "num": 94818,
+      "word": "九章四号研制成功",
+      "onboard_time": 1778714419,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 94350,
+      "num": 94350,
+      "word": "裴总和月亮谈恋爱了",
+      "onboard_time": 1778717000,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 91201,
@@ -403,7 +571,23 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 85632,
+      "raw_hot": 88448,
+      "num": 88448,
+      "word": "小新被恶意举报",
+      "onboard_time": 1778716699,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 86930,
+      "num": 86362,
+      "word": "雨霖铃热度",
+      "onboard_time": 1778716400,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 86425,
       "num": 159091,
       "word": "又一艘邮轮疑似暴发疫情1人死亡",
       "onboard_time": 1778685982,
@@ -419,6 +603,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 82507,
+      "num": 82507,
+      "word": "以为王格格刘萧旭结婚了",
+      "onboard_time": 1778717060,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 82323,
       "num": 117505,
       "word": "孕妇感染李斯特菌早产自曝曾吃外卖",
@@ -427,12 +619,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 59865,
-      "num": 59865,
-      "word": "雨霖铃播了4集打了4集",
-      "onboard_time": 1778699414,
-      "rank": 32,
-      "category": "剧集"
+      "raw_hot": 72572,
+      "num": 82565,
+      "word": "曼城3比0水晶宫",
+      "onboard_time": 1778714057,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 59329,
@@ -441,22 +633,6 @@
       "onboard_time": 1778691617,
       "rank": 6,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 55257,
-      "num": 55257,
-      "word": "猫咪知道主人给它打电话就是回家",
-      "onboard_time": 1778692277,
-      "rank": 25,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 54079,
-      "num": 60341,
-      "word": "男子等电梯里看到mini版自己",
-      "onboard_time": 1778709794,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 43379,
@@ -555,20 +731,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 17112,
+      "num": 736636,
+      "word": "天舟十号货运飞船发射任务全回顾",
+      "onboard_time": 1778678243,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 13972,
       "num": 28417,
       "word": "雨霖铃电影质感",
       "onboard_time": 1778702115,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 12180,
-      "num": 729326,
-      "word": "天舟十号货运飞船发射任务全回顾",
-      "onboard_time": 1778678243,
-      "rank": 2,
-      "category": "国内时政"
     }
   ],
   "hotgov_list": [
