@@ -1,6 +1,6 @@
 {
   "startTime": 1778689652010,
-  "endTime": 1778772449689,
+  "endTime": 1778773366284,
   "band_list": [
     {
       "raw_hot": 13876227,
@@ -43,20 +43,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 3196035,
+      "num": 1579975,
+      "word": "徐志胜疯狂暗示方媛不太方便",
+      "onboard_time": 1778761941,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 3192900,
       "num": 816785,
       "word": "鹿晗寸头",
       "onboard_time": 1778723901,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 3136833,
-      "num": 1579975,
-      "word": "徐志胜疯狂暗示方媛不太方便",
-      "onboard_time": 1778761941,
-      "rank": 11,
-      "category": "综艺"
     },
     {
       "raw_hot": 2910019,
@@ -795,6 +795,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 378670,
+      "num": 345331,
+      "word": "睡前做这个动作30秒连续三天都睡得香",
+      "onboard_time": 1778770403,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 372711,
       "num": 417257,
       "word": "一代人有一代人的带娃邪修",
@@ -865,6 +873,14 @@
       "onboard_time": 1778727381,
       "rank": 31,
       "category": "网红"
+    },
+    {
+      "raw_hot": 341002,
+      "num": 341002,
+      "word": "全红婵妈妈生病住院",
+      "onboard_time": 1778768244,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 336257,
@@ -955,24 +971,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 311475,
-      "num": 311475,
-      "word": "全红婵妈妈生病住院",
-      "onboard_time": 1778768244,
-      "rank": 25,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 298347,
-      "num": 267302,
-      "word": "睡前做这个动作30秒连续三天都睡得香",
-      "onboard_time": 1778770403,
-      "rank": 30,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 293426,
-      "num": 293426,
+      "raw_hot": 302262,
+      "num": 302262,
       "word": "特朗普说美高法门楣刻孔子无比荣幸",
       "onboard_time": 1778769743,
       "rank": 26,
@@ -985,6 +985,14 @@
       "onboard_time": 1778732003,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 288704,
+      "num": 288704,
+      "word": "那英再次加盟歌手",
+      "onboard_time": 1778773161,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 288306,
@@ -1060,7 +1068,7 @@
     },
     {
       "raw_hot": 259514,
-      "num": 259514,
+      "num": 267434,
       "word": "多方回应关闭支付功能后被扣184万",
       "onboard_time": 1778763322,
       "rank": 48,
@@ -1331,6 +1339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 200462,
+      "num": 200462,
+      "word": "有的猫一看面相就老实巴交",
+      "onboard_time": 1778770343,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 199901,
       "num": 262071,
       "word": "苹果2028款iPhone曝光",
@@ -1419,11 +1435,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 188031,
-      "num": 188031,
-      "word": "有的猫一看面相就老实巴交",
-      "onboard_time": 1778770343,
-      "rank": 36,
+      "raw_hot": 186731,
+      "num": 186731,
+      "word": "国家反诈中心APP 检测AI图",
+      "onboard_time": 1778773042,
+      "rank": 39,
       "category": "幽默"
     },
     {
@@ -1433,6 +1449,14 @@
       "onboard_time": 1778685741,
       "rank": 26,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 184769,
+      "num": 184769,
+      "word": "歌手",
+      "onboard_time": 1778746522,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 183031,
@@ -1531,6 +1555,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 172761,
+      "num": 172761,
+      "word": "值得坚持一生的24个好习惯",
+      "onboard_time": 1778770224,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 172249,
       "num": 172249,
       "word": "浪姐",
@@ -1555,28 +1587,12 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 166787,
-      "num": 165528,
-      "word": "歌手",
-      "onboard_time": 1778746522,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 165804,
       "num": 165804,
       "word": "主角",
       "onboard_time": 1778677463,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 165647,
-      "num": 165647,
-      "word": "值得坚持一生的24个好习惯",
-      "onboard_time": 1778770224,
-      "rank": 44,
-      "category": "情感"
     },
     {
       "raw_hot": 163979,
@@ -1795,6 +1811,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 130734,
+      "num": 271524,
+      "word": "张本智和说世界排名不代表一切",
+      "onboard_time": 1778767043,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 130562,
       "num": 201226,
       "word": "马斯克说会晤会有好成果",
@@ -1827,14 +1851,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 124774,
-      "num": 271524,
-      "word": "张本智和说世界排名不代表一切",
-      "onboard_time": 1778767043,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 123659,
       "num": 123659,
       "word": "网传刘宪华不来歌手2026了",
@@ -1865,6 +1881,14 @@
       "onboard_time": 1778706614,
       "rank": 22,
       "category": "财经"
+    },
+    {
+      "raw_hot": 111207,
+      "num": 369055,
+      "word": "老人焚烧自家田地枯草被顶格罚款",
+      "onboard_time": 1778771364,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 108576,
@@ -2035,6 +2059,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 57053,
+      "num": 395985,
+      "word": "Jiejie单局抢四条龙",
+      "onboard_time": 1778772982,
+      "rank": 8,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 56518,
       "num": 162206,
       "word": "Kanavi说自己喜欢LPL",
@@ -2083,14 +2115,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 40446,
-      "num": 369055,
-      "word": "老人焚烧自家田地枯草被顶格罚款",
-      "onboard_time": 1778771364,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 37269,
       "num": 51045,
       "word": "肖战一句台词梦回藏海",
@@ -2131,12 +2155,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 26877,
+      "num": 395571,
+      "word": "AI还原烂梗有多毒",
+      "onboard_time": 1778772922,
+      "rank": 9,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 26531,
       "num": 37118,
       "word": "姜乘澜更新美妆视频",
       "onboard_time": 1778696475,
       "rank": 41,
       "category": "美妆,网红"
+    },
+    {
+      "raw_hot": 26365,
+      "num": 184931,
+      "word": "俄罗斯一酒店火警音竟是陕西方言",
+      "onboard_time": 1778772503,
+      "rank": 40,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 26252,
@@ -2193,6 +2233,22 @@
       "onboard_time": 1778685741,
       "rank": 47,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 19319,
+      "num": 347482,
+      "word": "实探取消预约入校的武大校园",
+      "onboard_time": 1778772563,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 17484,
+      "num": 184771,
+      "word": "男子走路时多次故意触碰女学生",
+      "onboard_time": 1778772862,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 17112,
