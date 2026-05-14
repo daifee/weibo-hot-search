@@ -1,6 +1,6 @@
 {
   "startTime": 1778342585344,
-  "endTime": 1778746145565,
+  "endTime": 1778754481519,
   "band_list": [
     {
       "raw_hot": 20021872,
@@ -217,6 +217,14 @@
       "onboard_time": 1778413700,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 2796945,
+      "num": 1707132,
+      "word": "特朗普访华欢迎宴会",
+      "onboard_time": 1778753481,
+      "rank": 1,
+      "category": "国内时政"
     },
     {
       "raw_hot": 2619846,
@@ -443,12 +451,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1753237,
+      "num": 1753237,
+      "word": "中美领导人致辞",
+      "onboard_time": 1778752343,
+      "rank": 0,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 1731469,
       "num": 446994,
       "word": "南京偷拍男拟录用公务员公示期已过",
       "onboard_time": 1778646139,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1719471,
+      "num": 518475,
+      "word": "黄景瑜微博改名",
+      "onboard_time": 1778749702,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 1712791,
@@ -635,6 +659,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1502755,
+      "num": 508512,
+      "word": "特朗普感叹大美中国",
+      "onboard_time": 1778745381,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 1493755,
       "num": 356647,
       "word": "王楚钦夺冠后吃生日蛋糕",
@@ -753,6 +785,14 @@
       "onboard_time": 1778454679,
       "rank": 1,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1362828,
+      "num": 1362828,
+      "word": "关闭支付宝支付功能后被扣捐赠184万",
+      "onboard_time": 1778749823,
+      "rank": 3,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 1340010,
@@ -1219,6 +1259,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 926139,
+      "num": 491020,
+      "word": "爱喝粥和爱喝咖啡的人都沉默了",
+      "onboard_time": 1778744661,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 924544,
       "num": 924544,
       "word": "巴掌榴莲",
@@ -1241,6 +1289,14 @@
       "onboard_time": 1778424263,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 911231,
+      "num": 911231,
+      "word": "给阿嬷的情书女主官宣入行",
+      "onboard_time": 1778748623,
+      "rank": 5,
+      "category": "电影"
     },
     {
       "raw_hot": 909497,
@@ -1323,6 +1379,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 878149,
+      "num": 484485,
+      "word": "宋亚轩和张杰女儿撞小名",
+      "onboard_time": 1778751382,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 874978,
       "num": 364405,
       "word": "孙怡捂鼻子下班",
@@ -1393,6 +1457,14 @@
       "onboard_time": 1778418859,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 838808,
+      "num": 475893,
+      "word": "男子1万买榴莲付11万几个月才发现",
+      "onboard_time": 1778751623,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 832592,
@@ -1651,28 +1723,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 743971,
-      "num": 363632,
-      "word": "特朗普感叹大美中国",
-      "onboard_time": 1778745381,
-      "rank": 30,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 741120,
       "num": 993240,
       "word": "女子闪婚闪离起诉要千万房产的99%",
       "onboard_time": 1778666480,
       "rank": 6,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 736704,
-      "num": 480214,
-      "word": "爱喝粥和爱喝咖啡的人都沉默了",
-      "onboard_time": 1778744661,
-      "rank": 37,
-      "category": "幽默"
     },
     {
       "raw_hot": 733569,
@@ -1721,6 +1777,14 @@
       "onboard_time": 1778497341,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 716615,
+      "num": 468207,
+      "word": "鲁比奥称中美关系非常有建设性",
+      "onboard_time": 1778749222,
+      "rank": 17,
+      "category": "国内时政"
     },
     {
       "raw_hot": 716015,
@@ -1907,6 +1971,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 654434,
+      "num": 548883,
+      "word": "歌手2026定档官宣",
+      "onboard_time": 1778747661,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 650691,
       "num": 650691,
       "word": "刘宇宁进组",
@@ -1929,6 +2001,14 @@
       "onboard_time": 1778570360,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 641975,
+      "num": 442647,
+      "word": "白玉兰奖动了",
+      "onboard_time": 1778751501,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 637500,
@@ -2131,6 +2211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 580610,
+      "num": 428108,
+      "word": "易烊千玺 惊悚片",
+      "onboard_time": 1778751802,
+      "rank": 22,
+      "category": "电影"
+    },
+    {
       "raw_hot": 579291,
       "num": 579291,
       "word": "王楚钦vs科顿",
@@ -2203,6 +2291,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 566571,
+      "num": 411447,
+      "word": "特朗普抵达欢迎宴会现场",
+      "onboard_time": 1778753001,
+      "rank": 23,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 564727,
       "num": 266358,
       "word": "乘客拒付高速费00后车主果断返程",
@@ -2241,6 +2337,14 @@
       "onboard_time": 1778717060,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 551569,
+      "num": 551569,
+      "word": "韩国股市暴涨超200%散户癫狂",
+      "onboard_time": 1778747181,
+      "rank": 6,
+      "category": "财经"
     },
     {
       "raw_hot": 550064,
@@ -3363,6 +3467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 389782,
+      "num": 389782,
+      "word": "所有不尊重你的人赌的都是你没有前途",
+      "onboard_time": 1778750842,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 389417,
       "num": 389417,
       "word": "小米四款新车曝光",
@@ -3457,6 +3569,14 @@
       "onboard_time": 1778652441,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 379306,
+      "num": 379306,
+      "word": "为什么大多数人都喜欢约晚饭",
+      "onboard_time": 1778753301,
+      "rank": 28,
+      "category": "幽默"
     },
     {
       "raw_hot": 372711,
@@ -3888,6 +4008,14 @@
       "word": "清华硕士参与智力测验仅25分",
       "onboard_time": 1778466800,
       "rank": 40,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 331779,
+      "num": 199259,
+      "word": "香港80后地产女王烧炭身亡",
+      "onboard_time": 1778748142,
+      "rank": 31,
       "category": "民生新闻"
     },
     {
@@ -4603,6 +4731,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 265008,
+      "num": 538541,
+      "word": "腾讯成立800人团队适配鸿蒙",
+      "onboard_time": 1778745921,
+      "rank": 46,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 264937,
       "num": 228562,
       "word": "建议不要给自己的人生加重量",
@@ -5147,6 +5283,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 228989,
+      "num": 535113,
+      "word": "世界杯",
+      "onboard_time": 1778736082,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 227360,
       "num": 227360,
       "word": "向太回应向佐郭碧婷分居两地",
@@ -5547,6 +5691,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 203227,
+      "num": 197482,
+      "word": "31岁女子从60斤增到90斤像变个人",
+      "onboard_time": 1778751382,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 202860,
       "num": 202860,
       "word": "王安宇赵今麦排名不分先后",
@@ -5643,6 +5795,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 199901,
+      "num": 199901,
+      "word": "苹果2028款iPhone曝光",
+      "onboard_time": 1778749341,
+      "rank": 29,
+      "category": "数码"
+    },
+    {
       "raw_hot": 199720,
       "num": 258303,
       "word": "1颗话梅129元有人泡水喝3天",
@@ -5665,6 +5825,14 @@
       "onboard_time": 1778652199,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 196533,
+      "num": 196533,
+      "word": "腾讯推出svip云包场",
+      "onboard_time": 1778753541,
+      "rank": 36,
+      "category": "互联网,作品衍生"
     },
     {
       "raw_hot": 196130,
@@ -5745,6 +5913,14 @@
       "onboard_time": 1778542999,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 194086,
+      "num": 194086,
+      "word": "美方企业家离场时纷纷点赞",
+      "onboard_time": 1778751742,
+      "rank": 37,
+      "category": "国内时政"
     },
     {
       "raw_hot": 193680,
@@ -5873,6 +6049,14 @@
       "onboard_time": 1778421081,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 188186,
+      "num": 188186,
+      "word": "果然岁月从不败美人",
+      "onboard_time": 1778751921,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 188064,
@@ -6113,14 +6297,6 @@
       "onboard_time": 1778699414,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 177839,
-      "num": 177839,
-      "word": "腾讯成立800人团队适配鸿蒙",
-      "onboard_time": 1778745921,
-      "rank": 46,
-      "category": "互联网"
     },
     {
       "raw_hot": 177386,
@@ -6515,6 +6691,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 164385,
+      "num": 164385,
+      "word": "歌手",
+      "onboard_time": 1778746522,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 162918,
+      "num": 162918,
+      "word": "脑子变迟钝了怎么补救",
+      "onboard_time": 1778751861,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 162540,
       "num": 155449,
       "word": "95花扎堆开演唱会",
@@ -6843,14 +7035,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 146398,
-      "num": 455678,
-      "word": "世界杯",
-      "onboard_time": 1778736082,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
       "raw_hot": 146274,
       "num": 223022,
       "word": "林昀儒世乒赛铜牌",
@@ -6952,6 +7136,14 @@
       "word": "北京绿化带是要考研吗",
       "onboard_time": 1778676803,
       "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 141885,
+      "num": 444969,
+      "word": "员工上班借给公司128万",
+      "onboard_time": 1778753422,
+      "rank": 20,
       "category": "民生新闻"
     },
     {
@@ -8131,6 +8323,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 74375,
+      "num": 161910,
+      "word": "特朗普说访问中国非常荣幸",
+      "onboard_time": 1778744602,
+      "rank": 49,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 74091,
       "num": 98871,
       "word": "美国制药巨头正研发汉坦病毒疫苗",
@@ -8323,6 +8523,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 62387,
+      "num": 191833,
+      "word": "王格格听到TOP捂脸害羞",
+      "onboard_time": 1778753842,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 61497,
+      "num": 162428,
+      "word": "早田希娜说孙颖莎王曼昱是最强双核",
+      "onboard_time": 1778746582,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 60795,
       "num": 284206,
       "word": "沈腾免单",
@@ -8475,6 +8691,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 57381,
+      "num": 464070,
+      "word": "杨洋来河南也得抱捆蒜苔回去",
+      "onboard_time": 1778753962,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 57339,
       "num": 229601,
       "word": "比亚迪海鸥也能上激光雷达了",
@@ -8489,6 +8713,14 @@
       "onboard_time": 1778396420,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 56518,
+      "num": 162206,
+      "word": "Kanavi说自己喜欢LPL",
+      "onboard_time": 1778740761,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 56297,
@@ -8553,6 +8785,14 @@
       "onboard_time": 1778487679,
       "rank": 20,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 54904,
+      "num": 162094,
+      "word": "恋与深空新衣服",
+      "onboard_time": 1778747841,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 54304,
