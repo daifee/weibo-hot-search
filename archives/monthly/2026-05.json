@@ -1,6 +1,6 @@
 {
   "startTime": 1777565126834,
-  "endTime": 1778722006696,
+  "endTime": 1778734389991,
   "band_list": [
     {
       "raw_hot": 25375641,
@@ -73,6 +73,14 @@
       "onboard_time": 1778427022,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 10065284,
+      "num": 10065284,
+      "word": "特朗普访华欢迎仪式",
+      "onboard_time": 1778721860,
+      "rank": 16,
+      "category": "国际时政"
     },
     {
       "raw_hot": 9062055,
@@ -177,6 +185,14 @@
       "onboard_time": 1777817785,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 4799447,
+      "num": 584096,
+      "word": "特朗普说二三把手我都不让他们来",
+      "onboard_time": 1778731402,
+      "rank": 10,
+      "category": "国际时政"
     },
     {
       "raw_hot": 4446373,
@@ -387,6 +403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 3192900,
+      "num": 577664,
+      "word": "鹿晗寸头",
+      "onboard_time": 1778723901,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 3173626,
       "num": 944320,
       "word": "时代峰峻回应穆祉丞没饭撒",
@@ -457,6 +481,14 @@
       "onboard_time": 1777689739,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2910019,
+      "num": 576036,
+      "word": "马斯克库克黄仁勋等进入会谈现场",
+      "onboard_time": 1778730743,
+      "rank": 12,
+      "category": "国内时政"
     },
     {
       "raw_hot": 2898523,
@@ -569,6 +601,14 @@
       "onboard_time": 1778542758,
       "rank": 3,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 2554078,
+      "num": 2554078,
+      "word": "中美领导人会谈",
+      "onboard_time": 1778723001,
+      "rank": 0,
+      "category": "国内时政"
     },
     {
       "raw_hot": 2499356,
@@ -817,6 +857,14 @@
       "onboard_time": 1778208080,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2082931,
+      "num": 476717,
+      "word": "何九华宣布当爸",
+      "onboard_time": 1778722701,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 2076730,
@@ -1107,6 +1155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1710662,
+      "num": 933500,
+      "word": "台湾问题处理好了中美关系就能稳定",
+      "onboard_time": 1778731822,
+      "rank": 4,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 1702989,
       "num": 1702989,
       "word": "世乒赛",
@@ -1305,6 +1361,14 @@
       "onboard_time": 1778338041,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1567060,
+      "num": 565454,
+      "word": "薯片透明包装",
+      "onboard_time": 1778731522,
+      "rank": 13,
+      "category": "美食"
     },
     {
       "raw_hot": 1552424,
@@ -1553,6 +1617,14 @@
       "onboard_time": 1778299760,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1415993,
+      "num": 447081,
+      "word": "王鸥 何九华",
+      "onboard_time": 1778725583,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 1412394,
@@ -2185,6 +2257,14 @@
       "onboard_time": 1778310500,
       "rank": 15,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1110806,
+      "num": 1110806,
+      "word": "豆包 嬉皮笑脸",
+      "onboard_time": 1778727381,
+      "rank": 3,
+      "category": "互联网"
     },
     {
       "raw_hot": 1108379,
@@ -2913,6 +2993,14 @@
       "onboard_time": 1777633459,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 929332,
+      "num": 559921,
+      "word": "马斯克360度转圈拍摄人民大会堂",
+      "onboard_time": 1778733505,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 927802,
@@ -3819,6 +3907,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 780272,
+      "num": 475896,
+      "word": "杨洋回应谁说这杨洋老啊",
+      "onboard_time": 1778730803,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 779742,
       "num": 779742,
       "word": "时代峰峻回应陈奕恒被指抄袭朱志鑫",
@@ -4275,6 +4371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 716015,
+      "num": 544402,
+      "word": "中美领导人就重大问题交换意见",
+      "onboard_time": 1778729421,
+      "rank": 16,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 715963,
       "num": 869608,
       "word": "陕西11岁失联男孩遗体被发现",
@@ -4585,6 +4689,14 @@
       "onboard_time": 1778565140,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 680753,
+      "num": 680753,
+      "word": "中美元首握手",
+      "onboard_time": 1778725346,
+      "rank": 5,
+      "category": "国内时政"
     },
     {
       "raw_hot": 677074,
@@ -5027,6 +5139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 638128,
+      "num": 550076,
+      "word": "中美经贸团队达成积极成果",
+      "onboard_time": 1778730441,
+      "rank": 15,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 638002,
       "num": 396232,
       "word": "森林北配文家里的草都绿了吗",
@@ -5281,6 +5401,14 @@
       "onboard_time": 1778047280,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 610779,
+      "num": 610779,
+      "word": "于正宣传白鹿演唱会",
+      "onboard_time": 1778728222,
+      "rank": 6,
+      "category": "演出"
     },
     {
       "raw_hot": 610335,
@@ -5787,14 +5915,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 563593,
-      "num": 483504,
-      "word": "特朗普访华欢迎仪式",
-      "onboard_time": 1778721860,
-      "rank": 16,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 562364,
       "num": 403442,
       "word": "75岁的天赐爸爸还要挣钱养家",
@@ -5985,6 +6105,14 @@
       "onboard_time": 1777595960,
       "rank": 4,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 541369,
+      "num": 541369,
+      "word": "网红白冰再被禁言",
+      "onboard_time": 1778732903,
+      "rank": 17,
+      "category": "网红"
     },
     {
       "raw_hot": 540821,
@@ -6456,6 +6584,14 @@
       "word": "张凌赫田曦薇 妇唱夫随",
       "onboard_time": 1777875740,
       "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 513670,
+      "num": 469828,
+      "word": "IU回答不再依赖姐姐算长大吗",
+      "onboard_time": 1778733625,
+      "rank": 23,
       "category": "艺人"
     },
     {
@@ -7587,6 +7723,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 447272,
+      "num": 447272,
+      "word": "刘海为什么不能叫张海",
+      "onboard_time": 1778730263,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 447113,
       "num": 447113,
       "word": "雷霆3比0湖人",
@@ -7601,6 +7745,14 @@
       "onboard_time": 1777946121,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 446645,
+      "num": 446645,
+      "word": "异形榴莲的出肉率",
+      "onboard_time": 1778732423,
+      "rank": 27,
+      "category": "美食"
     },
     {
       "raw_hot": 446452,
@@ -8627,6 +8779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 391463,
+      "num": 610506,
+      "word": "日媒吐槽世乒赛规则存在漏洞",
+      "onboard_time": 1778724621,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 391456,
       "num": 362548,
       "word": "菩萨手拍卖 文物流失",
@@ -9235,6 +9395,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 366127,
+      "num": 594525,
+      "word": "中美元首合影",
+      "onboard_time": 1778730683,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 365986,
       "num": 368456,
       "word": "马頔表情",
@@ -9417,6 +9585,14 @@
       "onboard_time": 1778583621,
       "rank": 9,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 357639,
+      "num": 357639,
+      "word": "特朗普说中美关系将会有史以来最好",
+      "onboard_time": 1778733684,
+      "rank": 30,
+      "category": "国内时政"
     },
     {
       "raw_hot": 357599,
@@ -9835,6 +10011,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 344454,
+      "num": 344454,
+      "word": "跟姜乘澜学洗头",
+      "onboard_time": 1778727381,
+      "rank": 31,
+      "category": "网红"
+    },
+    {
       "raw_hot": 344327,
       "num": 344327,
       "word": "女生解释为什么不考家附近的大学",
@@ -10185,6 +10369,14 @@
       "onboard_time": 1778284640,
       "rank": 29,
       "category": "数码"
+    },
+    {
+      "raw_hot": 330650,
+      "num": 330650,
+      "word": "易烊千玺唱了粉丝选的歌",
+      "onboard_time": 1778727983,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 330138,
@@ -10657,6 +10849,14 @@
       "onboard_time": 1777942760,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 316378,
+      "num": 316378,
+      "word": "为什么衣服只喜欢穿一年",
+      "onboard_time": 1778730563,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 315571,
@@ -11443,6 +11643,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 291089,
+      "num": 291089,
+      "word": "新人500元请司仪要求随礼600",
+      "onboard_time": 1778732003,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 290846,
       "num": 290846,
       "word": "小米18系列或成最激进一代",
@@ -11681,6 +11889,14 @@
       "onboard_time": 1777970720,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 283872,
+      "num": 283872,
+      "word": "小马云13岁确诊智力二级残疾",
+      "onboard_time": 1778728161,
+      "rank": 36,
+      "category": "网红"
     },
     {
       "raw_hot": 283723,
@@ -12451,6 +12667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 261746,
+      "num": 261746,
+      "word": "标价15元结账收29.9元",
+      "onboard_time": 1778733625,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 261406,
       "num": 300506,
       "word": "严浩翔身心承受着巨大压力",
@@ -13211,6 +13435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 244652,
+      "num": 602592,
+      "word": "给阿嬷的情书票房破2亿",
+      "onboard_time": 1778723362,
+      "rank": 8,
+      "category": "电影"
+    },
+    {
       "raw_hot": 244359,
       "num": 244359,
       "word": "张真源手臂荆棘纹身",
@@ -13427,12 +13659,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 239369,
+      "num": 358020,
+      "word": "杨紫远山黛",
+      "onboard_time": 1778729122,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 239300,
       "num": 258741,
       "word": "iPhone18Pro最低配或不涨价",
       "onboard_time": 1777732403,
       "rank": 31,
       "category": "数码"
+    },
+    {
+      "raw_hot": 238846,
+      "num": 238846,
+      "word": "种地吧第四季开播",
+      "onboard_time": 1778733204,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 238733,
@@ -13867,6 +14115,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 231539,
+      "num": 231539,
+      "word": "37岁小伙吹气球半个月赚60万",
+      "onboard_time": 1778726602,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 231533,
       "num": 419854,
       "word": "种地吧",
@@ -14161,6 +14417,14 @@
       "onboard_time": 1778499140,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 225598,
+      "num": 225598,
+      "word": "日本盗搬大量中国视频经营人设",
+      "onboard_time": 1778729901,
+      "rank": 40,
+      "category": "国际时政"
     },
     {
       "raw_hot": 225577,
@@ -14459,6 +14723,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 218542,
+      "num": 218542,
+      "word": "哈登30分",
+      "onboard_time": 1778729241,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 218522,
       "num": 218522,
       "word": "宋亚轩刘耀文小宇舞台",
@@ -14577,6 +14849,14 @@
       "onboard_time": 1778647101,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 216521,
+      "num": 216521,
+      "word": "张本美和说需超越孙颖莎才能赢国乒",
+      "onboard_time": 1778730621,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 216359,
@@ -14825,6 +15105,14 @@
       "onboard_time": 1778219422,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 213112,
+      "num": 213112,
+      "word": "王骁像我亲戚上去演了两集",
+      "onboard_time": 1778724861,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 212845,
@@ -15979,6 +16267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 193463,
+      "num": 193463,
+      "word": "家业OST阵容",
+      "onboard_time": 1778731582,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 193443,
       "num": 193443,
       "word": "宁艺卓预录舞台晕倒",
@@ -16947,6 +17243,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 177386,
+      "num": 177386,
+      "word": "安崎把好多姐姐喝趴下了",
+      "onboard_time": 1778726242,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 177354,
       "num": 177354,
       "word": "刘宇宁爆红后有多稳健清醒",
@@ -17001,6 +17305,14 @@
       "onboard_time": 1777887201,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 177007,
+      "num": 177007,
+      "word": "姜乘澜涨粉超672万",
+      "onboard_time": 1778734223,
+      "rank": 47,
+      "category": "网红"
     },
     {
       "raw_hot": 176853,
@@ -17177,6 +17489,14 @@
       "onboard_time": 1778508744,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 174811,
+      "num": 180446,
+      "word": "溺亡男子被同伴运回家73小时才发现",
+      "onboard_time": 1778725583,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 174688,
@@ -18273,6 +18593,14 @@
       "onboard_time": 1777679658,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 159692,
+      "num": 171046,
+      "word": "张雪机车820RR暂停生产交付",
+      "onboard_time": 1778729241,
+      "rank": 48,
+      "category": "汽车"
     },
     {
       "raw_hot": 159443,
@@ -20105,6 +20433,14 @@
       "onboard_time": 1777736482,
       "rank": 42,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 131576,
+      "num": 446734,
+      "word": "肖战说荣耀600是你的幸运星",
+      "onboard_time": 1778733264,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 131539,
@@ -24019,6 +24355,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 57202,
+      "num": 1669005,
+      "word": "6张图看铁路老年旅客淡季周中优惠",
+      "onboard_time": 1778725702,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 56795,
       "num": 237387,
       "word": "王暖暖住院期间仍被带货",
@@ -27534,6 +27878,9 @@
     },
     {
       "word": "#习主席的中美关系之喻#"
+    },
+    {
+      "word": "#习近平举行仪式欢迎特朗普访华#"
     }
   ]
 }
