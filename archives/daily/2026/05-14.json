@@ -1,6 +1,6 @@
 {
   "startTime": 1778689652010,
-  "endTime": 1778744959620,
+  "endTime": 1778746145565,
   "band_list": [
     {
       "raw_hot": 10065284,
@@ -163,6 +163,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 892225,
+      "num": 520881,
+      "word": "瑶一瑶跪下感谢妈妈",
+      "onboard_time": 1778743521,
+      "rank": 22,
+      "category": "网红"
+    },
+    {
       "raw_hot": 821723,
       "num": 821723,
       "word": "英伟达总市值超越德国GDP",
@@ -227,6 +235,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 743971,
+      "num": 363632,
+      "word": "特朗普感叹大美中国",
+      "onboard_time": 1778745381,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 736704,
+      "num": 480214,
+      "word": "爱喝粥和爱喝咖啡的人都沉默了",
+      "onboard_time": 1778744661,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 718758,
       "num": 906855,
       "word": "国际足联希望中国队能参与世界杯",
@@ -283,6 +307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 669135,
+      "num": 563488,
+      "word": "巩立姣减重50斤",
+      "onboard_time": 1778740342,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 646889,
       "num": 483832,
       "word": "华南理工偷拍男生未被开除",
@@ -299,14 +331,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 633979,
-      "num": 563488,
-      "word": "巩立姣减重50斤",
-      "onboard_time": 1778740342,
-      "rank": 5,
-      "category": "体育"
-    },
-    {
       "raw_hot": 632327,
       "num": 632327,
       "word": "高敏感人群一生的主线任务",
@@ -315,12 +339,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 612697,
+      "num": 612697,
+      "word": "爸爸当家",
+      "onboard_time": 1778744902,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 610779,
       "num": 818075,
       "word": "于正宣传白鹿演唱会",
       "onboard_time": 1778728222,
       "rank": 6,
       "category": "演出"
+    },
+    {
+      "raw_hot": 591451,
+      "num": 499546,
+      "word": "特朗普参观天坛感叹惊艳",
+      "onboard_time": 1778744902,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 586909,
@@ -403,12 +443,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 520881,
-      "num": 520881,
-      "word": "瑶一瑶跪下感谢妈妈",
-      "onboard_time": 1778743521,
-      "rank": 22,
-      "category": "网红"
+      "raw_hot": 505204,
+      "num": 497329,
+      "word": "吴宣仪成立个人工作室",
+      "onboard_time": 1778743881,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 494555,
@@ -417,6 +457,14 @@
       "onboard_time": 1778715919,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 494517,
+      "num": 495988,
+      "word": "黄仁勋点赞库克比耶",
+      "onboard_time": 1778742262,
+      "rank": 32,
+      "category": "国际时政"
     },
     {
       "raw_hot": 491237,
@@ -491,22 +539,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 415318,
-      "num": 499546,
-      "word": "特朗普参观天坛感叹惊艳",
-      "onboard_time": 1778744902,
-      "rank": 30,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 406811,
-      "num": 495988,
-      "word": "黄仁勋点赞库克比耶",
-      "onboard_time": 1778742262,
-      "rank": 32,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 403497,
       "num": 526608,
       "word": "为什么衣服只喜欢穿一年",
@@ -545,14 +577,6 @@
       "onboard_time": 1778691798,
       "rank": 4,
       "category": "母婴育儿"
-    },
-    {
-      "raw_hot": 369534,
-      "num": 497329,
-      "word": "吴宣仪成立个人工作室",
-      "onboard_time": 1778743881,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 367989,
@@ -609,14 +633,6 @@
       "onboard_time": 1778727381,
       "rank": 31,
       "category": "网红"
-    },
-    {
-      "raw_hot": 340713,
-      "num": 480214,
-      "word": "爱喝粥和爱喝咖啡的人都沉默了",
-      "onboard_time": 1778744661,
-      "rank": 37,
-      "category": "幽默"
     },
     {
       "raw_hot": 334869,
@@ -691,6 +707,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 269684,
+      "num": 269684,
+      "word": "外媒记者镜头下的中国排面",
+      "onboard_time": 1778743042,
+      "rank": 36,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 268602,
       "num": 389216,
       "word": "小米增程SUV车头logo曝光",
@@ -705,6 +729,14 @@
       "onboard_time": 1778733625,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 254431,
+      "num": 172481,
+      "word": "A股放量1222亿调整",
+      "onboard_time": 1778745682,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 248714,
@@ -771,14 +803,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 239271,
-      "num": 477896,
-      "word": "爸爸当家",
-      "onboard_time": 1778744902,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 238846,
       "num": 238846,
       "word": "种地吧第四季开播",
@@ -800,6 +824,14 @@
       "word": "东北姑娘在杭州地铁被一句小姐弄破防",
       "onboard_time": 1778718201,
       "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 234715,
+      "num": 472809,
+      "word": "武大取消预约是高校该有的格局",
+      "onboard_time": 1778743762,
+      "rank": 40,
       "category": "民生新闻"
     },
     {
@@ -963,6 +995,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 182752,
+      "num": 521568,
+      "word": "中美元首参观天坛高清大图",
+      "onboard_time": 1778744241,
+      "rank": 20,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 179420,
       "num": 388685,
       "word": "张本智和说王楚钦实力高出一筹",
@@ -985,6 +1025,14 @@
       "onboard_time": 1778699414,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 177839,
+      "num": 177839,
+      "word": "腾讯成立800人团队适配鸿蒙",
+      "onboard_time": 1778745921,
+      "rank": 46,
+      "category": "互联网"
     },
     {
       "raw_hot": 177386,
@@ -1067,6 +1115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 147607,
+      "num": 1461209,
+      "word": "这些美方代表在中美元首会谈会场",
+      "onboard_time": 1778744421,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 146398,
       "num": 455678,
       "word": "世界杯",
@@ -1091,6 +1147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 142942,
+      "num": 174861,
+      "word": "唐艺昕晒浪姐干饭合照",
+      "onboard_time": 1778745921,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 142581,
       "num": 142581,
       "word": "宋雨琦bobo头造型",
@@ -1107,6 +1171,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 141986,
+      "num": 506067,
+      "word": "日本批量生成AI视频抹黑中国",
+      "onboard_time": 1778744721,
+      "rank": 28,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 138983,
       "num": 138983,
       "word": "雨霖铃杨洋演技",
@@ -1121,6 +1193,14 @@
       "onboard_time": 1778715740,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 135165,
+      "num": 575905,
+      "word": "特朗普访华欢迎仪式高清大图",
+      "onboard_time": 1778734823,
+      "rank": 21,
+      "category": "国内时政"
     },
     {
       "raw_hot": 131576,
@@ -1163,14 +1243,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 123877,
-      "num": 575905,
-      "word": "特朗普访华欢迎仪式高清大图",
-      "onboard_time": 1778734823,
-      "rank": 21,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 123659,
       "num": 123659,
       "word": "网传刘宪华不来歌手2026了",
@@ -1201,14 +1273,6 @@
       "onboard_time": 1778706614,
       "rank": 22,
       "category": "财经"
-    },
-    {
-      "raw_hot": 113286,
-      "num": 521568,
-      "word": "中美元首参观天坛高清大图",
-      "onboard_time": 1778744241,
-      "rank": 20,
-      "category": "国内时政"
     },
     {
       "raw_hot": 108576,
@@ -1363,14 +1427,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 39756,
-      "num": 472809,
-      "word": "武大取消预约是高校该有的格局",
-      "onboard_time": 1778743762,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 37269,
       "num": 51045,
       "word": "肖战一句台词梦回藏海",
@@ -1393,14 +1449,6 @@
       "onboard_time": 1778710574,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 34151,
-      "num": 506067,
-      "word": "日本批量生成AI视频抹黑中国",
-      "onboard_time": 1778744721,
-      "rank": 28,
-      "category": "国内时政"
     },
     {
       "raw_hot": 31997,
@@ -1467,12 +1515,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 19747,
-      "num": 1461209,
-      "word": "这些美方代表在中美元首会谈会场",
-      "onboard_time": 1778744421,
-      "rank": 2,
-      "category": "国内时政"
+      "raw_hot": 20597,
+      "num": 188586,
+      "word": "谈莉娜产后8天仍刀口痛",
+      "onboard_time": 1778746102,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 19422,
@@ -1508,6 +1556,9 @@
     },
     {
       "word": "#习近平同特朗普参观天坛#"
+    },
+    {
+      "word": "#中美元首会谈#"
     }
   ]
 }
