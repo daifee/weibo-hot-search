@@ -1,6 +1,6 @@
 {
   "startTime": 1778689652010,
-  "endTime": 1778735146839,
+  "endTime": 1778744959620,
   "band_list": [
     {
       "raw_hot": 10065284,
@@ -8,6 +8,14 @@
       "word": "特朗普访华欢迎仪式",
       "onboard_time": 1778721860,
       "rank": 16,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 8818036,
+      "num": 8818036,
+      "word": "特朗普参观天坛",
+      "onboard_time": 1778735724,
+      "rank": 1,
       "category": "国际时政"
     },
     {
@@ -107,12 +115,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1628482,
+      "num": 1105030,
+      "word": "白鹿演唱会票价加起来是十年",
+      "onboard_time": 1778735303,
+      "rank": 3,
+      "category": "演出"
+    },
+    {
       "raw_hot": 1617859,
       "num": 388469,
       "word": "华南理工被偷拍女生隐忍到下课",
       "onboard_time": 1778686820,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1599664,
+      "num": 1599664,
+      "word": "中美元首在祈年殿广场合影",
+      "onboard_time": 1778737044,
+      "rank": 0,
+      "category": "国内时政"
     },
     {
       "raw_hot": 1415993,
@@ -187,6 +211,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 771439,
+      "num": 523474,
+      "word": "男童海底捞奔跑撞上高温红油锅",
+      "onboard_time": 1778736203,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 750166,
       "num": 484108,
       "word": "贝克汉姆14岁小女儿因不上学被吐槽",
@@ -259,6 +291,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 637500,
+      "num": 522683,
+      "word": "金冬天一颗葡萄吃了一分多钟",
+      "onboard_time": 1778734764,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 633979,
+      "num": 563488,
+      "word": "巩立姣减重50斤",
+      "onboard_time": 1778740342,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 632327,
       "num": 632327,
       "word": "高敏感人群一生的主线任务",
@@ -273,6 +321,14 @@
       "onboard_time": 1778728222,
       "rank": 6,
       "category": "演出"
+    },
+    {
+      "raw_hot": 586909,
+      "num": 586909,
+      "word": "刘海为什么不能叫张海",
+      "onboard_time": 1778730263,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 585232,
@@ -315,6 +371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 546661,
+      "num": 522392,
+      "word": "警方通报河北一火锅店发生刑案",
+      "onboard_time": 1778738062,
+      "rank": 18,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 533790,
       "num": 387576,
       "word": "曝某古装剧组恶意炒cp",
@@ -323,11 +387,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 526831,
+      "num": 526831,
+      "word": "阿嬷爆了之后 业内连夜学习潮汕文化",
+      "onboard_time": 1778737823,
+      "rank": 6,
+      "category": "电影"
+    },
+    {
       "raw_hot": 524674,
       "num": 483035,
       "word": "小马云成年后首次直播",
       "onboard_time": 1778720061,
       "rank": 19,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 520881,
+      "num": 520881,
+      "word": "瑶一瑶跪下感谢妈妈",
+      "onboard_time": 1778743521,
+      "rank": 22,
       "category": "网红"
     },
     {
@@ -355,6 +435,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 487712,
+      "num": 516541,
+      "word": "秦昊说孙杨不坑自己专坑我们",
+      "onboard_time": 1778740461,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 484486,
       "num": 484486,
       "word": "陈妍希看给阿嬷的情书看哭了",
@@ -379,12 +467,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 470654,
-      "num": 470654,
-      "word": "刘海为什么不能叫张海",
-      "onboard_time": 1778730263,
-      "rank": 24,
-      "category": "情感"
+      "raw_hot": 452847,
+      "num": 518718,
+      "word": "中美关系新定位",
+      "onboard_time": 1778741542,
+      "rank": 23,
+      "category": "国际时政"
     },
     {
       "raw_hot": 430217,
@@ -401,6 +489,30 @@
       "onboard_time": 1778675722,
       "rank": 3,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 415318,
+      "num": 499546,
+      "word": "特朗普参观天坛感叹惊艳",
+      "onboard_time": 1778744902,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 406811,
+      "num": 495988,
+      "word": "黄仁勋点赞库克比耶",
+      "onboard_time": 1778742262,
+      "rank": 32,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 403497,
+      "num": 526608,
+      "word": "为什么衣服只喜欢穿一年",
+      "onboard_time": 1778730563,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 391463,
@@ -435,6 +547,14 @@
       "category": "母婴育儿"
     },
     {
+      "raw_hot": 369534,
+      "num": 497329,
+      "word": "吴宣仪成立个人工作室",
+      "onboard_time": 1778743881,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 367989,
       "num": 367989,
       "word": "特朗普说中美关系将会有史以来最好",
@@ -457,6 +577,14 @@
       "onboard_time": 1778734883,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 361553,
+      "num": 485230,
+      "word": "蔡少芬 我有个乖女苏丽珊",
+      "onboard_time": 1778741481,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 352500,
@@ -483,12 +611,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 337332,
-      "num": 337332,
-      "word": "为什么衣服只喜欢穿一年",
-      "onboard_time": 1778730563,
-      "rank": 33,
-      "category": "情感"
+      "raw_hot": 340713,
+      "num": 480214,
+      "word": "爱喝粥和爱喝咖啡的人都沉默了",
+      "onboard_time": 1778744661,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 334869,
@@ -523,14 +651,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 322256,
-      "num": 322256,
-      "word": "金冬天一颗葡萄吃了一分多钟",
-      "onboard_time": 1778734764,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 315097,
       "num": 315097,
       "word": "小狗 快把我的鼻子还给我",
@@ -560,6 +680,14 @@
       "word": "日本盗搬大量中国视频经营人设",
       "onboard_time": 1778729901,
       "rank": 40,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 270270,
+      "num": 454122,
+      "word": "特朗普为中国少年儿童驻足鼓掌",
+      "onboard_time": 1778736862,
+      "rank": 47,
       "category": "国际时政"
     },
     {
@@ -611,6 +739,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 243456,
+      "num": 491934,
+      "word": "网友清迈偶遇周杰伦陪昆凌录中餐厅",
+      "onboard_time": 1778741962,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 241996,
       "num": 241996,
       "word": "武汉大学进校全面放开",
@@ -633,6 +769,14 @@
       "onboard_time": 1778729122,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 239271,
+      "num": 477896,
+      "word": "爸爸当家",
+      "onboard_time": 1778744902,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 238846,
@@ -721,6 +865,14 @@
       "onboard_time": 1778724861,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 204345,
+      "num": 464509,
+      "word": "2028款iPhone",
+      "onboard_time": 1778739142,
+      "rank": 43,
+      "category": "数码"
     },
     {
       "raw_hot": 202383,
@@ -843,6 +995,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 177200,
+      "num": 508679,
+      "word": "刘诗雯世乒赛回国喜提埃安N60",
+      "onboard_time": 1778740522,
+      "rank": 27,
+      "category": "体育,汽车"
+    },
+    {
       "raw_hot": 177007,
       "num": 177007,
       "word": "姜乘澜涨粉超672万",
@@ -883,12 +1043,36 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 158543,
+      "num": 462145,
+      "word": "日系车三巨头卖不动了",
+      "onboard_time": 1778739263,
+      "rank": 44,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 156628,
+      "num": 470414,
+      "word": "雨霖铃 优酷排播",
+      "onboard_time": 1778737522,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 151111,
       "num": 246492,
       "word": "裴总和月亮谈恋爱了",
       "onboard_time": 1778717000,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 146398,
+      "num": 455678,
+      "word": "世界杯",
+      "onboard_time": 1778736082,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 146129,
@@ -971,6 +1155,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 128201,
+      "num": 475645,
+      "word": "贾玲包场给阿嬷的情书",
+      "onboard_time": 1778744241,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
       "raw_hot": 123877,
       "num": 575905,
       "word": "特朗普访华欢迎仪式高清大图",
@@ -1009,6 +1201,14 @@
       "onboard_time": 1778706614,
       "rank": 22,
       "category": "财经"
+    },
+    {
+      "raw_hot": 113286,
+      "num": 521568,
+      "word": "中美元首参观天坛高清大图",
+      "onboard_time": 1778744241,
+      "rank": 20,
+      "category": "国内时政"
     },
     {
       "raw_hot": 108576,
@@ -1123,6 +1323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 62783,
+      "num": 521704,
+      "word": "网友质疑华南理工大学处罚太轻",
+      "onboard_time": 1778743762,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 60706,
       "num": 1669005,
       "word": "6张图看铁路老年旅客淡季周中优惠",
@@ -1155,6 +1363,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 39756,
+      "num": 472809,
+      "word": "武大取消预约是高校该有的格局",
+      "onboard_time": 1778743762,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 37269,
       "num": 51045,
       "word": "肖战一句台词梦回藏海",
@@ -1163,12 +1379,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 35572,
+      "num": 513377,
+      "word": "Jonathan迪奥早春秀亮相洛杉矶",
+      "onboard_time": 1778742442,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 35337,
       "num": 51057,
       "word": "重庆桥下佛头的雕刻者找到了",
       "onboard_time": 1778710574,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 34151,
+      "num": 506067,
+      "word": "日本批量生成AI视频抹黑中国",
+      "onboard_time": 1778744721,
+      "rank": 28,
+      "category": "国内时政"
     },
     {
       "raw_hot": 31997,
@@ -1235,6 +1467,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 19747,
+      "num": 1461209,
+      "word": "这些美方代表在中美元首会谈会场",
+      "onboard_time": 1778744421,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 19422,
       "num": 51011,
       "word": "苏新皓预告发新歌",
@@ -1265,6 +1505,9 @@
     },
     {
       "word": "#习近平举行仪式欢迎特朗普访华#"
+    },
+    {
+      "word": "#习近平同特朗普参观天坛#"
     }
   ]
 }
