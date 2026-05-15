@@ -1,6 +1,6 @@
 {
   "startTime": 1777565126834,
-  "endTime": 1778859437110,
+  "endTime": 1778867315023,
   "band_list": [
     {
       "raw_hot": 25375641,
@@ -12267,6 +12267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 311094,
+      "num": 311094,
+      "word": "周芯竹戛纳红毯",
+      "onboard_time": 1778862139,
+      "rank": 4,
+      "category": "电影"
+    },
+    {
       "raw_hot": 310791,
       "num": 310791,
       "word": "首例汉坦病毒感染者遗孀曾与多人拥抱",
@@ -22851,6 +22859,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 130869,
+      "num": 107342,
+      "word": "当小朋友说要通宵看电视",
+      "onboard_time": 1778860041,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 130813,
       "num": 245760,
       "word": "淘宝半夜上线免单题",
@@ -23129,6 +23145,14 @@
       "onboard_time": 1778515221,
       "rank": 9,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 127585,
+      "num": 127585,
+      "word": "球迷帮孙颖莎在周杰伦演唱会点歌",
+      "onboard_time": 1778861899,
+      "rank": 19,
+      "category": "演出,体育"
     },
     {
       "raw_hot": 127359,
@@ -24763,6 +24787,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 101491,
+      "num": 101491,
+      "word": "Deepseek不语 只是一味跟团",
+      "onboard_time": 1778864418,
+      "rank": 25,
+      "category": "幽默,互联网"
+    },
+    {
       "raw_hot": 101358,
       "num": 101358,
       "word": "国防部称不必大惊小怪过度解读",
@@ -24793,6 +24825,14 @@
       "onboard_time": 1778223980,
       "rank": 47,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 100585,
+      "num": 100585,
+      "word": "刘丹担任白玉兰评委",
+      "onboard_time": 1778863158,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 100479,
@@ -25347,6 +25387,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 89601,
+      "num": 89601,
+      "word": "61岁总裁离婚持股98%分前妻",
+      "onboard_time": 1778860100,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 89489,
       "num": 339068,
       "word": "平台回应演出完退礼服事件",
@@ -25601,6 +25649,14 @@
       "onboard_time": 1778693297,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 83954,
+      "num": 83954,
+      "word": "王濛让尚雯婕教资保住了",
+      "onboard_time": 1778860760,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 83933,
@@ -25931,6 +25987,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 77722,
+      "num": 77722,
+      "word": "奶奶真成档案管理大师了",
+      "onboard_time": 1778865917,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 77687,
       "num": 93749,
       "word": "檀健次为不干扰拍摄把保镖支走",
@@ -26097,6 +26161,14 @@
       "onboard_time": 1778056643,
       "rank": 26,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 75701,
+      "num": 77685,
+      "word": "女子救落水儿童后手机报废无人问津",
+      "onboard_time": 1778864418,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 75520,
@@ -28049,6 +28121,14 @@
       "onboard_time": 1778472081,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 42047,
+      "num": 76965,
+      "word": "上海男篮vs北京男篮",
+      "onboard_time": 1778853262,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 41993,
