@@ -1,6 +1,6 @@
 {
   "startTime": 1777565126834,
-  "endTime": 1778801428134,
+  "endTime": 1778808200275,
   "band_list": [
     {
       "raw_hot": 25375641,
@@ -289,6 +289,14 @@
       "onboard_time": 1778421684,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 3949971,
+      "num": 803293,
+      "word": "方媛回应要住男生单人间",
+      "onboard_time": 1778804060,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 3915607,
@@ -689,6 +697,14 @@
       "onboard_time": 1778769204,
       "rank": 0,
       "category": "数码"
+    },
+    {
+      "raw_hot": 2389578,
+      "num": 449980,
+      "word": "杨威一家六口挤香港40多平租房",
+      "onboard_time": 1778800339,
+      "rank": 10,
+      "category": "体育"
     },
     {
       "raw_hot": 2383489,
@@ -1283,14 +1299,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1691209,
-      "num": 311853,
-      "word": "杨威一家六口挤香港40多平租房",
-      "onboard_time": 1778800339,
-      "rank": 10,
-      "category": "体育"
-    },
-    {
       "raw_hot": 1690747,
       "num": 1690747,
       "word": "八千多的手机拍照也不行啊",
@@ -1793,6 +1801,14 @@
       "onboard_time": 1778066901,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1382835,
+      "num": 1079833,
+      "word": "iPhone17Pro降价2000",
+      "onboard_time": 1778807598,
+      "rank": 1,
+      "category": "数码"
     },
     {
       "raw_hot": 1380444,
@@ -2913,6 +2929,14 @@
       "onboard_time": 1778247202,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 972956,
+      "num": 440546,
+      "word": "榜一大哥花400万追主播连面都没见过",
+      "onboard_time": 1778805380,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 972272,
@@ -4123,6 +4147,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 778632,
+      "num": 285417,
+      "word": "李昀锐孟子义沦为陌路只用了半年",
+      "onboard_time": 1778800458,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 777565,
       "num": 1530130,
       "word": "大时代",
@@ -4241,6 +4273,14 @@
       "onboard_time": 1778322020,
       "rank": 23,
       "category": "议题讨论,体育"
+    },
+    {
+      "raw_hot": 763205,
+      "num": 763205,
+      "word": "甲状腺结节该吃碘盐还是无碘盐",
+      "onboard_time": 1778804541,
+      "rank": 4,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 760821,
@@ -5435,6 +5475,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 632377,
+      "num": 632377,
+      "word": "有的猫一看面相就老实巴交",
+      "onboard_time": 1778770343,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 632327,
       "num": 632327,
       "word": "高敏感人群一生的主线任务",
@@ -5816,6 +5864,14 @@
       "word": "马龙夫妇许昕夫妇同游英国",
       "onboard_time": 1778124140,
       "rank": 12,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 596942,
+      "num": 596942,
+      "word": "法国队公布世界杯26人大名单",
+      "onboard_time": 1778805261,
+      "rank": 7,
       "category": "体育"
     },
     {
@@ -7875,6 +7931,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 462517,
+      "num": 403629,
+      "word": "女子让全家常年食用无碘盐",
+      "onboard_time": 1778783595,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 462232,
       "num": 326599,
       "word": "鹿晗叫李小冉姐姐",
@@ -8049,6 +8113,14 @@
       "onboard_time": 1777978881,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 451321,
+      "num": 451321,
+      "word": "李现看给阿嬷的情书哭得好狼狈",
+      "onboard_time": 1778773402,
+      "rank": 12,
+      "category": "电影"
     },
     {
       "raw_hot": 450031,
@@ -8561,14 +8633,6 @@
       "onboard_time": 1778382920,
       "rank": 15,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 424077,
-      "num": 424077,
-      "word": "有的猫一看面相就老实巴交",
-      "onboard_time": 1778770343,
-      "rank": 36,
-      "category": "幽默"
     },
     {
       "raw_hot": 422537,
@@ -9275,6 +9339,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 388090,
+      "num": 388090,
+      "word": "大唐辟珠记 田曦薇",
+      "onboard_time": 1778801119,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 387546,
       "num": 387546,
       "word": "月薪1.6万放羊已有两对夫妻试岗",
@@ -9513,6 +9585,14 @@
       "onboard_time": 1777618879,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 379448,
+      "num": 310420,
+      "word": "NewJeans更新Haerin近照",
+      "onboard_time": 1778801960,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 378999,
@@ -11387,6 +11467,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 313881,
+      "num": 313881,
+      "word": "巴基斯坦总理将访华",
+      "onboard_time": 1778802440,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 313746,
       "num": 313746,
       "word": "钟丽缇回应女儿被说不单纯",
@@ -11713,14 +11801,6 @@
       "onboard_time": 1777887500,
       "rank": 35,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 302533,
-      "num": 302533,
-      "word": "女子让全家常年食用无碘盐",
-      "onboard_time": 1778783595,
-      "rank": 13,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 302262,
@@ -12811,14 +12891,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 271620,
-      "num": 264336,
-      "word": "李现看给阿嬷的情书哭得好狼狈",
-      "onboard_time": 1778773402,
-      "rank": 12,
-      "category": "电影"
-    },
-    {
       "raw_hot": 271583,
       "num": 271583,
       "word": "代课 交换人生",
@@ -13489,6 +13561,14 @@
       "onboard_time": 1778507245,
       "rank": 22,
       "category": "财经"
+    },
+    {
+      "raw_hot": 255460,
+      "num": 255460,
+      "word": "男生上午被银环蛇咬下午才就医",
+      "onboard_time": 1778803339,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 255310,
@@ -14595,14 +14675,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 234657,
-      "num": 114534,
-      "word": "李昀锐孟子义沦为陌路只用了半年",
-      "onboard_time": 1778800458,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 234621,
       "num": 345020,
       "word": "白鹿跑男开场来了段啦啦操",
@@ -14947,6 +15019,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 227757,
+      "num": 196802,
+      "word": "阚清子吃汉堡发现汉堡皮装反了",
+      "onboard_time": 1778800458,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 227531,
       "num": 196592,
       "word": "时代少年团唱了勇气",
@@ -15187,6 +15267,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 222910,
+      "num": 195554,
+      "word": "机票燃油附加费明天起上调",
+      "onboard_time": 1778806941,
+      "rank": 28,
+      "category": "财经"
+    },
+    {
       "raw_hot": 222381,
       "num": 164620,
       "word": "谢娜晒了和张杰的情侣话筒",
@@ -15201,6 +15289,14 @@
       "onboard_time": 1778335521,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 222350,
+      "num": 193243,
+      "word": "马頔送李纯手搓玫瑰花",
+      "onboard_time": 1778806161,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 222285,
@@ -15249,6 +15345,14 @@
       "onboard_time": 1778124199,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 221568,
+      "num": 190717,
+      "word": "阿嬷的情书票房预计超7亿",
+      "onboard_time": 1778802440,
+      "rank": 33,
+      "category": "电影"
     },
     {
       "raw_hot": 221504,
@@ -16499,6 +16603,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 201050,
+      "num": 192288,
+      "word": "马斯克谈会晤感受",
+      "onboard_time": 1778778018,
+      "rank": 33,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 200962,
       "num": 252079,
       "word": "Jennie 妈咪降临",
@@ -16609,6 +16721,14 @@
       "onboard_time": 1778500880,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 199520,
+      "num": 395571,
+      "word": "AI还原烂梗有多毒",
+      "onboard_time": 1778772922,
+      "rank": 9,
+      "category": "互联网"
     },
     {
       "raw_hot": 199250,
@@ -17283,6 +17403,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 188604,
+      "num": 189616,
+      "word": "压力大的可以看看徐若晗",
+      "onboard_time": 1778805561,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 188403,
       "num": 188403,
       "word": "张真源高音",
@@ -17297,6 +17425,14 @@
       "onboard_time": 1778421081,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 188257,
+      "num": 188898,
+      "word": "新能源车开启涨价潮",
+      "onboard_time": 1778806461,
+      "rank": 35,
+      "category": "汽车"
     },
     {
       "raw_hot": 188149,
@@ -17971,6 +18107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 177583,
+      "num": 188174,
+      "word": "李昀锐别把白鹿扇感冒了",
+      "onboard_time": 1778805800,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 177501,
       "num": 203165,
       "word": "小短腿夏酱",
@@ -18153,6 +18297,14 @@
       "onboard_time": 1778381480,
       "rank": 29,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 175595,
+      "num": 183121,
+      "word": "白鹿演唱会官宣1小时想看近两万",
+      "onboard_time": 1778801840,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 175588,
@@ -18521,6 +18673,14 @@
       "onboard_time": 1777773980,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 172460,
+      "num": 186566,
+      "word": "河南17岁失联男孩遗体已找到",
+      "onboard_time": 1778807660,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 172379,
@@ -19363,6 +19523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 160211,
+      "num": 186454,
+      "word": "歌手2026全民举荐",
+      "onboard_time": 1778800518,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 159916,
       "num": 508166,
       "word": "突然觉得小学老师好厉害",
@@ -19865,6 +20033,14 @@
       "onboard_time": 1777639702,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 153851,
+      "num": 199245,
+      "word": "杨幂中国视协双新工作委员会副会长",
+      "onboard_time": 1778806400,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 153720,
@@ -20619,6 +20795,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 142183,
+      "num": 184208,
+      "word": "复旦大学王德峰教授谈缘起性空",
+      "onboard_time": 1778794934,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 142016,
       "num": 131714,
       "word": "浪姐给黄灿灿准备的问题",
@@ -20987,20 +21171,20 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 136648,
+      "num": 184814,
+      "word": "国际足联官员来京谈判转播权",
+      "onboard_time": 1778800398,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 136574,
       "num": 297169,
       "word": "桃花坞11个新人6个综艺首秀",
       "onboard_time": 1778158823,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 136539,
-      "num": 136539,
-      "word": "马斯克谈会晤感受",
-      "onboard_time": 1778778018,
-      "rank": 33,
-      "category": "国际时政"
     },
     {
       "raw_hot": 136503,
@@ -21105,6 +21289,14 @@
       "onboard_time": 1777556120,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 134714,
+      "num": 180626,
+      "word": "内娱集体宿舍大通铺名场面又来了",
+      "onboard_time": 1778789954,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 134679,
@@ -21467,14 +21659,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 130407,
-      "num": 112432,
-      "word": "阚清子吃汉堡发现汉堡皮装反了",
-      "onboard_time": 1778800458,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 130268,
       "num": 198813,
       "word": "孙杨感谢母亲的强大",
@@ -21795,6 +21979,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 126152,
+      "num": 179615,
+      "word": "杨紫新剧一人一巴掌",
+      "onboard_time": 1778807540,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 125885,
       "num": 140284,
       "word": "法医刘良因家属送梨被告与人串通",
@@ -21995,14 +22187,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 123290,
-      "num": 123290,
-      "word": "复旦大学王德峰教授谈缘起性空",
-      "onboard_time": 1778794934,
-      "rank": 48,
-      "category": "情感"
-    },
-    {
       "raw_hot": 123253,
       "num": 240395,
       "word": "35岁男子反复口腔溃疡查出舌鳞癌",
@@ -22065,6 +22249,14 @@
       "onboard_time": 1777631359,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 122754,
+      "num": 178575,
+      "word": "学生邱某某发虐猫影像被开除学籍",
+      "onboard_time": 1778806520,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 122734,
@@ -22635,6 +22827,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 115226,
+      "num": 176315,
+      "word": "樊振东令欧冠斩获中国媒体突破",
+      "onboard_time": 1778807899,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 114960,
       "num": 114960,
       "word": "配送员买虚拟号薅新人优惠赚70万",
@@ -22777,6 +22977,14 @@
       "onboard_time": 1778585479,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 111591,
+      "num": 175372,
+      "word": "皇马2比0皇家奥维耶多",
+      "onboard_time": 1778807181,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 111578,
@@ -23043,14 +23251,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 106100,
-      "num": 89378,
-      "word": "内娱集体宿舍大通铺名场面又来了",
-      "onboard_time": 1778789954,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 106045,
       "num": 106045,
       "word": "全国多地蛇开始活动了",
@@ -23193,14 +23393,6 @@
       "onboard_time": 1777606399,
       "rank": 25,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 103139,
-      "num": 103139,
-      "word": "国际足联官员来京谈判转播权",
-      "onboard_time": 1778800398,
-      "rank": 25,
-      "category": "体育"
     },
     {
       "raw_hot": 102977,
@@ -24011,14 +24203,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 86621,
-      "num": 395571,
-      "word": "AI还原烂梗有多毒",
-      "onboard_time": 1778772922,
-      "rank": 9,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 86498,
       "num": 217139,
       "word": "郭晶晶陈若琳假期同框热聊",
@@ -24331,14 +24515,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 80101,
-      "num": 80101,
-      "word": "歌手2026全民举荐",
-      "onboard_time": 1778800518,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 79668,
       "num": 265900,
       "word": "打印店回应高中生凌晨外出复印失联",
@@ -24409,6 +24585,14 @@
       "onboard_time": 1778472081,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 78054,
+      "num": 194225,
+      "word": "我被AI短剧盗脸了",
+      "onboard_time": 1778806881,
+      "rank": 30,
+      "category": "作品衍生,互联网"
     },
     {
       "raw_hot": 77867,
@@ -25641,14 +25825,6 @@
       "onboard_time": 1778747841,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 54842,
-      "num": 54842,
-      "word": "大唐辟珠记 田曦薇",
-      "onboard_time": 1778801119,
-      "rank": 44,
-      "category": "剧集"
     },
     {
       "raw_hot": 54732,

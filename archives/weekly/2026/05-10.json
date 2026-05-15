@@ -1,6 +1,6 @@
 {
   "startTime": 1778342585344,
-  "endTime": 1778801428134,
+  "endTime": 1778808200275,
   "band_list": [
     {
       "raw_hot": 20021872,
@@ -129,6 +129,14 @@
       "onboard_time": 1778421684,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 3949971,
+      "num": 803293,
+      "word": "方媛回应要住男生单人间",
+      "onboard_time": 1778804060,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 3784340,
@@ -281,6 +289,14 @@
       "onboard_time": 1778769204,
       "rank": 0,
       "category": "数码"
+    },
+    {
+      "raw_hot": 2389578,
+      "num": 449980,
+      "word": "杨威一家六口挤香港40多平租房",
+      "onboard_time": 1778800339,
+      "rank": 10,
+      "category": "体育"
     },
     {
       "raw_hot": 2302381,
@@ -545,14 +561,6 @@
       "onboard_time": 1778583560,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1691209,
-      "num": 311853,
-      "word": "杨威一家六口挤香港40多平租房",
-      "onboard_time": 1778800339,
-      "rank": 10,
-      "category": "体育"
     },
     {
       "raw_hot": 1686373,
@@ -825,6 +833,14 @@
       "onboard_time": 1778753001,
       "rank": 23,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1382835,
+      "num": 1079833,
+      "word": "iPhone17Pro降价2000",
+      "onboard_time": 1778807598,
+      "rank": 1,
+      "category": "数码"
     },
     {
       "raw_hot": 1374654,
@@ -1216,6 +1232,14 @@
       "word": "江苏税务回应偷拍男生拟录公务员",
       "onboard_time": 1778589740,
       "rank": 13,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 972956,
+      "num": 440546,
+      "word": "榜一大哥花400万追主播连面都没见过",
+      "onboard_time": 1778805380,
+      "rank": 11,
       "category": "民生新闻"
     },
     {
@@ -1691,6 +1715,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 778632,
+      "num": 285417,
+      "word": "李昀锐孟子义沦为陌路只用了半年",
+      "onboard_time": 1778800458,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 775516,
       "num": 548369,
       "word": "黄灿灿瘦了好多",
@@ -1729,6 +1761,14 @@
       "onboard_time": 1778544321,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 763205,
+      "num": 763205,
+      "word": "甲状腺结节该吃碘盐还是无碘盐",
+      "onboard_time": 1778804541,
+      "rank": 4,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 761569,
@@ -2115,6 +2155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 632377,
+      "num": 632377,
+      "word": "有的猫一看面相就老实巴交",
+      "onboard_time": 1778770343,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 632327,
       "num": 632327,
       "word": "高敏感人群一生的主线任务",
@@ -2257,6 +2305,14 @@
       "onboard_time": 1778423063,
       "rank": 9,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 596942,
+      "num": 596942,
+      "word": "法国队公布世界杯26人大名单",
+      "onboard_time": 1778805261,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 591451,
@@ -3083,6 +3139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 462517,
+      "num": 403629,
+      "word": "女子让全家常年食用无碘盐",
+      "onboard_time": 1778783595,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 461745,
       "num": 329099,
       "word": "张凌赫爸妈给他送饭",
@@ -3161,6 +3225,14 @@
       "onboard_time": 1778662640,
       "rank": 21,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 451321,
+      "num": 451321,
+      "word": "李现看给阿嬷的情书哭得好狼狈",
+      "onboard_time": 1778773402,
+      "rank": 12,
+      "category": "电影"
     },
     {
       "raw_hot": 450974,
@@ -3337,14 +3409,6 @@
       "onboard_time": 1778382920,
       "rank": 15,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 424077,
-      "num": 424077,
-      "word": "有的猫一看面相就老实巴交",
-      "onboard_time": 1778770343,
-      "rank": 36,
-      "category": "幽默"
     },
     {
       "raw_hot": 422537,
@@ -3635,6 +3699,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 388090,
+      "num": 388090,
+      "word": "大唐辟珠记 田曦薇",
+      "onboard_time": 1778801119,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 387546,
       "num": 387546,
       "word": "月薪1.6万放羊已有两对夫妻试岗",
@@ -3713,6 +3785,14 @@
       "onboard_time": 1778652441,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 379448,
+      "num": 310420,
+      "word": "NewJeans更新Haerin近照",
+      "onboard_time": 1778801960,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 378670,
@@ -4395,6 +4475,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 313881,
+      "num": 313881,
+      "word": "巴基斯坦总理将访华",
+      "onboard_time": 1778802440,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 312777,
       "num": 379576,
       "word": "中国明星戛纳生图",
@@ -4481,14 +4569,6 @@
       "onboard_time": 1778376320,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 302533,
-      "num": 302533,
-      "word": "女子让全家常年食用无碘盐",
-      "onboard_time": 1778783595,
-      "rank": 13,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 302262,
@@ -4835,14 +4915,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 271620,
-      "num": 264336,
-      "word": "李现看给阿嬷的情书哭得好狼狈",
-      "onboard_time": 1778773402,
-      "rank": 12,
-      "category": "电影"
-    },
-    {
       "raw_hot": 270270,
       "num": 454122,
       "word": "特朗普为中国少年儿童驻足鼓掌",
@@ -5113,6 +5185,14 @@
       "onboard_time": 1778507245,
       "rank": 22,
       "category": "财经"
+    },
+    {
+      "raw_hot": 255460,
+      "num": 255460,
+      "word": "男生上午被银环蛇咬下午才就医",
+      "onboard_time": 1778803339,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 254826,
@@ -5491,14 +5571,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 234657,
-      "num": 114534,
-      "word": "李昀锐孟子义沦为陌路只用了半年",
-      "onboard_time": 1778800458,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 233605,
       "num": 233605,
       "word": "马嘉祺我们生活在南京预告",
@@ -5595,6 +5667,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 227757,
+      "num": 196802,
+      "word": "阚清子吃汉堡发现汉堡皮装反了",
+      "onboard_time": 1778800458,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 227360,
       "num": 227360,
       "word": "向太回应向佐郭碧婷分居两地",
@@ -5667,12 +5747,36 @@
       "category": "财经"
     },
     {
+      "raw_hot": 222910,
+      "num": 195554,
+      "word": "机票燃油附加费明天起上调",
+      "onboard_time": 1778806941,
+      "rank": 28,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 222350,
+      "num": 193243,
+      "word": "马頔送李纯手搓玫瑰花",
+      "onboard_time": 1778806161,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 222285,
       "num": 211394,
       "word": "女子遭8年爱人背叛哭到呼吸碱中毒",
       "onboard_time": 1778343260,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 221568,
+      "num": 190717,
+      "word": "阿嬷的情书票房预计超7亿",
+      "onboard_time": 1778802440,
+      "rank": 33,
+      "category": "电影"
     },
     {
       "raw_hot": 221504,
@@ -6075,6 +6179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 201050,
+      "num": 192288,
+      "word": "马斯克谈会晤感受",
+      "onboard_time": 1778778018,
+      "rank": 33,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 200321,
       "num": 254862,
       "word": "退货女孩演出当天曾说礼服有问题",
@@ -6121,6 +6233,14 @@
       "onboard_time": 1778500880,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 199520,
+      "num": 395571,
+      "word": "AI还原烂梗有多毒",
+      "onboard_time": 1778772922,
+      "rank": 9,
+      "category": "互联网"
     },
     {
       "raw_hot": 199095,
@@ -6363,12 +6483,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 188604,
+      "num": 189616,
+      "word": "压力大的可以看看徐若晗",
+      "onboard_time": 1778805561,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 188388,
       "num": 410511,
       "word": "主角 电影质感",
       "onboard_time": 1778421081,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 188257,
+      "num": 188898,
+      "word": "新能源车开启涨价潮",
+      "onboard_time": 1778806461,
+      "rank": 35,
+      "category": "汽车"
     },
     {
       "raw_hot": 188064,
@@ -6651,6 +6787,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 177583,
+      "num": 188174,
+      "word": "李昀锐别把白鹿扇感冒了",
+      "onboard_time": 1778805800,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 177386,
       "num": 177386,
       "word": "安崎把好多姐姐喝趴下了",
@@ -6729,6 +6873,14 @@
       "onboard_time": 1778381480,
       "rank": 29,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 175595,
+      "num": 183121,
+      "word": "白鹿演唱会官宣1小时想看近两万",
+      "onboard_time": 1778801840,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 175206,
@@ -6865,6 +7017,14 @@
       "onboard_time": 1778335521,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 172460,
+      "num": 186566,
+      "word": "河南17岁失联男孩遗体已找到",
+      "onboard_time": 1778807660,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 172379,
@@ -7163,6 +7323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 160211,
+      "num": 186454,
+      "word": "歌手2026全民举荐",
+      "onboard_time": 1778800518,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 159692,
       "num": 180610,
       "word": "张雪机车820RR暂停生产交付",
@@ -7313,6 +7481,14 @@
       "onboard_time": 1778401339,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 153851,
+      "num": 199245,
+      "word": "杨幂中国视协双新工作委员会副会长",
+      "onboard_time": 1778806400,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 153568,
@@ -7555,6 +7731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 142183,
+      "num": 184208,
+      "word": "复旦大学王德峰教授谈缘起性空",
+      "onboard_time": 1778794934,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 141997,
       "num": 141997,
       "word": "赛力斯维权索赔100万",
@@ -7675,12 +7859,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 136539,
-      "num": 136539,
-      "word": "马斯克谈会晤感受",
-      "onboard_time": 1778778018,
-      "rank": 33,
-      "category": "国际时政"
+      "raw_hot": 136648,
+      "num": 184814,
+      "word": "国际足联官员来京谈判转播权",
+      "onboard_time": 1778800398,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 136339,
@@ -7721,6 +7905,14 @@
       "onboard_time": 1778734823,
       "rank": 21,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 134714,
+      "num": 180626,
+      "word": "内娱集体宿舍大通铺名场面又来了",
+      "onboard_time": 1778789954,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 134679,
@@ -7841,14 +8033,6 @@
       "onboard_time": 1778760682,
       "rank": 39,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 130407,
-      "num": 112432,
-      "word": "阚清子吃汉堡发现汉堡皮装反了",
-      "onboard_time": 1778800458,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 129918,
@@ -7979,6 +8163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 126152,
+      "num": 179615,
+      "word": "杨紫新剧一人一巴掌",
+      "onboard_time": 1778807540,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 125885,
       "num": 140284,
       "word": "法医刘良因家属送梨被告与人串通",
@@ -8027,14 +8219,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 123290,
-      "num": 123290,
-      "word": "复旦大学王德峰教授谈缘起性空",
-      "onboard_time": 1778794934,
-      "rank": 48,
-      "category": "情感"
-    },
-    {
       "raw_hot": 122884,
       "num": 122884,
       "word": "久诚 谁又不释怀谁又不肯原谅呢",
@@ -8049,6 +8233,14 @@
       "onboard_time": 1778458461,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 122754,
+      "num": 178575,
+      "word": "学生邱某某发虐猫影像被开除学籍",
+      "onboard_time": 1778806520,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 122614,
@@ -8179,6 +8371,14 @@
       "category": "体育,汽车"
     },
     {
+      "raw_hot": 115226,
+      "num": 176315,
+      "word": "樊振东令欧冠斩获中国媒体突破",
+      "onboard_time": 1778807899,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 114921,
       "num": 114921,
       "word": "美股存储芯片持续暴涨",
@@ -8225,6 +8425,14 @@
       "onboard_time": 1778585479,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 111591,
+      "num": 175372,
+      "word": "皇马2比0皇家奥维耶多",
+      "onboard_time": 1778807181,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 111350,
@@ -8323,14 +8531,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 106100,
-      "num": 89378,
-      "word": "内娱集体宿舍大通铺名场面又来了",
-      "onboard_time": 1778789954,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 106045,
       "num": 106045,
       "word": "全国多地蛇开始活动了",
@@ -8385,14 +8585,6 @@
       "onboard_time": 1778756661,
       "rank": 27,
       "category": "数码"
-    },
-    {
-      "raw_hot": 103139,
-      "num": 103139,
-      "word": "国际足联官员来京谈判转播权",
-      "onboard_time": 1778800398,
-      "rank": 25,
-      "category": "体育"
     },
     {
       "raw_hot": 102804,
@@ -8667,14 +8859,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 86621,
-      "num": 395571,
-      "word": "AI还原烂梗有多毒",
-      "onboard_time": 1778772922,
-      "rank": 9,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 86425,
       "num": 159091,
       "word": "又一艘邮轮疑似暴发疫情1人死亡",
@@ -8763,14 +8947,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 80101,
-      "num": 80101,
-      "word": "歌手2026全民举荐",
-      "onboard_time": 1778800518,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 79668,
       "num": 265900,
       "word": "打印店回应高中生凌晨外出复印失联",
@@ -8809,6 +8985,14 @@
       "onboard_time": 1778472081,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 78054,
+      "num": 194225,
+      "word": "我被AI短剧盗脸了",
+      "onboard_time": 1778806881,
+      "rank": 30,
+      "category": "作品衍生,互联网"
     },
     {
       "raw_hot": 77547,
@@ -9385,14 +9569,6 @@
       "onboard_time": 1778747841,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 54842,
-      "num": 54842,
-      "word": "大唐辟珠记 田曦薇",
-      "onboard_time": 1778801119,
-      "rank": 44,
-      "category": "剧集"
     },
     {
       "raw_hot": 54304,

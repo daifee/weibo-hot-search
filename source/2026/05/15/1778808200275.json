@@ -1,0 +1,410 @@
+{
+  "runTime": 1778808200275,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 126596,
+        "num": 1260085,
+        "word": "中美领导人致辞",
+        "onboard_time": 1778752343,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1382835,
+        "num": 1079833,
+        "word": "iPhone17Pro降价2000",
+        "onboard_time": 1778807598,
+        "rank": 1,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 77818,
+        "num": 834948,
+        "word": "天坛里的中国古建智慧",
+        "onboard_time": 1778766442,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 3949971,
+        "num": 803293,
+        "word": "方媛回应要住男生单人间",
+        "onboard_time": 1778804060,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 763205,
+        "num": 763205,
+        "word": "甲状腺结节该吃碘盐还是无碘盐",
+        "onboard_time": 1778804541,
+        "rank": 4,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 689018,
+        "num": 689018,
+        "word": "特朗普访华欢迎宴会",
+        "onboard_time": 1778753481,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 632377,
+        "num": 632377,
+        "word": "有的猫一看面相就老实巴交",
+        "onboard_time": 1778770343,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 596942,
+        "num": 596942,
+        "word": "法国队公布世界杯26人大名单",
+        "onboard_time": 1778805261,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 509293,
+        "num": 509293,
+        "word": "国家反诈中心APP 检测AI图",
+        "onboard_time": 1778773042,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 451321,
+        "num": 451321,
+        "word": "李现看给阿嬷的情书哭得好狼狈",
+        "onboard_time": 1778773402,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 2389578,
+        "num": 449980,
+        "word": "杨威一家六口挤香港40多平租房",
+        "onboard_time": 1778800339,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 972956,
+        "num": 440546,
+        "word": "榜一大哥花400万追主播连面都没见过",
+        "onboard_time": 1778805380,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 749560,
+        "num": 429052,
+        "word": "方媛坚持要住男生单人间",
+        "onboard_time": 1778758763,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 578753,
+        "num": 410102,
+        "word": "马斯克回复360度转圈拍人民大会堂",
+        "onboard_time": 1778760263,
+        "rank": 13,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 462517,
+        "num": 403629,
+        "word": "女子让全家常年食用无碘盐",
+        "onboard_time": 1778783595,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 527388,
+        "num": 395347,
+        "word": "马斯克携幼子现身人民大会堂",
+        "onboard_time": 1778756182,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 388090,
+        "num": 388090,
+        "word": "大唐辟珠记 田曦薇",
+        "onboard_time": 1778801119,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 380645,
+        "num": 380645,
+        "word": "泰兰尼斯被曝千元童鞋成本仅37元",
+        "onboard_time": 1778769324,
+        "rank": 17,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 313881,
+        "num": 313881,
+        "word": "巴基斯坦总理将访华",
+        "onboard_time": 1778802440,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 379448,
+        "num": 310420,
+        "word": "NewJeans更新Haerin近照",
+        "onboard_time": 1778801960,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 778632,
+        "num": 285417,
+        "word": "李昀锐孟子义沦为陌路只用了半年",
+        "onboard_time": 1778800458,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 255460,
+        "num": 255460,
+        "word": "男生上午被银环蛇咬下午才就医",
+        "onboard_time": 1778803339,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 265613,
+        "num": 250422,
+        "word": "疑似周也对戛纳火力全开",
+        "onboard_time": 1778773402,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 232546,
+        "num": 232546,
+        "word": "睡前做这个动作30秒连续三天都睡得香",
+        "onboard_time": 1778770403,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 199520,
+        "num": 199520,
+        "word": "AI还原烂梗有多毒",
+        "onboard_time": 1778772922,
+        "rank": 24,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 153851,
+        "num": 199245,
+        "word": "杨幂中国视协双新工作委员会副会长",
+        "onboard_time": 1778806400,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96405,
+        "num": 197848,
+        "word": "曝又一部剧男主跑路",
+        "onboard_time": 1778761702,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 227757,
+        "num": 196802,
+        "word": "阚清子吃汉堡发现汉堡皮装反了",
+        "onboard_time": 1778800458,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 222910,
+        "num": 195554,
+        "word": "机票燃油附加费明天起上调",
+        "onboard_time": 1778806941,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 140282,
+        "num": 194648,
+        "word": "英国乒乓球官方称赞孙颖莎人品和球技",
+        "onboard_time": 1778789533,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 78054,
+        "num": 194225,
+        "word": "我被AI短剧盗脸了",
+        "onboard_time": 1778806881,
+        "rank": 30,
+        "category": "作品衍生,互联网"
+      },
+      {
+        "raw_hot": 222350,
+        "num": 193243,
+        "word": "马頔送李纯手搓玫瑰花",
+        "onboard_time": 1778806161,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201050,
+        "num": 192288,
+        "word": "马斯克谈会晤感受",
+        "onboard_time": 1778778018,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 221568,
+        "num": 190717,
+        "word": "阿嬷的情书票房预计超7亿",
+        "onboard_time": 1778802440,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 188604,
+        "num": 189616,
+        "word": "压力大的可以看看徐若晗",
+        "onboard_time": 1778805561,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188257,
+        "num": 188898,
+        "word": "新能源车开启涨价潮",
+        "onboard_time": 1778806461,
+        "rank": 35,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 177583,
+        "num": 188174,
+        "word": "李昀锐别把白鹿扇感冒了",
+        "onboard_time": 1778805800,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172460,
+        "num": 186566,
+        "word": "河南17岁失联男孩遗体已找到",
+        "onboard_time": 1778807660,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160211,
+        "num": 186454,
+        "word": "歌手2026全民举荐",
+        "onboard_time": 1778800518,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136648,
+        "num": 184814,
+        "word": "国际足联官员来京谈判转播权",
+        "onboard_time": 1778800398,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142183,
+        "num": 184208,
+        "word": "复旦大学王德峰教授谈缘起性空",
+        "onboard_time": 1778794934,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 175595,
+        "num": 183121,
+        "word": "白鹿演唱会官宣1小时想看近两万",
+        "onboard_time": 1778801840,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 141076,
+        "num": 181722,
+        "word": "特朗普说美高法门楣刻孔子无比荣幸",
+        "onboard_time": 1778769743,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 134714,
+        "num": 180626,
+        "word": "内娱集体宿舍大通铺名场面又来了",
+        "onboard_time": 1778789954,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126152,
+        "num": 179615,
+        "word": "杨紫新剧一人一巴掌",
+        "onboard_time": 1778807540,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122754,
+        "num": 178575,
+        "word": "学生邱某某发虐猫影像被开除学籍",
+        "onboard_time": 1778806520,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115567,
+        "num": 177538,
+        "word": "歌手",
+        "onboard_time": 1778772261,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 41059,
+        "num": 177030,
+        "word": "多方回应关闭支付功能后被扣184万",
+        "onboard_time": 1778763322,
+        "rank": 47,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 115226,
+        "num": 176315,
+        "word": "樊振东令欧冠斩获中国媒体突破",
+        "onboard_time": 1778807899,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111591,
+        "num": 175372,
+        "word": "皇马2比0皇家奥维耶多",
+        "onboard_time": 1778807181,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中美元首再会面#"
+    }
+  }
+}
