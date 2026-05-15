@@ -1,6 +1,6 @@
 {
   "startTime": 1777565126834,
-  "endTime": 1778886203032,
+  "endTime": 1778887789779,
   "band_list": [
     {
       "raw_hot": 25375641,
@@ -5275,6 +5275,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 683115,
+      "num": 198859,
+      "word": "流量撑不起演员的底气",
+      "onboard_time": 1778862080,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 682825,
       "num": 721323,
       "word": "宋亚轩哭了",
@@ -5601,6 +5609,14 @@
       "onboard_time": 1778747661,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 653698,
+      "num": 192657,
+      "word": "金价跌麻了",
+      "onboard_time": 1778887577,
+      "rank": 11,
+      "category": "财经"
     },
     {
       "raw_hot": 653695,
@@ -7652,7 +7668,7 @@
     },
     {
       "raw_hot": 503462,
-      "num": 503462,
+      "num": 567858,
       "word": "给阿嬷的情书",
       "onboard_time": 1778312239,
       "rank": 30,
@@ -8555,6 +8571,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 458592,
+      "num": 234086,
+      "word": "新娘回应婚礼没敬酒宾客已散场",
+      "onboard_time": 1778858001,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 458198,
       "num": 261872,
       "word": "曝孟美岐主动放弃公司资源",
@@ -9129,14 +9153,6 @@
       "onboard_time": 1778078963,
       "rank": 22,
       "category": "体育"
-    },
-    {
-      "raw_hot": 425970,
-      "num": 234086,
-      "word": "新娘回应婚礼没敬酒宾客已散场",
-      "onboard_time": 1778858001,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 425887,
@@ -10705,6 +10721,14 @@
       "onboard_time": 1777877423,
       "rank": 6,
       "category": "演出"
+    },
+    {
+      "raw_hot": 360277,
+      "num": 360277,
+      "word": "跑男真夫妻就是甜",
+      "onboard_time": 1778886738,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 359885,
@@ -14729,6 +14753,14 @@
       "onboard_time": 1778455460,
       "rank": 16,
       "category": "财经,艺人"
+    },
+    {
+      "raw_hot": 247983,
+      "num": 247983,
+      "word": "Deepseek不语 只是一味跟团",
+      "onboard_time": 1778864418,
+      "rank": 25,
+      "category": "幽默,互联网"
     },
     {
       "raw_hot": 247897,
@@ -19003,6 +19035,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 179508,
+      "num": 179508,
+      "word": "女子救落水儿童后手机报废无人问津",
+      "onboard_time": 1778864418,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 179420,
       "num": 388685,
       "word": "张本智和说王楚钦实力高出一筹",
@@ -20033,14 +20073,6 @@
       "onboard_time": 1778314999,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 168668,
-      "num": 168668,
-      "word": "Deepseek不语 只是一味跟团",
-      "onboard_time": 1778864418,
-      "rank": 25,
-      "category": "幽默,互联网"
     },
     {
       "raw_hot": 168547,
@@ -21115,14 +21147,6 @@
       "category": "艺人,汽车"
     },
     {
-      "raw_hot": 154313,
-      "num": 154313,
-      "word": "女子救落水儿童后手机报废无人问津",
-      "onboard_time": 1778864418,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 154281,
       "num": 432907,
       "word": "伊朗外长身穿休闲装抵京",
@@ -21625,6 +21649,14 @@
       "onboard_time": 1777799480,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 147418,
+      "num": 147418,
+      "word": "当小朋友说要通宵看电视",
+      "onboard_time": 1778860041,
+      "rank": 23,
+      "category": "幽默"
     },
     {
       "raw_hot": 147358,
@@ -22881,14 +22913,6 @@
       "onboard_time": 1777594638,
       "rank": 49,
       "category": "演出"
-    },
-    {
-      "raw_hot": 130869,
-      "num": 111414,
-      "word": "当小朋友说要通宵看电视",
-      "onboard_time": 1778860041,
-      "rank": 23,
-      "category": "幽默"
     },
     {
       "raw_hot": 130813,
@@ -25323,6 +25347,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 91300,
+      "num": 91300,
+      "word": "上一个被说像京圈佛子的是任嘉伦",
+      "onboard_time": 1778886016,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 91079,
       "num": 241608,
       "word": "哈啰回应员工聚会脚踩青桔美团",
@@ -25905,6 +25937,14 @@
       "onboard_time": 1778154920,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 80405,
+      "num": 80405,
+      "word": "曝小酒窝周扬青去胡彦斌音乐学校上课",
+      "onboard_time": 1778852001,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 80338,
@@ -26603,6 +26643,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 64760,
+      "num": 88508,
+      "word": "王一博郭富城马年春晚海报售后",
+      "onboard_time": 1778886016,
+      "rank": 44,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 64718,
       "num": 144463,
       "word": "奥迪E7X把家装进车里了",
@@ -27147,6 +27195,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 56475,
+      "num": 88630,
+      "word": "业内谈6000万美元拿下世界杯版权",
+      "onboard_time": 1778873354,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 56406,
       "num": 378405,
       "word": "匈牙利站赛道超车难度极高",
@@ -27435,6 +27491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 53257,
+      "num": 88639,
+      "word": "人是在变强的路上逐渐爱上自己的",
+      "onboard_time": 1778870055,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 53147,
       "num": 224957,
       "word": "小猫不知道床被洗了",
@@ -27673,14 +27737,6 @@
       "onboard_time": 1778238440,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 49114,
-      "num": 88691,
-      "word": "上一个被说像京圈佛子的是任嘉伦",
-      "onboard_time": 1778886016,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 48706,
@@ -28051,14 +28107,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 43155,
-      "num": 88639,
-      "word": "人是在变强的路上逐渐爱上自己的",
-      "onboard_time": 1778870055,
-      "rank": 42,
-      "category": "情感"
-    },
-    {
       "raw_hot": 43136,
       "num": 368977,
       "word": "王心凌还是权威",
@@ -28081,14 +28129,6 @@
       "onboard_time": 1778670140,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 42774,
-      "num": 88630,
-      "word": "业内谈6000万美元拿下世界杯版权",
-      "onboard_time": 1778873354,
-      "rank": 35,
-      "category": "体育"
     },
     {
       "raw_hot": 42764,
@@ -28425,6 +28465,14 @@
       "onboard_time": 1778657900,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 38024,
+      "num": 162089,
+      "word": "大车选紫色奇怪吗",
+      "onboard_time": 1778887098,
+      "rank": 18,
+      "category": "汽车"
     },
     {
       "raw_hot": 37889,
@@ -28785,14 +28833,6 @@
       "onboard_time": 1777804160,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 33789,
-      "num": 88508,
-      "word": "王一博郭富城马年春晚海报售后",
-      "onboard_time": 1778886016,
-      "rank": 44,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 33688,
