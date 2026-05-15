@@ -1,6 +1,6 @@
 {
   "startTime": 1778781642218,
-  "endTime": 1778817644026,
+  "endTime": 1778821823117,
   "band_list": [
     {
       "raw_hot": 15057331,
@@ -19,6 +19,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2710736,
+      "num": 1258726,
+      "word": "iPhone18",
+      "onboard_time": 1778816359,
+      "rank": 14,
+      "category": "数码"
+    },
+    {
       "raw_hot": 2389578,
       "num": 449980,
       "word": "杨威一家六口挤香港40多平租房",
@@ -28,11 +36,35 @@
     },
     {
       "raw_hot": 2354357,
-      "num": 495677,
+      "num": 534046,
       "word": "毛利兰声优去世",
       "onboard_time": 1778816300,
       "rank": 11,
       "category": "艺人,动漫"
+    },
+    {
+      "raw_hot": 1846578,
+      "num": 1109327,
+      "word": "支付宝正寻求警方帮助",
+      "onboard_time": 1778817501,
+      "rank": 31,
+      "category": "舆论监督,互联网"
+    },
+    {
+      "raw_hot": 1746220,
+      "num": 1171070,
+      "word": "特朗普抵达中南海",
+      "onboard_time": 1778816300,
+      "rank": 1,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 1389939,
+      "num": 1168109,
+      "word": "头一次见老胞胎",
+      "onboard_time": 1778810841,
+      "rank": 4,
+      "category": "幽默"
     },
     {
       "raw_hot": 1227260,
@@ -43,28 +75,36 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1215874,
-      "num": 1171070,
-      "word": "特朗普抵达中南海",
-      "onboard_time": 1778816300,
-      "rank": 1,
-      "category": "国内时政"
+      "raw_hot": 1197675,
+      "num": 530687,
+      "word": "何猷君奚梦瑶和保镖同桌吃饭",
+      "onboard_time": 1778810841,
+      "rank": 13,
+      "category": "艺人"
     },
     {
-      "raw_hot": 1168109,
-      "num": 1168109,
-      "word": "头一次见老胞胎",
-      "onboard_time": 1778810841,
-      "rank": 4,
-      "category": "幽默"
+      "raw_hot": 1108038,
+      "num": 525897,
+      "word": "老人捡破烂攒6万买床垫与儿子反目",
+      "onboard_time": 1778816720,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1073794,
-      "num": 1171807,
+      "num": 1327692,
       "word": "中美领导人小范围会晤",
       "onboard_time": 1778814441,
       "rank": 0,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1028996,
+      "num": 504472,
+      "word": "库克你的iPhone在北京烫吗",
+      "onboard_time": 1778820024,
+      "rank": 20,
+      "category": "数码"
     },
     {
       "raw_hot": 972956,
@@ -84,7 +124,7 @@
     },
     {
       "raw_hot": 792947,
-      "num": 277006,
+      "num": 501305,
       "word": "黄金",
       "onboard_time": 1778811440,
       "rank": 20,
@@ -92,11 +132,19 @@
     },
     {
       "raw_hot": 778632,
-      "num": 285417,
+      "num": 489302,
       "word": "李昀锐孟子义沦为陌路只用了半年",
       "onboard_time": 1778800458,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 769903,
+      "num": 769903,
+      "word": "原来这么多人拒绝过浪姐",
+      "onboard_time": 1778818520,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 763205,
@@ -124,7 +172,7 @@
     },
     {
       "raw_hot": 699235,
-      "num": 556749,
+      "num": 637244,
       "word": "中美元首达成一系列新共识",
       "onboard_time": 1778814259,
       "rank": 7,
@@ -147,12 +195,36 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 617815,
+      "num": 524762,
+      "word": "徐志胜 情商",
+      "onboard_time": 1778817740,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 602428,
+      "num": 522193,
+      "word": "买iPhone17还是等iPhone18",
+      "onboard_time": 1778816359,
+      "rank": 32,
+      "category": "数码"
+    },
+    {
       "raw_hot": 596942,
       "num": 596942,
       "word": "法国队公布世界杯26人大名单",
       "onboard_time": 1778805261,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 582924,
+      "num": 515621,
+      "word": "iPhone17官宣降价",
+      "onboard_time": 1778819782,
+      "rank": 16,
+      "category": "数码"
     },
     {
       "raw_hot": 578753,
@@ -171,14 +243,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 577242,
-      "num": 465655,
-      "word": "何猷君奚梦瑶和保镖同桌吃饭",
-      "onboard_time": 1778810841,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 576818,
       "num": 521881,
       "word": "国家反诈中心APP 检测AI图",
@@ -195,6 +259,14 @@
       "category": "数码,互联网"
     },
     {
+      "raw_hot": 534174,
+      "num": 534174,
+      "word": "国际足联报价腰斩",
+      "onboard_time": 1778813360,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 527388,
       "num": 395347,
       "word": "马斯克携幼子现身人民大会堂",
@@ -203,12 +275,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 465004,
-      "num": 465004,
-      "word": "iPhone18",
-      "onboard_time": 1778816359,
-      "rank": 14,
-      "category": "数码"
+      "raw_hot": 497114,
+      "num": 473388,
+      "word": "浪姐师姐秀小考推迟",
+      "onboard_time": 1778818221,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 462517,
@@ -236,19 +308,35 @@
     },
     {
       "raw_hot": 418725,
-      "num": 418725,
+      "num": 513947,
       "word": "日文网帖竟炫耀在印尼嫖宿幼女",
       "onboard_time": 1778814680,
       "rank": 15,
       "category": "海外新闻"
     },
     {
-      "raw_hot": 388747,
-      "num": 388747,
+      "raw_hot": 406626,
+      "num": 499788,
       "word": "李乃文杨幂梅婷等19人任副会长",
       "onboard_time": 1778813781,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 401559,
+      "num": 493183,
+      "word": "外交部就特朗普访华答问",
+      "onboard_time": 1778818101,
+      "rank": 24,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 393554,
+      "num": 497671,
+      "word": "方媛女孩子的配得感",
+      "onboard_time": 1778809099,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 388090,
@@ -268,35 +356,27 @@
     },
     {
       "raw_hot": 379448,
-      "num": 310420,
+      "num": 461170,
       "word": "NewJeans更新Haerin近照",
       "onboard_time": 1778801960,
       "rank": 19,
       "category": "艺人"
     },
     {
-      "raw_hot": 373677,
-      "num": 373677,
-      "word": "方媛女孩子的配得感",
-      "onboard_time": 1778809099,
-      "rank": 17,
+      "raw_hot": 338992,
+      "num": 485745,
+      "word": "乘风师姐帮唱小考",
+      "onboard_time": 1778821400,
+      "rank": 27,
       "category": "综艺"
     },
     {
-      "raw_hot": 373395,
-      "num": 532771,
-      "word": "国际足联报价腰斩",
-      "onboard_time": 1778813360,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 334409,
-      "num": 278080,
-      "word": "老人捡破烂攒6万买床垫与儿子反目",
-      "onboard_time": 1778816720,
+      "raw_hot": 336017,
+      "num": 508243,
+      "word": "新来的同事脑子就是好使",
+      "onboard_time": 1778819482,
       "rank": 19,
-      "category": "民生新闻"
+      "category": "情感"
     },
     {
       "raw_hot": 313881,
@@ -316,10 +396,18 @@
     },
     {
       "raw_hot": 287340,
-      "num": 275621,
+      "num": 433252,
       "word": "金莎自曝长针眼了",
       "onboard_time": 1778811561,
       "rank": 21,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 271076,
+      "num": 481274,
+      "word": "歌手回访十季十人",
+      "onboard_time": 1778819661,
+      "rank": 28,
       "category": "综艺"
     },
     {
@@ -339,24 +427,24 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 245395,
-      "num": 260958,
-      "word": "支付宝正寻求警方帮助",
-      "onboard_time": 1778817501,
-      "rank": 31,
-      "category": "舆论监督,互联网"
+      "raw_hot": 248981,
+      "num": 479477,
+      "word": "白鹿李昀锐搭档",
+      "onboard_time": 1778821582,
+      "rank": 29,
+      "category": "综艺"
     },
     {
-      "raw_hot": 240514,
-      "num": 259986,
-      "word": "买iPhone17还是等iPhone18",
-      "onboard_time": 1778816359,
-      "rank": 32,
+      "raw_hot": 243931,
+      "num": 466939,
+      "word": "华为Mate X7直降1000元",
+      "onboard_time": 1778816424,
+      "rank": 34,
       "category": "数码"
     },
     {
-      "raw_hot": 229355,
-      "num": 258955,
+      "raw_hot": 235974,
+      "num": 463764,
       "word": "2工人高空作业1人被推下钢架",
       "onboard_time": 1778815521,
       "rank": 33,
@@ -369,14 +457,6 @@
       "onboard_time": 1778800458,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 225974,
-      "num": 256590,
-      "word": "华为Mate X7直降1000元",
-      "onboard_time": 1778816424,
-      "rank": 34,
-      "category": "数码"
     },
     {
       "raw_hot": 222350,
@@ -403,6 +483,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 214544,
+      "num": 456280,
+      "word": "孙颖莎Tatler亚洲十大体育明星",
+      "onboard_time": 1778818701,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 202598,
       "num": 254194,
       "word": "蔡徐坤首张实体专辑",
@@ -425,6 +513,14 @@
       "onboard_time": 1778772922,
       "rank": 22,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 192824,
+      "num": 423881,
+      "word": "阚清子自荐上歌手",
+      "onboard_time": 1778819782,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 188604,
@@ -484,7 +580,7 @@
     },
     {
       "raw_hot": 171774,
-      "num": 251494,
+      "num": 426045,
       "word": "男子骗养20多只狗供烈犬撕咬被刑拘",
       "onboard_time": 1778814680,
       "rank": 38,
@@ -499,8 +595,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 162422,
-      "num": 246408,
+      "raw_hot": 169381,
+      "num": 435025,
       "word": "姆巴佩曝自己在皇马被排成第四前锋",
       "onboard_time": 1778816481,
       "rank": 42,
@@ -531,6 +627,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 152484,
+      "num": 456020,
+      "word": "浪姐 遛观众",
+      "onboard_time": 1778821639,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 152270,
       "num": 152270,
       "word": "杨紫来到了董竹君的城市",
@@ -555,6 +659,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 143684,
+      "num": 491156,
+      "word": "穆祉丞 舒客",
+      "onboard_time": 1778816901,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 142253,
       "num": 239907,
       "word": "杨紫新剧一人一巴掌",
@@ -569,14 +681,6 @@
       "onboard_time": 1778794934,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 141905,
-      "num": 267855,
-      "word": "穆祉丞 舒客",
-      "onboard_time": 1778816901,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 141213,
@@ -609,6 +713,14 @@
       "onboard_time": 1778789954,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 133371,
+      "num": 469902,
+      "word": "刘诗诗张柏芝同框",
+      "onboard_time": 1778815640,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 127359,
@@ -715,6 +827,14 @@
       "category": "舆论监督,互联网"
     },
     {
+      "raw_hot": 96013,
+      "num": 1192265,
+      "word": "天坛里的对称之美",
+      "onboard_time": 1778812641,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 94691,
       "num": 94691,
       "word": "欢迎宴会上强调了什么",
@@ -739,20 +859,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 85986,
+      "num": 476634,
+      "word": "樊振东说只要心想赢",
+      "onboard_time": 1778817922,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 85182,
       "num": 85182,
       "word": "周也戛纳淡紫色纱裙",
       "onboard_time": 1778762602,
       "rank": 23,
       "category": "电影"
-    },
-    {
-      "raw_hot": 82472,
-      "num": 1168723,
-      "word": "天坛里的对称之美",
-      "onboard_time": 1778812641,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 77818,
@@ -803,6 +923,22 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 71429,
+      "num": 438957,
+      "word": "伊能静秦昊9岁女儿好高",
+      "onboard_time": 1778818042,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 70838,
+      "num": 450036,
+      "word": "韩国赛场大尺度饭拍女啦啦队员身体",
+      "onboard_time": 1778821102,
+      "rank": 40,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 69672,
       "num": 81733,
       "word": "爸爸当家5嘉宾阵容",
@@ -835,6 +971,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 65726,
+      "num": 429606,
+      "word": "易烊千玺与理想L9Livis一起出发",
+      "onboard_time": 1778821639,
+      "rank": 47,
+      "category": "艺人,汽车"
+    },
+    {
       "raw_hot": 65309,
       "num": 81697,
       "word": "台作家称身边台湾朋友都喜欢刘宇宁",
@@ -865,6 +1009,14 @@
       "onboard_time": 1778761042,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 59712,
+      "num": 446513,
+      "word": "沈腾喊你记得加个蛋",
+      "onboard_time": 1778821520,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 59228,
@@ -947,6 +1099,14 @@
       "category": "网红,美妆"
     },
     {
+      "raw_hot": 42380,
+      "num": 452951,
+      "word": "十个勤天十个刀郎",
+      "onboard_time": 1778821520,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 41096,
       "num": 69670,
       "word": "易烊千玺 惊悚片",
@@ -1027,6 +1187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 30474,
+      "num": 439684,
+      "word": "魏大勋掌控不红脸秘密",
+      "onboard_time": 1778818042,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 29456,
       "num": 68052,
       "word": "小鬼新加坡站延期",
@@ -1049,6 +1217,14 @@
       "onboard_time": 1778799678,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 25940,
+      "num": 510580,
+      "word": "对绿皮车吸烟现象说拜拜",
+      "onboard_time": 1778821281,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 24302,
