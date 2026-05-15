@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/05/15 18:34:14
+本榜单时间：2026/01/01 00:35:36 ~ 2026/05/15 18:46:04
 </p>
 </blockquote>
 <p>
@@ -1017,6 +1017,12 @@ JYP从JYP辞职了（热度：4682490）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%866000%E4%B8%87%E7%BE%8E%E5%85%83%E6%8B%BF%E4%B8%8B%E4%B8%96%E7%95%8C%E6%9D%AF%E7%89%88%E6%9D%83%23" target="weibo">
+央视6000万美元拿下世界杯版权（热度：4058296）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A2%81%E6%83%9F%E4%BB%81%E5%8E%BB%E4%B8%96%23" target="weibo">
 袁惟仁去世（热度：4038416）
 </a>
@@ -1187,12 +1193,6 @@ JYP从JYP辞职了（热度：4682490）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%80%90%E7%8E%89%E7%88%B1%E5%A5%87%E8%89%BA%E7%A0%B4%E4%B8%87%23" target="weibo">
 逐玉爱奇艺破万（热度：3639088）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%866000%E4%B8%87%E7%BE%8E%E5%85%83%E6%8B%BF%E4%B8%8B%E4%B8%96%E7%95%8C%E6%9D%AF%E7%89%88%E6%9D%83%23" target="weibo">
-央视6000万美元拿下世界杯版权（热度：3616126）
 </a>
 </li>
 

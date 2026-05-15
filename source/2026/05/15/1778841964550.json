@@ -1,0 +1,410 @@
+{
+  "runTime": 1778841964550,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 14186011,
+        "num": 14186011,
+        "word": "央视已获世界杯转播权",
+        "onboard_time": 1778838680,
+        "rank": 0,
+        "category": "体育,民生新闻"
+      },
+      {
+        "raw_hot": 4058296,
+        "num": 4058296,
+        "word": "央视6000万美元拿下世界杯版权",
+        "onboard_time": 1778839700,
+        "rank": 1,
+        "category": "体育,民生新闻"
+      },
+      {
+        "raw_hot": 44596,
+        "num": 1713745,
+        "word": "跨越太平洋的握手",
+        "onboard_time": 1778830161,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1250106,
+        "num": 1250106,
+        "word": "鹿晗这就是京圈佛子吗",
+        "onboard_time": 1778837479,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1137072,
+        "num": 1137072,
+        "word": "特朗普结束访华",
+        "onboard_time": 1778825241,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 667945,
+        "num": 667945,
+        "word": "央视一次拿下4届世界杯转播权",
+        "onboard_time": 1778841080,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 540443,
+        "num": 540443,
+        "word": "李小冉回应母校玩梗",
+        "onboard_time": 1778835320,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 419437,
+        "num": 419437,
+        "word": "央视感谢全国网友支持",
+        "onboard_time": 1778840901,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 324374,
+        "num": 417921,
+        "word": "容易紧张是缺乏主体性",
+        "onboard_time": 1778830342,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 100694,
+        "num": 408743,
+        "word": "二孩家庭买SUV还是买MPV",
+        "onboard_time": 1778833461,
+        "rank": 9,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 1763497,
+        "num": 403888,
+        "word": "温岚 败血症",
+        "onboard_time": 1778837960,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1037098,
+        "num": 402090,
+        "word": "横店的剧组快灭亡了",
+        "onboard_time": 1778827282,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 861347,
+        "num": 395957,
+        "word": "特朗普说能待得惯可能都不想走了",
+        "onboard_time": 1778827702,
+        "rank": 12,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 814081,
+        "num": 388087,
+        "word": "阿雅视频抄袭",
+        "onboard_time": 1778830942,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 628355,
+        "num": 386184,
+        "word": "孙颖莎正装",
+        "onboard_time": 1778840541,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 600809,
+        "num": 380507,
+        "word": "一只熊吃掉了40磅冰淇淋后昏迷了两天",
+        "onboard_time": 1778833822,
+        "rank": 15,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 140087,
+        "num": 372107,
+        "word": "李想称有人摸着理想过河",
+        "onboard_time": 1778840601,
+        "rank": 16,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 445426,
+        "num": 368193,
+        "word": "白宫发布中国仪仗队画面",
+        "onboard_time": 1778826201,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 680664,
+        "num": 361440,
+        "word": "阿雅回应视频抄袭",
+        "onboard_time": 1778836881,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 359835,
+        "num": 359835,
+        "word": "曝杨幂杨紫白玉兰二选一提名",
+        "onboard_time": 1778828961,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 355641,
+        "num": 355641,
+        "word": "特朗普离京现场的中国军人",
+        "onboard_time": 1778832921,
+        "rank": 20,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 391655,
+        "num": 352974,
+        "word": "蒋毅老婆发文喊话蒋毅赵樱子",
+        "onboard_time": 1778837241,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 380839,
+        "num": 320942,
+        "word": "温岚在ICU接受治疗",
+        "onboard_time": 1778831361,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 280665,
+        "num": 280665,
+        "word": "中美元首边走边谈",
+        "onboard_time": 1778825241,
+        "rank": 23,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 261931,
+        "num": 261931,
+        "word": "黄金",
+        "onboard_time": 1778811440,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 261284,
+        "num": 261284,
+        "word": "李纯让马頔求婚避开音乐节",
+        "onboard_time": 1778834120,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 259053,
+        "num": 259053,
+        "word": "白玉兰评委名单",
+        "onboard_time": 1778831181,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 194837,
+        "num": 240946,
+        "word": "2025年平均工资出炉",
+        "onboard_time": 1778839279,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13693,
+        "num": 240535,
+        "word": "在上海蚊子太多可以打12320",
+        "onboard_time": 1778841741,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 240474,
+        "num": 240474,
+        "word": "方媛说自己18岁就经济独立了",
+        "onboard_time": 1778834481,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 219544,
+        "num": 219544,
+        "word": "中方回应特朗普社媒言论",
+        "onboard_time": 1778841500,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 193942,
+        "num": 193942,
+        "word": "王楚钦正装贵公子造型",
+        "onboard_time": 1778841500,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 182829,
+        "num": 182829,
+        "word": "白鹿掀帘子出场美一大跳",
+        "onboard_time": 1778834060,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164383,
+        "num": 164383,
+        "word": "女子拼死留住的巴掌双胞胎1岁半了",
+        "onboard_time": 1778823081,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162260,
+        "num": 162260,
+        "word": "A股",
+        "onboard_time": 1778825361,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 144547,
+        "num": 144547,
+        "word": "方媛没见过年轻的郭富城",
+        "onboard_time": 1778841801,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143085,
+        "num": 143085,
+        "word": "人生能随机到什么程度",
+        "onboard_time": 1778832379,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 138241,
+        "num": 138241,
+        "word": "特朗普离京",
+        "onboard_time": 1778825663,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 135855,
+        "num": 135855,
+        "word": "张元英无眼妆封面",
+        "onboard_time": 1778828122,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135359,
+        "num": 135359,
+        "word": "男生偷拍女同学私密视频后校内传播",
+        "onboard_time": 1778826682,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134402,
+        "num": 134402,
+        "word": "安崎说把房子卖了",
+        "onboard_time": 1778825481,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 21105,
+        "num": 134246,
+        "word": "北京大叔给美国主播友好喂球",
+        "onboard_time": 1778840482,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134236,
+        "num": 134236,
+        "word": "三笘薫落选日本世界杯大名单",
+        "onboard_time": 1778834360,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 133909,
+        "num": 133909,
+        "word": "金莎上车不化妆不照镜子必在生气",
+        "onboard_time": 1778836761,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133890,
+        "num": 133890,
+        "word": "毛利兰声优去世",
+        "onboard_time": 1778816300,
+        "rank": 44,
+        "category": "艺人,动漫"
+      },
+      {
+        "raw_hot": 132249,
+        "num": 132249,
+        "word": "韩国股市熔断后暴跌7%",
+        "onboard_time": 1778835441,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 69456,
+        "num": 130899,
+        "word": "智界V9首发9大安全黑科技",
+        "onboard_time": 1778836700,
+        "rank": 46,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 130828,
+        "num": 130828,
+        "word": "特朗普说中国军人棒极了",
+        "onboard_time": 1778825241,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 46281,
+        "num": 129340,
+        "word": "智界V9行业首次110时速高速碰撞",
+        "onboard_time": 1778839520,
+        "rank": 48,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 129186,
+        "num": 129186,
+        "word": "曝温岚休克",
+        "onboard_time": 1778831661,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同特朗普小范围会晤#"
+    }
+  }
+}
