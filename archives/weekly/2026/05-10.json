@@ -1,6 +1,6 @@
 {
   "startTime": 1778342585344,
-  "endTime": 1778875286111,
+  "endTime": 1778879602028,
   "band_list": [
     {
       "raw_hot": 20021872,
@@ -11811,6 +11811,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 29818,
+      "num": 29947,
+      "word": "樊振东备战欧冠踩场",
+      "onboard_time": 1778869515,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 29456,
       "num": 68052,
       "word": "小鬼新加坡站延期",
@@ -11857,6 +11865,14 @@
       "onboard_time": 1778670081,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 28222,
+      "num": 30014,
+      "word": "人是在变强的路上逐渐爱上自己的",
+      "onboard_time": 1778870055,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 28191,
@@ -11963,14 +11979,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 26638,
-      "num": 30014,
-      "word": "人是在变强的路上逐渐爱上自己的",
-      "onboard_time": 1778870055,
-      "rank": 42,
-      "category": "情感"
-    },
-    {
       "raw_hot": 26531,
       "num": 37118,
       "word": "姜乘澜更新美妆视频",
@@ -11993,14 +12001,6 @@
       "onboard_time": 1778772503,
       "rank": 40,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 26346,
-      "num": 29947,
-      "word": "樊振东备战欧冠踩场",
-      "onboard_time": 1778869515,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 26280,

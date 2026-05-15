@@ -1,6 +1,6 @@
 {
   "startTime": 1778867315023,
-  "endTime": 1778875286111,
+  "endTime": 1778879602028,
   "band_list": [
     {
       "raw_hot": 592048,
@@ -411,7 +411,15 @@
       "category": "体育"
     },
     {
-      "raw_hot": 26638,
+      "raw_hot": 29818,
+      "num": 29947,
+      "word": "樊振东备战欧冠踩场",
+      "onboard_time": 1778869515,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 28222,
       "num": 30014,
       "word": "人是在变强的路上逐渐爱上自己的",
       "onboard_time": 1778870055,
@@ -419,12 +427,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 26346,
-      "num": 29947,
-      "word": "樊振东备战欧冠踩场",
-      "onboard_time": 1778869515,
-      "rank": 45,
-      "category": "体育"
+      "raw_hot": 18847,
+      "num": 23194,
+      "word": "董宇辉粉丝挤爆京东采销直播间",
+      "onboard_time": 1778850623,
+      "rank": 47,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 16963,
+      "num": 23088,
+      "word": "中国化妆师的工作视频在外网火了",
+      "onboard_time": 1778845161,
+      "rank": 49,
+      "category": "美妆"
     },
     {
       "raw_hot": 14136,
