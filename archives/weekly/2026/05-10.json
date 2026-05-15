@@ -1,6 +1,6 @@
 {
   "startTime": 1778342585344,
-  "endTime": 1778867315023,
+  "endTime": 1778868105667,
   "band_list": [
     {
       "raw_hot": 20021872,
@@ -9907,6 +9907,14 @@
       "category": "作品衍生,互联网"
     },
     {
+      "raw_hot": 103777,
+      "num": 103777,
+      "word": "Deepseek不语 只是一味跟团",
+      "onboard_time": 1778864418,
+      "rank": 25,
+      "category": "幽默,互联网"
+    },
+    {
       "raw_hot": 103648,
       "num": 299062,
       "word": "小米17Max首发搭载徕卡2亿主摄",
@@ -9953,14 +9961,6 @@
       "onboard_time": 1778794154,
       "rank": 24,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 101491,
-      "num": 101491,
-      "word": "Deepseek不语 只是一味跟团",
-      "onboard_time": 1778864418,
-      "rank": 25,
-      "category": "幽默,互联网"
     },
     {
       "raw_hot": 101335,

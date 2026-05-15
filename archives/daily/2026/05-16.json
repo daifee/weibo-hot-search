@@ -1,10 +1,10 @@
 {
   "startTime": 1778867315023,
-  "endTime": 1778867315023,
+  "endTime": 1778868105667,
   "band_list": [
     {
-      "raw_hot": 502453,
-      "num": 502453,
+      "raw_hot": 592048,
+      "num": 592048,
       "word": "建议喜欢熬夜的反复观看",
       "onboard_time": 1778843120,
       "rank": 0,
@@ -195,8 +195,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 101491,
-      "num": 101491,
+      "raw_hot": 103777,
+      "num": 103777,
       "word": "Deepseek不语 只是一味跟团",
       "onboard_time": 1778864418,
       "rank": 25,
@@ -393,6 +393,14 @@
       "onboard_time": 1778853262,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 41463,
+      "num": 63315,
+      "word": "中方回应特朗普社媒言论",
+      "onboard_time": 1778841500,
+      "rank": 49,
+      "category": "国内时政"
     },
     {
       "raw_hot": 14136,
