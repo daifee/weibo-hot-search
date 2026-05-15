@@ -1,6 +1,6 @@
 {
   "startTime": 1778781642218,
-  "endTime": 1778850876835,
+  "endTime": 1778858758282,
   "band_list": [
     {
       "raw_hot": 15057331,
@@ -83,6 +83,14 @@
       "category": "艺人,动漫"
     },
     {
+      "raw_hot": 2135638,
+      "num": 582557,
+      "word": "曝蒋毅离婚",
+      "onboard_time": 1778850382,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1911232,
       "num": 1250106,
       "word": "鹿晗这就是京圈佛子吗",
@@ -97,14 +105,6 @@
       "onboard_time": 1778817501,
       "rank": 31,
       "category": "舆论监督,互联网"
-    },
-    {
-      "raw_hot": 1807132,
-      "num": 582557,
-      "word": "曝蒋毅离婚",
-      "onboard_time": 1778850382,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 1782920,
@@ -139,6 +139,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1426233,
+      "num": 392151,
+      "word": "刘浩存好长好直的腿",
+      "onboard_time": 1778856024,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1389939,
       "num": 1168109,
       "word": "头一次见老胞胎",
@@ -163,11 +171,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1208490,
+      "num": 406093,
+      "word": "王楚钦个人捐款20万",
+      "onboard_time": 1778856502,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1197675,
       "num": 530687,
       "word": "何猷君奚梦瑶和保镖同桌吃饭",
       "onboard_time": 1778810841,
       "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1154060,
+      "num": 389741,
+      "word": "赵樱子回应蒋毅妻子喊话",
+      "onboard_time": 1778853682,
+      "rank": 23,
       "category": "艺人"
     },
     {
@@ -257,6 +281,14 @@
       "onboard_time": 1778837241,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 827590,
+      "num": 827590,
+      "word": "罗永浩怒怼保时捷被抄袭无奈论",
+      "onboard_time": 1778855662,
+      "rank": 4,
+      "category": "互联网"
     },
     {
       "raw_hot": 818871,
@@ -371,6 +403,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 695098,
+      "num": 1111215,
+      "word": "中美元首会晤情况和共识",
+      "onboard_time": 1778854762,
+      "rank": 0,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 689018,
       "num": 689018,
       "word": "特朗普访华欢迎宴会",
@@ -387,12 +427,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 684181,
+      "num": 684181,
+      "word": "我记得教师以前是份体面工作啊",
+      "onboard_time": 1778852723,
+      "rank": 7,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 665912,
       "num": 665912,
       "word": "iPhone一年一换比三年一换更省钱",
       "onboard_time": 1778845161,
       "rank": 6,
       "category": "数码"
+    },
+    {
+      "raw_hot": 640893,
+      "num": 661466,
+      "word": "黄仁勋库克发声",
+      "onboard_time": 1778847321,
+      "rank": 26,
+      "category": "国际时政"
     },
     {
       "raw_hot": 637019,
@@ -513,6 +569,14 @@
       "onboard_time": 1778817261,
       "rank": 6,
       "category": "数码,互联网"
+    },
+    {
+      "raw_hot": 539935,
+      "num": 388051,
+      "word": "原来表达能力是这么练出来的",
+      "onboard_time": 1778852424,
+      "rank": 24,
+      "category": "教育"
     },
     {
       "raw_hot": 534174,
@@ -707,6 +771,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 386105,
+      "num": 386105,
+      "word": "给阿嬷的情书",
+      "onboard_time": 1778856741,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 381234,
       "num": 417921,
       "word": "容易紧张是缺乏主体性",
@@ -771,6 +843,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 324458,
+      "num": 324458,
+      "word": "女子从174斤减到95斤判若两人",
+      "onboard_time": 1778858362,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 320644,
+      "num": 404832,
+      "word": "国际足联回应央视世界杯版权费",
+      "onboard_time": 1778848881,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 319954,
       "num": 413014,
       "word": "毛巾家族",
@@ -803,28 +891,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 304420,
-      "num": 404832,
-      "word": "国际足联回应央视世界杯版权费",
-      "onboard_time": 1778848881,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 301180,
-      "num": 661466,
-      "word": "黄仁勋库克发声",
-      "onboard_time": 1778847321,
-      "rank": 26,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 289190,
       "num": 289190,
       "word": "宝莲舞美",
       "onboard_time": 1778849301,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 287727,
+      "num": 287727,
+      "word": "方媛掉粉",
+      "onboard_time": 1778853862,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 287340,
@@ -865,6 +945,14 @@
       "onboard_time": 1778819661,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 270804,
+      "num": 256544,
+      "word": "21世纪大君夫人",
+      "onboard_time": 1778851462,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 261284,
@@ -931,6 +1019,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 236577,
+      "num": 236577,
+      "word": "金鹰奖投票",
+      "onboard_time": 1778853981,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 235974,
       "num": 463764,
       "word": "2工人高空作业1人被推下钢架",
@@ -945,6 +1041,14 @@
       "onboard_time": 1778841500,
       "rank": 30,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 231896,
+      "num": 231896,
+      "word": "毛巾少爷曾说父亲爷爷不愿其接班",
+      "onboard_time": 1778853742,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 229966,
@@ -1003,12 +1107,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 216912,
-      "num": 216912,
+      "raw_hot": 217073,
+      "num": 217073,
       "word": "鹿晗剃头出现人传人现象",
       "onboard_time": 1778845941,
       "rank": 37,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 216550,
+      "num": 326536,
+      "word": "巨力索具被证监会立案",
+      "onboard_time": 1778855002,
+      "rank": 29,
+      "category": "财经,民生新闻"
     },
     {
       "raw_hot": 216516,
@@ -1059,6 +1171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 207700,
+      "num": 207700,
+      "word": "迪丽热巴直播生图",
+      "onboard_time": 1778858542,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 206566,
       "num": 206566,
       "word": "张凌赫被保镖大哥淹没了",
@@ -1081,6 +1201,22 @@
       "onboard_time": 1778842760,
       "rank": 32,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 203930,
+      "num": 396949,
+      "word": "乐道L80价格一步到位夯爆了",
+      "onboard_time": 1778855721,
+      "rank": 17,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 203768,
+      "num": 203768,
+      "word": "新娘回应婚礼没敬酒宾客已散场",
+      "onboard_time": 1778858001,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 202762,
@@ -1161,6 +1297,14 @@
       "onboard_time": 1778834060,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 181624,
+      "num": 181624,
+      "word": "张雪机车夺得超级杆位赛第三名",
+      "onboard_time": 1778857101,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 179140,
@@ -1619,6 +1763,14 @@
       "category": "作品衍生,互联网"
     },
     {
+      "raw_hot": 103574,
+      "num": 192838,
+      "word": "中美元首互动相处近9小时",
+      "onboard_time": 1778855782,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 101697,
       "num": 101697,
       "word": "王一博天高海阔获评年度优秀歌曲",
@@ -1689,6 +1841,14 @@
       "onboard_time": 1778829321,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 83075,
+      "num": 394154,
+      "word": "精心筹备婚礼还没敬酒宾客已散场",
+      "onboard_time": 1778857641,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 80607,
@@ -2163,6 +2323,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 17128,
+      "num": 220254,
+      "word": "杨梅商贩辩称未用添加剂现场遭打脸",
+      "onboard_time": 1778857702,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 17114,
       "num": 138807,
       "word": "山东1天2家山姆门店开业",
@@ -2193,6 +2361,14 @@
       "onboard_time": 1778800698,
       "rank": 19,
       "category": "数码"
+    },
+    {
+      "raw_hot": 9227,
+      "num": 329038,
+      "word": "李川锤锤乐道发布会硬控李斌",
+      "onboard_time": 1778855721,
+      "rank": 28,
+      "category": "艺人,汽车"
     }
   ],
   "hotgov_list": [
