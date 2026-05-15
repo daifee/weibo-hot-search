@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/05/15 16:23:40
+本榜单时间：2026/01/01 00:35:36 ~ 2026/05/15 18:34:14
 </p>
 </blockquote>
 <p>
@@ -173,6 +173,12 @@ iPhone17Pro降价2000（热度：15057331）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9E%A0%E5%A9%A7%E7%A5%8E%E8%A2%AB%E5%AE%9E%E5%90%8D%E4%B8%BE%E6%8A%A5%E5%81%B7%E7%A8%8E%E6%BC%8F%E7%A8%8E%23" target="weibo">
 鞠婧祎被实名举报偷税漏税（热度：14644675）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E5%B7%B2%E8%8E%B7%E4%B8%96%E7%95%8C%E6%9D%AF%E8%BD%AC%E6%92%AD%E6%9D%83%23" target="weibo">
+央视已获世界杯转播权（热度：14529170）
 </a>
 </li>
 
@@ -1185,6 +1191,12 @@ JYP从JYP辞职了（热度：4682490）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%866000%E4%B8%87%E7%BE%8E%E5%85%83%E6%8B%BF%E4%B8%8B%E4%B8%96%E7%95%8C%E6%9D%AF%E7%89%88%E6%9D%83%23" target="weibo">
+央视6000万美元拿下世界杯版权（热度：3616126）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23U23%E7%94%B7%E8%B6%B3%E6%99%8B%E7%BA%A7%E5%9B%9B%E5%BC%BA%23" target="weibo">
 U23男足晋级四强（热度：3580894）
 </a>
@@ -1799,18 +1811,6 @@ Asen回应Sakee（热度：2704539）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6vs%E6%9D%BE%E5%B2%9B%E8%BE%89%E7%A9%BA%23" target="weibo">
 王楚钦vs松岛辉空（热度：2702500）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%A7%8D%E5%9C%B0%E5%90%A74%E5%BC%80%E5%B7%A5%E7%9B%B4%E6%92%AD%23" target="weibo">
-种地吧4开工直播（热度：2702084）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%AD%A6%E7%94%9F%E5%AE%B6%E4%B8%AD%E8%87%AA%E6%9D%80%E7%95%99%E4%B8%8B%E9%81%97%E4%B9%A6%23" target="weibo">
-小学生家中自杀留下遗书（热度：2692974）
 </a>
 </li>
 

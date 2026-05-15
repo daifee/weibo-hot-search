@@ -1,6 +1,6 @@
 {
   "startTime": 1778342585344,
-  "endTime": 1778833420123,
+  "endTime": 1778841254303,
   "band_list": [
     {
       "raw_hot": 20021872,
@@ -33,6 +33,14 @@
       "onboard_time": 1778502381,
       "rank": 22,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 14529170,
+      "num": 14529170,
+      "word": "央视已获世界杯转播权",
+      "onboard_time": 1778838680,
+      "rank": 0,
+      "category": "体育,民生新闻"
     },
     {
       "raw_hot": 14490517,
@@ -179,6 +187,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 3616126,
+      "num": 3616126,
+      "word": "央视6000万美元拿下世界杯版权",
+      "onboard_time": 1778839700,
+      "rank": 1,
+      "category": "体育,民生新闻"
+    },
+    {
       "raw_hot": 3569584,
       "num": 3569584,
       "word": "安慕希 百万撤离",
@@ -273,6 +289,14 @@
       "onboard_time": 1778816359,
       "rank": 14,
       "category": "数码"
+    },
+    {
+      "raw_hot": 2645601,
+      "num": 272575,
+      "word": "温岚 败血症",
+      "onboard_time": 1778837960,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 2619846,
@@ -1299,6 +1323,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 1028980,
+      "num": 1028980,
+      "word": "鹿晗这就是京圈佛子吗",
+      "onboard_time": 1778837479,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1023639,
       "num": 1023639,
       "word": "蒜苔拼豆",
@@ -1627,6 +1659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 863201,
+      "num": 540428,
+      "word": "特朗普说能待得惯可能都不想走了",
+      "onboard_time": 1778827702,
+      "rank": 12,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 858845,
       "num": 392331,
       "word": "曝又一部剧男主跑路",
@@ -1801,14 +1841,6 @@
       "onboard_time": 1778665342,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 797069,
-      "num": 540428,
-      "word": "特朗普说能待得惯可能都不想走了",
-      "onboard_time": 1778827702,
-      "rank": 12,
-      "category": "国内时政"
     },
     {
       "raw_hot": 792947,
@@ -2107,6 +2139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 709899,
+      "num": 264844,
+      "word": "阿雅回应视频抄袭",
+      "onboard_time": 1778836881,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 705588,
       "num": 545348,
       "word": "马立奥妹妹早产",
@@ -2121,6 +2161,14 @@
       "onboard_time": 1778659160,
       "rank": 4,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 699437,
+      "num": 268662,
+      "word": "一只熊吃掉了40磅冰淇淋后昏迷了两天",
+      "onboard_time": 1778833822,
+      "rank": 14,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 699235,
@@ -2384,6 +2432,14 @@
       "word": "王俊凯出发录中餐厅路透",
       "onboard_time": 1778487561,
       "rank": 16,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 628908,
+      "num": 628908,
+      "word": "李小冉回应母校玩梗",
+      "onboard_time": 1778835320,
+      "rank": 5,
       "category": "综艺"
     },
     {
@@ -3747,6 +3803,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 415874,
+      "num": 265981,
+      "word": "孙颖莎正装",
+      "onboard_time": 1778840541,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 412767,
       "num": 329199,
       "word": "20岁女子生5斤多女儿才知怀孕",
@@ -3761,6 +3825,14 @@
       "onboard_time": 1778769324,
       "rank": 7,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 412377,
+      "num": 337855,
+      "word": "特朗普离京现场的中国军人",
+      "onboard_time": 1778832921,
+      "rank": 20,
+      "category": "国内时政"
     },
     {
       "raw_hot": 412204,
@@ -4185,6 +4257,14 @@
       "onboard_time": 1778402119,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 369751,
+      "num": 262592,
+      "word": "蒋毅老婆发文喊话蒋毅赵樱子",
+      "onboard_time": 1778837241,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 368341,
@@ -5579,12 +5659,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 259415,
+      "num": 259415,
+      "word": "方媛说自己18岁就经济独立了",
+      "onboard_time": 1778834481,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 257775,
       "num": 304162,
       "word": "王楚钦被夸得不好意思了",
       "onboard_time": 1778761223,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 256418,
+      "num": 256418,
+      "word": "李纯让马頔求婚避开音乐节",
+      "onboard_time": 1778834120,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 256377,
@@ -6499,6 +6595,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 212114,
+      "num": 212114,
+      "word": "2025年平均工资出炉",
+      "onboard_time": 1778839279,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 212075,
       "num": 212601,
       "word": "原来这才是有效的控糖方式",
@@ -6560,6 +6664,14 @@
       "word": "雷霆4比0湖人",
       "onboard_time": 1778563822,
       "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 208656,
+      "num": 208656,
+      "word": "央视感谢全国网友支持",
+      "onboard_time": 1778840901,
+      "rank": 27,
       "category": "体育"
     },
     {
@@ -7001,6 +7113,14 @@
       "onboard_time": 1778509462,
       "rank": 16,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 189789,
+      "num": 189789,
+      "word": "央视一次拿下4届世界杯转播权",
+      "onboard_time": 1778841080,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 189780,
@@ -7459,6 +7579,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 175325,
+      "num": 175325,
+      "word": "白鹿掀帘子出场美一大跳",
+      "onboard_time": 1778834060,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 175206,
       "num": 289244,
       "word": "aespa出席婚礼现场表演",
@@ -7875,6 +8003,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 163942,
+      "num": 189910,
+      "word": "李想称有人摸着理想过河",
+      "onboard_time": 1778840601,
+      "rank": 29,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 162540,
       "num": 155449,
       "word": "95花扎堆开演唱会",
@@ -8203,6 +8339,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 150375,
+      "num": 150375,
+      "word": "三笘薫落选日本世界杯大名单",
+      "onboard_time": 1778834360,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 150121,
+      "num": 150121,
+      "word": "张怡宁为梯队建设选择退役",
+      "onboard_time": 1778835202,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 150046,
       "num": 243972,
       "word": "田曦薇唯一爱奇艺三破万女主",
@@ -8241,6 +8393,14 @@
       "onboard_time": 1778673141,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 148305,
+      "num": 148305,
+      "word": "韩国股市熔断后暴跌7%",
+      "onboard_time": 1778835441,
+      "rank": 37,
+      "category": "财经"
     },
     {
       "raw_hot": 148233,
@@ -8835,6 +8995,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 127110,
+      "num": 127110,
+      "word": "金莎上车不化妆不照镜子必在生气",
+      "onboard_time": 1778836761,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 126536,
       "num": 123575,
       "word": "网传最终版歌手2026阵容",
@@ -8857,6 +9025,14 @@
       "onboard_time": 1778505742,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 124732,
+      "num": 127391,
+      "word": "孙颖莎正装气质绝了",
+      "onboard_time": 1778839821,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 124450,
@@ -9243,6 +9419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 105764,
+      "num": 273191,
+      "word": "二孩家庭买SUV还是买MPV",
+      "onboard_time": 1778833461,
+      "rank": 9,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 105183,
       "num": 133821,
       "word": "杭州一街道被多品牌拉黑",
@@ -9400,14 +9584,6 @@
       "word": "天坛里的对称之美",
       "onboard_time": 1778812641,
       "rank": 2,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 95481,
-      "num": 337855,
-      "word": "特朗普离京现场的中国军人",
-      "onboard_time": 1778832921,
-      "rank": 20,
       "category": "国内时政"
     },
     {
@@ -9689,6 +9865,14 @@
       "onboard_time": 1778591361,
       "rank": 39,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 80607,
+      "num": 139055,
+      "word": "智界V9首发9大安全黑科技",
+      "onboard_time": 1778836700,
+      "rank": 40,
+      "category": "汽车"
     },
     {
       "raw_hot": 79668,
@@ -10337,6 +10521,14 @@
       "onboard_time": 1778345239,
       "rank": 44,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 55514,
+      "num": 127706,
+      "word": "智界V9行业首次110时速高速碰撞",
+      "onboard_time": 1778839520,
+      "rank": 47,
+      "category": "汽车"
     },
     {
       "raw_hot": 55037,
@@ -11499,6 +11691,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 17114,
+      "num": 138807,
+      "word": "山东1天2家山姆门店开业",
+      "onboard_time": 1778840423,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 17112,
       "num": 1784036,
       "word": "天舟十号货运飞船发射任务全回顾",
@@ -11600,6 +11800,14 @@
       "word": "北漂独居青年每月花5000给猫续命",
       "onboard_time": 1778771303,
       "rank": 40,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 14406,
+      "num": 261331,
+      "word": "北京大叔给美国主播友好喂球",
+      "onboard_time": 1778840482,
+      "rank": 21,
       "category": "民生新闻"
     },
     {

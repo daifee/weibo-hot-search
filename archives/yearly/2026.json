@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1778833420123,
+  "endTime": 1778841254303,
   "band_list": [
     {
       "raw_hot": 46860992,
@@ -217,6 +217,14 @@
       "onboard_time": 1774920861,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 14529170,
+      "num": 14529170,
+      "word": "央视已获世界杯转播权",
+      "onboard_time": 1778838680,
+      "rank": 0,
+      "category": "体育,民生新闻"
     },
     {
       "raw_hot": 14514114,
@@ -1563,6 +1571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 3616126,
+      "num": 3616126,
+      "word": "央视6000万美元拿下世界杯版权",
+      "onboard_time": 1778839700,
+      "rank": 1,
+      "category": "体育,民生新闻"
+    },
+    {
       "raw_hot": 3580894,
       "num": 4661789,
       "word": "U23男足晋级四强",
@@ -2385,22 +2401,6 @@
       "onboard_time": 1773490882,
       "rank": 1,
       "category": "体育"
-    },
-    {
-      "raw_hot": 2702084,
-      "num": 2702084,
-      "word": "种地吧4开工直播",
-      "onboard_time": 1772507064,
-      "rank": 0,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 2692974,
-      "num": 383407,
-      "word": "小学生家中自杀留下遗书",
-      "onboard_time": 1768188080,
-      "rank": 10,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [

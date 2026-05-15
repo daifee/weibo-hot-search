@@ -1,6 +1,6 @@
 {
   "startTime": 1778781642218,
-  "endTime": 1778833420123,
+  "endTime": 1778841254303,
   "band_list": [
     {
       "raw_hot": 15057331,
@@ -9,6 +9,14 @@
       "onboard_time": 1778807598,
       "rank": 1,
       "category": "数码"
+    },
+    {
+      "raw_hot": 14529170,
+      "num": 14529170,
+      "word": "央视已获世界杯转播权",
+      "onboard_time": 1778838680,
+      "rank": 0,
+      "category": "体育,民生新闻"
     },
     {
       "raw_hot": 14490517,
@@ -27,12 +35,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 3616126,
+      "num": 3616126,
+      "word": "央视6000万美元拿下世界杯版权",
+      "onboard_time": 1778839700,
+      "rank": 1,
+      "category": "体育,民生新闻"
+    },
+    {
       "raw_hot": 2710736,
       "num": 1258726,
       "word": "iPhone18",
       "onboard_time": 1778816359,
       "rank": 14,
       "category": "数码"
+    },
+    {
+      "raw_hot": 2645601,
+      "num": 272575,
+      "word": "温岚 败血症",
+      "onboard_time": 1778837960,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 2528212,
@@ -139,6 +163,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 1028980,
+      "num": 1028980,
+      "word": "鹿晗这就是京圈佛子吗",
+      "onboard_time": 1778837479,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 974893,
       "num": 585018,
       "word": "孙怡裤子穿反了",
@@ -155,20 +187,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 863201,
+      "num": 540428,
+      "word": "特朗普说能待得惯可能都不想走了",
+      "onboard_time": 1778827702,
+      "rank": 12,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 818871,
       "num": 233126,
       "word": "徐志胜疯狂暗示方媛不太方便",
       "onboard_time": 1778761941,
       "rank": 10,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 797069,
-      "num": 540428,
-      "word": "特朗普说能待得惯可能都不想走了",
-      "onboard_time": 1778827702,
-      "rank": 12,
-      "category": "国内时政"
     },
     {
       "raw_hot": 792947,
@@ -243,6 +275,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 709899,
+      "num": 264844,
+      "word": "阿雅回应视频抄袭",
+      "onboard_time": 1778836881,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 699437,
+      "num": 268662,
+      "word": "一只熊吃掉了40磅冰淇淋后昏迷了两天",
+      "onboard_time": 1778833822,
+      "rank": 14,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 699235,
       "num": 637244,
       "word": "中美元首达成一系列新共识",
@@ -273,6 +321,14 @@
       "onboard_time": 1778770343,
       "rank": 6,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 628908,
+      "num": 628908,
+      "word": "李小冉回应母校玩梗",
+      "onboard_time": 1778835320,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 619871,
@@ -451,6 +507,22 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 415874,
+      "num": 265981,
+      "word": "孙颖莎正装",
+      "onboard_time": 1778840541,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 412377,
+      "num": 337855,
+      "word": "特朗普离京现场的中国军人",
+      "onboard_time": 1778832921,
+      "rank": 20,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 407645,
       "num": 407645,
       "word": "安崎说把房子卖了",
@@ -520,6 +592,14 @@
       "word": "NewJeans更新Haerin近照",
       "onboard_time": 1778801960,
       "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 369751,
+      "num": 262592,
+      "word": "蒋毅老婆发文喊话蒋毅赵樱子",
+      "onboard_time": 1778837241,
+      "rank": 20,
       "category": "艺人"
     },
     {
@@ -625,6 +705,22 @@
       "onboard_time": 1778770403,
       "rank": 20,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 259415,
+      "num": 259415,
+      "word": "方媛说自己18岁就经济独立了",
+      "onboard_time": 1778834481,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 256418,
+      "num": 256418,
+      "word": "李纯让马頔求婚避开音乐节",
+      "onboard_time": 1778834120,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 255460,
@@ -755,6 +851,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 212114,
+      "num": 212114,
+      "word": "2025年平均工资出炉",
+      "onboard_time": 1778839279,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 208656,
+      "num": 208656,
+      "word": "央视感谢全国网友支持",
+      "onboard_time": 1778840901,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 208303,
       "num": 208303,
       "word": "男生偷拍女同学私密视频后校内传播",
@@ -803,6 +915,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 189789,
+      "num": 189789,
+      "word": "央视一次拿下4届世界杯转播权",
+      "onboard_time": 1778841080,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 188604,
       "num": 189616,
       "word": "压力大的可以看看徐若晗",
@@ -849,6 +969,14 @@
       "onboard_time": 1778801840,
       "rank": 41,
       "category": "演出"
+    },
+    {
+      "raw_hot": 175325,
+      "num": 175325,
+      "word": "白鹿掀帘子出场美一大跳",
+      "onboard_time": 1778834060,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 173399,
@@ -915,6 +1043,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 163942,
+      "num": 189910,
+      "word": "李想称有人摸着理想过河",
+      "onboard_time": 1778840601,
+      "rank": 29,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 160211,
       "num": 186454,
       "word": "歌手2026全民举荐",
@@ -963,12 +1099,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 150375,
+      "num": 150375,
+      "word": "三笘薫落选日本世界杯大名单",
+      "onboard_time": 1778834360,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 150121,
+      "num": 150121,
+      "word": "张怡宁为梯队建设选择退役",
+      "onboard_time": 1778835202,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 150046,
       "num": 243972,
       "word": "田曦薇唯一爱奇艺三破万女主",
       "onboard_time": 1778812940,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 148305,
+      "num": 148305,
+      "word": "韩国股市熔断后暴跌7%",
+      "onboard_time": 1778835441,
+      "rank": 37,
+      "category": "财经"
     },
     {
       "raw_hot": 143684,
@@ -1059,12 +1219,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 127110,
+      "num": 127110,
+      "word": "金莎上车不化妆不照镜子必在生气",
+      "onboard_time": 1778836761,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 125886,
       "num": 369413,
       "word": "狗狗陪跑帮女生成功打破校记录",
       "onboard_time": 1778830280,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 124732,
+      "num": 127391,
+      "word": "孙颖莎正装气质绝了",
+      "onboard_time": 1778839821,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 123857,
@@ -1155,6 +1331,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 105764,
+      "num": 273191,
+      "word": "二孩家庭买SUV还是买MPV",
+      "onboard_time": 1778833461,
+      "rank": 9,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 103818,
       "num": 249483,
       "word": "我被AI短剧盗脸了",
@@ -1184,14 +1368,6 @@
       "word": "天坛里的对称之美",
       "onboard_time": 1778812641,
       "rank": 2,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 95481,
-      "num": 337855,
-      "word": "特朗普离京现场的中国军人",
-      "onboard_time": 1778832921,
-      "rank": 20,
       "category": "国内时政"
     },
     {
@@ -1241,6 +1417,14 @@
       "onboard_time": 1778829321,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 80607,
+      "num": 139055,
+      "word": "智界V9首发9大安全黑科技",
+      "onboard_time": 1778836700,
+      "rank": 40,
+      "category": "汽车"
     },
     {
       "raw_hot": 77818,
@@ -1409,6 +1593,14 @@
       "onboard_time": 1778774241,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 55514,
+      "num": 127706,
+      "word": "智界V9行业首次110时速高速碰撞",
+      "onboard_time": 1778839520,
+      "rank": 47,
+      "category": "汽车"
     },
     {
       "raw_hot": 53889,
@@ -1649,6 +1841,22 @@
       "onboard_time": 1778784915,
       "rank": 42,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 17114,
+      "num": 138807,
+      "word": "山东1天2家山姆门店开业",
+      "onboard_time": 1778840423,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 14406,
+      "num": 261331,
+      "word": "北京大叔给美国主播友好喂球",
+      "onboard_time": 1778840482,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 13608,
