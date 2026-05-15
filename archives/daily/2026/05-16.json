@@ -1,6 +1,6 @@
 {
   "startTime": 1778867315023,
-  "endTime": 1778880951700,
+  "endTime": 1778886203032,
   "band_list": [
     {
       "raw_hot": 592048,
@@ -19,6 +19,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 425970,
+      "num": 187280,
+      "word": "新娘回应婚礼没敬酒宾客已散场",
+      "onboard_time": 1778858001,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 418083,
+      "num": 418083,
+      "word": "原来是过敏啊还以为脂肪在燃烧",
+      "onboard_time": 1778847202,
+      "rank": 5,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 395394,
       "num": 395394,
       "word": "特朗普说能待得惯可能都不想走了",
@@ -35,8 +51,16 @@
       "category": "体育,民生新闻"
     },
     {
+      "raw_hot": 330241,
+      "num": 330241,
+      "word": "我记得教师以前是份体面工作啊",
+      "onboard_time": 1778852723,
+      "rank": 15,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 317955,
-      "num": 317955,
+      "num": 439058,
       "word": "给阿嬷的情书",
       "onboard_time": 1778856741,
       "rank": 3,
@@ -51,16 +75,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 290290,
-      "num": 290290,
-      "word": "原来是过敏啊还以为脂肪在燃烧",
-      "onboard_time": 1778847202,
-      "rank": 5,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 244089,
-      "num": 244089,
+      "num": 601795,
       "word": "中美元首会晤情况和共识",
       "onboard_time": 1778854762,
       "rank": 6,
@@ -99,14 +115,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 222085,
-      "num": 187280,
-      "word": "新娘回应婚礼没敬酒宾客已散场",
-      "onboard_time": 1778858001,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 207426,
       "num": 207426,
       "word": "央视感谢全国网友支持",
@@ -124,7 +132,7 @@
     },
     {
       "raw_hot": 198856,
-      "num": 117122,
+      "num": 117742,
       "word": "原来表达能力是这么练出来的",
       "onboard_time": 1778852424,
       "rank": 21,
@@ -132,19 +140,27 @@
     },
     {
       "raw_hot": 192666,
-      "num": 111232,
+      "num": 117700,
       "word": "女子从174斤减到95斤判若两人",
       "onboard_time": 1778858362,
       "rank": 22,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 185107,
-      "num": 185107,
-      "word": "我记得教师以前是份体面工作啊",
-      "onboard_time": 1778852723,
-      "rank": 15,
-      "category": "幽默"
+      "raw_hot": 170876,
+      "num": 170876,
+      "word": "球迷帮孙颖莎在周杰伦演唱会点歌",
+      "onboard_time": 1778861899,
+      "rank": 19,
+      "category": "演出,体育"
+    },
+    {
+      "raw_hot": 168668,
+      "num": 168668,
+      "word": "Deepseek不语 只是一味跟团",
+      "onboard_time": 1778864418,
+      "rank": 25,
+      "category": "幽默,互联网"
     },
     {
       "raw_hot": 164458,
@@ -171,20 +187,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 154313,
+      "num": 154313,
+      "word": "女子救落水儿童后手机报废无人问津",
+      "onboard_time": 1778864418,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 130869,
-      "num": 107342,
+      "num": 111414,
       "word": "当小朋友说要通宵看电视",
       "onboard_time": 1778860041,
       "rank": 23,
       "category": "幽默"
     },
     {
-      "raw_hot": 127585,
-      "num": 127585,
-      "word": "球迷帮孙颖莎在周杰伦演唱会点歌",
-      "onboard_time": 1778861899,
-      "rank": 19,
-      "category": "演出,体育"
+      "raw_hot": 125746,
+      "num": 125746,
+      "word": "奶奶真成档案管理大师了",
+      "onboard_time": 1778865917,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 124715,
+      "num": 124715,
+      "word": "国际足联回应央视世界杯版权费",
+      "onboard_time": 1778848881,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 105146,
@@ -193,14 +225,6 @@
       "onboard_time": 1778848941,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 103777,
-      "num": 103777,
-      "word": "Deepseek不语 只是一味跟团",
-      "onboard_time": 1778864418,
-      "rank": 25,
-      "category": "幽默,互联网"
     },
     {
       "raw_hot": 100585,
@@ -228,7 +252,7 @@
     },
     {
       "raw_hot": 85079,
-      "num": 85079,
+      "num": 88745,
       "word": "21世纪大君夫人",
       "onboard_time": 1778851462,
       "rank": 29,
@@ -236,7 +260,7 @@
     },
     {
       "raw_hot": 83954,
-      "num": 83954,
+      "num": 88726,
       "word": "王濛让尚雯婕教资保住了",
       "onboard_time": 1778860760,
       "rank": 30,
@@ -244,43 +268,19 @@
     },
     {
       "raw_hot": 81649,
-      "num": 81649,
+      "num": 88476,
       "word": "奔跑吧",
       "onboard_time": 1778849903,
       "rank": 31,
       "category": "综艺"
     },
     {
-      "raw_hot": 80117,
-      "num": 80117,
-      "word": "国际足联回应央视世界杯版权费",
-      "onboard_time": 1778848881,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
       "raw_hot": 78560,
-      "num": 78560,
+      "num": 88600,
       "word": "孙颖莎王楚钦登上杂志封面",
       "onboard_time": 1778850082,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 77722,
-      "num": 77722,
-      "word": "奶奶真成档案管理大师了",
-      "onboard_time": 1778865917,
-      "rank": 34,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 75701,
-      "num": 77685,
-      "word": "女子救落水儿童后手机报废无人问津",
-      "onboard_time": 1778864418,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 74637,
@@ -299,6 +299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 72846,
+      "num": 167771,
+      "word": "央视已获世界杯转播权",
+      "onboard_time": 1778838680,
+      "rank": 47,
+      "category": "体育,民生新闻"
+    },
+    {
       "raw_hot": 70047,
       "num": 77555,
       "word": "金鹰奖",
@@ -308,7 +316,7 @@
     },
     {
       "raw_hot": 67621,
-      "num": 77498,
+      "num": 88707,
       "word": "巨力索具被证监会立案",
       "onboard_time": 1778855002,
       "rank": 39,
@@ -324,7 +332,7 @@
     },
     {
       "raw_hot": 65958,
-      "num": 77351,
+      "num": 88664,
       "word": "毛巾家族",
       "onboard_time": 1778846900,
       "rank": 41,
@@ -332,7 +340,7 @@
     },
     {
       "raw_hot": 64064,
-      "num": 77314,
+      "num": 88623,
       "word": "孙颖莎正装",
       "onboard_time": 1778840541,
       "rank": 42,
@@ -348,7 +356,7 @@
     },
     {
       "raw_hot": 60234,
-      "num": 77232,
+      "num": 88437,
       "word": "主角",
       "onboard_time": 1778846661,
       "rank": 44,
@@ -356,7 +364,7 @@
     },
     {
       "raw_hot": 59857,
-      "num": 77142,
+      "num": 88554,
       "word": "特朗普结束访华",
       "onboard_time": 1778825241,
       "rank": 45,
@@ -364,19 +372,19 @@
     },
     {
       "raw_hot": 59061,
-      "num": 77105,
+      "num": 88688,
       "word": "白玉兰",
       "onboard_time": 1778847441,
       "rank": 46,
       "category": "剧集"
     },
     {
-      "raw_hot": 56007,
-      "num": 77033,
-      "word": "央视已获世界杯转播权",
-      "onboard_time": 1778838680,
-      "rank": 47,
-      "category": "体育,民生新闻"
+      "raw_hot": 49114,
+      "num": 88691,
+      "word": "上一个被说像京圈佛子的是任嘉伦",
+      "onboard_time": 1778886016,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 47110,
@@ -385,6 +393,30 @@
       "onboard_time": 1778857101,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 43155,
+      "num": 88639,
+      "word": "人是在变强的路上逐渐爱上自己的",
+      "onboard_time": 1778870055,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 42774,
+      "num": 88630,
+      "word": "业内谈6000万美元拿下世界杯版权",
+      "onboard_time": 1778873354,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 42297,
+      "num": 162888,
+      "word": "中国化妆师的工作视频在外网火了",
+      "onboard_time": 1778845161,
+      "rank": 49,
+      "category": "美妆"
     },
     {
       "raw_hot": 42047,
@@ -396,55 +428,55 @@
     },
     {
       "raw_hot": 41463,
-      "num": 63315,
+      "num": 88493,
       "word": "中方回应特朗普社媒言论",
       "onboard_time": 1778841500,
       "rank": 49,
       "category": "国内时政"
     },
     {
-      "raw_hot": 31088,
-      "num": 31088,
-      "word": "业内谈6000万美元拿下世界杯版权",
-      "onboard_time": 1778873354,
-      "rank": 35,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 29818,
-      "num": 29947,
+      "raw_hot": 35603,
+      "num": 88531,
       "word": "樊振东备战欧冠踩场",
       "onboard_time": 1778869515,
       "rank": 45,
       "category": "体育"
     },
     {
-      "raw_hot": 28751,
-      "num": 30014,
-      "word": "人是在变强的路上逐渐爱上自己的",
-      "onboard_time": 1778870055,
-      "rank": 42,
-      "category": "情感"
+      "raw_hot": 34971,
+      "num": 88519,
+      "word": "锤娜丽莎李川也逃不过蒜薹",
+      "onboard_time": 1778886016,
+      "rank": 43,
+      "category": "艺人"
     },
     {
-      "raw_hot": 28325,
-      "num": 28325,
+      "raw_hot": 33789,
+      "num": 88508,
+      "word": "王一博郭富城马年春晚海报售后",
+      "onboard_time": 1778886016,
+      "rank": 44,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 30755,
+      "num": 88460,
       "word": "董宇辉粉丝挤爆京东采销直播间",
       "onboard_time": 1778850623,
       "rank": 47,
       "category": "互联网"
     },
     {
-      "raw_hot": 20036,
-      "num": 23604,
-      "word": "中国化妆师的工作视频在外网火了",
-      "onboard_time": 1778845161,
-      "rank": 49,
-      "category": "美妆"
+      "raw_hot": 21313,
+      "num": 88462,
+      "word": "芯片股再度重挫",
+      "onboard_time": 1778886016,
+      "rank": 47,
+      "category": "财经"
     },
     {
-      "raw_hot": 14136,
-      "num": 325414,
+      "raw_hot": 20108,
+      "num": 418721,
       "word": "天坛的文化与建筑之美",
       "onboard_time": 1778848162,
       "rank": 2,
