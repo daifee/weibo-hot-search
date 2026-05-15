@@ -1,0 +1,410 @@
+{
+  "runTime": 1778880951700,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 149040,
+        "num": 180530,
+        "word": "建议喜欢熬夜的反复观看",
+        "onboard_time": 1778843120,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 124631,
+        "num": 127612,
+        "word": "原来是过敏啊还以为脂肪在燃烧",
+        "onboard_time": 1778847202,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 9506,
+        "num": 101568,
+        "word": "天坛的文化与建筑之美",
+        "onboard_time": 1778848162,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 98047,
+        "num": 98047,
+        "word": "中美元首会晤情况和共识",
+        "onboard_time": 1778854762,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 81790,
+        "num": 81790,
+        "word": "Deepseek不语 只是一味跟团",
+        "onboard_time": 1778864418,
+        "rank": 4,
+        "category": "幽默,互联网"
+      },
+      {
+        "raw_hot": 77628,
+        "num": 77628,
+        "word": "我记得教师以前是份体面工作啊",
+        "onboard_time": 1778852723,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 64297,
+        "num": 64297,
+        "word": "奶奶真成档案管理大师了",
+        "onboard_time": 1778865917,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 52942,
+        "num": 52942,
+        "word": "球迷帮孙颖莎在周杰伦演唱会点歌",
+        "onboard_time": 1778861899,
+        "rank": 7,
+        "category": "演出,体育"
+      },
+      {
+        "raw_hot": 51214,
+        "num": 51214,
+        "word": "刘丹担任白玉兰评委",
+        "onboard_time": 1778863158,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 38076,
+        "num": 38076,
+        "word": "内娱歌手集体发文感谢洪涛",
+        "onboard_time": 1778844740,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145245,
+        "num": 37999,
+        "word": "新娘回应婚礼没敬酒宾客已散场",
+        "onboard_time": 1778858001,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96199,
+        "num": 37819,
+        "word": "央视6000万美元拿下世界杯版权",
+        "onboard_time": 1778839700,
+        "rank": 11,
+        "category": "体育,民生新闻"
+      },
+      {
+        "raw_hot": 89284,
+        "num": 37746,
+        "word": "鹿晗这就是京圈佛子吗",
+        "onboard_time": 1778837479,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 79393,
+        "num": 37519,
+        "word": "毛巾少爷曾说父亲爷爷不愿其接班",
+        "onboard_time": 1778853742,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37435,
+        "num": 37435,
+        "word": "给阿嬷的情书",
+        "onboard_time": 1778856741,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 74971,
+        "num": 36718,
+        "word": "特朗普说能待得惯可能都不想走了",
+        "onboard_time": 1778827702,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 57176,
+        "num": 36407,
+        "word": "央视感谢全国网友支持",
+        "onboard_time": 1778840901,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 51814,
+        "num": 36240,
+        "word": "王楚钦个人捐款20万",
+        "onboard_time": 1778856502,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 35991,
+        "num": 35991,
+        "word": "黄仁勋库克发声",
+        "onboard_time": 1778847321,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 34086,
+        "num": 34086,
+        "word": "女子救落水儿童后手机报废无人问津",
+        "onboard_time": 1778864418,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 67752,
+        "num": 33737,
+        "word": "女子从174斤减到95斤判若两人",
+        "onboard_time": 1778858362,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 58719,
+        "num": 33660,
+        "word": "原来表达能力是这么练出来的",
+        "onboard_time": 1778852424,
+        "rank": 21,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 52771,
+        "num": 33139,
+        "word": "iPhone一年一换比三年一换更省钱",
+        "onboard_time": 1778845161,
+        "rank": 22,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 45940,
+        "num": 32718,
+        "word": "当小朋友说要通宵看电视",
+        "onboard_time": 1778860041,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 32670,
+        "num": 32670,
+        "word": "周芯竹戛纳红毯",
+        "onboard_time": 1778862139,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 32232,
+        "num": 32232,
+        "word": "中方回应特朗普社媒言论",
+        "onboard_time": 1778841500,
+        "rank": 25,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 31769,
+        "num": 31769,
+        "word": "主角",
+        "onboard_time": 1778846661,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 30911,
+        "num": 30911,
+        "word": "国际足联回应央视世界杯版权费",
+        "onboard_time": 1778848881,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 30716,
+        "num": 30716,
+        "word": "21世纪大君夫人",
+        "onboard_time": 1778851462,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 30401,
+        "num": 30401,
+        "word": "央视已获世界杯转播权",
+        "onboard_time": 1778838680,
+        "rank": 29,
+        "category": "体育,民生新闻"
+      },
+      {
+        "raw_hot": 28751,
+        "num": 28751,
+        "word": "人是在变强的路上逐渐爱上自己的",
+        "onboard_time": 1778870055,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 28325,
+        "num": 28325,
+        "word": "董宇辉粉丝挤爆京东采销直播间",
+        "onboard_time": 1778850623,
+        "rank": 31,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 28278,
+        "num": 28278,
+        "word": "王濛让尚雯婕教资保住了",
+        "onboard_time": 1778860760,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 28065,
+        "num": 28065,
+        "word": "樊振东备战欧冠踩场",
+        "onboard_time": 1778869515,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 25961,
+        "num": 25961,
+        "word": "毛巾家族",
+        "onboard_time": 1778846900,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25958,
+        "num": 25958,
+        "word": "奔跑吧",
+        "onboard_time": 1778849903,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 24662,
+        "num": 24662,
+        "word": "白玉兰",
+        "onboard_time": 1778847441,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 24370,
+        "num": 24370,
+        "word": "金鹰奖投票",
+        "onboard_time": 1778853981,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 24185,
+        "num": 24185,
+        "word": "业内谈6000万美元拿下世界杯版权",
+        "onboard_time": 1778873354,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 23851,
+        "num": 23851,
+        "word": "清华大学1名博士被退学",
+        "onboard_time": 1778842941,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23024,
+        "num": 23846,
+        "word": "特朗普结束访华",
+        "onboard_time": 1778825241,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 21924,
+        "num": 23807,
+        "word": "巨力索具被证监会立案",
+        "onboard_time": 1778855002,
+        "rank": 41,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 20856,
+        "num": 23772,
+        "word": "孙颖莎王楚钦登上杂志封面",
+        "onboard_time": 1778850082,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 20771,
+        "num": 23702,
+        "word": "61岁总裁离婚持股98%分前妻",
+        "onboard_time": 1778860100,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20531,
+        "num": 23668,
+        "word": "歌手",
+        "onboard_time": 1778845100,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 20325,
+        "num": 23633,
+        "word": "方媛没见过年轻的郭富城",
+        "onboard_time": 1778841801,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 20036,
+        "num": 23604,
+        "word": "中国化妆师的工作视频在外网火了",
+        "onboard_time": 1778845161,
+        "rank": 46,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 18833,
+        "num": 23585,
+        "word": "金鹰奖",
+        "onboard_time": 1778843001,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 18751,
+        "num": 23512,
+        "word": "罗永浩怒怼保时捷被抄袭无奈论",
+        "onboard_time": 1778855662,
+        "rank": 48,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 17567,
+        "num": 23481,
+        "word": "恩新cp",
+        "onboard_time": 1778862139,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#中美元首中南海小范围会晤高清大图#"
+    }
+  }
+}

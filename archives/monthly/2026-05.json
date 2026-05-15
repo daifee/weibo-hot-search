@@ -1,6 +1,6 @@
 {
   "startTime": 1777565126834,
-  "endTime": 1778879602028,
+  "endTime": 1778880951700,
   "band_list": [
     {
       "raw_hot": 25375641,
@@ -29227,6 +29227,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 28751,
+      "num": 30014,
+      "word": "人是在变强的路上逐渐爱上自己的",
+      "onboard_time": 1778870055,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 28729,
       "num": 663340,
       "word": "网警发布五一AI防骗指南",
@@ -29257,14 +29265,6 @@
       "onboard_time": 1778670081,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 28222,
-      "num": 30014,
-      "word": "人是在变强的路上逐渐爱上自己的",
-      "onboard_time": 1778870055,
-      "rank": 42,
-      "category": "情感"
     },
     {
       "raw_hot": 28191,
