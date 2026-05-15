@@ -1,6 +1,6 @@
 {
   "startTime": 1778781642218,
-  "endTime": 1778841964550,
+  "endTime": 1778850076245,
   "band_list": [
     {
       "raw_hot": 15057331,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 2645601,
-      "num": 403888,
+      "num": 504734,
       "word": "温岚 败血症",
       "onboard_time": 1778837960,
       "rank": 10,
@@ -91,6 +91,14 @@
       "category": "舆论监督,互联网"
     },
     {
+      "raw_hot": 1816553,
+      "num": 1250106,
+      "word": "鹿晗这就是京圈佛子吗",
+      "onboard_time": 1778837479,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1746220,
       "num": 1171070,
       "word": "特朗普抵达中南海",
@@ -115,6 +123,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1512629,
+      "num": 1512629,
+      "word": "央视感谢全国网友支持",
+      "onboard_time": 1778840901,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1389939,
       "num": 1168109,
       "word": "头一次见老胞胎",
@@ -123,12 +139,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 1250106,
-      "num": 1250106,
-      "word": "鹿晗这就是京圈佛子吗",
-      "onboard_time": 1778837479,
-      "rank": 4,
-      "category": "综艺"
+      "raw_hot": 1348302,
+      "num": 667945,
+      "word": "央视一次拿下4届世界杯转播权",
+      "onboard_time": 1778841080,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 1227260,
@@ -171,6 +187,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 976699,
+      "num": 976699,
+      "word": "建议喜欢熬夜的反复观看",
+      "onboard_time": 1778843120,
+      "rank": 3,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 974893,
       "num": 585018,
       "word": "孙怡裤子穿反了",
@@ -187,12 +211,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 863201,
-      "num": 540428,
+      "raw_hot": 924470,
+      "num": 495440,
+      "word": "迪丽热巴冰淇淋掉衣服上",
+      "onboard_time": 1778844023,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 923997,
+      "num": 923997,
       "word": "特朗普说能待得惯可能都不想走了",
       "onboard_time": 1778827702,
       "rank": 12,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 823732,
+      "num": 420271,
+      "word": "蒋毅老婆发文喊话蒋毅赵樱子",
+      "onboard_time": 1778837241,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 818871,
@@ -201,6 +241,14 @@
       "onboard_time": 1778761941,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 805287,
+      "num": 805287,
+      "word": "中国化妆师的工作视频在外网火了",
+      "onboard_time": 1778845161,
+      "rank": 5,
+      "category": "美妆"
     },
     {
       "raw_hot": 792947,
@@ -284,7 +332,7 @@
     },
     {
       "raw_hot": 699437,
-      "num": 380507,
+      "num": 431598,
       "word": "一只熊吃掉了40磅冰淇淋后昏迷了两天",
       "onboard_time": 1778833822,
       "rank": 14,
@@ -307,12 +355,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 667945,
-      "num": 667945,
-      "word": "央视一次拿下4届世界杯转播权",
-      "onboard_time": 1778841080,
-      "rank": 30,
+      "raw_hot": 677072,
+      "num": 499760,
+      "word": "孙颖莎正装",
+      "onboard_time": 1778840541,
+      "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 665912,
+      "num": 665912,
+      "word": "iPhone一年一换比三年一换更省钱",
+      "onboard_time": 1778845161,
+      "rank": 6,
+      "category": "数码"
     },
     {
       "raw_hot": 637019,
@@ -339,14 +395,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 628355,
-      "num": 386184,
-      "word": "孙颖莎正装",
-      "onboard_time": 1778840541,
-      "rank": 17,
-      "category": "体育"
-    },
-    {
       "raw_hot": 619871,
       "num": 367888,
       "word": "温岚在ICU接受治疗",
@@ -361,6 +409,14 @@
       "onboard_time": 1778817740,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 612326,
+      "num": 612326,
+      "word": "原来是过敏啊还以为脂肪在燃烧",
+      "onboard_time": 1778847202,
+      "rank": 7,
+      "category": "幽默"
     },
     {
       "raw_hot": 602428,
@@ -419,6 +475,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 575233,
+      "num": 575233,
+      "word": "曝歌手2026首场9进7",
+      "onboard_time": 1778848941,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 568527,
       "num": 340075,
       "word": "曝温岚休克",
@@ -443,6 +507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 528213,
+      "num": 486542,
+      "word": "清华大学1名博士被退学",
+      "onboard_time": 1778842941,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 527388,
       "num": 395347,
       "word": "马斯克携幼子现身人民大会堂",
@@ -457,6 +529,14 @@
       "onboard_time": 1778826201,
       "rank": 18,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 518399,
+      "num": 518399,
+      "word": "白玉兰",
+      "onboard_time": 1778847441,
+      "rank": 9,
+      "category": "剧集"
     },
     {
       "raw_hot": 504887,
@@ -481,6 +561,14 @@
       "onboard_time": 1778831181,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 482638,
+      "num": 482638,
+      "word": "内娱歌手集体发文感谢洪涛",
+      "onboard_time": 1778844740,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 472102,
@@ -515,12 +603,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 419437,
-      "num": 419437,
-      "word": "央视感谢全国网友支持",
-      "onboard_time": 1778840901,
-      "rank": 27,
-      "category": "体育"
+      "raw_hot": 419550,
+      "num": 419550,
+      "word": "歌手",
+      "onboard_time": 1778772261,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 418725,
@@ -537,6 +625,14 @@
       "onboard_time": 1778832921,
       "rank": 20,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 409929,
+      "num": 409929,
+      "word": "金鹰奖",
+      "onboard_time": 1778843001,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 407645,
@@ -569,14 +665,6 @@
       "onboard_time": 1778809099,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 391655,
-      "num": 352974,
-      "word": "蒋毅老婆发文喊话蒋毅赵樱子",
-      "onboard_time": 1778837241,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 388090,
@@ -617,6 +705,14 @@
       "onboard_time": 1778801960,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 373032,
+      "num": 373032,
+      "word": "方媛没见过年轻的郭富城",
+      "onboard_time": 1778841801,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 367297,
@@ -673,6 +769,14 @@
       "onboard_time": 1778806941,
       "rank": 28,
       "category": "财经"
+    },
+    {
+      "raw_hot": 298072,
+      "num": 413014,
+      "word": "毛巾家族",
+      "onboard_time": 1778846900,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 287340,
@@ -739,6 +843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 257341,
+      "num": 257341,
+      "word": "宝莲舞美",
+      "onboard_time": 1778849301,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 255460,
       "num": 255460,
       "word": "男生上午被银环蛇咬下午才就医",
@@ -771,6 +883,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 241537,
+      "num": 337758,
+      "word": "黄仁勋库克发声",
+      "onboard_time": 1778847321,
+      "rank": 26,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 236694,
       "num": 275535,
       "word": "张元英无眼妆封面",
@@ -785,6 +905,14 @@
       "onboard_time": 1778815521,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 230526,
+      "num": 230526,
+      "word": "国际足联回应央视世界杯版权费",
+      "onboard_time": 1778848881,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 229966,
@@ -899,6 +1027,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 204048,
+      "num": 204048,
+      "word": "TF四代coverTXT",
+      "onboard_time": 1778842760,
+      "rank": 32,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 202762,
+      "num": 192988,
+      "word": "周涛回应不上春晚",
+      "onboard_time": 1778844440,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 202598,
       "num": 254194,
       "word": "蔡徐坤首张实体专辑",
@@ -923,6 +1067,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 197527,
+      "num": 197527,
+      "word": "广州暴雨5名小哥狂奔救起摔倒小孩",
+      "onboard_time": 1778847680,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 193942,
       "num": 193942,
       "word": "王楚钦正装贵公子造型",
@@ -939,6 +1091,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 191840,
+      "num": 184989,
+      "word": "鹿晗剃头出现人传人现象",
+      "onboard_time": 1778845941,
+      "rank": 37,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 188604,
       "num": 189616,
       "word": "压力大的可以看看徐若晗",
@@ -953,6 +1113,14 @@
       "onboard_time": 1778806461,
       "rank": 35,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 185075,
+      "num": 185075,
+      "word": "日本送给普京的秋田犬去世",
+      "onboard_time": 1778848521,
+      "rank": 36,
+      "category": "国际时政"
     },
     {
       "raw_hot": 182829,
@@ -993,6 +1161,14 @@
       "onboard_time": 1778801840,
       "rank": 41,
       "category": "演出"
+    },
+    {
+      "raw_hot": 175249,
+      "num": 175249,
+      "word": "主角",
+      "onboard_time": 1778846661,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 173399,
@@ -1059,12 +1235,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 165878,
+      "num": 165878,
+      "word": "奔跑吧",
+      "onboard_time": 1778849903,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 163942,
       "num": 372107,
       "word": "李想称有人摸着理想过河",
       "onboard_time": 1778840601,
       "rank": 29,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 163908,
+      "num": 163908,
+      "word": "世界杯转播权降价原因",
+      "onboard_time": 1778844920,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 160211,
@@ -1091,6 +1283,14 @@
       "category": "艺人,汽车"
     },
     {
+      "raw_hot": 153928,
+      "num": 153928,
+      "word": "白鹿丞磊跑男合体",
+      "onboard_time": 1778847982,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 153851,
       "num": 199245,
       "word": "杨幂中国视协双新工作委员会副会长",
@@ -1107,12 +1307,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 151719,
-      "num": 244140,
-      "word": "歌手",
-      "onboard_time": 1778772261,
-      "rank": 17,
-      "category": "综艺"
+      "raw_hot": 151090,
+      "num": 151090,
+      "word": "Uzi爆料英雄联盟怀旧服",
+      "onboard_time": 1778843781,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 150375,
@@ -1145,14 +1345,6 @@
       "onboard_time": 1778835441,
       "rank": 37,
       "category": "财经"
-    },
-    {
-      "raw_hot": 144547,
-      "num": 144547,
-      "word": "方媛没见过年轻的郭富城",
-      "onboard_time": 1778841801,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 143684,
@@ -1235,6 +1427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 134264,
+      "num": 134264,
+      "word": "2026白玉兰奖宣传片有杨紫",
+      "onboard_time": 1778846961,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 133909,
       "num": 133909,
       "word": "金莎上车不化妆不照镜子必在生气",
@@ -1248,6 +1448,22 @@
       "word": "刘诗诗张柏芝同框",
       "onboard_time": 1778815640,
       "rank": 33,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 132273,
+      "num": 132273,
+      "word": "金鹰奖宣传片",
+      "onboard_time": 1778848642,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 132215,
+      "num": 132215,
+      "word": "王橹杰黑白变装",
+      "onboard_time": 1778844380,
+      "rank": 49,
       "category": "艺人"
     },
     {
@@ -1579,6 +1795,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 63247,
+      "num": 420910,
+      "word": "女生误解医生把饭吃干净点一周胖5斤",
+      "onboard_time": 1778849601,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 61285,
       "num": 552639,
       "word": "原来我跟刘宇宁是同担",
@@ -1795,6 +2019,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 30945,
+      "num": 1043447,
+      "word": "天坛的文化与建筑之美",
+      "onboard_time": 1778848162,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 30474,
       "num": 439684,
       "word": "魏大勋掌控不红脸秘密",
@@ -1919,6 +2151,9 @@
     },
     {
       "word": "#习近平同特朗普小范围会晤#"
+    },
+    {
+      "word": "#中美元首中南海小范围会晤高清大图#"
     }
   ]
 }

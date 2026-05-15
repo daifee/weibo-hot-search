@@ -1,6 +1,6 @@
 {
   "startTime": 1778342585344,
-  "endTime": 1778841964550,
+  "endTime": 1778850076245,
   "band_list": [
     {
       "raw_hot": 20021872,
@@ -292,7 +292,7 @@
     },
     {
       "raw_hot": 2645601,
-      "num": 403888,
+      "num": 504734,
       "word": "温岚 败血症",
       "onboard_time": 1778837960,
       "rank": 10,
@@ -545,6 +545,14 @@
       "onboard_time": 1778406381,
       "rank": 3,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1816553,
+      "num": 1250106,
+      "word": "鹿晗这就是京圈佛子吗",
+      "onboard_time": 1778837479,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 1786726,
@@ -811,6 +819,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1512629,
+      "num": 1512629,
+      "word": "央视感谢全国网友支持",
+      "onboard_time": 1778840901,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1502755,
       "num": 522264,
       "word": "特朗普感叹大美中国",
@@ -963,6 +979,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 1348302,
+      "num": 667945,
+      "word": "央视一次拿下4届世界杯转播权",
+      "onboard_time": 1778841080,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1340010,
       "num": 441187,
       "word": "张元英雷霆平底鞋",
@@ -1057,14 +1081,6 @@
       "onboard_time": 1778650641,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1250106,
-      "num": 1250106,
-      "word": "鹿晗这就是京圈佛子吗",
-      "onboard_time": 1778837479,
-      "rank": 4,
-      "category": "综艺"
     },
     {
       "raw_hot": 1240242,
@@ -1379,6 +1395,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 976699,
+      "num": 976699,
+      "word": "建议喜欢熬夜的反复观看",
+      "onboard_time": 1778843120,
+      "rank": 3,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 974893,
       "num": 585018,
       "word": "孙怡裤子穿反了",
@@ -1523,6 +1547,22 @@
       "category": "美食"
     },
     {
+      "raw_hot": 924470,
+      "num": 495440,
+      "word": "迪丽热巴冰淇淋掉衣服上",
+      "onboard_time": 1778844023,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 923997,
+      "num": 923997,
+      "word": "特朗普说能待得惯可能都不想走了",
+      "onboard_time": 1778827702,
+      "rank": 12,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 921458,
       "num": 400106,
       "word": "张月首封销量",
@@ -1659,14 +1699,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 863201,
-      "num": 540428,
-      "word": "特朗普说能待得惯可能都不想走了",
-      "onboard_time": 1778827702,
-      "rank": 12,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 858845,
       "num": 392331,
       "word": "曝又一部剧男主跑路",
@@ -1755,6 +1787,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 823732,
+      "num": 420271,
+      "word": "蒋毅老婆发文喊话蒋毅赵樱子",
+      "onboard_time": 1778837241,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 821723,
       "num": 821723,
       "word": "英伟达总市值超越德国GDP",
@@ -1809,6 +1849,14 @@
       "onboard_time": 1778733625,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 805287,
+      "num": 805287,
+      "word": "中国化妆师的工作视频在外网火了",
+      "onboard_time": 1778845161,
+      "rank": 5,
+      "category": "美妆"
     },
     {
       "raw_hot": 804138,
@@ -2164,7 +2212,7 @@
     },
     {
       "raw_hot": 699437,
-      "num": 380507,
+      "num": 431598,
       "word": "一只熊吃掉了40磅冰淇淋后昏迷了两天",
       "onboard_time": 1778833822,
       "rank": 14,
@@ -2259,6 +2307,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 677072,
+      "num": 499760,
+      "word": "孙颖莎正装",
+      "onboard_time": 1778840541,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 676565,
       "num": 615683,
       "word": "影院卫生间用手握香蕉西柚代指男女",
@@ -2299,12 +2355,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 667945,
-      "num": 667945,
-      "word": "央视一次拿下4届世界杯转播权",
-      "onboard_time": 1778841080,
-      "rank": 30,
-      "category": "体育"
+      "raw_hot": 665912,
+      "num": 665912,
+      "word": "iPhone一年一换比三年一换更省钱",
+      "onboard_time": 1778845161,
+      "rank": 6,
+      "category": "数码"
     },
     {
       "raw_hot": 665799,
@@ -2451,14 +2507,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 628355,
-      "num": 386184,
-      "word": "孙颖莎正装",
-      "onboard_time": 1778840541,
-      "rank": 17,
-      "category": "体育"
-    },
-    {
       "raw_hot": 625610,
       "num": 336756,
       "word": "白敬亭沈腾合开新公司",
@@ -2529,6 +2577,14 @@
       "onboard_time": 1778744902,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 612326,
+      "num": 612326,
+      "word": "原来是过敏啊还以为脂肪在燃烧",
+      "onboard_time": 1778847202,
+      "rank": 7,
+      "category": "幽默"
     },
     {
       "raw_hot": 610779,
@@ -2713,6 +2769,14 @@
       "onboard_time": 1778773042,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 575233,
+      "num": 575233,
+      "word": "曝歌手2026首场9进7",
+      "onboard_time": 1778848941,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 572109,
@@ -2955,6 +3019,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 528213,
+      "num": 486542,
+      "word": "清华大学1名博士被退学",
+      "onboard_time": 1778842941,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 526873,
       "num": 385914,
       "word": "疑似加到了孙怡本人的QQ",
@@ -3041,6 +3113,14 @@
       "onboard_time": 1778598142,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 518399,
+      "num": 518399,
+      "word": "白玉兰",
+      "onboard_time": 1778847441,
+      "rank": 9,
+      "category": "剧集"
     },
     {
       "raw_hot": 514913,
@@ -3361,6 +3441,14 @@
       "onboard_time": 1778717660,
       "rank": 20,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 482638,
+      "num": 482638,
+      "word": "内娱歌手集体发文感谢洪涛",
+      "onboard_time": 1778844740,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 477630,
@@ -3803,12 +3891,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 419437,
-      "num": 419437,
-      "word": "央视感谢全国网友支持",
-      "onboard_time": 1778840901,
-      "rank": 27,
-      "category": "体育"
+      "raw_hot": 419550,
+      "num": 419550,
+      "word": "歌手",
+      "onboard_time": 1778746522,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 418725,
@@ -3873,6 +3961,14 @@
       "onboard_time": 1778340860,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 409929,
+      "num": 409929,
+      "word": "金鹰奖",
+      "onboard_time": 1778843001,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 409310,
@@ -4099,14 +4195,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 391655,
-      "num": 352974,
-      "word": "蒋毅老婆发文喊话蒋毅赵樱子",
-      "onboard_time": 1778837241,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 391463,
       "num": 819072,
       "word": "日媒吐槽世乒赛规则存在漏洞",
@@ -4249,6 +4337,14 @@
       "onboard_time": 1778770403,
       "rank": 30,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 373032,
+      "num": 373032,
+      "word": "方媛没见过年轻的郭富城",
+      "onboard_time": 1778841801,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 372711,
@@ -5131,6 +5227,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 298072,
+      "num": 413014,
+      "word": "毛巾家族",
+      "onboard_time": 1778846900,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 297167,
       "num": 569564,
       "word": "孙颖莎彰显体育精神",
@@ -5699,6 +5803,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 257341,
+      "num": 257341,
+      "word": "宝莲舞美",
+      "onboard_time": 1778849301,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 256377,
       "num": 232269,
       "word": "桂林文旅为何不能直面一张脏凳子",
@@ -6011,6 +6123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 241537,
+      "num": 337758,
+      "word": "黄仁勋库克发声",
+      "onboard_time": 1778847321,
+      "rank": 26,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 241517,
       "num": 449969,
       "word": "Chovy遭削弱",
@@ -6216,6 +6336,14 @@
       "word": "孙颖莎世乒赛第10冠",
       "onboard_time": 1778426722,
       "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 230526,
+      "num": 230526,
+      "word": "国际足联回应央视世界杯版权费",
+      "onboard_time": 1778848881,
+      "rank": 30,
       "category": "体育"
     },
     {
@@ -6787,6 +6915,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 204048,
+      "num": 204048,
+      "word": "TF四代coverTXT",
+      "onboard_time": 1778842760,
+      "rank": 32,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 202860,
       "num": 202860,
       "word": "王安宇赵今麦排名不分先后",
@@ -6801,6 +6937,14 @@
       "onboard_time": 1778649562,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 202762,
+      "num": 192988,
+      "word": "周涛回应不上春晚",
+      "onboard_time": 1778844440,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 202598,
@@ -6929,6 +7073,14 @@
       "onboard_time": 1778756421,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 197527,
+      "num": 197527,
+      "word": "广州暴雨5名小哥狂奔救起摔倒小孩",
+      "onboard_time": 1778847680,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 196965,
@@ -7139,6 +7291,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 191840,
+      "num": 184989,
+      "word": "鹿晗剃头出现人传人现象",
+      "onboard_time": 1778845941,
+      "rank": 37,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 189780,
       "num": 283876,
       "word": "常石磊发言",
@@ -7275,12 +7435,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 184769,
-      "num": 244140,
-      "word": "歌手",
-      "onboard_time": 1778746522,
-      "rank": 42,
-      "category": "综艺"
+      "raw_hot": 185075,
+      "num": 185075,
+      "word": "日本送给普京的秋田犬去世",
+      "onboard_time": 1778848521,
+      "rank": 36,
+      "category": "国际时政"
     },
     {
       "raw_hot": 184470,
@@ -7979,6 +8139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 165878,
+      "num": 165878,
+      "word": "奔跑吧",
+      "onboard_time": 1778849903,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 165764,
       "num": 329870,
       "word": "腾讯客服称暂未支持访客记录查询",
@@ -8025,6 +8193,14 @@
       "onboard_time": 1778840601,
       "rank": 29,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 163908,
+      "num": 163908,
+      "word": "世界杯转播权降价原因",
+      "onboard_time": 1778844920,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 162540,
@@ -8267,6 +8443,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 153928,
+      "num": 153928,
+      "word": "白鹿丞磊跑男合体",
+      "onboard_time": 1778847982,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 153851,
       "num": 199245,
       "word": "杨幂中国视协双新工作委员会副会长",
@@ -8329,6 +8513,14 @@
       "onboard_time": 1778717000,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 151090,
+      "num": 151090,
+      "word": "Uzi爆料英雄联盟怀旧服",
+      "onboard_time": 1778843781,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 150994,
@@ -8489,14 +8681,6 @@
       "onboard_time": 1778678243,
       "rank": 46,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 144547,
-      "num": 144547,
-      "word": "方媛没见过年轻的郭富城",
-      "onboard_time": 1778841801,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 144121,
@@ -8795,6 +8979,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 134264,
+      "num": 134264,
+      "word": "2026白玉兰奖宣传片有杨紫",
+      "onboard_time": 1778846961,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 133975,
       "num": 310286,
       "word": "文班亚马不会遭到追加处罚",
@@ -8841,6 +9033,22 @@
       "onboard_time": 1778628078,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 132273,
+      "num": 132273,
+      "word": "金鹰奖宣传片",
+      "onboard_time": 1778848642,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 132215,
+      "num": 132215,
+      "word": "王橹杰黑白变装",
+      "onboard_time": 1778844380,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 131745,
@@ -10251,6 +10459,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 63247,
+      "num": 420910,
+      "word": "女生误解医生把饭吃干净点一周胖5斤",
+      "onboard_time": 1778849601,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 62861,
       "num": 77673,
       "word": "妈妈的日记里有一只1990年的蚊子",
@@ -11235,6 +11451,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 30945,
+      "num": 1043447,
+      "word": "天坛的文化与建筑之美",
+      "onboard_time": 1778848162,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 30777,
       "num": 61242,
       "word": "BLG战胜iG",
@@ -12114,6 +12338,9 @@
     },
     {
       "word": "#习近平同特朗普小范围会晤#"
+    },
+    {
+      "word": "#中美元首中南海小范围会晤高清大图#"
     }
   ]
 }

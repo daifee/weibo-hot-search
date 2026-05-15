@@ -1,6 +1,6 @@
 {
   "startTime": 1777565126834,
-  "endTime": 1778841964550,
+  "endTime": 1778850076245,
   "band_list": [
     {
       "raw_hot": 25375641,
@@ -652,7 +652,7 @@
     },
     {
       "raw_hot": 2645601,
-      "num": 403888,
+      "num": 504734,
       "word": "温岚 败血症",
       "onboard_time": 1778837960,
       "rank": 10,
@@ -1187,6 +1187,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 1816553,
+      "num": 1250106,
+      "word": "鹿晗这就是京圈佛子吗",
+      "onboard_time": 1778837479,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1797329,
       "num": 1797329,
       "word": "榴莲遭仅退款商家驱车1600公里找买家",
@@ -1691,6 +1699,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1512629,
+      "num": 1512629,
+      "word": "央视感谢全国网友支持",
+      "onboard_time": 1778840901,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1502755,
       "num": 522264,
       "word": "特朗普感叹大美中国",
@@ -2011,6 +2027,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 1348302,
+      "num": 667945,
+      "word": "央视一次拿下4届世界杯转播权",
+      "onboard_time": 1778841080,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1342245,
       "num": 1045927,
       "word": "女子坠亡悬崖秋千开业仅1个多月",
@@ -2233,14 +2257,6 @@
       "onboard_time": 1778650641,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1250106,
-      "num": 1250106,
-      "word": "鹿晗这就是京圈佛子吗",
-      "onboard_time": 1778837479,
-      "rank": 4,
-      "category": "综艺"
     },
     {
       "raw_hot": 1244466,
@@ -3059,6 +3075,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 976699,
+      "num": 976699,
+      "word": "建议喜欢熬夜的反复观看",
+      "onboard_time": 1778843120,
+      "rank": 3,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 976653,
       "num": 612783,
       "word": "尼坤发福",
@@ -3337,6 +3361,22 @@
       "onboard_time": 1778576422,
       "rank": 5,
       "category": "美食"
+    },
+    {
+      "raw_hot": 924470,
+      "num": 495440,
+      "word": "迪丽热巴冰淇淋掉衣服上",
+      "onboard_time": 1778844023,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 923997,
+      "num": 923997,
+      "word": "特朗普说能待得惯可能都不想走了",
+      "onboard_time": 1778827702,
+      "rank": 12,
+      "category": "国内时政"
     },
     {
       "raw_hot": 923788,
@@ -3699,14 +3739,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 863201,
-      "num": 540428,
-      "word": "特朗普说能待得惯可能都不想走了",
-      "onboard_time": 1778827702,
-      "rank": 12,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 863184,
       "num": 456298,
       "word": "路人上海偶遇angelababy小海绵",
@@ -3947,6 +3979,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 823732,
+      "num": 420271,
+      "word": "蒋毅老婆发文喊话蒋毅赵樱子",
+      "onboard_time": 1778837241,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 823220,
       "num": 809461,
       "word": "白鹿主动让C",
@@ -4113,6 +4153,14 @@
       "onboard_time": 1778211980,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 805287,
+      "num": 805287,
+      "word": "中国化妆师的工作视频在外网火了",
+      "onboard_time": 1778845161,
+      "rank": 5,
+      "category": "美妆"
     },
     {
       "raw_hot": 803875,
@@ -5012,7 +5060,7 @@
     },
     {
       "raw_hot": 699437,
-      "num": 380507,
+      "num": 431598,
       "word": "一只熊吃掉了40磅冰淇淋后昏迷了两天",
       "onboard_time": 1778833822,
       "rank": 14,
@@ -5203,6 +5251,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 677072,
+      "num": 499760,
+      "word": "孙颖莎正装",
+      "onboard_time": 1778840541,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 676850,
       "num": 346662,
       "word": "林依晨 郑家尧",
@@ -5323,20 +5379,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 667945,
-      "num": 667945,
-      "word": "央视一次拿下4届世界杯转播权",
-      "onboard_time": 1778841080,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 667149,
       "num": 667149,
       "word": "抽签",
       "onboard_time": 1777820122,
       "rank": 13,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 665912,
+      "num": 665912,
+      "word": "iPhone一年一换比三年一换更省钱",
+      "onboard_time": 1778845161,
+      "rank": 6,
+      "category": "数码"
     },
     {
       "raw_hot": 665812,
@@ -5787,14 +5843,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 628355,
-      "num": 386184,
-      "word": "孙颖莎正装",
-      "onboard_time": 1778840541,
-      "rank": 17,
-      "category": "体育"
-    },
-    {
       "raw_hot": 625821,
       "num": 500444,
       "word": "刘丁硕假期厕所直播翻车",
@@ -5969,6 +6017,14 @@
       "onboard_time": 1777797141,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 612326,
+      "num": 612326,
+      "word": "原来是过敏啊还以为脂肪在燃烧",
+      "onboard_time": 1778847202,
+      "rank": 7,
+      "category": "幽默"
     },
     {
       "raw_hot": 611981,
@@ -6417,6 +6473,14 @@
       "onboard_time": 1778773042,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 575233,
+      "num": 575233,
+      "word": "曝歌手2026首场9进7",
+      "onboard_time": 1778848941,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 574954,
@@ -7043,6 +7107,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 528213,
+      "num": 486542,
+      "word": "清华大学1名博士被退学",
+      "onboard_time": 1778842941,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 526831,
       "num": 526831,
       "word": "阿嬷爆了之后 业内连夜学习潮汕文化",
@@ -7233,6 +7305,14 @@
       "onboard_time": 1777715900,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 518399,
+      "num": 518399,
+      "word": "白玉兰",
+      "onboard_time": 1778847441,
+      "rank": 9,
+      "category": "剧集"
     },
     {
       "raw_hot": 518297,
@@ -7913,6 +7993,14 @@
       "onboard_time": 1778717660,
       "rank": 20,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 482638,
+      "num": 482638,
+      "word": "内娱歌手集体发文感谢洪涛",
+      "onboard_time": 1778844740,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 481626,
@@ -9043,14 +9131,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 419437,
-      "num": 419437,
-      "word": "央视感谢全国网友支持",
-      "onboard_time": 1778840901,
-      "rank": 27,
-      "category": "体育"
-    },
-    {
       "raw_hot": 418773,
       "num": 543563,
       "word": "考试前一天做真题回顾还是太权威了",
@@ -9201,6 +9281,14 @@
       "onboard_time": 1778340860,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 409929,
+      "num": 409929,
+      "word": "金鹰奖",
+      "onboard_time": 1778843001,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 409635,
@@ -9657,14 +9745,6 @@
       "onboard_time": 1777953443,
       "rank": 21,
       "category": "体育"
-    },
-    {
-      "raw_hot": 391655,
-      "num": 352974,
-      "word": "蒋毅老婆发文喊话蒋毅赵樱子",
-      "onboard_time": 1778837241,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 391597,
@@ -10185,6 +10265,14 @@
       "onboard_time": 1777642460,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 373032,
+      "num": 373032,
+      "word": "方媛没见过年轻的郭富城",
+      "onboard_time": 1778841801,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 372977,
@@ -12467,6 +12555,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 298072,
+      "num": 413014,
+      "word": "毛巾家族",
+      "onboard_time": 1778846900,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 297177,
       "num": 287150,
       "word": "19岁石头身高已达185cm",
@@ -14027,6 +14123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 257341,
+      "num": 257341,
+      "word": "宝莲舞美",
+      "onboard_time": 1778849301,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 257216,
       "num": 341102,
       "word": "谁来为无子女老人晚年兜底",
@@ -14827,6 +14931,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 241537,
+      "num": 337758,
+      "word": "黄仁勋库克发声",
+      "onboard_time": 1778847321,
+      "rank": 26,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 241517,
       "num": 449969,
       "word": "Chovy遭削弱",
@@ -15505,6 +15617,14 @@
       "onboard_time": 1777866679,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 230526,
+      "num": 230526,
+      "word": "国际足联回应央视世界杯版权费",
+      "onboard_time": 1778848881,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 230513,
@@ -17099,6 +17219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 204048,
+      "num": 204048,
+      "word": "TF四代coverTXT",
+      "onboard_time": 1778842760,
+      "rank": 32,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 204036,
       "num": 204036,
       "word": "中国被FIFA划为一级高价市场",
@@ -17177,6 +17305,14 @@
       "onboard_time": 1778649562,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 202762,
+      "num": 192988,
+      "word": "周涛回应不上春晚",
+      "onboard_time": 1778844440,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 202742,
@@ -17512,6 +17648,14 @@
       "word": "天价皮皮虾真相虽到但是太晚",
       "onboard_time": 1778286140,
       "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 197527,
+      "num": 197527,
+      "word": "广州暴雨5名小哥狂奔救起摔倒小孩",
+      "onboard_time": 1778847680,
+      "rank": 33,
       "category": "民生新闻"
     },
     {
@@ -17931,6 +18075,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 191840,
+      "num": 184989,
+      "word": "鹿晗剃头出现人传人现象",
+      "onboard_time": 1778845941,
+      "rank": 37,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 191747,
       "num": 400972,
       "word": "刘耀文拍肩安慰严浩翔",
@@ -18297,6 +18449,14 @@
       "onboard_time": 1777979182,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 185075,
+      "num": 185075,
+      "word": "日本送给普京的秋田犬去世",
+      "onboard_time": 1778848521,
+      "rank": 36,
+      "category": "国际时政"
     },
     {
       "raw_hot": 184920,
@@ -20035,6 +20195,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 163908,
+      "num": 163908,
+      "word": "世界杯转播权降价原因",
+      "onboard_time": 1778844920,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 163907,
       "num": 163907,
       "word": "周深阿信在鸟巢修提词器",
@@ -20819,6 +20987,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 153928,
+      "num": 153928,
+      "word": "白鹿丞磊跑男合体",
+      "onboard_time": 1778847982,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 153851,
       "num": 199245,
       "word": "杨幂中国视协双新工作委员会副会长",
@@ -21033,6 +21209,14 @@
       "onboard_time": 1778717000,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 151090,
+      "num": 151090,
+      "word": "Uzi爆料英雄联盟怀旧服",
+      "onboard_time": 1778843781,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 150994,
@@ -21449,14 +21633,6 @@
       "onboard_time": 1778112139,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 144547,
-      "num": 144547,
-      "word": "方媛没见过年轻的郭富城",
-      "onboard_time": 1778841801,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 144522,
@@ -22211,6 +22387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 134264,
+      "num": 134264,
+      "word": "2026白玉兰奖宣传片有杨紫",
+      "onboard_time": 1778846961,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 134126,
       "num": 450582,
       "word": "鸿蒙智行4月交付32759辆汽车",
@@ -22361,6 +22545,22 @@
       "onboard_time": 1778628078,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 132273,
+      "num": 132273,
+      "word": "金鹰奖宣传片",
+      "onboard_time": 1778848642,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 132215,
+      "num": 132215,
+      "word": "王橹杰黑白变装",
+      "onboard_time": 1778844380,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 131755,
@@ -26211,6 +26411,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 63247,
+      "num": 420910,
+      "word": "女生误解医生把饭吃干净点一周胖5斤",
+      "onboard_time": 1778849601,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 63076,
       "num": 91400,
       "word": "习惯高中穿搭的我突然上了大学",
@@ -28491,6 +28699,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 30945,
+      "num": 1043447,
+      "word": "天坛的文化与建筑之美",
+      "onboard_time": 1778848162,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 30913,
       "num": 52924,
       "word": "这年头连广告牌都炒CP",
@@ -30483,6 +30699,9 @@
     },
     {
       "word": "#习近平同特朗普小范围会晤#"
+    },
+    {
+      "word": "#中美元首中南海小范围会晤高清大图#"
     }
   ]
 }
