@@ -1,6 +1,6 @@
 {
   "startTime": 1778781642218,
-  "endTime": 1778858758282,
+  "endTime": 1778859437110,
   "band_list": [
     {
       "raw_hot": 15057331,
@@ -123,6 +123,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1659161,
+      "num": 392151,
+      "word": "刘浩存好长好直的腿",
+      "onboard_time": 1778856024,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1590647,
       "num": 388087,
       "word": "阿雅视频抄袭",
@@ -137,14 +145,6 @@
       "onboard_time": 1778825241,
       "rank": 1,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 1426233,
-      "num": 392151,
-      "word": "刘浩存好长好直的腿",
-      "onboard_time": 1778856024,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 1389939,
@@ -179,19 +179,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1203882,
+      "num": 389741,
+      "word": "赵樱子回应蒋毅妻子喊话",
+      "onboard_time": 1778853682,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1197675,
       "num": 530687,
       "word": "何猷君奚梦瑶和保镖同桌吃饭",
       "onboard_time": 1778810841,
       "rank": 13,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1154060,
-      "num": 389741,
-      "word": "赵樱子回应蒋毅妻子喊话",
-      "onboard_time": 1778853682,
-      "rank": 23,
       "category": "艺人"
     },
     {
@@ -355,6 +355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 742770,
+      "num": 1118843,
+      "word": "中美元首会晤情况和共识",
+      "onboard_time": 1778854762,
+      "rank": 0,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 730960,
       "num": 730960,
       "word": "曝杨幂杨紫白玉兰二选一提名",
@@ -400,14 +408,6 @@
       "word": "中美元首达成一系列新共识",
       "onboard_time": 1778814259,
       "rank": 7,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 695098,
-      "num": 1111215,
-      "word": "中美元首会晤情况和共识",
-      "onboard_time": 1778854762,
-      "rank": 0,
       "category": "国内时政"
     },
     {
@@ -571,7 +571,7 @@
       "category": "数码,互联网"
     },
     {
-      "raw_hot": 539935,
+      "raw_hot": 549158,
       "num": 388051,
       "word": "原来表达能力是这么练出来的",
       "onboard_time": 1778852424,
@@ -633,6 +633,14 @@
       "onboard_time": 1778818221,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 494078,
+      "num": 366802,
+      "word": "方媛掉粉",
+      "onboard_time": 1778853862,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 491068,
@@ -803,6 +811,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 376089,
+      "num": 324458,
+      "word": "女子从174斤减到95斤判若两人",
+      "onboard_time": 1778858362,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 367297,
       "num": 366144,
       "word": "要小心身边的假好心同事",
@@ -841,14 +857,6 @@
       "onboard_time": 1778824042,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 324458,
-      "num": 324458,
-      "word": "女子从174斤减到95斤判若两人",
-      "onboard_time": 1778858362,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 320644,
@@ -891,20 +899,20 @@
       "category": "财经"
     },
     {
+      "raw_hot": 296781,
+      "num": 296781,
+      "word": "毛巾少爷曾说父亲爷爷不愿其接班",
+      "onboard_time": 1778853742,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 289190,
       "num": 289190,
       "word": "宝莲舞美",
       "onboard_time": 1778849301,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 287727,
-      "num": 287727,
-      "word": "方媛掉粉",
-      "onboard_time": 1778853862,
-      "rank": 32,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 287340,
@@ -948,7 +956,7 @@
     },
     {
       "raw_hot": 270804,
-      "num": 256544,
+      "num": 338501,
       "word": "21世纪大君夫人",
       "onboard_time": 1778851462,
       "rank": 35,
@@ -1043,12 +1051,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 231896,
-      "num": 231896,
-      "word": "毛巾少爷曾说父亲爷爷不愿其接班",
-      "onboard_time": 1778853742,
-      "rank": 38,
+      "raw_hot": 234086,
+      "num": 234086,
+      "word": "新娘回应婚礼没敬酒宾客已散场",
+      "onboard_time": 1778858001,
+      "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 231166,
+      "num": 231166,
+      "word": "迪丽热巴直播生图",
+      "onboard_time": 1778858542,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 229966,
@@ -1116,7 +1132,7 @@
     },
     {
       "raw_hot": 216550,
-      "num": 326536,
+      "num": 355124,
       "word": "巨力索具被证监会立案",
       "onboard_time": 1778855002,
       "rank": 29,
@@ -1171,14 +1187,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 207700,
-      "num": 207700,
-      "word": "迪丽热巴直播生图",
-      "onboard_time": 1778858542,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 206566,
       "num": 206566,
       "word": "张凌赫被保镖大哥淹没了",
@@ -1209,14 +1217,6 @@
       "onboard_time": 1778855721,
       "rank": 17,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 203768,
-      "num": 203768,
-      "word": "新娘回应婚礼没敬酒宾客已散场",
-      "onboard_time": 1778858001,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 202762,
@@ -1283,6 +1283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 188488,
+      "num": 188488,
+      "word": "张雪机车夺得超级杆位赛第三名",
+      "onboard_time": 1778857101,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 188257,
       "num": 188898,
       "word": "新能源车开启涨价潮",
@@ -1297,14 +1305,6 @@
       "onboard_time": 1778834060,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 181624,
-      "num": 181624,
-      "word": "张雪机车夺得超级杆位赛第三名",
-      "onboard_time": 1778857101,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 179140,
@@ -1432,6 +1432,14 @@
       "word": "歌手2026全民举荐",
       "onboard_time": 1778800518,
       "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 158047,
+      "num": 158047,
+      "word": "小新恩恩直播",
+      "onboard_time": 1778854762,
+      "rank": 48,
       "category": "综艺"
     },
     {
@@ -2313,6 +2321,14 @@
       "onboard_time": 1778784915,
       "rank": 42,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 22408,
+      "num": 366056,
+      "word": "泰兰尼斯多款鞋被指撞款大牌",
+      "onboard_time": 1778858841,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 21105,

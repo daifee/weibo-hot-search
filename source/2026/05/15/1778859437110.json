@@ -1,0 +1,410 @@
+{
+  "runTime": 1778859437110,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 742770,
+        "num": 1118843,
+        "word": "中美元首会晤情况和共识",
+        "onboard_time": 1778854762,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 959180,
+        "num": 959180,
+        "word": "特朗普说能待得惯可能都不想走了",
+        "onboard_time": 1778827702,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 37666,
+        "num": 923222,
+        "word": "天坛的文化与建筑之美",
+        "onboard_time": 1778848162,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 921012,
+        "num": 921012,
+        "word": "原来是过敏啊还以为脂肪在燃烧",
+        "onboard_time": 1778847202,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 720130,
+        "num": 720130,
+        "word": "罗永浩怒怼保时捷被抄袭无奈论",
+        "onboard_time": 1778855662,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 655638,
+        "num": 655638,
+        "word": "建议喜欢熬夜的反复观看",
+        "onboard_time": 1778843120,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 611907,
+        "num": 611907,
+        "word": "我记得教师以前是份体面工作啊",
+        "onboard_time": 1778852723,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 596374,
+        "num": 596374,
+        "word": "央视感谢全国网友支持",
+        "onboard_time": 1778840901,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 396403,
+        "num": 396403,
+        "word": "曝歌手2026首场9进7",
+        "onboard_time": 1778848941,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 368377,
+        "num": 368377,
+        "word": "内娱歌手集体发文感谢洪涛",
+        "onboard_time": 1778844740,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1153560,
+        "num": 368370,
+        "word": "王楚钦个人捐款20万",
+        "onboard_time": 1778856502,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1491419,
+        "num": 368114,
+        "word": "鹿晗这就是京圈佛子吗",
+        "onboard_time": 1778837479,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1371066,
+        "num": 367930,
+        "word": "温岚 败血症",
+        "onboard_time": 1778837960,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 947053,
+        "num": 367706,
+        "word": "央视6000万美元拿下世界杯版权",
+        "onboard_time": 1778839700,
+        "rank": 13,
+        "category": "体育,民生新闻"
+      },
+      {
+        "raw_hot": 767325,
+        "num": 367388,
+        "word": "横店的剧组快灭亡了",
+        "onboard_time": 1778827282,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 553397,
+        "num": 367289,
+        "word": "迪丽热巴冰淇淋掉衣服上",
+        "onboard_time": 1778844023,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 462326,
+        "num": 367065,
+        "word": "黄仁勋库克发声",
+        "onboard_time": 1778847321,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 494078,
+        "num": 366802,
+        "word": "方媛掉粉",
+        "onboard_time": 1778853862,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 107419,
+        "num": 366663,
+        "word": "中国化妆师的工作视频在外网火了",
+        "onboard_time": 1778845161,
+        "rank": 18,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 371229,
+        "num": 366497,
+        "word": "清华大学1名博士被退学",
+        "onboard_time": 1778842941,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 203392,
+        "num": 366160,
+        "word": "乐道L80价格一步到位夯爆了",
+        "onboard_time": 1778855721,
+        "rank": 20,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 22408,
+        "num": 366056,
+        "word": "泰兰尼斯多款鞋被指撞款大牌",
+        "onboard_time": 1778858841,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2007517,
+        "num": 365873,
+        "word": "曝蒋毅离婚",
+        "onboard_time": 1778850382,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1659161,
+        "num": 365543,
+        "word": "刘浩存好长好直的腿",
+        "onboard_time": 1778856024,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 581377,
+        "num": 365318,
+        "word": "iPhone一年一换比三年一换更省钱",
+        "onboard_time": 1778845161,
+        "rank": 24,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 1203882,
+        "num": 365290,
+        "word": "赵樱子回应蒋毅妻子喊话",
+        "onboard_time": 1778853682,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 365110,
+        "num": 365110,
+        "word": "给阿嬷的情书",
+        "onboard_time": 1778856741,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 207990,
+        "num": 355124,
+        "word": "巨力索具被证监会立案",
+        "onboard_time": 1778855002,
+        "rank": 27,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 254027,
+        "num": 338501,
+        "word": "21世纪大君夫人",
+        "onboard_time": 1778851462,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 549158,
+        "num": 333304,
+        "word": "原来表达能力是这么练出来的",
+        "onboard_time": 1778852424,
+        "rank": 29,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 376089,
+        "num": 303959,
+        "word": "女子从174斤减到95斤判若两人",
+        "onboard_time": 1778858362,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 301611,
+        "num": 301611,
+        "word": "孙颖莎正装",
+        "onboard_time": 1778840541,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 296781,
+        "num": 296781,
+        "word": "毛巾少爷曾说父亲爷爷不愿其接班",
+        "onboard_time": 1778853742,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 274190,
+        "num": 274190,
+        "word": "国际足联回应央视世界杯版权费",
+        "onboard_time": 1778848881,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 234086,
+        "num": 234086,
+        "word": "新娘回应婚礼没敬酒宾客已散场",
+        "onboard_time": 1778858001,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 233101,
+        "num": 233101,
+        "word": "蒋毅老婆发文喊话蒋毅赵樱子",
+        "onboard_time": 1778837241,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 232231,
+        "num": 232231,
+        "word": "特朗普结束访华",
+        "onboard_time": 1778825241,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 231166,
+        "num": 231166,
+        "word": "迪丽热巴直播生图",
+        "onboard_time": 1778858542,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 221559,
+        "num": 221559,
+        "word": "毛巾家族",
+        "onboard_time": 1778846900,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 219261,
+        "num": 219261,
+        "word": "金鹰奖投票",
+        "onboard_time": 1778853981,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 217950,
+        "num": 217950,
+        "word": "孙颖莎王楚钦登上杂志封面",
+        "onboard_time": 1778850082,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 214100,
+        "num": 214100,
+        "word": "方媛没见过年轻的郭富城",
+        "onboard_time": 1778841801,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202560,
+        "num": 202560,
+        "word": "鹿晗剃头出现人传人现象",
+        "onboard_time": 1778845941,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 188488,
+        "num": 188488,
+        "word": "张雪机车夺得超级杆位赛第三名",
+        "onboard_time": 1778857101,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 186624,
+        "num": 186624,
+        "word": "宝莲舞美",
+        "onboard_time": 1778849301,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 99178,
+        "num": 174534,
+        "word": "中美元首互动相处近9小时",
+        "onboard_time": 1778855782,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 172601,
+        "num": 172601,
+        "word": "主角",
+        "onboard_time": 1778846661,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164153,
+        "num": 164153,
+        "word": "中方回应特朗普社媒言论",
+        "onboard_time": 1778841500,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 158047,
+        "num": 158047,
+        "word": "小新恩恩直播",
+        "onboard_time": 1778854762,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 5182,
+        "num": 155172,
+        "word": "李川锤锤乐道发布会硬控李斌",
+        "onboard_time": 1778855721,
+        "rank": 49,
+        "category": "艺人,汽车"
+      }
+    ],
+    "hotgov": {
+      "word": "#中美要珍惜来之不易的良好势头#"
+    }
+  }
+}
