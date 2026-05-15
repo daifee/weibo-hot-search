@@ -1,6 +1,6 @@
 {
   "startTime": 1778342585344,
-  "endTime": 1778868105667,
+  "endTime": 1778874519928,
   "band_list": [
     {
       "raw_hot": 20021872,
@@ -11747,6 +11747,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 31088,
+      "num": 31088,
+      "word": "业内谈6000万美元拿下世界杯版权",
+      "onboard_time": 1778873354,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 30777,
       "num": 61242,
       "word": "BLG战胜iG",
@@ -11955,6 +11963,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 26638,
+      "num": 30014,
+      "word": "人是在变强的路上逐渐爱上自己的",
+      "onboard_time": 1778870055,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 26531,
       "num": 37118,
       "word": "姜乘澜更新美妆视频",
@@ -11977,6 +11993,14 @@
       "onboard_time": 1778772503,
       "rank": 40,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 26346,
+      "num": 29947,
+      "word": "樊振东备战欧冠踩场",
+      "onboard_time": 1778869515,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 26280,
