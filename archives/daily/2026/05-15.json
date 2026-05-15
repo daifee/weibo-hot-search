@@ -1,6 +1,6 @@
 {
   "startTime": 1778781642218,
-  "endTime": 1778821823117,
+  "endTime": 1778830392897,
   "band_list": [
     {
       "raw_hot": 15057331,
@@ -9,6 +9,14 @@
       "onboard_time": 1778807598,
       "rank": 1,
       "category": "数码"
+    },
+    {
+      "raw_hot": 14490517,
+      "num": 14490517,
+      "word": "特朗普结束访华",
+      "onboard_time": 1778825241,
+      "rank": 0,
+      "category": "国内时政"
     },
     {
       "raw_hot": 3949971,
@@ -25,6 +33,14 @@
       "onboard_time": 1778816359,
       "rank": 14,
       "category": "数码"
+    },
+    {
+      "raw_hot": 2528212,
+      "num": 558378,
+      "word": "横店的剧组快灭亡了",
+      "onboard_time": 1778827282,
+      "rank": 10,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 2389578,
@@ -55,6 +71,14 @@
       "num": 1171070,
       "word": "特朗普抵达中南海",
       "onboard_time": 1778816300,
+      "rank": 1,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 1583221,
+      "num": 2149542,
+      "word": "中美元首边走边谈",
+      "onboard_time": 1778825241,
       "rank": 1,
       "category": "国内时政"
     },
@@ -107,6 +131,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 974893,
+      "num": 585018,
+      "word": "孙怡裤子穿反了",
+      "onboard_time": 1778826503,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 972956,
       "num": 440546,
       "word": "榜一大哥花400万追主播连面都没见过",
@@ -121,6 +153,14 @@
       "onboard_time": 1778761941,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 797069,
+      "num": 540428,
+      "word": "特朗普说能待得惯可能都不想走了",
+      "onboard_time": 1778827702,
+      "rank": 12,
+      "category": "国内时政"
     },
     {
       "raw_hot": 792947,
@@ -171,6 +211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 727085,
+      "num": 727085,
+      "word": "曝杨幂杨紫白玉兰二选一提名",
+      "onboard_time": 1778828961,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 699235,
       "num": 637244,
       "word": "中美元首达成一系列新共识",
@@ -185,6 +233,14 @@
       "onboard_time": 1778753481,
       "rank": 5,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 637019,
+      "num": 532969,
+      "word": "A股",
+      "onboard_time": 1778825361,
+      "rank": 13,
+      "category": "财经"
     },
     {
       "raw_hot": 632377,
@@ -217,6 +273,14 @@
       "onboard_time": 1778805261,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 586144,
+      "num": 508243,
+      "word": "新来的同事脑子就是好使",
+      "onboard_time": 1778819482,
+      "rank": 19,
+      "category": "情感"
     },
     {
       "raw_hot": 582924,
@@ -275,12 +339,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 504887,
+      "num": 504887,
+      "word": "浪姐 遛观众",
+      "onboard_time": 1778821639,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 497114,
       "num": 473388,
       "word": "浪姐师姐秀小考推迟",
       "onboard_time": 1778818221,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 472102,
+      "num": 472102,
+      "word": "特朗普离京",
+      "onboard_time": 1778825663,
+      "rank": 16,
+      "category": "国内时政"
     },
     {
       "raw_hot": 462517,
@@ -315,12 +395,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 407645,
+      "num": 407645,
+      "word": "安崎说把房子卖了",
+      "onboard_time": 1778825481,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 406626,
       "num": 499788,
       "word": "李乃文杨幂梅婷等19人任副会长",
       "onboard_time": 1778813781,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 402661,
+      "num": 402661,
+      "word": "白宫发布中国仪仗队画面",
+      "onboard_time": 1778826201,
+      "rank": 18,
+      "category": "国内时政"
     },
     {
       "raw_hot": 401559,
@@ -347,6 +443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 387948,
+      "num": 596648,
+      "word": "中美元首中南海小范围会晤高清大图",
+      "onboard_time": 1778827880,
+      "rank": 5,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 380645,
       "num": 380645,
       "word": "泰兰尼斯被曝千元童鞋成本仅37元",
@@ -363,6 +467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 366144,
+      "num": 366144,
+      "word": "要小心身边的假好心同事",
+      "onboard_time": 1778824520,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
       "raw_hot": 338992,
       "num": 485745,
       "word": "乘风师姐帮唱小考",
@@ -371,12 +483,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 336017,
-      "num": 508243,
-      "word": "新来的同事脑子就是好使",
-      "onboard_time": 1778819482,
-      "rank": 19,
-      "category": "情感"
+      "raw_hot": 319635,
+      "num": 319635,
+      "word": "女子拼死留住的巴掌双胞胎1岁半了",
+      "onboard_time": 1778823081,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 313881,
@@ -384,6 +496,14 @@
       "word": "巴基斯坦总理将访华",
       "onboard_time": 1778802440,
       "rank": 18,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 306634,
+      "num": 306634,
+      "word": "特朗普说中国军人棒极了",
+      "onboard_time": 1778825241,
+      "rank": 30,
       "category": "国际时政"
     },
     {
@@ -401,6 +521,22 @@
       "onboard_time": 1778811561,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 279953,
+      "num": 279953,
+      "word": "特朗普说此次访华非常成功",
+      "onboard_time": 1778825301,
+      "rank": 32,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 274507,
+      "num": 274507,
+      "word": "迪丽热巴的水果剧还是太超前了",
+      "onboard_time": 1778822062,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 271076,
@@ -427,6 +563,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 250755,
+      "num": 582051,
+      "word": "名侦探柯南",
+      "onboard_time": 1778820502,
+      "rank": 7,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 248981,
       "num": 479477,
       "word": "白鹿李昀锐搭档",
@@ -443,6 +587,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 236694,
+      "num": 275535,
+      "word": "张元英无眼妆封面",
+      "onboard_time": 1778828122,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 235974,
       "num": 463764,
       "word": "2工人高空作业1人被推下钢架",
@@ -451,12 +603,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 229966,
+      "num": 229966,
+      "word": "青春修炼手册小考赢了宝莲",
+      "onboard_time": 1778825182,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 227757,
       "num": 196802,
       "word": "阚清子吃汉堡发现汉堡皮装反了",
       "onboard_time": 1778800458,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 224623,
+      "num": 576406,
+      "word": "当我在DeepSeek输入think",
+      "onboard_time": 1778820322,
+      "rank": 8,
+      "category": "互联网,民生新闻"
     },
     {
       "raw_hot": 222350,
@@ -483,12 +651,44 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 215787,
+      "num": 241069,
+      "word": "此狗睡商极高",
+      "onboard_time": 1778829920,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 214544,
       "num": 456280,
       "word": "孙颖莎Tatler亚洲十大体育明星",
       "onboard_time": 1778818701,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 214415,
+      "num": 214415,
+      "word": "TOP 衢州演唱会",
+      "onboard_time": 1778829920,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 211163,
+      "num": 211163,
+      "word": "痞幼脱鞋与毛巾二叔合照",
+      "onboard_time": 1778824042,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 210193,
+      "num": 306814,
+      "word": "这就是我花一万买iPhone的意义",
+      "onboard_time": 1778829622,
+      "rank": 29,
+      "category": "数码"
     },
     {
       "raw_hot": 202598,
@@ -539,6 +739,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 186442,
+      "num": 224987,
+      "word": "iPhone华为同时降价",
+      "onboard_time": 1778830280,
+      "rank": 38,
+      "category": "数码"
+    },
+    {
       "raw_hot": 177723,
       "num": 252997,
       "word": "樊振东令欧冠斩获中国媒体突破",
@@ -587,6 +795,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 170766,
+      "num": 212780,
+      "word": "阳光电源",
+      "onboard_time": 1778828122,
+      "rank": 48,
+      "category": "财经,互联网"
+    },
+    {
       "raw_hot": 170258,
       "num": 406960,
       "word": "英国乒乓球官方称赞孙颖莎人品和球技",
@@ -619,20 +835,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 154374,
+      "num": 222012,
+      "word": "王力宏官宣新身份",
+      "onboard_time": 1778825361,
+      "rank": 41,
+      "category": "艺人,汽车"
+    },
+    {
       "raw_hot": 153851,
       "num": 199245,
       "word": "杨幂中国视协双新工作委员会副会长",
       "onboard_time": 1778806400,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 152484,
-      "num": 456020,
-      "word": "浪姐 遛观众",
-      "onboard_time": 1778821639,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 152270,
@@ -699,6 +915,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 139315,
+      "num": 220444,
+      "word": "杨洋游船 幸亏建桥没有偷工减料",
+      "onboard_time": 1778829142,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 136648,
       "num": 184814,
       "word": "国际足联官员来京谈判转播权",
@@ -723,12 +947,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 132352,
+      "num": 392485,
+      "word": "容易紧张是缺乏主体性",
+      "onboard_time": 1778830342,
+      "rank": 19,
+      "category": "情感"
+    },
+    {
       "raw_hot": 127359,
       "num": 96021,
       "word": "那英再次加盟歌手",
       "onboard_time": 1778773161,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 125886,
+      "num": 369413,
+      "word": "狗狗陪跑帮女生成功打破校记录",
+      "onboard_time": 1778830280,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 122754,
@@ -784,6 +1024,14 @@
       "word": "皇马2比0皇家奥维耶多",
       "onboard_time": 1778807181,
       "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 110892,
+      "num": 215799,
+      "word": "孙颖莎绝莎",
+      "onboard_time": 1778830224,
+      "rank": 45,
       "category": "体育"
     },
     {
@@ -873,6 +1121,14 @@
       "onboard_time": 1778762602,
       "rank": 23,
       "category": "电影"
+    },
+    {
+      "raw_hot": 85008,
+      "num": 223299,
+      "word": "张杰知道宋亚轩是女婿候选人吗",
+      "onboard_time": 1778829321,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 77818,
@@ -1003,6 +1259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 61285,
+      "num": 552639,
+      "word": "原来我跟刘宇宁是同担",
+      "onboard_time": 1778828841,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 59951,
       "num": 72630,
       "word": "女子喂宠物猪鼻蛇被咬手肿如气球",
@@ -1033,6 +1297,14 @@
       "onboard_time": 1778774241,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 53539,
+      "num": 214736,
+      "word": "舒客陪伴穆祉丞的一天",
+      "onboard_time": 1778825361,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 53459,
@@ -1219,6 +1491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 26762,
+      "num": 217756,
+      "word": "蒋敦豪李耕耘鹭卓大战蚂蝗",
+      "onboard_time": 1778830342,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 25940,
       "num": 510580,
       "word": "对绿皮车吸烟现象说拜拜",
@@ -1240,6 +1520,14 @@
       "word": "构建中美建设性战略稳定关系",
       "onboard_time": 1778784915,
       "rank": 42,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 21696,
+      "num": 1723011,
+      "word": "跨越太平洋的握手",
+      "onboard_time": 1778830161,
+      "rank": 2,
       "category": "国内时政"
     },
     {
@@ -1268,6 +1556,9 @@
     },
     {
       "word": "#习近平提出中美关系三问#"
+    },
+    {
+      "word": "#习近平同特朗普小范围会晤#"
     }
   ]
 }

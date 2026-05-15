@@ -1,6 +1,6 @@
 {
   "startTime": 1778342585344,
-  "endTime": 1778821823117,
+  "endTime": 1778830392897,
   "band_list": [
     {
       "raw_hot": 20021872,
@@ -33,6 +33,14 @@
       "onboard_time": 1778502381,
       "rank": 22,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 14490517,
+      "num": 14490517,
+      "word": "特朗普结束访华",
+      "onboard_time": 1778825241,
+      "rank": 0,
+      "category": "国内时政"
     },
     {
       "raw_hot": 13876227,
@@ -289,6 +297,14 @@
       "onboard_time": 1778723001,
       "rank": 0,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 2528212,
+      "num": 558378,
+      "word": "横店的剧组快灭亡了",
+      "onboard_time": 1778827282,
+      "rank": 10,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 2460654,
@@ -673,6 +689,14 @@
       "onboard_time": 1778404340,
       "rank": 40,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1583221,
+      "num": 2149542,
+      "word": "中美元首边走边谈",
+      "onboard_time": 1778825241,
+      "rank": 1,
+      "category": "国内时政"
     },
     {
       "raw_hot": 1578316,
@@ -1196,7 +1220,7 @@
     },
     {
       "raw_hot": 1071162,
-      "num": 475464,
+      "num": 532969,
       "word": "A股",
       "onboard_time": 1778467700,
       "rank": 23,
@@ -1313,6 +1337,14 @@
       "onboard_time": 1778589740,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 974893,
+      "num": 585018,
+      "word": "孙怡裤子穿反了",
+      "onboard_time": 1778826503,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 972956,
@@ -1763,6 +1795,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 797069,
+      "num": 540428,
+      "word": "特朗普说能待得惯可能都不想走了",
+      "onboard_time": 1778827702,
+      "rank": 12,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 792947,
       "num": 501305,
       "word": "黄金",
@@ -1969,6 +2009,14 @@
       "onboard_time": 1778814380,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 727085,
+      "num": 727085,
+      "word": "曝杨幂杨紫白玉兰二选一提名",
+      "onboard_time": 1778828961,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 721842,
@@ -2475,6 +2523,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 586144,
+      "num": 508243,
+      "word": "新来的同事脑子就是好使",
+      "onboard_time": 1778819482,
+      "rank": 19,
+      "category": "情感"
+    },
+    {
       "raw_hot": 585232,
       "num": 483782,
       "word": "美民众谈特朗普访华",
@@ -2955,6 +3011,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 504887,
+      "num": 504887,
+      "word": "浪姐 遛观众",
+      "onboard_time": 1778821639,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 504292,
       "num": 259470,
       "word": "田曦薇告别低智商犯罪",
@@ -3201,6 +3265,14 @@
       "onboard_time": 1778324121,
       "rank": 7,
       "category": "情感"
+    },
+    {
+      "raw_hot": 472102,
+      "num": 472102,
+      "word": "特朗普离京",
+      "onboard_time": 1778825663,
+      "rank": 16,
+      "category": "国内时政"
     },
     {
       "raw_hot": 471990,
@@ -3683,6 +3755,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 407645,
+      "num": 407645,
+      "word": "安崎说把房子卖了",
+      "onboard_time": 1778825481,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 406899,
       "num": 406899,
       "word": "王楚钦不打球的时候长这样",
@@ -3745,6 +3825,14 @@
       "onboard_time": 1778730563,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 402661,
+      "num": 402661,
+      "word": "白宫发布中国仪仗队画面",
+      "onboard_time": 1778826201,
+      "rank": 18,
+      "category": "国内时政"
     },
     {
       "raw_hot": 401559,
@@ -3905,6 +3993,14 @@
       "onboard_time": 1778801119,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 387948,
+      "num": 596648,
+      "word": "中美元首中南海小范围会晤高清大图",
+      "onboard_time": 1778827880,
+      "rank": 5,
+      "category": "国内时政"
     },
     {
       "raw_hot": 387546,
@@ -4073,6 +4169,14 @@
       "onboard_time": 1778459661,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 366144,
+      "num": 366144,
+      "word": "要小心身边的假好心同事",
+      "onboard_time": 1778824520,
+      "rank": 25,
+      "category": "情感"
     },
     {
       "raw_hot": 366127,
@@ -4419,14 +4523,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 336017,
-      "num": 508243,
-      "word": "新来的同事脑子就是好使",
-      "onboard_time": 1778819482,
-      "rank": 19,
-      "category": "情感"
-    },
-    {
       "raw_hot": 335176,
       "num": 262787,
       "word": "陈翔六点半吴妈因病去世",
@@ -4643,6 +4739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 319635,
+      "num": 319635,
+      "word": "女子拼死留住的巴掌双胞胎1岁半了",
+      "onboard_time": 1778823081,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 318849,
       "num": 318849,
       "word": "德国跨国迷奸案",
@@ -4769,6 +4873,14 @@
       "onboard_time": 1778465720,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 306634,
+      "num": 306634,
+      "word": "特朗普说中国军人棒极了",
+      "onboard_time": 1778825241,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 305182,
@@ -5035,6 +5147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 279953,
+      "num": 279953,
+      "word": "特朗普说此次访华非常成功",
+      "onboard_time": 1778825301,
+      "rank": 32,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 279726,
       "num": 279726,
       "word": "嫁金钗",
@@ -5113,6 +5233,14 @@
       "onboard_time": 1778432418,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 274507,
+      "num": 274507,
+      "word": "迪丽热巴的水果剧还是太超前了",
+      "onboard_time": 1778822062,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 274334,
@@ -5515,6 +5643,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 250755,
+      "num": 582051,
+      "word": "名侦探柯南",
+      "onboard_time": 1778820502,
+      "rank": 7,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 250090,
       "num": 384569,
       "word": "王曼昱给孙颖莎看手机",
@@ -5779,6 +5915,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 236694,
+      "num": 275535,
+      "word": "张元英无眼妆封面",
+      "onboard_time": 1778828122,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 236633,
       "num": 429744,
       "word": "90岁外公强撑目送外孙婚车后安详离世",
@@ -5907,6 +6051,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 229966,
+      "num": 229966,
+      "word": "青春修炼手册小考赢了宝莲",
+      "onboard_time": 1778825182,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 229475,
       "num": 270631,
       "word": "这一秒过火",
@@ -5985,6 +6137,14 @@
       "onboard_time": 1778641459,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 224623,
+      "num": 576406,
+      "word": "当我在DeepSeek输入think",
+      "onboard_time": 1778820322,
+      "rank": 8,
+      "category": "互联网,民生新闻"
     },
     {
       "raw_hot": 223970,
@@ -6155,6 +6315,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 215787,
+      "num": 241069,
+      "word": "此狗睡商极高",
+      "onboard_time": 1778829920,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 215717,
       "num": 283897,
       "word": "安倍晋三遗孀陪赖清德跪日本人",
@@ -6193,6 +6361,14 @@
       "onboard_time": 1778818701,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 214415,
+      "num": 214415,
+      "word": "TOP 衢州演唱会",
+      "onboard_time": 1778829920,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 214212,
@@ -6259,6 +6435,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 211163,
+      "num": 211163,
+      "word": "痞幼脱鞋与毛巾二叔合照",
+      "onboard_time": 1778824042,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 211094,
       "num": 491156,
       "word": "穆祉丞 舒客",
@@ -6281,6 +6465,14 @@
       "onboard_time": 1778647161,
       "rank": 39,
       "category": "财经"
+    },
+    {
+      "raw_hot": 210193,
+      "num": 306814,
+      "word": "这就是我花一万买iPhone的意义",
+      "onboard_time": 1778829622,
+      "rank": 29,
+      "category": "数码"
     },
     {
       "raw_hot": 209932,
@@ -6843,6 +7035,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 186442,
+      "num": 224987,
+      "word": "iPhone华为同时降价",
+      "onboard_time": 1778830280,
+      "rank": 38,
+      "category": "数码"
+    },
+    {
       "raw_hot": 186248,
       "num": 246345,
       "word": "随特朗普访华的商界代表有谁",
@@ -7395,6 +7595,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 170766,
+      "num": 212780,
+      "word": "阳光电源",
+      "onboard_time": 1778828122,
+      "rank": 48,
+      "category": "财经,互联网"
+    },
+    {
       "raw_hot": 170764,
       "num": 294776,
       "word": "一诺燃尽了",
@@ -7787,6 +7995,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 154374,
+      "num": 222012,
+      "word": "王力宏官宣新身份",
+      "onboard_time": 1778825361,
+      "rank": 41,
+      "category": "艺人,汽车"
+    },
+    {
       "raw_hot": 154179,
       "num": 154179,
       "word": "原来血糖变化会带来巨大的饥饿感",
@@ -7817,14 +8033,6 @@
       "onboard_time": 1778496800,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 152484,
-      "num": 456020,
-      "word": "浪姐 遛观众",
-      "onboard_time": 1778821639,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 152270,
@@ -8147,6 +8355,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 139315,
+      "num": 220444,
+      "word": "杨洋游船 幸亏建桥没有偷工减料",
+      "onboard_time": 1778829142,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 138924,
       "num": 138924,
       "word": "美国专家PPT里惊现肖战",
@@ -8313,6 +8529,14 @@
       "onboard_time": 1778653101,
       "rank": 44,
       "category": "电影"
+    },
+    {
+      "raw_hot": 132352,
+      "num": 392485,
+      "word": "容易紧张是缺乏主体性",
+      "onboard_time": 1778830342,
+      "rank": 19,
+      "category": "情感"
     },
     {
       "raw_hot": 132279,
@@ -8521,6 +8745,14 @@
       "onboard_time": 1778628739,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 125886,
+      "num": 369413,
+      "word": "狗狗陪跑帮女生成功打破校记录",
+      "onboard_time": 1778830280,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 125885,
@@ -8817,6 +9049,14 @@
       "onboard_time": 1778771364,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 110892,
+      "num": 215799,
+      "word": "孙颖莎绝莎",
+      "onboard_time": 1778830224,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 110477,
@@ -9249,6 +9489,14 @@
       "onboard_time": 1778817922,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 85008,
+      "num": 223299,
+      "word": "张杰知道宋亚轩是女婿候选人吗",
+      "onboard_time": 1778829321,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 84096,
@@ -9715,6 +9963,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 61285,
+      "num": 552639,
+      "word": "原来我跟刘宇宁是同担",
+      "onboard_time": 1778828841,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 60795,
       "num": 284206,
       "word": "沈腾免单",
@@ -10001,6 +10257,14 @@
       "onboard_time": 1778394320,
       "rank": 29,
       "category": "情感"
+    },
+    {
+      "raw_hot": 53539,
+      "num": 214736,
+      "word": "舒客陪伴穆祉丞的一天",
+      "onboard_time": 1778825361,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 53519,
@@ -10811,6 +11075,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 26762,
+      "num": 217756,
+      "word": "蒋敦豪李耕耘鹭卓大战蚂蝗",
+      "onboard_time": 1778830342,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 26752,
       "num": 263222,
       "word": "这就是烟火日常里的奇妙力",
@@ -10985,6 +11257,14 @@
       "onboard_time": 1778420781,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 21696,
+      "num": 1723011,
+      "word": "跨越太平洋的握手",
+      "onboard_time": 1778830161,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 21326,
@@ -11471,6 +11751,9 @@
     },
     {
       "word": "#习近平提出中美关系三问#"
+    },
+    {
+      "word": "#习近平同特朗普小范围会晤#"
     }
   ]
 }
