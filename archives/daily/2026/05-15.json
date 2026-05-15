@@ -1,7 +1,15 @@
 {
   "startTime": 1778781642218,
-  "endTime": 1778808200275,
+  "endTime": 1778817644026,
   "band_list": [
+    {
+      "raw_hot": 15057331,
+      "num": 15057331,
+      "word": "iPhone17Pro降价2000",
+      "onboard_time": 1778807598,
+      "rank": 1,
+      "category": "数码"
+    },
     {
       "raw_hot": 3949971,
       "num": 803293,
@@ -19,12 +27,44 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1382835,
-      "num": 1079833,
-      "word": "iPhone17Pro降价2000",
-      "onboard_time": 1778807598,
+      "raw_hot": 2354357,
+      "num": 495677,
+      "word": "毛利兰声优去世",
+      "onboard_time": 1778816300,
+      "rank": 11,
+      "category": "艺人,动漫"
+    },
+    {
+      "raw_hot": 1227260,
+      "num": 1168581,
+      "word": "方媛说我不喜欢坐旁边",
+      "onboard_time": 1778815220,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1215874,
+      "num": 1171070,
+      "word": "特朗普抵达中南海",
+      "onboard_time": 1778816300,
       "rank": 1,
-      "category": "数码"
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 1168109,
+      "num": 1168109,
+      "word": "头一次见老胞胎",
+      "onboard_time": 1778810841,
+      "rank": 4,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 1073794,
+      "num": 1171807,
+      "word": "中美领导人小范围会晤",
+      "onboard_time": 1778814441,
+      "rank": 0,
+      "category": "国内时政"
     },
     {
       "raw_hot": 972956,
@@ -41,6 +81,14 @@
       "onboard_time": 1778761941,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 792947,
+      "num": 277006,
+      "word": "黄金",
+      "onboard_time": 1778811440,
+      "rank": 20,
+      "category": "财经"
     },
     {
       "raw_hot": 778632,
@@ -65,6 +113,22 @@
       "onboard_time": 1778758763,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 727369,
+      "num": 727369,
+      "word": "李纯哄马頔看呆张豆豆",
+      "onboard_time": 1778814380,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 699235,
+      "num": 556749,
+      "word": "中美元首达成一系列新共识",
+      "onboard_time": 1778814259,
+      "rank": 7,
+      "category": "国内时政"
     },
     {
       "raw_hot": 689018,
@@ -99,6 +163,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 578596,
+      "num": 493270,
+      "word": "iPhone18Pro配色是夯还是拉",
+      "onboard_time": 1778814621,
+      "rank": 12,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 577242,
+      "num": 465655,
+      "word": "何猷君奚梦瑶和保镖同桌吃饭",
+      "onboard_time": 1778810841,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 576818,
       "num": 521881,
       "word": "国家反诈中心APP 检测AI图",
@@ -107,12 +187,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 565831,
+      "num": 565831,
+      "word": "英伟达H200芯片获批入华",
+      "onboard_time": 1778817261,
+      "rank": 6,
+      "category": "数码,互联网"
+    },
+    {
       "raw_hot": 527388,
       "num": 395347,
       "word": "马斯克携幼子现身人民大会堂",
       "onboard_time": 1778756182,
       "rank": 13,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 465004,
+      "num": 465004,
+      "word": "iPhone18",
+      "onboard_time": 1778816359,
+      "rank": 14,
+      "category": "数码"
     },
     {
       "raw_hot": 462517,
@@ -139,6 +235,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 418725,
+      "num": 418725,
+      "word": "日文网帖竟炫耀在印尼嫖宿幼女",
+      "onboard_time": 1778814680,
+      "rank": 15,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 388747,
+      "num": 388747,
+      "word": "李乃文杨幂梅婷等19人任副会长",
+      "onboard_time": 1778813781,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 388090,
       "num": 388090,
       "word": "大唐辟珠记 田曦薇",
@@ -163,12 +275,52 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 373677,
+      "num": 373677,
+      "word": "方媛女孩子的配得感",
+      "onboard_time": 1778809099,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 373395,
+      "num": 532771,
+      "word": "国际足联报价腰斩",
+      "onboard_time": 1778813360,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 334409,
+      "num": 278080,
+      "word": "老人捡破烂攒6万买床垫与儿子反目",
+      "onboard_time": 1778816720,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 313881,
       "num": 313881,
       "word": "巴基斯坦总理将访华",
       "onboard_time": 1778802440,
       "rank": 18,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 305047,
+      "num": 264981,
+      "word": "机票燃油附加费明天起上调",
+      "onboard_time": 1778806941,
+      "rank": 28,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 287340,
+      "num": 275621,
+      "word": "金莎自曝长针眼了",
+      "onboard_time": 1778811561,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 260732,
@@ -187,6 +339,30 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 245395,
+      "num": 260958,
+      "word": "支付宝正寻求警方帮助",
+      "onboard_time": 1778817501,
+      "rank": 31,
+      "category": "舆论监督,互联网"
+    },
+    {
+      "raw_hot": 240514,
+      "num": 259986,
+      "word": "买iPhone17还是等iPhone18",
+      "onboard_time": 1778816359,
+      "rank": 32,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 229355,
+      "num": 258955,
+      "word": "2工人高空作业1人被推下钢架",
+      "onboard_time": 1778815521,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 227757,
       "num": 196802,
       "word": "阚清子吃汉堡发现汉堡皮装反了",
@@ -195,12 +371,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 222910,
-      "num": 195554,
-      "word": "机票燃油附加费明天起上调",
-      "onboard_time": 1778806941,
-      "rank": 28,
-      "category": "财经"
+      "raw_hot": 225974,
+      "num": 256590,
+      "word": "华为Mate X7直降1000元",
+      "onboard_time": 1778816424,
+      "rank": 34,
+      "category": "数码"
     },
     {
       "raw_hot": 222350,
@@ -217,6 +393,22 @@
       "onboard_time": 1778802440,
       "rank": 33,
       "category": "电影"
+    },
+    {
+      "raw_hot": 217361,
+      "num": 256207,
+      "word": "特朗普谈两国人民共同点",
+      "onboard_time": 1778813241,
+      "rank": 35,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 202598,
+      "num": 254194,
+      "word": "蔡徐坤首张实体专辑",
+      "onboard_time": 1778814201,
+      "rank": 36,
+      "category": "音乐"
     },
     {
       "raw_hot": 201050,
@@ -251,6 +443,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 177723,
+      "num": 252997,
+      "word": "樊振东令欧冠斩获中国媒体突破",
+      "onboard_time": 1778807899,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 177583,
       "num": 188174,
       "word": "李昀锐别把白鹿扇感冒了",
@@ -267,6 +467,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 173399,
+      "num": 271025,
+      "word": "张本美和直言孙颖莎是怪物级选手",
+      "onboard_time": 1778816424,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 172460,
       "num": 186566,
       "word": "河南17岁失联男孩遗体已找到",
@@ -275,11 +483,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 171774,
+      "num": 251494,
+      "word": "男子骗养20多只狗供烈犬撕咬被刑拘",
+      "onboard_time": 1778814680,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 170258,
       "num": 406960,
       "word": "英国乒乓球官方称赞孙颖莎人品和球技",
       "onboard_time": 1778789533,
       "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 162422,
+      "num": 246408,
+      "word": "姆巴佩曝自己在皇马被排成第四前锋",
+      "onboard_time": 1778816481,
+      "rank": 42,
       "category": "体育"
     },
     {
@@ -315,12 +539,52 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 151719,
+      "num": 244140,
+      "word": "歌手",
+      "onboard_time": 1778772261,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 150046,
+      "num": 243972,
+      "word": "田曦薇唯一爱奇艺三破万女主",
+      "onboard_time": 1778812940,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 142253,
+      "num": 239907,
+      "word": "杨紫新剧一人一巴掌",
+      "onboard_time": 1778807540,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 142183,
       "num": 184208,
       "word": "复旦大学王德峰教授谈缘起性空",
       "onboard_time": 1778794934,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 141905,
+      "num": 267855,
+      "word": "穆祉丞 舒客",
+      "onboard_time": 1778816901,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 141213,
+      "num": 238519,
+      "word": "妻子回应42岁丈夫确诊老年痴呆",
+      "onboard_time": 1778812701,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 141076,
@@ -355,20 +619,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 126152,
-      "num": 179615,
-      "word": "杨紫新剧一人一巴掌",
-      "onboard_time": 1778807540,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 122754,
       "num": 178575,
       "word": "学生邱某某发虐猫影像被开除学籍",
       "onboard_time": 1778806520,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 121547,
+      "num": 238087,
+      "word": "你买iPhone17还是等iPhone18",
+      "onboard_time": 1778816541,
+      "rank": 48,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 120637,
+      "num": 235971,
+      "word": "阿嬷李思潼票房",
+      "onboard_time": 1778817622,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 117890,
@@ -379,28 +651,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 115567,
-      "num": 177538,
-      "word": "歌手",
-      "onboard_time": 1778772261,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 115273,
       "num": 112137,
       "word": "10种不舒服是抑郁症躯体化表现",
       "onboard_time": 1778759362,
       "rank": 21,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 115226,
-      "num": 176315,
-      "word": "樊振东令欧冠斩获中国媒体突破",
-      "onboard_time": 1778807899,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 112424,
@@ -433,6 +689,14 @@
       "onboard_time": 1778748623,
       "rank": 9,
       "category": "电影"
+    },
+    {
+      "raw_hot": 103818,
+      "num": 249483,
+      "word": "我被AI短剧盗脸了",
+      "onboard_time": 1778806881,
+      "rank": 30,
+      "category": "作品衍生,互联网"
     },
     {
       "raw_hot": 101697,
@@ -483,12 +747,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 78054,
-      "num": 194225,
-      "word": "我被AI短剧盗脸了",
-      "onboard_time": 1778806881,
-      "rank": 30,
-      "category": "作品衍生,互联网"
+      "raw_hot": 82472,
+      "num": 1168723,
+      "word": "天坛里的对称之美",
+      "onboard_time": 1778812641,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 77818,
@@ -497,6 +761,14 @@
       "onboard_time": 1778766442,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 77561,
+      "num": 273821,
+      "word": "iPhone是618的特产吗",
+      "onboard_time": 1778817382,
+      "rank": 22,
+      "category": "数码"
     },
     {
       "raw_hot": 77410,
@@ -627,12 +899,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 48157,
+      "num": 267314,
+      "word": "京东618夏日歌会阵容",
+      "onboard_time": 1778814621,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
       "raw_hot": 47744,
       "num": 81595,
       "word": "浪姐",
       "onboard_time": 1778769624,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 45526,
+      "num": 545580,
+      "word": "外交部就伊朗局势答问",
+      "onboard_time": 1778816720,
+      "rank": 8,
+      "category": "国际时政"
     },
     {
       "raw_hot": 45525,
@@ -731,6 +1019,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 31286,
+      "num": 269994,
+      "word": "胡歌的新搭子给到夯",
+      "onboard_time": 1778814980,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 29456,
       "num": 68052,
       "word": "小鬼新加坡站延期",
@@ -793,6 +1089,9 @@
     },
     {
       "word": "#习近平为美国总统举行欢迎宴会#"
+    },
+    {
+      "word": "#习近平提出中美关系三问#"
     }
   ]
 }

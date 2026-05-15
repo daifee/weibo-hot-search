@@ -1,6 +1,6 @@
 {
   "startTime": 1778342585344,
-  "endTime": 1778808200275,
+  "endTime": 1778817644026,
   "band_list": [
     {
       "raw_hot": 20021872,
@@ -17,6 +17,14 @@
       "onboard_time": 1778420603,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 15057331,
+      "num": 15057331,
+      "word": "iPhone17Pro降价2000",
+      "onboard_time": 1778807598,
+      "rank": 1,
+      "category": "数码"
     },
     {
       "raw_hot": 14929156,
@@ -297,6 +305,14 @@
       "onboard_time": 1778800339,
       "rank": 10,
       "category": "体育"
+    },
+    {
+      "raw_hot": 2354357,
+      "num": 495677,
+      "word": "毛利兰声优去世",
+      "onboard_time": 1778816300,
+      "rank": 11,
+      "category": "艺人,动漫"
     },
     {
       "raw_hot": 2302381,
@@ -835,14 +851,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 1382835,
-      "num": 1079833,
-      "word": "iPhone17Pro降价2000",
-      "onboard_time": 1778807598,
-      "rank": 1,
-      "category": "数码"
-    },
-    {
       "raw_hot": 1374654,
       "num": 427929,
       "word": "女子酒店一丝不挂被开房门",
@@ -971,6 +979,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1227260,
+      "num": 1168581,
+      "word": "方媛说我不喜欢坐旁边",
+      "onboard_time": 1778815220,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1215874,
+      "num": 1171070,
+      "word": "特朗普抵达中南海",
+      "onboard_time": 1778816300,
+      "rank": 1,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 1215791,
       "num": 279565,
       "word": "蔡文静直播哭着唱歌",
@@ -1033,6 +1057,14 @@
       "onboard_time": 1778665821,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1168109,
+      "num": 1168109,
+      "word": "头一次见老胞胎",
+      "onboard_time": 1778810841,
+      "rank": 4,
+      "category": "幽默"
     },
     {
       "raw_hot": 1163324,
@@ -1113,6 +1145,14 @@
       "onboard_time": 1778542758,
       "rank": 4,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 1073794,
+      "num": 1171807,
+      "word": "中美领导人小范围会晤",
+      "onboard_time": 1778814441,
+      "rank": 0,
+      "category": "国内时政"
     },
     {
       "raw_hot": 1073574,
@@ -1683,6 +1723,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 792947,
+      "num": 277006,
+      "word": "黄金",
+      "onboard_time": 1778811440,
+      "rank": 20,
+      "category": "财经"
+    },
+    {
       "raw_hot": 788277,
       "num": 499330,
       "word": "曝限薪令前顶流1.8亿片酬",
@@ -1867,6 +1915,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 727369,
+      "num": 727369,
+      "word": "李纯哄马頔看呆张豆豆",
+      "onboard_time": 1778814380,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 721842,
       "num": 721842,
       "word": "田曦薇孙珍妮双女主",
@@ -1945,6 +2001,14 @@
       "onboard_time": 1778659160,
       "rank": 4,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 699235,
+      "num": 556749,
+      "word": "中美元首达成一系列新共识",
+      "onboard_time": 1778814259,
+      "rank": 7,
+      "category": "国内时政"
     },
     {
       "raw_hot": 695880,
@@ -2387,6 +2451,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 578596,
+      "num": 493270,
+      "word": "iPhone18Pro配色是夯还是拉",
+      "onboard_time": 1778814621,
+      "rank": 12,
+      "category": "数码"
+    },
+    {
       "raw_hot": 578242,
       "num": 360297,
       "word": "摸腿事件脱口秀女演员一年还没走出来",
@@ -2401,6 +2473,14 @@
       "onboard_time": 1778498000,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 577242,
+      "num": 465655,
+      "word": "何猷君奚梦瑶和保镖同桌吃饭",
+      "onboard_time": 1778810841,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 576818,
@@ -2457,6 +2537,14 @@
       "onboard_time": 1778640499,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 565831,
+      "num": 565831,
+      "word": "英伟达H200芯片获批入华",
+      "onboard_time": 1778817261,
+      "rank": 6,
+      "category": "数码,互联网"
     },
     {
       "raw_hot": 564727,
@@ -3115,6 +3203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 465004,
+      "num": 465004,
+      "word": "iPhone18",
+      "onboard_time": 1778816359,
+      "rank": 14,
+      "category": "数码"
+    },
+    {
       "raw_hot": 464997,
       "num": 442423,
       "word": "樊振东加盟杜塞上百家企业竞价赞助",
@@ -3435,6 +3531,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 418725,
+      "num": 418725,
+      "word": "日文网帖竟炫耀在印尼嫖宿幼女",
+      "onboard_time": 1778814680,
+      "rank": 15,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 417510,
       "num": 417510,
       "word": "湖人vs雷霆",
@@ -3691,6 +3795,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 388747,
+      "num": 388747,
+      "word": "李乃文杨幂梅婷等19人任副会长",
+      "onboard_time": 1778813781,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 388291,
       "num": 388291,
       "word": "红狼大战 只为去打JDG",
@@ -3801,6 +3913,22 @@
       "onboard_time": 1778770403,
       "rank": 30,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 373677,
+      "num": 373677,
+      "word": "方媛女孩子的配得感",
+      "onboard_time": 1778809099,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 373395,
+      "num": 532771,
+      "word": "国际足联报价腰斩",
+      "onboard_time": 1778813360,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 372711,
@@ -4243,6 +4371,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 334409,
+      "num": 278080,
+      "word": "老人捡破烂攒6万买床垫与儿子反目",
+      "onboard_time": 1778816720,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 333916,
       "num": 473290,
       "word": "果然岁月从不败美人",
@@ -4563,6 +4699,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 305047,
+      "num": 264981,
+      "word": "机票燃油附加费明天起上调",
+      "onboard_time": 1778806941,
+      "rank": 28,
+      "category": "财经"
+    },
+    {
       "raw_hot": 304944,
       "num": 304944,
       "word": "浪姐到底在录什么",
@@ -4753,6 +4897,14 @@
       "onboard_time": 1778463502,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 287340,
+      "num": 275621,
+      "word": "金莎自曝长针眼了",
+      "onboard_time": 1778811561,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 287269,
@@ -5371,6 +5523,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 245395,
+      "num": 260958,
+      "word": "支付宝正寻求警方帮助",
+      "onboard_time": 1778817501,
+      "rank": 31,
+      "category": "舆论监督,互联网"
+    },
+    {
       "raw_hot": 245205,
       "num": 245205,
       "word": "王暖暖抱着孩子泪流满面",
@@ -5457,6 +5617,14 @@
       "onboard_time": 1778497100,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 240514,
+      "num": 259986,
+      "word": "买iPhone17还是等iPhone18",
+      "onboard_time": 1778816359,
+      "rank": 32,
+      "category": "数码"
     },
     {
       "raw_hot": 240200,
@@ -5651,6 +5819,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 229355,
+      "num": 258955,
+      "word": "2工人高空作业1人被推下钢架",
+      "onboard_time": 1778815521,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 228989,
       "num": 543814,
       "word": "世界杯",
@@ -5699,6 +5875,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 225974,
+      "num": 256590,
+      "word": "华为Mate X7直降1000元",
+      "onboard_time": 1778816424,
+      "rank": 34,
+      "category": "数码"
+    },
+    {
       "raw_hot": 225898,
       "num": 557999,
       "word": "伊朗已回应美国提出的结束战争方案",
@@ -5744,14 +5928,6 @@
       "word": "韩国股市收盘前厕所挤爆了",
       "onboard_time": 1778754623,
       "rank": 32,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 222910,
-      "num": 195554,
-      "word": "机票燃油附加费明天起上调",
-      "onboard_time": 1778806941,
-      "rank": 28,
       "category": "财经"
     },
     {
@@ -5865,6 +6041,14 @@
       "onboard_time": 1778430979,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 217361,
+      "num": 256207,
+      "word": "特朗普谈两国人民共同点",
+      "onboard_time": 1778813241,
+      "rank": 35,
+      "category": "国际时政"
     },
     {
       "raw_hot": 216809,
@@ -6129,6 +6313,14 @@
       "onboard_time": 1778649562,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 202598,
+      "num": 254194,
+      "word": "蔡徐坤首张实体专辑",
+      "onboard_time": 1778814201,
+      "rank": 36,
+      "category": "音乐"
     },
     {
       "raw_hot": 202383,
@@ -6580,7 +6772,7 @@
     },
     {
       "raw_hot": 184769,
-      "num": 184769,
+      "num": 244140,
       "word": "歌手",
       "onboard_time": 1778746522,
       "rank": 42,
@@ -6787,6 +6979,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 177723,
+      "num": 252997,
+      "word": "樊振东令欧冠斩获中国媒体突破",
+      "onboard_time": 1778807899,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 177583,
       "num": 188174,
       "word": "李昀锐别把白鹿扇感冒了",
@@ -6963,6 +7163,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 173399,
+      "num": 271025,
+      "word": "张本美和直言孙颖莎是怪物级选手",
+      "onboard_time": 1778816424,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 173228,
       "num": 199013,
       "word": "朱丹曝有人做医美吃止痛片",
@@ -7057,6 +7265,14 @@
       "onboard_time": 1778658321,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 171774,
+      "num": 251494,
+      "word": "男子骗养20多只狗供烈犬撕咬被刑拘",
+      "onboard_time": 1778814680,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 171479,
@@ -7265,6 +7481,14 @@
       "onboard_time": 1778571502,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 162422,
+      "num": 246408,
+      "word": "姆巴佩曝自己在皇马被排成第四前锋",
+      "onboard_time": 1778816481,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 162146,
@@ -7571,6 +7795,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 150046,
+      "num": 243972,
+      "word": "田曦薇唯一爱奇艺三破万女主",
+      "onboard_time": 1778812940,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 149522,
       "num": 149522,
       "word": "孟子义狗狗祟祟",
@@ -7731,6 +7963,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 142253,
+      "num": 239907,
+      "word": "杨紫新剧一人一巴掌",
+      "onboard_time": 1778807540,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 142183,
       "num": 184208,
       "word": "复旦大学王德峰教授谈缘起性空",
@@ -7777,6 +8017,14 @@
       "onboard_time": 1778668279,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 141213,
+      "num": 238519,
+      "word": "妻子回应42岁丈夫确诊老年痴呆",
+      "onboard_time": 1778812701,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 140142,
@@ -8163,14 +8411,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 126152,
-      "num": 179615,
-      "word": "杨紫新剧一人一巴掌",
-      "onboard_time": 1778807540,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 125885,
       "num": 140284,
       "word": "法医刘良因家属送梨被告与人串通",
@@ -8267,12 +8507,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 121547,
+      "num": 238087,
+      "word": "你买iPhone17还是等iPhone18",
+      "onboard_time": 1778816541,
+      "rank": 48,
+      "category": "数码"
+    },
+    {
       "raw_hot": 121475,
       "num": 209222,
       "word": "严浩翔新歌MV",
       "onboard_time": 1778387780,
       "rank": 42,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 120637,
+      "num": 235971,
+      "word": "阿嬷李思潼票房",
+      "onboard_time": 1778817622,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 120508,
@@ -8369,14 +8625,6 @@
       "onboard_time": 1778472321,
       "rank": 31,
       "category": "体育,汽车"
-    },
-    {
-      "raw_hot": 115226,
-      "num": 176315,
-      "word": "樊振东令欧冠斩获中国媒体突破",
-      "onboard_time": 1778807899,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 114921,
@@ -8577,6 +8825,14 @@
       "onboard_time": 1778658860,
       "rank": 46,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 103818,
+      "num": 249483,
+      "word": "我被AI短剧盗脸了",
+      "onboard_time": 1778806881,
+      "rank": 30,
+      "category": "作品衍生,互联网"
     },
     {
       "raw_hot": 103648,
@@ -8899,6 +9155,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 82472,
+      "num": 1168723,
+      "word": "天坛里的对称之美",
+      "onboard_time": 1778812641,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 82323,
       "num": 117505,
       "word": "孕妇感染李斯特菌早产自曝曾吃外卖",
@@ -8987,12 +9251,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 78054,
-      "num": 194225,
-      "word": "我被AI短剧盗脸了",
-      "onboard_time": 1778806881,
-      "rank": 30,
-      "category": "作品衍生,互联网"
+      "raw_hot": 77561,
+      "num": 273821,
+      "word": "iPhone是618的特产吗",
+      "onboard_time": 1778817382,
+      "rank": 22,
+      "category": "数码"
     },
     {
       "raw_hot": 77547,
@@ -9699,6 +9963,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 48157,
+      "num": 267314,
+      "word": "京东618夏日歌会阵容",
+      "onboard_time": 1778814621,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
       "raw_hot": 47936,
       "num": 61439,
       "word": "狗 这水怎么会咬舌头",
@@ -9753,6 +10025,14 @@
       "onboard_time": 1778483539,
       "rank": 29,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 45526,
+      "num": 545580,
+      "word": "外交部就伊朗局势答问",
+      "onboard_time": 1778816720,
+      "rank": 8,
+      "category": "国际时政"
     },
     {
       "raw_hot": 45286,
@@ -10153,6 +10433,14 @@
       "onboard_time": 1778543058,
       "rank": 18,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 31286,
+      "num": 269994,
+      "word": "胡歌的新搭子给到夯",
+      "onboard_time": 1778814980,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 31245,
@@ -11004,6 +11292,9 @@
     },
     {
       "word": "#习近平为美国总统举行欢迎宴会#"
+    },
+    {
+      "word": "#习近平提出中美关系三问#"
     }
   ]
 }
