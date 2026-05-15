@@ -1,6 +1,6 @@
 {
   "startTime": 1778342585344,
-  "endTime": 1778830392897,
+  "endTime": 1778833420123,
   "band_list": [
     {
       "raw_hot": 20021872,
@@ -689,6 +689,14 @@
       "onboard_time": 1778404340,
       "rank": 40,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1590647,
+      "num": 371420,
+      "word": "阿雅视频抄袭",
+      "onboard_time": 1778830942,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 1583221,
@@ -1811,6 +1819,22 @@
       "category": "财经"
     },
     {
+      "raw_hot": 790360,
+      "num": 790360,
+      "word": "iPhone华为同时降价",
+      "onboard_time": 1778830280,
+      "rank": 38,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 789292,
+      "num": 370701,
+      "word": "这就是我花一万买iPhone的意义",
+      "onboard_time": 1778829622,
+      "rank": 29,
+      "category": "数码"
+    },
+    {
       "raw_hot": 788277,
       "num": 499330,
       "word": "曝限薪令前顶流1.8亿片酬",
@@ -2003,20 +2027,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 730960,
+      "num": 730960,
+      "word": "曝杨幂杨紫白玉兰二选一提名",
+      "onboard_time": 1778828961,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 727369,
       "num": 727369,
       "word": "李纯哄马頔看呆张豆豆",
       "onboard_time": 1778814380,
       "rank": 5,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 727085,
-      "num": 727085,
-      "word": "曝杨幂杨紫白玉兰二选一提名",
-      "onboard_time": 1778828961,
-      "rank": 3,
-      "category": "剧集"
     },
     {
       "raw_hot": 721842,
@@ -2387,6 +2411,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 619871,
+      "num": 367888,
+      "word": "温岚在ICU接受治疗",
+      "onboard_time": 1778831361,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 619368,
       "num": 619368,
       "word": "林心如晒女儿做的母亲节礼物",
@@ -2635,6 +2667,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 568527,
+      "num": 340075,
+      "word": "曝温岚休克",
+      "onboard_time": 1778831661,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 568199,
       "num": 387783,
       "word": "虞书欣工作室出图",
@@ -2881,6 +2921,14 @@
       "onboard_time": 1778662222,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 522297,
+      "num": 402661,
+      "word": "白宫发布中国仪仗队画面",
+      "onboard_time": 1778826201,
+      "rank": 18,
+      "category": "国内时政"
     },
     {
       "raw_hot": 521785,
@@ -3161,6 +3209,14 @@
       "onboard_time": 1778671280,
       "rank": 7,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 491068,
+      "num": 491068,
+      "word": "白玉兰评委名单",
+      "onboard_time": 1778831181,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 490513,
@@ -3827,14 +3883,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 402661,
-      "num": 402661,
-      "word": "白宫发布中国仪仗队画面",
-      "onboard_time": 1778826201,
-      "rank": 18,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 401559,
       "num": 493183,
       "word": "外交部就特朗普访华答问",
@@ -4067,6 +4115,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 381234,
+      "num": 392485,
+      "word": "容易紧张是缺乏主体性",
+      "onboard_time": 1778830342,
+      "rank": 19,
+      "category": "情感"
+    },
+    {
       "raw_hot": 380751,
       "num": 304441,
       "word": "双胞胎姐妹杀人案后续",
@@ -4163,20 +4219,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 367297,
+      "num": 366144,
+      "word": "要小心身边的假好心同事",
+      "onboard_time": 1778824520,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
       "raw_hot": 366795,
       "num": 366795,
       "word": "桂林文旅致歉",
       "onboard_time": 1778459661,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 366144,
-      "num": 366144,
-      "word": "要小心身边的假好心同事",
-      "onboard_time": 1778824520,
-      "rank": 25,
-      "category": "情感"
     },
     {
       "raw_hot": 366127,
@@ -4483,6 +4539,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 340559,
+      "num": 340559,
+      "word": "女子拼死留住的巴掌双胞胎1岁半了",
+      "onboard_time": 1778823081,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 339891,
       "num": 339891,
       "word": "以防你没见过坚果年轻时的样子",
@@ -4561,6 +4625,14 @@
       "onboard_time": 1778751921,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 333764,
+      "num": 333764,
+      "word": "痞幼脱鞋与毛巾二叔合照",
+      "onboard_time": 1778824042,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 333540,
@@ -4737,14 +4809,6 @@
       "onboard_time": 1778370198,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 319635,
-      "num": 319635,
-      "word": "女子拼死留住的巴掌双胞胎1岁半了",
-      "onboard_time": 1778823081,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 318849,
@@ -5129,6 +5193,14 @@
       "onboard_time": 1778729901,
       "rank": 40,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 282227,
+      "num": 582051,
+      "word": "名侦探柯南",
+      "onboard_time": 1778820502,
+      "rank": 7,
+      "category": "动漫"
     },
     {
       "raw_hot": 281924,
@@ -5643,14 +5715,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 250755,
-      "num": 582051,
-      "word": "名侦探柯南",
-      "onboard_time": 1778820502,
-      "rank": 7,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 250090,
       "num": 384569,
       "word": "王曼昱给孙颖莎看手机",
@@ -5769,6 +5833,14 @@
       "onboard_time": 1778389698,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 244682,
+      "num": 244682,
+      "word": "TOP 衢州演唱会",
+      "onboard_time": 1778829920,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 244652,
@@ -6067,6 +6139,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 229015,
+      "num": 450036,
+      "word": "韩国赛场大尺度饭拍女啦啦队员身体",
+      "onboard_time": 1778821102,
+      "rank": 40,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 228989,
       "num": 543814,
       "word": "世界杯",
@@ -6299,6 +6379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 216516,
+      "num": 336975,
+      "word": "吉林大学回应女生澡筐衣物被翻",
+      "onboard_time": 1778832261,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 216359,
       "num": 404951,
       "word": "越南男子不慎卷入粉碎机身亡",
@@ -6361,14 +6449,6 @@
       "onboard_time": 1778818701,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 214415,
-      "num": 214415,
-      "word": "TOP 衢州演唱会",
-      "onboard_time": 1778829920,
-      "rank": 47,
-      "category": "演出"
     },
     {
       "raw_hot": 214212,
@@ -6435,14 +6515,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 211163,
-      "num": 211163,
-      "word": "痞幼脱鞋与毛巾二叔合照",
-      "onboard_time": 1778824042,
-      "rank": 49,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 211094,
       "num": 491156,
       "word": "穆祉丞 舒客",
@@ -6465,14 +6537,6 @@
       "onboard_time": 1778647161,
       "rank": 39,
       "category": "财经"
-    },
-    {
-      "raw_hot": 210193,
-      "num": 306814,
-      "word": "这就是我花一万买iPhone的意义",
-      "onboard_time": 1778829622,
-      "rank": 29,
-      "category": "数码"
     },
     {
       "raw_hot": 209932,
@@ -6505,6 +6569,14 @@
       "onboard_time": 1778497341,
       "rank": 40,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 208303,
+      "num": 208303,
+      "word": "男生偷拍女同学私密视频后校内传播",
+      "onboard_time": 1778826682,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 208172,
@@ -6545,6 +6617,14 @@
       "onboard_time": 1778597962,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 206566,
+      "num": 206566,
+      "word": "张凌赫被保镖大哥淹没了",
+      "onboard_time": 1778832081,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 205819,
@@ -7035,14 +7115,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 186442,
-      "num": 224987,
-      "word": "iPhone华为同时降价",
-      "onboard_time": 1778830280,
-      "rank": 38,
-      "category": "数码"
-    },
-    {
       "raw_hot": 186248,
       "num": 246345,
       "word": "随特朗普访华的商界代表有谁",
@@ -7241,6 +7313,14 @@
       "onboard_time": 1778627779,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 178550,
+      "num": 178550,
+      "word": "狗狗陪跑帮女生成功打破校纪录",
+      "onboard_time": 1778830280,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 178526,
@@ -7571,6 +7651,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 171507,
+      "num": 171507,
+      "word": "无尽夏",
+      "onboard_time": 1778833280,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 171479,
       "num": 163360,
       "word": "iG对战BLG",
@@ -7593,6 +7681,14 @@
       "onboard_time": 1778500280,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 170920,
+      "num": 170920,
+      "word": "白玉兰新闻发布会",
+      "onboard_time": 1778829801,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 170766,
@@ -8243,6 +8339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 143510,
+      "num": 169009,
+      "word": "余承东说智界V9比小车还灵活",
+      "onboard_time": 1778832921,
+      "rank": 45,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 143109,
       "num": 143109,
       "word": "林大厨 不再依赖王俊凯算长大吗",
@@ -8531,14 +8635,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 132352,
-      "num": 392485,
-      "word": "容易紧张是缺乏主体性",
-      "onboard_time": 1778830342,
-      "rank": 19,
-      "category": "情感"
-    },
-    {
       "raw_hot": 132279,
       "num": 132279,
       "word": "说唱巅峰对决",
@@ -8785,6 +8881,14 @@
       "onboard_time": 1778487801,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 123857,
+      "num": 165966,
+      "word": "人生能随机到什么程度",
+      "onboard_time": 1778832379,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 123853,
@@ -9299,6 +9403,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 95481,
+      "num": 337855,
+      "word": "特朗普离京现场的中国军人",
+      "onboard_time": 1778832921,
+      "rank": 20,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 94818,
       "num": 94818,
       "word": "九章四号研制成功",
@@ -9723,6 +9835,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 72688,
+      "num": 220958,
+      "word": "不怪恋爱脑这谁忍得住",
+      "onboard_time": 1778832442,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 72604,
       "num": 123502,
       "word": "给六只猫猫同时洗澡",
@@ -9745,14 +9865,6 @@
       "onboard_time": 1778645600,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 70838,
-      "num": 450036,
-      "word": "韩国赛场大尺度饭拍女啦啦队员身体",
-      "onboard_time": 1778821102,
-      "rank": 40,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 70356,
@@ -10257,6 +10369,14 @@
       "onboard_time": 1778394320,
       "rank": 29,
       "category": "情感"
+    },
+    {
+      "raw_hot": 53889,
+      "num": 1723011,
+      "word": "跨越太平洋的握手",
+      "onboard_time": 1778830161,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 53539,
@@ -11059,6 +11179,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 26982,
+      "num": 232500,
+      "word": "看魏大勋如何掌控这一局",
+      "onboard_time": 1778832321,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 26971,
       "num": 982443,
       "word": "科学避险自救指南",
@@ -11257,14 +11385,6 @@
       "onboard_time": 1778420781,
       "rank": 25,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 21696,
-      "num": 1723011,
-      "word": "跨越太平洋的握手",
-      "onboard_time": 1778830161,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 21326,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1778833420123,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 9799007,
+        "num": 9799007,
+        "word": "特朗普结束访华",
+        "onboard_time": 1778825241,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1283564,
+        "num": 1828898,
+        "word": "中美元首边走边谈",
+        "onboard_time": 1778825241,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 53889,
+        "num": 1479339,
+        "word": "跨越太平洋的握手",
+        "onboard_time": 1778830161,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 790360,
+        "num": 790360,
+        "word": "iPhone华为同时降价",
+        "onboard_time": 1778830280,
+        "rank": 3,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 730960,
+        "num": 730960,
+        "word": "曝杨幂杨紫白玉兰二选一提名",
+        "onboard_time": 1778828961,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 491068,
+        "num": 491068,
+        "word": "白玉兰评委名单",
+        "onboard_time": 1778831181,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 381234,
+        "num": 381234,
+        "word": "容易紧张是缺乏主体性",
+        "onboard_time": 1778830342,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 459348,
+        "num": 379368,
+        "word": "原来这么多人拒绝过浪姐",
+        "onboard_time": 1778818520,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 290442,
+        "num": 379020,
+        "word": "中美元首中南海小范围会晤高清大图",
+        "onboard_time": 1778827880,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 282227,
+        "num": 376402,
+        "word": "名侦探柯南",
+        "onboard_time": 1778820502,
+        "rank": 9,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 2027795,
+        "num": 373795,
+        "word": "横店的剧组快灭亡了",
+        "onboard_time": 1778827282,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1590647,
+        "num": 371420,
+        "word": "阿雅视频抄袭",
+        "onboard_time": 1778830942,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 789292,
+        "num": 370701,
+        "word": "这就是我花一万买iPhone的意义",
+        "onboard_time": 1778829622,
+        "rank": 12,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 619871,
+        "num": 367888,
+        "word": "温岚在ICU接受治疗",
+        "onboard_time": 1778831361,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 522297,
+        "num": 365954,
+        "word": "白宫发布中国仪仗队画面",
+        "onboard_time": 1778826201,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 391179,
+        "num": 364424,
+        "word": "A股",
+        "onboard_time": 1778825361,
+        "rank": 15,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 363458,
+        "num": 363458,
+        "word": "浪姐 遛观众",
+        "onboard_time": 1778821639,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 340559,
+        "num": 340559,
+        "word": "女子拼死留住的巴掌双胞胎1岁半了",
+        "onboard_time": 1778823081,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 568527,
+        "num": 340075,
+        "word": "曝温岚休克",
+        "onboard_time": 1778831661,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 329219,
+        "num": 338729,
+        "word": "特朗普离京",
+        "onboard_time": 1778825663,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 95481,
+        "num": 337855,
+        "word": "特朗普离京现场的中国军人",
+        "onboard_time": 1778832921,
+        "rank": 20,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 216516,
+        "num": 336975,
+        "word": "吉林大学回应女生澡筐衣物被翻",
+        "onboard_time": 1778832261,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 417708,
+        "num": 336029,
+        "word": "新来的同事脑子就是好使",
+        "onboard_time": 1778819482,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 367297,
+        "num": 334297,
+        "word": "要小心身边的假好心同事",
+        "onboard_time": 1778824520,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 333764,
+        "num": 333764,
+        "word": "痞幼脱鞋与毛巾二叔合照",
+        "onboard_time": 1778824042,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 314358,
+        "num": 314358,
+        "word": "黄金",
+        "onboard_time": 1778811440,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 276650,
+        "num": 276650,
+        "word": "安崎说把房子卖了",
+        "onboard_time": 1778825481,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 272416,
+        "num": 272416,
+        "word": "毛利兰声优去世",
+        "onboard_time": 1778816300,
+        "rank": 27,
+        "category": "艺人,动漫"
+      },
+      {
+        "raw_hot": 128808,
+        "num": 248108,
+        "word": "国际足联报价腰斩",
+        "onboard_time": 1778813360,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 210600,
+        "num": 245201,
+        "word": "特朗普说此次访华非常成功",
+        "onboard_time": 1778825301,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 244682,
+        "num": 244682,
+        "word": "TOP 衢州演唱会",
+        "onboard_time": 1778829920,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 26982,
+        "num": 232500,
+        "word": "看魏大勋如何掌控这一局",
+        "onboard_time": 1778832321,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 229015,
+        "num": 229015,
+        "word": "韩国赛场大尺度饭拍女啦啦队员身体",
+        "onboard_time": 1778821102,
+        "rank": 32,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 72688,
+        "num": 220958,
+        "word": "不怪恋爱脑这谁忍得住",
+        "onboard_time": 1778832442,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 218337,
+        "num": 218337,
+        "word": "特朗普说中国军人棒极了",
+        "onboard_time": 1778825241,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 208303,
+        "num": 208303,
+        "word": "男生偷拍女同学私密视频后校内传播",
+        "onboard_time": 1778826682,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 210058,
+        "num": 208224,
+        "word": "特朗普说能待得惯可能都不想走了",
+        "onboard_time": 1778827702,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 206566,
+        "num": 206566,
+        "word": "张凌赫被保镖大哥淹没了",
+        "onboard_time": 1778832081,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194224,
+        "num": 194224,
+        "word": "张元英无眼妆封面",
+        "onboard_time": 1778828122,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178550,
+        "num": 178550,
+        "word": "狗狗陪跑帮女生成功打破校纪录",
+        "onboard_time": 1778830280,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 184957,
+        "num": 176434,
+        "word": "老人捡破烂攒6万买床垫与儿子反目",
+        "onboard_time": 1778816720,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 171507,
+        "num": 171507,
+        "word": "无尽夏",
+        "onboard_time": 1778833280,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170920,
+        "num": 170920,
+        "word": "白玉兰新闻发布会",
+        "onboard_time": 1778829801,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 98888,
+        "num": 170332,
+        "word": "孙颖莎绝莎",
+        "onboard_time": 1778830224,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 76600,
+        "num": 170017,
+        "word": "孙颖莎Tatler亚洲十大体育明星",
+        "onboard_time": 1778818701,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143510,
+        "num": 169009,
+        "word": "余承东说智界V9比小车还灵活",
+        "onboard_time": 1778832921,
+        "rank": 45,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 180193,
+        "num": 168649,
+        "word": "中美领导人小范围会晤",
+        "onboard_time": 1778814441,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 39676,
+        "num": 167559,
+        "word": "原来我跟刘宇宁是同担",
+        "onboard_time": 1778828841,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167479,
+        "num": 167479,
+        "word": "青春修炼手册小考赢了宝莲",
+        "onboard_time": 1778825182,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123857,
+        "num": 165966,
+        "word": "人生能随机到什么程度",
+        "onboard_time": 1778832379,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同特朗普小范围会晤#"
+    }
+  }
+}

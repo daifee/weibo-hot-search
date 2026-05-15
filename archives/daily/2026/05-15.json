@@ -1,6 +1,6 @@
 {
   "startTime": 1778781642218,
-  "endTime": 1778830392897,
+  "endTime": 1778833420123,
   "band_list": [
     {
       "raw_hot": 15057331,
@@ -73,6 +73,14 @@
       "onboard_time": 1778816300,
       "rank": 1,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1590647,
+      "num": 371420,
+      "word": "阿雅视频抄袭",
+      "onboard_time": 1778830942,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 1583221,
@@ -171,6 +179,22 @@
       "category": "财经"
     },
     {
+      "raw_hot": 790360,
+      "num": 790360,
+      "word": "iPhone华为同时降价",
+      "onboard_time": 1778830280,
+      "rank": 38,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 789292,
+      "num": 370701,
+      "word": "这就是我花一万买iPhone的意义",
+      "onboard_time": 1778829622,
+      "rank": 29,
+      "category": "数码"
+    },
+    {
       "raw_hot": 778632,
       "num": 489302,
       "word": "李昀锐孟子义沦为陌路只用了半年",
@@ -203,20 +227,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 730960,
+      "num": 730960,
+      "word": "曝杨幂杨紫白玉兰二选一提名",
+      "onboard_time": 1778828961,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 727369,
       "num": 727369,
       "word": "李纯哄马頔看呆张豆豆",
       "onboard_time": 1778814380,
       "rank": 5,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 727085,
-      "num": 727085,
-      "word": "曝杨幂杨紫白玉兰二选一提名",
-      "onboard_time": 1778828961,
-      "rank": 3,
-      "category": "剧集"
     },
     {
       "raw_hot": 699235,
@@ -249,6 +273,14 @@
       "onboard_time": 1778770343,
       "rank": 6,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 619871,
+      "num": 367888,
+      "word": "温岚在ICU接受治疗",
+      "onboard_time": 1778831361,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 617815,
@@ -315,6 +347,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 568527,
+      "num": 340075,
+      "word": "曝温岚休克",
+      "onboard_time": 1778831661,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 565831,
       "num": 565831,
       "word": "英伟达H200芯片获批入华",
@@ -339,6 +379,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 522297,
+      "num": 402661,
+      "word": "白宫发布中国仪仗队画面",
+      "onboard_time": 1778826201,
+      "rank": 18,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 504887,
       "num": 504887,
       "word": "浪姐 遛观众",
@@ -353,6 +401,14 @@
       "onboard_time": 1778818221,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 491068,
+      "num": 491068,
+      "word": "白玉兰评委名单",
+      "onboard_time": 1778831181,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 472102,
@@ -411,14 +467,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 402661,
-      "num": 402661,
-      "word": "白宫发布中国仪仗队画面",
-      "onboard_time": 1778826201,
-      "rank": 18,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 401559,
       "num": 493183,
       "word": "外交部就特朗普访华答问",
@@ -451,6 +499,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 381234,
+      "num": 392485,
+      "word": "容易紧张是缺乏主体性",
+      "onboard_time": 1778830342,
+      "rank": 19,
+      "category": "情感"
+    },
+    {
       "raw_hot": 380645,
       "num": 380645,
       "word": "泰兰尼斯被曝千元童鞋成本仅37元",
@@ -467,12 +523,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 366144,
+      "raw_hot": 367297,
       "num": 366144,
       "word": "要小心身边的假好心同事",
       "onboard_time": 1778824520,
       "rank": 25,
       "category": "情感"
+    },
+    {
+      "raw_hot": 340559,
+      "num": 340559,
+      "word": "女子拼死留住的巴掌双胞胎1岁半了",
+      "onboard_time": 1778823081,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 338992,
@@ -483,12 +547,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 319635,
-      "num": 319635,
-      "word": "女子拼死留住的巴掌双胞胎1岁半了",
-      "onboard_time": 1778823081,
-      "rank": 27,
-      "category": "民生新闻"
+      "raw_hot": 333764,
+      "num": 333764,
+      "word": "痞幼脱鞋与毛巾二叔合照",
+      "onboard_time": 1778824042,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 313881,
@@ -521,6 +585,14 @@
       "onboard_time": 1778811561,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 282227,
+      "num": 582051,
+      "word": "名侦探柯南",
+      "onboard_time": 1778820502,
+      "rank": 7,
+      "category": "动漫"
     },
     {
       "raw_hot": 279953,
@@ -563,20 +635,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 250755,
-      "num": 582051,
-      "word": "名侦探柯南",
-      "onboard_time": 1778820502,
-      "rank": 7,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 248981,
       "num": 479477,
       "word": "白鹿李昀锐搭档",
       "onboard_time": 1778821582,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 244682,
+      "num": 244682,
+      "word": "TOP 衢州演唱会",
+      "onboard_time": 1778829920,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 243931,
@@ -609,6 +681,14 @@
       "onboard_time": 1778825182,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 229015,
+      "num": 450036,
+      "word": "韩国赛场大尺度饭拍女啦啦队员身体",
+      "onboard_time": 1778821102,
+      "rank": 40,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 227757,
@@ -651,6 +731,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 216516,
+      "num": 336975,
+      "word": "吉林大学回应女生澡筐衣物被翻",
+      "onboard_time": 1778832261,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 215787,
       "num": 241069,
       "word": "此狗睡商极高",
@@ -667,28 +755,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 214415,
-      "num": 214415,
-      "word": "TOP 衢州演唱会",
-      "onboard_time": 1778829920,
-      "rank": 47,
-      "category": "演出"
+      "raw_hot": 208303,
+      "num": 208303,
+      "word": "男生偷拍女同学私密视频后校内传播",
+      "onboard_time": 1778826682,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
-      "raw_hot": 211163,
-      "num": 211163,
-      "word": "痞幼脱鞋与毛巾二叔合照",
-      "onboard_time": 1778824042,
-      "rank": 49,
+      "raw_hot": 206566,
+      "num": 206566,
+      "word": "张凌赫被保镖大哥淹没了",
+      "onboard_time": 1778832081,
+      "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 210193,
-      "num": 306814,
-      "word": "这就是我花一万买iPhone的意义",
-      "onboard_time": 1778829622,
-      "rank": 29,
-      "category": "数码"
     },
     {
       "raw_hot": 202598,
@@ -739,12 +819,12 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 186442,
-      "num": 224987,
-      "word": "iPhone华为同时降价",
+      "raw_hot": 178550,
+      "num": 178550,
+      "word": "狗狗陪跑帮女生成功打破校纪录",
       "onboard_time": 1778830280,
-      "rank": 38,
-      "category": "数码"
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 177723,
@@ -793,6 +873,22 @@
       "onboard_time": 1778814680,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 171507,
+      "num": 171507,
+      "word": "无尽夏",
+      "onboard_time": 1778833280,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 170920,
+      "num": 170920,
+      "word": "白玉兰新闻发布会",
+      "onboard_time": 1778829801,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 170766,
@@ -883,6 +979,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 143510,
+      "num": 169009,
+      "word": "余承东说智界V9比小车还灵活",
+      "onboard_time": 1778832921,
+      "rank": 45,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 142253,
       "num": 239907,
       "word": "杨紫新剧一人一巴掌",
@@ -947,14 +1051,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 132352,
-      "num": 392485,
-      "word": "容易紧张是缺乏主体性",
-      "onboard_time": 1778830342,
-      "rank": 19,
-      "category": "情感"
-    },
-    {
       "raw_hot": 127359,
       "num": 96021,
       "word": "那英再次加盟歌手",
@@ -968,6 +1064,14 @@
       "word": "狗狗陪跑帮女生成功打破校记录",
       "onboard_time": 1778830280,
       "rank": 24,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 123857,
+      "num": 165966,
+      "word": "人生能随机到什么程度",
+      "onboard_time": 1778832379,
+      "rank": 49,
       "category": "情感"
     },
     {
@@ -1083,6 +1187,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 95481,
+      "num": 337855,
+      "word": "特朗普离京现场的中国军人",
+      "onboard_time": 1778832921,
+      "rank": 20,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 94691,
       "num": 94691,
       "word": "欢迎宴会上强调了什么",
@@ -1171,6 +1283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 72688,
+      "num": 220958,
+      "word": "不怪恋爱脑这谁忍得住",
+      "onboard_time": 1778832442,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 72569,
       "num": 89512,
       "word": "日本男教师对女学生水瓶做不雅动作",
@@ -1185,14 +1305,6 @@
       "onboard_time": 1778818042,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 70838,
-      "num": 450036,
-      "word": "韩国赛场大尺度饭拍女啦啦队员身体",
-      "onboard_time": 1778821102,
-      "rank": 40,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 69672,
@@ -1297,6 +1409,14 @@
       "onboard_time": 1778774241,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 53889,
+      "num": 1723011,
+      "word": "跨越太平洋的握手",
+      "onboard_time": 1778830161,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 53539,
@@ -1491,6 +1611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 26982,
+      "num": 232500,
+      "word": "看魏大勋如何掌控这一局",
+      "onboard_time": 1778832321,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 26762,
       "num": 217756,
       "word": "蒋敦豪李耕耘鹭卓大战蚂蝗",
@@ -1520,14 +1648,6 @@
       "word": "构建中美建设性战略稳定关系",
       "onboard_time": 1778784915,
       "rank": 42,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 21696,
-      "num": 1723011,
-      "word": "跨越太平洋的握手",
-      "onboard_time": 1778830161,
-      "rank": 2,
       "category": "国内时政"
     },
     {
