@@ -1,6 +1,6 @@
 {
   "startTime": 1778867315023,
-  "endTime": 1778916166511,
+  "endTime": 1778922737545,
   "band_list": [
     {
       "raw_hot": 3462118,
@@ -19,16 +19,40 @@
       "category": "财经"
     },
     {
+      "raw_hot": 2040674,
+      "num": 531336,
+      "word": "丧假 上传证明",
+      "onboard_time": 1778916561,
+      "rank": 10,
+      "category": "情感"
+    },
+    {
       "raw_hot": 2027664,
-      "num": 448548,
+      "num": 518096,
       "word": "特朗普抵达美国现场画面",
       "onboard_time": 1778902399,
       "rank": 10,
       "category": "国际时政"
     },
     {
+      "raw_hot": 1761791,
+      "num": 399732,
+      "word": "徐璐陪小5岁男友日本度假",
+      "onboard_time": 1778918241,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1557826,
+      "num": 737972,
+      "word": "李昀锐白鹿跑男十指相扣",
+      "onboard_time": 1778919259,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1435280,
-      "num": 334378,
+      "num": 501961,
       "word": "房东发现女租客怀孕不让在家坐月子",
       "onboard_time": 1778906481,
       "rank": 11,
@@ -44,7 +68,7 @@
     },
     {
       "raw_hot": 1344469,
-      "num": 309330,
+      "num": 524612,
       "word": "宋浩然整成李佳琦了",
       "onboard_time": 1778907140,
       "rank": 13,
@@ -65,6 +89,14 @@
       "onboard_time": 1778904320,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1069047,
+      "num": 726819,
+      "word": "这几类衣服普通人尽量不要买",
+      "onboard_time": 1778919559,
+      "rank": 4,
+      "category": "时尚"
     },
     {
       "raw_hot": 954271,
@@ -99,6 +131,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 824327,
+      "num": 824327,
+      "word": "中方宣布普京访华日期",
+      "onboard_time": 1778915359,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 815713,
       "num": 448156,
       "word": "洁丽雅 毛巾少爷",
@@ -124,7 +164,7 @@
     },
     {
       "raw_hot": 711259,
-      "num": 306094,
+      "num": 495187,
       "word": "王一博个人捐款200万",
       "onboard_time": 1778907621,
       "rank": 15,
@@ -137,6 +177,30 @@
       "onboard_time": 1778858001,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 692404,
+      "num": 692404,
+      "word": "鹿晗五哈哭了",
+      "onboard_time": 1778916621,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 659544,
+      "num": 659544,
+      "word": "王楚钦发博总结世乒赛",
+      "onboard_time": 1778919439,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 646019,
+      "num": 511255,
+      "word": "等等给孙俪买瑞士卷",
+      "onboard_time": 1778918241,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 644590,
@@ -164,7 +228,7 @@
     },
     {
       "raw_hot": 624516,
-      "num": 283680,
+      "num": 499113,
       "word": "女子穿着带有巨大吊牌旗袍街头拍照",
       "onboard_time": 1778910920,
       "rank": 14,
@@ -185,6 +249,14 @@
       "onboard_time": 1778904080,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 604553,
+      "num": 604553,
+      "word": "巨力索具股价",
+      "onboard_time": 1778919139,
+      "rank": 8,
+      "category": "财经"
     },
     {
       "raw_hot": 592048,
@@ -235,12 +307,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 488682,
+      "num": 488682,
+      "word": "林俊杰个人捐款200万",
+      "onboard_time": 1778918720,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 477145,
       "num": 477145,
       "word": "算力网要来了",
       "onboard_time": 1778903719,
       "rank": 18,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 474667,
+      "num": 417635,
+      "word": "马嘉祺 风神",
+      "onboard_time": 1778918300,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 473565,
@@ -316,7 +404,7 @@
     },
     {
       "raw_hot": 401615,
-      "num": 184770,
+      "num": 195318,
       "word": "特朗普回国后谈中国行",
       "onboard_time": 1778915539,
       "rank": 22,
@@ -355,6 +443,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 381782,
+      "num": 381782,
+      "word": "张凌赫Mai晚宴合照",
+      "onboard_time": 1778921480,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 376136,
+      "num": 239029,
+      "word": "徐璐 吴崇轩",
+      "onboard_time": 1778920640,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 375172,
       "num": 183525,
       "word": "黄金反转仅用3个多月",
@@ -371,19 +475,19 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 365697,
-      "num": 361427,
-      "word": "中方宣布普京访华日期",
-      "onboard_time": 1778915359,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 365098,
       "num": 255991,
       "word": "乘风2026主题曲",
       "onboard_time": 1778908999,
       "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 364802,
+      "num": 238764,
+      "word": "万千惠乘风准冠军候选人",
+      "onboard_time": 1778914819,
+      "rank": 28,
       "category": "综艺"
     },
     {
@@ -467,14 +571,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 311391,
-      "num": 179249,
-      "word": "万千惠乘风准冠军候选人",
-      "onboard_time": 1778914819,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 311094,
       "num": 311094,
       "word": "周芯竹戛纳红毯",
@@ -499,6 +595,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 296179,
+      "num": 386948,
+      "word": "碳水哥震撼中国人",
+      "onboard_time": 1778920640,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 294354,
       "num": 244576,
       "word": "歌手首发没有刘宪华",
@@ -516,7 +620,7 @@
     },
     {
       "raw_hot": 289454,
-      "num": 176791,
+      "num": 233974,
       "word": "虞书欣个人捐款70万",
       "onboard_time": 1778914222,
       "rank": 31,
@@ -579,6 +683,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 244727,
+      "num": 244727,
+      "word": "30岁女子健身房摔倒身亡",
+      "onboard_time": 1778916440,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 243672,
       "num": 207836,
       "word": "毛巾少爷曾说父亲爷爷不愿其接班",
@@ -627,6 +739,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 236106,
+      "num": 236106,
+      "word": "房东回应要求怀孕女租客搬走",
+      "onboard_time": 1778915959,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 235858,
       "num": 235858,
       "word": "女子救落水儿童后手机报废无人问津",
@@ -641,6 +761,22 @@
       "onboard_time": 1778896519,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 231589,
+      "num": 231589,
+      "word": "王者荣耀",
+      "onboard_time": 1778921180,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 230218,
+      "num": 230218,
+      "word": "黄圣依叶一茜的孩子是同学",
+      "onboard_time": 1778921839,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 224763,
@@ -779,20 +915,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 175291,
+      "num": 175291,
+      "word": "饭店喷水鱼获1000万网友围观",
+      "onboard_time": 1778921180,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 172882,
+      "num": 172882,
+      "word": "厌食症和饕餮转世小猫",
+      "onboard_time": 1778919321,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 170876,
       "num": 170876,
       "word": "球迷帮孙颖莎在周杰伦演唱会点歌",
       "onboard_time": 1778861899,
       "rank": 19,
       "category": "演出,体育"
-    },
-    {
-      "raw_hot": 165654,
-      "num": 165654,
-      "word": "房东回应要求怀孕女租客搬走",
-      "onboard_time": 1778915959,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 164458,
@@ -849,6 +993,22 @@
       "onboard_time": 1778844740,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 155174,
+      "num": 155174,
+      "word": "奔跑吧安阳路透",
+      "onboard_time": 1778922381,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 154553,
+      "num": 154553,
+      "word": "金鹰奖口碑",
+      "onboard_time": 1778918179,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 154075,
@@ -923,6 +1083,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 142407,
+      "num": 156581,
+      "word": "KPL",
+      "onboard_time": 1778917760,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 138554,
       "num": 142871,
       "word": "F勒布伦说王楚钦是国乒的巨大优势",
@@ -993,6 +1161,14 @@
       "onboard_time": 1778890399,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 113464,
+      "num": 113464,
+      "word": "终于懂慢食碗的意义了",
+      "onboard_time": 1778922681,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 107782,
@@ -1251,6 +1427,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 53648,
+      "num": 114798,
+      "word": "酒店不更换床单执法人员已上门检查",
+      "onboard_time": 1778921240,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 53647,
       "num": 261762,
       "word": "国民男团代言国民品牌",
@@ -1299,12 +1483,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 39030,
+      "num": 172255,
+      "word": "舒服的风吹到了魔都地铁站",
+      "onboard_time": 1778918840,
+      "rank": 38,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 38024,
       "num": 162089,
       "word": "大车选紫色奇怪吗",
       "onboard_time": 1778887098,
       "rank": 18,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 37716,
+      "num": 239814,
+      "word": "强降雨连成片了",
+      "onboard_time": 1778922439,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 35603,
@@ -1345,6 +1545,14 @@
       "onboard_time": 1778848162,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 27572,
+      "num": 740336,
+      "word": "一季度数字产业实现收入9.5万亿元",
+      "onboard_time": 1778917880,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 21527,
