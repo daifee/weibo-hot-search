@@ -1,6 +1,6 @@
 {
   "startTime": 1778342585344,
-  "endTime": 1778924939683,
+  "endTime": 1778928397687,
   "band_list": [
     {
       "raw_hot": 20021872,
@@ -401,6 +401,14 @@
       "onboard_time": 1778377158,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 2259002,
+      "num": 458166,
+      "word": "明星个人捐款名单",
+      "onboard_time": 1778923281,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 2251847,
@@ -2019,6 +2027,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 818413,
+      "num": 805379,
+      "word": "碳水哥震撼中国人",
+      "onboard_time": 1778920640,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 817526,
       "num": 371675,
       "word": "14岁男生奸杀同学案被告人未上诉",
@@ -2049,14 +2065,6 @@
       "onboard_time": 1778733625,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 805379,
-      "num": 805379,
-      "word": "碳水哥震撼中国人",
-      "onboard_time": 1778920640,
-      "rank": 21,
-      "category": "情感"
     },
     {
       "raw_hot": 804138,
@@ -2459,6 +2467,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 701400,
+      "num": 368308,
+      "word": "鞠婧祎 你被人鲨了但你是齐刘海",
+      "onboard_time": 1778922741,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 699437,
       "num": 431598,
       "word": "一只熊吃掉了40磅冰淇淋后昏迷了两天",
@@ -2593,14 +2609,6 @@
       "onboard_time": 1778409560,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 673190,
-      "num": 458166,
-      "word": "明星个人捐款名单",
-      "onboard_time": 1778923281,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 673083,
@@ -3651,6 +3659,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 502772,
+      "num": 386810,
+      "word": "孙颖莎王楚钦又一荣誉公示",
+      "onboard_time": 1778922860,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 501412,
       "num": 501412,
       "word": "涉偷拍男生与拟录公务员姓名院校一致",
@@ -3819,6 +3835,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 485844,
+      "num": 385609,
+      "word": "张凌赫Mai晚宴合照",
+      "onboard_time": 1778921480,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 485655,
       "num": 427250,
       "word": "黄霄雲演出晕倒",
@@ -3865,14 +3889,6 @@
       "onboard_time": 1778844740,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 481538,
-      "num": 385609,
-      "word": "张凌赫Mai晚宴合照",
-      "onboard_time": 1778921480,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 477630,
@@ -4171,14 +4187,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 448084,
-      "num": 366061,
-      "word": "鞠婧祎 你被人鲨了但你是齐刘海",
-      "onboard_time": 1778922741,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 447113,
       "num": 447113,
       "word": "雷霆3比0湖人",
@@ -4289,6 +4297,14 @@
       "onboard_time": 1778687660,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 430189,
+      "num": 430189,
+      "word": "山西一研学车辆侧翻已致2人死亡",
+      "onboard_time": 1778927479,
+      "rank": 7,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 429971,
@@ -4787,14 +4803,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 386810,
-      "num": 386810,
-      "word": "孙颖莎王楚钦又一荣誉公示",
-      "onboard_time": 1778922860,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
       "raw_hot": 386387,
       "num": 261887,
       "word": "张碧晨的同学被男明星讨论",
@@ -4969,6 +4977,14 @@
       "onboard_time": 1778824520,
       "rank": 25,
       "category": "情感"
+    },
+    {
+      "raw_hot": 367029,
+      "num": 367029,
+      "word": "韩红基金会去年收入7.8亿支出2.9亿",
+      "onboard_time": 1778925620,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 366795,
@@ -5819,6 +5835,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 302788,
+      "num": 302788,
+      "word": "范丞丞也在吃跑男的瓜",
+      "onboard_time": 1778923460,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 302262,
       "num": 302262,
       "word": "特朗普说美高法门楣刻孔子无比荣幸",
@@ -6107,6 +6131,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 284743,
+      "num": 284743,
+      "word": "姜乘澜给化妆新手的8条建议",
+      "onboard_time": 1778925020,
+      "rank": 26,
+      "category": "网红,美妆"
+    },
+    {
       "raw_hot": 282227,
       "num": 582051,
       "word": "名侦探柯南",
@@ -6307,6 +6339,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 268842,
+      "num": 268842,
+      "word": "樊振东出战欧冠半决赛",
+      "onboard_time": 1778926340,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 268602,
       "num": 389216,
       "word": "小米增程SUV车头logo曝光",
@@ -6489,6 +6529,14 @@
       "onboard_time": 1778369297,
       "rank": 16,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 260735,
+      "num": 260735,
+      "word": "姑姑养大侄女却扣下16万彩礼拒返还",
+      "onboard_time": 1778925740,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 260434,
@@ -6769,14 +6817,6 @@
       "onboard_time": 1778568982,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 246396,
-      "num": 246396,
-      "word": "范丞丞也在吃跑男的瓜",
-      "onboard_time": 1778923460,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 246169,
@@ -7747,6 +7787,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 206645,
+      "num": 206645,
+      "word": "歌手2026的首期歌单",
+      "onboard_time": 1778924300,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 206566,
       "num": 206566,
       "word": "张凌赫被保镖大哥淹没了",
@@ -7801,14 +7849,6 @@
       "onboard_time": 1778855721,
       "rank": 17,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 203035,
-      "num": 203035,
-      "word": "歌手2026的首期歌单",
-      "onboard_time": 1778924300,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 202860,
@@ -7979,6 +8019,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 198926,
+      "num": 198926,
+      "word": "全山东最重视山姆超市之人",
+      "onboard_time": 1778926158,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 197897,
       "num": 197897,
       "word": "日本送给普京的秋田犬去世",
@@ -8096,6 +8144,14 @@
       "word": "奔跑吧安阳闪现直播",
       "onboard_time": 1778905460,
       "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 194294,
+      "num": 194294,
+      "word": "虞书欣种地吧路透",
+      "onboard_time": 1778928260,
+      "rank": 38,
       "category": "综艺"
     },
     {
@@ -8363,6 +8419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 185459,
+      "num": 184063,
+      "word": "APINK全员到场尹普美婚礼",
+      "onboard_time": 1778927901,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 184470,
       "num": 362760,
       "word": "小伙弄丢了免费领养的猫被要求赔2万",
@@ -8481,6 +8545,14 @@
       "onboard_time": 1778338941,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 181718,
+      "num": 181718,
+      "word": "孟子义探班陈哲远",
+      "onboard_time": 1778926221,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 181596,
@@ -9171,6 +9243,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 162663,
+      "num": 367731,
+      "word": "女孩盲道被撞摆拍细节露馅",
+      "onboard_time": 1778927959,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 162540,
       "num": 155449,
       "word": "95花扎堆开演唱会",
@@ -9184,6 +9264,14 @@
       "word": "杨幂烫伤在逐渐痊愈了",
       "onboard_time": 1778571502,
       "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 162328,
+      "num": 157436,
+      "word": "田曦薇抽抽乐",
+      "onboard_time": 1778928081,
+      "rank": 46,
       "category": "艺人"
     },
     {
@@ -9425,6 +9513,14 @@
       "onboard_time": 1778676923,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 155316,
+      "num": 155316,
+      "word": "国乐无双",
+      "onboard_time": 1778324301,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 155174,
@@ -10555,6 +10651,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 120212,
+      "num": 284745,
+      "word": "卢伟冰爆料小米17Max",
+      "onboard_time": 1778926460,
+      "rank": 25,
+      "category": "数码"
+    },
+    {
       "raw_hot": 120153,
       "num": 120153,
       "word": "榴莲事件买家冒用姓名牵连无辜女孩",
@@ -11675,6 +11779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 66644,
+      "num": 368059,
+      "word": "李冰冰回归戛纳红毯",
+      "onboard_time": 1778926460,
+      "rank": 15,
+      "category": "电影"
+    },
+    {
       "raw_hot": 65744,
       "num": 257785,
       "word": "痞幼回应与小袁同学关系",
@@ -12587,6 +12699,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 37211,
+      "num": 282002,
+      "word": "北京的雨到哪了",
+      "onboard_time": 1778927121,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 36991,
       "num": 394582,
       "word": "白宫回应黄仁勋陪特朗普访华",
@@ -13371,14 +13491,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 19399,
-      "num": 40395,
-      "word": "国乐无双",
-      "onboard_time": 1778324301,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 19319,
       "num": 347482,
       "word": "实探取消预约入校的武大校园",
@@ -13585,6 +13697,14 @@
       "onboard_time": 1778502381,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 12966,
+      "num": 279993,
+      "word": "铝型材厂因暴雨被淹称损失50万",
+      "onboard_time": 1778928320,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 12362,

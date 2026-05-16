@@ -1,6 +1,6 @@
 {
   "startTime": 1778867315023,
-  "endTime": 1778924939683,
+  "endTime": 1778928397687,
   "band_list": [
     {
       "raw_hot": 3462118,
@@ -25,6 +25,14 @@
       "onboard_time": 1778916561,
       "rank": 10,
       "category": "情感"
+    },
+    {
+      "raw_hot": 2259002,
+      "num": 458166,
+      "word": "明星个人捐款名单",
+      "onboard_time": 1778923281,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 2027664,
@@ -139,20 +147,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 818413,
+      "num": 805379,
+      "word": "碳水哥震撼中国人",
+      "onboard_time": 1778920640,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 815713,
       "num": 448156,
       "word": "洁丽雅 毛巾少爷",
       "onboard_time": 1778903600,
       "rank": 12,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 805379,
-      "num": 805379,
-      "word": "碳水哥震撼中国人",
-      "onboard_time": 1778920640,
-      "rank": 21,
-      "category": "情感"
     },
     {
       "raw_hot": 769512,
@@ -187,6 +195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 701400,
+      "num": 368308,
+      "word": "鞠婧祎 你被人鲨了但你是齐刘海",
+      "onboard_time": 1778922741,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 694662,
       "num": 244351,
       "word": "新娘回应婚礼没敬酒宾客已散场",
@@ -201,14 +217,6 @@
       "onboard_time": 1778916621,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 673190,
-      "num": 458166,
-      "word": "明星个人捐款名单",
-      "onboard_time": 1778923281,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 659544,
@@ -339,7 +347,15 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 481538,
+      "raw_hot": 502772,
+      "num": 386810,
+      "word": "孙颖莎王楚钦又一荣誉公示",
+      "onboard_time": 1778922860,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 485844,
       "num": 385609,
       "word": "张凌赫Mai晚宴合照",
       "onboard_time": 1778921480,
@@ -395,14 +411,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 448084,
-      "num": 366061,
-      "word": "鞠婧祎 你被人鲨了但你是齐刘海",
-      "onboard_time": 1778922741,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 445377,
       "num": 445377,
       "word": "奔跑吧孟子义摸杆这段收视最高",
@@ -417,6 +425,14 @@
       "onboard_time": 1778901020,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 430189,
+      "num": 430189,
+      "word": "山西一研学车辆侧翻已致2人死亡",
+      "onboard_time": 1778927479,
+      "rank": 7,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 426031,
@@ -475,14 +491,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 386810,
-      "num": 386810,
-      "word": "孙颖莎王楚钦又一荣誉公示",
-      "onboard_time": 1778922860,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
       "raw_hot": 386387,
       "num": 261887,
       "word": "张碧晨的同学被男明星讨论",
@@ -505,6 +513,14 @@
       "onboard_time": 1778854762,
       "rank": 6,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 367029,
+      "num": 367029,
+      "word": "韩红基金会去年收入7.8亿支出2.9亿",
+      "onboard_time": 1778925620,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 365098,
@@ -619,6 +635,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 302788,
+      "num": 302788,
+      "word": "范丞丞也在吃跑男的瓜",
+      "onboard_time": 1778923460,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 302249,
       "num": 195010,
       "word": "支付宝回应深夜扣款184万",
@@ -667,6 +691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 284743,
+      "num": 284743,
+      "word": "姜乘澜给化妆新手的8条建议",
+      "onboard_time": 1778925020,
+      "rank": 26,
+      "category": "网红,美妆"
+    },
+    {
       "raw_hot": 282499,
       "num": 282499,
       "word": "奔跑吧",
@@ -691,12 +723,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 268842,
+      "num": 268842,
+      "word": "樊振东出战欧冠半决赛",
+      "onboard_time": 1778926340,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 261952,
       "num": 261952,
       "word": "Deepseek不语 只是一味跟团",
       "onboard_time": 1778864418,
       "rank": 25,
       "category": "幽默,互联网"
+    },
+    {
+      "raw_hot": 260735,
+      "num": 260735,
+      "word": "姑姑养大侄女却扣下16万彩礼拒返还",
+      "onboard_time": 1778925740,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 257773,
@@ -729,14 +777,6 @@
       "onboard_time": 1778910559,
       "rank": 26,
       "category": "情感"
-    },
-    {
-      "raw_hot": 246396,
-      "num": 246396,
-      "word": "范丞丞也在吃跑男的瓜",
-      "onboard_time": 1778923460,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 243672,
@@ -875,8 +915,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 203035,
-      "num": 203035,
+      "raw_hot": 206645,
+      "num": 206645,
       "word": "歌手2026的首期歌单",
       "onboard_time": 1778924300,
       "rank": 35,
@@ -907,6 +947,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 198926,
+      "num": 198926,
+      "word": "全山东最重视山姆超市之人",
+      "onboard_time": 1778926158,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 197173,
       "num": 197173,
       "word": "樊振东莫雷加德一起训练",
@@ -923,6 +971,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 194294,
+      "num": 194294,
+      "word": "虞书欣种地吧路透",
+      "onboard_time": 1778928260,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 192814,
       "num": 178782,
       "word": "特朗普说中国之行非常精彩",
@@ -931,12 +987,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 185459,
+      "num": 184063,
+      "word": "APINK全员到场尹普美婚礼",
+      "onboard_time": 1778927901,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 182296,
       "num": 252367,
       "word": "巨力索具被证监会立案",
       "onboard_time": 1778855002,
       "rank": 39,
       "category": "财经,民生新闻"
+    },
+    {
+      "raw_hot": 181718,
+      "num": 181718,
+      "word": "孟子义探班陈哲远",
+      "onboard_time": 1778926221,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 179512,
@@ -995,6 +1067,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 162663,
+      "num": 367731,
+      "word": "女孩盲道被撞摆拍细节露馅",
+      "onboard_time": 1778927959,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 162328,
+      "num": 157436,
+      "word": "田曦薇抽抽乐",
+      "onboard_time": 1778928081,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 161389,
       "num": 161389,
       "word": "金饰克价年内大跌270元",
@@ -1048,6 +1136,14 @@
       "word": "内娱歌手集体发文感谢洪涛",
       "onboard_time": 1778844740,
       "rank": 17,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 155316,
+      "num": 155316,
+      "word": "国乐无双",
+      "onboard_time": 1778927780,
+      "rank": 48,
       "category": "综艺"
     },
     {
@@ -1209,6 +1305,14 @@
       "onboard_time": 1778922981,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 120212,
+      "num": 284745,
+      "word": "卢伟冰爆料小米17Max",
+      "onboard_time": 1778926460,
+      "rank": 25,
+      "category": "数码"
     },
     {
       "raw_hot": 118972,
@@ -1419,6 +1523,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 66644,
+      "num": 368059,
+      "word": "李冰冰回归戛纳红毯",
+      "onboard_time": 1778926460,
+      "rank": 15,
+      "category": "电影"
+    },
+    {
       "raw_hot": 65958,
       "num": 88664,
       "word": "毛巾家族",
@@ -1579,6 +1691,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 37211,
+      "num": 282002,
+      "word": "北京的雨到哪了",
+      "onboard_time": 1778927121,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 35603,
       "num": 88531,
       "word": "樊振东备战欧冠踩场",
@@ -1664,6 +1784,14 @@
       "word": "瓜农刺死城管案当事人继续种瓜谋生",
       "onboard_time": 1778924780,
       "rank": 40,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 12966,
+      "num": 279993,
+      "word": "铝型材厂因暴雨被淹称损失50万",
+      "onboard_time": 1778928320,
+      "rank": 29,
       "category": "民生新闻"
     },
     {

@@ -1,0 +1,410 @@
+{
+  "runTime": 1778928397687,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 690946,
+        "num": 1110551,
+        "word": "歌手首发阵容",
+        "onboard_time": 1778908220,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 616109,
+        "num": 811347,
+        "word": "盲人女孩盲道被撞系自导自演",
+        "onboard_time": 1778904320,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22058,
+        "num": 739061,
+        "word": "一季度数字产业实现收入9.5万亿元",
+        "onboard_time": 1778917880,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1014072,
+        "num": 731545,
+        "word": "李昀锐白鹿跑男十指相扣",
+        "onboard_time": 1778919259,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 818413,
+        "num": 714974,
+        "word": "碳水哥震撼中国人",
+        "onboard_time": 1778920640,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 691559,
+        "num": 691559,
+        "word": "这几类衣服普通人尽量不要买",
+        "onboard_time": 1778919559,
+        "rank": 5,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 435432,
+        "num": 435432,
+        "word": "鹿晗五哈哭了",
+        "onboard_time": 1778916621,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 430189,
+        "num": 430189,
+        "word": "山西一研学车辆侧翻已致2人死亡",
+        "onboard_time": 1778927479,
+        "rank": 7,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 429141,
+        "num": 429141,
+        "word": "其实孩子在小时候已经报完恩了",
+        "onboard_time": 1778914400,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 369044,
+        "num": 369044,
+        "word": "巨力索具股价",
+        "onboard_time": 1778919139,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 2259002,
+        "num": 368908,
+        "word": "明星个人捐款名单",
+        "onboard_time": 1778923281,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1959875,
+        "num": 368741,
+        "word": "丧假 上传证明",
+        "onboard_time": 1778916561,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 855985,
+        "num": 368662,
+        "word": "宋浩然整成李佳琦了",
+        "onboard_time": 1778907140,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 725903,
+        "num": 368382,
+        "word": "特朗普抵达美国现场画面",
+        "onboard_time": 1778902399,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 701400,
+        "num": 368308,
+        "word": "鞠婧祎 你被人鲨了但你是齐刘海",
+        "onboard_time": 1778922741,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 66644,
+        "num": 368059,
+        "word": "李冰冰回归戛纳红毯",
+        "onboard_time": 1778926460,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 502772,
+        "num": 367866,
+        "word": "孙颖莎王楚钦又一荣誉公示",
+        "onboard_time": 1778922860,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 162663,
+        "num": 367731,
+        "word": "女孩盲道被撞摆拍细节露馅",
+        "onboard_time": 1778927959,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 485844,
+        "num": 367549,
+        "word": "张凌赫Mai晚宴合照",
+        "onboard_time": 1778921480,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 385414,
+        "num": 367224,
+        "word": "房东发现女租客怀孕不让在家坐月子",
+        "onboard_time": 1778906481,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 370693,
+        "num": 367086,
+        "word": "女子穿着带有巨大吊牌旗袍街头拍照",
+        "onboard_time": 1778910920,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 367029,
+        "num": 367029,
+        "word": "韩红基金会去年收入7.8亿支出2.9亿",
+        "onboard_time": 1778925620,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 354794,
+        "num": 354794,
+        "word": "等等给孙俪买瑞士卷",
+        "onboard_time": 1778918241,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 336971,
+        "num": 336971,
+        "word": "中方宣布普京访华日期",
+        "onboard_time": 1778915359,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 302788,
+        "num": 302788,
+        "word": "范丞丞也在吃跑男的瓜",
+        "onboard_time": 1778923460,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120212,
+        "num": 284745,
+        "word": "卢伟冰爆料小米17Max",
+        "onboard_time": 1778926460,
+        "rank": 25,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 284743,
+        "num": 284743,
+        "word": "姜乘澜给化妆新手的8条建议",
+        "onboard_time": 1778925020,
+        "rank": 26,
+        "category": "网红,美妆"
+      },
+      {
+        "raw_hot": 37211,
+        "num": 282002,
+        "word": "北京的雨到哪了",
+        "onboard_time": 1778927121,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 281292,
+        "num": 281292,
+        "word": "30岁女子健身房摔倒身亡",
+        "onboard_time": 1778916440,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 12966,
+        "num": 279993,
+        "word": "铝型材厂因暴雨被淹称损失50万",
+        "onboard_time": 1778928320,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 279854,
+        "num": 279854,
+        "word": "王一博个人捐款200万",
+        "onboard_time": 1778907621,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 268842,
+        "num": 268842,
+        "word": "樊振东出战欧冠半决赛",
+        "onboard_time": 1778926340,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 260735,
+        "num": 260735,
+        "word": "姑姑养大侄女却扣下16万彩礼拒返还",
+        "onboard_time": 1778925740,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 227349,
+        "num": 227349,
+        "word": "多家酒店做不到床单一客一换",
+        "onboard_time": 1778907200,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 226079,
+        "num": 226079,
+        "word": "林俊杰个人捐款200万",
+        "onboard_time": 1778918720,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206645,
+        "num": 206645,
+        "word": "歌手2026的首期歌单",
+        "onboard_time": 1778924300,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198926,
+        "num": 198926,
+        "word": "全山东最重视山姆超市之人",
+        "onboard_time": 1778926158,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 194873,
+        "num": 194873,
+        "word": "万千惠乘风准冠军候选人",
+        "onboard_time": 1778914819,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194294,
+        "num": 194294,
+        "word": "虞书欣种地吧路透",
+        "onboard_time": 1778928260,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184121,
+        "num": 184121,
+        "word": "王楚钦发博总结世乒赛",
+        "onboard_time": 1778919439,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 185459,
+        "num": 184063,
+        "word": "APINK全员到场尹普美婚礼",
+        "onboard_time": 1778927901,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181718,
+        "num": 181718,
+        "word": "孟子义探班陈哲远",
+        "onboard_time": 1778926221,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168214,
+        "num": 168214,
+        "word": "房东回应要求怀孕女租客搬走",
+        "onboard_time": 1778915959,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 167609,
+        "num": 167609,
+        "word": "马嘉祺 风神",
+        "onboard_time": 1778918300,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164449,
+        "num": 164449,
+        "word": "黄圣依叶一茜的孩子是同学",
+        "onboard_time": 1778921839,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157723,
+        "num": 157723,
+        "word": "饭店喷水鱼获1000万网友围观",
+        "onboard_time": 1778921180,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162328,
+        "num": 157436,
+        "word": "田曦薇抽抽乐",
+        "onboard_time": 1778928081,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157045,
+        "num": 157045,
+        "word": "终于懂慢食碗的意义了",
+        "onboard_time": 1778922681,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 155316,
+        "num": 155316,
+        "word": "国乐无双",
+        "onboard_time": 1778927780,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153020,
+        "num": 153020,
+        "word": "22人集体断供银行数千万贷款追不回",
+        "onboard_time": 1778923520,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中美元首会晤速览#"
+    }
+  }
+}
