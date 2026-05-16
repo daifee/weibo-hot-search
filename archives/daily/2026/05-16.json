@@ -1,6 +1,6 @@
 {
   "startTime": 1778867315023,
-  "endTime": 1778933739822,
+  "endTime": 1778939224462,
   "band_list": [
     {
       "raw_hot": 3462118,
@@ -91,6 +91,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1308361,
+      "num": 402502,
+      "word": "吴镇宇用嘴喂郝蕾吃药",
+      "onboard_time": 1778931740,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1270160,
       "num": 1024543,
       "word": "退礼服女孩道歉",
@@ -107,8 +115,16 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1081959,
-      "num": 1081959,
+      "raw_hot": 1149812,
+      "num": 665087,
+      "word": "全山东最重视山姆超市之人",
+      "onboard_time": 1778926158,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 1100312,
+      "num": 1176049,
       "word": "女孩盲道被撞摆拍细节露馅",
       "onboard_time": 1778927959,
       "rank": 17,
@@ -140,7 +156,7 @@
     },
     {
       "raw_hot": 889312,
-      "num": 328005,
+      "num": 398214,
       "word": "白鹿艾特闵塔鲨",
       "onboard_time": 1778930240,
       "rank": 11,
@@ -153,6 +169,14 @@
       "onboard_time": 1778862080,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 848763,
+      "num": 400594,
+      "word": "韩红基金会明星捐款名单",
+      "onboard_time": 1778923281,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 824427,
@@ -259,6 +283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 647831,
+      "num": 647831,
+      "word": "大熊猫家和去世",
+      "onboard_time": 1778931980,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 646019,
       "num": 511255,
       "word": "等等给孙俪买瑞士卷",
@@ -284,7 +316,7 @@
     },
     {
       "raw_hot": 638838,
-      "num": 318138,
+      "num": 352536,
       "word": "姑姑养大侄女却扣下16万彩礼拒返还",
       "onboard_time": 1778925740,
       "rank": 32,
@@ -331,14 +363,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 601888,
-      "num": 601888,
-      "word": "全山东最重视山姆超市之人",
-      "onboard_time": 1778926158,
-      "rank": 36,
-      "category": "情感"
-    },
-    {
       "raw_hot": 592048,
       "num": 592048,
       "word": "建议喜欢熬夜的反复观看",
@@ -380,23 +404,15 @@
     },
     {
       "raw_hot": 555456,
-      "num": 316540,
+      "num": 398650,
       "word": "特朗普回国后谈中国行",
       "onboard_time": 1778915539,
       "rank": 22,
       "category": "国际时政"
     },
     {
-      "raw_hot": 548217,
-      "num": 315910,
-      "word": "吴镇宇用嘴喂郝蕾吃药",
-      "onboard_time": 1778931740,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 547406,
-      "num": 330831,
+      "num": 397421,
       "word": "姜乘澜给化妆新手的8条建议",
       "onboard_time": 1778925020,
       "rank": 26,
@@ -425,6 +441,14 @@
       "onboard_time": 1778899038,
       "rank": 8,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 533824,
+      "num": 395773,
+      "word": "德国跨国迷奸案",
+      "onboard_time": 1778935402,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 502772,
@@ -507,11 +531,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 445238,
+      "num": 445238,
+      "word": "樊振东出任一单",
+      "onboard_time": 1778931321,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 442096,
       "num": 442096,
       "word": "方媛对自己的人生比较满意",
       "onboard_time": 1778901020,
       "rank": 15,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 426531,
+      "num": 426531,
+      "word": "范丞丞也在吃跑男的瓜",
+      "onboard_time": 1778923460,
+      "rank": 31,
       "category": "综艺"
     },
     {
@@ -531,8 +571,16 @@
       "category": "财经"
     },
     {
+      "raw_hot": 411188,
+      "num": 395103,
+      "word": "网传三大运营商即将免月租是真的吗",
+      "onboard_time": 1778933781,
+      "rank": 19,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 406052,
-      "num": 367029,
+      "num": 371104,
       "word": "韩红基金会去年收入7.8亿支出2.9亿",
       "onboard_time": 1778925620,
       "rank": 21,
@@ -547,6 +595,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 404067,
+      "num": 404067,
+      "word": "刘浩存忆秦娥长大转场",
+      "onboard_time": 1778934441,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 398642,
       "num": 384040,
       "word": "我记得教师以前是份体面工作啊",
@@ -555,20 +611,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 396476,
-      "num": 396476,
-      "word": "范丞丞也在吃跑男的瓜",
-      "onboard_time": 1778923460,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 395394,
       "num": 395394,
       "word": "特朗普说能待得惯可能都不想走了",
       "onboard_time": 1778827702,
       "rank": 1,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 394753,
+      "num": 394753,
+      "word": "方媛缺席桃花坞发布会",
+      "onboard_time": 1778932940,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 388959,
@@ -617,6 +673,14 @@
       "onboard_time": 1778914819,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 358474,
+      "num": 358474,
+      "word": "红霉素软膏绝不能随便用",
+      "onboard_time": 1778938281,
+      "rank": 23,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 357993,
@@ -675,12 +739,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 329121,
-      "num": 329121,
-      "word": "大熊猫家和去世",
-      "onboard_time": 1778931980,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 324680,
+      "num": 324680,
+      "word": "黄仁勋说没有任何工作我看不上",
+      "onboard_time": 1778938401,
+      "rank": 27,
+      "category": "互联网"
     },
     {
       "raw_hot": 317955,
@@ -705,6 +769,14 @@
       "onboard_time": 1778902099,
       "rank": 30,
       "category": "电影"
+    },
+    {
+      "raw_hot": 312985,
+      "num": 312985,
+      "word": "减掉内脏脂肪才是减肥关键",
+      "onboard_time": 1778929821,
+      "rank": 29,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 311094,
@@ -763,14 +835,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 289945,
-      "num": 289945,
-      "word": "减掉内脏脂肪才是减肥关键",
-      "onboard_time": 1778929821,
-      "rank": 29,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 289770,
       "num": 289770,
       "word": "张雪回应捷克站夺冠",
@@ -819,11 +883,27 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 277430,
-      "num": 331434,
-      "word": "樊振东出任一单",
-      "onboard_time": 1778931321,
+      "raw_hot": 273899,
+      "num": 403466,
+      "word": "樊振东晋级欧冠决赛",
+      "onboard_time": 1778936719,
       "rank": 8,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 271552,
+      "num": 271552,
+      "word": "郑州一火锅店露天洗菜做饭如调色盘",
+      "onboard_time": 1778937560,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 268741,
+      "num": 268741,
+      "word": "德比斯说感谢张雪机车",
+      "onboard_time": 1778935881,
+      "rank": 30,
       "category": "体育"
     },
     {
@@ -833,6 +913,14 @@
       "onboard_time": 1778864418,
       "rank": 25,
       "category": "幽默,互联网"
+    },
+    {
+      "raw_hot": 259490,
+      "num": 259490,
+      "word": "主角 反套路",
+      "onboard_time": 1778933600,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 257773,
@@ -865,6 +953,22 @@
       "onboard_time": 1778910559,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 254333,
+      "num": 231742,
+      "word": "陈立农澳门演唱会嘉宾",
+      "onboard_time": 1778938222,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 251060,
+      "num": 231492,
+      "word": "给阿嬷的情书最终票房或近20亿",
+      "onboard_time": 1778936960,
+      "rank": 35,
+      "category": "电影"
     },
     {
       "raw_hot": 243672,
@@ -939,12 +1043,44 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 235036,
+      "num": 224182,
+      "word": "万千惠说我的人气太低了",
+      "onboard_time": 1778935460,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 233411,
+      "num": 216383,
+      "word": "主角",
+      "onboard_time": 1778846661,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 232594,
       "num": 232594,
       "word": "李庚希戛纳映后哭了",
       "onboard_time": 1778896519,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 232197,
+      "num": 232197,
+      "word": "苏超",
+      "onboard_time": 1778931621,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 228906,
+      "num": 396529,
+      "word": "你好星期六",
+      "onboard_time": 1778936481,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 225374,
@@ -1035,12 +1171,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 206484,
-      "num": 206484,
-      "word": "主角",
-      "onboard_time": 1778846661,
-      "rank": 44,
-      "category": "剧集"
+      "raw_hot": 204667,
+      "num": 204667,
+      "word": "张雪机车身后4台雅马哈",
+      "onboard_time": 1778937981,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 201906,
@@ -1179,6 +1315,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 174959,
+      "num": 174959,
+      "word": "穆祉丞出发戛纳电影节",
+      "onboard_time": 1778935160,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 172882,
       "num": 172882,
       "word": "厌食症和饕餮转世小猫",
@@ -1193,6 +1337,14 @@
       "onboard_time": 1778861899,
       "rank": 19,
       "category": "演出,体育"
+    },
+    {
+      "raw_hot": 167859,
+      "num": 160429,
+      "word": "你好吗",
+      "onboard_time": 1778934680,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 164458,
@@ -1217,6 +1369,22 @@
       "onboard_time": 1778914999,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 160469,
+      "num": 160469,
+      "word": "103号汽油",
+      "onboard_time": 1778935701,
+      "rank": 46,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 160217,
+      "num": 320797,
+      "word": "央视30年首次转播乒乓球欧冠",
+      "onboard_time": 1778932878,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 159671,
@@ -1355,10 +1523,10 @@
       "category": "教育"
     },
     {
-      "raw_hot": 146448,
-      "num": 208713,
-      "word": "方媛缺席桃花坞发布会",
-      "onboard_time": 1778932940,
+      "raw_hot": 143606,
+      "num": 210237,
+      "word": "网传歌手2026补位",
+      "onboard_time": 1778938401,
       "rank": 39,
       "category": "综艺"
     },
@@ -1561,6 +1729,14 @@
       "onboard_time": 1778845161,
       "rank": 49,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 91043,
+      "num": 668565,
+      "word": "中国式支付圈粉全球",
+      "onboard_time": 1778934861,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 89601,
@@ -1795,14 +1971,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 41281,
-      "num": 320797,
-      "word": "央视30年首次转播乒乓球欧冠",
-      "onboard_time": 1778932878,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
       "raw_hot": 39030,
       "num": 172255,
       "word": "舒服的风吹到了魔都地铁站",
@@ -2023,6 +2191,9 @@
     },
     {
       "word": "#习近平主席提出中美关系三问#"
+    },
+    {
+      "word": "#习主席这样阐述中美关系#"
     }
   ]
 }
