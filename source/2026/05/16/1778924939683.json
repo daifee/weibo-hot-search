@@ -1,0 +1,410 @@
+{
+  "runTime": 1778924939683,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 836867,
+        "num": 1133898,
+        "word": "歌手首发阵容",
+        "onboard_time": 1778908220,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 601557,
+        "num": 842520,
+        "word": "中方宣布普京访华日期",
+        "onboard_time": 1778915359,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 26116,
+        "num": 815043,
+        "word": "一季度数字产业实现收入9.5万亿元",
+        "onboard_time": 1778917880,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1491753,
+        "num": 814578,
+        "word": "李昀锐白鹿跑男十指相扣",
+        "onboard_time": 1778919259,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 922036,
+        "num": 813774,
+        "word": "这几类衣服普通人尽量不要买",
+        "onboard_time": 1778919559,
+        "rank": 4,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 805379,
+        "num": 805379,
+        "word": "碳水哥震撼中国人",
+        "onboard_time": 1778920640,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 584629,
+        "num": 584629,
+        "word": "盲人女孩盲道被撞系自导自演",
+        "onboard_time": 1778904320,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 552218,
+        "num": 552218,
+        "word": "鹿晗五哈哭了",
+        "onboard_time": 1778916621,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 551245,
+        "num": 551245,
+        "word": "其实孩子在小时候已经报完恩了",
+        "onboard_time": 1778914400,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 504550,
+        "num": 504550,
+        "word": "巨力索具股价",
+        "onboard_time": 1778919139,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 2465539,
+        "num": 498232,
+        "word": "丧假 上传证明",
+        "onboard_time": 1778916561,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1084361,
+        "num": 494745,
+        "word": "宋浩然整成李佳琦了",
+        "onboard_time": 1778907140,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 886973,
+        "num": 488086,
+        "word": "特朗普抵达美国现场画面",
+        "onboard_time": 1778902399,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 769512,
+        "num": 477675,
+        "word": "徐璐 吴崇轩",
+        "onboard_time": 1778920640,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 748085,
+        "num": 470227,
+        "word": "房东发现女租客怀孕不让在家坐月子",
+        "onboard_time": 1778906481,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 673190,
+        "num": 458166,
+        "word": "明星个人捐款名单",
+        "onboard_time": 1778923281,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 563362,
+        "num": 456171,
+        "word": "等等给孙俪买瑞士卷",
+        "onboard_time": 1778918241,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 449385,
+        "num": 449385,
+        "word": "女子穿着带有巨大吊牌旗袍街头拍照",
+        "onboard_time": 1778910920,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 556930,
+        "num": 445880,
+        "word": "林俊杰个人捐款200万",
+        "onboard_time": 1778918720,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 386810,
+        "num": 386810,
+        "word": "孙颖莎王楚钦又一荣誉公示",
+        "onboard_time": 1778922860,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 481538,
+        "num": 385609,
+        "word": "张凌赫Mai晚宴合照",
+        "onboard_time": 1778921480,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 457518,
+        "num": 383626,
+        "word": "王一博个人捐款200万",
+        "onboard_time": 1778907621,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 380967,
+        "num": 380967,
+        "word": "王楚钦发博总结世乒赛",
+        "onboard_time": 1778919439,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 448084,
+        "num": 366061,
+        "word": "鞠婧祎 你被人鲨了但你是齐刘海",
+        "onboard_time": 1778922741,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 343080,
+        "num": 343080,
+        "word": "多家酒店做不到床单一客一换",
+        "onboard_time": 1778907200,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 326646,
+        "num": 326646,
+        "word": "马嘉祺 风神",
+        "onboard_time": 1778918300,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 304815,
+        "num": 304815,
+        "word": "黄圣依叶一茜的孩子是同学",
+        "onboard_time": 1778921839,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 299728,
+        "num": 299728,
+        "word": "30岁女子健身房摔倒身亡",
+        "onboard_time": 1778916440,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 270575,
+        "num": 270575,
+        "word": "万千惠乘风准冠军候选人",
+        "onboard_time": 1778914819,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 266380,
+        "num": 266380,
+        "word": "金鹰奖提名神仙打架",
+        "onboard_time": 1778904560,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 257158,
+        "num": 257158,
+        "word": "王者荣耀",
+        "onboard_time": 1778921180,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 246396,
+        "num": 246396,
+        "word": "范丞丞也在吃跑男的瓜",
+        "onboard_time": 1778923460,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 228912,
+        "num": 228912,
+        "word": "房东回应要求怀孕女租客搬走",
+        "onboard_time": 1778915959,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 223953,
+        "num": 223953,
+        "word": "22人集体断供银行数千万贷款追不回",
+        "onboard_time": 1778923520,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 214554,
+        "num": 214554,
+        "word": "虞书欣个人捐款70万",
+        "onboard_time": 1778914222,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203035,
+        "num": 203035,
+        "word": "歌手2026的首期歌单",
+        "onboard_time": 1778924300,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170466,
+        "num": 170466,
+        "word": "饭店喷水鱼获1000万网友围观",
+        "onboard_time": 1778921180,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163654,
+        "num": 163654,
+        "word": "中南大学帅出圈男生已保研同济大学",
+        "onboard_time": 1778901499,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 158272,
+        "num": 158272,
+        "word": "厌食症和饕餮转世小猫",
+        "onboard_time": 1778919321,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 24755,
+        "num": 157680,
+        "word": "马尔代夫5人潜水溺亡或为氧气中毒",
+        "onboard_time": 1778923879,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 13632,
+        "num": 157432,
+        "word": "瓜农刺死城管案当事人继续种瓜谋生",
+        "onboard_time": 1778924780,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157326,
+        "num": 157326,
+        "word": "终于懂慢食碗的意义了",
+        "onboard_time": 1778922681,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 154988,
+        "num": 154988,
+        "word": "台密室逃脱员工扮吊死鬼身亡",
+        "onboard_time": 1778903899,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154065,
+        "num": 154065,
+        "word": "深海人鱼公主迪丽热巴",
+        "onboard_time": 1778912480,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148988,
+        "num": 148988,
+        "word": "原来不内耗的人是这样想的",
+        "onboard_time": 1778910559,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 148406,
+        "num": 148406,
+        "word": "刘雨昕个人捐款100万",
+        "onboard_time": 1778923520,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148255,
+        "num": 148255,
+        "word": "马伊琍短发波点裙",
+        "onboard_time": 1778924361,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 120912,
+        "num": 138733,
+        "word": "GEN对战T1",
+        "onboard_time": 1778922981,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 63705,
+        "num": 133822,
+        "word": "算力网要来了",
+        "onboard_time": 1778903719,
+        "rank": 48,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 130701,
+        "num": 130701,
+        "word": "白鹿基本上一个月只更新一条视频",
+        "onboard_time": 1778910979,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#中美元首会晤速览#"
+    }
+  }
+}

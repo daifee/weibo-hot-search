@@ -1,6 +1,6 @@
 {
   "startTime": 1778867315023,
-  "endTime": 1778922737545,
+  "endTime": 1778924939683,
   "band_list": [
     {
       "raw_hot": 3462118,
@@ -19,7 +19,7 @@
       "category": "财经"
     },
     {
-      "raw_hot": 2040674,
+      "raw_hot": 2465539,
       "num": 531336,
       "word": "丧假 上传证明",
       "onboard_time": 1778916561,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 1557826,
-      "num": 737972,
+      "num": 814578,
       "word": "李昀锐白鹿跑男十指相扣",
       "onboard_time": 1778919259,
       "rank": 3,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 1069047,
-      "num": 726819,
+      "num": 813774,
       "word": "这几类衣服普通人尽量不要买",
       "onboard_time": 1778919559,
       "rank": 4,
@@ -132,7 +132,7 @@
     },
     {
       "raw_hot": 824327,
-      "num": 824327,
+      "num": 842520,
       "word": "中方宣布普京访华日期",
       "onboard_time": 1778915359,
       "rank": 9,
@@ -145,6 +145,22 @@
       "onboard_time": 1778903600,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 805379,
+      "num": 805379,
+      "word": "碳水哥震撼中国人",
+      "onboard_time": 1778920640,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 769512,
+      "num": 477675,
+      "word": "徐璐 吴崇轩",
+      "onboard_time": 1778920640,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 735194,
@@ -185,6 +201,14 @@
       "onboard_time": 1778916621,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 673190,
+      "num": 458166,
+      "word": "明星个人捐款名单",
+      "onboard_time": 1778923281,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 659544,
@@ -291,6 +315,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 556930,
+      "num": 488682,
+      "word": "林俊杰个人捐款200万",
+      "onboard_time": 1778918720,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 543520,
       "num": 543520,
       "word": "何宣林要求退出师姐帮唱",
@@ -307,11 +339,11 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 488682,
-      "num": 488682,
-      "word": "林俊杰个人捐款200万",
-      "onboard_time": 1778918720,
-      "rank": 17,
+      "raw_hot": 481538,
+      "num": 385609,
+      "word": "张凌赫Mai晚宴合照",
+      "onboard_time": 1778921480,
+      "rank": 22,
       "category": "艺人"
     },
     {
@@ -361,6 +393,14 @@
       "onboard_time": 1778891119,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 448084,
+      "num": 366061,
+      "word": "鞠婧祎 你被人鲨了但你是齐刘海",
+      "onboard_time": 1778922741,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 445377,
@@ -435,27 +475,19 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 386810,
+      "num": 386810,
+      "word": "孙颖莎王楚钦又一荣誉公示",
+      "onboard_time": 1778922860,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 386387,
       "num": 261887,
       "word": "张碧晨的同学被男明星讨论",
       "onboard_time": 1778903659,
       "rank": 43,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 381782,
-      "num": 381782,
-      "word": "张凌赫Mai晚宴合照",
-      "onboard_time": 1778921480,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 376136,
-      "num": 239029,
-      "word": "徐璐 吴崇轩",
-      "onboard_time": 1778920640,
-      "rank": 26,
       "category": "艺人"
     },
     {
@@ -484,7 +516,7 @@
     },
     {
       "raw_hot": 364802,
-      "num": 238764,
+      "num": 270575,
       "word": "万千惠乘风准冠军候选人",
       "onboard_time": 1778914819,
       "rank": 28,
@@ -579,11 +611,27 @@
       "category": "电影"
     },
     {
+      "raw_hot": 304815,
+      "num": 304815,
+      "word": "黄圣依叶一茜的孩子是同学",
+      "onboard_time": 1778921839,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 302249,
       "num": 195010,
       "word": "支付宝回应深夜扣款184万",
       "onboard_time": 1778888838,
       "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 299728,
+      "num": 299728,
+      "word": "30岁女子健身房摔倒身亡",
+      "onboard_time": 1778916440,
+      "rank": 24,
       "category": "民生新闻"
     },
     {
@@ -593,14 +641,6 @@
       "onboard_time": 1778888958,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 296179,
-      "num": 386948,
-      "word": "碳水哥震撼中国人",
-      "onboard_time": 1778920640,
-      "rank": 21,
-      "category": "情感"
     },
     {
       "raw_hot": 294354,
@@ -675,6 +715,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 257158,
+      "num": 257158,
+      "word": "王者荣耀",
+      "onboard_time": 1778921180,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 255673,
       "num": 255673,
       "word": "原来不内耗的人是这样想的",
@@ -683,12 +731,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 244727,
-      "num": 244727,
-      "word": "30岁女子健身房摔倒身亡",
-      "onboard_time": 1778916440,
-      "rank": 24,
-      "category": "民生新闻"
+      "raw_hot": 246396,
+      "num": 246396,
+      "word": "范丞丞也在吃跑男的瓜",
+      "onboard_time": 1778923460,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 243672,
@@ -763,28 +811,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 231589,
-      "num": 231589,
-      "word": "王者荣耀",
-      "onboard_time": 1778921180,
-      "rank": 30,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 230218,
-      "num": 230218,
-      "word": "黄圣依叶一茜的孩子是同学",
-      "onboard_time": 1778921839,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 224763,
       "num": 188282,
       "word": "王楚钦个人捐款20万",
       "onboard_time": 1778856502,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 223953,
+      "num": 223953,
+      "word": "22人集体断供银行数千万贷款追不回",
+      "onboard_time": 1778923520,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 219314,
@@ -833,6 +873,14 @@
       "onboard_time": 1778840901,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 203035,
+      "num": 203035,
+      "word": "歌手2026的首期歌单",
+      "onboard_time": 1778924300,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 201906,
@@ -979,6 +1027,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 157326,
+      "num": 157326,
+      "word": "终于懂慢食碗的意义了",
+      "onboard_time": 1778922681,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 157058,
       "num": 157058,
       "word": "张予曦怎么又瘦了",
@@ -1049,6 +1105,22 @@
       "onboard_time": 1778905940,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 148406,
+      "num": 148406,
+      "word": "刘雨昕个人捐款100万",
+      "onboard_time": 1778923520,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 148255,
+      "num": 148255,
+      "word": "马伊琍短发波点裙",
+      "onboard_time": 1778924361,
+      "rank": 46,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 148179,
@@ -1131,6 +1203,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 120912,
+      "num": 138733,
+      "word": "GEN对战T1",
+      "onboard_time": 1778922981,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 118972,
       "num": 413989,
       "word": "微信捐赠第一行代码",
@@ -1161,14 +1241,6 @@
       "onboard_time": 1778890399,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 113464,
-      "num": 113464,
-      "word": "终于懂慢食碗的意义了",
-      "onboard_time": 1778922681,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 107782,
@@ -1548,11 +1620,19 @@
     },
     {
       "raw_hot": 27572,
-      "num": 740336,
+      "num": 815043,
       "word": "一季度数字产业实现收入9.5万亿元",
       "onboard_time": 1778917880,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 24755,
+      "num": 157680,
+      "word": "马尔代夫5人潜水溺亡或为氧气中毒",
+      "onboard_time": 1778923879,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 21527,
@@ -1577,6 +1657,14 @@
       "onboard_time": 1778904139,
       "rank": 20,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 13632,
+      "num": 157432,
+      "word": "瓜农刺死城管案当事人继续种瓜谋生",
+      "onboard_time": 1778924780,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 11356,
