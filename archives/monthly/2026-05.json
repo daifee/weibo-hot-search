@@ -1,6 +1,6 @@
 {
   "startTime": 1777565126834,
-  "endTime": 1778969543762,
+  "endTime": 1778972235204,
   "band_list": [
     {
       "raw_hot": 25375641,
@@ -13947,6 +13947,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 288360,
+      "num": 499973,
+      "word": "东亚小孩的放弃五件套",
+      "onboard_time": 1778959514,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 288307,
       "num": 491028,
       "word": "卧室巨星",
@@ -21011,14 +21019,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 172633,
-      "num": 172633,
-      "word": "东亚小孩的放弃五件套",
-      "onboard_time": 1778959514,
-      "rank": 29,
-      "category": "情感"
-    },
-    {
       "raw_hot": 172608,
       "num": 172608,
       "word": "我家那小子",
@@ -24563,6 +24563,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 128413,
+      "num": 128413,
+      "word": "司美格鲁肽将限购",
+      "onboard_time": 1778953636,
+      "rank": 25,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 128344,
       "num": 318117,
       "word": "九尾 败者组",
@@ -24953,6 +24961,14 @@
       "onboard_time": 1778346019,
       "rank": 34,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 123831,
+      "num": 79060,
+      "word": "樊振东单手接球观众直呼好帅",
+      "onboard_time": 1778954537,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 123758,
@@ -26907,6 +26923,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 94249,
+      "num": 77659,
+      "word": "大爷卖房跨省投奔女儿养老人间蒸发",
+      "onboard_time": 1778966653,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 94112,
       "num": 275962,
       "word": "DeepSeek思考过程好萌",
@@ -28019,6 +28043,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 72812,
+      "num": 147360,
+      "word": "宿管拦住了妈妈但没拦住爱",
+      "onboard_time": 1778950818,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 72688,
       "num": 220958,
       "word": "不怪恋爱脑这谁忍得住",
@@ -28059,14 +28091,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 71286,
-      "num": 71286,
-      "word": "司美格鲁肽将限购",
-      "onboard_time": 1778953636,
-      "rank": 25,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 71263,
       "num": 118606,
       "word": "徐良太懂四川人了",
@@ -28105,14 +28129,6 @@
       "onboard_time": 1777685423,
       "rank": 28,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 70407,
-      "num": 64657,
-      "word": "樊振东单手接球观众直呼好帅",
-      "onboard_time": 1778954537,
-      "rank": 36,
-      "category": "体育"
     },
     {
       "raw_hot": 70356,
@@ -28177,14 +28193,6 @@
       "onboard_time": 1778954296,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 69494,
-      "num": 147360,
-      "word": "宿管拦住了妈妈但没拦住爱",
-      "onboard_time": 1778950818,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 69350,
@@ -29331,14 +29339,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 52185,
-      "num": 43181,
-      "word": "大爷卖房跨省投奔女儿养老人间蒸发",
-      "onboard_time": 1778966653,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 52163,
       "num": 112974,
       "word": "2岁女儿认错妈妈10岁儿子也认错",
@@ -29729,6 +29729,14 @@
       "onboard_time": 1778942661,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 45935,
+      "num": 38014,
+      "word": "狗狗上辈子怕不是个木匠吧",
+      "onboard_time": 1778964973,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 45921,
@@ -30283,14 +30291,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 38114,
-      "num": 31371,
-      "word": "狗狗上辈子怕不是个木匠吧",
-      "onboard_time": 1778964973,
-      "rank": 43,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 38058,
       "num": 956786,
       "word": "北方多地迎今年首个高温日",
@@ -30345,6 +30345,14 @@
       "onboard_time": 1777565001,
       "rank": 40,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 37280,
+      "num": 37280,
+      "word": "哪些情况不建议用红霉素软膏",
+      "onboard_time": 1778960834,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 37269,
@@ -30801,14 +30809,6 @@
       "onboard_time": 1778241680,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 32346,
-      "num": 31034,
-      "word": "哪些情况不建议用红霉素软膏",
-      "onboard_time": 1778960834,
-      "rank": 30,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 32304,
@@ -31483,6 +31483,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 26165,
+      "num": 30514,
+      "word": "德比斯积分榜升至第三",
+      "onboard_time": 1778967974,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 26117,
       "num": 143385,
       "word": "愿每一位妈妈都被岁月温柔以待",
@@ -31705,14 +31713,6 @@
       "onboard_time": 1778610855,
       "rank": 45,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 22798,
-      "num": 22798,
-      "word": "德比斯积分榜升至第三",
-      "onboard_time": 1778967974,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 22730,
