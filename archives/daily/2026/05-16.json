@@ -1,22 +1,30 @@
 {
   "startTime": 1778867315023,
-  "endTime": 1778887789779,
+  "endTime": 1778889913399,
   "band_list": [
     {
-      "raw_hot": 683115,
-      "num": 198859,
+      "raw_hot": 2293218,
+      "num": 250600,
+      "word": "金价跌麻了",
+      "onboard_time": 1778887577,
+      "rank": 11,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 800545,
+      "num": 244913,
       "word": "流量撑不起演员的底气",
       "onboard_time": 1778862080,
       "rank": 10,
       "category": "作品衍生"
     },
     {
-      "raw_hot": 653698,
-      "num": 192657,
-      "word": "金价跌麻了",
-      "onboard_time": 1778887577,
-      "rank": 11,
-      "category": "财经"
+      "raw_hot": 619666,
+      "num": 1099146,
+      "word": "跑男真夫妻就是甜",
+      "onboard_time": 1778886738,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 592048,
@@ -27,12 +35,28 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 458592,
-      "num": 187280,
+      "raw_hot": 484669,
+      "num": 244351,
       "word": "新娘回应婚礼没敬酒宾客已散场",
       "onboard_time": 1778858001,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 440493,
+      "num": 239140,
+      "word": "白鹿卢昱晓 短视频营业",
+      "onboard_time": 1778888478,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 428360,
+      "num": 428360,
+      "word": "原来是过敏啊还以为脂肪在燃烧",
+      "onboard_time": 1778847202,
+      "rank": 5,
+      "category": "幽默"
     },
     {
       "raw_hot": 426031,
@@ -43,14 +67,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 418083,
-      "num": 418083,
-      "word": "原来是过敏啊还以为脂肪在燃烧",
-      "onboard_time": 1778847202,
-      "rank": 5,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 395394,
       "num": 395394,
       "word": "特朗普说能待得惯可能都不想走了",
@@ -59,28 +75,36 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 373351,
-      "num": 373351,
+      "raw_hot": 384040,
+      "num": 384040,
       "word": "我记得教师以前是份体面工作啊",
       "onboard_time": 1778852723,
       "rank": 15,
       "category": "幽默"
     },
     {
-      "raw_hot": 360277,
-      "num": 360277,
-      "word": "跑男真夫妻就是甜",
-      "onboard_time": 1778886738,
-      "rank": 5,
-      "category": "综艺"
+      "raw_hot": 370017,
+      "num": 799231,
+      "word": "中美元首会晤情况和共识",
+      "onboard_time": 1778854762,
+      "rank": 6,
+      "category": "国内时政"
     },
     {
       "raw_hot": 357078,
-      "num": 195653,
+      "num": 236829,
       "word": "央视6000万美元拿下世界杯版权",
       "onboard_time": 1778839700,
       "rank": 11,
       "category": "体育,民生新闻"
+    },
+    {
+      "raw_hot": 353036,
+      "num": 157784,
+      "word": "赵樱子回应蒋毅妻子喊话",
+      "onboard_time": 1778853682,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 317955,
@@ -91,6 +115,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 314468,
+      "num": 314468,
+      "word": "金鹰奖提名预测名单",
+      "onboard_time": 1778887817,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 311094,
       "num": 311094,
       "word": "周芯竹戛纳红毯",
@@ -99,20 +131,44 @@
       "category": "电影"
     },
     {
-      "raw_hot": 268621,
-      "num": 157784,
-      "word": "赵樱子回应蒋毅妻子喊话",
-      "onboard_time": 1778853682,
-      "rank": 20,
-      "category": "艺人"
+      "raw_hot": 297261,
+      "num": 153918,
+      "word": "原来表达能力是这么练出来的",
+      "onboard_time": 1778852424,
+      "rank": 21,
+      "category": "教育"
     },
     {
-      "raw_hot": 255507,
-      "num": 799231,
-      "word": "中美元首会晤情况和共识",
-      "onboard_time": 1778854762,
+      "raw_hot": 275152,
+      "num": 130688,
+      "word": "女同学因被偷拍长期遭霸凌致抑郁",
+      "onboard_time": 1778888838,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 273362,
+      "num": 273362,
+      "word": "何宣林要求退出师姐帮唱",
+      "onboard_time": 1778888478,
       "rank": 6,
-      "category": "国内时政"
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 257705,
+      "num": 257705,
+      "word": "U17国足3比1逆转胜沙特队",
+      "onboard_time": 1778889139,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 251952,
+      "num": 150767,
+      "word": "女子从174斤减到95斤判若两人",
+      "onboard_time": 1778858362,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 247983,
@@ -139,6 +195,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 237619,
+      "num": 130381,
+      "word": "曝蒋毅离婚",
+      "onboard_time": 1778850382,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 236364,
       "num": 236364,
       "word": "恩新cp",
@@ -147,12 +211,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 226062,
-      "num": 153918,
-      "word": "原来表达能力是这么练出来的",
-      "onboard_time": 1778852424,
-      "rank": 21,
-      "category": "教育"
+      "raw_hot": 235858,
+      "num": 235858,
+      "word": "女子救落水儿童后手机报废无人问津",
+      "onboard_time": 1778864418,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 224763,
@@ -161,6 +225,22 @@
       "onboard_time": 1778856502,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 209140,
+      "num": 209140,
+      "word": "王濛打孙怡被萧蔷一把拉走",
+      "onboard_time": 1778888898,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 207836,
+      "num": 207836,
+      "word": "毛巾少爷曾说父亲爷爷不愿其接班",
+      "onboard_time": 1778853742,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 207426,
@@ -179,20 +259,36 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 192666,
-      "num": 150767,
-      "word": "女子从174斤减到95斤判若两人",
-      "onboard_time": 1778858362,
-      "rank": 22,
+      "raw_hot": 195010,
+      "num": 195010,
+      "word": "支付宝回应深夜扣款184万",
+      "onboard_time": 1778888838,
+      "rank": 18,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 179508,
-      "num": 179508,
-      "word": "女子救落水儿童后手机报废无人问津",
-      "onboard_time": 1778864418,
-      "rank": 35,
-      "category": "民生新闻"
+      "raw_hot": 181289,
+      "num": 129877,
+      "word": "丁程鑫泰国",
+      "onboard_time": 1778889379,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 178105,
+      "num": 252367,
+      "word": "巨力索具被证监会立案",
+      "onboard_time": 1778855002,
+      "rank": 39,
+      "category": "财经,民生新闻"
+    },
+    {
+      "raw_hot": 174981,
+      "num": 129534,
+      "word": "蒋毅赵樱子贴身热舞",
+      "onboard_time": 1778888958,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 170876,
@@ -203,12 +299,12 @@
       "category": "演出,体育"
     },
     {
-      "raw_hot": 166082,
-      "num": 166082,
-      "word": "毛巾少爷曾说父亲爷爷不愿其接班",
-      "onboard_time": 1778853742,
-      "rank": 18,
-      "category": "民生新闻"
+      "raw_hot": 169970,
+      "num": 129393,
+      "word": "窦靖童歌手首位官宣",
+      "onboard_time": 1778888478,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 164458,
@@ -217,6 +313,14 @@
       "onboard_time": 1778853981,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 159671,
+      "num": 129713,
+      "word": "国际足联回应央视世界杯版权费",
+      "onboard_time": 1778848881,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 155562,
@@ -235,28 +339,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 127586,
+      "num": 127586,
+      "word": "上一个被说像京圈佛子的是任嘉伦",
+      "onboard_time": 1778886016,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 125746,
       "num": 125746,
       "word": "奶奶真成档案管理大师了",
       "onboard_time": 1778865917,
       "rank": 34,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 124715,
-      "num": 124715,
-      "word": "国际足联回应央视世界杯版权费",
-      "onboard_time": 1778848881,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 116309,
-      "num": 116309,
-      "word": "曝蒋毅离婚",
-      "onboard_time": 1778850382,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 105146,
@@ -299,12 +395,28 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 91300,
-      "num": 91300,
-      "word": "上一个被说像京圈佛子的是任嘉伦",
-      "onboard_time": 1778886016,
-      "rank": 30,
+      "raw_hot": 90918,
+      "num": 90918,
+      "word": "曝小酒窝周扬青去胡彦斌音乐学校上课",
+      "onboard_time": 1778852001,
+      "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 90170,
+      "num": 90170,
+      "word": "阿斯顿维拉4比2利物浦",
+      "onboard_time": 1778888359,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 90039,
+      "num": 90039,
+      "word": "女生误解医生把饭吃干净点一周胖5斤",
+      "onboard_time": 1778849601,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 89601,
@@ -347,11 +459,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 80405,
-      "num": 80405,
-      "word": "曝小酒窝周扬青去胡彦斌音乐学校上课",
-      "onboard_time": 1778852001,
-      "rank": 35,
+      "raw_hot": 81578,
+      "num": 81578,
+      "word": "迪丽热巴冰淇淋掉衣服上",
+      "onboard_time": 1778844023,
+      "rank": 37,
       "category": "艺人"
     },
     {
@@ -379,12 +491,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 71558,
-      "num": 71558,
-      "word": "迪丽热巴冰淇淋掉衣服上",
-      "onboard_time": 1778844023,
-      "rank": 37,
-      "category": "艺人"
+      "raw_hot": 71822,
+      "num": 71822,
+      "word": "女子4岁烧伤用化妆重拾自信",
+      "onboard_time": 1778889619,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 70047,
@@ -401,14 +513,6 @@
       "onboard_time": 1778853862,
       "rank": 40,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 67621,
-      "num": 88707,
-      "word": "巨力索具被证监会立案",
-      "onboard_time": 1778855002,
-      "rank": 39,
-      "category": "财经,民生新闻"
     },
     {
       "raw_hot": 67105,
@@ -555,8 +659,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 24430,
-      "num": 475165,
+      "raw_hot": 27993,
+      "num": 643605,
       "word": "天坛的文化与建筑之美",
       "onboard_time": 1778848162,
       "rank": 2,
