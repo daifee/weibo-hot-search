@@ -1,0 +1,410 @@
+{
+  "runTime": 1778960610539,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 712988,
+        "num": 712988,
+        "word": "特朗普警告台独",
+        "onboard_time": 1778940321,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 135855,
+        "num": 191153,
+        "word": "给阿嬷的情书",
+        "onboard_time": 1778946561,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 22115,
+        "num": 142157,
+        "word": "中国式支付圈粉全球",
+        "onboard_time": 1778934861,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 313278,
+        "num": 137520,
+        "word": "万千惠点名徐梦洁",
+        "onboard_time": 1778943082,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 99160,
+        "num": 99160,
+        "word": "遇到和已逝亲人很像的人是啥感觉",
+        "onboard_time": 1778942182,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 92268,
+        "num": 92268,
+        "word": "朱孝天上节目内涵阿信",
+        "onboard_time": 1778943322,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 84654,
+        "num": 84654,
+        "word": "一诺刷新KPL选手决赛记录",
+        "onboard_time": 1778955016,
+        "rank": 6,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 62818,
+        "num": 62818,
+        "word": "女孩盲道被撞摆拍细节露馅",
+        "onboard_time": 1778927959,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 59124,
+        "num": 59124,
+        "word": "张雪机车捷克站夺冠",
+        "onboard_time": 1778929940,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 58164,
+        "num": 58164,
+        "word": "一个很好的解压方法",
+        "onboard_time": 1778950818,
+        "rank": 9,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 221899,
+        "num": 57904,
+        "word": "摆拍盲道被撞女生系百万粉丝网红",
+        "onboard_time": 1778950818,
+        "rank": 10,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 111975,
+        "num": 57477,
+        "word": "日本担心中美关系稳定自己被晾在一边",
+        "onboard_time": 1778944460,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 103161,
+        "num": 56452,
+        "word": "暴雨大暴雨范围扩大",
+        "onboard_time": 1778948480,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85812,
+        "num": 55707,
+        "word": "吴艳妮100米栏13秒16",
+        "onboard_time": 1778949080,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 55687,
+        "num": 55687,
+        "word": "戛纳电影节中国之夜",
+        "onboard_time": 1778951417,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 74241,
+        "num": 55243,
+        "word": "吴镇宇用嘴喂郝蕾吃药",
+        "onboard_time": 1778931740,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 65610,
+        "num": 54868,
+        "word": "女子试管7年得子丈夫肺癌脑转移",
+        "onboard_time": 1778940561,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 59920,
+        "num": 54265,
+        "word": "马尔代夫水下60米到底发生了什么",
+        "onboard_time": 1778950818,
+        "rank": 17,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 58483,
+        "num": 53747,
+        "word": "清华女博士丈夫雇人抢走2岁半儿子",
+        "onboard_time": 1778939541,
+        "rank": 18,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 58157,
+        "num": 52668,
+        "word": "给阿嬷的情书最终票房或近20亿",
+        "onboard_time": 1778936960,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 124835,
+        "num": 52079,
+        "word": "红霉素软膏绝不能随便用",
+        "onboard_time": 1778938281,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 58164,
+        "num": 51429,
+        "word": "郑州一火锅店露天洗菜做饭如调色盘",
+        "onboard_time": 1778937560,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 51411,
+        "num": 51411,
+        "word": "单依纯大连演唱会上座率",
+        "onboard_time": 1778948241,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 49415,
+        "num": 49415,
+        "word": "减掉内脏脂肪才是减肥关键",
+        "onboard_time": 1778929821,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 46171,
+        "num": 46171,
+        "word": "招聘时的尴尬被HR轻松接住了",
+        "onboard_time": 1778954296,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 45871,
+        "num": 45871,
+        "word": "白鹿经典露齿笑",
+        "onboard_time": 1778939482,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 41979,
+        "num": 41979,
+        "word": "樊振东单手接球观众直呼好帅",
+        "onboard_time": 1778954537,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 40492,
+        "num": 40492,
+        "word": "留学生跨国迷奸案",
+        "onboard_time": 1778935402,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 40154,
+        "num": 40154,
+        "word": "田曦薇出发云南录忙忙碌碌寻宝藏2",
+        "onboard_time": 1778949860,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 39924,
+        "num": 39924,
+        "word": "东亚小孩的放弃五件套",
+        "onboard_time": 1778959514,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 39452,
+        "num": 39452,
+        "word": "主角",
+        "onboard_time": 1778933001,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 36604,
+        "num": 36604,
+        "word": "司美格鲁肽将限购",
+        "onboard_time": 1778953636,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 36094,
+        "num": 36094,
+        "word": "邓超陈赫五哈哭了",
+        "onboard_time": 1778950818,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 35462,
+        "num": 35462,
+        "word": "宿管拦住了妈妈但没拦住爱",
+        "onboard_time": 1778950818,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 35070,
+        "num": 35070,
+        "word": "杨紫3部作品入围金鹰奖",
+        "onboard_time": 1778951237,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 35050,
+        "num": 35050,
+        "word": "网传三大运营商即将免月租是真的吗",
+        "onboard_time": 1778933781,
+        "rank": 35,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 32335,
+        "num": 35045,
+        "word": "AG战胜JDG",
+        "onboard_time": 1778958194,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 31979,
+        "num": 35017,
+        "word": "切尔西0比1曼城",
+        "onboard_time": 1778954537,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 29944,
+        "num": 35007,
+        "word": "全山东最重视山姆超市之人",
+        "onboard_time": 1778926158,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 29459,
+        "num": 34991,
+        "word": "算力版国家电网要来了",
+        "onboard_time": 1778945661,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27615,
+        "num": 34977,
+        "word": "足总杯决赛",
+        "onboard_time": 1778954537,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 27005,
+        "num": 34950,
+        "word": "中南大学帅哥自曝理想型",
+        "onboard_time": 1778945962,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26799,
+        "num": 34938,
+        "word": "方媛缺席桃花坞发布会",
+        "onboard_time": 1778932940,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 26504,
+        "num": 34924,
+        "word": "韩红基金会去年收入7.8亿支出2.9亿",
+        "onboard_time": 1778925620,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26351,
+        "num": 34914,
+        "word": "樊振东晋级欧冠决赛",
+        "onboard_time": 1778936719,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 25224,
+        "num": 34890,
+        "word": "JDG对战AG",
+        "onboard_time": 1778942362,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 25216,
+        "num": 34866,
+        "word": "一诺第十三次进决赛",
+        "onboard_time": 1778959815,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 24955,
+        "num": 34857,
+        "word": "陈立农澳门演唱会嘉宾",
+        "onboard_time": 1778938222,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 24107,
+        "num": 34838,
+        "word": "taeyoon赛后扔掉ns队服",
+        "onboard_time": 1778942783,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 24007,
+        "num": 34823,
+        "word": "AG第十六次晋级决赛",
+        "onboard_time": 1778942602,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席这样阐述中美关系#"
+    }
+  }
+}

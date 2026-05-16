@@ -1,6 +1,6 @@
 {
   "startTime": 1777565126834,
-  "endTime": 1778958973808,
+  "endTime": 1778960610539,
   "band_list": [
     {
       "raw_hot": 25375641,
@@ -30107,6 +30107,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 39924,
+      "num": 39924,
+      "word": "东亚小孩的放弃五件套",
+      "onboard_time": 1778959514,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 39903,
       "num": 46538,
       "word": "乘风节目组启动交通酒店退费补偿",
@@ -31505,6 +31513,14 @@
       "onboard_time": 1778932878,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 25216,
+      "num": 34866,
+      "word": "一诺第十三次进决赛",
+      "onboard_time": 1778959815,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 25208,
