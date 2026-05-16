@@ -1,6 +1,6 @@
 {
   "startTime": 1778342585344,
-  "endTime": 1778889913399,
+  "endTime": 1778890594403,
   "band_list": [
     {
       "raw_hot": 20021872,
@@ -331,6 +331,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 2503474,
+      "num": 250600,
+      "word": "金价跌麻了",
+      "onboard_time": 1778887577,
+      "rank": 11,
+      "category": "财经"
+    },
+    {
       "raw_hot": 2460654,
       "num": 1049961,
       "word": "白鹿演唱会过审",
@@ -369,14 +377,6 @@
       "onboard_time": 1778340500,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2293218,
-      "num": 250600,
-      "word": "金价跌麻了",
-      "onboard_time": 1778887577,
-      "rank": 11,
-      "category": "财经"
     },
     {
       "raw_hot": 2269909,
@@ -1779,6 +1779,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 854182,
+      "num": 244913,
+      "word": "流量撑不起演员的底气",
+      "onboard_time": 1778862080,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 850989,
       "num": 1136158,
       "word": "孙颖莎晒照总结世乒赛",
@@ -1939,14 +1947,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 800545,
-      "num": 244913,
-      "word": "流量撑不起演员的底气",
-      "onboard_time": 1778862080,
-      "rank": 10,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 799451,
       "num": 981390,
       "word": "华南理工男生偷拍女同学裙底",
@@ -2041,6 +2041,14 @@
       "onboard_time": 1778550621,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 772080,
+      "num": 239140,
+      "word": "白鹿卢昱晓 短视频营业",
+      "onboard_time": 1778888478,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 771439,
@@ -2315,6 +2323,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 694662,
+      "num": 244351,
+      "word": "新娘回应婚礼没敬酒宾客已散场",
+      "onboard_time": 1778858001,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 689980,
       "num": 689980,
       "word": "烫牛奶是善良的食物",
@@ -2515,6 +2531,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 644590,
+      "num": 1099146,
+      "word": "跑男真夫妻就是甜",
+      "onboard_time": 1778886738,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 641975,
       "num": 498747,
       "word": "白玉兰奖动了",
@@ -2633,14 +2657,6 @@
       "onboard_time": 1778831361,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 619666,
-      "num": 1099146,
-      "word": "跑男真夫妻就是甜",
-      "onboard_time": 1778886738,
-      "rank": 5,
-      "category": "综艺"
     },
     {
       "raw_hot": 619368,
@@ -3539,14 +3555,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 484669,
-      "num": 244351,
-      "word": "新娘回应婚礼没敬酒宾客已散场",
-      "onboard_time": 1778858001,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 484486,
       "num": 484486,
       "word": "陈妍希看给阿嬷的情书看哭了",
@@ -3867,14 +3875,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 440493,
-      "num": 239140,
-      "word": "白鹿卢昱晓 短视频营业",
-      "onboard_time": 1778888478,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 438919,
       "num": 338051,
       "word": "小猫的脚原来这么臭",
@@ -4187,6 +4187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 404659,
+      "num": 404659,
+      "word": "金鹰奖提名预测名单",
+      "onboard_time": 1778887817,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 404305,
       "num": 404305,
       "word": "机票价格大跳水",
@@ -4345,6 +4353,14 @@
       "onboard_time": 1778680823,
       "rank": 4,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 388959,
+      "num": 136860,
+      "word": "女同学因被偷拍长期遭霸凌致抑郁",
+      "onboard_time": 1778888838,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 388291,
@@ -4747,6 +4763,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 349086,
+      "num": 349086,
+      "word": "何宣林要求退出师姐帮唱",
+      "onboard_time": 1778888478,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 348487,
       "num": 330880,
       "word": "张雪率车队参加儿子学校运动会",
@@ -4849,6 +4873,14 @@
       "onboard_time": 1778492240,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 341868,
+      "num": 341868,
+      "word": "U17国足3比1逆转胜沙特队",
+      "onboard_time": 1778889139,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 341356,
@@ -5211,14 +5243,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 314468,
-      "num": 314468,
-      "word": "金鹰奖提名预测名单",
-      "onboard_time": 1778887817,
-      "rank": 5,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 313881,
       "num": 313881,
       "word": "巴基斯坦总理将访华",
@@ -5345,6 +5369,14 @@
       "onboard_time": 1778769743,
       "rank": 26,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 302249,
+      "num": 195010,
+      "word": "支付宝回应深夜扣款184万",
+      "onboard_time": 1778888838,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 302162,
@@ -5603,6 +5635,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 280435,
+      "num": 144286,
+      "word": "丁程鑫泰国",
+      "onboard_time": 1778889379,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 279953,
       "num": 279953,
       "word": "特朗普说此次访华非常成功",
@@ -5691,14 +5731,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 275152,
-      "num": 130688,
-      "word": "女同学因被偷拍长期遭霸凌致抑郁",
-      "onboard_time": 1778888838,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 274507,
       "num": 274507,
       "word": "迪丽热巴的水果剧还是太超前了",
@@ -5729,14 +5761,6 @@
       "onboard_time": 1778455940,
       "rank": 15,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 273362,
-      "num": 273362,
-      "word": "何宣林要求退出师姐帮唱",
-      "onboard_time": 1778888478,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 273329,
@@ -5939,6 +5963,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 261952,
+      "num": 261952,
+      "word": "Deepseek不语 只是一味跟团",
+      "onboard_time": 1778864418,
+      "rank": 25,
+      "category": "幽默,互联网"
+    },
+    {
       "raw_hot": 261746,
       "num": 261746,
       "word": "标价15元结账收29.9元",
@@ -6000,14 +6032,6 @@
       "word": "王楚钦被夸得不好意思了",
       "onboard_time": 1778761223,
       "rank": 25,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 257705,
-      "num": 257705,
-      "word": "U17国足3比1逆转胜沙特队",
-      "onboard_time": 1778889139,
-      "rank": 7,
       "category": "体育"
     },
     {
@@ -6187,14 +6211,6 @@
       "category": "财经,艺人"
     },
     {
-      "raw_hot": 247983,
-      "num": 247983,
-      "word": "Deepseek不语 只是一味跟团",
-      "onboard_time": 1778864418,
-      "rank": 25,
-      "category": "幽默,互联网"
-    },
-    {
       "raw_hot": 247897,
       "num": 369712,
       "word": "哈哈哈哈哈",
@@ -6337,6 +6353,14 @@
       "onboard_time": 1778661024,
       "rank": 9,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 241287,
+      "num": 209140,
+      "word": "王濛打孙怡被萧蔷一把拉走",
+      "onboard_time": 1778888898,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 241283,
@@ -6747,6 +6771,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 221551,
+      "num": 132126,
+      "word": "蒋毅赵樱子贴身热舞",
+      "onboard_time": 1778888958,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 221504,
       "num": 311798,
       "word": "小米官宣YU7交付能力大幅提升",
@@ -7065,14 +7097,6 @@
       "onboard_time": 1778563822,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 209140,
-      "num": 209140,
-      "word": "王濛打孙怡被萧蔷一把拉走",
-      "onboard_time": 1778888898,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 208566,
@@ -7441,14 +7465,6 @@
       "onboard_time": 1778643260,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 195010,
-      "num": 195010,
-      "word": "支付宝回应深夜扣款184万",
-      "onboard_time": 1778888838,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 194219,
@@ -7843,14 +7859,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 181289,
-      "num": 129877,
-      "word": "丁程鑫泰国",
-      "onboard_time": 1778889379,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 180080,
       "num": 180080,
       "word": "梁靖崑回应惊天逆转",
@@ -7937,6 +7945,14 @@
       "onboard_time": 1778699414,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 177828,
+      "num": 131350,
+      "word": "窦靖童歌手首位官宣",
+      "onboard_time": 1778888478,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 177723,
@@ -8048,14 +8064,6 @@
       "word": "aespa出席婚礼现场表演",
       "onboard_time": 1778409859,
       "rank": 38,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 174981,
-      "num": 129534,
-      "word": "蒋毅赵樱子贴身热舞",
-      "onboard_time": 1778888958,
-      "rank": 30,
       "category": "艺人"
     },
     {
@@ -8353,14 +8361,6 @@
       "onboard_time": 1778676863,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 169970,
-      "num": 129393,
-      "word": "窦靖童歌手首位官宣",
-      "onboard_time": 1778888478,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 169765,
@@ -9795,6 +9795,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 116721,
+      "num": 116721,
+      "word": "曝小酒窝周扬青去胡彦斌音乐学校上课",
+      "onboard_time": 1778852001,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 116494,
       "num": 134282,
       "word": "中美元首会晤在即",
@@ -9832,6 +9840,14 @@
       "word": "央视网更正锁电相关报道",
       "onboard_time": 1778342721,
       "rank": 43,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 113818,
+      "num": 113818,
+      "word": "瓜农刺死城管案二审维持原判",
+      "onboard_time": 1778890399,
+      "rank": 44,
       "category": "民生新闻"
     },
     {
@@ -10131,6 +10147,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 98770,
+      "num": 98770,
+      "word": "男子独自夜钓溺亡家属索赔91万",
+      "onboard_time": 1778890460,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 98496,
       "num": 141431,
       "word": "张真源出发长沙",
@@ -10161,6 +10185,14 @@
       "onboard_time": 1778344821,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 96813,
+      "num": 96813,
+      "word": "女子4岁烧伤用化妆重拾自信",
+      "onboard_time": 1778889619,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 96013,
@@ -10203,6 +10235,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 93491,
+      "num": 93491,
+      "word": "阿斯顿维拉4比2利物浦",
+      "onboard_time": 1778888359,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 92603,
       "num": 267789,
       "word": "特朗普敲打鲁比奥等强硬派别捣乱",
@@ -10227,14 +10267,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 90918,
-      "num": 90918,
-      "word": "曝小酒窝周扬青去胡彦斌音乐学校上课",
-      "onboard_time": 1778852001,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 90864,
       "num": 289014,
       "word": "张小斐新角色眼里全是野心",
@@ -10256,14 +10288,6 @@
       "word": "爱德华兹爆砍36分",
       "onboard_time": 1778472081,
       "rank": 36,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 90170,
-      "num": 90170,
-      "word": "阿斯顿维拉4比2利物浦",
-      "onboard_time": 1778888359,
-      "rank": 42,
       "category": "体育"
     },
     {
@@ -10515,6 +10539,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 79500,
+      "num": 138204,
+      "word": "郑州大学发布情况通报",
+      "onboard_time": 1778890219,
+      "rank": 18,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 79442,
       "num": 109514,
       "word": "国乒男团收视全网断层第一",
@@ -10665,14 +10697,6 @@
       "onboard_time": 1778346019,
       "rank": 42,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 71822,
-      "num": 71822,
-      "word": "女子4岁烧伤用化妆重拾自信",
-      "onboard_time": 1778889619,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 71429,
@@ -12648,6 +12672,14 @@
       "word": "9图逃生避险清单请收好",
       "onboard_time": 1778591959,
       "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 10896,
+      "num": 121331,
+      "word": "规范短视频标注守护清朗空间",
+      "onboard_time": 1778890340,
+      "rank": 40,
       "category": "民生新闻"
     },
     {

@@ -1,9 +1,9 @@
 {
   "startTime": 1778867315023,
-  "endTime": 1778889913399,
+  "endTime": 1778890594403,
   "band_list": [
     {
-      "raw_hot": 2293218,
+      "raw_hot": 2503474,
       "num": 250600,
       "word": "金价跌麻了",
       "onboard_time": 1778887577,
@@ -11,7 +11,7 @@
       "category": "财经"
     },
     {
-      "raw_hot": 800545,
+      "raw_hot": 854182,
       "num": 244913,
       "word": "流量撑不起演员的底气",
       "onboard_time": 1778862080,
@@ -19,7 +19,23 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 619666,
+      "raw_hot": 772080,
+      "num": 239140,
+      "word": "白鹿卢昱晓 短视频营业",
+      "onboard_time": 1778888478,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 694662,
+      "num": 244351,
+      "word": "新娘回应婚礼没敬酒宾客已散场",
+      "onboard_time": 1778858001,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 644590,
       "num": 1099146,
       "word": "跑男真夫妻就是甜",
       "onboard_time": 1778886738,
@@ -35,24 +51,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 484669,
-      "num": 244351,
-      "word": "新娘回应婚礼没敬酒宾客已散场",
-      "onboard_time": 1778858001,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 440493,
-      "num": 239140,
-      "word": "白鹿卢昱晓 短视频营业",
-      "onboard_time": 1778888478,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 428360,
-      "num": 428360,
+      "raw_hot": 459397,
+      "num": 459397,
       "word": "原来是过敏啊还以为脂肪在燃烧",
       "onboard_time": 1778847202,
       "rank": 5,
@@ -67,6 +67,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 404659,
+      "num": 404659,
+      "word": "金鹰奖提名预测名单",
+      "onboard_time": 1778887817,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 398642,
+      "num": 384040,
+      "word": "我记得教师以前是份体面工作啊",
+      "onboard_time": 1778852723,
+      "rank": 15,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 395394,
       "num": 395394,
       "word": "特朗普说能待得惯可能都不想走了",
@@ -75,16 +91,16 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 384040,
-      "num": 384040,
-      "word": "我记得教师以前是份体面工作啊",
-      "onboard_time": 1778852723,
-      "rank": 15,
-      "category": "幽默"
+      "raw_hot": 388959,
+      "num": 136860,
+      "word": "女同学因被偷拍长期遭霸凌致抑郁",
+      "onboard_time": 1778888838,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
-      "raw_hot": 370017,
-      "num": 799231,
+      "raw_hot": 372009,
+      "num": 1059521,
       "word": "中美元首会晤情况和共识",
       "onboard_time": 1778854762,
       "rank": 6,
@@ -107,6 +123,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 349086,
+      "num": 349086,
+      "word": "何宣林要求退出师姐帮唱",
+      "onboard_time": 1778888478,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 341868,
+      "num": 341868,
+      "word": "U17国足3比1逆转胜沙特队",
+      "onboard_time": 1778889139,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 317955,
       "num": 567858,
       "word": "给阿嬷的情书",
@@ -115,12 +147,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 314468,
-      "num": 314468,
-      "word": "金鹰奖提名预测名单",
-      "onboard_time": 1778887817,
-      "rank": 5,
-      "category": "剧集"
+      "raw_hot": 315515,
+      "num": 153918,
+      "word": "原来表达能力是这么练出来的",
+      "onboard_time": 1778852424,
+      "rank": 21,
+      "category": "教育"
     },
     {
       "raw_hot": 311094,
@@ -131,39 +163,15 @@
       "category": "电影"
     },
     {
-      "raw_hot": 297261,
-      "num": 153918,
-      "word": "原来表达能力是这么练出来的",
-      "onboard_time": 1778852424,
-      "rank": 21,
-      "category": "教育"
-    },
-    {
-      "raw_hot": 275152,
-      "num": 130688,
-      "word": "女同学因被偷拍长期遭霸凌致抑郁",
+      "raw_hot": 302249,
+      "num": 195010,
+      "word": "支付宝回应深夜扣款184万",
       "onboard_time": 1778888838,
-      "rank": 23,
+      "rank": 18,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 273362,
-      "num": 273362,
-      "word": "何宣林要求退出师姐帮唱",
-      "onboard_time": 1778888478,
-      "rank": 6,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 257705,
-      "num": 257705,
-      "word": "U17国足3比1逆转胜沙特队",
-      "onboard_time": 1778889139,
-      "rank": 7,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 251952,
+      "raw_hot": 282028,
       "num": 150767,
       "word": "女子从174斤减到95斤判若两人",
       "onboard_time": 1778858362,
@@ -171,12 +179,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 247983,
-      "num": 247983,
+      "raw_hot": 280435,
+      "num": 144286,
+      "word": "丁程鑫泰国",
+      "onboard_time": 1778889379,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 261952,
+      "num": 261952,
       "word": "Deepseek不语 只是一味跟团",
       "onboard_time": 1778864418,
       "rank": 25,
       "category": "幽默,互联网"
+    },
+    {
+      "raw_hot": 243672,
+      "num": 207836,
+      "word": "毛巾少爷曾说父亲爷爷不愿其接班",
+      "onboard_time": 1778853742,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 243438,
@@ -195,8 +219,16 @@
       "category": "数码"
     },
     {
-      "raw_hot": 237619,
-      "num": 130381,
+      "raw_hot": 241287,
+      "num": 209140,
+      "word": "王濛打孙怡被萧蔷一把拉走",
+      "onboard_time": 1778888898,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 239269,
+      "num": 133242,
       "word": "曝蒋毅离婚",
       "onboard_time": 1778850382,
       "rank": 27,
@@ -227,20 +259,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 209140,
-      "num": 209140,
-      "word": "王濛打孙怡被萧蔷一把拉走",
-      "onboard_time": 1778888898,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 207836,
-      "num": 207836,
-      "word": "毛巾少爷曾说父亲爷爷不愿其接班",
-      "onboard_time": 1778853742,
-      "rank": 18,
-      "category": "民生新闻"
+      "raw_hot": 221551,
+      "num": 132126,
+      "word": "蒋毅赵樱子贴身热舞",
+      "onboard_time": 1778888958,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 207426,
@@ -259,23 +283,7 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 195010,
-      "num": 195010,
-      "word": "支付宝回应深夜扣款184万",
-      "onboard_time": 1778888838,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 181289,
-      "num": 129877,
-      "word": "丁程鑫泰国",
-      "onboard_time": 1778889379,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 178105,
+      "raw_hot": 182296,
       "num": 252367,
       "word": "巨力索具被证监会立案",
       "onboard_time": 1778855002,
@@ -283,12 +291,12 @@
       "category": "财经,民生新闻"
     },
     {
-      "raw_hot": 174981,
-      "num": 129534,
-      "word": "蒋毅赵樱子贴身热舞",
-      "onboard_time": 1778888958,
-      "rank": 30,
-      "category": "艺人"
+      "raw_hot": 177828,
+      "num": 131350,
+      "word": "窦靖童歌手首位官宣",
+      "onboard_time": 1778888478,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 170876,
@@ -297,14 +305,6 @@
       "onboard_time": 1778861899,
       "rank": 19,
       "category": "演出,体育"
-    },
-    {
-      "raw_hot": 169970,
-      "num": 129393,
-      "word": "窦靖童歌手首位官宣",
-      "onboard_time": 1778888478,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 164458,
@@ -331,6 +331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 148179,
+      "num": 128409,
+      "word": "刘浩存好长好直的腿",
+      "onboard_time": 1778856024,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 147418,
       "num": 147418,
       "word": "当小朋友说要通宵看电视",
@@ -355,20 +363,36 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 116721,
+      "num": 116721,
+      "word": "曝小酒窝周扬青去胡彦斌音乐学校上课",
+      "onboard_time": 1778852001,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 113818,
+      "num": 113818,
+      "word": "瓜农刺死城管案二审维持原判",
+      "onboard_time": 1778890399,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 107782,
+      "num": 107782,
+      "word": "女生误解医生把饭吃干净点一周胖5斤",
+      "onboard_time": 1778849601,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 105146,
       "num": 105146,
       "word": "曝歌手2026首场9进7",
       "onboard_time": 1778848941,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 102064,
-      "num": 102064,
-      "word": "刘浩存好长好直的腿",
-      "onboard_time": 1778856024,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 100585,
@@ -387,36 +411,44 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 91548,
-      "num": 211894,
-      "word": "中国化妆师的工作视频在外网火了",
-      "onboard_time": 1778845161,
-      "rank": 49,
-      "category": "美妆"
+      "raw_hot": 98770,
+      "num": 98770,
+      "word": "男子独自夜钓溺亡家属索赔91万",
+      "onboard_time": 1778890460,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
-      "raw_hot": 90918,
-      "num": 90918,
-      "word": "曝小酒窝周扬青去胡彦斌音乐学校上课",
-      "onboard_time": 1778852001,
-      "rank": 35,
-      "category": "艺人"
+      "raw_hot": 96813,
+      "num": 96813,
+      "word": "女子4岁烧伤用化妆重拾自信",
+      "onboard_time": 1778889619,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
-      "raw_hot": 90170,
-      "num": 90170,
+      "raw_hot": 94052,
+      "num": 207234,
+      "word": "央视已获世界杯转播权",
+      "onboard_time": 1778838680,
+      "rank": 47,
+      "category": "体育,民生新闻"
+    },
+    {
+      "raw_hot": 93491,
+      "num": 93491,
       "word": "阿斯顿维拉4比2利物浦",
       "onboard_time": 1778888359,
       "rank": 42,
       "category": "体育"
     },
     {
-      "raw_hot": 90039,
-      "num": 90039,
-      "word": "女生误解医生把饭吃干净点一周胖5斤",
-      "onboard_time": 1778849601,
-      "rank": 43,
-      "category": "民生新闻"
+      "raw_hot": 91548,
+      "num": 211894,
+      "word": "中国化妆师的工作视频在外网火了",
+      "onboard_time": 1778845161,
+      "rank": 49,
+      "category": "美妆"
     },
     {
       "raw_hot": 89601,
@@ -433,14 +465,6 @@
       "onboard_time": 1778851462,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 85045,
-      "num": 207234,
-      "word": "央视已获世界杯转播权",
-      "onboard_time": 1778838680,
-      "rank": 47,
-      "category": "体育,民生新闻"
     },
     {
       "raw_hot": 83954,
@@ -467,6 +491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 79500,
+      "num": 138204,
+      "word": "郑州大学发布情况通报",
+      "onboard_time": 1778890219,
+      "rank": 18,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 78560,
       "num": 88600,
       "word": "孙颖莎王楚钦登上杂志封面",
@@ -489,14 +521,6 @@
       "onboard_time": 1778849301,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 71822,
-      "num": 71822,
-      "word": "女子4岁烧伤用化妆重拾自信",
-      "onboard_time": 1778889619,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 70047,
@@ -673,6 +697,14 @@
       "onboard_time": 1778886016,
       "rank": 47,
       "category": "财经"
+    },
+    {
+      "raw_hot": 10896,
+      "num": 121331,
+      "word": "规范短视频标注守护清朗空间",
+      "onboard_time": 1778890340,
+      "rank": 40,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
