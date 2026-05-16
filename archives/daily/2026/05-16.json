@@ -1,6 +1,6 @@
 {
   "startTime": 1778867315023,
-  "endTime": 1778928397687,
+  "endTime": 1778929761072,
   "band_list": [
     {
       "raw_hot": 3462118,
@@ -161,6 +161,14 @@
       "onboard_time": 1778903600,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 792447,
+      "num": 1126791,
+      "word": "山西一研学车辆侧翻已致2人死亡",
+      "onboard_time": 1778927479,
+      "rank": 7,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 769512,
@@ -355,7 +363,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 485844,
+      "raw_hot": 493613,
       "num": 385609,
       "word": "张凌赫Mai晚宴合照",
       "onboard_time": 1778921480,
@@ -411,6 +419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 448680,
+      "num": 839765,
+      "word": "樊振东出战欧冠半决赛",
+      "onboard_time": 1778926340,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 445377,
       "num": 445377,
       "word": "奔跑吧孟子义摸杆这段收视最高",
@@ -425,14 +441,6 @@
       "onboard_time": 1778901020,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 430189,
-      "num": 430189,
-      "word": "山西一研学车辆侧翻已致2人死亡",
-      "onboard_time": 1778927479,
-      "rank": 7,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 426031,
@@ -595,6 +603,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 330831,
+      "num": 330831,
+      "word": "姜乘澜给化妆新手的8条建议",
+      "onboard_time": 1778925020,
+      "rank": 26,
+      "category": "网红,美妆"
+    },
+    {
+      "raw_hot": 324553,
+      "num": 425635,
+      "word": "女孩盲道被撞摆拍细节露馅",
+      "onboard_time": 1778927959,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 317955,
       "num": 567858,
       "word": "给阿嬷的情书",
@@ -617,6 +641,14 @@
       "onboard_time": 1778902099,
       "rank": 30,
       "category": "电影"
+    },
+    {
+      "raw_hot": 312509,
+      "num": 312509,
+      "word": "姑姑养大侄女却扣下16万彩礼拒返还",
+      "onboard_time": 1778925740,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 311094,
@@ -691,14 +723,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 284743,
-      "num": 284743,
-      "word": "姜乘澜给化妆新手的8条建议",
-      "onboard_time": 1778925020,
-      "rank": 26,
-      "category": "网红,美妆"
-    },
-    {
       "raw_hot": 282499,
       "num": 282499,
       "word": "奔跑吧",
@@ -723,28 +747,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 268842,
-      "num": 268842,
-      "word": "樊振东出战欧冠半决赛",
-      "onboard_time": 1778926340,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 261952,
       "num": 261952,
       "word": "Deepseek不语 只是一味跟团",
       "onboard_time": 1778864418,
       "rank": 25,
       "category": "幽默,互联网"
-    },
-    {
-      "raw_hot": 260735,
-      "num": 260735,
-      "word": "姑姑养大侄女却扣下16万彩礼拒返还",
-      "onboard_time": 1778925740,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 257773,
@@ -819,6 +827,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 236662,
+      "num": 236662,
+      "word": "田曦薇抽抽乐",
+      "onboard_time": 1778928081,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 236364,
       "num": 236364,
       "word": "恩新cp",
@@ -843,12 +859,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 232826,
+      "num": 232826,
+      "word": "APINK全员到场尹普美婚礼",
+      "onboard_time": 1778927901,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 232594,
       "num": 232594,
       "word": "李庚希戛纳映后哭了",
       "onboard_time": 1778896519,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 225374,
+      "num": 222052,
+      "word": "歌手2026的首期歌单",
+      "onboard_time": 1778924300,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 224763,
@@ -899,6 +931,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 210160,
+      "num": 210160,
+      "word": "全山东最重视山姆超市之人",
+      "onboard_time": 1778926158,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 209052,
+      "num": 209052,
+      "word": "虞书欣种地吧路透",
+      "onboard_time": 1778928260,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 207828,
       "num": 207828,
       "word": "马刺4比2淘汰森林狼",
@@ -913,14 +961,6 @@
       "onboard_time": 1778840901,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 206645,
-      "num": 206645,
-      "word": "歌手2026的首期歌单",
-      "onboard_time": 1778924300,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 201906,
@@ -947,14 +987,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 198926,
-      "num": 198926,
-      "word": "全山东最重视山姆超市之人",
-      "onboard_time": 1778926158,
-      "rank": 36,
-      "category": "情感"
-    },
-    {
       "raw_hot": 197173,
       "num": 197173,
       "word": "樊振东莫雷加德一起训练",
@@ -971,14 +1003,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 194294,
-      "num": 194294,
-      "word": "虞书欣种地吧路透",
-      "onboard_time": 1778928260,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 192814,
       "num": 178782,
       "word": "特朗普说中国之行非常精彩",
@@ -987,12 +1011,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 185459,
-      "num": 184063,
-      "word": "APINK全员到场尹普美婚礼",
-      "onboard_time": 1778927901,
-      "rank": 40,
-      "category": "艺人"
+      "raw_hot": 192060,
+      "num": 192060,
+      "word": "GEN对战T1",
+      "onboard_time": 1778922981,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 188596,
+      "num": 188596,
+      "word": "专家建议金价大跌多买小跌少买",
+      "onboard_time": 1778928020,
+      "rank": 41,
+      "category": "财经"
     },
     {
       "raw_hot": 182296,
@@ -1016,6 +1048,14 @@
       "word": "邯郸奔跑吧路透",
       "onboard_time": 1778904800,
       "rank": 39,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 177862,
+      "num": 177862,
+      "word": "桃花坞6发布会直播",
+      "onboard_time": 1778929580,
+      "rank": 42,
       "category": "综艺"
     },
     {
@@ -1051,6 +1091,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 171984,
+      "num": 171984,
+      "word": "男子结婚8年发现3个女儿都非亲生",
+      "onboard_time": 1778925920,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 170876,
       "num": 170876,
       "word": "球迷帮孙颖莎在周杰伦演唱会点歌",
@@ -1065,22 +1113,6 @@
       "onboard_time": 1778853981,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 162663,
-      "num": 367731,
-      "word": "女孩盲道被撞摆拍细节露馅",
-      "onboard_time": 1778927959,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 162328,
-      "num": 157436,
-      "word": "田曦薇抽抽乐",
-      "onboard_time": 1778928081,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 161389,
@@ -1299,14 +1331,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 120912,
-      "num": 138733,
-      "word": "GEN对战T1",
-      "onboard_time": 1778922981,
-      "rank": 47,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 120212,
       "num": 284745,
       "word": "卢伟冰爆料小米17Max",
@@ -1353,6 +1377,14 @@
       "onboard_time": 1778849601,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 107444,
+      "num": 330845,
+      "word": "乒乓球欧冠联赛",
+      "onboard_time": 1778929281,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 105146,
@@ -1771,6 +1803,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 17361,
+      "num": 279993,
+      "word": "铝型材厂因暴雨被淹称损失50万",
+      "onboard_time": 1778928320,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 17235,
       "num": 353260,
       "word": "日本企图趁乱合法调兵",
@@ -1787,12 +1827,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 12966,
-      "num": 279993,
-      "word": "铝型材厂因暴雨被淹称损失50万",
-      "onboard_time": 1778928320,
-      "rank": 29,
-      "category": "民生新闻"
+      "raw_hot": 11831,
+      "num": 269970,
+      "word": "安顺一县城突发13级大风破历史极值",
+      "onboard_time": 1778929520,
+      "rank": 27,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 11356,
@@ -1817,6 +1857,14 @@
       "onboard_time": 1778904080,
       "rank": 38,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 2574,
+      "num": 330969,
+      "word": "张雪机车回应捷克站成绩",
+      "onboard_time": 1778929281,
+      "rank": 18,
+      "category": "体育"
     }
   ],
   "hotgov_list": [
