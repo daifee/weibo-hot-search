@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/05/17 01:07:08 ~ 2026/05/17 02:33:52
+本榜单时间：2026/05/17 01:07:08 ~ 2026/05/17 03:16:13
 </p>
 </blockquote>
 <p>
@@ -219,6 +219,12 @@ JDG对战AG（热度：165535）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E8%AF%BA%E5%88%B7%E6%96%B0KPL%E9%80%89%E6%89%8B%E5%86%B3%E8%B5%9B%E8%AE%B0%E5%BD%95%23" target="weibo">
+一诺刷新KPL选手决赛记录（热度：103518）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB3%E9%83%A8%E4%BD%9C%E5%93%81%E5%85%A5%E5%9B%B4%E9%87%91%E9%B9%B0%E5%A5%96%23" target="weibo">
 杨紫3部作品入围金鹰奖（热度：99201）
 </a>
@@ -269,12 +275,6 @@ taeyoon赛后扔掉ns队服（热度：98850）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23AG%E7%AC%AC%E5%8D%81%E5%85%AD%E6%AC%A1%E6%99%8B%E7%BA%A7%E5%86%B3%E8%B5%9B%23" target="weibo">
 AG第十六次晋级决赛（热度：85823）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E8%AF%BA%E5%88%B7%E6%96%B0KPL%E9%80%89%E6%89%8B%E5%86%B3%E8%B5%9B%E8%AE%B0%E5%BD%95%23" target="weibo">
-一诺刷新KPL选手决赛记录（热度：85036）
 </a>
 </li>
 
@@ -359,6 +359,12 @@ AG第十六次晋级决赛（热度：85823）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B6%B3%E6%80%BB%E6%9D%AF%E5%86%B3%E8%B5%9B%23" target="weibo">
 足总杯决赛（热度：36874）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23AG%E6%88%98%E8%83%9CJDG%23" target="weibo">
+AG战胜JDG（热度：33303）
 </a>
 </li>
 

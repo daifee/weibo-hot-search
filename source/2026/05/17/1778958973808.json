@@ -1,0 +1,410 @@
+{
+  "runTime": 1778958973808,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 902289,
+        "num": 902289,
+        "word": "特朗普警告台独",
+        "onboard_time": 1778940321,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 175536,
+        "num": 234763,
+        "word": "给阿嬷的情书",
+        "onboard_time": 1778946561,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 24793,
+        "num": 183409,
+        "word": "中国式支付圈粉全球",
+        "onboard_time": 1778934861,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 407252,
+        "num": 174389,
+        "word": "万千惠点名徐梦洁",
+        "onboard_time": 1778943082,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134460,
+        "num": 134460,
+        "word": "遇到和已逝亲人很像的人是啥感觉",
+        "onboard_time": 1778942182,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 107978,
+        "num": 107978,
+        "word": "朱孝天上节目内涵阿信",
+        "onboard_time": 1778943322,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 103518,
+        "num": 103518,
+        "word": "一诺刷新KPL选手决赛记录",
+        "onboard_time": 1778955016,
+        "rank": 6,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 85771,
+        "num": 85771,
+        "word": "一个很好的解压方法",
+        "onboard_time": 1778950818,
+        "rank": 7,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 82112,
+        "num": 82112,
+        "word": "女孩盲道被撞摆拍细节露馅",
+        "onboard_time": 1778927959,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80846,
+        "num": 80846,
+        "word": "给阿嬷的情书最终票房或近20亿",
+        "onboard_time": 1778936960,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 233299,
+        "num": 80619,
+        "word": "摆拍盲道被撞女生系百万粉丝网红",
+        "onboard_time": 1778950818,
+        "rank": 10,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 154181,
+        "num": 79985,
+        "word": "日本担心中美关系稳定自己被晾在一边",
+        "onboard_time": 1778944460,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 104100,
+        "num": 79817,
+        "word": "暴雨大暴雨范围扩大",
+        "onboard_time": 1778948480,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98742,
+        "num": 79308,
+        "word": "吴镇宇用嘴喂郝蕾吃药",
+        "onboard_time": 1778931740,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 91910,
+        "num": 78709,
+        "word": "吴艳妮100米栏13秒16",
+        "onboard_time": 1778949080,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 82562,
+        "num": 78367,
+        "word": "女子试管7年得子丈夫肺癌脑转移",
+        "onboard_time": 1778940561,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77955,
+        "num": 77955,
+        "word": "郑州一火锅店露天洗菜做饭如调色盘",
+        "onboard_time": 1778937560,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 76501,
+        "num": 76501,
+        "word": "戛纳电影节中国之夜",
+        "onboard_time": 1778951417,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 67235,
+        "num": 67235,
+        "word": "清华女博士丈夫雇人抢走2岁半儿子",
+        "onboard_time": 1778939541,
+        "rank": 18,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 65639,
+        "num": 65639,
+        "word": "张雪机车捷克站夺冠",
+        "onboard_time": 1778929940,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 165332,
+        "num": 63699,
+        "word": "红霉素软膏绝不能随便用",
+        "onboard_time": 1778938281,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 61591,
+        "num": 61591,
+        "word": "白鹿经典露齿笑",
+        "onboard_time": 1778939482,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 59871,
+        "num": 59871,
+        "word": "单依纯大连演唱会上座率",
+        "onboard_time": 1778948241,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 52430,
+        "num": 52430,
+        "word": "减掉内脏脂肪才是减肥关键",
+        "onboard_time": 1778929821,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 50446,
+        "num": 50446,
+        "word": "切尔西0比1曼城",
+        "onboard_time": 1778954537,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 47630,
+        "num": 47630,
+        "word": "主角",
+        "onboard_time": 1778933001,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 45987,
+        "num": 45987,
+        "word": "网传三大运营商即将免月租是真的吗",
+        "onboard_time": 1778933781,
+        "rank": 26,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 45713,
+        "num": 45713,
+        "word": "田曦薇出发云南录忙忙碌碌寻宝藏2",
+        "onboard_time": 1778949860,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 45623,
+        "num": 45623,
+        "word": "邓超陈赫五哈哭了",
+        "onboard_time": 1778950818,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 45467,
+        "num": 45467,
+        "word": "樊振东单手接球观众直呼好帅",
+        "onboard_time": 1778954537,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 45247,
+        "num": 45247,
+        "word": "司美格鲁肽将限购",
+        "onboard_time": 1778953636,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 43825,
+        "num": 43825,
+        "word": "留学生跨国迷奸案",
+        "onboard_time": 1778935402,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 42585,
+        "num": 42585,
+        "word": "杨紫3部作品入围金鹰奖",
+        "onboard_time": 1778951237,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 42325,
+        "num": 42325,
+        "word": "马尔代夫水下60米到底发生了什么",
+        "onboard_time": 1778950818,
+        "rank": 33,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 40492,
+        "num": 42325,
+        "word": "韩红基金会去年收入7.8亿支出2.9亿",
+        "onboard_time": 1778925620,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37520,
+        "num": 42325,
+        "word": "全山东最重视山姆超市之人",
+        "onboard_time": 1778926158,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 36445,
+        "num": 42324,
+        "word": "宿管拦住了妈妈但没拦住爱",
+        "onboard_time": 1778950818,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 35197,
+        "num": 42324,
+        "word": "足总杯决赛",
+        "onboard_time": 1778954537,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 35024,
+        "num": 42322,
+        "word": "中南大学帅哥自曝理想型",
+        "onboard_time": 1778945962,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33808,
+        "num": 42322,
+        "word": "算力版国家电网要来了",
+        "onboard_time": 1778945661,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33612,
+        "num": 42322,
+        "word": "方媛缺席桃花坞发布会",
+        "onboard_time": 1778932940,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 33409,
+        "num": 42321,
+        "word": "樊振东晋级欧冠决赛",
+        "onboard_time": 1778936719,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 33303,
+        "num": 42321,
+        "word": "AG战胜JDG",
+        "onboard_time": 1778958194,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 30629,
+        "num": 42320,
+        "word": "JDG对战AG",
+        "onboard_time": 1778942362,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 28146,
+        "num": 42320,
+        "word": "陈立农澳门演唱会嘉宾",
+        "onboard_time": 1778938222,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 27235,
+        "num": 42319,
+        "word": "张雪机车身后4台雅马哈",
+        "onboard_time": 1778937981,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 27072,
+        "num": 42319,
+        "word": "黑娃下线",
+        "onboard_time": 1778941402,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 26696,
+        "num": 42317,
+        "word": "taeyoon赛后扔掉ns队服",
+        "onboard_time": 1778942783,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 26041,
+        "num": 42317,
+        "word": "专家建议金价大跌多买小跌少买",
+        "onboard_time": 1778928020,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 25390,
+        "num": 42316,
+        "word": "张雪喊话德比斯培养一个中国车手",
+        "onboard_time": 1778939421,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中美元首会晤速览#"
+    }
+  }
+}
