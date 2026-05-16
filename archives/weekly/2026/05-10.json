@@ -1,6 +1,6 @@
 {
   "startTime": 1778342585344,
-  "endTime": 1778943906581,
+  "endTime": 1778945761868,
   "band_list": [
     {
       "raw_hot": 20021872,
@@ -179,6 +179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 3756918,
+      "num": 3756918,
+      "word": "特朗普警告台独",
+      "onboard_time": 1778940321,
+      "rank": 12,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 3683874,
       "num": 3683874,
       "word": "特朗普访华",
@@ -201,14 +209,6 @@
       "onboard_time": 1778392639,
       "rank": 0,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 3482561,
-      "num": 3482561,
-      "word": "特朗普警告台独",
-      "onboard_time": 1778940321,
-      "rank": 12,
-      "category": "国内时政"
     },
     {
       "raw_hot": 3462118,
@@ -1091,6 +1091,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 1360818,
+      "num": 826153,
+      "word": "万千惠点名徐梦洁",
+      "onboard_time": 1778943082,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1348302,
       "num": 667945,
       "word": "央视一次拿下4届世界杯转播权",
@@ -1443,6 +1451,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 1076125,
+      "num": 358474,
+      "word": "红霉素软膏绝不能随便用",
+      "onboard_time": 1778938281,
+      "rank": 23,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 1073794,
       "num": 1327692,
       "word": "中美领导人小范围会晤",
@@ -1457,14 +1473,6 @@
       "onboard_time": 1778410821,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1072825,
-      "num": 358474,
-      "word": "红霉素软膏绝不能随便用",
-      "onboard_time": 1778938281,
-      "rank": 23,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 1071162,
@@ -2731,6 +2739,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 666057,
+      "num": 343775,
+      "word": "清华女博士丈夫雇人抢走2岁半儿子",
+      "onboard_time": 1778939541,
+      "rank": 29,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 665912,
       "num": 665912,
       "word": "iPhone一年一换比三年一换更省钱",
@@ -3115,6 +3131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 598473,
+      "num": 341456,
+      "word": "郑州一火锅店露天洗菜做饭如调色盘",
+      "onboard_time": 1778937560,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 596942,
       "num": 596942,
       "word": "法国队公布世界杯26人大名单",
@@ -3395,6 +3419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 556887,
+      "num": 300776,
+      "word": "给阿嬷的情书女主有站姐了",
+      "onboard_time": 1778942542,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 555456,
       "num": 398650,
       "word": "特朗普回国后谈中国行",
@@ -3489,14 +3521,6 @@
       "onboard_time": 1778366536,
       "rank": 3,
       "category": "体育"
-    },
-    {
-      "raw_hot": 538754,
-      "num": 343775,
-      "word": "清华女博士丈夫雇人抢走2岁半儿子",
-      "onboard_time": 1778939541,
-      "rank": 29,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 538598,
@@ -3867,6 +3891,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 499334,
+      "num": 499334,
+      "word": "JDG对战AG",
+      "onboard_time": 1778942362,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 498350,
       "num": 322674,
       "word": "章若楠走路姿势",
@@ -4033,14 +4065,6 @@
       "onboard_time": 1778455518,
       "rank": 24,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 484961,
-      "num": 341456,
-      "word": "郑州一火锅店露天洗菜做饭如调色盘",
-      "onboard_time": 1778937560,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 484955,
@@ -5579,28 +5603,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 340977,
-      "num": 325615,
-      "word": "万千惠点名徐梦洁",
-      "onboard_time": 1778943082,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 340946,
       "num": 310567,
       "word": "特朗普金卡翻车",
       "onboard_time": 1778544680,
       "rank": 17,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 340937,
-      "num": 340937,
-      "word": "JDG对战AG",
-      "onboard_time": 1778942362,
-      "rank": 24,
-      "category": "电竞"
     },
     {
       "raw_hot": 340559,
@@ -6009,6 +6017,14 @@
       "onboard_time": 1778862139,
       "rank": 4,
       "category": "电影"
+    },
+    {
+      "raw_hot": 310976,
+      "num": 310976,
+      "word": "家业",
+      "onboard_time": 1778944582,
+      "rank": 9,
+      "category": "剧集"
     },
     {
       "raw_hot": 310791,
@@ -7235,14 +7251,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 241030,
-      "num": 241030,
-      "word": "给阿嬷的情书女主有站姐了",
-      "onboard_time": 1778942542,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 240200,
       "num": 282820,
       "word": "A股年内首只翻倍ETF诞生",
@@ -7257,6 +7265,14 @@
       "onboard_time": 1778935460,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 240008,
+      "num": 240008,
+      "word": "留学生跨国迷奸案",
+      "onboard_time": 1778935402,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 239854,
@@ -7673,14 +7689,6 @@
       "onboard_time": 1778754623,
       "rank": 32,
       "category": "财经"
-    },
-    {
-      "raw_hot": 222664,
-      "num": 222664,
-      "word": "留学生跨国迷奸案",
-      "onboard_time": 1778935402,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 222350,
@@ -8611,6 +8619,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 192031,
+      "num": 287634,
+      "word": "日本担心中美关系稳定自己被晾在一边",
+      "onboard_time": 1778944460,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 191968,
       "num": 191968,
       "word": "王俊凯无畏契约表演赛",
@@ -8657,6 +8673,14 @@
       "onboard_time": 1778429423,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 188885,
+      "num": 188885,
+      "word": "朱孝天上节目内涵阿信",
+      "onboard_time": 1778943322,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 188825,
@@ -9411,6 +9435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 171071,
+      "num": 171071,
+      "word": "taeyoon赛后扔掉ns队服",
+      "onboard_time": 1778942783,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 170920,
       "num": 170920,
       "word": "白玉兰新闻发布会",
@@ -9585,6 +9617,14 @@
       "onboard_time": 1778577681,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 165832,
+      "num": 161361,
+      "word": "黑娃下线",
+      "onboard_time": 1778941402,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 165764,
@@ -10763,6 +10803,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 129009,
+      "num": 183860,
+      "word": "阚清子何宣林跳troublemaker",
+      "onboard_time": 1778945001,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 129004,
       "num": 250150,
       "word": "深铁集团再借万科25亿",
@@ -11556,7 +11604,7 @@
     },
     {
       "raw_hot": 98545,
-      "num": 870211,
+      "num": 950825,
       "word": "中国式支付圈粉全球",
       "onboard_time": 1778934861,
       "rank": 2,
@@ -12571,6 +12619,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 56595,
+      "num": 249977,
+      "word": "周深回应演唱会哭",
+      "onboard_time": 1778945422,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 56518,
       "num": 162206,
       "word": "Kanavi说自己喜欢LPL",
@@ -12627,14 +12683,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 55869,
-      "num": 181519,
-      "word": "朱孝天上节目内涵阿信",
-      "onboard_time": 1778943322,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 55714,
       "num": 235814,
       "word": "境外间谍用美人计策反涉密人员",
@@ -12681,6 +12729,14 @@
       "onboard_time": 1778427681,
       "rank": 39,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 54203,
+      "num": 229960,
+      "word": "科技公司里竟全是中老年人",
+      "onboard_time": 1778944460,
+      "rank": 31,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 54149,
@@ -13016,6 +13072,14 @@
       "word": "汶川地震18周年纪念海报",
       "onboard_time": 1778521096,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 43305,
+      "num": 140608,
+      "word": "算力版国家电网要来了",
+      "onboard_time": 1778945661,
+      "rank": 49,
       "category": "民生新闻"
     },
     {

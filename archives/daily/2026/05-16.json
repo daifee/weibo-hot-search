@@ -1,10 +1,10 @@
 {
   "startTime": 1778867315023,
-  "endTime": 1778943906581,
+  "endTime": 1778945761868,
   "band_list": [
     {
-      "raw_hot": 3482561,
-      "num": 3482561,
+      "raw_hot": 3756918,
+      "num": 3756918,
       "word": "特朗普警告台独",
       "onboard_time": 1778940321,
       "rank": 12,
@@ -99,6 +99,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1360818,
+      "num": 826153,
+      "word": "万千惠点名徐梦洁",
+      "onboard_time": 1778943082,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1344469,
       "num": 524612,
       "word": "宋浩然整成李佳琦了",
@@ -147,7 +155,7 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1072825,
+      "raw_hot": 1076125,
       "num": 358474,
       "word": "红霉素软膏绝不能随便用",
       "onboard_time": 1778938281,
@@ -307,6 +315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 666057,
+      "num": 343775,
+      "word": "清华女博士丈夫雇人抢走2岁半儿子",
+      "onboard_time": 1778939541,
+      "rank": 29,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 659544,
       "num": 659544,
       "word": "王楚钦发博总结世乒赛",
@@ -403,6 +419,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 598473,
+      "num": 341456,
+      "word": "郑州一火锅店露天洗菜做饭如调色盘",
+      "onboard_time": 1778937560,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 592048,
       "num": 592048,
       "word": "建议喜欢熬夜的反复观看",
@@ -451,6 +475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 556887,
+      "num": 300776,
+      "word": "给阿嬷的情书女主有站姐了",
+      "onboard_time": 1778942542,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 555456,
       "num": 398650,
       "word": "特朗普回国后谈中国行",
@@ -491,14 +523,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 538754,
-      "num": 343775,
-      "word": "清华女博士丈夫雇人抢走2岁半儿子",
-      "onboard_time": 1778939541,
-      "rank": 29,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 538598,
       "num": 538598,
       "word": "小鹿 九尾",
@@ -523,6 +547,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 499334,
+      "num": 499334,
+      "word": "JDG对战AG",
+      "onboard_time": 1778942362,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 493613,
       "num": 385609,
       "word": "张凌赫Mai晚宴合照",
@@ -537,14 +569,6 @@
       "onboard_time": 1778939482,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 484961,
-      "num": 341456,
-      "word": "郑州一火锅店露天洗菜做饭如调色盘",
-      "onboard_time": 1778937560,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 477145,
@@ -819,22 +843,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 340977,
-      "num": 325615,
-      "word": "万千惠点名徐梦洁",
-      "onboard_time": 1778943082,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 340937,
-      "num": 340937,
-      "word": "JDG对战AG",
-      "onboard_time": 1778942362,
-      "rank": 24,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 333030,
       "num": 333030,
       "word": "张凌赫 精英男本子",
@@ -897,6 +905,14 @@
       "onboard_time": 1778862139,
       "rank": 4,
       "category": "电影"
+    },
+    {
+      "raw_hot": 310976,
+      "num": 310976,
+      "word": "家业",
+      "onboard_time": 1778944582,
+      "rank": 9,
+      "category": "剧集"
     },
     {
       "raw_hot": 304815,
@@ -1099,20 +1115,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 241030,
-      "num": 241030,
-      "word": "给阿嬷的情书女主有站姐了",
-      "onboard_time": 1778942542,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 240037,
       "num": 240037,
       "word": "万千惠说我的人气太低了",
       "onboard_time": 1778935460,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 240008,
+      "num": 240008,
+      "word": "留学生跨国迷奸案",
+      "onboard_time": 1778935402,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 239269,
@@ -1208,14 +1224,6 @@
       "word": "22人集体断供银行数千万贷款追不回",
       "onboard_time": 1778923520,
       "rank": 33,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 222664,
-      "num": 222664,
-      "word": "留学生跨国迷奸案",
-      "onboard_time": 1778935402,
-      "rank": 35,
       "category": "民生新闻"
     },
     {
@@ -1363,12 +1371,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 192031,
+      "num": 287634,
+      "word": "日本担心中美关系稳定自己被晾在一边",
+      "onboard_time": 1778944460,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 189476,
       "num": 189476,
       "word": "专家建议金价大跌多买小跌少买",
       "onboard_time": 1778928020,
       "rank": 41,
       "category": "财经"
+    },
+    {
+      "raw_hot": 188885,
+      "num": 188885,
+      "word": "朱孝天上节目内涵阿信",
+      "onboard_time": 1778943322,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 188223,
@@ -1451,6 +1475,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 171071,
+      "num": 171071,
+      "word": "taeyoon赛后扔掉ns队服",
+      "onboard_time": 1778942783,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 170876,
       "num": 170876,
       "word": "球迷帮孙颖莎在周杰伦演唱会点歌",
@@ -1465,6 +1497,14 @@
       "onboard_time": 1778934680,
       "rank": 47,
       "category": "电影"
+    },
+    {
+      "raw_hot": 165832,
+      "num": 161361,
+      "word": "黑娃下线",
+      "onboard_time": 1778941402,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 164458,
@@ -1699,6 +1739,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 129009,
+      "num": 183860,
+      "word": "阚清子何宣林跳troublemaker",
+      "onboard_time": 1778945001,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 127586,
       "num": 127586,
       "word": "上一个被说像京圈佛子的是任嘉伦",
@@ -1852,7 +1900,7 @@
     },
     {
       "raw_hot": 98545,
-      "num": 870211,
+      "num": 950825,
       "word": "中国式支付圈粉全球",
       "onboard_time": 1778934861,
       "rank": 2,
@@ -2059,6 +2107,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 56595,
+      "num": 249977,
+      "word": "周深回应演唱会哭",
+      "onboard_time": 1778945422,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 56475,
       "num": 88630,
       "word": "业内谈6000万美元拿下世界杯版权",
@@ -2067,20 +2123,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 55869,
-      "num": 181519,
-      "word": "朱孝天上节目内涵阿信",
-      "onboard_time": 1778943322,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 54257,
       "num": 68311,
       "word": "温岚 败血症",
       "onboard_time": 1778837960,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 54203,
+      "num": 229960,
+      "word": "科技公司里竟全是中老年人",
+      "onboard_time": 1778944460,
+      "rank": 31,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 53730,
@@ -2144,6 +2200,14 @@
       "word": "无证女子独自开车800公里跨省回家",
       "onboard_time": 1778942661,
       "rank": 25,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 43305,
+      "num": 140608,
+      "word": "算力版国家电网要来了",
+      "onboard_time": 1778945661,
+      "rank": 49,
       "category": "民生新闻"
     },
     {
