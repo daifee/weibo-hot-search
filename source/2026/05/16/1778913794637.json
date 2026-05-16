@@ -1,0 +1,410 @@
+{
+  "runTime": 1778913794637,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3462118,
+        "num": 3462118,
+        "word": "歌手首发阵容",
+        "onboard_time": 1778908220,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1420049,
+        "num": 1420049,
+        "word": "多家酒店做不到床单一客一换",
+        "onboard_time": 1778907200,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 10100,
+        "num": 889448,
+        "word": "开局之年看中国",
+        "onboard_time": 1778897780,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 954271,
+        "num": 864263,
+        "word": "金鹰奖提名神仙打架",
+        "onboard_time": 1778904560,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 642873,
+        "num": 642873,
+        "word": "隔夜蒜薹",
+        "onboard_time": 1778908160,
+        "rank": 4,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 627185,
+        "num": 627185,
+        "word": "盲人女孩盲道被撞系自导自演",
+        "onboard_time": 1778904320,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 569280,
+        "num": 569280,
+        "word": "中南大学帅出圈男生已保研同济大学",
+        "onboard_time": 1778901499,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 424481,
+        "num": 424481,
+        "word": "何洁被叶一茜唱哭了",
+        "onboard_time": 1778912540,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 357993,
+        "num": 357993,
+        "word": "人民日报评摆拍盲道被撞事件",
+        "onboard_time": 1778908401,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 311403,
+        "num": 311403,
+        "word": "算力网要来了",
+        "onboard_time": 1778903719,
+        "rank": 9,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1788539,
+        "num": 304768,
+        "word": "特朗普抵达美国现场画面",
+        "onboard_time": 1778902399,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1231505,
+        "num": 299393,
+        "word": "房东发现女租客怀孕不让在家坐月子",
+        "onboard_time": 1778906481,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 423963,
+        "num": 292240,
+        "word": "奔跑吧孟子义摸杆这段收视最高",
+        "onboard_time": 1778904379,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 849718,
+        "num": 283849,
+        "word": "宋浩然整成李佳琦了",
+        "onboard_time": 1778907140,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 624516,
+        "num": 283680,
+        "word": "女子穿着带有巨大吊牌旗袍街头拍照",
+        "onboard_time": 1778910920,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 711259,
+        "num": 276632,
+        "word": "王一博个人捐款200万",
+        "onboard_time": 1778907621,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 473565,
+        "num": 267976,
+        "word": "台密室逃脱员工扮吊死鬼身亡",
+        "onboard_time": 1778903899,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 263149,
+        "num": 263149,
+        "word": "牛冠凯宣布结婚",
+        "onboard_time": 1778901439,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115892,
+        "num": 262490,
+        "word": "上海电信推出1元25万Token套餐",
+        "onboard_time": 1778904498,
+        "rank": 18,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 42947,
+        "num": 261762,
+        "word": "国民男团代言国民品牌",
+        "onboard_time": 1778911519,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 687424,
+        "num": 260602,
+        "word": "金价跌麻了",
+        "onboard_time": 1778887577,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 386387,
+        "num": 260008,
+        "word": "张碧晨的同学被男明星讨论",
+        "onboard_time": 1778903659,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 372190,
+        "num": 258933,
+        "word": "薛之谦也被盲道摆拍骗了",
+        "onboard_time": 1778901020,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 320736,
+        "num": 258416,
+        "word": "爷爷支持打消毛巾少爷顾虑",
+        "onboard_time": 1778902819,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 369474,
+        "num": 257170,
+        "word": "热依扎疑似回应二胎",
+        "onboard_time": 1778904080,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 365098,
+        "num": 255991,
+        "word": "乘风2026主题曲",
+        "onboard_time": 1778908999,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 255673,
+        "num": 255673,
+        "word": "原来不内耗的人是这样想的",
+        "onboard_time": 1778910559,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 308382,
+        "num": 247633,
+        "word": "给阿嬷的情书进入2026年度票房榜前十",
+        "onboard_time": 1778902099,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 294354,
+        "num": 244576,
+        "word": "歌手首发没有刘宪华",
+        "onboard_time": 1778912898,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 228378,
+        "num": 228378,
+        "word": "小鹿 九尾",
+        "onboard_time": 1778899038,
+        "rank": 29,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 257560,
+        "num": 225828,
+        "word": "白鹿基本上一个月只更新一条视频",
+        "onboard_time": 1778910979,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117928,
+        "num": 217803,
+        "word": "男子花30万元领证21天后新娘跑了",
+        "onboard_time": 1778912480,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 216923,
+        "num": 216923,
+        "word": "深海人鱼公主迪丽热巴",
+        "onboard_time": 1778912480,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207828,
+        "num": 207828,
+        "word": "马刺4比2淘汰森林狼",
+        "onboard_time": 1778906240,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 201906,
+        "num": 201906,
+        "word": "邓超发微博4347天了",
+        "onboard_time": 1778907860,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28925,
+        "num": 173416,
+        "word": "保洁员回应手写千字辞职信走红",
+        "onboard_time": 1778912421,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 224534,
+        "num": 171956,
+        "word": "白鹿卢昱晓 短视频营业",
+        "onboard_time": 1778888478,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164044,
+        "num": 164044,
+        "word": "张凌赫 精英男本子",
+        "onboard_time": 1778904860,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161389,
+        "num": 161389,
+        "word": "金饰克价年内大跌270元",
+        "onboard_time": 1778909360,
+        "rank": 38,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 159726,
+        "num": 159726,
+        "word": "黄金反转仅用3个多月",
+        "onboard_time": 1778911219,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 159538,
+        "num": 159538,
+        "word": "英伟达跌4%",
+        "onboard_time": 1778895139,
+        "rank": 40,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 157058,
+        "num": 157058,
+        "word": "张予曦怎么又瘦了",
+        "onboard_time": 1778906781,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152532,
+        "num": 152532,
+        "word": "张碧晨歌手白月光回归",
+        "onboard_time": 1778913200,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148811,
+        "num": 148811,
+        "word": "俄罗斯外长2次被印度记者打断冷脸",
+        "onboard_time": 1778908701,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 148026,
+        "num": 148026,
+        "word": "任敏董思成10岁就认识了",
+        "onboard_time": 1778902701,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142943,
+        "num": 142943,
+        "word": "奔跑吧14收视率创新高",
+        "onboard_time": 1778890881,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 51044,
+        "num": 142881,
+        "word": "微信捐赠第一行代码",
+        "onboard_time": 1778902819,
+        "rank": 46,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 138554,
+        "num": 142871,
+        "word": "F勒布伦说王楚钦是国乒的巨大优势",
+        "onboard_time": 1778912960,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 133349,
+        "num": 142868,
+        "word": "警方通报女孩盲道被撞事件",
+        "onboard_time": 1778894060,
+        "rank": 48,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 142868,
+        "num": 142867,
+        "word": "刘雨昕跑男首秀",
+        "onboard_time": 1778909781,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#中美元首会晤速览#"
+    }
+  }
+}
