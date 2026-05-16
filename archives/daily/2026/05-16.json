@@ -1,10 +1,10 @@
 {
   "startTime": 1778867315023,
-  "endTime": 1778904655201,
+  "endTime": 1778906093567,
   "band_list": [
     {
       "raw_hot": 2503474,
-      "num": 332163,
+      "num": 413690,
       "word": "金价跌麻了",
       "onboard_time": 1778887577,
       "rank": 11,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 914661,
-      "num": 446487,
+      "num": 447148,
       "word": "白鹿卢昱晓 短视频营业",
       "onboard_time": 1778888478,
       "rank": 13,
@@ -43,6 +43,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 847974,
+      "num": 847974,
+      "word": "金鹰奖提名神仙打架",
+      "onboard_time": 1778904560,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 824427,
       "num": 824427,
       "word": "中南大学帅出圈男生已保研同济大学",
@@ -52,7 +60,7 @@
     },
     {
       "raw_hot": 815713,
-      "num": 445082,
+      "num": 448156,
       "word": "洁丽雅 毛巾少爷",
       "onboard_time": 1778903600,
       "rank": 12,
@@ -100,10 +108,18 @@
     },
     {
       "raw_hot": 623111,
-      "num": 330296,
+      "num": 413561,
       "word": "薛之谦也被盲道摆拍骗了",
       "onboard_time": 1778901020,
       "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 622030,
+      "num": 446495,
+      "word": "热依扎疑似回应二胎",
+      "onboard_time": 1778904080,
+      "rank": 14,
       "category": "艺人"
     },
     {
@@ -139,8 +155,24 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 460362,
-      "num": 443746,
+      "raw_hot": 507800,
+      "num": 835442,
+      "word": "盲人女孩盲道被撞系自导自演",
+      "onboard_time": 1778904320,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 477145,
+      "num": 477145,
+      "word": "算力网要来了",
+      "onboard_time": 1778903719,
+      "rank": 18,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 466076,
+      "num": 445513,
       "word": "牛冠凯宣布结婚",
       "onboard_time": 1778901439,
       "rank": 13,
@@ -155,20 +187,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 455963,
-      "num": 443001,
-      "word": "热依扎疑似回应二胎",
-      "onboard_time": 1778904080,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 448851,
       "num": 448851,
       "word": "美国记者喝北京豆汁的表情",
       "onboard_time": 1778891119,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 445377,
+      "num": 445377,
+      "word": "奔跑吧孟子义摸杆这段收视最高",
+      "onboard_time": 1778904379,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 442096,
@@ -179,6 +211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 438637,
+      "num": 438637,
+      "word": "台密室逃脱员工扮吊死鬼身亡",
+      "onboard_time": 1778903899,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 426031,
       "num": 198461,
       "word": "鹿晗这就是京圈佛子吗",
@@ -187,8 +227,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 420341,
-      "num": 420341,
+      "raw_hot": 421684,
+      "num": 421684,
       "word": "英伟达跌4%",
       "onboard_time": 1778895139,
       "rank": 17,
@@ -243,6 +283,14 @@
       "category": "体育,民生新闻"
     },
     {
+      "raw_hot": 354101,
+      "num": 354101,
+      "word": "马刺vs森林狼",
+      "onboard_time": 1778899219,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 353036,
       "num": 157784,
       "word": "赵樱子回应蒋毅妻子喊话",
@@ -257,6 +305,14 @@
       "onboard_time": 1778889139,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 333030,
+      "num": 333030,
+      "word": "张凌赫 精英男本子",
+      "onboard_time": 1778904860,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 317955,
@@ -275,20 +331,20 @@
       "category": "教育"
     },
     {
+      "raw_hot": 314080,
+      "num": 314080,
+      "word": "给阿嬷的情书进入2026年度票房榜前十",
+      "onboard_time": 1778902099,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 311094,
       "num": 311094,
       "word": "周芯竹戛纳红毯",
       "onboard_time": 1778862139,
       "rank": 4,
       "category": "电影"
-    },
-    {
-      "raw_hot": 308364,
-      "num": 308364,
-      "word": "奔跑吧孟子义摸杆这段收视最高",
-      "onboard_time": 1778904379,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 302249,
@@ -323,28 +379,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 282499,
+      "num": 282499,
+      "word": "奔跑吧",
+      "onboard_time": 1778849903,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 282028,
       "num": 236975,
       "word": "女子从174斤减到95斤判若两人",
       "onboard_time": 1778858362,
       "rank": 22,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 280723,
-      "num": 280723,
-      "word": "金鹰奖提名神仙打架",
-      "onboard_time": 1778904560,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 280643,
-      "num": 419130,
-      "word": "算力网要来了",
-      "onboard_time": 1778903719,
-      "rank": 18,
-      "category": "互联网"
     },
     {
       "raw_hot": 280435,
@@ -363,20 +411,20 @@
       "category": "幽默,互联网"
     },
     {
+      "raw_hot": 261887,
+      "num": 261887,
+      "word": "张碧晨的同学被男明星讨论",
+      "onboard_time": 1778903659,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 257773,
       "num": 257773,
       "word": "女孩盲道被撞系摆拍",
       "onboard_time": 1778894480,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 245438,
-      "num": 245438,
-      "word": "给阿嬷的情书进入2026年度票房榜前十",
-      "onboard_time": 1778902099,
-      "rank": 30,
-      "category": "电影"
     },
     {
       "raw_hot": 243672,
@@ -395,14 +443,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 242536,
-      "num": 242536,
-      "word": "台密室逃脱员工扮吊死鬼身亡",
-      "onboard_time": 1778903899,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 242279,
       "num": 132128,
       "word": "iPhone一年一换比三年一换更省钱",
@@ -417,14 +457,6 @@
       "onboard_time": 1778888898,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 240523,
-      "num": 240523,
-      "word": "马刺vs森林狼",
-      "onboard_time": 1778899219,
-      "rank": 33,
-      "category": "体育"
     },
     {
       "raw_hot": 239269,
@@ -467,6 +499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 219314,
+      "num": 219314,
+      "word": "任敏董思成10岁就认识了",
+      "onboard_time": 1778902701,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 216694,
       "num": 214588,
       "word": "李冰冰戛纳红毯高定礼服",
@@ -483,28 +523,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 211543,
-      "num": 211543,
-      "word": "张碧晨的同学被男明星讨论",
-      "onboard_time": 1778903659,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 207426,
       "num": 207426,
       "word": "央视感谢全国网友支持",
       "onboard_time": 1778840901,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 204998,
-      "num": 179015,
-      "word": "任敏董思成10岁就认识了",
-      "onboard_time": 1778902701,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 201643,
@@ -531,12 +555,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 194560,
+      "num": 194560,
+      "word": "奔跑吧安阳闪现直播",
+      "onboard_time": 1778905460,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 182296,
       "num": 252367,
       "word": "巨力索具被证监会立案",
       "onboard_time": 1778855002,
       "rank": 39,
       "category": "财经,民生新闻"
+    },
+    {
+      "raw_hot": 179512,
+      "num": 179512,
+      "word": "邯郸奔跑吧路透",
+      "onboard_time": 1778904800,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 177828,
@@ -587,6 +627,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 152947,
+      "num": 152947,
+      "word": "算力价格",
+      "onboard_time": 1778903239,
+      "rank": 49,
+      "category": "财经,互联网"
+    },
+    {
+      "raw_hot": 148535,
+      "num": 148535,
+      "word": "雨霖铃",
+      "onboard_time": 1778905940,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 148179,
       "num": 128409,
       "word": "刘浩存好长好直的腿",
@@ -611,12 +667,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 146305,
-      "num": 146305,
-      "word": "算力价格",
-      "onboard_time": 1778903239,
-      "rank": 49,
-      "category": "财经,互联网"
+      "raw_hot": 130547,
+      "num": 171208,
+      "word": "律师解读女孩摆拍盲道被撞",
+      "onboard_time": 1778905519,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 129530,
@@ -644,7 +700,7 @@
     },
     {
       "raw_hot": 118972,
-      "num": 237929,
+      "num": 413989,
       "word": "微信捐赠第一行代码",
       "onboard_time": 1778902819,
       "rank": 34,
@@ -760,14 +816,6 @@
       "word": "王濛让尚雯婕教资保住了",
       "onboard_time": 1778860760,
       "rank": 30,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 81649,
-      "num": 88476,
-      "word": "奔跑吧",
-      "onboard_time": 1778849903,
-      "rank": 31,
       "category": "综艺"
     },
     {
@@ -907,6 +955,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 53730,
+      "num": 270709,
+      "word": "特朗普说伊斯兰国二号头目被清除",
+      "onboard_time": 1778905881,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 53257,
       "num": 88639,
       "word": "人是在变强的路上逐渐爱上自己的",
@@ -929,14 +985,6 @@
       "onboard_time": 1778857101,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 42171,
-      "num": 835442,
-      "word": "盲人女孩盲道被撞系自导自演",
-      "onboard_time": 1778904320,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 42047,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1778906093567,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 180197,
+        "num": 1028831,
+        "word": "中美元首会晤情况和共识",
+        "onboard_time": 1778854762,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 847974,
+        "num": 847974,
+        "word": "金鹰奖提名神仙打架",
+        "onboard_time": 1778904560,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 507800,
+        "num": 722921,
+        "word": "盲人女孩盲道被撞系自导自演",
+        "onboard_time": 1778904320,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 652422,
+        "num": 652422,
+        "word": "奔跑吧14收视率创新高",
+        "onboard_time": 1778890881,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 615324,
+        "num": 615324,
+        "word": "中南大学帅出圈男生已保研同济大学",
+        "onboard_time": 1778901499,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 501687,
+        "num": 501687,
+        "word": "2人摆拍盲道被撞被采取刑事措施",
+        "onboard_time": 1778899999,
+        "rank": 5,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 477145,
+        "num": 477145,
+        "word": "算力网要来了",
+        "onboard_time": 1778903719,
+        "rank": 6,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 459446,
+        "num": 459446,
+        "word": "退礼服女孩道歉",
+        "onboard_time": 1778896879,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 452503,
+        "num": 452503,
+        "word": "何宣林要求退出师姐帮唱",
+        "onboard_time": 1778888478,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 448949,
+        "num": 448949,
+        "word": "警方通报女孩盲道被撞事件",
+        "onboard_time": 1778894060,
+        "rank": 9,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 1832044,
+        "num": 448280,
+        "word": "特朗普抵达美国现场画面",
+        "onboard_time": 1778902399,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 806121,
+        "num": 448156,
+        "word": "洁丽雅 毛巾少爷",
+        "onboard_time": 1778903600,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 782226,
+        "num": 447148,
+        "word": "白鹿卢昱晓 短视频营业",
+        "onboard_time": 1778888478,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 622030,
+        "num": 446495,
+        "word": "热依扎疑似回应二胎",
+        "onboard_time": 1778904080,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 466076,
+        "num": 445513,
+        "word": "牛冠凯宣布结婚",
+        "onboard_time": 1778901439,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 445377,
+        "num": 445377,
+        "word": "奔跑吧孟子义摸杆这段收视最高",
+        "onboard_time": 1778904379,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 438637,
+        "num": 438637,
+        "word": "台密室逃脱员工扮吊死鬼身亡",
+        "onboard_time": 1778903899,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 421684,
+        "num": 421684,
+        "word": "英伟达跌4%",
+        "onboard_time": 1778895139,
+        "rank": 17,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 414808,
+        "num": 414808,
+        "word": "小鹿 九尾",
+        "onboard_time": 1778899038,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 118810,
+        "num": 413989,
+        "word": "微信捐赠第一行代码",
+        "onboard_time": 1778902819,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1395249,
+        "num": 413690,
+        "word": "金价跌麻了",
+        "onboard_time": 1778887577,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 619769,
+        "num": 413561,
+        "word": "薛之谦也被盲道摆拍骗了",
+        "onboard_time": 1778901020,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 413175,
+        "num": 413175,
+        "word": "方媛对自己的人生比较满意",
+        "onboard_time": 1778901020,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 354101,
+        "num": 354101,
+        "word": "马刺vs森林狼",
+        "onboard_time": 1778899219,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 333030,
+        "num": 333030,
+        "word": "张凌赫 精英男本子",
+        "onboard_time": 1778904860,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 327414,
+        "num": 327414,
+        "word": "美国记者喝北京豆汁的表情",
+        "onboard_time": 1778891119,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 314080,
+        "num": 314080,
+        "word": "给阿嬷的情书进入2026年度票房榜前十",
+        "onboard_time": 1778902099,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 282499,
+        "num": 282499,
+        "word": "奔跑吧",
+        "onboard_time": 1778905701,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 276792,
+        "num": 276792,
+        "word": "爷爷支持打消毛巾少爷顾虑",
+        "onboard_time": 1778902819,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 53730,
+        "num": 270709,
+        "word": "特朗普说伊斯兰国二号头目被清除",
+        "onboard_time": 1778905881,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 270402,
+        "num": 270402,
+        "word": "丁程鑫泰国",
+        "onboard_time": 1778889379,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 261887,
+        "num": 261887,
+        "word": "张碧晨的同学被男明星讨论",
+        "onboard_time": 1778903659,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 244463,
+        "num": 244463,
+        "word": "40岁男子投80万演唐僧只赚回10万",
+        "onboard_time": 1778894720,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 258916,
+        "num": 233178,
+        "word": "蒋毅赵樱子贴身热舞",
+        "onboard_time": 1778888958,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 219314,
+        "num": 219314,
+        "word": "任敏董思成10岁就认识了",
+        "onboard_time": 1778902701,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191758,
+        "num": 204691,
+        "word": "女子从174斤减到95斤判若两人",
+        "onboard_time": 1778858362,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 195788,
+        "num": 195788,
+        "word": "金鹰奖提名预测名单",
+        "onboard_time": 1778887817,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 194560,
+        "num": 194560,
+        "word": "奔跑吧安阳闪现直播",
+        "onboard_time": 1778905460,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 191379,
+        "num": 191379,
+        "word": "女孩盲道被撞系摆拍",
+        "onboard_time": 1778894480,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179512,
+        "num": 179512,
+        "word": "邯郸奔跑吧路透",
+        "onboard_time": 1778904800,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174142,
+        "num": 174142,
+        "word": "李庚希戛纳映后哭了",
+        "onboard_time": 1778896519,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 130547,
+        "num": 171208,
+        "word": "律师解读女孩摆拍盲道被撞",
+        "onboard_time": 1778905519,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170481,
+        "num": 170481,
+        "word": "李冰冰戛纳红毯高定礼服",
+        "onboard_time": 1778892200,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 167766,
+        "num": 167766,
+        "word": "泰国偶遇丁程鑫",
+        "onboard_time": 1778898860,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167474,
+        "num": 167474,
+        "word": "樊振东莫雷加德一起训练",
+        "onboard_time": 1778897000,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 164853,
+        "num": 164853,
+        "word": "女孩退礼服事件合唱团已报案",
+        "onboard_time": 1778897180,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163487,
+        "num": 163487,
+        "word": "流量撑不起演员的底气",
+        "onboard_time": 1778862080,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 85623,
+        "num": 153195,
+        "word": "上海电信推出1元25万Token套餐",
+        "onboard_time": 1778904498,
+        "rank": 47,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 152947,
+        "num": 152947,
+        "word": "算力价格",
+        "onboard_time": 1778903239,
+        "rank": 48,
+        "category": "财经,互联网"
+      },
+      {
+        "raw_hot": 148535,
+        "num": 148535,
+        "word": "雨霖铃",
+        "onboard_time": 1778905940,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#中美元首会晤速览#"
+    }
+  }
+}
