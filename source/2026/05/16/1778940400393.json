@@ -1,0 +1,410 @@
+{
+  "runTime": 1778940400393,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1278353,
+        "num": 1278353,
+        "word": "女孩盲道被撞摆拍细节露馅",
+        "onboard_time": 1778927959,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 698235,
+        "num": 874074,
+        "word": "张雪机车捷克站夺冠",
+        "onboard_time": 1778929940,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 98545,
+        "num": 785055,
+        "word": "中国式支付圈粉全球",
+        "onboard_time": 1778934861,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 776782,
+        "num": 776782,
+        "word": "全山东最重视山姆超市之人",
+        "onboard_time": 1778926158,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 538399,
+        "num": 538399,
+        "word": "大熊猫家和去世",
+        "onboard_time": 1778931980,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 427586,
+        "num": 427586,
+        "word": "方媛缺席桃花坞发布会",
+        "onboard_time": 1778932940,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 388484,
+        "num": 388484,
+        "word": "樊振东晋级欧冠决赛",
+        "onboard_time": 1778936719,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 365735,
+        "num": 365735,
+        "word": "刘浩存忆秦娥长大转场",
+        "onboard_time": 1778934441,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 325907,
+        "num": 325907,
+        "word": "苏超",
+        "onboard_time": 1778931621,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 313581,
+        "num": 313581,
+        "word": "樊振东出任一单",
+        "onboard_time": 1778931321,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1194651,
+        "num": 313037,
+        "word": "黄仁勋说没有任何工作我看不上",
+        "onboard_time": 1778938401,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1170949,
+        "num": 311964,
+        "word": "吴镇宇用嘴喂郝蕾吃药",
+        "onboard_time": 1778931740,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 892427,
+        "num": 310829,
+        "word": "特朗普警告台独",
+        "onboard_time": 1778940321,
+        "rank": 12,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 703251,
+        "num": 310135,
+        "word": "宋浩然整成李佳琦了",
+        "onboard_time": 1778907140,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 631834,
+        "num": 308336,
+        "word": "德国跨国迷奸案",
+        "onboard_time": 1778935402,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121761,
+        "num": 307401,
+        "word": "宋亚轩想留住成龙的心藏不住",
+        "onboard_time": 1778936842,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 567302,
+        "num": 305713,
+        "word": "网传三大运营商即将免月租是真的吗",
+        "onboard_time": 1778933781,
+        "rank": 16,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 476176,
+        "num": 304648,
+        "word": "特朗普抵达美国现场画面",
+        "onboard_time": 1778902399,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 101180,
+        "num": 304128,
+        "word": "弗朗西斯卡3比0巴多夫斯基",
+        "onboard_time": 1778940083,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 67251,
+        "num": 302852,
+        "word": "周深喊生米老师笑场了",
+        "onboard_time": 1778939841,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 783182,
+        "num": 302106,
+        "word": "红霉素软膏绝不能随便用",
+        "onboard_time": 1778938281,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 561411,
+        "num": 300005,
+        "word": "白鹿艾特闵塔鲨",
+        "onboard_time": 1778930240,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 495582,
+        "num": 299211,
+        "word": "姜乘澜给化妆新手的8条建议",
+        "onboard_time": 1778925020,
+        "rank": 22,
+        "category": "网红,美妆"
+      },
+      {
+        "raw_hot": 484961,
+        "num": 298597,
+        "word": "郑州一火锅店露天洗菜做饭如调色盘",
+        "onboard_time": 1778937560,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 451331,
+        "num": 297091,
+        "word": "特朗普回国后谈中国行",
+        "onboard_time": 1778915539,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 438367,
+        "num": 295339,
+        "word": "韩红基金会明星捐款名单",
+        "onboard_time": 1778923281,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 394203,
+        "num": 294628,
+        "word": "白鹿经典露齿笑",
+        "onboard_time": 1778939482,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 294073,
+        "num": 294073,
+        "word": "山西一研学车辆侧翻已致2人死亡",
+        "onboard_time": 1778927479,
+        "rank": 27,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 348986,
+        "num": 293858,
+        "word": "范丞丞也在吃跑男的瓜",
+        "onboard_time": 1778923460,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 289501,
+        "num": 289501,
+        "word": "清华女博士丈夫雇人抢走2岁半儿子",
+        "onboard_time": 1778939541,
+        "rank": 29,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 285083,
+        "num": 285083,
+        "word": "减掉内脏脂肪才是减肥关键",
+        "onboard_time": 1778929821,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 283888,
+        "num": 283888,
+        "word": "歌手首发阵容",
+        "onboard_time": 1778908220,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 282102,
+        "num": 282102,
+        "word": "给阿嬷的情书最终票房或近20亿",
+        "onboard_time": 1778936960,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 278290,
+        "num": 278290,
+        "word": "韩红基金会去年收入7.8亿支出2.9亿",
+        "onboard_time": 1778925620,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 276857,
+        "num": 276857,
+        "word": "碳水哥震撼中国人",
+        "onboard_time": 1778920640,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 251002,
+        "num": 251002,
+        "word": "张凌赫Mai晚宴合照",
+        "onboard_time": 1778921480,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134100,
+        "num": 247991,
+        "word": "张杰单依纯合唱我真的受伤了",
+        "onboard_time": 1778940083,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126093,
+        "num": 246941,
+        "word": "樊振东比赛现场画风跑偏了",
+        "onboard_time": 1778940083,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 25128,
+        "num": 246787,
+        "word": "火车擦身印度母亲紧压2孩子奇迹生还",
+        "onboard_time": 1778940083,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 246767,
+        "num": 246767,
+        "word": "德比斯说感谢张雪机车",
+        "onboard_time": 1778935881,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 26411,
+        "num": 244489,
+        "word": "胡彦斌感谢陶喆让他重回歌手",
+        "onboard_time": 1778940083,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 72831,
+        "num": 244126,
+        "word": "范玮琪说想重新挑战歌手",
+        "onboard_time": 1778940083,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 243892,
+        "num": 243892,
+        "word": "姑姑养大侄女却扣下16万彩礼拒返还",
+        "onboard_time": 1778925740,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 240037,
+        "num": 240037,
+        "word": "万千惠说我的人气太低了",
+        "onboard_time": 1778935460,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 230864,
+        "num": 230864,
+        "word": "主角 反套路",
+        "onboard_time": 1778933600,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 197852,
+        "num": 221945,
+        "word": "张雪喊话德比斯培养一个中国车手",
+        "onboard_time": 1778939421,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 216580,
+        "num": 216580,
+        "word": "主角",
+        "onboard_time": 1778933001,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 204437,
+        "num": 204437,
+        "word": "APINK全员到场尹普美婚礼",
+        "onboard_time": 1778927901,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161967,
+        "num": 187542,
+        "word": "103号汽油",
+        "onboard_time": 1778935701,
+        "rank": 48,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 187255,
+        "num": 187255,
+        "word": "张雪回应捷克站夺冠",
+        "onboard_time": 1778932099,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席这样阐述中美关系#"
+    }
+  }
+}

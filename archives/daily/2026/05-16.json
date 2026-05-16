@@ -1,6 +1,6 @@
 {
   "startTime": 1778867315023,
-  "endTime": 1778939224462,
+  "endTime": 1778940400393,
   "band_list": [
     {
       "raw_hot": 3462118,
@@ -99,6 +99,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1278353,
+      "num": 1278353,
+      "word": "女孩盲道被撞摆拍细节露馅",
+      "onboard_time": 1778927959,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1270160,
       "num": 1024543,
       "word": "退礼服女孩道歉",
@@ -115,20 +123,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1194651,
+      "num": 324680,
+      "word": "黄仁勋说没有任何工作我看不上",
+      "onboard_time": 1778938401,
+      "rank": 27,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1149812,
-      "num": 665087,
+      "num": 776782,
       "word": "全山东最重视山姆超市之人",
       "onboard_time": 1778926158,
       "rank": 36,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1100312,
-      "num": 1176049,
-      "word": "女孩盲道被撞摆拍细节露馅",
-      "onboard_time": 1778927959,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1069047,
@@ -153,6 +161,14 @@
       "onboard_time": 1778888478,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 892427,
+      "num": 310829,
+      "word": "特朗普警告台独",
+      "onboard_time": 1778940321,
+      "rank": 12,
+      "category": "国内时政"
     },
     {
       "raw_hot": 889312,
@@ -217,6 +233,14 @@
       "onboard_time": 1778927479,
       "rank": 7,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 783182,
+      "num": 358474,
+      "word": "红霉素软膏绝不能随便用",
+      "onboard_time": 1778938281,
+      "rank": 23,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 769512,
@@ -331,6 +355,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 631834,
+      "num": 395773,
+      "word": "德国跨国迷奸案",
+      "onboard_time": 1778935402,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 624516,
       "num": 499113,
       "word": "女子穿着带有巨大吊牌旗袍街头拍照",
@@ -377,6 +409,14 @@
       "onboard_time": 1778899999,
       "rank": 7,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 567302,
+      "num": 395103,
+      "word": "网传三大运营商即将免月租是真的吗",
+      "onboard_time": 1778933781,
+      "rank": 19,
+      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 566074,
@@ -443,14 +483,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 533824,
-      "num": 395773,
-      "word": "德国跨国迷奸案",
-      "onboard_time": 1778935402,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 502772,
       "num": 386810,
       "word": "孙颖莎王楚钦又一荣誉公示",
@@ -465,6 +497,14 @@
       "onboard_time": 1778921480,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 484961,
+      "num": 298597,
+      "word": "郑州一火锅店露天洗菜做饭如调色盘",
+      "onboard_time": 1778937560,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 477145,
@@ -547,6 +587,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 427586,
+      "num": 427586,
+      "word": "方媛缺席桃花坞发布会",
+      "onboard_time": 1778932940,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 426531,
       "num": 426531,
       "word": "范丞丞也在吃跑男的瓜",
@@ -569,14 +617,6 @@
       "onboard_time": 1778895139,
       "rank": 17,
       "category": "财经"
-    },
-    {
-      "raw_hot": 411188,
-      "num": 395103,
-      "word": "网传三大运营商即将免月租是真的吗",
-      "onboard_time": 1778933781,
-      "rank": 19,
-      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 406052,
@@ -619,11 +659,11 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 394753,
-      "num": 394753,
-      "word": "方媛缺席桃花坞发布会",
-      "onboard_time": 1778932940,
-      "rank": 39,
+      "raw_hot": 394203,
+      "num": 294628,
+      "word": "白鹿经典露齿笑",
+      "onboard_time": 1778939482,
+      "rank": 26,
       "category": "综艺"
     },
     {
@@ -633,6 +673,14 @@
       "onboard_time": 1778888838,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 388484,
+      "num": 403466,
+      "word": "樊振东晋级欧冠决赛",
+      "onboard_time": 1778936719,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 386387,
@@ -673,14 +721,6 @@
       "onboard_time": 1778914819,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 358474,
-      "num": 358474,
-      "word": "红霉素软膏绝不能随便用",
-      "onboard_time": 1778938281,
-      "rank": 23,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 357993,
@@ -739,12 +779,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 324680,
-      "num": 324680,
-      "word": "黄仁勋说没有任何工作我看不上",
-      "onboard_time": 1778938401,
-      "rank": 27,
-      "category": "互联网"
+      "raw_hot": 325907,
+      "num": 325907,
+      "word": "苏超",
+      "onboard_time": 1778931621,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 317955,
@@ -843,6 +883,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 289501,
+      "num": 289501,
+      "word": "清华女博士丈夫雇人抢走2岁半儿子",
+      "onboard_time": 1778939541,
+      "rank": 29,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 289454,
       "num": 233974,
       "word": "虞书欣个人捐款70万",
@@ -857,6 +905,14 @@
       "onboard_time": 1778849903,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 282102,
+      "num": 282102,
+      "word": "给阿嬷的情书最终票房或近20亿",
+      "onboard_time": 1778936960,
+      "rank": 35,
+      "category": "电影"
     },
     {
       "raw_hot": 282028,
@@ -881,22 +937,6 @@
       "onboard_time": 1778927901,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 273899,
-      "num": 403466,
-      "word": "樊振东晋级欧冠决赛",
-      "onboard_time": 1778936719,
-      "rank": 8,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 271552,
-      "num": 271552,
-      "word": "郑州一火锅店露天洗菜做饭如调色盘",
-      "onboard_time": 1778937560,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 268741,
@@ -963,14 +1003,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 251060,
-      "num": 231492,
-      "word": "给阿嬷的情书最终票房或近20亿",
-      "onboard_time": 1778936960,
-      "rank": 35,
-      "category": "电影"
-    },
-    {
       "raw_hot": 243672,
       "num": 207836,
       "word": "毛巾少爷曾说父亲爷爷不愿其接班",
@@ -1000,6 +1032,14 @@
       "word": "王濛打孙怡被萧蔷一把拉走",
       "onboard_time": 1778888898,
       "rank": 16,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 240037,
+      "num": 240037,
+      "word": "万千惠说我的人气太低了",
+      "onboard_time": 1778935460,
+      "rank": 37,
       "category": "综艺"
     },
     {
@@ -1043,16 +1083,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 235036,
-      "num": 224182,
-      "word": "万千惠说我的人气太低了",
-      "onboard_time": 1778935460,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 233411,
-      "num": 216383,
+      "num": 216580,
       "word": "主角",
       "onboard_time": 1778846661,
       "rank": 44,
@@ -1065,14 +1097,6 @@
       "onboard_time": 1778896519,
       "rank": 36,
       "category": "电影"
-    },
-    {
-      "raw_hot": 232197,
-      "num": 232197,
-      "word": "苏超",
-      "onboard_time": 1778931621,
-      "rank": 33,
-      "category": "体育"
     },
     {
       "raw_hot": 228906,
@@ -1201,6 +1225,14 @@
       "onboard_time": 1778855662,
       "rank": 9,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 197852,
+      "num": 221945,
+      "word": "张雪喊话德比斯培养一个中国车手",
+      "onboard_time": 1778939421,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 197173,
@@ -1355,6 +1387,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 161967,
+      "num": 187542,
+      "word": "103号汽油",
+      "onboard_time": 1778935701,
+      "rank": 46,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 161389,
       "num": 161389,
       "word": "金饰克价年内大跌270元",
@@ -1369,14 +1409,6 @@
       "onboard_time": 1778914999,
       "rank": 41,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 160469,
-      "num": 160469,
-      "word": "103号汽油",
-      "onboard_time": 1778935701,
-      "rank": 46,
-      "category": "汽车"
     },
     {
       "raw_hot": 160217,
@@ -1555,6 +1587,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 134100,
+      "num": 247991,
+      "word": "张杰单依纯合唱我真的受伤了",
+      "onboard_time": 1778940083,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 130547,
       "num": 171208,
       "word": "律师解读女孩摆拍盲道被撞",
@@ -1579,12 +1619,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 126093,
+      "num": 246941,
+      "word": "樊振东比赛现场画风跑偏了",
+      "onboard_time": 1778940083,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 125746,
       "num": 125746,
       "word": "奶奶真成档案管理大师了",
       "onboard_time": 1778865917,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 121761,
+      "num": 307401,
+      "word": "宋亚轩想留住成龙的心藏不住",
+      "onboard_time": 1778936842,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 120212,
@@ -1675,6 +1731,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 101180,
+      "num": 304128,
+      "word": "弗朗西斯卡3比0巴多夫斯基",
+      "onboard_time": 1778940083,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 100585,
       "num": 100585,
       "word": "刘丹担任白玉兰评委",
@@ -1696,6 +1760,14 @@
       "word": "男子独自夜钓溺亡家属索赔91万",
       "onboard_time": 1778890460,
       "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 98545,
+      "num": 785055,
+      "word": "中国式支付圈粉全球",
+      "onboard_time": 1778934861,
+      "rank": 2,
       "category": "民生新闻"
     },
     {
@@ -1729,14 +1801,6 @@
       "onboard_time": 1778845161,
       "rank": 49,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 91043,
-      "num": 668565,
-      "word": "中国式支付圈粉全球",
-      "onboard_time": 1778934861,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 89601,
@@ -1811,6 +1875,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 72831,
+      "num": 244126,
+      "word": "范玮琪说想重新挑战歌手",
+      "onboard_time": 1778940083,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 70047,
       "num": 77555,
       "word": "金鹰奖",
@@ -1825,6 +1897,14 @@
       "onboard_time": 1778853862,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 67251,
+      "num": 302852,
+      "word": "周深喊生米老师笑场了",
+      "onboard_time": 1778939841,
+      "rank": 19,
+      "category": "演出"
     },
     {
       "raw_hot": 67105,
@@ -2059,12 +2139,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 26411,
+      "num": 244489,
+      "word": "胡彦斌感谢陶喆让他重回歌手",
+      "onboard_time": 1778940083,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 25221,
       "num": 211206,
       "word": "樊振东备战欧冠满头大汗",
       "onboard_time": 1778932878,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 25128,
+      "num": 246787,
+      "word": "火车擦身印度母亲紧压2孩子奇迹生还",
+      "onboard_time": 1778940083,
+      "rank": 38,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 24862,
