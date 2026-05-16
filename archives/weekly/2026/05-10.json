@@ -1,6 +1,6 @@
 {
   "startTime": 1778342585344,
-  "endTime": 1778940400393,
+  "endTime": 1778943906581,
   "band_list": [
     {
       "raw_hot": 20021872,
@@ -201,6 +201,14 @@
       "onboard_time": 1778392639,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 3482561,
+      "num": 3482561,
+      "word": "特朗普警告台独",
+      "onboard_time": 1778940321,
+      "rank": 12,
+      "category": "国内时政"
     },
     {
       "raw_hot": 3462118,
@@ -955,6 +963,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1469107,
+      "num": 344637,
+      "word": "黄仁勋说没有任何工作我看不上",
+      "onboard_time": 1778938401,
+      "rank": 27,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1454493,
       "num": 706207,
       "word": "下午休是性价比最高的半天假",
@@ -1283,14 +1299,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1194651,
-      "num": 324680,
-      "word": "黄仁勋说没有任何工作我看不上",
-      "onboard_time": 1778938401,
-      "rank": 27,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 1189075,
       "num": 823179,
       "word": "李小冉知道自己笑起来像森碟",
@@ -1449,6 +1457,14 @@
       "onboard_time": 1778410821,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1072825,
+      "num": 358474,
+      "word": "红霉素软膏绝不能随便用",
+      "onboard_time": 1778938281,
+      "rank": 23,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 1071162,
@@ -1827,14 +1843,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 892427,
-      "num": 310829,
-      "word": "特朗普警告台独",
-      "onboard_time": 1778940321,
-      "rank": 12,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 892225,
       "num": 520881,
       "word": "瑶一瑶跪下感谢妈妈",
@@ -2203,14 +2211,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 783182,
-      "num": 358474,
-      "word": "红霉素软膏绝不能随便用",
-      "onboard_time": 1778938281,
-      "rank": 23,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 782699,
       "num": 348550,
       "word": "宁艺卓 别来身材羞辱那一套",
@@ -2465,6 +2465,14 @@
       "onboard_time": 1778419581,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 718877,
+      "num": 718877,
+      "word": "给阿嬷的情书最终票房或近20亿",
+      "onboard_time": 1778936960,
+      "rank": 35,
+      "category": "电影"
     },
     {
       "raw_hot": 718758,
@@ -3467,12 +3475,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 540004,
+      "num": 344271,
+      "word": "孙娜恩 尹普美",
+      "onboard_time": 1778940502,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 539198,
       "num": 539198,
       "word": "国乒男团进世乒赛决赛",
       "onboard_time": 1778366536,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 538754,
+      "num": 343775,
+      "word": "清华女博士丈夫雇人抢走2岁半儿子",
+      "onboard_time": 1778939541,
+      "rank": 29,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 538598,
@@ -3657,6 +3681,14 @@
       "onboard_time": 1778662222,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 519273,
+      "num": 343109,
+      "word": "女子试管7年得子丈夫肺癌脑转移",
+      "onboard_time": 1778940561,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 518795,
@@ -3955,6 +3987,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 489504,
+      "num": 342489,
+      "word": "白鹿经典露齿笑",
+      "onboard_time": 1778939482,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 488564,
       "num": 488564,
       "word": "自助餐没吃几口就饱的元凶",
@@ -3996,7 +4036,7 @@
     },
     {
       "raw_hot": 484961,
-      "num": 298597,
+      "num": 341456,
       "word": "郑州一火锅店露天洗菜做饭如调色盘",
       "onboard_time": 1778937560,
       "rank": 29,
@@ -4851,6 +4891,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 397644,
+      "num": 397644,
+      "word": "KPL",
+      "onboard_time": 1778917760,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 396964,
       "num": 204503,
       "word": "孙颖莎证明自己为何是世界第一",
@@ -4889,14 +4937,6 @@
       "onboard_time": 1778423003,
       "rank": 23,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 394203,
-      "num": 294628,
-      "word": "白鹿经典露齿笑",
-      "onboard_time": 1778939482,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 393994,
@@ -5121,6 +5161,14 @@
       "onboard_time": 1778556381,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 370894,
+      "num": 370894,
+      "word": "AG第十六次晋级决赛",
+      "onboard_time": 1778942602,
+      "rank": 7,
+      "category": "电竞"
     },
     {
       "raw_hot": 370735,
@@ -5531,12 +5579,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 340977,
+      "num": 325615,
+      "word": "万千惠点名徐梦洁",
+      "onboard_time": 1778943082,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 340946,
       "num": 310567,
       "word": "特朗普金卡翻车",
       "onboard_time": 1778544680,
       "rank": 17,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 340937,
+      "num": 340937,
+      "word": "JDG对战AG",
+      "onboard_time": 1778942362,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 340559,
@@ -5769,6 +5833,14 @@
       "onboard_time": 1778627717,
       "rank": 20,
       "category": "演出"
+    },
+    {
+      "raw_hot": 324864,
+      "num": 324864,
+      "word": "gemini 毒奶",
+      "onboard_time": 1778940622,
+      "rank": 27,
+      "category": "电竞"
     },
     {
       "raw_hot": 323663,
@@ -6139,6 +6211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 295726,
+      "num": 341864,
+      "word": "巅峰对决",
+      "onboard_time": 1778942602,
+      "rank": 20,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 294973,
       "num": 294973,
       "word": "虞书欣非遗高定",
@@ -6225,14 +6305,6 @@
       "onboard_time": 1778583680,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 289501,
-      "num": 289501,
-      "word": "清华女博士丈夫雇人抢走2岁半儿子",
-      "onboard_time": 1778939541,
-      "rank": 29,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 289454,
@@ -6337,14 +6409,6 @@
       "onboard_time": 1778820502,
       "rank": 7,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 282102,
-      "num": 282102,
-      "word": "给阿嬷的情书最终票房或近20亿",
-      "onboard_time": 1778936960,
-      "rank": 35,
-      "category": "电影"
     },
     {
       "raw_hot": 281924,
@@ -7171,6 +7235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 241030,
+      "num": 241030,
+      "word": "给阿嬷的情书女主有站姐了",
+      "onboard_time": 1778942542,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 240200,
       "num": 282820,
       "word": "A股年内首只翻倍ETF诞生",
@@ -7225,6 +7297,14 @@
       "onboard_time": 1778589680,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 238323,
+      "num": 238323,
+      "word": "张雪喊话德比斯培养一个中国车手",
+      "onboard_time": 1778939421,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 238160,
@@ -7593,6 +7673,14 @@
       "onboard_time": 1778754623,
       "rank": 32,
       "category": "财经"
+    },
+    {
+      "raw_hot": 222664,
+      "num": 222664,
+      "word": "留学生跨国迷奸案",
+      "onboard_time": 1778935402,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 222350,
@@ -8035,6 +8123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 207237,
+      "num": 207237,
+      "word": "中美经贸磋商初步成果",
+      "onboard_time": 1778942841,
+      "rank": 38,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 207215,
       "num": 207215,
       "word": "尼坤演唱会状态",
@@ -8289,14 +8385,6 @@
       "onboard_time": 1778848521,
       "rank": 36,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 197852,
-      "num": 221945,
-      "word": "张雪喊话德比斯培养一个中国车手",
-      "onboard_time": 1778939421,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 197173,
@@ -10163,6 +10251,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 144771,
+      "num": 187437,
+      "word": "樊振东赛场统治力拉满",
+      "onboard_time": 1778943683,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 144121,
       "num": 102106,
       "word": "王皓暖心安慰林诗栋",
@@ -10249,14 +10345,6 @@
       "onboard_time": 1778332161,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 142407,
-      "num": 156581,
-      "word": "KPL",
-      "onboard_time": 1778917760,
-      "rank": 42,
-      "category": "电竞"
     },
     {
       "raw_hot": 142253,
@@ -11468,7 +11556,7 @@
     },
     {
       "raw_hot": 98545,
-      "num": 785055,
+      "num": 870211,
       "word": "中国式支付圈粉全球",
       "onboard_time": 1778934861,
       "rank": 2,
@@ -12539,6 +12627,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 55869,
+      "num": 181519,
+      "word": "朱孝天上节目内涵阿信",
+      "onboard_time": 1778943322,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 55714,
       "num": 235814,
       "word": "境外间谍用美人计策反涉密人员",
@@ -12715,6 +12811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 50512,
+      "num": 341219,
+      "word": "三星电子会长公开道歉",
+      "onboard_time": 1778942661,
+      "rank": 23,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 50070,
       "num": 352525,
       "word": "歼20歼16歼10C空战对抗演练",
@@ -12808,6 +12912,14 @@
       "word": "当年汶川追空投的男孩已成空降兵",
       "onboard_time": 1778559801,
       "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 46095,
+      "num": 325656,
+      "word": "无证女子独自开车800公里跨省回家",
+      "onboard_time": 1778942661,
+      "rank": 25,
       "category": "民生新闻"
     },
     {

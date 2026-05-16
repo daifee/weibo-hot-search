@@ -1,0 +1,410 @@
+{
+  "runTime": 1778943906581,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3482561,
+        "num": 3482561,
+        "word": "特朗普警告台独",
+        "onboard_time": 1778940321,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1155335,
+        "num": 1155335,
+        "word": "女孩盲道被撞摆拍细节露馅",
+        "onboard_time": 1778927959,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85107,
+        "num": 870211,
+        "word": "中国式支付圈粉全球",
+        "onboard_time": 1778934861,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 718877,
+        "num": 718877,
+        "word": "给阿嬷的情书最终票房或近20亿",
+        "onboard_time": 1778936960,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 401486,
+        "num": 401486,
+        "word": "张雪机车捷克站夺冠",
+        "onboard_time": 1778929940,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 397644,
+        "num": 397644,
+        "word": "KPL",
+        "onboard_time": 1778941823,
+        "rank": 5,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 384731,
+        "num": 384731,
+        "word": "全山东最重视山姆超市之人",
+        "onboard_time": 1778926158,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 370894,
+        "num": 370894,
+        "word": "AG第十六次晋级决赛",
+        "onboard_time": 1778942602,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 345175,
+        "num": 345175,
+        "word": "樊振东晋级欧冠决赛",
+        "onboard_time": 1778936719,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 260076,
+        "num": 345013,
+        "word": "范丞丞也在吃跑男的瓜",
+        "onboard_time": 1778923460,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1469107,
+        "num": 344637,
+        "word": "黄仁勋说没有任何工作我看不上",
+        "onboard_time": 1778938401,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1076729,
+        "num": 344439,
+        "word": "吴镇宇用嘴喂郝蕾吃药",
+        "onboard_time": 1778931740,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 540004,
+        "num": 344271,
+        "word": "孙娜恩 尹普美",
+        "onboard_time": 1778940502,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 538754,
+        "num": 343775,
+        "word": "清华女博士丈夫雇人抢走2岁半儿子",
+        "onboard_time": 1778939541,
+        "rank": 13,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 525184,
+        "num": 343483,
+        "word": "韩红基金会明星捐款名单",
+        "onboard_time": 1778923281,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 521525,
+        "num": 343432,
+        "word": "宋浩然整成李佳琦了",
+        "onboard_time": 1778907140,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 519273,
+        "num": 343109,
+        "word": "女子试管7年得子丈夫肺癌脑转移",
+        "onboard_time": 1778940561,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 256011,
+        "num": 342858,
+        "word": "方媛缺席桃花坞发布会",
+        "onboard_time": 1778932940,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 489504,
+        "num": 342489,
+        "word": "白鹿经典露齿笑",
+        "onboard_time": 1778939482,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 204503,
+        "num": 342095,
+        "word": "特朗普抵达美国现场画面",
+        "onboard_time": 1778902399,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 295726,
+        "num": 341864,
+        "word": "巅峰对决",
+        "onboard_time": 1778942602,
+        "rank": 20,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 1072825,
+        "num": 341717,
+        "word": "红霉素软膏绝不能随便用",
+        "onboard_time": 1778938281,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 368435,
+        "num": 341456,
+        "word": "郑州一火锅店露天洗菜做饭如调色盘",
+        "onboard_time": 1778937560,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 50512,
+        "num": 341219,
+        "word": "三星电子会长公开道歉",
+        "onboard_time": 1778942661,
+        "rank": 23,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 340937,
+        "num": 340937,
+        "word": "JDG对战AG",
+        "onboard_time": 1778942362,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 46095,
+        "num": 325656,
+        "word": "无证女子独自开车800公里跨省回家",
+        "onboard_time": 1778942661,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 340977,
+        "num": 325615,
+        "word": "万千惠点名徐梦洁",
+        "onboard_time": 1778943082,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 324864,
+        "num": 324864,
+        "word": "gemini 毒奶",
+        "onboard_time": 1778940622,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 318580,
+        "num": 318580,
+        "word": "大熊猫家和去世",
+        "onboard_time": 1778931980,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 308864,
+        "num": 308864,
+        "word": "白鹿艾特闵塔鲨",
+        "onboard_time": 1778930240,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 282239,
+        "num": 282239,
+        "word": "网传三大运营商即将免月租是真的吗",
+        "onboard_time": 1778933781,
+        "rank": 30,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 276170,
+        "num": 276170,
+        "word": "减掉内脏脂肪才是减肥关键",
+        "onboard_time": 1778929821,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 275714,
+        "num": 275714,
+        "word": "姜乘澜给化妆新手的8条建议",
+        "onboard_time": 1778925020,
+        "rank": 32,
+        "category": "网红,美妆"
+      },
+      {
+        "raw_hot": 241030,
+        "num": 241030,
+        "word": "给阿嬷的情书女主有站姐了",
+        "onboard_time": 1778942542,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 238323,
+        "num": 238323,
+        "word": "张雪喊话德比斯培养一个中国车手",
+        "onboard_time": 1778939421,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 222664,
+        "num": 222664,
+        "word": "留学生跨国迷奸案",
+        "onboard_time": 1778935402,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 213924,
+        "num": 213924,
+        "word": "主角",
+        "onboard_time": 1778933001,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 211447,
+        "num": 211447,
+        "word": "刘浩存忆秦娥长大转场",
+        "onboard_time": 1778934441,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 207237,
+        "num": 207237,
+        "word": "中美经贸磋商初步成果",
+        "onboard_time": 1778942841,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 144771,
+        "num": 187437,
+        "word": "樊振东赛场统治力拉满",
+        "onboard_time": 1778943683,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 182108,
+        "num": 182108,
+        "word": "苏超",
+        "onboard_time": 1778931621,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 55869,
+        "num": 181519,
+        "word": "朱孝天上节目内涵阿信",
+        "onboard_time": 1778943322,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 181397,
+        "num": 181397,
+        "word": "歌手首发阵容",
+        "onboard_time": 1778908220,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 181284,
+        "num": 181284,
+        "word": "山西一研学车辆侧翻已致2人死亡",
+        "onboard_time": 1778927479,
+        "rank": 43,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 171171,
+        "num": 171171,
+        "word": "陈立农澳门演唱会嘉宾",
+        "onboard_time": 1778938222,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 170301,
+        "num": 170301,
+        "word": "万千惠说我的人气太低了",
+        "onboard_time": 1778935460,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167819,
+        "num": 167819,
+        "word": "韩红基金会去年收入7.8亿支出2.9亿",
+        "onboard_time": 1778925620,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158378,
+        "num": 166691,
+        "word": "特朗普回国后谈中国行",
+        "onboard_time": 1778915539,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 129491,
+        "num": 166312,
+        "word": "103号汽油",
+        "onboard_time": 1778935701,
+        "rank": 48,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 165997,
+        "num": 165997,
+        "word": "张凌赫Mai晚宴合照",
+        "onboard_time": 1778921480,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席这样阐述中美关系#"
+    }
+  }
+}
