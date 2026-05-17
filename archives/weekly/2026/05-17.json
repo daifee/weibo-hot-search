@@ -1,7 +1,15 @@
 {
   "startTime": 1778951228781,
-  "endTime": 1778992790303,
+  "endTime": 1779003522682,
   "band_list": [
+    {
+      "raw_hot": 10481772,
+      "num": 10481772,
+      "word": "卢昱晓道歉",
+      "onboard_time": 1778995700,
+      "rank": 0,
+      "category": "电影"
+    },
     {
       "raw_hot": 3662548,
       "num": 3662548,
@@ -20,11 +28,19 @@
     },
     {
       "raw_hot": 2207968,
-      "num": 361693,
+      "num": 636991,
       "word": "疑似张元英抢金智媛C位",
       "onboard_time": 1778986219,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1809322,
+      "num": 1451565,
+      "word": "给阿嬷的情书 屏摄",
+      "onboard_time": 1778992641,
+      "rank": 32,
+      "category": "电影"
     },
     {
       "raw_hot": 1514593,
@@ -51,12 +67,36 @@
       "category": "数码"
     },
     {
+      "raw_hot": 1249595,
+      "num": 1249595,
+      "word": "承德车内强奸案被告母亲发声",
+      "onboard_time": 1779001220,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 962543,
+      "num": 405726,
+      "word": "郭富城陪方媛奔丧",
+      "onboard_time": 1778991622,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 811867,
       "num": 907403,
       "word": "香蜜最后一帧原来是家业",
       "onboard_time": 1778986399,
       "rank": 1,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 809111,
+      "num": 809111,
+      "word": "咬壳吃荔枝 不上火",
+      "onboard_time": 1778993240,
+      "rank": 5,
+      "category": "美食"
     },
     {
       "raw_hot": 798972,
@@ -67,12 +107,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 670352,
-      "num": 214666,
-      "word": "郭富城陪方媛奔丧",
-      "onboard_time": 1778991622,
-      "rank": 23,
-      "category": "艺人"
+      "raw_hot": 662445,
+      "num": 662445,
+      "word": "罕见病确诊 这才是互联网的意义",
+      "onboard_time": 1778997981,
+      "rank": 6,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 636982,
@@ -88,6 +128,22 @@
       "word": "丝芭给黄婷婷剧组发警告函",
       "onboard_time": 1778989520,
       "rank": 8,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 629302,
+      "num": 629302,
+      "word": "北电看到了杨幂的毕业论文",
+      "onboard_time": 1778998041,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 624627,
+      "num": 624627,
+      "word": "阚清子乍瘦",
+      "onboard_time": 1778998400,
+      "rank": 13,
       "category": "综艺"
     },
     {
@@ -155,12 +211,44 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 522604,
+      "num": 522604,
+      "word": "TF五代陈璟翊公开",
+      "onboard_time": 1779001101,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 520409,
+      "num": 654330,
+      "word": "猫的树我找到你的新女主了",
+      "onboard_time": 1778992100,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 480094,
+      "num": 480094,
+      "word": "Angelababy看到小朋友下意识护住",
+      "onboard_time": 1779000259,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 474561,
       "num": 200204,
       "word": "吴镇宇用嘴喂郝蕾吃药",
       "onboard_time": 1778931740,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 450722,
+      "num": 624702,
+      "word": "何超蕸追悼会",
+      "onboard_time": 1778999001,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 447173,
@@ -179,6 +267,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 404719,
+      "num": 404719,
+      "word": "甜馨晒自己化的新妆容",
+      "onboard_time": 1778994201,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 394905,
       "num": 394905,
       "word": "女孩盲道被撞摆拍细节露馅",
@@ -193,6 +289,14 @@
       "onboard_time": 1778981119,
       "rank": 7,
       "category": "数码"
+    },
+    {
+      "raw_hot": 393141,
+      "num": 393141,
+      "word": "王橹杰iPad上面视频是心理问题",
+      "onboard_time": 1778993301,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 392241,
@@ -225,6 +329,22 @@
       "onboard_time": 1778973437,
       "rank": 15,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 347355,
+      "num": 347355,
+      "word": "杨紫回复黄晓明",
+      "onboard_time": 1779002841,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 343122,
+      "num": 343122,
+      "word": "全智贤 千颂伊附体",
+      "onboard_time": 1778997800,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 331524,
@@ -291,12 +411,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 292471,
+      "num": 649055,
+      "word": "央视追踪四川大摆荡坠亡事件",
+      "onboard_time": 1778994441,
+      "rank": 8,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 289212,
+      "num": 289212,
+      "word": "方媛外公离世",
+      "onboard_time": 1778997140,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 287042,
       "num": 287042,
       "word": "樊振东单手接球观众直呼好帅",
       "onboard_time": 1778954537,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 283992,
+      "num": 493066,
+      "word": "霍启刚郭晶晶现身何超蕸追悼会",
+      "onboard_time": 1778997681,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 283112,
@@ -324,11 +468,19 @@
     },
     {
       "raw_hot": 254739,
-      "num": 254739,
+      "num": 344202,
       "word": "广东暴雨天蟑螂成群出动",
       "onboard_time": 1778989520,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 254645,
+      "num": 394449,
+      "word": "现在记住了你又不高兴",
+      "onboard_time": 1778999962,
+      "rank": 23,
+      "category": "幽默"
     },
     {
       "raw_hot": 252464,
@@ -347,6 +499,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 251702,
+      "num": 481562,
+      "word": "樊振东和勒布伦兄弟争冠",
+      "onboard_time": 1778999300,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 247349,
       "num": 247349,
       "word": "张凌赫被保镖架起感觉在空中飞行",
@@ -361,6 +521,14 @@
       "onboard_time": 1778988740,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 240787,
+      "num": 346654,
+      "word": "黄仁勋同款",
+      "onboard_time": 1779002000,
+      "rank": 26,
+      "category": "互联网"
     },
     {
       "raw_hot": 239022,
@@ -385,6 +553,14 @@
       "onboard_time": 1778974397,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 233842,
+      "num": 233842,
+      "word": "成毅直播",
+      "onboard_time": 1779001281,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 225769,
@@ -435,12 +611,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 208430,
+      "num": 208430,
+      "word": "张凌赫被这一秒过火英文名震惊",
+      "onboard_time": 1778996781,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 207771,
       "num": 207771,
       "word": "丈夫蒙面抢走儿子女子称可以不离婚",
       "onboard_time": 1778986819,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 198293,
+      "num": 233877,
+      "word": "樊振东被莫雷加德又搂又抱",
+      "onboard_time": 1778993001,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 198097,
+      "num": 418473,
+      "word": "陈泽综艺又没了",
+      "onboard_time": 1778994860,
+      "rank": 19,
+      "category": "电竞"
     },
     {
       "raw_hot": 197668,
@@ -467,20 +667,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 188181,
-      "num": 188181,
-      "word": "给阿嬷的情书 屏摄",
-      "onboard_time": 1778992641,
-      "rank": 32,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 186331,
-      "num": 216489,
-      "word": "猫的树我找到你的新女主了",
-      "onboard_time": 1778992100,
-      "rank": 19,
-      "category": "剧集"
+      "raw_hot": 185092,
+      "num": 344123,
+      "word": "女游客景区坠亡没有监控",
+      "onboard_time": 1779000921,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 184647,
@@ -489,6 +681,14 @@
       "onboard_time": 1778933781,
       "rank": 18,
       "category": "民生新闻,财经"
+    },
+    {
+      "raw_hot": 183549,
+      "num": 183549,
+      "word": "李小冉 谢娜管不了我",
+      "onboard_time": 1778999121,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 182311,
@@ -529,6 +729,14 @@
       "onboard_time": 1778984959,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 176762,
+      "num": 213302,
+      "word": "骗爸妈上班在楼顶的一天",
+      "onboard_time": 1779002960,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 174173,
@@ -611,6 +819,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 162666,
+      "num": 184930,
+      "word": "从英国寄来的猫听不懂中文",
+      "onboard_time": 1779002542,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 162302,
       "num": 166541,
       "word": "朱孝天曾说被F4踢出局是因为阿信",
@@ -643,6 +859,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 150969,
+      "num": 150969,
+      "word": "张凌赫 给纽约一些东方骨相的震撼",
+      "onboard_time": 1779000321,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 149427,
+      "num": 149427,
+      "word": "Angelababy千禧芭比",
+      "onboard_time": 1779002780,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 142445,
       "num": 142445,
       "word": "张凌赫纽约看秀直拍",
@@ -672,6 +904,14 @@
       "word": "迪丽热巴双剧入围电视金鹰奖",
       "onboard_time": 1778983940,
       "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 134606,
+      "num": 134606,
+      "word": "金鹰奖",
+      "onboard_time": 1779003441,
+      "rank": 49,
       "category": "剧集"
     },
     {
@@ -779,6 +1019,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 109921,
+      "num": 142323,
+      "word": "小米部分机型可换更大容量电池",
+      "onboard_time": 1779002780,
+      "rank": 47,
+      "category": "数码"
+    },
+    {
       "raw_hot": 106773,
       "num": 151282,
       "word": "算力版国家电网要来了",
@@ -809,6 +1057,14 @@
       "onboard_time": 1778955016,
       "rank": 15,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 99129,
+      "num": 346177,
+      "word": "委内瑞拉驱逐马杜罗亲信",
+      "onboard_time": 1778997681,
+      "rank": 27,
+      "category": "国际时政"
     },
     {
       "raw_hot": 98850,
@@ -867,12 +1123,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 89791,
+      "num": 210150,
+      "word": "五哈鹿晗奔向观众席又火速撤回",
+      "onboard_time": 1779002601,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 89675,
       "num": 89675,
       "word": "招聘时的尴尬被HR轻松接住了",
       "onboard_time": 1778954296,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 89398,
+      "num": 292729,
+      "word": "中国男子举报澳洲肉厂安全问题被辞",
+      "onboard_time": 1778995520,
+      "rank": 31,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 88262,
@@ -1195,6 +1467,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 28038,
+      "num": 1596753,
+      "word": "今天全国助残日",
+      "onboard_time": 1779002360,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 26165,
       "num": 30514,
       "word": "德比斯积分榜升至第三",
@@ -1216,6 +1496,14 @@
       "word": "以自强赴荣光",
       "onboard_time": 1778984839,
       "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 14547,
+      "num": 406036,
+      "word": "大摆荡项目运营方未进行安全培训",
+      "onboard_time": 1779002421,
+      "rank": 20,
       "category": "民生新闻"
     },
     {
@@ -1244,6 +1532,9 @@
     },
     {
       "word": "#习近平向第十届中俄博览会致贺信#"
+    },
+    {
+      "word": "#开创哲学社会科学高质量发展新局面#"
     }
   ]
 }
