@@ -1,6 +1,6 @@
 {
   "startTime": 1778951228781,
-  "endTime": 1779032298984,
+  "endTime": 1779037572764,
   "band_list": [
     {
       "raw_hot": 15077740,
@@ -27,6 +27,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 6308488,
+      "num": 6308488,
+      "word": "柳州地震",
+      "onboard_time": 1779009499,
+      "rank": 39,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 3662548,
       "num": 3662548,
       "word": "特朗普警告台独",
@@ -49,6 +57,14 @@
       "onboard_time": 1779028162,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 2289964,
+      "num": 2289964,
+      "word": "广西柳州5.2级左右地震",
+      "onboard_time": 1779035899,
+      "rank": 3,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 2207968,
@@ -329,6 +345,14 @@
       "onboard_time": 1778998400,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 667002,
+      "num": 667002,
+      "word": "仇人租到这种房我也释怀了",
+      "onboard_time": 1779032900,
+      "rank": 6,
+      "category": "幽默"
     },
     {
       "raw_hot": 662445,
@@ -747,6 +771,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 320518,
+      "num": 320518,
+      "word": "南宁震感",
+      "onboard_time": 1779037458,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 319768,
       "num": 619768,
       "word": "苹果华为小米大幅降价原因",
@@ -979,6 +1011,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 253289,
+      "num": 253289,
+      "word": "店员回应降价iPhone17被疯抢",
+      "onboard_time": 1779030144,
+      "rank": 46,
+      "category": "数码"
+    },
+    {
       "raw_hot": 252638,
       "num": 512243,
       "word": "樊振东和勒布伦兄弟争冠",
@@ -1099,14 +1139,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 223287,
-      "num": 223287,
-      "word": "店员回应降价iPhone17被疯抢",
-      "onboard_time": 1779030144,
-      "rank": 46,
-      "category": "数码"
-    },
-    {
       "raw_hot": 222625,
       "num": 343194,
       "word": "小孩和小狗一起玩耍的视频走红了",
@@ -1145,6 +1177,14 @@
       "onboard_time": 1778939482,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 214418,
+      "num": 214418,
+      "word": "穆祉丞戛纳人气",
+      "onboard_time": 1779034459,
+      "rank": 12,
+      "category": "电影"
     },
     {
       "raw_hot": 212343,
@@ -1563,14 +1603,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 149303,
-      "num": 223720,
-      "word": "柳州地震",
-      "onboard_time": 1779009499,
-      "rank": 39,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 142445,
       "num": 142445,
       "word": "张凌赫纽约看秀直拍",
@@ -1617,6 +1649,22 @@
       "onboard_time": 1779010461,
       "rank": 22,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 133760,
+      "num": 133760,
+      "word": "AG狼队挑杯决赛",
+      "onboard_time": 1779032599,
+      "rank": 25,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 133391,
+      "num": 133391,
+      "word": "广西皮卡坠河9人失联均为女性",
+      "onboard_time": 1779030502,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 129563,
@@ -1699,6 +1747,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 119191,
+      "num": 119191,
+      "word": "和平统一后台湾可获稳定廉价能源",
+      "onboard_time": 1779030502,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 117337,
       "num": 149482,
       "word": "一个很好的解压方法",
@@ -1737,6 +1793,14 @@
       "onboard_time": 1778936719,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 110264,
+      "num": 110264,
+      "word": "JDG挑杯三强",
+      "onboard_time": 1779036077,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 109924,
@@ -1817,6 +1881,22 @@
       "onboard_time": 1779017240,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 96440,
+      "num": 110250,
+      "word": "绿龙夺冠",
+      "onboard_time": 1779033440,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 94868,
+      "num": 110230,
+      "word": "给阿嬷的情书拍得女主直掉眼泪",
+      "onboard_time": 1779035899,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 94828,
@@ -1995,6 +2075,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 80184,
+      "num": 110206,
+      "word": "以为是被关心了其实是看错了",
+      "onboard_time": 1779037217,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 79342,
       "num": 149362,
       "word": "刘浩存忆秦娥长大转场",
@@ -2033,6 +2121,22 @@
       "onboard_time": 1778976678,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 72058,
+      "num": 110186,
+      "word": "肖战藏海传强势入围金鹰奖",
+      "onboard_time": 1779027861,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 70792,
+      "num": 110183,
+      "word": "张雪机车德比斯仅落后榜首19分",
+      "onboard_time": 1779030742,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 69635,
@@ -2113,6 +2217,22 @@
       "onboard_time": 1778923460,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 63014,
+      "num": 110149,
+      "word": "任何关系里都要遵守有客之道",
+      "onboard_time": 1779037278,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 58120,
+      "num": 110133,
+      "word": "无畏 钟馗",
+      "onboard_time": 1779022101,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 55696,
