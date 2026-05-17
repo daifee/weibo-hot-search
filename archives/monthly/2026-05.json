@@ -1,6 +1,6 @@
 {
   "startTime": 1777565126834,
-  "endTime": 1779004637188,
+  "endTime": 1779011705727,
   "band_list": [
     {
       "raw_hot": 25375641,
@@ -1097,6 +1097,14 @@
       "onboard_time": 1778226741,
       "rank": 28,
       "category": "数码"
+    },
+    {
+      "raw_hot": 2054531,
+      "num": 818602,
+      "word": "电脑微信会惩罚每一个恋旧的人",
+      "onboard_time": 1779005117,
+      "rank": 3,
+      "category": "情感"
     },
     {
       "raw_hot": 2054396,
@@ -2323,6 +2331,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1301941,
+      "num": 407916,
+      "word": "金宣虎高允真情侣手机壳",
+      "onboard_time": 1779007641,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1300414,
       "num": 2287625,
       "word": "马化腾回应AI掉队",
@@ -3001,6 +3017,14 @@
       "onboard_time": 1778556019,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1069871,
+      "num": 406314,
+      "word": "起个日本名一听就是天津人",
+      "onboard_time": 1779003742,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 1069047,
@@ -3955,6 +3979,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 880529,
+      "num": 404333,
+      "word": "姜乘澜 这化妆技术还说啥了",
+      "onboard_time": 1779003861,
+      "rank": 32,
+      "category": "网红,美妆"
+    },
+    {
       "raw_hot": 878149,
       "num": 518454,
       "word": "宋亚轩和张杰女儿撞小名",
@@ -4521,6 +4553,14 @@
       "onboard_time": 1778993240,
       "rank": 5,
       "category": "美食"
+    },
+    {
+      "raw_hot": 807236,
+      "num": 807236,
+      "word": "乔欣包场家业",
+      "onboard_time": 1779009740,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 805414,
@@ -5241,6 +5281,14 @@
       "onboard_time": 1777688300,
       "rank": 3,
       "category": "综艺,体育"
+    },
+    {
+      "raw_hot": 723371,
+      "num": 402190,
+      "word": "窦靖童没到30岁应让母亲陪同参赛",
+      "onboard_time": 1779004880,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 721944,
@@ -6681,6 +6729,14 @@
       "onboard_time": 1777909581,
       "rank": 14,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 609981,
+      "num": 388830,
+      "word": "杨超越摆拍800张选9张",
+      "onboard_time": 1779010521,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 608532,
@@ -8171,6 +8227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 515097,
+      "num": 1081151,
+      "word": "女游客景区坠亡没有监控",
+      "onboard_time": 1779000921,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 515068,
       "num": 515068,
       "word": "别把男友的隐性贬低当成爱",
@@ -8865,6 +8929,14 @@
       "onboard_time": 1777564941,
       "rank": 9,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 480882,
+      "num": 480882,
+      "word": "麦辣鸡腿堡 拉肚子",
+      "onboard_time": 1779005420,
+      "rank": 7,
+      "category": "美食"
     },
     {
       "raw_hot": 480195,
@@ -10241,14 +10313,6 @@
       "onboard_time": 1778413580,
       "rank": 20,
       "category": "体育"
-    },
-    {
-      "raw_hot": 412060,
-      "num": 321724,
-      "word": "起个日本名一听就是天津人",
-      "onboard_time": 1779003742,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 411952,
@@ -13491,6 +13555,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 308498,
+      "num": 449368,
+      "word": "骗爸妈上班在楼顶的一天",
+      "onboard_time": 1779002960,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 308412,
       "num": 180037,
       "word": "张凌赫随时带着自己的阿贝贝",
@@ -14075,6 +14147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 292817,
+      "num": 408591,
+      "word": "成年的大熊猫在野外几乎没有天敌",
+      "onboard_time": 1779010521,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 292471,
       "num": 649055,
       "word": "央视追踪四川大摆荡坠亡事件",
@@ -14545,14 +14625,6 @@
       "onboard_time": 1778820502,
       "rank": 7,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 281980,
-      "num": 449368,
-      "word": "骗爸妈上班在楼顶的一天",
-      "onboard_time": 1779002960,
-      "rank": 37,
-      "category": "幽默"
     },
     {
       "raw_hot": 281924,
@@ -15147,6 +15219,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 267461,
+      "num": 267461,
+      "word": "林心如曾劝霍建华做医美被拒",
+      "onboard_time": 1779010038,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 267211,
       "num": 267211,
       "word": "林诗栋vs卢伟",
@@ -15681,14 +15761,6 @@
       "onboard_time": 1778255540,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 255714,
-      "num": 517916,
-      "word": "女游客景区坠亡没有监控",
-      "onboard_time": 1779000921,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 255676,
@@ -17451,6 +17523,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 227024,
+      "num": 227024,
+      "word": "网传杨紫回归中餐厅录制",
+      "onboard_time": 1779010880,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 226752,
       "num": 226752,
       "word": "女子吃榴莲后喝白酒呼吸衰竭",
@@ -17667,14 +17747,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 223526,
-      "num": 223526,
-      "word": "姜乘澜 这化妆技术还说啥了",
-      "onboard_time": 1779003861,
-      "rank": 32,
-      "category": "网红,美妆"
-    },
-    {
       "raw_hot": 223354,
       "num": 245011,
       "word": "韩国股市收盘前厕所挤爆了",
@@ -17817,6 +17889,14 @@
       "onboard_time": 1777950141,
       "rank": 9,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 220333,
+      "num": 393102,
+      "word": "孕妇大出血准妈妈让出救命手术台",
+      "onboard_time": 1779010579,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 220263,
@@ -18001,6 +18081,14 @@
       "onboard_time": 1777556242,
       "rank": 19,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 217995,
+      "num": 396998,
+      "word": "小米部分机型可换更大容量电池",
+      "onboard_time": 1779002780,
+      "rank": 47,
+      "category": "数码"
     },
     {
       "raw_hot": 217891,
@@ -18723,12 +18811,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 208351,
+      "num": 208351,
+      "word": "给阿嬷的情书 删减片段",
+      "onboard_time": 1779004701,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
       "raw_hot": 208303,
       "num": 208303,
       "word": "男生偷拍女同学私密视频后校内传播",
       "onboard_time": 1778826682,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 208286,
+      "num": 400633,
+      "word": "中美阿三国联合打击电诈",
+      "onboard_time": 1779009499,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 208275,
@@ -19465,6 +19569,14 @@
       "onboard_time": 1777687700,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 198562,
+      "num": 198562,
+      "word": "歌手月度赛制",
+      "onboard_time": 1779008301,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 198553,
@@ -20379,6 +20491,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 185755,
+      "num": 223951,
+      "word": "中国有多少城市能撑起来七日游",
+      "onboard_time": 1779011060,
+      "rank": 38,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 185575,
       "num": 226516,
       "word": "突然就没有年龄焦虑了",
@@ -20401,6 +20521,14 @@
       "onboard_time": 1777887681,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 184807,
+      "num": 273214,
+      "word": "七旬老人买菜路上被拉去纹眉割眼袋",
+      "onboard_time": 1779005781,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 184806,
@@ -22691,6 +22819,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 159669,
+      "num": 390674,
+      "word": "阿隆索出任切尔西主帅",
+      "onboard_time": 1779009440,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 159443,
       "num": 281127,
       "word": "浙江宣传谈OPPO争议文案",
@@ -23617,6 +23753,14 @@
       "onboard_time": 1778135241,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 149303,
+      "num": 223720,
+      "word": "柳州地震",
+      "onboard_time": 1779009499,
+      "rank": 39,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 149261,
@@ -24755,6 +24899,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 134426,
+      "num": 387053,
+      "word": "20万出头就能买四驱空悬中大型SUV",
+      "onboard_time": 1779010461,
+      "rank": 22,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 134425,
       "num": 282098,
       "word": "敦煌鸣沙山爆满游客发声",
@@ -24769,14 +24921,6 @@
       "onboard_time": 1778033060,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 134291,
-      "num": 154072,
-      "word": "小米部分机型可换更大容量电池",
-      "onboard_time": 1779002780,
-      "rank": 47,
-      "category": "数码"
     },
     {
       "raw_hot": 134264,
@@ -26995,6 +27139,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 105405,
+      "num": 199150,
+      "word": "苹果华为小米大幅降价原因",
+      "onboard_time": 1779010579,
+      "rank": 45,
+      "category": "数码"
+    },
+    {
       "raw_hot": 105183,
       "num": 133821,
       "word": "杭州一街道被多品牌拉黑",
@@ -28553,6 +28705,14 @@
       "onboard_time": 1778605877,
       "rank": 25,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 79009,
+      "num": 214284,
+      "word": "给阿嬷的情书男主回应走红",
+      "onboard_time": 1779011480,
+      "rank": 41,
+      "category": "电影"
     },
     {
       "raw_hot": 78908,
@@ -30987,6 +31147,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 41665,
+      "num": 300670,
+      "word": "商家用大小字误导性宣传被判退款",
+      "onboard_time": 1779010400,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 41445,
       "num": 94290,
       "word": "孙颖莎铁血一单",
@@ -31305,6 +31473,14 @@
       "onboard_time": 1778126423,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 37198,
+      "num": 385358,
+      "word": "直击Gucci大秀现场",
+      "onboard_time": 1779008722,
+      "rank": 23,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 37031,
@@ -33456,6 +33632,14 @@
       "word": "三亚皮皮虾事件今日将发布调查报告",
       "onboard_time": 1778320882,
       "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 13159,
+      "num": 297746,
+      "word": "女子用爬楼机摔倒身亡事发地无监控",
+      "onboard_time": 1779011599,
+      "rank": 32,
       "category": "民生新闻"
     },
     {
