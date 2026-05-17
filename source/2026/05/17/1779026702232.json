@@ -1,0 +1,410 @@
+{
+  "runTime": 1779026702232,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4674659,
+        "num": 4674659,
+        "word": "樊振东0比3大勒布伦",
+        "onboard_time": 1779023840,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1995783,
+        "num": 1995783,
+        "word": "家业收视率",
+        "onboard_time": 1779020780,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 19881,
+        "num": 1805217,
+        "word": "以德润网",
+        "onboard_time": 1779018919,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1758618,
+        "num": 1758618,
+        "word": "张雪机车夺得5冠",
+        "onboard_time": 1779021442,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1453907,
+        "num": 1453907,
+        "word": "樊振东vs大勒布伦",
+        "onboard_time": 1779019820,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1080389,
+        "num": 1080389,
+        "word": "樊振东vs小勒布伦",
+        "onboard_time": 1779025762,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 870046,
+        "num": 870046,
+        "word": "欧冠决赛",
+        "onboard_time": 1779025283,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 853139,
+        "num": 853139,
+        "word": "刘浩存穿十厘米高跟鞋定点转圈",
+        "onboard_time": 1779024801,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 819856,
+        "num": 819856,
+        "word": "电脑微信会惩罚每一个恋旧的人",
+        "onboard_time": 1779005117,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 530479,
+        "num": 530479,
+        "word": "杨紫曾被自己的脖子吓到",
+        "onboard_time": 1779023781,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 67941,
+        "num": 522353,
+        "word": "张雪机车回应收获第五冠",
+        "onboard_time": 1779025882,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1799838,
+        "num": 521613,
+        "word": "谢娜晒和李小冉聊天记录",
+        "onboard_time": 1779024201,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1089857,
+        "num": 521125,
+        "word": "张真源头像",
+        "onboard_time": 1779016460,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 518877,
+        "num": 518877,
+        "word": "欧冠",
+        "onboard_time": 1779023481,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1079486,
+        "num": 505485,
+        "word": "李一桐评论去世粉丝博文",
+        "onboard_time": 1779018559,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 972583,
+        "num": 496294,
+        "word": "金珉奎 夜店",
+        "onboard_time": 1779016760,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 460429,
+        "num": 460429,
+        "word": "八旬老人公交上闭眼休息实则已死亡",
+        "onboard_time": 1779020841,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 790713,
+        "num": 460377,
+        "word": "小S发文晒全家福",
+        "onboard_time": 1779018440,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 319768,
+        "num": 319768,
+        "word": "苹果华为小米大幅降价原因",
+        "onboard_time": 1779010579,
+        "rank": 18,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 251972,
+        "num": 251972,
+        "word": "马尔代夫发生史上最严重单次潜水事故",
+        "onboard_time": 1779021920,
+        "rank": 19,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 607363,
+        "num": 251058,
+        "word": "杨超越摆拍800张选9张",
+        "onboard_time": 1779010521,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 392288,
+        "num": 250536,
+        "word": "家业热度",
+        "onboard_time": 1779020961,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 371220,
+        "num": 248287,
+        "word": "起个日本名一听就是天津人",
+        "onboard_time": 1779003742,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 346633,
+        "num": 247573,
+        "word": "杨紫家业央8首播收视率",
+        "onboard_time": 1779024621,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103638,
+        "num": 245852,
+        "word": "关键局还得看清融",
+        "onboard_time": 1779026482,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 859,
+        "num": 245111,
+        "word": "樊振东热身现场响起真的爱你",
+        "onboard_time": 1779026482,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 244258,
+        "num": 244258,
+        "word": "孕妇大出血准妈妈让出救命手术台",
+        "onboard_time": 1779010579,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 197247,
+        "num": 244207,
+        "word": "王晓东被查",
+        "onboard_time": 1779011961,
+        "rank": 27,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 357854,
+        "num": 243605,
+        "word": "狼队对战JDG",
+        "onboard_time": 1779020540,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 1123,
+        "num": 242765,
+        "word": "莫雷加德称很开心与樊振东做队友",
+        "onboard_time": 1779026482,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 347099,
+        "num": 242394,
+        "word": "张真源严浩翔初现印象排名",
+        "onboard_time": 1779014600,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21864,
+        "num": 241847,
+        "word": "樊振东率队冲冠",
+        "onboard_time": 1779026482,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 314174,
+        "num": 241112,
+        "word": "给阿嬷的情书",
+        "onboard_time": 1779007341,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 148970,
+        "num": 240756,
+        "word": "长鑫科技一季度营收同比增长719.13%",
+        "onboard_time": 1779022042,
+        "rank": 33,
+        "category": "财经,互联网"
+      },
+      {
+        "raw_hot": 117786,
+        "num": 239963,
+        "word": "下身瘫痪女子育女后丈夫消失7年",
+        "onboard_time": 1779026542,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 323978,
+        "num": 239371,
+        "word": "姜乘澜 这化妆技术还说啥了",
+        "onboard_time": 1779003861,
+        "rank": 35,
+        "category": "网红,美妆"
+      },
+      {
+        "raw_hot": 291755,
+        "num": 238812,
+        "word": "白鹿李昀锐是李晨让牵的",
+        "onboard_time": 1779016220,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 33221,
+        "num": 238495,
+        "word": "信挑杯三连MVP",
+        "onboard_time": 1779026482,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 274137,
+        "num": 238023,
+        "word": "张雪机车昙花五现了",
+        "onboard_time": 1779023421,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 13419,
+        "num": 237318,
+        "word": "吴敬平谈樊振东留洋",
+        "onboard_time": 1779026482,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 268609,
+        "num": 236718,
+        "word": "中国有多少城市能撑起来七日游",
+        "onboard_time": 1779011060,
+        "rank": 40,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 32640,
+        "num": 236166,
+        "word": "丈夫买房后去世物业拒给家属钥匙",
+        "onboard_time": 1779026663,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20957,
+        "num": 235425,
+        "word": "广西皮卡坠河相关责任人被控制",
+        "onboard_time": 1779026663,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 267126,
+        "num": 235041,
+        "word": "主角",
+        "onboard_time": 1779019820,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 95951,
+        "num": 234578,
+        "word": "男子手机号被豆包乱标成卖猪电话",
+        "onboard_time": 1779018260,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 78017,
+        "num": 234147,
+        "word": "中美阿三国联合打击电诈",
+        "onboard_time": 1779009499,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 59832,
+        "num": 233136,
+        "word": "20万出头就能买四驱空悬中大型SUV",
+        "onboard_time": 1779010461,
+        "rank": 46,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 233114,
+        "num": 233114,
+        "word": "家业",
+        "onboard_time": 1779017960,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 218915,
+        "num": 218915,
+        "word": "樊振东欧冠决赛对阵",
+        "onboard_time": 1779019281,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 166539,
+        "num": 217433,
+        "word": "成年的大熊猫在野外几乎没有天敌",
+        "onboard_time": 1779010521,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#盘点中美元首会谈的重要信号#"
+    }
+  }
+}
