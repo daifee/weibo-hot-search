@@ -1,6 +1,6 @@
 {
   "startTime": 1778951228781,
-  "endTime": 1779012540465,
+  "endTime": 1779016586579,
   "band_list": [
     {
       "raw_hot": 10481772,
@@ -51,6 +51,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1720518,
+      "num": 388830,
+      "word": "杨超越摆拍800张选9张",
+      "onboard_time": 1779010521,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1514593,
       "num": 252121,
       "word": "13岁女生被闺蜜胁迫卖淫",
@@ -91,12 +99,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1152868,
-      "num": 388830,
-      "word": "杨超越摆拍800张选9张",
-      "onboard_time": 1779010521,
-      "rank": 21,
-      "category": "艺人"
+      "raw_hot": 1135126,
+      "num": 440835,
+      "word": "中国有多少城市能撑起来七日游",
+      "onboard_time": 1779011060,
+      "rank": 38,
+      "category": "旅游"
     },
     {
       "raw_hot": 1069871,
@@ -105,6 +113,14 @@
       "onboard_time": 1779003742,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1013879,
+      "num": 286864,
+      "word": "张真源严浩翔初现印象排名",
+      "onboard_time": 1779014600,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 995376,
@@ -121,6 +137,14 @@
       "onboard_time": 1779003861,
       "rank": 32,
       "category": "网红,美妆"
+    },
+    {
+      "raw_hot": 899257,
+      "num": 1047736,
+      "word": "王晓东被查",
+      "onboard_time": 1779011961,
+      "rank": 1,
+      "category": "国内时政"
     },
     {
       "raw_hot": 811867,
@@ -185,14 +209,6 @@
       "onboard_time": 1778997981,
       "rank": 6,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 657462,
-      "num": 1047736,
-      "word": "王晓东被查",
-      "onboard_time": 1779011961,
-      "rank": 1,
-      "category": "国内时政"
     },
     {
       "raw_hot": 636982,
@@ -267,6 +283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 581336,
+      "num": 271876,
+      "word": "杨紫否认中餐厅录制",
+      "onboard_time": 1779014119,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 565623,
       "num": 335776,
       "word": "狗狗啃了半年的抽屉还挺有设计感",
@@ -299,6 +323,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 527874,
+      "num": 527874,
+      "word": "孕妇大出血准妈妈让出救命手术台",
+      "onboard_time": 1779010579,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 525068,
+      "num": 507358,
+      "word": "成年的大熊猫在野外几乎没有天敌",
+      "onboard_time": 1779010521,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 520409,
       "num": 654330,
       "word": "猫的树我找到你的新女主了",
@@ -312,14 +352,6 @@
       "word": "女游客景区坠亡没有监控",
       "onboard_time": 1779000921,
       "rank": 29,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 507358,
-      "num": 507358,
-      "word": "成年的大熊猫在野外几乎没有天敌",
-      "onboard_time": 1779010521,
-      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -353,6 +385,14 @@
       "onboard_time": 1778999001,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 462940,
+      "num": 267432,
+      "word": "张真源头像",
+      "onboard_time": 1779016460,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 447737,
@@ -459,6 +499,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 340164,
+      "num": 265634,
+      "word": "孟子义探班王楚然",
+      "onboard_time": 1779014659,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 331524,
       "num": 331524,
       "word": "陈伟霆钟楚曦 荔湾广场",
@@ -492,7 +540,7 @@
     },
     {
       "raw_hot": 307548,
-      "num": 400633,
+      "num": 524234,
       "word": "中美阿三国联合打击电诈",
       "onboard_time": 1779009499,
       "rank": 14,
@@ -563,14 +611,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 285074,
-      "num": 393102,
-      "word": "孕妇大出血准妈妈让出救命手术台",
-      "onboard_time": 1779010579,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 283992,
       "num": 493066,
       "word": "霍启刚郭晶晶现身何超蕸追悼会",
@@ -585,6 +625,14 @@
       "onboard_time": 1778939541,
       "rank": 15,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 280605,
+      "num": 246382,
+      "word": "田栩宁戛纳红毯首秀",
+      "onboard_time": 1779014059,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 274468,
@@ -659,14 +707,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 240467,
-      "num": 278505,
-      "word": "中国有多少城市能撑起来七日游",
-      "onboard_time": 1779011060,
-      "rank": 38,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 239022,
       "num": 239022,
       "word": "Gucci大秀",
@@ -691,6 +731,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 232895,
+      "num": 232895,
+      "word": "白鹿李昀锐是李晨让牵的",
+      "onboard_time": 1779016220,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 227024,
       "num": 227024,
       "word": "网传杨紫回归中餐厅录制",
@@ -713,6 +761,14 @@
       "onboard_time": 1778975058,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 222625,
+      "num": 241132,
+      "word": "小孩和小狗一起玩耍的视频走红了",
+      "onboard_time": 1779010761,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 221534,
@@ -833,6 +889,14 @@
       "onboard_time": 1778948241,
       "rank": 19,
       "category": "演出"
+    },
+    {
+      "raw_hot": 187167,
+      "num": 276504,
+      "word": "仙逆",
+      "onboard_time": 1779014600,
+      "rank": 17,
+      "category": "动漫"
     },
     {
       "raw_hot": 186209,
@@ -1011,6 +1075,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 159921,
+      "num": 274524,
+      "word": "苹果华为小米大幅降价原因",
+      "onboard_time": 1779010579,
+      "rank": 45,
+      "category": "数码"
+    },
+    {
       "raw_hot": 159669,
       "num": 390674,
       "word": "阿隆索出任切尔西主帅",
@@ -1041,6 +1113,14 @@
       "onboard_time": 1778926158,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 151293,
+      "num": 151293,
+      "word": "林晓送成毅的花",
+      "onboard_time": 1779016160,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 150969,
@@ -1075,6 +1155,22 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 148670,
+      "num": 234101,
+      "word": "女子大闹办证大厅迁出丈夫偷渡大案",
+      "onboard_time": 1779015621,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 146749,
+      "num": 146749,
+      "word": "反问别人真是太好用了",
+      "onboard_time": 1779015919,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 142445,
       "num": 142445,
       "word": "张凌赫纽约看秀直拍",
@@ -1105,6 +1201,14 @@
       "onboard_time": 1778983940,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 135481,
+      "num": 149068,
+      "word": "歼10CE军演中9比0完胜台风战机",
+      "onboard_time": 1779013460,
+      "rank": 46,
+      "category": "军事"
     },
     {
       "raw_hot": 134426,
@@ -1219,14 +1323,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 114082,
-      "num": 199150,
-      "word": "苹果华为小米大幅降价原因",
-      "onboard_time": 1779010579,
-      "rank": 45,
-      "category": "数码"
-    },
-    {
       "raw_hot": 113419,
       "num": 151516,
       "word": "留学生跨国迷奸案",
@@ -1257,6 +1353,14 @@
       "onboard_time": 1778945661,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 106046,
+      "num": 146985,
+      "word": "AI已经预测了世界杯",
+      "onboard_time": 1779016279,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 104662,
@@ -1491,6 +1595,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 74640,
+      "num": 256475,
+      "word": "蒙娜丽莎股价6连板",
+      "onboard_time": 1779013399,
+      "rank": 28,
+      "category": "财经"
+    },
+    {
       "raw_hot": 73550,
       "num": 73550,
       "word": "陈浚铭生周",
@@ -1579,6 +1691,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 53368,
+      "num": 150590,
+      "word": "伊朗一电视台直播教用AK47",
+      "onboard_time": 1779012741,
+      "rank": 45,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 52262,
       "num": 52262,
       "word": "韩红基金会明星捐款名单",
@@ -1625,6 +1745,14 @@
       "onboard_time": 1778960834,
       "rank": 30,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 44627,
+      "num": 167217,
+      "word": "刘浩存临场斗舞跳嗨了",
+      "onboard_time": 1779015860,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 41665,
@@ -1736,6 +1864,14 @@
       "word": "一诺第十三次进决赛",
       "onboard_time": 1778959815,
       "rank": 46,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 22544,
+      "num": 185778,
+      "word": "曝亚运会Viper和Gumayusi二选一",
+      "onboard_time": 1779015680,
+      "rank": 39,
       "category": "电竞"
     },
     {

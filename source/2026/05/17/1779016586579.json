@@ -1,0 +1,410 @@
+{
+  "runTime": 1779016586579,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2035238,
+        "num": 2035238,
+        "word": "卢昱晓道歉",
+        "onboard_time": 1778995700,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 899257,
+        "num": 949826,
+        "word": "王晓东被查",
+        "onboard_time": 1779011961,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 6750,
+        "num": 772696,
+        "word": "今天全国助残日",
+        "onboard_time": 1779002360,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 527874,
+        "num": 527874,
+        "word": "孕妇大出血准妈妈让出救命手术台",
+        "onboard_time": 1779010579,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 306648,
+        "num": 524234,
+        "word": "中美阿三国联合打击电诈",
+        "onboard_time": 1779009499,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1649750,
+        "num": 484494,
+        "word": "电脑微信会惩罚每一个恋旧的人",
+        "onboard_time": 1779005117,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1135126,
+        "num": 440835,
+        "word": "中国有多少城市能撑起来七日游",
+        "onboard_time": 1779011060,
+        "rank": 6,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 594719,
+        "num": 418617,
+        "word": "给阿嬷的情书 屏摄",
+        "onboard_time": 1778992641,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 397636,
+        "num": 397636,
+        "word": "罕见病确诊 这才是互联网的意义",
+        "onboard_time": 1778997981,
+        "rank": 8,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 291719,
+        "num": 291719,
+        "word": "给阿嬷的情书",
+        "onboard_time": 1779007341,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1720518,
+        "num": 290311,
+        "word": "杨超越摆拍800张选9张",
+        "onboard_time": 1779010521,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 934781,
+        "num": 288869,
+        "word": "起个日本名一听就是天津人",
+        "onboard_time": 1779003742,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1013879,
+        "num": 286864,
+        "word": "张真源严浩翔初现印象排名",
+        "onboard_time": 1779014600,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 866505,
+        "num": 285812,
+        "word": "金宣虎高允真情侣手机壳",
+        "onboard_time": 1779007641,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 525068,
+        "num": 283715,
+        "word": "成年的大熊猫在野外几乎没有天敌",
+        "onboard_time": 1779010521,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 770303,
+        "num": 281859,
+        "word": "乔欣包场家业",
+        "onboard_time": 1779009740,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 722848,
+        "num": 278385,
+        "word": "姜乘澜 这化妆技术还说啥了",
+        "onboard_time": 1779003861,
+        "rank": 16,
+        "category": "网红,美妆"
+      },
+      {
+        "raw_hot": 187167,
+        "num": 276504,
+        "word": "仙逆",
+        "onboard_time": 1779014600,
+        "rank": 17,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 159921,
+        "num": 274524,
+        "word": "苹果华为小米大幅降价原因",
+        "onboard_time": 1779010579,
+        "rank": 18,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 263097,
+        "num": 274118,
+        "word": "女游客景区坠亡没有监控",
+        "onboard_time": 1779000921,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 581336,
+        "num": 271876,
+        "word": "杨紫否认中餐厅录制",
+        "onboard_time": 1779014119,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 506842,
+        "num": 268724,
+        "word": "郭富城陪方媛奔丧",
+        "onboard_time": 1778991622,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 268290,
+        "num": 268290,
+        "word": "骗爸妈上班在楼顶的一天",
+        "onboard_time": 1779002960,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 462940,
+        "num": 267432,
+        "word": "张真源头像",
+        "onboard_time": 1779016460,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 415553,
+        "num": 266984,
+        "word": "阚清子乍瘦",
+        "onboard_time": 1778998400,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 265638,
+        "num": 265638,
+        "word": "麦辣鸡腿堡 拉肚子",
+        "onboard_time": 1779005420,
+        "rank": 25,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 340164,
+        "num": 265634,
+        "word": "孟子义探班王楚然",
+        "onboard_time": 1779014659,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 327231,
+        "num": 259385,
+        "word": "窦靖童没到30岁应让母亲陪同参赛",
+        "onboard_time": 1779004880,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 74640,
+        "num": 256475,
+        "word": "蒙娜丽莎股价6连板",
+        "onboard_time": 1779013399,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 151891,
+        "num": 253870,
+        "word": "樊振东和勒布伦兄弟争冠",
+        "onboard_time": 1778999300,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 280631,
+        "num": 249607,
+        "word": "林心如曾劝霍建华做医美被拒",
+        "onboard_time": 1779010038,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 280605,
+        "num": 246382,
+        "word": "田栩宁戛纳红毯首秀",
+        "onboard_time": 1779014059,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 222625,
+        "num": 241132,
+        "word": "小孩和小狗一起玩耍的视频走红了",
+        "onboard_time": 1779010761,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 239539,
+        "num": 239539,
+        "word": "北电看到了杨幂的毕业论文",
+        "onboard_time": 1778998041,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148670,
+        "num": 234101,
+        "word": "女子大闹办证大厅迁出丈夫偷渡大案",
+        "onboard_time": 1779015621,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138587,
+        "num": 233029,
+        "word": "特朗普警告台独",
+        "onboard_time": 1778940321,
+        "rank": 35,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 232895,
+        "num": 232895,
+        "word": "白鹿李昀锐是李晨让牵的",
+        "onboard_time": 1779016220,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200622,
+        "num": 200622,
+        "word": "咬壳吃荔枝 不上火",
+        "onboard_time": 1778993240,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 197824,
+        "num": 197824,
+        "word": "杨紫回复黄晓明",
+        "onboard_time": 1779002841,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22544,
+        "num": 185778,
+        "word": "曝亚运会Viper和Gumayusi二选一",
+        "onboard_time": 1779015680,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 177326,
+        "num": 177326,
+        "word": "TF五代陈璟翊公开",
+        "onboard_time": 1779001101,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 44627,
+        "num": 167217,
+        "word": "刘浩存临场斗舞跳嗨了",
+        "onboard_time": 1779015860,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150070,
+        "num": 164071,
+        "word": "小米部分机型可换更大容量电池",
+        "onboard_time": 1779002780,
+        "rank": 42,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 162558,
+        "num": 162558,
+        "word": "李小冉 谢娜管不了我",
+        "onboard_time": 1778999121,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151293,
+        "num": 151293,
+        "word": "林晓送成毅的花",
+        "onboard_time": 1779016160,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 53368,
+        "num": 150590,
+        "word": "伊朗一电视台直播教用AK47",
+        "onboard_time": 1779012741,
+        "rank": 45,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 135481,
+        "num": 149068,
+        "word": "歼10CE军演中9比0完胜台风战机",
+        "onboard_time": 1779013460,
+        "rank": 46,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 64844,
+        "num": 148396,
+        "word": "昊铂S600满配预售权益价18.89万起",
+        "onboard_time": 1779011961,
+        "rank": 47,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 106046,
+        "num": 146985,
+        "word": "AI已经预测了世界杯",
+        "onboard_time": 1779016279,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 146749,
+        "num": 146749,
+        "word": "反问别人真是太好用了",
+        "onboard_time": 1779015919,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#中俄战略协作伙伴关系建立30周年#"
+    }
+  }
+}
