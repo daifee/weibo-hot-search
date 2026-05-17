@@ -1,6 +1,6 @@
 {
   "startTime": 1778951228781,
-  "endTime": 1779056109659,
+  "endTime": 1779060604170,
   "band_list": [
     {
       "raw_hot": 15077740,
@@ -32,6 +32,14 @@
       "word": "柳州地震",
       "onboard_time": 1779009499,
       "rank": 39,
+      "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 4234262,
+      "num": 4234262,
+      "word": "广西柳州地震已致3人失联",
+      "onboard_time": 1779056775,
+      "rank": 0,
       "category": "突发/灾害"
     },
     {
@@ -491,6 +499,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 535712,
+      "num": 535712,
+      "word": "广西柳州5.2级地震",
+      "onboard_time": 1779035899,
+      "rank": 4,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 530479,
       "num": 530479,
       "word": "杨紫曾被自己的脖子吓到",
@@ -508,7 +524,7 @@
     },
     {
       "raw_hot": 529545,
-      "num": 321280,
+      "num": 333956,
       "word": "曝最终版白玉兰男主提名",
       "onboard_time": 1779028702,
       "rank": 25,
@@ -1283,6 +1299,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 199932,
+      "num": 122388,
+      "word": "柳州地震转移群众7000余人",
+      "onboard_time": 1779059718,
+      "rank": 11,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 198562,
       "num": 198562,
       "word": "歌手月度赛制",
@@ -1571,6 +1595,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 152735,
+      "num": 121645,
+      "word": "和平统一后台湾可获稳定廉价能源",
+      "onboard_time": 1779030502,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 152699,
       "num": 169031,
       "word": "良陈美锦",
@@ -1707,6 +1739,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 127697,
+      "num": 121080,
+      "word": "谁懂姜乘澜这个丸子头教程",
+      "onboard_time": 1779060318,
+      "rank": 15,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 124845,
+      "num": 116759,
+      "word": "莫雷加德安慰樊振东",
+      "onboard_time": 1779060378,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 124165,
       "num": 152298,
       "word": "韩红基金会去年收入7.8亿支出2.9亿",
@@ -1721,6 +1769,14 @@
       "onboard_time": 1779011480,
       "rank": 41,
       "category": "电影"
+    },
+    {
+      "raw_hot": 123173,
+      "num": 115658,
+      "word": "周雨谈樊振东输球",
+      "onboard_time": 1779060378,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 122703,
@@ -1763,14 +1819,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 119191,
-      "num": 119191,
-      "word": "和平统一后台湾可获稳定廉价能源",
-      "onboard_time": 1779030502,
-      "rank": 30,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 117337,
       "num": 149482,
       "word": "一个很好的解压方法",
@@ -1801,6 +1849,14 @@
       "onboard_time": 1778935402,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 113003,
+      "num": 113003,
+      "word": "柳州地震现场情况",
+      "onboard_time": 1779060197,
+      "rank": 24,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 110651,
@@ -1865,6 +1921,14 @@
       "onboard_time": 1778955016,
       "rank": 15,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 102675,
+      "num": 110186,
+      "word": "肖战藏海传强势入围金鹰奖",
+      "onboard_time": 1779027861,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 101513,
@@ -2043,6 +2107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 83857,
+      "num": 83857,
+      "word": "21世纪大君夫人李莞和哥哥嫂嫂故事线",
+      "onboard_time": 1779060318,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 83577,
       "num": 83577,
       "word": "耳帝分析歌手2026阵容实力",
@@ -2099,12 +2171,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 79131,
+      "num": 79131,
+      "word": "阚清子想要阚清子得到",
+      "onboard_time": 1779021442,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 78873,
+      "num": 78873,
+      "word": "2026高考",
+      "onboard_time": 1779059540,
+      "rank": 35,
+      "category": "教育"
+    },
+    {
       "raw_hot": 78329,
       "num": 782743,
       "word": "中国式支付圈粉全球",
       "onboard_time": 1778934861,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 77600,
+      "num": 77600,
+      "word": "对柳州地震启动三级应急服务响应",
+      "onboard_time": 1779060439,
+      "rank": 36,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 75981,
@@ -2129,14 +2225,6 @@
       "onboard_time": 1778976678,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 72058,
-      "num": 110186,
-      "word": "肖战藏海传强势入围金鹰奖",
-      "onboard_time": 1779027861,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 70792,
@@ -2235,12 +2323,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 61044,
+      "num": 59417,
+      "word": "多位明星包场给阿嬷的情书",
+      "onboard_time": 1779058759,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 58120,
       "num": 110133,
       "word": "无畏 钟馗",
       "onboard_time": 1779022101,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 56997,
+      "num": 56997,
+      "word": "成毅两京十五日生贺图",
+      "onboard_time": 1779044953,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 55696,
@@ -2307,6 +2411,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 48292,
+      "num": 56969,
+      "word": "算力价格",
+      "onboard_time": 1779059837,
+      "rank": 48,
+      "category": "财经,互联网"
+    },
+    {
       "raw_hot": 47726,
       "num": 187562,
       "word": "中国刻蚀机之父从0干出2000亿市值",
@@ -2361,14 +2473,6 @@
       "onboard_time": 1779029123,
       "rank": 20,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 39250,
-      "num": 39250,
-      "word": "成毅两京十五日生贺图",
-      "onboard_time": 1779044953,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 38817,
@@ -2603,6 +2707,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 17447,
+      "num": 88444,
+      "word": "在泰华人目击火车撞公交致8死32伤",
+      "onboard_time": 1779058817,
+      "rank": 29,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 16456,
       "num": 192669,
       "word": "北京细水长流下成暴雨",
@@ -2633,6 +2745,14 @@
       "onboard_time": 1779002421,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 13782,
+      "num": 119540,
+      "word": "AI预测世界杯西班牙夺冠",
+      "onboard_time": 1779058817,
+      "rank": 19,
+      "category": "互联网"
     },
     {
       "raw_hot": 13419,

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/05/18 06:15:09
+本榜单时间：2026/01/01 00:35:36 ~ 2026/05/18 07:30:04
 </p>
 </blockquote>
 <p>
@@ -987,6 +987,12 @@ JYP从JYP辞职了（热度：4682490）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E8%A5%BF%E6%9F%B3%E5%B7%9E%E5%9C%B0%E9%9C%87%E5%B7%B2%E8%87%B43%E4%BA%BA%E5%A4%B1%E8%81%94%23" target="weibo">
+广西柳州地震已致3人失联（热度：4234262）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E9%87%91%E9%93%AD%E5%85%A8%E5%B9%B3%E5%8F%B0%E5%81%9C%E6%9B%B4%23" target="weibo">
 李金铭全平台停更（热度：4193868）
 </a>
@@ -1805,12 +1811,6 @@ U23国足亚军（热度：2760241）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BD%90%E6%80%9D%E9%92%A7%E8%A1%A8%E6%83%85%23" target="weibo">
 齐思钧表情（热度：2736520）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%A1%95%E5%A3%AB%E8%A2%AB%E6%9D%91%E6%B0%91%E5%BC%BA%E5%A5%B8%E6%97%B6%E8%A2%AB%E5%84%BF%E5%AD%90%E7%9B%AE%E5%87%BB%23" target="weibo">
-女硕士被村民强奸时被儿子目击（热度：2732817）
 </a>
 </li>
 

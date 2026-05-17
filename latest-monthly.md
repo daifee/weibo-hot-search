@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/05/01 00:05:26 ~ 2026/05/18 06:15:09
+本榜单时间：2026/05/01 00:05:26 ~ 2026/05/18 07:30:04
 </p>
 </blockquote>
 <p>
@@ -227,6 +227,12 @@ iPhone17Pro降价2000（热度：15057331）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E8%BD%A6%E7%A5%B8%23" target="weibo">
 成都车祸（热度：4321847）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E8%A5%BF%E6%9F%B3%E5%B7%9E%E5%9C%B0%E9%9C%87%E5%B7%B2%E8%87%B43%E4%BA%BA%E5%A4%B1%E8%81%94%23" target="weibo">
+广西柳州地震已致3人失联（热度：4234262）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ labubu冰箱秒空（热度：542013）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2324%E4%BB%B6%E8%A2%AB%E9%80%80%E5%9B%9E%E8%A1%A3%E7%89%A9%E5%9D%87%E4%BF%9D%E7%95%99%E5%AE%8C%E6%95%B4%E5%90%8A%E7%89%8C%23" target="weibo">
 24件被退回衣物均保留完整吊牌（热度：538568）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B7%B4%E8%90%A82%E6%AF%940%E7%9A%87%E9%A9%AC%23" target="weibo">
-巴萨2比0皇马（热度：537719）
 </a>
 </li>
 

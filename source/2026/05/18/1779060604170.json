@@ -1,0 +1,410 @@
+{
+  "runTime": 1779060604170,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4234262,
+        "num": 4234262,
+        "word": "广西柳州地震已致3人失联",
+        "onboard_time": 1779056775,
+        "rank": 0,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 1078148,
+        "num": 1078148,
+        "word": "樊振东欧冠冠军",
+        "onboard_time": 1779028942,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 14109,
+        "num": 1073530,
+        "word": "以德润网",
+        "onboard_time": 1779018919,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1070159,
+        "num": 1070159,
+        "word": "家业 磨皮",
+        "onboard_time": 1779028162,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 535712,
+        "num": 535712,
+        "word": "广西柳州5.2级地震",
+        "onboard_time": 1779035899,
+        "rank": 4,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 356971,
+        "num": 356971,
+        "word": "仇人租到这种房我也释怀了",
+        "onboard_time": 1779032900,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 333956,
+        "num": 333956,
+        "word": "曝最终版白玉兰男主提名",
+        "onboard_time": 1779028702,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 276181,
+        "num": 276181,
+        "word": "樊振东0比3大勒布伦",
+        "onboard_time": 1779023840,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123106,
+        "num": 123106,
+        "word": "店员回应降价iPhone17被疯抢",
+        "onboard_time": 1779030144,
+        "rank": 8,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 248683,
+        "num": 122935,
+        "word": "张凌赫gucci大秀登美趋第一",
+        "onboard_time": 1779027022,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200900,
+        "num": 122481,
+        "word": "男子拒绝广州调岗山东被炒获赔50万",
+        "onboard_time": 1779030562,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 199932,
+        "num": 122388,
+        "word": "柳州地震转移群众7000余人",
+        "onboard_time": 1779059718,
+        "rank": 11,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 162011,
+        "num": 122027,
+        "word": "八旬老人公交上闭眼休息实则已死亡",
+        "onboard_time": 1779020841,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152735,
+        "num": 121645,
+        "word": "和平统一后台湾可获稳定廉价能源",
+        "onboard_time": 1779030502,
+        "rank": 13,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 140375,
+        "num": 121359,
+        "word": "家业收视率",
+        "onboard_time": 1779020780,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127697,
+        "num": 121080,
+        "word": "谁懂姜乘澜这个丸子头教程",
+        "onboard_time": 1779060318,
+        "rank": 15,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 125840,
+        "num": 120769,
+        "word": "张雪机车夺得5冠",
+        "onboard_time": 1779021442,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125185,
+        "num": 120160,
+        "word": "谢娜晒和李小冉聊天记录",
+        "onboard_time": 1779024201,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 76065,
+        "num": 120058,
+        "word": "马尔代夫发生史上最严重单次潜水事故",
+        "onboard_time": 1779021920,
+        "rank": 18,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 13782,
+        "num": 119540,
+        "word": "AI预测世界杯西班牙夺冠",
+        "onboard_time": 1779058817,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 119505,
+        "num": 119505,
+        "word": "柳州地震",
+        "onboard_time": 1779036020,
+        "rank": 20,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 124845,
+        "num": 116759,
+        "word": "莫雷加德安慰樊振东",
+        "onboard_time": 1779060378,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123173,
+        "num": 115658,
+        "word": "周雨谈樊振东输球",
+        "onboard_time": 1779060378,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121922,
+        "num": 114726,
+        "word": "金珉奎 夜店",
+        "onboard_time": 1779016760,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113003,
+        "num": 113003,
+        "word": "柳州地震现场情况",
+        "onboard_time": 1779060197,
+        "rank": 24,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 112532,
+        "num": 112532,
+        "word": "欧冠决赛",
+        "onboard_time": 1779025283,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 102675,
+        "num": 102675,
+        "word": "肖战藏海传强势入围金鹰奖",
+        "onboard_time": 1779027861,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 93398,
+        "num": 93398,
+        "word": "专家称4岁以下穿机能鞋干扰足弓发育",
+        "onboard_time": 1779029601,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 81969,
+        "num": 89201,
+        "word": "给阿嬷的情书拍得女主直掉眼泪",
+        "onboard_time": 1779035899,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 17447,
+        "num": 88444,
+        "word": "在泰华人目击火车撞公交致8死32伤",
+        "onboard_time": 1779058817,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 97467,
+        "num": 88396,
+        "word": "南宁震感",
+        "onboard_time": 1779037458,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88147,
+        "num": 88147,
+        "word": "亚历山大MVP",
+        "onboard_time": 1779030443,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 83857,
+        "num": 83857,
+        "word": "21世纪大君夫人李莞和哥哥嫂嫂故事线",
+        "onboard_time": 1779060318,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 79131,
+        "num": 79131,
+        "word": "阚清子想要阚清子得到",
+        "onboard_time": 1779021442,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 598378,
+        "num": 79130,
+        "word": "陈泽",
+        "onboard_time": 1779037878,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 78873,
+        "num": 78873,
+        "word": "2026高考",
+        "onboard_time": 1779059540,
+        "rank": 35,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 77600,
+        "num": 77600,
+        "word": "对柳州地震启动三级应急服务响应",
+        "onboard_time": 1779060439,
+        "rank": 36,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 65310,
+        "num": 65310,
+        "word": "樊振东赛后摇了摇头",
+        "onboard_time": 1779028702,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 63097,
+        "num": 63097,
+        "word": "刘浩存穿十厘米高跟鞋定点转圈",
+        "onboard_time": 1779024801,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 62752,
+        "num": 62752,
+        "word": "杨紫台词",
+        "onboard_time": 1779031101,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 61342,
+        "num": 62534,
+        "word": "樊振东失2分",
+        "onboard_time": 1779030443,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 62387,
+        "num": 62387,
+        "word": "家业刚开播豆瓣大量一星",
+        "onboard_time": 1779028584,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 62141,
+        "num": 62141,
+        "word": "张真源头像",
+        "onboard_time": 1779016460,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 59549,
+        "num": 59549,
+        "word": "任何关系里都要遵守有客之道",
+        "onboard_time": 1779037278,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 61044,
+        "num": 59417,
+        "word": "多位明星包场给阿嬷的情书",
+        "onboard_time": 1779058759,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 58214,
+        "num": 58214,
+        "word": "杨紫曾被自己的脖子吓到",
+        "onboard_time": 1779023781,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 57111,
+        "num": 57111,
+        "word": "男子连买9副耳机全部申请退货",
+        "onboard_time": 1779030381,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 56997,
+        "num": 56997,
+        "word": "成毅两京十五日生贺图",
+        "onboard_time": 1779044953,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 48292,
+        "num": 56969,
+        "word": "算力价格",
+        "onboard_time": 1779059837,
+        "rank": 48,
+        "category": "财经,互联网"
+      },
+      {
+        "raw_hot": 7374,
+        "num": 56942,
+        "word": "20万出头就能买四驱空悬中大型SUV",
+        "onboard_time": 1779010461,
+        "rank": 49,
+        "category": "汽车"
+      }
+    ],
+    "hotgov": {
+      "word": "#盘点中美元首会谈的重要信号#"
+    }
+  }
+}
