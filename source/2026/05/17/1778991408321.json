@@ -1,0 +1,410 @@
+{
+  "runTime": 1778991408321,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1369532,
+        "num": 1369532,
+        "word": "特朗普警告台独",
+        "onboard_time": 1778940321,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 811867,
+        "num": 907403,
+        "word": "香蜜最后一帧原来是家业",
+        "onboard_time": 1778986399,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16060,
+        "num": 699878,
+        "word": "以自强赴荣光",
+        "onboard_time": 1778984839,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 636982,
+        "num": 636982,
+        "word": "摄影师称摆拍女孩确为盲人",
+        "onboard_time": 1778985380,
+        "rank": 3,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 622153,
+        "num": 622153,
+        "word": "台舆论称特朗普不许台独视美为靠山",
+        "onboard_time": 1778984959,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1350818,
+        "num": 584065,
+        "word": "苹果华为小米集体降价",
+        "onboard_time": 1778976018,
+        "rank": 5,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 530381,
+        "num": 530381,
+        "word": "让妈妈丢人的事顺手就做了",
+        "onboard_time": 1778976678,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 394605,
+        "num": 394605,
+        "word": "分析师称苹果降价是阳谋",
+        "onboard_time": 1778981119,
+        "rank": 7,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 373449,
+        "num": 373449,
+        "word": "丝芭给黄婷婷剧组发警告函",
+        "onboard_time": 1778989520,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 363576,
+        "num": 363576,
+        "word": "孩子被抢走后姥姥暴瘦30斤",
+        "onboard_time": 1778982978,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2207968,
+        "num": 361693,
+        "word": "疑似张元英抢金智媛C位",
+        "onboard_time": 1778986219,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 601497,
+        "num": 357412,
+        "word": "黄仁勋指甲",
+        "onboard_time": 1778985919,
+        "rank": 11,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 582748,
+        "num": 351223,
+        "word": "千户苗寨偶遇Angelababy",
+        "onboard_time": 1778981718,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 370507,
+        "num": 346780,
+        "word": "白鹿上车前突然跳了段舞",
+        "onboard_time": 1778979679,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 3464850,
+        "num": 341811,
+        "word": "网友车内发生性关系后男方被告强奸",
+        "onboard_time": 1778988920,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 52147,
+        "num": 337048,
+        "word": "重庆巫溪通报救护车捎带化肥",
+        "onboard_time": 1778991080,
+        "rank": 15,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 335776,
+        "num": 335776,
+        "word": "狗狗啃了半年的抽屉还挺有设计感",
+        "onboard_time": 1778973136,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 325255,
+        "num": 325255,
+        "word": "给阿嬷的情书南枝淑柔未公开片段",
+        "onboard_time": 1778986160,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 300434,
+        "num": 300434,
+        "word": "樊振东赛后纸袋装球拍",
+        "onboard_time": 1778983520,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 28106,
+        "num": 287824,
+        "word": "官方通报上海一在建大楼外架歪了",
+        "onboard_time": 1778990901,
+        "rank": 19,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 284495,
+        "num": 284495,
+        "word": "陈伟霆钟楚曦 荔湾广场",
+        "onboard_time": 1778990060,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 279921,
+        "num": 279921,
+        "word": "国民党副主席回应特朗普涉台表态",
+        "onboard_time": 1778987419,
+        "rank": 21,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 260106,
+        "num": 260106,
+        "word": "高皮质醇会让你少活7年",
+        "onboard_time": 1778984120,
+        "rank": 22,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 254739,
+        "num": 254739,
+        "word": "广东暴雨天蟑螂成群出动",
+        "onboard_time": 1778989520,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 253478,
+        "num": 253478,
+        "word": "小米YU7全系新增火山灰车漆",
+        "onboard_time": 1778990479,
+        "rank": 24,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 243509,
+        "num": 243509,
+        "word": "狄莺一边哭一边开直播骂网友",
+        "onboard_time": 1778988740,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 239022,
+        "num": 239022,
+        "word": "Gucci大秀",
+        "onboard_time": 1778980821,
+        "rank": 26,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 231887,
+        "num": 231887,
+        "word": "万千惠点名徐梦洁",
+        "onboard_time": 1778943082,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153014,
+        "num": 226022,
+        "word": "张雪机车垫底车手曾获7次冠军",
+        "onboard_time": 1778984359,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121336,
+        "num": 225782,
+        "word": "日本担心中美关系稳定自己被晾在一边",
+        "onboard_time": 1778944460,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 238331,
+        "num": 225778,
+        "word": "榴莲等等党赢了",
+        "onboard_time": 1778978058,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 225769,
+        "num": 225769,
+        "word": "孙安佐被抓",
+        "onboard_time": 1778982500,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 214744,
+        "num": 214744,
+        "word": "家业开播",
+        "onboard_time": 1778985259,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 207771,
+        "num": 207771,
+        "word": "丈夫蒙面抢走儿子女子称可以不离婚",
+        "onboard_time": 1778986819,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 208326,
+        "num": 200438,
+        "word": "金鹰奖投票",
+        "onboard_time": 1778984779,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 177217,
+        "num": 177217,
+        "word": "21世纪大君夫人大结局",
+        "onboard_time": 1778975058,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160332,
+        "num": 176857,
+        "word": "男子新婚不久确诊胃癌晚期提离婚",
+        "onboard_time": 1778987120,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 67261,
+        "num": 176849,
+        "word": "上一个骗婚的还是盛墨兰",
+        "onboard_time": 1778990479,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 30250,
+        "num": 176841,
+        "word": "泰国火车与巴士相撞已致8死32伤",
+        "onboard_time": 1778990479,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 176841,
+        "num": 176840,
+        "word": "刘浩存演技",
+        "onboard_time": 1778984959,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164719,
+        "num": 164719,
+        "word": "金鹰奖预测",
+        "onboard_time": 1778980158,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158940,
+        "num": 158940,
+        "word": "辞职员工曝光盲人博主运营内幕",
+        "onboard_time": 1778987719,
+        "rank": 41,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 154011,
+        "num": 154011,
+        "word": "作业本包的糖醋排骨",
+        "onboard_time": 1778990598,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 149108,
+        "num": 149108,
+        "word": "叔侄将溺亡男子藏家不涉嫌侮辱尸体罪",
+        "onboard_time": 1778990598,
+        "rank": 43,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 142445,
+        "num": 142445,
+        "word": "张凌赫纽约看秀直拍",
+        "onboard_time": 1778987599,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 140496,
+        "num": 140496,
+        "word": "万千惠情商",
+        "onboard_time": 1778977638,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135914,
+        "num": 135914,
+        "word": "女子试管7年得子丈夫肺癌脑转移",
+        "onboard_time": 1778940561,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136096,
+        "num": 135379,
+        "word": "迪丽热巴双剧入围电视金鹰奖",
+        "onboard_time": 1778983940,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127911,
+        "num": 127911,
+        "word": "C罗状态",
+        "onboard_time": 1778976858,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119681,
+        "num": 119681,
+        "word": "边牧把猫猫当成了枕头",
+        "onboard_time": 1778991379,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向第十届中俄博览会致贺信#"
+    }
+  }
+}
