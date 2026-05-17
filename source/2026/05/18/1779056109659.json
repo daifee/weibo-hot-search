@@ -1,0 +1,410 @@
+{
+  "runTime": 1779056109659,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 920330,
+        "num": 920330,
+        "word": "柳州地震",
+        "onboard_time": 1779036020,
+        "rank": 0,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 445990,
+        "num": 445990,
+        "word": "樊振东欧冠冠军",
+        "onboard_time": 1779028942,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 8060,
+        "num": 393507,
+        "word": "以德润网",
+        "onboard_time": 1779018919,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 362256,
+        "num": 362256,
+        "word": "家业 磨皮",
+        "onboard_time": 1779028162,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 242682,
+        "num": 242682,
+        "word": "陈泽",
+        "onboard_time": 1779037878,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 214195,
+        "num": 214195,
+        "word": "樊振东0比3大勒布伦",
+        "onboard_time": 1779023840,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 153433,
+        "num": 153433,
+        "word": "仇人租到这种房我也释怀了",
+        "onboard_time": 1779032900,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 141841,
+        "num": 141841,
+        "word": "广西柳州5.2级左右地震",
+        "onboard_time": 1779035899,
+        "rank": 7,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 103654,
+        "num": 103654,
+        "word": "曝最终版白玉兰男主提名",
+        "onboard_time": 1779028702,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 76202,
+        "num": 76202,
+        "word": "家业收视率",
+        "onboard_time": 1779020780,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 84546,
+        "num": 75634,
+        "word": "男子拒绝广州调岗山东被炒获赔50万",
+        "onboard_time": 1779030562,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 70518,
+        "num": 70518,
+        "word": "欧冠决赛",
+        "onboard_time": 1779025283,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 67527,
+        "num": 67527,
+        "word": "八旬老人公交上闭眼休息实则已死亡",
+        "onboard_time": 1779020841,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 65449,
+        "num": 65449,
+        "word": "张雪机车夺得5冠",
+        "onboard_time": 1779021442,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 60079,
+        "num": 60079,
+        "word": "店员回应降价iPhone17被疯抢",
+        "onboard_time": 1779030144,
+        "rank": 14,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 56727,
+        "num": 56727,
+        "word": "肖战藏海传强势入围金鹰奖",
+        "onboard_time": 1779027861,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 50084,
+        "num": 50084,
+        "word": "和平统一后台湾可获稳定廉价能源",
+        "onboard_time": 1779030502,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 49033,
+        "num": 49033,
+        "word": "刘浩存穿十厘米高跟鞋定点转圈",
+        "onboard_time": 1779024801,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 40035,
+        "num": 40035,
+        "word": "男子连买9副耳机全部申请退货",
+        "onboard_time": 1779030381,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39250,
+        "num": 39250,
+        "word": "成毅两京十五日生贺图",
+        "onboard_time": 1779044953,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 61794,
+        "num": 39002,
+        "word": "猫咪躲在阴凉地睡觉进屋瞬间震惊了",
+        "onboard_time": 1779025822,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 38070,
+        "num": 38070,
+        "word": "南宁震感",
+        "onboard_time": 1779037458,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36484,
+        "num": 36484,
+        "word": "家业",
+        "onboard_time": 1779017960,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 36472,
+        "num": 36472,
+        "word": "马尔代夫发生史上最严重单次潜水事故",
+        "onboard_time": 1779021920,
+        "rank": 23,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 35126,
+        "num": 35126,
+        "word": "给阿嬷的情书拍得女主直掉眼泪",
+        "onboard_time": 1779035899,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 35058,
+        "num": 35058,
+        "word": "樊振东赛后摇了摇头",
+        "onboard_time": 1779028702,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 33603,
+        "num": 33603,
+        "word": "为啥半夜醒来千万不要看时间",
+        "onboard_time": 1779050114,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 31967,
+        "num": 33603,
+        "word": "樊振东失2分",
+        "onboard_time": 1779030443,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 31752,
+        "num": 33603,
+        "word": "胖东来回应主动退顾客iPhone差价",
+        "onboard_time": 1779054254,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31246,
+        "num": 33603,
+        "word": "以为是被关心了其实是看错了",
+        "onboard_time": 1779037217,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 29919,
+        "num": 33602,
+        "word": "家业刚开播豆瓣大量一星",
+        "onboard_time": 1779028584,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 28349,
+        "num": 33602,
+        "word": "主角 神器认主",
+        "onboard_time": 1779031043,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 27439,
+        "num": 33602,
+        "word": "樊振东vs小勒布伦",
+        "onboard_time": 1779025762,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 27144,
+        "num": 33602,
+        "word": "杨紫曾被自己的脖子吓到",
+        "onboard_time": 1779023781,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 25556,
+        "num": 33602,
+        "word": "张雪机车德比斯仅落后榜首19分",
+        "onboard_time": 1779030742,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 26498,
+        "num": 33602,
+        "word": "广西皮卡坠河9人失联均为女性",
+        "onboard_time": 1779030502,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26489,
+        "num": 33602,
+        "word": "任何关系里都要遵守有客之道",
+        "onboard_time": 1779037278,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 26302,
+        "num": 33601,
+        "word": "专家称4岁以下穿机能鞋干扰足弓发育",
+        "onboard_time": 1779029601,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 26262,
+        "num": 33601,
+        "word": "主角",
+        "onboard_time": 1779019820,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 24907,
+        "num": 33601,
+        "word": "亚历山大MVP",
+        "onboard_time": 1779030443,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 23776,
+        "num": 33601,
+        "word": "穆祉丞戛纳人气",
+        "onboard_time": 1779034459,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 23599,
+        "num": 33601,
+        "word": "欧冠",
+        "onboard_time": 1779023481,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 22825,
+        "num": 33601,
+        "word": "给阿嬷的情书",
+        "onboard_time": 1779007341,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 22744,
+        "num": 33601,
+        "word": "杨紫台词",
+        "onboard_time": 1779031101,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 21864,
+        "num": 33601,
+        "word": "白鹿李昀锐是李晨让牵的",
+        "onboard_time": 1779016220,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 21635,
+        "num": 33600,
+        "word": "萨尔布吕肯3比2蒙彼利埃",
+        "onboard_time": 1779048374,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 21131,
+        "num": 33600,
+        "word": "萨尔布吕肯欧冠四连冠",
+        "onboard_time": 1779042675,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 20956,
+        "num": 33600,
+        "word": "樊振东vs大勒布伦",
+        "onboard_time": 1779019820,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 19644,
+        "num": 33600,
+        "word": "樊振东0比3小勒布伦",
+        "onboard_time": 1779029841,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 18848,
+        "num": 33600,
+        "word": "电脑微信会惩罚每一个恋旧的人",
+        "onboard_time": 1779005117,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#盘点中美元首会谈的重要信号#"
+    }
+  }
+}
