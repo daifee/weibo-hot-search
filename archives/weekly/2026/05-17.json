@@ -1,10 +1,18 @@
 {
   "startTime": 1778951228781,
-  "endTime": 1779030282528,
+  "endTime": 1779032298984,
   "band_list": [
     {
-      "raw_hot": 12698038,
-      "num": 12698038,
+      "raw_hot": 15077740,
+      "num": 15077740,
+      "word": "樊振东欧冠冠军",
+      "onboard_time": 1779028942,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 15014601,
+      "num": 15014601,
       "word": "樊振东0比3大勒布伦",
       "onboard_time": 1779023840,
       "rank": 0,
@@ -25,14 +33,6 @@
       "onboard_time": 1778940321,
       "rank": 0,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 3542723,
-      "num": 3542723,
-      "word": "樊振东欧冠冠军",
-      "onboard_time": 1779028942,
-      "rank": 1,
-      "category": "体育"
     },
     {
       "raw_hot": 3464850,
@@ -195,6 +195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1099778,
+      "num": 531955,
+      "word": "张凌赫gucci大秀登美趋第一",
+      "onboard_time": 1779027022,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1079486,
       "num": 563413,
       "word": "李一桐评论去世粉丝博文",
@@ -232,14 +240,6 @@
       "word": "金珉奎 夜店",
       "onboard_time": 1779016760,
       "rank": 14,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 947174,
-      "num": 531955,
-      "word": "张凌赫gucci大秀登美趋第一",
-      "onboard_time": 1779027022,
-      "rank": 13,
       "category": "艺人"
     },
     {
@@ -476,7 +476,7 @@
     },
     {
       "raw_hot": 529545,
-      "num": 225718,
+      "num": 321280,
       "word": "曝最终版白玉兰男主提名",
       "onboard_time": 1779028702,
       "rank": 25,
@@ -547,19 +547,19 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 474383,
+      "num": 460429,
+      "word": "八旬老人公交上闭眼休息实则已死亡",
+      "onboard_time": 1779020841,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 466274,
       "num": 624702,
       "word": "何超蕸追悼会",
       "onboard_time": 1778999001,
       "rank": 12,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 460429,
-      "num": 460429,
-      "word": "八旬老人公交上闭眼休息实则已死亡",
-      "onboard_time": 1779020841,
-      "rank": 16,
       "category": "民生新闻"
     },
     {
@@ -619,6 +619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 398898,
+      "num": 398898,
+      "word": "樊振东失2分",
+      "onboard_time": 1779030443,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 394905,
       "num": 394905,
       "word": "女孩盲道被撞摆拍细节露馅",
@@ -659,6 +667,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 382359,
+      "num": 230771,
+      "word": "家业刚开播豆瓣大量一星",
+      "onboard_time": 1779028584,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 370507,
       "num": 346780,
       "word": "白鹿上车前突然跳了段舞",
@@ -691,14 +707,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 352326,
-      "num": 226441,
-      "word": "家业刚开播豆瓣大量一星",
-      "onboard_time": 1779028584,
-      "rank": 21,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 343179,
       "num": 343179,
       "word": "全智贤 千颂伊附体",
@@ -713,6 +721,14 @@
       "onboard_time": 1778999962,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 342053,
+      "num": 192523,
+      "word": "杨紫台词",
+      "onboard_time": 1779031101,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 331524,
@@ -763,6 +779,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 308379,
+      "num": 192361,
+      "word": "亚历山大MVP",
+      "onboard_time": 1779030443,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 307548,
       "num": 574479,
       "word": "中美阿三国联合打击电诈",
@@ -801,6 +825,14 @@
       "onboard_time": 1778983520,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 299106,
+      "num": 192310,
+      "word": "专家称4岁以下穿机能鞋干扰足弓发育",
+      "onboard_time": 1779029601,
+      "rank": 44,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 298619,
@@ -891,6 +923,22 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 274398,
+      "num": 274398,
+      "word": "男子拒绝广州调岗山东被炒获赔50万",
+      "onboard_time": 1779030562,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 268849,
+      "num": 192068,
+      "word": "主角 神器认主",
+      "onboard_time": 1779031043,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 267126,
       "num": 235041,
       "word": "主角",
@@ -905,6 +953,14 @@
       "onboard_time": 1778944582,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 266132,
+      "num": 223881,
+      "word": "猫咪躲在阴凉地睡觉进屋瞬间震惊了",
+      "onboard_time": 1779025822,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 260106,
@@ -1019,14 +1075,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 227680,
-      "num": 223881,
-      "word": "猫咪躲在阴凉地睡觉进屋瞬间震惊了",
-      "onboard_time": 1779025822,
-      "rank": 37,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 227024,
       "num": 227024,
       "word": "网传杨紫回归中餐厅录制",
@@ -1049,6 +1097,14 @@
       "onboard_time": 1778975058,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 223287,
+      "num": 223287,
+      "word": "店员回应降价iPhone17被疯抢",
+      "onboard_time": 1779030144,
+      "rank": 46,
+      "category": "数码"
     },
     {
       "raw_hot": 222625,
@@ -1075,6 +1131,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 217495,
+      "num": 191902,
+      "word": "李昀锐丞磊李晨郑恺一起打球",
+      "onboard_time": 1779024742,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 215396,
       "num": 190467,
       "word": "白鹿经典露齿笑",
@@ -1083,19 +1147,19 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 212343,
+      "num": 192195,
+      "word": "杨紫李祯热度",
+      "onboard_time": 1779031282,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 211945,
       "num": 196858,
       "word": "马嘉祺 肉垫攻击",
       "onboard_time": 1779017720,
       "rank": 43,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 209500,
-      "num": 180431,
-      "word": "李昀锐丞磊李晨郑恺一起打球",
-      "onboard_time": 1779024742,
-      "rank": 49,
       "category": "艺人"
     },
     {
@@ -1137,6 +1201,14 @@
       "onboard_time": 1779025642,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 206797,
+      "num": 191869,
+      "word": "十个勤天演唱会",
+      "onboard_time": 1779031761,
+      "rank": 43,
+      "category": "演出"
     },
     {
       "raw_hot": 205281,
@@ -1233,14 +1305,6 @@
       "onboard_time": 1778933781,
       "rank": 18,
       "category": "民生新闻,财经"
-    },
-    {
-      "raw_hot": 183134,
-      "num": 183134,
-      "word": "专家称4岁以下穿机能鞋干扰足弓发育",
-      "onboard_time": 1779029601,
-      "rank": 44,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 182311,
@@ -1377,6 +1441,14 @@
       "onboard_time": 1778992221,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 166481,
+      "num": 191813,
+      "word": "男子连买9副耳机全部申请退货",
+      "onboard_time": 1779030381,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 165624,
@@ -1763,14 +1835,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 94369,
-      "num": 174431,
-      "word": "店员回应降价iPhone17被疯抢",
-      "onboard_time": 1779030144,
-      "rank": 46,
-      "category": "数码"
-    },
-    {
       "raw_hot": 93608,
       "num": 93608,
       "word": "降低皮质醇的秘诀",
@@ -1849,6 +1913,14 @@
       "onboard_time": 1778954537,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 86011,
+      "num": 192097,
+      "word": "清融小乔大王",
+      "onboard_time": 1779031282,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 85823,
@@ -2107,6 +2179,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 47726,
+      "num": 187562,
+      "word": "中国刻蚀机之父从0干出2000亿市值",
+      "onboard_time": 1779019101,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 46785,
       "num": 46785,
       "word": "哪些情况不建议用红霉素软膏",
@@ -2203,6 +2283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 35405,
+      "num": 192472,
+      "word": "马尔代夫军人搜救潜水者时身亡",
+      "onboard_time": 1779032061,
+      "rank": 31,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 33303,
       "num": 42321,
       "word": "AG战胜JDG",
@@ -2259,6 +2347,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 28387,
+      "num": 7933925,
+      "word": "以德润网",
+      "onboard_time": 1779018919,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 28185,
       "num": 215430,
       "word": "中国斩断欧盟长臂管辖",
@@ -2289,14 +2385,6 @@
       "onboard_time": 1778959815,
       "rank": 46,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 22584,
-      "num": 3187417,
-      "word": "以德润网",
-      "onboard_time": 1779018919,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 22544,
@@ -2339,12 +2427,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 16456,
+      "num": 192669,
+      "word": "北京细水长流下成暴雨",
+      "onboard_time": 1779032061,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 16060,
       "num": 714613,
       "word": "以自强赴荣光",
       "onboard_time": 1778984839,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 14693,
+      "num": 192576,
+      "word": "北京进入外交超级周期",
+      "onboard_time": 1779032061,
+      "rank": 29,
+      "category": "国内时政"
     },
     {
       "raw_hot": 14547,
@@ -2369,6 +2473,14 @@
       "onboard_time": 1778975298,
       "rank": 49,
       "category": "数码"
+    },
+    {
+      "raw_hot": 12399,
+      "num": 204439,
+      "word": "消费者曝双汇鸡肉肠生虫",
+      "onboard_time": 1779032061,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 11329,

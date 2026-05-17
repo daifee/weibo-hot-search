@@ -1,0 +1,410 @@
+{
+  "runTime": 1779032298984,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 15077740,
+        "num": 15077740,
+        "word": "樊振东欧冠冠军",
+        "onboard_time": 1779028942,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 15014601,
+        "num": 15014601,
+        "word": "樊振东0比3大勒布伦",
+        "onboard_time": 1779023840,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 28387,
+        "num": 7933925,
+        "word": "以德润网",
+        "onboard_time": 1779018919,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2161877,
+        "num": 2161877,
+        "word": "家业 磨皮",
+        "onboard_time": 1779028162,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 675676,
+        "num": 675676,
+        "word": "家业收视率",
+        "onboard_time": 1779020780,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 619065,
+        "num": 619065,
+        "word": "樊振东赛后摇了摇头",
+        "onboard_time": 1779028702,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 555874,
+        "num": 555874,
+        "word": "张雪机车夺得5冠",
+        "onboard_time": 1779021442,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 521085,
+        "num": 521085,
+        "word": "欧冠决赛",
+        "onboard_time": 1779025283,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 514513,
+        "num": 514513,
+        "word": "刘浩存穿十厘米高跟鞋定点转圈",
+        "onboard_time": 1779024801,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 398898,
+        "num": 398898,
+        "word": "樊振东失2分",
+        "onboard_time": 1779030443,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1585108,
+        "num": 398736,
+        "word": "谢娜晒和李小冉聊天记录",
+        "onboard_time": 1779024201,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1099778,
+        "num": 385801,
+        "word": "张凌赫gucci大秀登美趋第一",
+        "onboard_time": 1779027022,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 474383,
+        "num": 365157,
+        "word": "八旬老人公交上闭眼休息实则已死亡",
+        "onboard_time": 1779020841,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 691443,
+        "num": 355751,
+        "word": "李一桐评论去世粉丝博文",
+        "onboard_time": 1779018559,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 629128,
+        "num": 344236,
+        "word": "小S发文晒全家福",
+        "onboard_time": 1779018440,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 333966,
+        "num": 333966,
+        "word": "电脑微信会惩罚每一个恋旧的人",
+        "onboard_time": 1779005117,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 561742,
+        "num": 321595,
+        "word": "张真源头像",
+        "onboard_time": 1779016460,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 472926,
+        "num": 321280,
+        "word": "曝最终版白玉兰男主提名",
+        "onboard_time": 1779028702,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 274398,
+        "num": 274398,
+        "word": "男子拒绝广州调岗山东被炒获赔50万",
+        "onboard_time": 1779030562,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 239993,
+        "num": 239993,
+        "word": "马尔代夫发生史上最严重单次潜水事故",
+        "onboard_time": 1779021920,
+        "rank": 19,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 535254,
+        "num": 238729,
+        "word": "金珉奎 夜店",
+        "onboard_time": 1779016760,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 532631,
+        "num": 232423,
+        "word": "樊振东vs小勒布伦",
+        "onboard_time": 1779025762,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 382359,
+        "num": 230771,
+        "word": "家业刚开播豆瓣大量一星",
+        "onboard_time": 1779028584,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 310159,
+        "num": 224902,
+        "word": "狼队对战JDG",
+        "onboard_time": 1779020540,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 223287,
+        "num": 223287,
+        "word": "店员回应降价iPhone17被疯抢",
+        "onboard_time": 1779030144,
+        "rank": 24,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 12399,
+        "num": 204439,
+        "word": "消费者曝双汇鸡肉肠生虫",
+        "onboard_time": 1779032061,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 192691,
+        "num": 192691,
+        "word": "苹果华为小米大幅降价原因",
+        "onboard_time": 1779010579,
+        "rank": 26,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 16456,
+        "num": 192669,
+        "word": "北京细水长流下成暴雨",
+        "onboard_time": 1779032061,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97322,
+        "num": 192606,
+        "word": "长鑫科技一季度营收同比增长719.13%",
+        "onboard_time": 1779022042,
+        "rank": 28,
+        "category": "财经,互联网"
+      },
+      {
+        "raw_hot": 14693,
+        "num": 192576,
+        "word": "北京进入外交超级周期",
+        "onboard_time": 1779032061,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 342053,
+        "num": 192523,
+        "word": "杨紫台词",
+        "onboard_time": 1779031101,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 35405,
+        "num": 192472,
+        "word": "马尔代夫军人搜救潜水者时身亡",
+        "onboard_time": 1779032061,
+        "rank": 31,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 294488,
+        "num": 192402,
+        "word": "樊振东0比3小勒布伦",
+        "onboard_time": 1779029841,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 308379,
+        "num": 192361,
+        "word": "亚历山大MVP",
+        "onboard_time": 1779030443,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 299106,
+        "num": 192310,
+        "word": "专家称4岁以下穿机能鞋干扰足弓发育",
+        "onboard_time": 1779029601,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 281359,
+        "num": 192288,
+        "word": "杨超越摆拍800张选9张",
+        "onboard_time": 1779010521,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 280945,
+        "num": 192224,
+        "word": "给阿嬷的情书",
+        "onboard_time": 1779007341,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 212343,
+        "num": 192195,
+        "word": "杨紫李祯热度",
+        "onboard_time": 1779031282,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 86011,
+        "num": 192097,
+        "word": "清融小乔大王",
+        "onboard_time": 1779031282,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 268849,
+        "num": 192068,
+        "word": "主角 神器认主",
+        "onboard_time": 1779031043,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 266132,
+        "num": 192031,
+        "word": "猫咪躲在阴凉地睡觉进屋瞬间震惊了",
+        "onboard_time": 1779025822,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 265754,
+        "num": 191960,
+        "word": "樊振东vs大勒布伦",
+        "onboard_time": 1779019820,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 217495,
+        "num": 191902,
+        "word": "李昀锐丞磊李晨郑恺一起打球",
+        "onboard_time": 1779024742,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206797,
+        "num": 191869,
+        "word": "十个勤天演唱会",
+        "onboard_time": 1779031761,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 166481,
+        "num": 191813,
+        "word": "男子连买9副耳机全部申请退货",
+        "onboard_time": 1779030381,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 194600,
+        "num": 191769,
+        "word": "张真源严浩翔初现印象排名",
+        "onboard_time": 1779014600,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191749,
+        "num": 191749,
+        "word": "主角",
+        "onboard_time": 1779019820,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 68017,
+        "num": 188422,
+        "word": "男子手机号被豆包乱标成卖猪电话",
+        "onboard_time": 1779018260,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 47726,
+        "num": 187562,
+        "word": "中国刻蚀机之父从0干出2000亿市值",
+        "onboard_time": 1779019101,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 187523,
+        "num": 187523,
+        "word": "家业",
+        "onboard_time": 1779017960,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#盘点中美元首会谈的重要信号#"
+    }
+  }
+}

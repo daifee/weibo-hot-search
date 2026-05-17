@@ -1,6 +1,6 @@
 {
   "startTime": 1777565126834,
-  "endTime": 1779030282528,
+  "endTime": 1779032298984,
   "band_list": [
     {
       "raw_hot": 25375641,
@@ -43,12 +43,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 15077740,
+      "num": 15077740,
+      "word": "樊振东欧冠冠军",
+      "onboard_time": 1779028942,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 15057331,
       "num": 15057331,
       "word": "iPhone17Pro降价2000",
       "onboard_time": 1778807598,
       "rank": 1,
       "category": "数码"
+    },
+    {
+      "raw_hot": 15014601,
+      "num": 15014601,
+      "word": "樊振东0比3大勒布伦",
+      "onboard_time": 1779023840,
+      "rank": 0,
+      "category": "体育"
     },
     {
       "raw_hot": 14929156,
@@ -81,14 +97,6 @@
       "onboard_time": 1778753481,
       "rank": 1,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 12698038,
-      "num": 12698038,
-      "word": "樊振东0比3大勒布伦",
-      "onboard_time": 1779023840,
-      "rank": 0,
-      "category": "体育"
     },
     {
       "raw_hot": 12337365,
@@ -417,14 +425,6 @@
       "onboard_time": 1778392639,
       "rank": 0,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 3542723,
-      "num": 3542723,
-      "word": "樊振东欧冠冠军",
-      "onboard_time": 1779028942,
-      "rank": 1,
-      "category": "体育"
     },
     {
       "raw_hot": 3511859,
@@ -2947,6 +2947,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 1099778,
+      "num": 531955,
+      "word": "张凌赫gucci大秀登美趋第一",
+      "onboard_time": 1779027022,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1099306,
       "num": 580492,
       "word": "梁靖崑0比3E约内斯库",
@@ -3705,14 +3713,6 @@
       "onboard_time": 1778297541,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 947174,
-      "num": 531955,
-      "word": "张凌赫gucci大秀登美趋第一",
-      "onboard_time": 1779027022,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 947064,
@@ -8116,7 +8116,7 @@
     },
     {
       "raw_hot": 529545,
-      "num": 225718,
+      "num": 321280,
       "word": "曝最终版白玉兰男主提名",
       "onboard_time": 1779028702,
       "rank": 25,
@@ -9243,6 +9243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 474383,
+      "num": 460429,
+      "word": "八旬老人公交上闭眼休息实则已死亡",
+      "onboard_time": 1779020841,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 473886,
       "num": 224456,
       "word": "女演员李心艾暴瘦80斤",
@@ -9609,14 +9617,6 @@
       "onboard_time": 1778151440,
       "rank": 15,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 460429,
-      "num": 460429,
-      "word": "八旬老人公交上闭眼休息实则已死亡",
-      "onboard_time": 1779020841,
-      "rank": 16,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 460130,
@@ -10963,6 +10963,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 398898,
+      "num": 398898,
+      "word": "樊振东失2分",
+      "onboard_time": 1779030443,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 398471,
       "num": 398471,
       "word": "单依纯入围金曲奖",
@@ -11441,6 +11449,14 @@
       "onboard_time": 1777793540,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 382359,
+      "num": 230771,
+      "word": "家业刚开播豆瓣大量一星",
+      "onboard_time": 1779028584,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 382073,
@@ -12283,14 +12299,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 352326,
-      "num": 226441,
-      "word": "家业刚开播豆瓣大量一星",
-      "onboard_time": 1779028584,
-      "rank": 21,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 352266,
       "num": 352266,
       "word": "王曼昱11比0卡尔伯格",
@@ -12673,6 +12681,14 @@
       "onboard_time": 1778999962,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 342053,
+      "num": 192523,
+      "word": "杨紫台词",
+      "onboard_time": 1779031101,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 341868,
@@ -13859,6 +13875,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 308379,
+      "num": 192361,
+      "word": "亚历山大MVP",
+      "onboard_time": 1779030443,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 307940,
       "num": 307940,
       "word": "戛纳电影节",
@@ -14201,6 +14225,14 @@
       "onboard_time": 1778028621,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 299106,
+      "num": 192310,
+      "word": "专家称4岁以下穿机能鞋干扰足弓发育",
+      "onboard_time": 1779029601,
+      "rank": 44,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 298837,
@@ -15251,6 +15283,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 274398,
+      "num": 274398,
+      "word": "男子拒绝广州调岗山东被炒获赔50万",
+      "onboard_time": 1779030562,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 274334,
       "num": 274334,
       "word": "王楚钦15比13科顿",
@@ -15467,6 +15507,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 268849,
+      "num": 192068,
+      "word": "主角 神器认主",
+      "onboard_time": 1779031043,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 268741,
       "num": 268741,
       "word": "德比斯说感谢张雪机车",
@@ -15569,6 +15617,14 @@
       "onboard_time": 1777622659,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 266132,
+      "num": 223881,
+      "word": "猫咪躲在阴凉地睡觉进屋瞬间震惊了",
+      "onboard_time": 1779025822,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 266046,
@@ -17827,14 +17883,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 227680,
-      "num": 223881,
-      "word": "猫咪躲在阴凉地睡觉进屋瞬间震惊了",
-      "onboard_time": 1779025822,
-      "rank": 37,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 227531,
       "num": 196592,
       "word": "时代少年团唱了勇气",
@@ -18097,6 +18145,14 @@
       "onboard_time": 1778754623,
       "rank": 32,
       "category": "财经"
+    },
+    {
+      "raw_hot": 223287,
+      "num": 223287,
+      "word": "店员回应降价iPhone17被疯抢",
+      "onboard_time": 1779030144,
+      "rank": 46,
+      "category": "数码"
     },
     {
       "raw_hot": 223111,
@@ -18449,6 +18505,14 @@
       "onboard_time": 1778217320,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 217495,
+      "num": 191902,
+      "word": "李昀锐丞磊李晨郑恺一起打球",
+      "onboard_time": 1779024742,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 217437,
@@ -18843,6 +18907,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 212343,
+      "num": 192195,
+      "word": "杨紫李祯热度",
+      "onboard_time": 1779031282,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 212255,
       "num": 212255,
       "word": "郑钦文vs布克沙",
@@ -19025,14 +19097,6 @@
       "onboard_time": 1778560521,
       "rank": 37,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 209500,
-      "num": 180431,
-      "word": "李昀锐丞磊李晨郑恺一起打球",
-      "onboard_time": 1779024742,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 209461,
@@ -19289,6 +19353,14 @@
       "onboard_time": 1778597962,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 206797,
+      "num": 191869,
+      "word": "十个勤天演唱会",
+      "onboard_time": 1779031761,
+      "rank": 43,
+      "category": "演出"
     },
     {
       "raw_hot": 206566,
@@ -20995,14 +21067,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 183134,
-      "num": 183134,
-      "word": "专家称4岁以下穿机能鞋干扰足弓发育",
-      "onboard_time": 1779029601,
-      "rank": 44,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 183031,
       "num": 175647,
       "word": "张凌赫出发GUCCI大秀",
@@ -22632,6 +22696,14 @@
       "word": "广州一公园现70cm剧毒鳄雀鳝",
       "onboard_time": 1778207541,
       "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 166481,
+      "num": 191813,
+      "word": "男子连买9副耳机全部申请退货",
+      "onboard_time": 1779030381,
+      "rank": 44,
       "category": "民生新闻"
     },
     {
@@ -28299,14 +28371,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 94369,
-      "num": 174431,
-      "word": "店员回应降价iPhone17被疯抢",
-      "onboard_time": 1779030144,
-      "rank": 46,
-      "category": "数码"
-    },
-    {
       "raw_hot": 94112,
       "num": 275962,
       "word": "DeepSeek思考过程好萌",
@@ -28769,6 +28833,14 @@
       "onboard_time": 1777765877,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 86011,
+      "num": 192097,
+      "word": "清融小乔大王",
+      "onboard_time": 1779031282,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 85986,
@@ -31187,6 +31259,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 47726,
+      "num": 187562,
+      "word": "中国刻蚀机之父从0干出2000亿市值",
+      "onboard_time": 1779019101,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 47698,
       "num": 192396,
       "word": "洪朝阳确定不会参与浪姐后续录制",
@@ -32163,6 +32243,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 35405,
+      "num": 192472,
+      "word": "马尔代夫军人搜救潜水者时身亡",
+      "onboard_time": 1779032061,
+      "rank": 31,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 35337,
       "num": 51057,
       "word": "重庆桥下佛头的雕刻者找到了",
@@ -32875,6 +32963,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 28387,
+      "num": 7933925,
+      "word": "以德润网",
+      "onboard_time": 1779018919,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 28240,
       "num": 286468,
       "word": "山西中午的动物园一个醒着的都没有",
@@ -33411,14 +33507,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 22584,
-      "num": 3187417,
-      "word": "以德润网",
-      "onboard_time": 1779018919,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 22544,
       "num": 185778,
       "word": "曝亚运会Viper和Gumayusi二选一",
@@ -33939,6 +34027,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 16456,
+      "num": 192669,
+      "word": "北京细水长流下成暴雨",
+      "onboard_time": 1779032061,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 16323,
       "num": 322811,
       "word": "张雪机车回应排位赛第6",
@@ -34107,6 +34203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 14693,
+      "num": 192576,
+      "word": "北京进入外交超级周期",
+      "onboard_time": 1779032061,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 14547,
       "num": 406036,
       "word": "大摆荡项目运营方未进行安全培训",
@@ -34265,6 +34369,14 @@
       "onboard_time": 1777608499,
       "rank": 26,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 12399,
+      "num": 204439,
+      "word": "消费者曝双汇鸡肉肠生虫",
+      "onboard_time": 1779032061,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 12362,
