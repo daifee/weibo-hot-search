@@ -1,6 +1,6 @@
 {
   "startTime": 1777565126834,
-  "endTime": 1779026702232,
+  "endTime": 1779030282528,
   "band_list": [
     {
       "raw_hot": 25375641,
@@ -81,6 +81,14 @@
       "onboard_time": 1778753481,
       "rank": 1,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 12698038,
+      "num": 12698038,
+      "word": "樊振东0比3大勒布伦",
+      "onboard_time": 1779023840,
+      "rank": 0,
+      "category": "体育"
     },
     {
       "raw_hot": 12337365,
@@ -241,14 +249,6 @@
       "onboard_time": 1778731402,
       "rank": 10,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 4674659,
-      "num": 4674659,
-      "word": "樊振东0比3大勒布伦",
-      "onboard_time": 1779023840,
-      "rank": 0,
-      "category": "体育"
     },
     {
       "raw_hot": 4446373,
@@ -419,6 +419,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 3542723,
+      "num": 3542723,
+      "word": "樊振东欧冠冠军",
+      "onboard_time": 1779028942,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 3511859,
       "num": 706969,
       "word": "难听",
@@ -529,6 +537,14 @@
       "onboard_time": 1778058020,
       "rank": 3,
       "category": "演出"
+    },
+    {
+      "raw_hot": 3086614,
+      "num": 3086614,
+      "word": "家业 磨皮",
+      "onboard_time": 1779028162,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 3081696,
@@ -1267,6 +1283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1893593,
+      "num": 1893593,
+      "word": "欧冠决赛",
+      "onboard_time": 1779025283,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1890709,
       "num": 2078456,
       "word": "跑男学这么精彩吗",
@@ -1331,8 +1355,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 1799838,
-      "num": 521613,
+      "raw_hot": 1805081,
+      "num": 667861,
       "word": "谢娜晒和李小冉聊天记录",
       "onboard_time": 1779024201,
       "rank": 11,
@@ -1617,6 +1641,14 @@
       "onboard_time": 1777765518,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1648564,
+      "num": 1648564,
+      "word": "樊振东vs小勒布伦",
+      "onboard_time": 1779025762,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 1647093,
@@ -2819,6 +2851,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1128891,
+      "num": 1128891,
+      "word": "樊振东赛后摇了摇头",
+      "onboard_time": 1779028702,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1127294,
       "num": 1127294,
       "word": "怪不得虫子总围着头顶飞",
@@ -3011,16 +3051,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1080389,
-      "num": 1080389,
-      "word": "樊振东vs小勒布伦",
-      "onboard_time": 1779025762,
-      "rank": 5,
-      "category": "体育"
-    },
-    {
       "raw_hot": 1079486,
-      "num": 505485,
+      "num": 563413,
       "word": "李一桐评论去世粉丝博文",
       "onboard_time": 1779018559,
       "rank": 14,
@@ -3675,6 +3707,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 947174,
+      "num": 531955,
+      "word": "张凌赫gucci大秀登美趋第一",
+      "onboard_time": 1779027022,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 947064,
       "num": 563467,
       "word": "王俊凯 中餐厅10",
@@ -3761,6 +3801,14 @@
       "onboard_time": 1778581940,
       "rank": 8,
       "category": "演出"
+    },
+    {
+      "raw_hot": 926537,
+      "num": 482615,
+      "word": "小S发文晒全家福",
+      "onboard_time": 1779018440,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 926139,
@@ -4129,14 +4177,6 @@
       "onboard_time": 1778569101,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 870046,
-      "num": 870046,
-      "word": "欧冠决赛",
-      "onboard_time": 1779025283,
-      "rank": 21,
-      "category": "体育"
     },
     {
       "raw_hot": 869891,
@@ -4825,14 +4865,6 @@
       "onboard_time": 1777615699,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 790713,
-      "num": 460377,
-      "word": "小S发文晒全家福",
-      "onboard_time": 1779018440,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 790360,
@@ -8083,6 +8115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 529545,
+      "num": 225718,
+      "word": "曝最终版白玉兰男主提名",
+      "onboard_time": 1779028702,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 529469,
       "num": 472721,
       "word": "何炅躲过了所有路透",
@@ -9017,6 +9057,14 @@
       "onboard_time": 1778740461,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 487401,
+      "num": 487401,
+      "word": "樊振东0比3小勒布伦",
+      "onboard_time": 1779029841,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 486242,
@@ -10225,6 +10273,14 @@
       "onboard_time": 1778425763,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 428364,
+      "num": 278431,
+      "word": "狼队对战JDG",
+      "onboard_time": 1779020540,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 428298,
@@ -12059,14 +12115,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 357854,
-      "num": 278431,
-      "word": "狼队对战JDG",
-      "onboard_time": 1779020540,
-      "rank": 24,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 357809,
       "num": 357809,
       "word": "恋与深空回应擦边低俗争议",
@@ -12233,6 +12281,14 @@
       "onboard_time": 1778715799,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 352326,
+      "num": 226441,
+      "word": "家业刚开播豆瓣大量一星",
+      "onboard_time": 1779028584,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 352266,
@@ -17139,6 +17195,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 237828,
+      "num": 224017,
+      "word": "偶遇谢霆锋买葱油粑粑",
+      "onboard_time": 1779028162,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 237787,
       "num": 212671,
       "word": "不小心把晚安发给了妈妈",
@@ -17761,6 +17825,14 @@
       "onboard_time": 1778800458,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 227680,
+      "num": 223881,
+      "word": "猫咪躲在阴凉地睡觉进屋瞬间震惊了",
+      "onboard_time": 1779025822,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 227531,
@@ -19201,6 +19273,14 @@
       "onboard_time": 1777859179,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 207106,
+      "num": 207106,
+      "word": "莫雷加德3比0F勒布伦",
+      "onboard_time": 1779025642,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 206967,
@@ -20913,6 +20993,14 @@
       "onboard_time": 1777764978,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 183134,
+      "num": 183134,
+      "word": "专家称4岁以下穿机能鞋干扰足弓发育",
+      "onboard_time": 1779029601,
+      "rank": 44,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 183031,
@@ -24755,6 +24843,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 140096,
+      "num": 239963,
+      "word": "下身瘫痪女子育女后丈夫消失7年",
+      "onboard_time": 1779026542,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 139831,
       "num": 139831,
       "word": "玄彬百想视帝",
@@ -26411,6 +26507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 121587,
+      "num": 224336,
+      "word": "BLG战胜AL",
+      "onboard_time": 1779030144,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 121581,
       "num": 299567,
       "word": "张本智和一单两分",
@@ -26777,14 +26881,6 @@
       "onboard_time": 1777650622,
       "rank": 22,
       "category": "体育"
-    },
-    {
-      "raw_hot": 117786,
-      "num": 239963,
-      "word": "下身瘫痪女子育女后丈夫消失7年",
-      "onboard_time": 1779026542,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 117758,
@@ -28203,6 +28299,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 94369,
+      "num": 174431,
+      "word": "店员回应降价iPhone17被疯抢",
+      "onboard_time": 1779030144,
+      "rank": 46,
+      "category": "数码"
+    },
+    {
       "raw_hot": 94112,
       "num": 275962,
       "word": "DeepSeek思考过程好萌",
@@ -28977,6 +29081,14 @@
       "onboard_time": 1778591361,
       "rank": 39,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 80865,
+      "num": 226122,
+      "word": "周深演唱会地球online",
+      "onboard_time": 1779029003,
+      "rank": 23,
+      "category": "演出"
     },
     {
       "raw_hot": 80796,
@@ -31619,6 +31731,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 40042,
+      "num": 226606,
+      "word": "垃圾最后一公里梗阻",
+      "onboard_time": 1779029123,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 39903,
       "num": 46538,
       "word": "乘风节目组启动交通酒店退费补偿",
@@ -33291,6 +33411,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 22584,
+      "num": 3187417,
+      "word": "以德润网",
+      "onboard_time": 1779018919,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 22544,
       "num": 185778,
       "word": "曝亚运会Viper和Gumayusi二选一",
@@ -33577,14 +33705,6 @@
       "onboard_time": 1779024080,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 19881,
-      "num": 2122437,
-      "word": "以德润网",
-      "onboard_time": 1779018919,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 19774,
@@ -34369,6 +34489,14 @@
       "onboard_time": 1778322141,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 7780,
+      "num": 223528,
+      "word": "BLG想双杀AL",
+      "onboard_time": 1779030082,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 7764,
