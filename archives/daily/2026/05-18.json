@@ -1,6 +1,6 @@
 {
   "startTime": 1779037572764,
-  "endTime": 1779037572764,
+  "endTime": 1779039254551,
   "band_list": [
     {
       "raw_hot": 6308488,
@@ -51,8 +51,16 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 320518,
-      "num": 320518,
+      "raw_hot": 505643,
+      "num": 505643,
+      "word": "陈泽",
+      "onboard_time": 1779037878,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 381922,
+      "num": 381922,
       "word": "南宁震感",
       "onboard_time": 1779037458,
       "rank": 7,
@@ -129,6 +137,14 @@
       "onboard_time": 1779028702,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 180206,
+      "num": 180206,
+      "word": "给阿嬷的情书拍得女主直掉眼泪",
+      "onboard_time": 1779035899,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 175055,
@@ -219,6 +235,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 130884,
+      "num": 130884,
+      "word": "马尔代夫发生史上最严重单次潜水事故",
+      "onboard_time": 1779021920,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 123762,
       "num": 123762,
       "word": "杨紫曾被自己的脖子吓到",
@@ -291,12 +315,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 94868,
-      "num": 110230,
-      "word": "给阿嬷的情书拍得女主直掉眼泪",
-      "onboard_time": 1779035899,
+      "raw_hot": 88498,
+      "num": 77813,
+      "word": "家业",
+      "onboard_time": 1779017960,
       "rank": 37,
-      "category": "电影"
+      "category": "剧集"
     },
     {
       "raw_hot": 87165,
@@ -305,14 +329,6 @@
       "onboard_time": 1779029841,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 82379,
-      "num": 110219,
-      "word": "马尔代夫发生史上最严重单次潜水事故",
-      "onboard_time": 1779021920,
-      "rank": 39,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 80184,
@@ -347,6 +363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 67940,
+      "num": 110149,
+      "word": "任何关系里都要遵守有客之道",
+      "onboard_time": 1779037278,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 67348,
       "num": 110168,
       "word": "樊振东vs大勒布伦",
@@ -361,14 +385,6 @@
       "onboard_time": 1779010579,
       "rank": 45,
       "category": "数码"
-    },
-    {
-      "raw_hot": 63014,
-      "num": 110149,
-      "word": "任何关系里都要遵守有客之道",
-      "onboard_time": 1779037278,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 62717,

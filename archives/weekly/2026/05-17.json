@@ -1,6 +1,6 @@
 {
   "startTime": 1778951228781,
-  "endTime": 1779037572764,
+  "endTime": 1779039254551,
   "band_list": [
     {
       "raw_hot": 15077740,
@@ -539,6 +539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 505643,
+      "num": 505643,
+      "word": "陈泽",
+      "onboard_time": 1779037878,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 491311,
       "num": 491311,
       "word": "Angelababy看到小朋友下意识护住",
@@ -699,6 +707,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 381922,
+      "num": 381922,
+      "word": "南宁震感",
+      "onboard_time": 1779037458,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 370507,
       "num": 346780,
       "word": "白鹿上车前突然跳了段舞",
@@ -769,14 +785,6 @@
       "onboard_time": 1778986160,
       "rank": 17,
       "category": "电影"
-    },
-    {
-      "raw_hot": 320518,
-      "num": 320518,
-      "word": "南宁震感",
-      "onboard_time": 1779037458,
-      "rank": 7,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 319768,
@@ -1363,6 +1371,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 180206,
+      "num": 180206,
+      "word": "给阿嬷的情书拍得女主直掉眼泪",
+      "onboard_time": 1779035899,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 179542,
       "num": 179542,
       "word": "利雅得胜利0比1大阪钢巴",
@@ -1891,14 +1907,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 94868,
-      "num": 110230,
-      "word": "给阿嬷的情书拍得女主直掉眼泪",
-      "onboard_time": 1779035899,
-      "rank": 37,
-      "category": "电影"
-    },
-    {
       "raw_hot": 94828,
       "num": 164527,
       "word": "AI算力产业链正批量造富",
@@ -2179,6 +2187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 67940,
+      "num": 110149,
+      "word": "任何关系里都要遵守有客之道",
+      "onboard_time": 1779037278,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 67261,
       "num": 176849,
       "word": "上一个骗婚的还是盛墨兰",
@@ -2217,14 +2233,6 @@
       "onboard_time": 1778923460,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 63014,
-      "num": 110149,
-      "word": "任何关系里都要遵守有客之道",
-      "onboard_time": 1779037278,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 58120,
