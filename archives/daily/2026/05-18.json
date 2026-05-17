@@ -1,6 +1,6 @@
 {
   "startTime": 1779037572764,
-  "endTime": 1779045601152,
+  "endTime": 1779047174269,
   "band_list": [
     {
       "raw_hot": 6308488,
@@ -411,12 +411,20 @@
       "category": "财经,互联网"
     },
     {
-      "raw_hot": 26498,
+      "raw_hot": 27530,
       "num": 27808,
       "word": "成毅两京十五日生贺图",
       "onboard_time": 1779044953,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 27021,
+      "num": 27767,
+      "word": "欧冠",
+      "onboard_time": 1779023481,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 26391,
@@ -432,14 +440,6 @@
       "word": "萨尔布吕肯欧冠四连冠",
       "onboard_time": 1779042675,
       "rank": 44,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 24255,
-      "num": 27767,
-      "word": "欧冠",
-      "onboard_time": 1779023481,
-      "rank": 46,
       "category": "体育"
     },
     {

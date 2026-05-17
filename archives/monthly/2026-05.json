@@ -1,6 +1,6 @@
 {
   "startTime": 1777565126834,
-  "endTime": 1779045601152,
+  "endTime": 1779047174269,
   "band_list": [
     {
       "raw_hot": 25375641,
@@ -33219,6 +33219,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 27530,
+      "num": 27808,
+      "word": "成毅两京十五日生贺图",
+      "onboard_time": 1779044953,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 27422,
       "num": 33066,
       "word": "零次 年锦值得一个冠军",
@@ -33337,14 +33345,6 @@
       "onboard_time": 1778696475,
       "rank": 41,
       "category": "美妆,网红"
-    },
-    {
-      "raw_hot": 26498,
-      "num": 27808,
-      "word": "成毅两京十五日生贺图",
-      "onboard_time": 1779044953,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 26434,
