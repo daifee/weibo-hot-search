@@ -1,6 +1,6 @@
 {
   "startTime": 1778951228781,
-  "endTime": 1779018006701,
+  "endTime": 1779025552991,
   "band_list": [
     {
       "raw_hot": 10481772,
@@ -27,6 +27,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 3221849,
+      "num": 3221849,
+      "word": "樊振东0比3大勒布伦",
+      "onboard_time": 1779023840,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2207968,
       "num": 636991,
       "word": "疑似张元英抢金智媛C位",
@@ -35,12 +43,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2199466,
+      "num": 2199466,
+      "word": "家业收视率",
+      "onboard_time": 1779020780,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 2108007,
+      "num": 2108007,
+      "word": "张雪机车夺得5冠",
+      "onboard_time": 1779021442,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2054531,
-      "num": 832238,
+      "num": 900933,
       "word": "电脑微信会惩罚每一个恋旧的人",
       "onboard_time": 1779005117,
       "rank": 3,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1858231,
+      "num": 1858231,
+      "word": "樊振东vs大勒布伦",
+      "onboard_time": 1779019820,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 1809322,
@@ -73,6 +105,14 @@
       "onboard_time": 1779001220,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1467963,
+      "num": 380399,
+      "word": "谢娜晒和李小冉聊天记录",
+      "onboard_time": 1779024201,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 1397610,
@@ -139,6 +179,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 985233,
+      "num": 345840,
+      "word": "李一桐评论去世粉丝博文",
+      "onboard_time": 1779018559,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 979555,
+      "num": 392622,
+      "word": "金珉奎 夜店",
+      "onboard_time": 1779016760,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 937702,
       "num": 404333,
       "word": "姜乘澜 这化妆技术还说啥了",
@@ -153,14 +209,6 @@
       "onboard_time": 1779011961,
       "rank": 1,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 855087,
-      "num": 392622,
-      "word": "金珉奎 夜店",
-      "onboard_time": 1779016760,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 811867,
@@ -195,6 +243,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 781499,
+      "num": 781499,
+      "word": "刘浩存穿十厘米高跟鞋定点转圈",
+      "onboard_time": 1779024801,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 758105,
+      "num": 320228,
+      "word": "小S发文晒全家福",
+      "onboard_time": 1779018440,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 747593,
       "num": 629302,
       "word": "北电看到了杨幂的毕业论文",
@@ -225,6 +289,14 @@
       "onboard_time": 1778997981,
       "rank": 6,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 642203,
+      "num": 642203,
+      "word": "欧冠",
+      "onboard_time": 1779023481,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 636982,
@@ -387,6 +459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 487167,
+      "num": 487167,
+      "word": "杨紫曾被自己的脖子吓到",
+      "onboard_time": 1779023781,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 480882,
       "num": 480882,
       "word": "麦辣鸡腿堡 拉肚子",
@@ -409,6 +489,14 @@
       "onboard_time": 1778999001,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 452704,
+      "num": 311613,
+      "word": "家业热度",
+      "onboard_time": 1779020961,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 447737,
@@ -483,12 +571,44 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 391981,
+      "num": 326948,
+      "word": "八旬老人公交上闭眼休息实则已死亡",
+      "onboard_time": 1779020841,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 391335,
+      "num": 391335,
+      "word": "马尔代夫发生史上最严重单次潜水事故",
+      "onboard_time": 1779021920,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 370934,
+      "num": 293457,
+      "word": "欧冠决赛",
+      "onboard_time": 1779025283,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 370507,
       "num": 346780,
       "word": "白鹿上车前突然跳了段舞",
       "onboard_time": 1778979679,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 366013,
+      "num": 292375,
+      "word": "杨紫家业央8首播收视率",
+      "onboard_time": 1779024621,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 363576,
@@ -505,6 +625,14 @@
       "onboard_time": 1778973437,
       "rank": 15,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 345403,
+      "num": 278431,
+      "word": "狼队对战JDG",
+      "onboard_time": 1779020540,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 343179,
@@ -539,6 +667,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 314083,
+      "num": 250642,
+      "word": "张雪机车昙花五现了",
+      "onboard_time": 1779023421,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 308498,
       "num": 449368,
       "word": "骗爸妈上班在楼顶的一天",
@@ -569,6 +705,14 @@
       "onboard_time": 1778959514,
       "rank": 29,
       "category": "情感"
+    },
+    {
+      "raw_hot": 303362,
+      "num": 619768,
+      "word": "苹果华为小米大幅降价原因",
+      "onboard_time": 1779010579,
+      "rank": 45,
+      "category": "数码"
     },
     {
       "raw_hot": 303126,
@@ -617,6 +761,14 @@
       "onboard_time": 1778994441,
       "rank": 8,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 290008,
+      "num": 240636,
+      "word": "樊振东欧冠决赛对阵",
+      "onboard_time": 1779019281,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 289212,
@@ -675,12 +827,12 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 267096,
-      "num": 619768,
-      "word": "苹果华为小米大幅降价原因",
-      "onboard_time": 1779010579,
-      "rank": 45,
-      "category": "数码"
+      "raw_hot": 266498,
+      "num": 238851,
+      "word": "家业",
+      "onboard_time": 1778944582,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 260106,
@@ -689,14 +841,6 @@
       "onboard_time": 1778984120,
       "rank": 22,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 257227,
-      "num": 238851,
-      "word": "家业",
-      "onboard_time": 1778944582,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 254739,
@@ -729,6 +873,14 @@
       "onboard_time": 1778973736,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 249686,
+      "num": 229275,
+      "word": "主角",
+      "onboard_time": 1778933001,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 247349,
@@ -777,6 +929,22 @@
       "onboard_time": 1778974397,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 237974,
+      "num": 192572,
+      "word": "家业开播口碑",
+      "onboard_time": 1779023960,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 233087,
+      "num": 240828,
+      "word": "AI已经预测了世界杯",
+      "onboard_time": 1779016279,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 227024,
@@ -840,6 +1008,14 @@
       "word": "马嘉祺 肉垫攻击",
       "onboard_time": 1779017720,
       "rank": 43,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 209500,
+      "num": 180431,
+      "word": "李昀锐丞磊李晨郑恺一起打球",
+      "onboard_time": 1779024742,
+      "rank": 49,
       "category": "艺人"
     },
     {
@@ -1003,14 +1179,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 177978,
-      "num": 240828,
-      "word": "AI已经预测了世界杯",
-      "onboard_time": 1779016279,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 176841,
       "num": 176840,
       "word": "刘浩存演技",
@@ -1147,6 +1315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 159782,
+      "num": 186232,
+      "word": "长鑫科技一季度营收同比增长719.13%",
+      "onboard_time": 1779022042,
+      "rank": 45,
+      "category": "财经,互联网"
+    },
+    {
       "raw_hot": 159669,
       "num": 390674,
       "word": "阿隆索出任切尔西主帅",
@@ -1273,14 +1449,6 @@
       "onboard_time": 1778953636,
       "rank": 25,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 128152,
-      "num": 152442,
-      "word": "主角",
-      "onboard_time": 1778933001,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 127911,
@@ -1417,6 +1585,14 @@
       "onboard_time": 1778955016,
       "rank": 15,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 101513,
+      "num": 185130,
+      "word": "男子手机号被豆包乱标成卖猪电话",
+      "onboard_time": 1779018260,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 99129,
@@ -1699,6 +1875,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 64625,
+      "num": 389191,
+      "word": "张雪机车连续2天夺冠",
+      "onboard_time": 1779024621,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 63750,
       "num": 147583,
       "word": "范丞丞也在吃跑男的瓜",
@@ -1795,6 +1979,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 42154,
+      "num": 225354,
+      "word": "窦骁吃醋刘浩存三万福利提翟子路",
+      "onboard_time": 1779025161,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 41665,
       "num": 300670,
       "word": "商家用大小字误导性宣传被判退款",
@@ -1857,6 +2049,14 @@
       "onboard_time": 1778958194,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 32768,
+      "num": 257489,
+      "word": "张雪说培养中国车手给德比斯养老",
+      "onboard_time": 1779024080,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 31160,
@@ -1931,6 +2131,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 19891,
+      "num": 203685,
+      "word": "张雪机车回应第四冠",
+      "onboard_time": 1779024080,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 18983,
+      "num": 2122437,
+      "word": "以德润网",
+      "onboard_time": 1779018919,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 16060,
       "num": 714613,
       "word": "以自强赴荣光",
@@ -1961,6 +2177,22 @@
       "onboard_time": 1778926460,
       "rank": 49,
       "category": "数码"
+    },
+    {
+      "raw_hot": 6870,
+      "num": 213257,
+      "word": "张雪机车收获第四冠",
+      "onboard_time": 1779024501,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 4442,
+      "num": 201079,
+      "word": "樊振东欧冠半决赛首战全胜",
+      "onboard_time": 1779024080,
+      "rank": 41,
+      "category": "体育"
     }
   ],
   "hotgov_list": [
@@ -1978,6 +2210,9 @@
     },
     {
       "word": "#中俄战略协作伙伴关系建立30周年#"
+    },
+    {
+      "word": "#盘点中美元首会谈的重要信号#"
     }
   ]
 }
