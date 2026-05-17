@@ -1,6 +1,6 @@
 {
   "startTime": 1778951228781,
-  "endTime": 1779011705727,
+  "endTime": 1779012540465,
   "band_list": [
     {
       "raw_hot": 10481772,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 2054531,
-      "num": 818602,
+      "num": 832238,
       "word": "电脑微信会惩罚每一个恋旧的人",
       "onboard_time": 1779005117,
       "rank": 3,
@@ -83,11 +83,19 @@
       "category": "数码"
     },
     {
-      "raw_hot": 1301941,
+      "raw_hot": 1306431,
       "num": 407916,
       "word": "金宣虎高允真情侣手机壳",
       "onboard_time": 1779007641,
       "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1152868,
+      "num": 388830,
+      "word": "杨超越摆拍800张选9张",
+      "onboard_time": 1779010521,
+      "rank": 21,
       "category": "艺人"
     },
     {
@@ -107,7 +115,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 880529,
+      "raw_hot": 937702,
       "num": 404333,
       "word": "姜乘澜 这化妆技术还说啥了",
       "onboard_time": 1779003861,
@@ -179,6 +187,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 657462,
+      "num": 1047736,
+      "word": "王晓东被查",
+      "onboard_time": 1779011961,
+      "rank": 1,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 636982,
       "num": 636982,
       "word": "摄影师称摆拍女孩确为盲人",
@@ -201,14 +217,6 @@
       "onboard_time": 1778984959,
       "rank": 4,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 609981,
-      "num": 388830,
-      "word": "杨超越摆拍800张选9张",
-      "onboard_time": 1779010521,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 605020,
@@ -241,6 +249,14 @@
       "onboard_time": 1778938281,
       "rank": 20,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 586209,
+      "num": 298393,
+      "word": "林心如曾劝霍建华做医美被拒",
+      "onboard_time": 1779010038,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 582748,
@@ -296,6 +312,14 @@
       "word": "女游客景区坠亡没有监控",
       "onboard_time": 1779000921,
       "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 507358,
+      "num": 507358,
+      "word": "成年的大熊猫在野外几乎没有天敌",
+      "onboard_time": 1779010521,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -467,6 +491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 307548,
+      "num": 400633,
+      "word": "中美阿三国联合打击电诈",
+      "onboard_time": 1779009499,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 306358,
       "num": 499973,
       "word": "东亚小孩的放弃五件套",
@@ -507,14 +539,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 292817,
-      "num": 408591,
-      "word": "成年的大熊猫在野外几乎没有天敌",
-      "onboard_time": 1779010521,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 292471,
       "num": 649055,
       "word": "央视追踪四川大摆荡坠亡事件",
@@ -539,6 +563,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 285074,
+      "num": 393102,
+      "word": "孕妇大出血准妈妈让出救命手术台",
+      "onboard_time": 1779010579,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 283992,
       "num": 493066,
       "word": "霍启刚郭晶晶现身何超蕸追悼会",
@@ -561,14 +593,6 @@
       "onboard_time": 1778990479,
       "rank": 24,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 267461,
-      "num": 267461,
-      "word": "林心如曾劝霍建华做医美被拒",
-      "onboard_time": 1779010038,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 260106,
@@ -635,6 +659,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 240467,
+      "num": 278505,
+      "word": "中国有多少城市能撑起来七日游",
+      "onboard_time": 1779011060,
+      "rank": 38,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 239022,
       "num": 239022,
       "word": "Gucci大秀",
@@ -691,14 +723,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 220333,
-      "num": 393102,
-      "word": "孕妇大出血准妈妈让出救命手术台",
-      "onboard_time": 1779010579,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 217995,
       "num": 396998,
       "word": "小米部分机型可换更大容量电池",
@@ -745,14 +769,6 @@
       "onboard_time": 1779004701,
       "rank": 43,
       "category": "电影"
-    },
-    {
-      "raw_hot": 208286,
-      "num": 400633,
-      "word": "中美阿三国联合打击电诈",
-      "onboard_time": 1779009499,
-      "rank": 14,
-      "category": "国际时政"
     },
     {
       "raw_hot": 207771,
@@ -825,14 +841,6 @@
       "onboard_time": 1778999121,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 185755,
-      "num": 223951,
-      "word": "中国有多少城市能撑起来七日游",
-      "onboard_time": 1779011060,
-      "rank": 38,
-      "category": "旅游"
     },
     {
       "raw_hot": 184807,
@@ -1043,6 +1051,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 149779,
+      "num": 149779,
+      "word": "佘诗曼和干儿子一起拍摄",
+      "onboard_time": 1779012200,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 149427,
       "num": 149427,
       "word": "Angelababy千禧芭比",
@@ -1139,6 +1155,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 123775,
+      "num": 214284,
+      "word": "给阿嬷的情书男主回应走红",
+      "onboard_time": 1779011480,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
       "raw_hot": 122703,
       "num": 152018,
       "word": "中南大学帅哥自曝理想型",
@@ -1179,12 +1203,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 117317,
+      "num": 286514,
+      "word": "昊铂S600满配预售权益价18.89万起",
+      "onboard_time": 1779011961,
+      "rank": 27,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 116633,
       "num": 116633,
       "word": "杨紫3部作品入围金鹰奖",
       "onboard_time": 1778951237,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 114082,
+      "num": 199150,
+      "word": "苹果华为小米大幅降价原因",
+      "onboard_time": 1779010579,
+      "rank": 45,
+      "category": "数码"
     },
     {
       "raw_hot": 113419,
@@ -1217,14 +1257,6 @@
       "onboard_time": 1778945661,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 105405,
-      "num": 199150,
-      "word": "苹果华为小米大幅降价原因",
-      "onboard_time": 1779010579,
-      "rank": 45,
-      "category": "数码"
     },
     {
       "raw_hot": 104662,
@@ -1433,14 +1465,6 @@
       "onboard_time": 1778934441,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 79009,
-      "num": 214284,
-      "word": "给阿嬷的情书男主回应走红",
-      "onboard_time": 1779011480,
-      "rank": 41,
-      "category": "电影"
     },
     {
       "raw_hot": 78329,
@@ -1715,6 +1739,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 21882,
+      "num": 302071,
+      "word": "女子用爬楼机摔倒身亡事发地无监控",
+      "onboard_time": 1779011599,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 16060,
       "num": 714613,
       "word": "以自强赴荣光",
@@ -1728,14 +1760,6 @@
       "word": "大摆荡项目运营方未进行安全培训",
       "onboard_time": 1779002421,
       "rank": 20,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 13159,
-      "num": 297746,
-      "word": "女子用爬楼机摔倒身亡事发地无监控",
-      "onboard_time": 1779011599,
-      "rank": 32,
       "category": "民生新闻"
     },
     {
