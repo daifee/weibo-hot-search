@@ -1,0 +1,410 @@
+{
+  "runTime": 1779004637188,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 9850738,
+        "num": 9850738,
+        "word": "卢昱晓道歉",
+        "onboard_time": 1778995700,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 519824,
+        "num": 1933014,
+        "word": "特朗普警告台独",
+        "onboard_time": 1778940321,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 30586,
+        "num": 1555956,
+        "word": "今天全国助残日",
+        "onboard_time": 1779002360,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1720025,
+        "num": 1554064,
+        "word": "给阿嬷的情书 屏摄",
+        "onboard_time": 1778992641,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1504723,
+        "num": 1504723,
+        "word": "承德车内强奸案被告母亲发声",
+        "onboard_time": 1779001220,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 779558,
+        "num": 779558,
+        "word": "咬壳吃荔枝 不上火",
+        "onboard_time": 1778993240,
+        "rank": 5,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 546987,
+        "num": 546987,
+        "word": "杨紫回复黄晓明",
+        "onboard_time": 1779002841,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 519843,
+        "num": 519843,
+        "word": "罕见病确诊 这才是互联网的意义",
+        "onboard_time": 1778997981,
+        "rank": 7,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 280425,
+        "num": 518840,
+        "word": "央视追踪四川大摆荡坠亡事件",
+        "onboard_time": 1778994441,
+        "rank": 8,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 255714,
+        "num": 517916,
+        "word": "女游客景区坠亡没有监控",
+        "onboard_time": 1779000921,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 818822,
+        "num": 517158,
+        "word": "疑似张元英抢金智媛C位",
+        "onboard_time": 1778986219,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 747593,
+        "num": 516372,
+        "word": "北电看到了杨幂的毕业论文",
+        "onboard_time": 1778998041,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 466274,
+        "num": 514486,
+        "word": "何超蕸追悼会",
+        "onboard_time": 1778999001,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 679545,
+        "num": 513634,
+        "word": "阚清子乍瘦",
+        "onboard_time": 1778998400,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 252638,
+        "num": 512243,
+        "word": "樊振东和勒布伦兄弟争冠",
+        "onboard_time": 1778999300,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 239367,
+        "num": 511865,
+        "word": "黄仁勋同款",
+        "onboard_time": 1779002000,
+        "rank": 15,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 197685,
+        "num": 510608,
+        "word": "樊振东被莫雷加德又搂又抱",
+        "onboard_time": 1778993001,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 157618,
+        "num": 509608,
+        "word": "台舆论称特朗普不许台独视美为靠山",
+        "onboard_time": 1778984959,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 605020,
+        "num": 507896,
+        "word": "TF五代陈璟翊公开",
+        "onboard_time": 1779001101,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 507498,
+        "num": 507498,
+        "word": "猫的树我找到你的新女主了",
+        "onboard_time": 1778992100,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 342057,
+        "num": 493777,
+        "word": "现在记住了你又不高兴",
+        "onboard_time": 1778999962,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 995376,
+        "num": 493683,
+        "word": "郭富城陪方媛奔丧",
+        "onboard_time": 1778991622,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 491311,
+        "num": 491311,
+        "word": "Angelababy看到小朋友下意识护住",
+        "onboard_time": 1779000259,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 281980,
+        "num": 449368,
+        "word": "骗爸妈上班在楼顶的一天",
+        "onboard_time": 1779002960,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 447737,
+        "num": 447737,
+        "word": "成毅直播",
+        "onboard_time": 1779001281,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 245717,
+        "num": 385951,
+        "word": "霍启刚郭晶晶现身何超蕸追悼会",
+        "onboard_time": 1778997681,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 385438,
+        "num": 385438,
+        "word": "王橹杰iPad上面视频是心理问题",
+        "onboard_time": 1778993301,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 343179,
+        "num": 343179,
+        "word": "全智贤 千颂伊附体",
+        "onboard_time": 1778997800,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 84312,
+        "num": 343113,
+        "word": "委内瑞拉驱逐马杜罗亲信",
+        "onboard_time": 1778997681,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 343081,
+        "num": 343081,
+        "word": "甜馨晒自己化的新妆容",
+        "onboard_time": 1778994201,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 412060,
+        "num": 321724,
+        "word": "起个日本名一听就是天津人",
+        "onboard_time": 1779003742,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 233453,
+        "num": 233453,
+        "word": "苹果华为小米集体降价",
+        "onboard_time": 1778976018,
+        "rank": 31,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 223526,
+        "num": 223526,
+        "word": "姜乘澜 这化妆技术还说啥了",
+        "onboard_time": 1779003861,
+        "rank": 32,
+        "category": "网红,美妆"
+      },
+      {
+        "raw_hot": 209557,
+        "num": 209557,
+        "word": "丝芭给黄婷婷剧组发警告函",
+        "onboard_time": 1778989520,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172363,
+        "num": 202025,
+        "word": "广东暴雨天蟑螂成群出动",
+        "onboard_time": 1778989520,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 201145,
+        "num": 201145,
+        "word": "戛纳电影节红毯G社生图",
+        "onboard_time": 1779004040,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 188369,
+        "num": 188369,
+        "word": "张凌赫被这一秒过火英文名震惊",
+        "onboard_time": 1778996781,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169478,
+        "num": 186544,
+        "word": "从英国寄来的猫听不懂中文",
+        "onboard_time": 1779002542,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 186209,
+        "num": 186209,
+        "word": "李小冉 谢娜管不了我",
+        "onboard_time": 1778999121,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181550,
+        "num": 181550,
+        "word": "香蜜最后一帧原来是家业",
+        "onboard_time": 1778986399,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167963,
+        "num": 179787,
+        "word": "陈泽综艺又没了",
+        "onboard_time": 1778994860,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 179726,
+        "num": 179726,
+        "word": "方媛外公离世",
+        "onboard_time": 1778997140,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171628,
+        "num": 171628,
+        "word": "金鹰奖",
+        "onboard_time": 1779003441,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165624,
+        "num": 165624,
+        "word": "一个动作改善体态问题",
+        "onboard_time": 1779003981,
+        "rank": 43,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 154126,
+        "num": 154126,
+        "word": "陈伟霆钟楚曦 荔湾广场",
+        "onboard_time": 1778990060,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134291,
+        "num": 154072,
+        "word": "小米部分机型可换更大容量电池",
+        "onboard_time": 1779002780,
+        "rank": 45,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 120840,
+        "num": 153280,
+        "word": "小米YU7全系新增火山灰车漆",
+        "onboard_time": 1778990479,
+        "rank": 46,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 48307,
+        "num": 152969,
+        "word": "银行是不是在调整信用卡业务",
+        "onboard_time": 1778996541,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 120991,
+        "num": 152446,
+        "word": "摄影师称摆拍女孩确为盲人",
+        "onboard_time": 1778985380,
+        "rank": 48,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 120143,
+        "num": 152292,
+        "word": "泰兰尼斯代工厂称做一双鞋只赚几块钱",
+        "onboard_time": 1778999720,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中俄战略协作伙伴关系建立30周年#"
+    }
+  }
+}

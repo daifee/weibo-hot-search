@@ -1,6 +1,6 @@
 {
   "startTime": 1778951228781,
-  "endTime": 1779003522682,
+  "endTime": 1779004637188,
   "band_list": [
     {
       "raw_hot": 10481772,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 1809322,
-      "num": 1451565,
+      "num": 1554064,
       "word": "给阿嬷的情书 屏摄",
       "onboard_time": 1778992641,
       "rank": 32,
@@ -49,6 +49,14 @@
       "onboard_time": 1778974517,
       "rank": 10,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 1504723,
+      "num": 1504723,
+      "word": "承德车内强奸案被告母亲发声",
+      "onboard_time": 1779001220,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1397610,
@@ -67,16 +75,8 @@
       "category": "数码"
     },
     {
-      "raw_hot": 1249595,
-      "num": 1249595,
-      "word": "承德车内强奸案被告母亲发声",
-      "onboard_time": 1779001220,
-      "rank": 4,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 962543,
-      "num": 405726,
+      "raw_hot": 995376,
+      "num": 493683,
       "word": "郭富城陪方媛奔丧",
       "onboard_time": 1778991622,
       "rank": 23,
@@ -107,6 +107,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 747593,
+      "num": 629302,
+      "word": "北电看到了杨幂的毕业论文",
+      "onboard_time": 1778998041,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 679545,
+      "num": 624627,
+      "word": "阚清子乍瘦",
+      "onboard_time": 1778998400,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 662445,
       "num": 662445,
       "word": "罕见病确诊 这才是互联网的意义",
@@ -131,28 +147,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 629302,
-      "num": 629302,
-      "word": "北电看到了杨幂的毕业论文",
-      "onboard_time": 1778998041,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 624627,
-      "num": 624627,
-      "word": "阚清子乍瘦",
-      "onboard_time": 1778998400,
-      "rank": 13,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 622153,
       "num": 622153,
       "word": "台舆论称特朗普不许台独视美为靠山",
       "onboard_time": 1778984959,
       "rank": 4,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 605020,
+      "num": 522604,
+      "word": "TF五代陈璟翊公开",
+      "onboard_time": 1779001101,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 602418,
@@ -195,6 +203,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 546987,
+      "num": 546987,
+      "word": "杨紫回复黄晓明",
+      "onboard_time": 1779002841,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 541104,
       "num": 251118,
       "word": "日本担心中美关系稳定自己被晾在一边",
@@ -211,14 +227,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 522604,
-      "num": 522604,
-      "word": "TF五代陈璟翊公开",
-      "onboard_time": 1779001101,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 520409,
       "num": 654330,
       "word": "猫的树我找到你的新女主了",
@@ -227,8 +235,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 480094,
-      "num": 480094,
+      "raw_hot": 491311,
+      "num": 491311,
       "word": "Angelababy看到小朋友下意识护住",
       "onboard_time": 1779000259,
       "rank": 18,
@@ -243,12 +251,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 450722,
+      "raw_hot": 466274,
       "num": 624702,
       "word": "何超蕸追悼会",
       "onboard_time": 1778999001,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 447737,
+      "num": 447737,
+      "word": "成毅直播",
+      "onboard_time": 1779001281,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 447173,
@@ -265,6 +281,14 @@
       "onboard_time": 1778942182,
       "rank": 5,
       "category": "情感"
+    },
+    {
+      "raw_hot": 412060,
+      "num": 321724,
+      "word": "起个日本名一听就是天津人",
+      "onboard_time": 1779003742,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 404719,
@@ -331,20 +355,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 347355,
-      "num": 347355,
-      "word": "杨紫回复黄晓明",
-      "onboard_time": 1779002841,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 343122,
-      "num": 343122,
+      "raw_hot": 343179,
+      "num": 343179,
       "word": "全智贤 千颂伊附体",
       "onboard_time": 1778997800,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 342057,
+      "num": 493777,
+      "word": "现在记住了你又不高兴",
+      "onboard_time": 1778999962,
+      "rank": 23,
+      "category": "幽默"
     },
     {
       "raw_hot": 331524,
@@ -451,6 +475,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 281980,
+      "num": 449368,
+      "word": "骗爸妈上班在楼顶的一天",
+      "onboard_time": 1779002960,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 274468,
       "num": 253478,
       "word": "小米YU7全系新增火山灰车漆",
@@ -467,6 +499,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 255714,
+      "num": 517916,
+      "word": "女游客景区坠亡没有监控",
+      "onboard_time": 1779000921,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 254739,
       "num": 344202,
       "word": "广东暴雨天蟑螂成群出动",
@@ -475,12 +515,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 254645,
-      "num": 394449,
-      "word": "现在记住了你又不高兴",
-      "onboard_time": 1778999962,
-      "rank": 23,
-      "category": "幽默"
+      "raw_hot": 252638,
+      "num": 512243,
+      "word": "樊振东和勒布伦兄弟争冠",
+      "onboard_time": 1778999300,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 252464,
@@ -497,14 +537,6 @@
       "onboard_time": 1778973736,
       "rank": 8,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 251702,
-      "num": 481562,
-      "word": "樊振东和勒布伦兄弟争冠",
-      "onboard_time": 1778999300,
-      "rank": 16,
-      "category": "体育"
     },
     {
       "raw_hot": 247349,
@@ -524,7 +556,7 @@
     },
     {
       "raw_hot": 240787,
-      "num": 346654,
+      "num": 511865,
       "word": "黄仁勋同款",
       "onboard_time": 1779002000,
       "rank": 26,
@@ -555,14 +587,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 233842,
-      "num": 233842,
-      "word": "成毅直播",
-      "onboard_time": 1779001281,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 225769,
       "num": 225769,
       "word": "孙安佐被抓",
@@ -577,6 +601,14 @@
       "onboard_time": 1778975058,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 223526,
+      "num": 223526,
+      "word": "姜乘澜 这化妆技术还说啥了",
+      "onboard_time": 1779003861,
+      "rank": 32,
+      "category": "网红,美妆"
     },
     {
       "raw_hot": 221534,
@@ -627,8 +659,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 201145,
+      "num": 201145,
+      "word": "戛纳电影节红毯G社生图",
+      "onboard_time": 1779004040,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 198293,
-      "num": 233877,
+      "num": 510608,
       "word": "樊振东被莫雷加德又搂又抱",
       "onboard_time": 1778993001,
       "rank": 34,
@@ -667,12 +707,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 185092,
-      "num": 344123,
-      "word": "女游客景区坠亡没有监控",
-      "onboard_time": 1779000921,
-      "rank": 29,
-      "category": "民生新闻"
+      "raw_hot": 186209,
+      "num": 186209,
+      "word": "李小冉 谢娜管不了我",
+      "onboard_time": 1778999121,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 184647,
@@ -681,14 +721,6 @@
       "onboard_time": 1778933781,
       "rank": 18,
       "category": "民生新闻,财经"
-    },
-    {
-      "raw_hot": 183549,
-      "num": 183549,
-      "word": "李小冉 谢娜管不了我",
-      "onboard_time": 1778999121,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 182311,
@@ -731,14 +763,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 176762,
-      "num": 213302,
-      "word": "骗爸妈上班在楼顶的一天",
-      "onboard_time": 1779002960,
-      "rank": 37,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 174173,
       "num": 174173,
       "word": "杨紫韩东君换头像",
@@ -763,12 +787,28 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 171628,
+      "num": 171628,
+      "word": "金鹰奖",
+      "onboard_time": 1779003441,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 170105,
       "num": 170105,
       "word": "作业本包的糖醋排骨",
       "onboard_time": 1778990598,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 169478,
+      "num": 186544,
+      "word": "从英国寄来的猫听不懂中文",
+      "onboard_time": 1779002542,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 169190,
@@ -795,6 +835,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 165624,
+      "num": 165624,
+      "word": "一个动作改善体态问题",
+      "onboard_time": 1779003981,
+      "rank": 43,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 165535,
       "num": 165535,
       "word": "JDG对战AG",
@@ -817,14 +865,6 @@
       "onboard_time": 1778929821,
       "rank": 21,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 162666,
-      "num": 184930,
-      "word": "从英国寄来的猫听不懂中文",
-      "onboard_time": 1779002542,
-      "rank": 40,
-      "category": "幽默"
     },
     {
       "raw_hot": 162302,
@@ -907,12 +947,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 134606,
-      "num": 134606,
-      "word": "金鹰奖",
-      "onboard_time": 1779003441,
-      "rank": 49,
-      "category": "剧集"
+      "raw_hot": 134291,
+      "num": 154072,
+      "word": "小米部分机型可换更大容量电池",
+      "onboard_time": 1779002780,
+      "rank": 47,
+      "category": "数码"
     },
     {
       "raw_hot": 129563,
@@ -979,6 +1019,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 120143,
+      "num": 152292,
+      "word": "泰兰尼斯代工厂称做一双鞋只赚几块钱",
+      "onboard_time": 1778999720,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 117337,
       "num": 149482,
       "word": "一个很好的解压方法",
@@ -1017,14 +1065,6 @@
       "onboard_time": 1778950818,
       "rank": 43,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 109921,
-      "num": 142323,
-      "word": "小米部分机型可换更大容量电池",
-      "onboard_time": 1779002780,
-      "rank": 47,
-      "category": "数码"
     },
     {
       "raw_hot": 106773,
@@ -1387,6 +1427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 48307,
+      "num": 152969,
+      "word": "银行是不是在调整信用卡业务",
+      "onboard_time": 1778996541,
+      "rank": 47,
+      "category": "财经"
+    },
+    {
       "raw_hot": 46785,
       "num": 46785,
       "word": "哪些情况不建议用红霉素软膏",
@@ -1443,6 +1491,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 30586,
+      "num": 1596753,
+      "word": "今天全国助残日",
+      "onboard_time": 1779002360,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 30250,
       "num": 176841,
       "word": "泰国火车与巴士相撞已致8死32伤",
@@ -1465,14 +1521,6 @@
       "onboard_time": 1778990901,
       "rank": 19,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 28038,
-      "num": 1596753,
-      "word": "今天全国助残日",
-      "onboard_time": 1779002360,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 26165,
@@ -1535,6 +1583,9 @@
     },
     {
       "word": "#开创哲学社会科学高质量发展新局面#"
+    },
+    {
+      "word": "#中俄战略协作伙伴关系建立30周年#"
     }
   ]
 }
