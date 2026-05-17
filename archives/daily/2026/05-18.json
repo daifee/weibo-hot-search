@@ -1,6 +1,6 @@
 {
   "startTime": 1779037572764,
-  "endTime": 1779039254551,
+  "endTime": 1779045601152,
   "band_list": [
     {
       "raw_hot": 6308488,
@@ -43,20 +43,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 768484,
+      "num": 768484,
+      "word": "陈泽",
+      "onboard_time": 1779037878,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 667002,
       "num": 667002,
       "word": "仇人租到这种房我也释怀了",
       "onboard_time": 1779032900,
       "rank": 6,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 505643,
-      "num": 505643,
-      "word": "陈泽",
-      "onboard_time": 1779037878,
-      "rank": 6,
-      "category": "剧集"
     },
     {
       "raw_hot": 381922,
@@ -409,6 +409,38 @@
       "onboard_time": 1779022042,
       "rank": 49,
       "category": "财经,互联网"
+    },
+    {
+      "raw_hot": 26498,
+      "num": 27808,
+      "word": "成毅两京十五日生贺图",
+      "onboard_time": 1779044953,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 26391,
+      "num": 27795,
+      "word": "2026LPL第二赛段",
+      "onboard_time": 1779042017,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 26276,
+      "num": 27778,
+      "word": "萨尔布吕肯欧冠四连冠",
+      "onboard_time": 1779042675,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 24255,
+      "num": 27767,
+      "word": "欧冠",
+      "onboard_time": 1779023481,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 13684,
