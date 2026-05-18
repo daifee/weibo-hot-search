@@ -1,7 +1,15 @@
 {
   "startTime": 1779037572764,
-  "endTime": 1779101277787,
+  "endTime": 1779114972822,
   "band_list": [
+    {
+      "raw_hot": 17984788,
+      "num": 17984788,
+      "word": "柳州再发生地震",
+      "onboard_time": 1779112703,
+      "rank": 0,
+      "category": "突发/灾害"
+    },
     {
       "raw_hot": 6308488,
       "num": 6308488,
@@ -28,11 +36,27 @@
     },
     {
       "raw_hot": 3804140,
-      "num": 289842,
+      "num": 292914,
       "word": "姜乘澜被执行1119万",
       "onboard_time": 1779096679,
       "rank": 10,
       "category": "网红"
+    },
+    {
+      "raw_hot": 3534884,
+      "num": 397144,
+      "word": "洁丽雅已报案",
+      "onboard_time": 1779109641,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2951894,
+      "num": 390011,
+      "word": "唐艺昕9年了妆还没卸干净",
+      "onboard_time": 1779105379,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 2773191,
@@ -67,8 +91,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2026439,
+      "num": 2232668,
+      "word": "柳州地震的原因找到了",
+      "onboard_time": 1779107060,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1968780,
-      "num": 270509,
+      "num": 298530,
       "word": "周冬雨 刘昊然",
       "onboard_time": 1779091099,
       "rank": 20,
@@ -83,11 +115,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1543509,
+      "num": 1543509,
+      "word": "广州震感",
+      "onboard_time": 1779113244,
+      "rank": 3,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 1425921,
       "num": 276064,
       "word": "曝监狱来的妈妈撤档",
       "onboard_time": 1779095118,
       "rank": 13,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 1298488,
+      "num": 372296,
+      "word": "姚晨方回应",
+      "onboard_time": 1779110001,
+      "rank": 12,
       "category": "电影"
     },
     {
@@ -156,7 +204,7 @@
     },
     {
       "raw_hot": 1083072,
-      "num": 286715,
+      "num": 297103,
       "word": "汤唯手机壳",
       "onboard_time": 1779099801,
       "rank": 11,
@@ -169,6 +217,30 @@
       "onboard_time": 1779063320,
       "rank": 26,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 970830,
+      "num": 970830,
+      "word": "王安宇一手拉田曦薇一手拉黄明昊",
+      "onboard_time": 1779108741,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 969539,
+      "num": 332405,
+      "word": "全村62人患癌多名村民发声",
+      "onboard_time": 1779108981,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 967890,
+      "num": 967890,
+      "word": "长这么大终于听懂了商鞅变法",
+      "onboard_time": 1779105261,
+      "rank": 6,
+      "category": "科学科普"
     },
     {
       "raw_hot": 951842,
@@ -217,6 +289,22 @@
       "onboard_time": 1779037878,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 766722,
+      "num": 318134,
+      "word": "武汉一村庄585人62人患癌",
+      "onboard_time": 1779100880,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 756132,
+      "num": 298115,
+      "word": "杨子家族疯狂套现超28亿",
+      "onboard_time": 1779100880,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 754879,
@@ -323,6 +411,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 611073,
+      "num": 352960,
+      "word": "真有人在豆包预约餐厅",
+      "onboard_time": 1779110603,
+      "rank": 13,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 600633,
       "num": 697179,
       "word": "何超仪公开何超蕸真正死因",
@@ -387,6 +483,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 478815,
+      "num": 291947,
+      "word": "天津高空跳伞项目发生事故两人遇难",
+      "onboard_time": 1779103700,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 472727,
+      "num": 296469,
+      "word": "给阿嬷的情书 暴走老奶",
+      "onboard_time": 1779105681,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
       "raw_hot": 468468,
       "num": 331404,
       "word": "白鹿周翊然方辟谣恋情",
@@ -417,6 +529,14 @@
       "onboard_time": 1779085460,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 437991,
+      "num": 437991,
+      "word": "手机店老板称线下基本不卖新机了",
+      "onboard_time": 1779111202,
+      "rank": 7,
+      "category": "数码"
     },
     {
       "raw_hot": 434267,
@@ -459,6 +579,22 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 400201,
+      "num": 295364,
+      "word": "何老师也接受不了vip抢先看",
+      "onboard_time": 1779100220,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 395520,
+      "num": 299598,
+      "word": "洁丽雅靠八卦营销终成烫手山芋",
+      "onboard_time": 1779105021,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 385272,
       "num": 268349,
       "word": "难怪杨幂爸妈小时候舍不得打她",
@@ -499,6 +635,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 370183,
+      "num": 295499,
+      "word": "佛山震感",
+      "onboard_time": 1779113425,
+      "rank": 25,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 369811,
       "num": 369811,
       "word": "垫底辣孩与女网红合拍被指没边界感",
@@ -513,6 +657,14 @@
       "onboard_time": 1779089359,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 367610,
+      "num": 294542,
+      "word": "娜扎混血妆",
+      "onboard_time": 1779105919,
+      "rank": 27,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 359633,
@@ -555,14 +707,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 334332,
-      "num": 256146,
-      "word": "何老师也接受不了vip抢先看",
-      "onboard_time": 1779100220,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 332575,
       "num": 298971,
       "word": "李英爱问张凌赫很有名吗",
@@ -572,11 +716,19 @@
     },
     {
       "raw_hot": 324729,
-      "num": 137155,
+      "num": 258554,
       "word": "老乡杯",
       "onboard_time": 1779098661,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 319179,
+      "num": 291108,
+      "word": "柳州罕见地震300年一遇",
+      "onboard_time": 1779114803,
+      "rank": 33,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 314678,
@@ -651,12 +803,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 300332,
+      "num": 300332,
+      "word": "WTT美国大满贯参赛名单公布",
+      "onboard_time": 1779105441,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 294943,
       "num": 256974,
       "word": "许玮甯邱泽公园溜娃",
       "onboard_time": 1779075800,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 289941,
+      "num": 289941,
+      "word": "主角",
+      "onboard_time": 1779019820,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 289932,
@@ -731,6 +899,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 272855,
+      "num": 272855,
+      "word": "地震一刻值班员果断拦停列车",
+      "onboard_time": 1779112885,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 270170,
+      "num": 270170,
+      "word": "专家解读柳州地震成因余震风险",
+      "onboard_time": 1779112163,
+      "rank": 37,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 259777,
       "num": 259777,
       "word": "刘浩存穿十厘米高跟鞋定点转圈",
@@ -771,12 +955,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 249680,
+      "num": 249680,
+      "word": "阿嬷的陈楚生来看陈楚生了",
+      "onboard_time": 1779103400,
+      "rank": 39,
+      "category": "演出"
+    },
+    {
       "raw_hot": 246977,
       "num": 219298,
       "word": "罗永浩谈给阿嬷的情书",
       "onboard_time": 1779077541,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 244391,
+      "num": 244391,
+      "word": "台湾人疯狂批发霸王茶姬回家",
+      "onboard_time": 1779113304,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 241384,
@@ -803,12 +1003,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 236444,
-      "num": 236444,
-      "word": "杨子家族疯狂套现超28亿",
-      "onboard_time": 1779100880,
-      "rank": 35,
-      "category": "民生新闻"
+      "raw_hot": 234670,
+      "num": 234670,
+      "word": "本周做什么都顺的星座TOP4",
+      "onboard_time": 1779110122,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 232549,
+      "num": 293392,
+      "word": "魏牌V9X上市",
+      "onboard_time": 1779113844,
+      "rank": 29,
+      "category": "汽车"
     },
     {
       "raw_hot": 232197,
@@ -817,6 +1025,14 @@
       "onboard_time": 1779085940,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 231993,
+      "num": 231993,
+      "word": "刘宇宁警官造型路透",
+      "onboard_time": 1779113784,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 231079,
@@ -899,6 +1115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 214778,
+      "num": 214778,
+      "word": "内娱男明星代言数量汇总",
+      "onboard_time": 1779101961,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 214418,
       "num": 214418,
       "word": "穆祉丞戛纳人气",
@@ -920,6 +1144,14 @@
       "word": "给阿嬷的情书拍得女主直掉眼泪",
       "onboard_time": 1779035899,
       "rank": 37,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 210461,
+      "num": 210461,
+      "word": "给阿嬷的情书",
+      "onboard_time": 1779007341,
+      "rank": 18,
       "category": "电影"
     },
     {
@@ -971,14 +1203,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 201108,
-      "num": 201108,
-      "word": "武汉一村庄585人62人患癌",
-      "onboard_time": 1779100880,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 200930,
       "num": 611294,
       "word": "男方提分手女方拒退18.8万彩礼",
@@ -987,12 +1211,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 197044,
+      "num": 212811,
+      "word": "柳州地震倒塌房屋附近出现大坑",
+      "onboard_time": 1779113005,
+      "rank": 44,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 196376,
       "num": 196376,
       "word": "张雪机车夺得5冠",
       "onboard_time": 1779021442,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 195909,
+      "num": 195909,
+      "word": "高圆圆为照顾母亲接戏不离开北京",
+      "onboard_time": 1779110961,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 195129,
@@ -1009,6 +1249,14 @@
       "onboard_time": 1779066321,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 191144,
+      "num": 200540,
+      "word": "A股算力龙头一字涨停",
+      "onboard_time": 1779113005,
+      "rank": 47,
+      "category": "财经"
     },
     {
       "raw_hot": 188703,
@@ -1035,6 +1283,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 184759,
+      "num": 197805,
+      "word": "特朗普访华整晚都在谈台湾问题",
+      "onboard_time": 1779111141,
+      "rank": 48,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 180067,
       "num": 587236,
       "word": "男子连买9副耳机全部申请退货",
@@ -1057,14 +1313,6 @@
       "onboard_time": 1779065901,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 172133,
-      "num": 172133,
-      "word": "给阿嬷的情书",
-      "onboard_time": 1779007341,
-      "rank": 18,
-      "category": "电影"
     },
     {
       "raw_hot": 171812,
@@ -1332,19 +1580,11 @@
     },
     {
       "raw_hot": 109543,
-      "num": 172023,
+      "num": 299886,
       "word": "鸿蒙智行法务公示多自媒体账号被处理",
       "onboard_time": 1779099081,
       "rank": 46,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 103753,
-      "num": 110262,
-      "word": "主角",
-      "onboard_time": 1779019820,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 102901,
@@ -1483,6 +1723,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 68626,
+      "num": 297878,
+      "word": "魏建军称品质没有快进键",
+      "onboard_time": 1779112464,
+      "rank": 22,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 68541,
       "num": 568443,
       "word": "刘浩存捡蝴蝶太灵动",
@@ -1619,6 +1867,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 42316,
+      "num": 427094,
+      "word": "第79届世卫大会拒绝涉台提案",
+      "onboard_time": 1779114023,
+      "rank": 8,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 35380,
       "num": 203794,
       "word": "贝克汉姆看球赛吃什么",
@@ -1715,6 +1971,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 11507,
+      "num": 1738411,
+      "word": "共赴网络文明之约",
+      "onboard_time": 1779104423,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 10358,
       "num": 68517,
       "word": "20万出头就能买四驱空悬中大型SUV",
@@ -1740,6 +2004,9 @@
     },
     {
       "word": "#听总书记讲文物故事#"
+    },
+    {
+      "word": "#习近平谈中俄关系#"
     }
   ]
 }

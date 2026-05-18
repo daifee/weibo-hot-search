@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1779101277787,
+  "endTime": 1779114972822,
   "band_list": [
     {
       "raw_hot": 46860992,
@@ -145,6 +145,14 @@
       "onboard_time": 1778420603,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 17984788,
+      "num": 17984788,
+      "word": "柳州再发生地震",
+      "onboard_time": 1779112703,
+      "rank": 0,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 16741456,
@@ -1492,7 +1500,7 @@
     },
     {
       "raw_hot": 3804140,
-      "num": 289842,
+      "num": 292914,
       "word": "姜乘澜被执行1119万",
       "onboard_time": 1779096679,
       "rank": 10,
@@ -1680,6 +1688,14 @@
       "word": "谢某某就是梅姨",
       "onboard_time": 1774065984,
       "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 3534884,
+      "num": 397144,
+      "word": "洁丽雅已报案",
+      "onboard_time": 1779109641,
+      "rank": 10,
       "category": "民生新闻"
     },
     {
@@ -2203,6 +2219,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 2951894,
+      "num": 390011,
+      "word": "唐艺昕9年了妆还没卸干净",
+      "onboard_time": 1779105379,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2932923,
       "num": 2932923,
       "word": "新年贺词",
@@ -2377,30 +2401,6 @@
       "onboard_time": 1774479318,
       "rank": 10,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 2760241,
-      "num": 2760241,
-      "word": "U23国足亚军",
-      "onboard_time": 1769273663,
-      "rank": 1,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 2744239,
-      "num": 1123876,
-      "word": "杨幂身子斜的都快躺那了",
-      "onboard_time": 1770297029,
-      "rank": 5,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 2742646,
-      "num": 402192,
-      "word": "中东局势彻底失控",
-      "onboard_time": 1772605223,
-      "rank": 5,
-      "category": "国际时政"
     }
   ],
   "hotgov_list": [
