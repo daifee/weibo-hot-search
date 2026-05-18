@@ -1,0 +1,410 @@
+{
+  "runTime": 1779115381492,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 15694786,
+        "num": 15694786,
+        "word": "柳州再发生地震",
+        "onboard_time": 1779112703,
+        "rank": 0,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 2062946,
+        "num": 2218056,
+        "word": "柳州地震的原因找到了",
+        "onboard_time": 1779107060,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 10619,
+        "num": 1666515,
+        "word": "共赴网络文明之约",
+        "onboard_time": 1779104423,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1314219,
+        "num": 1314219,
+        "word": "广州震感",
+        "onboard_time": 1779113244,
+        "rank": 3,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 1234377,
+        "num": 1234377,
+        "word": "特朗普连发15张图分享中国记忆",
+        "onboard_time": 1779096622,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 966985,
+        "num": 966985,
+        "word": "王濛瘦成鹿晗了",
+        "onboard_time": 1779091519,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 963683,
+        "num": 963683,
+        "word": "长这么大终于听懂了商鞅变法",
+        "onboard_time": 1779105261,
+        "rank": 6,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 898341,
+        "num": 898341,
+        "word": "王安宇一手拉田曦薇一手拉黄明昊",
+        "onboard_time": 1779108741,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 486245,
+        "num": 486245,
+        "word": "手机店老板称线下基本不卖新机了",
+        "onboard_time": 1779111202,
+        "rank": 8,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 710821,
+        "num": 484586,
+        "word": "真有人在豆包预约餐厅",
+        "onboard_time": 1779110603,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 3198346,
+        "num": 478990,
+        "word": "洁丽雅已报案",
+        "onboard_time": 1779109641,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2774772,
+        "num": 475492,
+        "word": "唐艺昕9年了妆还没卸干净",
+        "onboard_time": 1779105379,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1367167,
+        "num": 470399,
+        "word": "姚晨方回应",
+        "onboard_time": 1779110001,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 936188,
+        "num": 465412,
+        "word": "全村62人患癌多名村民发声",
+        "onboard_time": 1779108981,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 691303,
+        "num": 461822,
+        "word": "杨子家族疯狂套现超28亿",
+        "onboard_time": 1779100880,
+        "rank": 14,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 681270,
+        "num": 458075,
+        "word": "武汉一村庄585人62人患癌",
+        "onboard_time": 1779100880,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 454344,
+        "num": 454344,
+        "word": "98岁奶奶拿出了她当年的嫁妆",
+        "onboard_time": 1779096858,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 201510,
+        "num": 285713,
+        "word": "魏牌V9X上市",
+        "onboard_time": 1779113844,
+        "rank": 17,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 282801,
+        "num": 282801,
+        "word": "WTT美国大满贯参赛名单公布",
+        "onboard_time": 1779105441,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 432476,
+        "num": 282465,
+        "word": "柳州罕见地震300年一遇",
+        "onboard_time": 1779114803,
+        "rank": 19,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 1506669,
+        "num": 280979,
+        "word": "周冬雨 刘昊然",
+        "onboard_time": 1779091099,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 579806,
+        "num": 279042,
+        "word": "汤唯手机壳",
+        "onboard_time": 1779099801,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 378805,
+        "num": 277901,
+        "word": "洁丽雅靠八卦营销终成烫手山芋",
+        "onboard_time": 1779105021,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 459204,
+        "num": 276353,
+        "word": "给阿嬷的情书 暴走老奶",
+        "onboard_time": 1779105681,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 64118,
+        "num": 274456,
+        "word": "魏建军称品质没有快进键",
+        "onboard_time": 1779112464,
+        "rank": 24,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 393399,
+        "num": 272924,
+        "word": "何老师也接受不了vip抢先看",
+        "onboard_time": 1779100220,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 46767,
+        "num": 270259,
+        "word": "第79届世卫大会拒绝涉台提案",
+        "onboard_time": 1779114023,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 356346,
+        "num": 269453,
+        "word": "娜扎混血妆",
+        "onboard_time": 1779105919,
+        "rank": 27,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 328127,
+        "num": 267866,
+        "word": "南宁震感",
+        "onboard_time": 1779113724,
+        "rank": 28,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 325946,
+        "num": 266108,
+        "word": "佛山震感",
+        "onboard_time": 1779113425,
+        "rank": 29,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 747665,
+        "num": 263709,
+        "word": "姜乘澜被执行1119万",
+        "onboard_time": 1779096679,
+        "rank": 30,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 69891,
+        "num": 263453,
+        "word": "鸿蒙智行法务公示多自媒体账号被处理",
+        "onboard_time": 1779099081,
+        "rank": 31,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 464786,
+        "num": 261279,
+        "word": "天津高空跳伞项目发生事故两人遇难",
+        "onboard_time": 1779103700,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 306896,
+        "num": 260404,
+        "word": "深圳震感",
+        "onboard_time": 1779114984,
+        "rank": 33,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 163893,
+        "num": 258825,
+        "word": "腾势请王力宏为用户唱歌",
+        "onboard_time": 1779114984,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 299577,
+        "num": 257106,
+        "word": "主角",
+        "onboard_time": 1779106100,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 295226,
+        "num": 255107,
+        "word": "台湾人疯狂批发霸王茶姬回家",
+        "onboard_time": 1779113304,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 297213,
+        "num": 253427,
+        "word": "麦琳瘦成唐嫣了",
+        "onboard_time": 1779078143,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 293236,
+        "num": 251619,
+        "word": "上海交大通报学生私吞竞赛奖金",
+        "onboard_time": 1779097220,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 250968,
+        "num": 250968,
+        "word": "给阿嬷的情书",
+        "onboard_time": 1779110841,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 249419,
+        "num": 249419,
+        "word": "老乡杯",
+        "onboard_time": 1779098661,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 241064,
+        "num": 241064,
+        "word": "本周做什么都顺的星座TOP4",
+        "onboard_time": 1779110122,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 232823,
+        "num": 232823,
+        "word": "内娱男明星代言数量汇总",
+        "onboard_time": 1779101961,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 230567,
+        "num": 230567,
+        "word": "地震一刻值班员果断拦停列车",
+        "onboard_time": 1779112885,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 230083,
+        "num": 230083,
+        "word": "专家解读柳州地震成因余震风险",
+        "onboard_time": 1779112163,
+        "rank": 44,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 228175,
+        "num": 228175,
+        "word": "阿嬷的陈楚生来看陈楚生了",
+        "onboard_time": 1779103400,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 226505,
+        "num": 226505,
+        "word": "刘宇宁警官造型路透",
+        "onboard_time": 1779113784,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 180928,
+        "num": 214409,
+        "word": "A股算力龙头一字涨停",
+        "onboard_time": 1779113005,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 204141,
+        "num": 204141,
+        "word": "家业",
+        "onboard_time": 1779105261,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 200675,
+        "num": 200675,
+        "word": "高圆圆为照顾母亲接戏不离开北京",
+        "onboard_time": 1779110961,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平谈中俄关系#"
+    }
+  }
+}
