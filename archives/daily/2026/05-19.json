@@ -1,17 +1,25 @@
 {
   "startTime": 1779125683087,
-  "endTime": 1779140833945,
+  "endTime": 1779145931230,
   "band_list": [
     {
+      "raw_hot": 802631,
+      "num": 113564,
+      "word": "曝蔡卓妍含泪控诉丈夫",
+      "onboard_time": 1779115403,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 645388,
-      "num": 645388,
+      "num": 705189,
       "word": "特朗普连发15张图分享中国记忆",
       "onboard_time": 1779096622,
       "rank": 0,
       "category": "国际时政"
     },
     {
-      "raw_hot": 423905,
+      "raw_hot": 550236,
       "num": 423905,
       "word": "长这么大终于听懂了商鞅变法",
       "onboard_time": 1779105261,
@@ -27,12 +35,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 325052,
-      "num": 325052,
+      "raw_hot": 335640,
+      "num": 335640,
       "word": "小朋友的世界是没有退路的",
       "onboard_time": 1779120140,
       "rank": 4,
       "category": "情感"
+    },
+    {
+      "raw_hot": 326058,
+      "num": 188876,
+      "word": "全村62人患癌多名村民发声",
+      "onboard_time": 1779108981,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 306266,
+      "num": 113220,
+      "word": "曝阿娇没有去阿Sa的婚礼",
+      "onboard_time": 1779145878,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 303560,
@@ -67,11 +91,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 229424,
-      "num": 188876,
-      "word": "全村62人患癌多名村民发声",
-      "onboard_time": 1779108981,
-      "rank": 11,
+      "raw_hot": 229483,
+      "num": 118845,
+      "word": "娜塔莎无下限广告引学生模仿",
+      "onboard_time": 1779123617,
+      "rank": 23,
       "category": "民生新闻"
     },
     {
@@ -99,12 +123,28 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 196717,
+      "num": 500022,
+      "word": "监狱来的妈妈单日票房超4万",
+      "onboard_time": 1779123617,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 184568,
       "num": 184568,
       "word": "杨子家族疯狂套现超28亿",
       "onboard_time": 1779100880,
       "rank": 13,
       "category": "民生新闻,艺人"
+    },
+    {
+      "raw_hot": 178557,
+      "num": 169251,
+      "word": "柳州地震遇难夫妻是当地菜市场商贩",
+      "onboard_time": 1779121519,
+      "rank": 18,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 176976,
@@ -115,12 +155,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 169251,
-      "num": 169251,
-      "word": "柳州地震遇难夫妻是当地菜市场商贩",
-      "onboard_time": 1779121519,
-      "rank": 18,
-      "category": "突发/灾害"
+      "raw_hot": 169492,
+      "num": 169492,
+      "word": "杨紫曹磊对手戏",
+      "onboard_time": 1779125417,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 166070,
@@ -131,12 +171,36 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 149382,
+      "num": 116787,
+      "word": "唐艺昕9年了妆还没卸干净",
+      "onboard_time": 1779105379,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 137470,
       "num": 137470,
       "word": "何老师也接受不了vip抢先看",
       "onboard_time": 1779100220,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 128302,
+      "num": 128302,
+      "word": "唐艺昕 这下妆卸干净了",
+      "onboard_time": 1779135793,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 121137,
+      "num": 121137,
+      "word": "上海交大通报学生私吞竞赛奖金",
+      "onboard_time": 1779097220,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 118901,
@@ -147,19 +211,27 @@
       "category": "电影"
     },
     {
-      "raw_hot": 111190,
-      "num": 111190,
-      "word": "上海交大通报学生私吞竞赛奖金",
-      "onboard_time": 1779097220,
-      "rank": 19,
+      "raw_hot": 115747,
+      "num": 115747,
+      "word": "以防你没见过遛大型犬",
+      "onboard_time": 1779123617,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 113960,
+      "num": 113960,
+      "word": "老人恶意划车被拍车主报警",
+      "onboard_time": 1779117981,
+      "rank": 46,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 110007,
-      "num": 110887,
-      "word": "娜塔莎无下限广告引学生模仿",
-      "onboard_time": 1779123617,
-      "rank": 23,
+      "raw_hot": 111369,
+      "num": 111369,
+      "word": "武汉一村庄585人62人患癌",
+      "onboard_time": 1779100880,
+      "rank": 22,
       "category": "民生新闻"
     },
     {
@@ -171,27 +243,19 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 106153,
+      "num": 106153,
+      "word": "给阿嬷的情书 微博长尾效应",
+      "onboard_time": 1779136093,
+      "rank": 8,
+      "category": "电影"
+    },
+    {
       "raw_hot": 101218,
       "num": 111081,
       "word": "洁丽雅靠八卦营销终成烫手山芋",
       "onboard_time": 1779105021,
       "rank": 21,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 98575,
-      "num": 110370,
-      "word": "监狱来的妈妈单日票房超4万",
-      "onboard_time": 1779123617,
-      "rank": 28,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 95080,
-      "num": 110930,
-      "word": "武汉一村庄585人62人患癌",
-      "onboard_time": 1779100880,
-      "rank": 22,
       "category": "民生新闻"
     },
     {
@@ -219,12 +283,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 81853,
-      "num": 110598,
-      "word": "杨紫曹磊对手戏",
-      "onboard_time": 1779125417,
-      "rank": 26,
-      "category": "剧集"
+      "raw_hot": 82059,
+      "num": 120548,
+      "word": "阿森纳1比0伯恩利",
+      "onboard_time": 1779145637,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 78575,
+      "num": 78575,
+      "word": "高圆圆为照顾母亲接戏不离开北京",
+      "onboard_time": 1779110961,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 75707,
@@ -243,12 +315,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 73865,
-      "num": 110101,
-      "word": "以防你没见过遛大型犬",
-      "onboard_time": 1779123617,
-      "rank": 31,
-      "category": "幽默"
+      "raw_hot": 72611,
+      "num": 72611,
+      "word": "祖峰 角色猥琐但本人儒雅",
+      "onboard_time": 1779145217,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 71717,
+      "num": 109252,
+      "word": "刘宇宁警官造型路透",
+      "onboard_time": 1779113784,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 68640,
@@ -267,11 +347,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 66117,
+      "num": 109390,
+      "word": "A股算力龙头一字涨停",
+      "onboard_time": 1779113005,
+      "rank": 38,
+      "category": "财经"
+    },
+    {
       "raw_hot": 65418,
       "num": 109777,
       "word": "98岁奶奶拿出了她当年的嫁妆",
       "onboard_time": 1779096858,
       "rank": 34,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 63736,
+      "num": 71716,
+      "word": "为什么领导总是那么精力充沛",
+      "onboard_time": 1779140534,
+      "rank": 49,
       "category": "情感"
     },
     {
@@ -299,22 +395,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 61183,
-      "num": 109390,
-      "word": "A股算力龙头一字涨停",
-      "onboard_time": 1779113005,
-      "rank": 38,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 60215,
-      "num": 109252,
-      "word": "刘宇宁警官造型路透",
-      "onboard_time": 1779113784,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 59946,
       "num": 109175,
       "word": "商场举办偷吃大赛被抓罚站30秒",
@@ -329,6 +409,14 @@
       "onboard_time": 1779116542,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 55811,
+      "num": 71714,
+      "word": "许昕左手将的爱情",
+      "onboard_time": 1779143296,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 53659,
@@ -347,7 +435,7 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 49534,
+      "raw_hot": 49642,
       "num": 108821,
       "word": "洁丽雅陷豪门狗血危机是谁输了",
       "onboard_time": 1779124037,
@@ -355,12 +443,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 49323,
-      "num": 49323,
-      "word": "给阿嬷的情书 微博长尾效应",
-      "onboard_time": 1779136093,
-      "rank": 8,
-      "category": "电影"
+      "raw_hot": 47107,
+      "num": 71710,
+      "word": "美商业航天板块爆发",
+      "onboard_time": 1779130634,
+      "rank": 35,
+      "category": "财经"
     },
     {
       "raw_hot": 45164,
@@ -371,12 +459,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 44589,
-      "num": 108639,
-      "word": "老人恶意划车被拍车主报警",
-      "onboard_time": 1779117981,
-      "rank": 46,
-      "category": "民生新闻"
+      "raw_hot": 44926,
+      "num": 71709,
+      "word": "巴西队世界杯26人名单",
+      "onboard_time": 1779145818,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 44596,
+      "num": 71708,
+      "word": "汤唯手机壳",
+      "onboard_time": 1779099801,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 43783,
+      "num": 71707,
+      "word": "柳州酒店住客逃出避险不敢入内",
+      "onboard_time": 1779131594,
+      "rank": 34,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 43216,
@@ -393,6 +497,14 @@
       "onboard_time": 1779117023,
       "rank": 48,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 41208,
+      "num": 71706,
+      "word": "阿森纳vs伯恩利",
+      "onboard_time": 1779145759,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 41014,
@@ -419,28 +531,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 30119,
-      "num": 30119,
-      "word": "唐艺昕 这下妆卸干净了",
-      "onboard_time": 1779135793,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 28343,
-      "num": 31792,
-      "word": "柳州酒店住客逃出避险不敢入内",
-      "onboard_time": 1779131594,
+      "raw_hot": 25568,
+      "num": 71714,
+      "word": "克罗地亚世界杯33人名单",
+      "onboard_time": 1779145518,
       "rank": 34,
-      "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 24807,
-      "num": 31780,
-      "word": "美商业航天板块爆发",
-      "onboard_time": 1779130634,
-      "rank": 35,
-      "category": "财经"
+      "category": "体育"
     },
     {
       "raw_hot": 24556,
@@ -451,12 +547,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 22215,
+      "num": 71704,
+      "word": "荣耀600",
+      "onboard_time": 1779119781,
+      "rank": 48,
+      "category": "数码"
+    },
+    {
       "raw_hot": 21518,
       "num": 31556,
       "word": "李显龙晒访华第一站",
       "onboard_time": 1779120081,
       "rank": 43,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 19957,
+      "num": 113605,
+      "word": "感觉AI治好了我多年的老花眼",
+      "onboard_time": 1779145217,
+      "rank": 19,
+      "category": "互联网"
     },
     {
       "raw_hot": 16349,
@@ -475,28 +587,12 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 15666,
-      "num": 24787,
-      "word": "荣耀600",
-      "onboard_time": 1779119781,
-      "rank": 48,
-      "category": "数码"
-    },
-    {
       "raw_hot": 15386,
       "num": 31425,
       "word": "AG有你更奇妙",
       "onboard_time": 1779127635,
       "rank": 49,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 14881,
-      "num": 24784,
-      "word": "为什么领导总是那么精力充沛",
-      "onboard_time": 1779140534,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 4651,
