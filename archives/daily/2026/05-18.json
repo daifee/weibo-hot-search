@@ -1,6 +1,6 @@
 {
   "startTime": 1779037572764,
-  "endTime": 1779060604170,
+  "endTime": 1779062650441,
   "band_list": [
     {
       "raw_hot": 6308488,
@@ -11,8 +11,8 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 4234262,
-      "num": 4234262,
+      "raw_hot": 6274299,
+      "num": 6548599,
       "word": "广西柳州地震已致3人失联",
       "onboard_time": 1779056775,
       "rank": 0,
@@ -43,12 +43,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1090094,
-      "num": 1090094,
+      "raw_hot": 1265691,
+      "num": 1265691,
       "word": "家业 磨皮",
       "onboard_time": 1779028162,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 951842,
+      "num": 951842,
+      "word": "柳州地震转移群众7000余人",
+      "onboard_time": 1779059718,
+      "rank": 11,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 768484,
@@ -67,11 +75,51 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 639862,
+      "num": 229807,
+      "word": "樊振东希望下次打得更好被队友婉拒",
+      "onboard_time": 1779062240,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 544970,
+      "num": 544970,
+      "word": "对柳州地震启动三级应急服务响应",
+      "onboard_time": 1779060439,
+      "rank": 36,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 535712,
       "num": 535712,
       "word": "广西柳州5.2级地震",
       "onboard_time": 1779035899,
       "rank": 4,
+      "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 535059,
+      "num": 535059,
+      "word": "ok了老铁比五哈更搞笑",
+      "onboard_time": 1779060679,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 521806,
+      "num": 521806,
+      "word": "曝最终版白玉兰男主提名",
+      "onboard_time": 1779028702,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 490809,
+      "num": 229238,
+      "word": "柳州地震现场情况",
+      "onboard_time": 1779060197,
+      "rank": 24,
       "category": "突发/灾害"
     },
     {
@@ -83,12 +131,44 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 333956,
-      "num": 333956,
-      "word": "曝最终版白玉兰男主提名",
-      "onboard_time": 1779028702,
-      "rank": 10,
+      "raw_hot": 374017,
+      "num": 227560,
+      "word": "张凌赫gucci大秀登美趋第一",
+      "onboard_time": 1779027022,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 314394,
+      "num": 226916,
+      "word": "杨紫家业央8首播收视率",
+      "onboard_time": 1779024621,
+      "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 314125,
+      "num": 226026,
+      "word": "莫雷加德安慰樊振东",
+      "onboard_time": 1779060378,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 302022,
+      "num": 225005,
+      "word": "21世纪大君夫人李莞和哥哥嫂嫂故事线",
+      "onboard_time": 1779060318,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 268787,
+      "num": 224534,
+      "word": "男子拒绝广州调岗山东被炒获赔50万",
+      "onboard_time": 1779030562,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 259777,
@@ -99,6 +179,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 257742,
+      "num": 201619,
+      "word": "2026高考",
+      "onboard_time": 1779059540,
+      "rank": 35,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 253321,
+      "num": 201606,
+      "word": "和平统一后台湾可获稳定廉价能源",
+      "onboard_time": 1779030502,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 253289,
       "num": 253289,
       "word": "店员回应降价iPhone17被疯抢",
@@ -107,11 +203,11 @@
       "category": "数码"
     },
     {
-      "raw_hot": 248683,
-      "num": 122935,
-      "word": "张凌赫gucci大秀登美趋第一",
-      "onboard_time": 1779027022,
-      "rank": 9,
+      "raw_hot": 237769,
+      "num": 201485,
+      "word": "谢娜晒和李小冉聊天记录",
+      "onboard_time": 1779024201,
+      "rank": 17,
       "category": "艺人"
     },
     {
@@ -121,6 +217,14 @@
       "onboard_time": 1779020780,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 224155,
+      "num": 224155,
+      "word": "谁懂姜乘澜这个丸子头教程",
+      "onboard_time": 1779060318,
+      "rank": 15,
+      "category": "美妆"
     },
     {
       "raw_hot": 214418,
@@ -139,20 +243,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 200900,
-      "num": 191227,
-      "word": "男子拒绝广州调岗山东被炒获赔50万",
-      "onboard_time": 1779030562,
-      "rank": 15,
-      "category": "民生新闻"
+      "raw_hot": 201640,
+      "num": 201640,
+      "word": "算力价格",
+      "onboard_time": 1779059837,
+      "rank": 48,
+      "category": "财经,互联网"
     },
     {
-      "raw_hot": 199932,
-      "num": 122388,
-      "word": "柳州地震转移群众7000余人",
-      "onboard_time": 1779059718,
-      "rank": 11,
-      "category": "突发/灾害"
+      "raw_hot": 201289,
+      "num": 201289,
+      "word": "周雨谈樊振东输球",
+      "onboard_time": 1779060378,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 196376,
@@ -195,6 +299,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 166580,
+      "num": 166580,
+      "word": "马尔代夫发生史上最严重单次潜水事故",
+      "onboard_time": 1779021920,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 159741,
+      "num": 159741,
+      "word": "金珉奎 夜店",
+      "onboard_time": 1779016760,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 159451,
       "num": 159451,
       "word": "专家称4岁以下穿机能鞋干扰足弓发育",
@@ -203,27 +323,27 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 159292,
+      "num": 159292,
+      "word": "亚历山大MVP",
+      "onboard_time": 1779030443,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 154001,
+      "num": 154001,
+      "word": "陈泽新综艺导演是五哈导演",
+      "onboard_time": 1779062300,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 153482,
       "num": 153482,
       "word": "樊振东失2分",
       "onboard_time": 1779030443,
       "rank": 20,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 152735,
-      "num": 121645,
-      "word": "和平统一后台湾可获稳定廉价能源",
-      "onboard_time": 1779030502,
-      "rank": 30,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 151819,
-      "num": 151819,
-      "word": "亚历山大MVP",
-      "onboard_time": 1779030443,
-      "rank": 21,
       "category": "体育"
     },
     {
@@ -241,6 +361,14 @@
       "onboard_time": 1779031761,
       "rank": 23,
       "category": "演出"
+    },
+    {
+      "raw_hot": 137543,
+      "num": 137543,
+      "word": "A股科创板整体暴涨",
+      "onboard_time": 1779061579,
+      "rank": 32,
+      "category": "财经"
     },
     {
       "raw_hot": 135937,
@@ -275,36 +403,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 130884,
-      "num": 130884,
-      "word": "马尔代夫发生史上最严重单次潜水事故",
-      "onboard_time": 1779021920,
-      "rank": 39,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 127697,
-      "num": 121080,
-      "word": "谁懂姜乘澜这个丸子头教程",
-      "onboard_time": 1779060318,
-      "rank": 15,
-      "category": "美妆"
-    },
-    {
-      "raw_hot": 125185,
-      "num": 120160,
-      "word": "谢娜晒和李小冉聊天记录",
-      "onboard_time": 1779024201,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 124845,
-      "num": 116759,
-      "word": "莫雷加德安慰樊振东",
-      "onboard_time": 1779060378,
-      "rank": 21,
-      "category": "体育"
+      "raw_hot": 130680,
+      "num": 130680,
+      "word": "阚清子想要阚清子得到",
+      "onboard_time": 1779021442,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 123762,
@@ -315,6 +419,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 123536,
+      "num": 123536,
+      "word": "柳州彻夜搜救",
+      "onboard_time": 1779061098,
+      "rank": 39,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 123308,
       "num": 123308,
       "word": "电脑微信会惩罚每一个恋旧的人",
@@ -323,36 +435,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 123173,
-      "num": 115658,
-      "word": "周雨谈樊振东输球",
-      "onboard_time": 1779060378,
-      "rank": 22,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 121922,
-      "num": 114726,
-      "word": "金珉奎 夜店",
-      "onboard_time": 1779016760,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 117281,
       "num": 117281,
       "word": "樊振东vs小勒布伦",
       "onboard_time": 1779025762,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 113003,
-      "num": 113003,
-      "word": "柳州地震现场情况",
-      "onboard_time": 1779060197,
-      "rank": 24,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 112915,
@@ -403,6 +491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 91082,
+      "num": 91082,
+      "word": "吴敬平谈樊振东欧冠失利",
+      "onboard_time": 1779062118,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 88498,
       "num": 77813,
       "word": "家业",
@@ -419,12 +515,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 83857,
-      "num": 83857,
-      "word": "21世纪大君夫人李莞和哥哥嫂嫂故事线",
-      "onboard_time": 1779060318,
-      "rank": 32,
-      "category": "剧集"
+      "raw_hot": 85767,
+      "num": 85767,
+      "word": "辛纳实现金大师",
+      "onboard_time": 1779061822,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 80184,
@@ -433,30 +529,6 @@
       "onboard_time": 1779037217,
       "rank": 40,
       "category": "情感"
-    },
-    {
-      "raw_hot": 79131,
-      "num": 79131,
-      "word": "阚清子想要阚清子得到",
-      "onboard_time": 1779021442,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 78873,
-      "num": 78873,
-      "word": "2026高考",
-      "onboard_time": 1779059540,
-      "rank": 35,
-      "category": "教育"
-    },
-    {
-      "raw_hot": 77600,
-      "num": 77600,
-      "word": "对柳州地震启动三级应急服务响应",
-      "onboard_time": 1779060439,
-      "rank": 36,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 76973,
@@ -547,12 +619,12 @@
       "category": "财经,互联网"
     },
     {
-      "raw_hot": 48292,
-      "num": 56969,
-      "word": "算力价格",
-      "onboard_time": 1779059837,
-      "rank": 48,
-      "category": "财经,互联网"
+      "raw_hot": 48605,
+      "num": 231049,
+      "word": "AI预测世界杯西班牙夺冠",
+      "onboard_time": 1779058817,
+      "rank": 19,
+      "category": "互联网"
     },
     {
       "raw_hot": 33603,
@@ -611,7 +683,7 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 14109,
+      "raw_hot": 14385,
       "num": 2407572,
       "word": "以德润网",
       "onboard_time": 1779018919,
@@ -619,16 +691,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 13782,
-      "num": 119540,
-      "word": "AI预测世界杯西班牙夺冠",
-      "onboard_time": 1779058817,
-      "rank": 19,
-      "category": "互联网"
-    },
-    {
-      "raw_hot": 7374,
-      "num": 56942,
+      "raw_hot": 10358,
+      "num": 68517,
       "word": "20万出头就能买四驱空悬中大型SUV",
       "onboard_time": 1779010461,
       "rank": 49,

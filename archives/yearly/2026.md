@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/05/18 07:30:04
+本榜单时间：2026/01/01 00:35:36 ~ 2026/05/18 08:04:10
 </p>
 </blockquote>
 <p>
@@ -729,6 +729,12 @@ iPhone17Pro降价2000（热度：15057331）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E8%A5%BF%E6%9F%B3%E5%B7%9E%E5%9C%B0%E9%9C%87%E5%B7%B2%E8%87%B43%E4%BA%BA%E5%A4%B1%E8%81%94%23" target="weibo">
+广西柳州地震已致3人失联（热度：6274299）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E4%B8%80%E5%90%8D%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E9%81%87%E9%9A%BE%23" target="weibo">
 伊朗一名中国公民遇难（热度：6188688）
 </a>
@@ -983,12 +989,6 @@ JYP从JYP辞职了（热度：4682490）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E4%B8%BD%E5%8D%8E%E9%80%9D%E4%B8%96%23" target="weibo">
 陈丽华逝世（热度：4270695）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E8%A5%BF%E6%9F%B3%E5%B7%9E%E5%9C%B0%E9%9C%87%E5%B7%B2%E8%87%B43%E4%BA%BA%E5%A4%B1%E8%81%94%23" target="weibo">
-广西柳州地震已致3人失联（热度：4234262）
 </a>
 </li>
 

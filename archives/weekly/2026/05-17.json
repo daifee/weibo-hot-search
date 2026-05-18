@@ -1,6 +1,6 @@
 {
   "startTime": 1778951228781,
-  "endTime": 1779060604170,
+  "endTime": 1779062650441,
   "band_list": [
     {
       "raw_hot": 15077740,
@@ -35,8 +35,8 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 4234262,
-      "num": 4234262,
+      "raw_hot": 6274299,
+      "num": 6548599,
       "word": "广西柳州地震已致3人失联",
       "onboard_time": 1779056775,
       "rank": 0,
@@ -267,6 +267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 951842,
+      "num": 951842,
+      "word": "柳州地震转移群众7000余人",
+      "onboard_time": 1779059718,
+      "rank": 11,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 937702,
       "num": 404333,
       "word": "姜乘澜 这化妆技术还说啥了",
@@ -387,6 +395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 639862,
+      "num": 229807,
+      "word": "樊振东希望下次打得更好被队友婉拒",
+      "onboard_time": 1779062240,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 636982,
       "num": 636982,
       "word": "摄影师称摆拍女孩确为盲人",
@@ -491,6 +507,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 544970,
+      "num": 544970,
+      "word": "对柳州地震启动三级应急服务响应",
+      "onboard_time": 1779060439,
+      "rank": 36,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 541104,
       "num": 251118,
       "word": "日本担心中美关系稳定自己被晾在一边",
@@ -505,6 +529,14 @@
       "onboard_time": 1779035899,
       "rank": 4,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 535059,
+      "num": 535059,
+      "word": "ok了老铁比五哈更搞笑",
+      "onboard_time": 1779060679,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 530479,
@@ -524,7 +556,7 @@
     },
     {
       "raw_hot": 529545,
-      "num": 333956,
+      "num": 521806,
       "word": "曝最终版白玉兰男主提名",
       "onboard_time": 1779028702,
       "rank": 25,
@@ -569,6 +601,14 @@
       "onboard_time": 1779000259,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 490809,
+      "num": 229238,
+      "word": "柳州地震现场情况",
+      "onboard_time": 1779060197,
+      "rank": 24,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 487401,
@@ -811,6 +851,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 314125,
+      "num": 226026,
+      "word": "莫雷加德安慰樊振东",
+      "onboard_time": 1779060378,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 314083,
       "num": 250642,
       "word": "张雪机车昙花五现了",
@@ -873,6 +921,14 @@
       "onboard_time": 1778987419,
       "rank": 21,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 302022,
+      "num": 225005,
+      "word": "21世纪大君夫人李莞和哥哥嫂嫂故事线",
+      "onboard_time": 1779060318,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 300434,
@@ -1027,12 +1083,28 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 257742,
+      "num": 201619,
+      "word": "2026高考",
+      "onboard_time": 1779059540,
+      "rank": 35,
+      "category": "教育"
+    },
+    {
       "raw_hot": 254739,
       "num": 344202,
       "word": "广东暴雨天蟑螂成群出动",
       "onboard_time": 1778989520,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 253321,
+      "num": 201606,
+      "word": "和平统一后台湾可获稳定廉价能源",
+      "onboard_time": 1779030502,
+      "rank": 30,
+      "category": "国内时政"
     },
     {
       "raw_hot": 253289,
@@ -1153,6 +1225,14 @@
       "onboard_time": 1778982500,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 224155,
+      "num": 224155,
+      "word": "谁懂姜乘澜这个丸子头教程",
+      "onboard_time": 1779060318,
+      "rank": 15,
+      "category": "美妆"
     },
     {
       "raw_hot": 223743,
@@ -1291,20 +1371,28 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 201640,
+      "num": 201640,
+      "word": "算力价格",
+      "onboard_time": 1779059837,
+      "rank": 48,
+      "category": "财经,互联网"
+    },
+    {
+      "raw_hot": 201289,
+      "num": 201289,
+      "word": "周雨谈樊振东输球",
+      "onboard_time": 1779060378,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 201145,
       "num": 201145,
       "word": "戛纳电影节红毯G社生图",
       "onboard_time": 1779004040,
       "rank": 35,
       "category": "电影"
-    },
-    {
-      "raw_hot": 199932,
-      "num": 122388,
-      "word": "柳州地震转移群众7000余人",
-      "onboard_time": 1779059718,
-      "rank": 11,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 198562,
@@ -1595,12 +1683,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 152735,
-      "num": 121645,
-      "word": "和平统一后台湾可获稳定廉价能源",
-      "onboard_time": 1779030502,
-      "rank": 30,
-      "category": "国内时政"
+      "raw_hot": 154001,
+      "num": 154001,
+      "word": "陈泽新综艺导演是五哈导演",
+      "onboard_time": 1779062300,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 152699,
@@ -1675,6 +1763,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 137543,
+      "num": 137543,
+      "word": "A股科创板整体暴涨",
+      "onboard_time": 1779061579,
+      "rank": 32,
+      "category": "财经"
+    },
+    {
       "raw_hot": 136787,
       "num": 214174,
       "word": "男子花9.6万买车抽奖中10万",
@@ -1715,6 +1811,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 130680,
+      "num": 130680,
+      "word": "阚清子想要阚清子得到",
+      "onboard_time": 1779021442,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 129563,
       "num": 129563,
       "word": "大爷卖房跨省投奔女儿养老人间蒸发",
@@ -1739,22 +1843,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 127697,
-      "num": 121080,
-      "word": "谁懂姜乘澜这个丸子头教程",
-      "onboard_time": 1779060318,
-      "rank": 15,
-      "category": "美妆"
-    },
-    {
-      "raw_hot": 124845,
-      "num": 116759,
-      "word": "莫雷加德安慰樊振东",
-      "onboard_time": 1779060378,
-      "rank": 21,
-      "category": "体育"
-    },
-    {
       "raw_hot": 124165,
       "num": 152298,
       "word": "韩红基金会去年收入7.8亿支出2.9亿",
@@ -1771,12 +1859,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 123173,
-      "num": 115658,
-      "word": "周雨谈樊振东输球",
-      "onboard_time": 1779060378,
-      "rank": 22,
-      "category": "体育"
+      "raw_hot": 123536,
+      "num": 123536,
+      "word": "柳州彻夜搜救",
+      "onboard_time": 1779061098,
+      "rank": 39,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 122703,
@@ -1849,14 +1937,6 @@
       "onboard_time": 1778935402,
       "rank": 27,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 113003,
-      "num": 113003,
-      "word": "柳州地震现场情况",
-      "onboard_time": 1779060197,
-      "rank": 24,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 110651,
@@ -2011,6 +2091,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 91082,
+      "num": 91082,
+      "word": "吴敬平谈樊振东欧冠失利",
+      "onboard_time": 1779062118,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 90003,
       "num": 150159,
       "word": "张雪喊话德比斯培养一个中国车手",
@@ -2083,6 +2171,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 85767,
+      "num": 85767,
+      "word": "辛纳实现金大师",
+      "onboard_time": 1779061822,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 85592,
       "num": 85592,
       "word": "日本动漫巅峰时期技术现在依旧震撼",
@@ -2105,14 +2201,6 @@
       "onboard_time": 1778949499,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 83857,
-      "num": 83857,
-      "word": "21世纪大君夫人李莞和哥哥嫂嫂故事线",
-      "onboard_time": 1779060318,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 83577,
@@ -2171,36 +2259,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 79131,
-      "num": 79131,
-      "word": "阚清子想要阚清子得到",
-      "onboard_time": 1779021442,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 78873,
-      "num": 78873,
-      "word": "2026高考",
-      "onboard_time": 1779059540,
-      "rank": 35,
-      "category": "教育"
-    },
-    {
       "raw_hot": 78329,
       "num": 782743,
       "word": "中国式支付圈粉全球",
       "onboard_time": 1778934861,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 77600,
-      "num": 77600,
-      "word": "对柳州地震启动三级应急服务响应",
-      "onboard_time": 1779060439,
-      "rank": 36,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 75981,
@@ -2395,6 +2459,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 48605,
+      "num": 231049,
+      "word": "AI预测世界杯西班牙夺冠",
+      "onboard_time": 1779058817,
+      "rank": 19,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 48595,
       "num": 48448,
       "word": "成毅36岁海报",
@@ -2409,14 +2481,6 @@
       "onboard_time": 1778996541,
       "rank": 47,
       "category": "财经"
-    },
-    {
-      "raw_hot": 48292,
-      "num": 56969,
-      "word": "算力价格",
-      "onboard_time": 1779059837,
-      "rank": 48,
-      "category": "财经,互联网"
     },
     {
       "raw_hot": 47726,
@@ -2745,14 +2809,6 @@
       "onboard_time": 1779002421,
       "rank": 20,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 13782,
-      "num": 119540,
-      "word": "AI预测世界杯西班牙夺冠",
-      "onboard_time": 1779058817,
-      "rank": 19,
-      "category": "互联网"
     },
     {
       "raw_hot": 13419,
