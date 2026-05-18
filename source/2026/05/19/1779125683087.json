@@ -1,0 +1,402 @@
+{
+  "runTime": 1779125683087,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 645388,
+        "num": 645388,
+        "word": "特朗普连发15张图分享中国记忆",
+        "onboard_time": 1779096622,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 423905,
+        "num": 423905,
+        "word": "长这么大终于听懂了商鞅变法",
+        "onboard_time": 1779105261,
+        "rank": 1,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 372052,
+        "num": 372052,
+        "word": "柳州地震的原因找到了",
+        "onboard_time": 1779107060,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 325052,
+        "num": 325052,
+        "word": "小朋友的世界是没有退路的",
+        "onboard_time": 1779120140,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 265346,
+        "num": 265346,
+        "word": "真有人在豆包预约餐厅",
+        "onboard_time": 1779110603,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 258530,
+        "num": 258530,
+        "word": "广州震感",
+        "onboard_time": 1779113244,
+        "rank": 6,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 231093,
+        "num": 231093,
+        "word": "王安宇一手拉田曦薇一手拉黄明昊",
+        "onboard_time": 1779108741,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 210501,
+        "num": 210501,
+        "word": "特朗普访华整晚都在谈台湾问题",
+        "onboard_time": 1779111141,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 199256,
+        "num": 199256,
+        "word": "记者正吃螺狮粉碰上柳州再次地震",
+        "onboard_time": 1779120620,
+        "rank": 9,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 290837,
+        "num": 192028,
+        "word": "孙杨曾致电马云寻求人生方向",
+        "onboard_time": 1779120561,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 229424,
+        "num": 188876,
+        "word": "全村62人患癌多名村民发声",
+        "onboard_time": 1779108981,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 218096,
+        "num": 187924,
+        "word": "台湾人疯狂批发霸王茶姬回家",
+        "onboard_time": 1779113304,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 184568,
+        "num": 184568,
+        "word": "杨子家族疯狂套现超28亿",
+        "onboard_time": 1779100880,
+        "rank": 13,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 176976,
+        "num": 176976,
+        "word": "本周做什么都顺的星座TOP4",
+        "onboard_time": 1779110122,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 166070,
+        "num": 166070,
+        "word": "小乐老乡杯被踢",
+        "onboard_time": 1779117922,
+        "rank": 15,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 137470,
+        "num": 137470,
+        "word": "何老师也接受不了vip抢先看",
+        "onboard_time": 1779100220,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118901,
+        "num": 118901,
+        "word": "给阿嬷的情书 暴走老奶",
+        "onboard_time": 1779105681,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 111941,
+        "num": 111941,
+        "word": "柳州地震遇难夫妻是当地菜市场商贩",
+        "onboard_time": 1779121519,
+        "rank": 18,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 111190,
+        "num": 111190,
+        "word": "上海交大通报学生私吞竞赛奖金",
+        "onboard_time": 1779097220,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106326,
+        "num": 111130,
+        "word": "主角",
+        "onboard_time": 1779106100,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 101218,
+        "num": 111081,
+        "word": "洁丽雅靠八卦营销终成烫手山芋",
+        "onboard_time": 1779105021,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95080,
+        "num": 110930,
+        "word": "武汉一村庄585人62人患癌",
+        "onboard_time": 1779100880,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94016,
+        "num": 110887,
+        "word": "娜塔莎无下限广告引学生模仿",
+        "onboard_time": 1779123617,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91196,
+        "num": 110714,
+        "word": "五月天演唱会内地收官",
+        "onboard_time": 1779116182,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 88775,
+        "num": 110655,
+        "word": "给阿嬷的情书",
+        "onboard_time": 1779110841,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 76625,
+        "num": 110598,
+        "word": "杨紫曹磊对手戏",
+        "onboard_time": 1779125417,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 75707,
+        "num": 110484,
+        "word": "深圳震感",
+        "onboard_time": 1779114984,
+        "rank": 27,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 75492,
+        "num": 110370,
+        "word": "监狱来的妈妈单日票房超4万",
+        "onboard_time": 1779123617,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 75043,
+        "num": 110252,
+        "word": "阿嬷的陈楚生来看陈楚生了",
+        "onboard_time": 1779103400,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 83656,
+        "num": 110203,
+        "word": "天津高空跳伞项目发生事故两人遇难",
+        "onboard_time": 1779103700,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 73865,
+        "num": 110101,
+        "word": "以防你没见过遛大型犬",
+        "onboard_time": 1779123617,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 68640,
+        "num": 110004,
+        "word": "刘浩存戏腔",
+        "onboard_time": 1779117682,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 67577,
+        "num": 109866,
+        "word": "武汉暴雨预警升级为红色",
+        "onboard_time": 1779118521,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 65398,
+        "num": 109777,
+        "word": "98岁奶奶拿出了她当年的嫁妆",
+        "onboard_time": 1779096858,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 63398,
+        "num": 109672,
+        "word": "WTT美国大满贯参赛名单公布",
+        "onboard_time": 1779105441,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 62924,
+        "num": 109558,
+        "word": "家业",
+        "onboard_time": 1779105261,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 62100,
+        "num": 109521,
+        "word": "洁丽雅",
+        "onboard_time": 1779081860,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 61183,
+        "num": 109390,
+        "word": "A股算力龙头一字涨停",
+        "onboard_time": 1779113005,
+        "rank": 38,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 60215,
+        "num": 109252,
+        "word": "刘宇宁警官造型路透",
+        "onboard_time": 1779113784,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 59946,
+        "num": 109175,
+        "word": "商场举办偷吃大赛被抓罚站30秒",
+        "onboard_time": 1779124277,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 59260,
+        "num": 109050,
+        "word": "楚嘉禾气晕我了",
+        "onboard_time": 1779116542,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 53659,
+        "num": 109023,
+        "word": "老乡杯",
+        "onboard_time": 1779098661,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 50065,
+        "num": 108859,
+        "word": "柳州再地震上晚自习师生撤离避险",
+        "onboard_time": 1779123617,
+        "rank": 43,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 49534,
+        "num": 108821,
+        "word": "洁丽雅陷豪门狗血危机是谁输了",
+        "onboard_time": 1779124037,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 45164,
+        "num": 108746,
+        "word": "柳州震后或将迎强对流天气",
+        "onboard_time": 1779119361,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 44589,
+        "num": 108639,
+        "word": "老人恶意划车被拍车主报警",
+        "onboard_time": 1779117981,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 43216,
+        "num": 108526,
+        "word": "杨紫新剧女扮男装",
+        "onboard_time": 1779123617,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 41596,
+        "num": 108388,
+        "word": "seedance制作的人类进化史科普视频",
+        "onboard_time": 1779117023,
+        "rank": 48,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 41014,
+        "num": 108344,
+        "word": "柳州地震震中有三层民居门户悬空",
+        "onboard_time": 1779113184,
+        "rank": 49,
+        "category": "突发/灾害"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平谈中俄关系#"
+    }
+  }
+}
