@@ -1,6 +1,6 @@
 {
   "startTime": 1778951228781,
-  "endTime": 1779067774570,
+  "endTime": 1779081148925,
   "band_list": [
     {
       "raw_hot": 15077740,
@@ -65,6 +65,14 @@
       "onboard_time": 1779028162,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 2449407,
+      "num": 299255,
+      "word": "麦琳瘦成唐嫣了",
+      "onboard_time": 1779078143,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 2289964,
@@ -193,6 +201,30 @@
       "onboard_time": 1779007641,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1294446,
+      "num": 1294446,
+      "word": "奔跑吧战国袍造型",
+      "onboard_time": 1779076099,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1291703,
+      "num": 884389,
+      "word": "上了很久的班之后才明白的道理",
+      "onboard_time": 1779073759,
+      "rank": 3,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 1233800,
+      "num": 1233800,
+      "word": "广西柳州地震已致2人死亡",
+      "onboard_time": 1779068478,
+      "rank": 1,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 1222014,
@@ -347,6 +379,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 816254,
+      "num": 816254,
+      "word": "归鸾阵容官宣",
+      "onboard_time": 1779071480,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 811867,
       "num": 907403,
       "word": "香蜜最后一帧原来是家业",
@@ -385,6 +425,14 @@
       "onboard_time": 1779037878,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 754879,
+      "num": 754879,
+      "word": "白鹿先在综艺穿了战国袍",
+      "onboard_time": 1779076760,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 747593,
@@ -435,6 +483,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 663685,
+      "num": 663685,
+      "word": "毛巾老板直播被骂晒结婚证自证清白",
+      "onboard_time": 1779072981,
+      "rank": 6,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 662445,
       "num": 662445,
       "word": "罕见病确诊 这才是互联网的意义",
@@ -467,6 +523,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 637764,
+      "num": 298842,
+      "word": "易立竞把孙杨问破防了",
+      "onboard_time": 1779077661,
+      "rank": 11,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 636982,
       "num": 636982,
       "word": "摄影师称摆拍女孩确为盲人",
@@ -483,12 +547,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 634031,
+      "num": 297837,
+      "word": "A股",
+      "onboard_time": 1779073700,
+      "rank": 12,
+      "category": "财经"
+    },
+    {
       "raw_hot": 622153,
       "num": 622153,
       "word": "台舆论称特朗普不许台独视美为靠山",
       "onboard_time": 1778984959,
       "rank": 4,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 605951,
+      "num": 297439,
+      "word": "给阿嬷的情书要是个烂编剧",
+      "onboard_time": 1779080182,
+      "rank": 13,
+      "category": "电影"
     },
     {
       "raw_hot": 605020,
@@ -707,6 +787,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 468468,
+      "num": 296867,
+      "word": "白鹿周翊然方辟谣恋情",
+      "onboard_time": 1779074900,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 466274,
       "num": 624702,
       "word": "何超蕸追悼会",
@@ -745,6 +833,14 @@
       "onboard_time": 1779063740,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 430777,
+      "num": 295006,
+      "word": "张凌赫G社生图",
+      "onboard_time": 1779071900,
+      "rank": 16,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 428364,
@@ -843,6 +939,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 375523,
+      "num": 375523,
+      "word": "哈登抢七躺赢",
+      "onboard_time": 1779076340,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 370507,
       "num": 346780,
       "word": "白鹿上车前突然跳了段舞",
@@ -867,12 +971,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 359633,
+      "num": 300182,
+      "word": "柳州地震有人连夜开车回南宁桂林",
+      "onboard_time": 1779077420,
+      "rank": 9,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 356628,
       "num": 666697,
       "word": "店员回应降价iPhone17被疯抢",
       "onboard_time": 1779030144,
       "rank": 46,
       "category": "数码"
+    },
+    {
+      "raw_hot": 356078,
+      "num": 294512,
+      "word": "爸爸当家5开播",
+      "onboard_time": 1779075381,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 354343,
@@ -915,11 +1035,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 332575,
+      "num": 260767,
+      "word": "李英爱问张凌赫很有名吗",
+      "onboard_time": 1779069859,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 331524,
       "num": 331524,
       "word": "陈伟霆钟楚曦 荔湾广场",
       "onboard_time": 1778990060,
       "rank": 20,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 327799,
+      "num": 260713,
+      "word": "怎么说服杨洋拍这玩意的",
+      "onboard_time": 1779079282,
+      "rank": 22,
       "category": "剧集"
     },
     {
@@ -953,6 +1089,14 @@
       "onboard_time": 1779023421,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 314025,
+      "num": 257739,
+      "word": "短剧演员从三年百部到无戏可拍",
+      "onboard_time": 1779069439,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 308498,
@@ -1019,6 +1163,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 300644,
+      "num": 300644,
+      "word": "微信读书skill",
+      "onboard_time": 1779077901,
+      "rank": 8,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 300434,
       "num": 300434,
       "word": "樊振东赛后纸袋装球拍",
@@ -1043,6 +1195,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 294943,
+      "num": 256974,
+      "word": "许玮甯邱泽公园溜娃",
+      "onboard_time": 1779075800,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 293226,
       "num": 193357,
       "word": "郑州一火锅店露天洗菜做饭如调色盘",
@@ -1065,6 +1225,14 @@
       "onboard_time": 1779019281,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 289932,
+      "num": 258379,
+      "word": "男子住70元酒店发现空调挂女士内裤",
+      "onboard_time": 1779078742,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 289212,
@@ -1097,6 +1265,14 @@
       "onboard_time": 1778939541,
       "rank": 15,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 282641,
+      "num": 222425,
+      "word": "曝蒋毅婚后私信女网友",
+      "onboard_time": 1779075200,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 280605,
@@ -1139,6 +1315,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 273084,
+      "num": 220172,
+      "word": "徐冬冬和尹子维吵架吵哭了",
+      "onboard_time": 1779079641,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 268849,
       "num": 192068,
       "word": "主角 神器认主",
@@ -1177,6 +1361,14 @@
       "onboard_time": 1778984120,
       "rank": 22,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 256664,
+      "num": 256664,
+      "word": "马克龙非洲行翻车",
+      "onboard_time": 1779071719,
+      "rank": 27,
+      "category": "国际时政"
     },
     {
       "raw_hot": 254967,
@@ -1243,11 +1435,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 246977,
+      "num": 219298,
+      "word": "罗永浩谈给阿嬷的情书",
+      "onboard_time": 1779077541,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 243509,
       "num": 243509,
       "word": "狄莺一边哭一边开直播骂网友",
       "onboard_time": 1778988740,
       "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 241384,
+      "num": 210711,
+      "word": "孙莉黄磊女儿多妹这么大了",
+      "onboard_time": 1779077000,
+      "rank": 40,
       "category": "艺人"
     },
     {
@@ -1307,6 +1515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 228840,
+      "num": 203714,
+      "word": "开始推理吧4定档",
+      "onboard_time": 1779072440,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 227024,
       "num": 227024,
       "word": "网传杨紫回归中餐厅录制",
@@ -1339,12 +1555,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 222027,
+      "num": 222027,
+      "word": "骑士4比3淘汰活塞",
+      "onboard_time": 1779073520,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 221534,
       "num": 221534,
       "word": "给阿嬷的情书最终票房或近20亿",
       "onboard_time": 1778936960,
       "rank": 8,
       "category": "电影"
+    },
+    {
+      "raw_hot": 219831,
+      "num": 219831,
+      "word": "柳州医院现状",
+      "onboard_time": 1779076521,
+      "rank": 34,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 217995,
@@ -1403,6 +1635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 210049,
+      "num": 203509,
+      "word": "严浩翔 我哪有戚百草的时候",
+      "onboard_time": 1779079582,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 209031,
       "num": 209031,
       "word": "金鹰奖投票",
@@ -1435,6 +1675,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 207716,
+      "num": 196797,
+      "word": "秦昊谈为伊能静办三场婚礼",
+      "onboard_time": 1779071780,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 207106,
       "num": 207106,
       "word": "莫雷加德3比0F勒布伦",
@@ -1465,6 +1713,14 @@
       "onboard_time": 1779014600,
       "rank": 17,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 202955,
+      "num": 202955,
+      "word": "金价银价大跌原因",
+      "onboard_time": 1779080960,
+      "rank": 46,
+      "category": "财经"
     },
     {
       "raw_hot": 201640,
@@ -1523,12 +1779,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 197940,
+      "num": 223975,
+      "word": "当我带豆包去吃旋转小火锅",
+      "onboard_time": 1779080182,
+      "rank": 28,
+      "category": "美食"
+    },
+    {
       "raw_hot": 197668,
       "num": 197668,
       "word": "戛纳电影节中国之夜",
       "onboard_time": 1778951417,
       "rank": 12,
       "category": "电影"
+    },
+    {
+      "raw_hot": 195129,
+      "num": 195129,
+      "word": "尤长靖合伙人董岩磊",
+      "onboard_time": 1779079641,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 195041,
@@ -1691,6 +1963,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 169564,
+      "num": 222503,
+      "word": "小米YU7GT发布会定档",
+      "onboard_time": 1779069918,
+      "rank": 29,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 169478,
       "num": 186544,
       "word": "从英国寄来的猫听不懂中文",
@@ -1803,6 +2083,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 157696,
+      "num": 259187,
+      "word": "李昀锐代言荣耀智能生态产品",
+      "onboard_time": 1779077120,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 152699,
       "num": 169031,
       "word": "良陈美锦",
@@ -1848,6 +2136,14 @@
       "word": "Angelababy千禧芭比",
       "onboard_time": 1779002780,
       "rank": 45,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 145231,
+      "num": 220446,
+      "word": "王鹤棣爱到骨子里",
+      "onboard_time": 1779080660,
+      "rank": 32,
       "category": "艺人"
     },
     {
@@ -1961,6 +2257,14 @@
       "onboard_time": 1778925620,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 124082,
+      "num": 208311,
+      "word": "维嘉回应衣服被马丁买了",
+      "onboard_time": 1779080841,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 123775,
@@ -2139,6 +2443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 101929,
+      "num": 900601,
+      "word": "本轮大范围降雨到哪了",
+      "onboard_time": 1779070220,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 101513,
       "num": 234578,
       "word": "男子手机号被豆包乱标成卖猪电话",
@@ -2219,6 +2531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 91731,
+      "num": 213403,
+      "word": "丈夫雇人抢走孩子拘留也不还",
+      "onboard_time": 1779080479,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 90003,
       "num": 150159,
       "word": "张雪喊话德比斯培养一个中国车手",
@@ -2273,6 +2593,14 @@
       "onboard_time": 1779037278,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 86338,
+      "num": 198167,
+      "word": "豆包开始收费谁慌了",
+      "onboard_time": 1779080960,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 86216,
@@ -2515,6 +2843,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 62494,
+      "num": 217461,
+      "word": "杨幂是真对我眼睛很好",
+      "onboard_time": 1779077059,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 58120,
       "num": 110133,
       "word": "无畏 钟馗",
@@ -2555,6 +2891,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 53566,
+      "num": 262341,
+      "word": "网传山东樱桃2元1斤记者实探",
+      "onboard_time": 1779080600,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 52262,
       "num": 52262,
       "word": "韩红基金会明星捐款名单",
@@ -2585,6 +2929,14 @@
       "onboard_time": 1779058817,
       "rank": 19,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 50399,
+      "num": 213689,
+      "word": "AI伪造的商品问题图有破绽",
+      "onboard_time": 1779080600,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 48595,
@@ -2721,6 +3073,14 @@
       "onboard_time": 1779032061,
       "rank": 31,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 35380,
+      "num": 203794,
+      "word": "贝克汉姆看球赛吃什么",
+      "onboard_time": 1779077420,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 33603,
@@ -3029,6 +3389,9 @@
     },
     {
       "word": "#盘点中美元首会谈的重要信号#"
+    },
+    {
+      "word": "#中美关系站上历史的新起点#"
     }
   ]
 }

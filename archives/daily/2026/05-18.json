@@ -1,6 +1,6 @@
 {
   "startTime": 1779037572764,
-  "endTime": 1779067774570,
+  "endTime": 1779081148925,
   "band_list": [
     {
       "raw_hot": 6308488,
@@ -27,6 +27,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2449407,
+      "num": 299255,
+      "word": "麦琳瘦成唐嫣了",
+      "onboard_time": 1779078143,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2289964,
       "num": 2289964,
       "word": "广西柳州5.2级左右地震",
@@ -43,12 +51,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1294446,
+      "num": 1294446,
+      "word": "奔跑吧战国袍造型",
+      "onboard_time": 1779076099,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1291703,
+      "num": 884389,
+      "word": "上了很久的班之后才明白的道理",
+      "onboard_time": 1779073759,
+      "rank": 3,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1265691,
       "num": 1265691,
       "word": "家业 磨皮",
       "onboard_time": 1779028162,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1233800,
+      "num": 1233800,
+      "word": "广西柳州地震已致2人死亡",
+      "onboard_time": 1779068478,
+      "rank": 1,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 1105228,
@@ -99,12 +131,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 816254,
+      "num": 816254,
+      "word": "归鸾阵容官宣",
+      "onboard_time": 1779071480,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 768484,
       "num": 768484,
       "word": "陈泽",
       "onboard_time": 1779037878,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 754879,
+      "num": 754879,
+      "word": "白鹿先在综艺穿了战国袍",
+      "onboard_time": 1779076760,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 739302,
@@ -131,6 +179,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 663685,
+      "num": 663685,
+      "word": "毛巾老板直播被骂晒结婚证自证清白",
+      "onboard_time": 1779072981,
+      "rank": 6,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 657702,
       "num": 702608,
       "word": "柳州地震现场情况",
@@ -145,6 +201,30 @@
       "onboard_time": 1779062240,
       "rank": 10,
       "category": "体育"
+    },
+    {
+      "raw_hot": 637764,
+      "num": 298842,
+      "word": "易立竞把孙杨问破防了",
+      "onboard_time": 1779077661,
+      "rank": 11,
+      "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 634031,
+      "num": 297837,
+      "word": "A股",
+      "onboard_time": 1779073700,
+      "rank": 12,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 605951,
+      "num": 297439,
+      "word": "给阿嬷的情书要是个烂编剧",
+      "onboard_time": 1779080182,
+      "rank": 13,
+      "category": "电影"
     },
     {
       "raw_hot": 600633,
@@ -187,6 +267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 468468,
+      "num": 296867,
+      "word": "白鹿周翊然方辟谣恋情",
+      "onboard_time": 1779074900,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 434267,
       "num": 690531,
       "word": "张雪机车落后雅马哈46分",
@@ -195,12 +283,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 430777,
+      "num": 295006,
+      "word": "张凌赫G社生图",
+      "onboard_time": 1779071900,
+      "rank": 16,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 381922,
       "num": 381922,
       "word": "南宁震感",
       "onboard_time": 1779037458,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 375523,
+      "num": 375523,
+      "word": "哈登抢七躺赢",
+      "onboard_time": 1779076340,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 374017,
@@ -219,6 +323,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 359633,
+      "num": 300182,
+      "word": "柳州地震有人连夜开车回南宁桂林",
+      "onboard_time": 1779077420,
+      "rank": 9,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 356628,
       "num": 666697,
       "word": "店员回应降价iPhone17被疯抢",
@@ -227,12 +339,36 @@
       "category": "数码"
     },
     {
+      "raw_hot": 356078,
+      "num": 294512,
+      "word": "爸爸当家5开播",
+      "onboard_time": 1779075381,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 343603,
       "num": 676722,
       "word": "毛巾少爷更新动态与二叔共同出镜",
       "onboard_time": 1779065601,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 332575,
+      "num": 260767,
+      "word": "李英爱问张凌赫很有名吗",
+      "onboard_time": 1779069859,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 327799,
+      "num": 260713,
+      "word": "怎么说服杨洋拍这玩意的",
+      "onboard_time": 1779079282,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 314394,
@@ -251,6 +387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 314025,
+      "num": 257739,
+      "word": "短剧演员从三年百部到无戏可拍",
+      "onboard_time": 1779069439,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 311524,
       "num": 659724,
       "word": "谢娜晒和李小冉聊天记录",
@@ -265,6 +409,38 @@
       "onboard_time": 1779060318,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 300644,
+      "num": 300644,
+      "word": "微信读书skill",
+      "onboard_time": 1779077901,
+      "rank": 8,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 294943,
+      "num": 256974,
+      "word": "许玮甯邱泽公园溜娃",
+      "onboard_time": 1779075800,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 289932,
+      "num": 258379,
+      "word": "男子住70元酒店发现空调挂女士内裤",
+      "onboard_time": 1779078742,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 282641,
+      "num": 222425,
+      "word": "曝蒋毅婚后私信女网友",
+      "onboard_time": 1779075200,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 276985,
@@ -283,12 +459,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 273084,
+      "num": 220172,
+      "word": "徐冬冬和尹子维吵架吵哭了",
+      "onboard_time": 1779079641,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 259777,
       "num": 259777,
       "word": "刘浩存穿十厘米高跟鞋定点转圈",
       "onboard_time": 1779024801,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 256664,
+      "num": 256664,
+      "word": "马克龙非洲行翻车",
+      "onboard_time": 1779071719,
+      "rank": 27,
+      "category": "国际时政"
     },
     {
       "raw_hot": 254967,
@@ -315,12 +507,52 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 246977,
+      "num": 219298,
+      "word": "罗永浩谈给阿嬷的情书",
+      "onboard_time": 1779077541,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 241384,
+      "num": 210711,
+      "word": "孙莉黄磊女儿多妹这么大了",
+      "onboard_time": 1779077000,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 228840,
+      "num": 203714,
+      "word": "开始推理吧4定档",
+      "onboard_time": 1779072440,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 226050,
       "num": 578563,
       "word": "家业收视率",
       "onboard_time": 1779020780,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 222027,
+      "num": 222027,
+      "word": "骑士4比3淘汰活塞",
+      "onboard_time": 1779073520,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 219831,
+      "num": 219831,
+      "word": "柳州医院现状",
+      "onboard_time": 1779076521,
+      "rank": 34,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 214418,
@@ -339,12 +571,36 @@
       "category": "电影"
     },
     {
+      "raw_hot": 210049,
+      "num": 203509,
+      "word": "严浩翔 我哪有戚百草的时候",
+      "onboard_time": 1779079582,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 209994,
       "num": 593643,
       "word": "八旬老人公交上闭眼休息实则已死亡",
       "onboard_time": 1779020841,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 207716,
+      "num": 196797,
+      "word": "秦昊谈为伊能静办三场婚礼",
+      "onboard_time": 1779071780,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 202955,
+      "num": 202955,
+      "word": "金价银价大跌原因",
+      "onboard_time": 1779080960,
+      "rank": 46,
+      "category": "财经"
     },
     {
       "raw_hot": 201640,
@@ -371,12 +627,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 197940,
+      "num": 223975,
+      "word": "当我带豆包去吃旋转小火锅",
+      "onboard_time": 1779080182,
+      "rank": 28,
+      "category": "美食"
+    },
+    {
       "raw_hot": 196376,
       "num": 196376,
       "word": "张雪机车夺得5冠",
       "onboard_time": 1779021442,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 195129,
+      "num": 195129,
+      "word": "尤长靖合伙人董岩磊",
+      "onboard_time": 1779079641,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 195041,
@@ -435,6 +707,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 169564,
+      "num": 222503,
+      "word": "小米YU7GT发布会定档",
+      "onboard_time": 1779069918,
+      "rank": 29,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 166598,
       "num": 636528,
       "word": "窦骁翟子路你们不要再打了",
@@ -459,6 +739,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 157696,
+      "num": 259187,
+      "word": "李昀锐代言荣耀智能生态产品",
+      "onboard_time": 1779077120,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 153482,
       "num": 153482,
       "word": "樊振东失2分",
@@ -473,6 +761,14 @@
       "onboard_time": 1779031043,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 145231,
+      "num": 220446,
+      "word": "王鹤棣爱到骨子里",
+      "onboard_time": 1779080660,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 139801,
@@ -521,6 +817,14 @@
       "onboard_time": 1779021442,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 124082,
+      "num": 208311,
+      "word": "维嘉回应衣服被马丁买了",
+      "onboard_time": 1779080841,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 123762,
@@ -603,6 +907,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 101929,
+      "num": 900601,
+      "word": "本轮大范围降雨到哪了",
+      "onboard_time": 1779070220,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 96440,
       "num": 110250,
       "word": "绿龙夺冠",
@@ -617,6 +929,14 @@
       "onboard_time": 1779016220,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 91731,
+      "num": 213403,
+      "word": "丈夫雇人抢走孩子拘留也不还",
+      "onboard_time": 1779080479,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 88498,
@@ -641,6 +961,14 @@
       "onboard_time": 1779029841,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 86338,
+      "num": 198167,
+      "word": "豆包开始收费谁慌了",
+      "onboard_time": 1779080960,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 85767,
@@ -707,6 +1035,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 62494,
+      "num": 217461,
+      "word": "杨幂是真对我眼睛很好",
+      "onboard_time": 1779077059,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 62141,
       "num": 62141,
       "word": "张真源头像",
@@ -731,12 +1067,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 53566,
+      "num": 262341,
+      "word": "网传山东樱桃2元1斤记者实探",
+      "onboard_time": 1779080600,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 50933,
       "num": 668474,
       "word": "AI预测世界杯西班牙夺冠",
       "onboard_time": 1779058817,
       "rank": 19,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 50399,
+      "num": 213689,
+      "word": "AI伪造的商品问题图有破绽",
+      "onboard_time": 1779080600,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 49866,
@@ -753,6 +1105,14 @@
       "onboard_time": 1779066140,
       "rank": 48,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 35380,
+      "num": 203794,
+      "word": "贝克汉姆看球赛吃什么",
+      "onboard_time": 1779077420,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 33603,
@@ -830,6 +1190,9 @@
   "hotgov_list": [
     {
       "word": "#盘点中美元首会谈的重要信号#"
+    },
+    {
+      "word": "#中美关系站上历史的新起点#"
     }
   ]
 }
