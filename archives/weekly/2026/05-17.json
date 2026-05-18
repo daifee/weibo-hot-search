@@ -1,6 +1,6 @@
 {
   "startTime": 1778951228781,
-  "endTime": 1779145931230,
+  "endTime": 1779147445247,
   "band_list": [
     {
       "raw_hot": 17984788,
@@ -227,6 +227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1625636,
+      "num": 160971,
+      "word": "曝蔡卓妍含泪控诉丈夫",
+      "onboard_time": 1779115403,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1543509,
       "num": 1543509,
       "word": "广州震感",
@@ -403,6 +411,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1022951,
+      "num": 160050,
+      "word": "曝阿娇没有去阿Sa的婚礼",
+      "onboard_time": 1779145878,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1013879,
       "num": 378348,
       "word": "张真源严浩翔初现印象排名",
@@ -553,14 +569,6 @@
       "onboard_time": 1779009740,
       "rank": 5,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 802631,
-      "num": 113564,
-      "word": "曝蔡卓妍含泪控诉丈夫",
-      "onboard_time": 1779115403,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 798972,
@@ -777,6 +785,14 @@
       "onboard_time": 1779001101,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 603186,
+      "num": 906509,
+      "word": "巴西队世界杯26人名单",
+      "onboard_time": 1779145818,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 602418,
@@ -1147,6 +1163,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 411105,
+      "num": 411105,
+      "word": "小朋友的世界是没有退路的",
+      "onboard_time": 1779120140,
+      "rank": 4,
+      "category": "情感"
+    },
+    {
       "raw_hot": 404719,
       "num": 404719,
       "word": "甜馨晒自己化的新妆容",
@@ -1259,6 +1283,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 382036,
+      "num": 158499,
+      "word": "周杰伦昆凌大女儿长这么大了",
+      "onboard_time": 1779117382,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 381922,
       "num": 381922,
       "word": "南宁震感",
@@ -1331,6 +1363,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 362612,
+      "num": 175449,
+      "word": "男子酒后多次骚扰女童被打索赔36万",
+      "onboard_time": 1779146178,
+      "rank": 11,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 359633,
       "num": 334368,
       "word": "柳州地震有人连夜开车回南宁桂林",
@@ -1401,14 +1441,6 @@
       "onboard_time": 1779031101,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 335640,
-      "num": 335640,
-      "word": "小朋友的世界是没有退路的",
-      "onboard_time": 1779120140,
-      "rank": 4,
-      "category": "情感"
     },
     {
       "raw_hot": 332575,
@@ -1547,14 +1579,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 306266,
-      "num": 113220,
-      "word": "曝阿娇没有去阿Sa的婚礼",
-      "onboard_time": 1779145878,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 303560,
       "num": 192028,
       "word": "孙杨曾致电马云寻求人生方向",
@@ -1665,6 +1689,14 @@
       "onboard_time": 1778994441,
       "rank": 8,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 291259,
+      "num": 291259,
+      "word": "柳州地震遇难夫妻是当地菜市场商贩",
+      "onboard_time": 1779121519,
+      "rank": 18,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 290008,
@@ -2076,7 +2108,7 @@
     },
     {
       "raw_hot": 229483,
-      "num": 118845,
+      "num": 163499,
       "word": "娜塔莎无下限广告引学生模仿",
       "onboard_time": 1779123617,
       "rank": 23,
@@ -2291,6 +2323,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 208222,
+      "num": 174283,
+      "word": "以防你没见过遛大型犬",
+      "onboard_time": 1779123617,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 208182,
       "num": 208182,
       "word": "洁丽雅已注册毛巾二叔商标",
@@ -2467,6 +2507,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 191738,
+      "num": 191738,
+      "word": "杨紫曹磊对手戏",
+      "onboard_time": 1779125417,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 191144,
       "num": 214409,
       "word": "A股算力龙头一字涨停",
@@ -2555,12 +2603,12 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 178557,
-      "num": 169251,
-      "word": "柳州地震遇难夫妻是当地菜市场商贩",
-      "onboard_time": 1779121519,
-      "rank": 18,
-      "category": "突发/灾害"
+      "raw_hot": 177078,
+      "num": 177078,
+      "word": "唐艺昕 这下妆卸干净了",
+      "onboard_time": 1779135793,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 176841,
@@ -2585,6 +2633,14 @@
       "onboard_time": 1779030082,
       "rank": 38,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 173363,
+      "num": 173363,
+      "word": "马斯克发视频点赞重庆东站",
+      "onboard_time": 1779146239,
+      "rank": 17,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 173155,
@@ -2657,14 +2713,6 @@
       "onboard_time": 1779069918,
       "rank": 29,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 169492,
-      "num": 169492,
-      "word": "杨紫曹磊对手戏",
-      "onboard_time": 1779125417,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 169478,
@@ -2769,6 +2817,14 @@
       "onboard_time": 1778992520,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 160424,
+      "num": 160424,
+      "word": "阿森纳1比0伯恩利",
+      "onboard_time": 1779145637,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 159782,
@@ -2899,6 +2955,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 142024,
+      "num": 142024,
+      "word": "王者520皮肤爆料",
+      "onboard_time": 1779147140,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 140496,
       "num": 140496,
       "word": "万千惠情商",
@@ -2939,12 +3003,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 136542,
+      "num": 132412,
+      "word": "羊怕小朋友力气不够还知道搭把手",
+      "onboard_time": 1779146298,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 136096,
       "num": 135379,
       "word": "迪丽热巴双剧入围电视金鹰奖",
       "onboard_time": 1778983940,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 136015,
+      "num": 136015,
+      "word": "毛巾少爷发声",
+      "onboard_time": 1779146778,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 134426,
@@ -2969,6 +3049,22 @@
       "onboard_time": 1779030502,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 132740,
+      "num": 132740,
+      "word": "老人恶意划车被拍车主报警",
+      "onboard_time": 1779117981,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 131493,
+      "num": 127905,
+      "word": "预制菜已经进化到开展会了",
+      "onboard_time": 1779146178,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 130680,
@@ -3001,14 +3097,6 @@
       "onboard_time": 1778953636,
       "rank": 25,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 128302,
-      "num": 128302,
-      "word": "唐艺昕 这下妆卸干净了",
-      "onboard_time": 1779135793,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 127911,
@@ -3131,14 +3219,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 115747,
-      "num": 115747,
-      "word": "以防你没见过遛大型犬",
-      "onboard_time": 1779123617,
-      "rank": 31,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 115048,
       "num": 172642,
       "word": "曝折叠屏iPhone试产受阻",
@@ -3155,11 +3235,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 113960,
-      "num": 113960,
-      "word": "老人恶意划车被拍车主报警",
-      "onboard_time": 1779117981,
-      "rank": 46,
+      "raw_hot": 113722,
+      "num": 113722,
+      "word": "比药水杨梅更可怕的是别家都这样",
+      "onboard_time": 1779107901,
+      "rank": 36,
       "category": "民生新闻"
     },
     {
@@ -3212,7 +3292,7 @@
     },
     {
       "raw_hot": 106153,
-      "num": 106153,
+      "num": 132530,
       "word": "给阿嬷的情书 微博长尾效应",
       "onboard_time": 1779136093,
       "rank": 8,
@@ -3315,6 +3395,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 97051,
+      "num": 97051,
+      "word": "五月天向柳州地震捐助100万元",
+      "onboard_time": 1779146719,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 96440,
       "num": 110250,
       "word": "绿龙夺冠",
@@ -3355,6 +3443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 92349,
+      "num": 92349,
+      "word": "为什么领导总是那么精力充沛",
+      "onboard_time": 1779140534,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 91802,
       "num": 147997,
       "word": "邓超陈赫五哈哭了",
@@ -3385,6 +3481,14 @@
       "onboard_time": 1778939421,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 89802,
+      "num": 89802,
+      "word": "帕梅拉夏天减肥法",
+      "onboard_time": 1779102861,
+      "rank": 41,
+      "category": "运动健身"
     },
     {
       "raw_hot": 89791,
@@ -3515,14 +3619,6 @@
       "category": "财经,互联网"
     },
     {
-      "raw_hot": 82059,
-      "num": 120548,
-      "word": "阿森纳1比0伯恩利",
-      "onboard_time": 1779145637,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
       "raw_hot": 81856,
       "num": 81856,
       "word": "以为自己天赋异禀结果是体脂高",
@@ -3585,6 +3681,14 @@
       "onboard_time": 1778934861,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 76468,
+      "num": 176958,
+      "word": "感觉AI治好了我多年的老花眼",
+      "onboard_time": 1779145217,
+      "rank": 19,
+      "category": "互联网"
     },
     {
       "raw_hot": 75981,
@@ -3755,14 +3859,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 63736,
-      "num": 71716,
-      "word": "为什么领导总是那么精力充沛",
-      "onboard_time": 1779140534,
-      "rank": 49,
-      "category": "情感"
-    },
-    {
       "raw_hot": 62494,
       "num": 217461,
       "word": "杨幂是真对我眼睛很好",
@@ -3777,6 +3873,14 @@
       "onboard_time": 1779124277,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 59820,
+      "num": 59820,
+      "word": "520大屏文案已去恋爱化",
+      "onboard_time": 1779100821,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 59260,
@@ -3977,14 +4081,6 @@
       "onboard_time": 1779119361,
       "rank": 45,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 44926,
-      "num": 71709,
-      "word": "巴西队世界杯26人名单",
-      "onboard_time": 1779145818,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 44627,
@@ -4315,7 +4411,7 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 22215,
+      "raw_hot": 22422,
       "num": 71704,
       "word": "荣耀600",
       "onboard_time": 1779119781,
@@ -4361,14 +4457,6 @@
       "onboard_time": 1779026663,
       "rank": 42,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 19957,
-      "num": 113605,
-      "word": "感觉AI治好了我多年的老花眼",
-      "onboard_time": 1779145217,
-      "rank": 19,
-      "category": "互联网"
     },
     {
       "raw_hot": 19891,
