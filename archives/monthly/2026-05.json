@@ -1,6 +1,6 @@
 {
   "startTime": 1777565126834,
-  "endTime": 1779134038276,
+  "endTime": 1779135169869,
   "band_list": [
     {
       "raw_hot": 25375641,
@@ -34435,6 +34435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 31070,
+      "num": 32026,
+      "word": "穆祉丞戛纳采访路透",
+      "onboard_time": 1779132374,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 31042,
       "num": 131589,
       "word": "中国首例脑机接口植入患者能下棋了",
@@ -34811,14 +34819,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 27931,
-      "num": 32026,
-      "word": "穆祉丞戛纳采访路透",
-      "onboard_time": 1779132374,
-      "rank": 26,
-      "category": "电影"
-    },
-    {
       "raw_hot": 27804,
       "num": 253983,
       "word": "三亚天价皮皮虾事件真相至今模糊",
@@ -34857,6 +34857,14 @@
       "onboard_time": 1777747095,
       "rank": 41,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 27535,
+      "num": 31792,
+      "word": "柳州酒店住客逃出避险不敢入内",
+      "onboard_time": 1779131594,
+      "rank": 34,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 27422,
@@ -35227,6 +35235,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 24556,
+      "num": 29596,
+      "word": "记者亲历柳州再发生5.2级地震",
+      "onboard_time": 1779134954,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 24236,
       "num": 26630,
       "word": "构建中美建设性战略稳定关系",
@@ -35299,12 +35315,12 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 22549,
-      "num": 31792,
-      "word": "柳州酒店住客逃出避险不敢入内",
-      "onboard_time": 1779131594,
-      "rank": 34,
-      "category": "突发/灾害"
+      "raw_hot": 22581,
+      "num": 31780,
+      "word": "美商业航天板块爆发",
+      "onboard_time": 1779130634,
+      "rank": 35,
+      "category": "财经"
     },
     {
       "raw_hot": 22544,
@@ -35377,14 +35393,6 @@
       "onboard_time": 1777809683,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 22203,
-      "num": 31780,
-      "word": "美商业航天板块爆发",
-      "onboard_time": 1779130634,
-      "rank": 35,
-      "category": "财经"
     },
     {
       "raw_hot": 22189,
@@ -35995,6 +36003,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 15386,
+      "num": 31425,
+      "word": "AG有你更奇妙",
+      "onboard_time": 1779127635,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 15206,
       "num": 201521,
       "word": "中方回应中美元首会晤首要关切议题",
@@ -36041,14 +36057,6 @@
       "onboard_time": 1778771303,
       "rank": 40,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 14716,
-      "num": 31425,
-      "word": "AG有你更奇妙",
-      "onboard_time": 1779127635,
-      "rank": 49,
-      "category": "电竞"
     },
     {
       "raw_hot": 14693,
