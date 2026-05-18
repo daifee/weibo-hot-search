@@ -1,6 +1,6 @@
 {
   "startTime": 1778951228781,
-  "endTime": 1779126065870,
+  "endTime": 1779134038276,
   "band_list": [
     {
       "raw_hot": 17984788,
@@ -4147,6 +4147,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 27931,
+      "num": 32026,
+      "word": "穆祉丞戛纳采访路透",
+      "onboard_time": 1779132374,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 26391,
       "num": 27795,
       "word": "2026LPL第二赛段",
@@ -4187,12 +4195,28 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 22549,
+      "num": 31792,
+      "word": "柳州酒店住客逃出避险不敢入内",
+      "onboard_time": 1779131594,
+      "rank": 34,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 22544,
       "num": 185778,
       "word": "曝亚运会Viper和Gumayusi二选一",
       "onboard_time": 1779015680,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 22203,
+      "num": 31780,
+      "word": "美商业航天板块爆发",
+      "onboard_time": 1779130634,
+      "rank": 35,
+      "category": "财经"
     },
     {
       "raw_hot": 21882,
@@ -4251,6 +4275,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 17217,
+      "num": 31556,
+      "word": "李显龙晒访华第一站",
+      "onboard_time": 1779120081,
+      "rank": 43,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 16456,
       "num": 192669,
       "word": "北京细水长流下成暴雨",
@@ -4265,6 +4297,14 @@
       "onboard_time": 1778984839,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 14716,
+      "num": 31425,
+      "word": "AG有你更奇妙",
+      "onboard_time": 1779127635,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 14693,

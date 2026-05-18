@@ -1,6 +1,6 @@
 {
   "startTime": 1779125683087,
-  "endTime": 1779126065870,
+  "endTime": 1779134038276,
   "band_list": [
     {
       "raw_hot": 645388,
@@ -401,6 +401,54 @@
       "onboard_time": 1779118042,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 27931,
+      "num": 32026,
+      "word": "穆祉丞戛纳采访路透",
+      "onboard_time": 1779132374,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 22549,
+      "num": 31792,
+      "word": "柳州酒店住客逃出避险不敢入内",
+      "onboard_time": 1779131594,
+      "rank": 34,
+      "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 22203,
+      "num": 31780,
+      "word": "美商业航天板块爆发",
+      "onboard_time": 1779130634,
+      "rank": 35,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 17217,
+      "num": 31556,
+      "word": "李显龙晒访华第一站",
+      "onboard_time": 1779120081,
+      "rank": 43,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 15926,
+      "num": 31457,
+      "word": "魏牌V9X上市",
+      "onboard_time": 1779113844,
+      "rank": 47,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 14716,
+      "num": 31425,
+      "word": "AG有你更奇妙",
+      "onboard_time": 1779127635,
+      "rank": 49,
+      "category": "电竞"
     }
   ],
   "hotgov_list": [
