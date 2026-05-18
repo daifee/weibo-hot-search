@@ -1,6 +1,6 @@
 {
   "startTime": 1779125683087,
-  "endTime": 1779139193940,
+  "endTime": 1779140833945,
   "band_list": [
     {
       "raw_hot": 645388,
@@ -179,6 +179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 98575,
+      "num": 110370,
+      "word": "监狱来的妈妈单日票房超4万",
+      "onboard_time": 1779123617,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 95080,
       "num": 110930,
       "word": "武汉一村庄585人62人患癌",
@@ -217,14 +225,6 @@
       "onboard_time": 1779125417,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 80049,
-      "num": 110370,
-      "word": "监狱来的妈妈单日票房超4万",
-      "onboard_time": 1779123617,
-      "rank": 28,
-      "category": "电影"
     },
     {
       "raw_hot": 75707,
@@ -355,6 +355,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 49323,
+      "num": 49323,
+      "word": "给阿嬷的情书 微博长尾效应",
+      "onboard_time": 1779136093,
+      "rank": 8,
+      "category": "电影"
+    },
+    {
       "raw_hot": 45164,
       "num": 108746,
       "word": "柳州震后或将迎强对流天气",
@@ -377,14 +385,6 @@
       "onboard_time": 1779123617,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 41611,
-      "num": 41611,
-      "word": "给阿嬷的情书 微博长尾效应",
-      "onboard_time": 1779136093,
-      "rank": 8,
-      "category": "电影"
     },
     {
       "raw_hot": 41596,
@@ -419,12 +419,28 @@
       "category": "电影"
     },
     {
-      "raw_hot": 27535,
+      "raw_hot": 30119,
+      "num": 30119,
+      "word": "唐艺昕 这下妆卸干净了",
+      "onboard_time": 1779135793,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 28343,
       "num": 31792,
       "word": "柳州酒店住客逃出避险不敢入内",
       "onboard_time": 1779131594,
       "rank": 34,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 24807,
+      "num": 31780,
+      "word": "美商业航天板块爆发",
+      "onboard_time": 1779130634,
+      "rank": 35,
+      "category": "财经"
     },
     {
       "raw_hot": 24556,
@@ -435,28 +451,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 22581,
-      "num": 31780,
-      "word": "美商业航天板块爆发",
-      "onboard_time": 1779130634,
-      "rank": 35,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 20350,
-      "num": 20350,
-      "word": "唐艺昕 这下妆卸干净了",
-      "onboard_time": 1779135793,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 18528,
+      "raw_hot": 21518,
       "num": 31556,
       "word": "李显龙晒访华第一站",
       "onboard_time": 1779120081,
       "rank": 43,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 16349,
+      "num": 24790,
+      "word": "孙杨专访",
+      "onboard_time": 1779140414,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 15926,
@@ -467,12 +475,28 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 15666,
+      "num": 24787,
+      "word": "荣耀600",
+      "onboard_time": 1779119781,
+      "rank": 48,
+      "category": "数码"
+    },
+    {
       "raw_hot": 15386,
       "num": 31425,
       "word": "AG有你更奇妙",
       "onboard_time": 1779127635,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 14881,
+      "num": 24784,
+      "word": "为什么领导总是那么精力充沛",
+      "onboard_time": 1779140534,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 4651,
