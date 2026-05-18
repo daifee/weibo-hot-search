@@ -1,6 +1,6 @@
 {
   "startTime": 1779125683087,
-  "endTime": 1779125683087,
+  "endTime": 1779126065870,
   "band_list": [
     {
       "raw_hot": 645388,
@@ -35,7 +35,7 @@
       "category": "情感"
     },
     {
-      "raw_hot": 290837,
+      "raw_hot": 303560,
       "num": 192028,
       "word": "孙杨曾致电马云寻求人生方向",
       "onboard_time": 1779120561,
@@ -115,6 +115,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 169251,
+      "num": 169251,
+      "word": "柳州地震遇难夫妻是当地菜市场商贩",
+      "onboard_time": 1779121519,
+      "rank": 18,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 166070,
       "num": 166070,
       "word": "小乐老乡杯被踢",
@@ -139,19 +147,19 @@
       "category": "电影"
     },
     {
-      "raw_hot": 111941,
-      "num": 111941,
-      "word": "柳州地震遇难夫妻是当地菜市场商贩",
-      "onboard_time": 1779121519,
-      "rank": 18,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 111190,
       "num": 111190,
       "word": "上海交大通报学生私吞竞赛奖金",
       "onboard_time": 1779097220,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 110007,
+      "num": 110887,
+      "word": "娜塔莎无下限广告引学生模仿",
+      "onboard_time": 1779123617,
+      "rank": 23,
       "category": "民生新闻"
     },
     {
@@ -179,14 +187,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 94016,
-      "num": 110887,
-      "word": "娜塔莎无下限广告引学生模仿",
-      "onboard_time": 1779123617,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 91196,
       "num": 110714,
       "word": "五月天演唱会内地收官",
@@ -211,12 +211,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 76625,
+      "raw_hot": 81853,
       "num": 110598,
       "word": "杨紫曹磊对手戏",
       "onboard_time": 1779125417,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 80049,
+      "num": 110370,
+      "word": "监狱来的妈妈单日票房超4万",
+      "onboard_time": 1779123617,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 75707,
@@ -225,14 +233,6 @@
       "onboard_time": 1779114984,
       "rank": 27,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 75492,
-      "num": 110370,
-      "word": "监狱来的妈妈单日票房超4万",
-      "onboard_time": 1779123617,
-      "rank": 28,
-      "category": "电影"
     },
     {
       "raw_hot": 75043,
@@ -267,7 +267,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 65398,
+      "raw_hot": 65418,
       "num": 109777,
       "word": "98岁奶奶拿出了她当年的嫁妆",
       "onboard_time": 1779096858,
@@ -393,6 +393,14 @@
       "onboard_time": 1779113184,
       "rank": 49,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 36124,
+      "num": 101024,
+      "word": "韩东君你是真上网",
+      "onboard_time": 1779118042,
+      "rank": 49,
+      "category": "剧集"
     }
   ],
   "hotgov_list": [
