@@ -1,6 +1,6 @@
 {
   "startTime": 1777565126834,
-  "endTime": 1779082940189,
+  "endTime": 1779099518973,
   "band_list": [
     {
       "raw_hot": 25375641,
@@ -379,6 +379,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 3804140,
+      "num": 279751,
+      "word": "姜乘澜被执行1119万",
+      "onboard_time": 1779096679,
+      "rank": 10,
+      "category": "网红"
+    },
+    {
       "raw_hot": 3784340,
       "num": 272296,
       "word": "武大就OPPO母亲节文案发声",
@@ -673,6 +681,14 @@
       "onboard_time": 1777819882,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 2773191,
+      "num": 2773191,
+      "word": "特朗普连发15张图分享中国记忆",
+      "onboard_time": 1779096622,
+      "rank": 0,
+      "category": "国际时政"
     },
     {
       "raw_hot": 2772526,
@@ -1251,6 +1267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1968780,
+      "num": 270509,
+      "word": "周冬雨 刘昊然",
+      "onboard_time": 1779091099,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1941166,
       "num": 335557,
       "word": "鹿晗给新婚粉丝送礼盒",
@@ -1457,6 +1481,14 @@
       "onboard_time": 1778136380,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1763704,
+      "num": 695367,
+      "word": "王濛瘦成鹿晗了",
+      "onboard_time": 1779091519,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 1761791,
@@ -2105,6 +2137,14 @@
       "onboard_time": 1778401100,
       "rank": 3,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1425921,
+      "num": 276064,
+      "word": "曝监狱来的妈妈撤档",
+      "onboard_time": 1779095118,
+      "rank": 13,
+      "category": "电影"
     },
     {
       "raw_hot": 1424530,
@@ -3019,6 +3059,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 1100319,
+      "num": 650641,
+      "word": "98岁奶奶拿出了她当年的嫁妆",
+      "onboard_time": 1779096858,
+      "rank": 4,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1099778,
       "num": 663731,
       "word": "张凌赫gucci大秀登美趋第一",
@@ -3576,6 +3624,14 @@
       "word": "江苏税务回应偷拍男生拟录公务员",
       "onboard_time": 1778589740,
       "rank": 13,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 978357,
+      "num": 1079258,
+      "word": "上海交大通报学生私吞竞赛奖金",
+      "onboard_time": 1779097220,
+      "rank": 1,
       "category": "民生新闻"
     },
     {
@@ -4603,6 +4659,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 826630,
+      "num": 273758,
+      "word": "IU边佑锡发文道歉",
+      "onboard_time": 1779086840,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 826602,
       "num": 826602,
       "word": "拧巴的人谈恋爱belike",
@@ -5449,6 +5513,14 @@
       "onboard_time": 1777960341,
       "rank": 3,
       "category": "演出"
+    },
+    {
+      "raw_hot": 735703,
+      "num": 273021,
+      "word": "归鸾是逐玉2.0吗",
+      "onboard_time": 1779089540,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 735194,
@@ -7291,6 +7363,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 593431,
+      "num": 271188,
+      "word": "张元英 贝微微",
+      "onboard_time": 1779090739,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 592760,
       "num": 592760,
       "word": "泡泡岛 舞台坍塌",
@@ -8297,6 +8377,14 @@
       "onboard_time": 1778423485,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 531307,
+      "num": 269584,
+      "word": "跑男标题 李昀锐温柔回应孟子义",
+      "onboard_time": 1779090320,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 530479,
@@ -10219,6 +10307,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 443011,
+      "num": 443011,
+      "word": "5中国人在泰遭4警察1平民绑架勒索",
+      "onboard_time": 1779085460,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 442096,
       "num": 442096,
       "word": "方媛对自己的人生比较满意",
@@ -10747,6 +10843,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 417245,
+      "num": 279960,
+      "word": "余秀华报警",
+      "onboard_time": 1779094879,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 416309,
       "num": 416309,
       "word": "唐嫣演技",
@@ -11113,6 +11217,14 @@
       "onboard_time": 1777896202,
       "rank": 48,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 402311,
+      "num": 269962,
+      "word": "100颗拼豆的量",
+      "onboard_time": 1779089840,
+      "rank": 21,
+      "category": "休闲"
     },
     {
       "raw_hot": 402045,
@@ -11659,6 +11771,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 385272,
+      "num": 268349,
+      "word": "难怪杨幂爸妈小时候舍不得打她",
+      "onboard_time": 1779091041,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 385271,
       "num": 385271,
       "word": "时代少年团演唱会 青岛",
@@ -12129,6 +12249,14 @@
       "onboard_time": 1777678820,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 367928,
+      "num": 277799,
+      "word": "理发价格涨了 技术没涨",
+      "onboard_time": 1779089359,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 367398,
@@ -13651,6 +13779,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 324729,
+      "num": 137155,
+      "word": "老乡杯",
+      "onboard_time": 1779098661,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 324356,
       "num": 324356,
       "word": "豆包挑榴莲",
@@ -13961,6 +14097,14 @@
       "onboard_time": 1777939219,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 314678,
+      "num": 267768,
+      "word": "水果含糖量刺客",
+      "onboard_time": 1779082459,
+      "rank": 42,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 314670,
@@ -15155,6 +15299,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 287823,
+      "num": 287823,
+      "word": "给阿嬷的情书 宣发模式",
+      "onboard_time": 1779091460,
+      "rank": 6,
+      "category": "电影"
+    },
+    {
       "raw_hot": 287494,
       "num": 287494,
       "word": "嫁金钗预告",
@@ -15371,6 +15523,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 282508,
+      "num": 282508,
+      "word": "穆里尼奥将回归执教皇马",
+      "onboard_time": 1779096200,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 282227,
       "num": 582051,
       "word": "名侦探柯南",
@@ -15481,6 +15641,14 @@
       "onboard_time": 1777593137,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 279282,
+      "num": 279282,
+      "word": "恶意评分杨紫家业已违法",
+      "onboard_time": 1779088099,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 279190,
@@ -15753,6 +15921,14 @@
       "onboard_time": 1779081800,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 273868,
+      "num": 273868,
+      "word": "一个退学博士掀起的学术打假风暴",
+      "onboard_time": 1779087740,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 273798,
@@ -16249,6 +16425,14 @@
       "onboard_time": 1778291300,
       "rank": 29,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 262356,
+      "num": 262356,
+      "word": "李思潼将成为00花一番票房最高",
+      "onboard_time": 1779098840,
+      "rank": 26,
+      "category": "电影"
     },
     {
       "raw_hot": 262352,
@@ -18083,6 +18267,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 232197,
+      "num": 232197,
+      "word": "麦琳从140斤瘦到90多斤",
+      "onboard_time": 1779085940,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 232164,
       "num": 202075,
       "word": "爸爸一脚踹向横穿马路孩子",
@@ -18200,6 +18392,14 @@
       "word": "28岁攒到10万元女生已申请辞职",
       "onboard_time": 1777544719,
       "rank": 15,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 231079,
+      "num": 231079,
+      "word": "女子称列车餐车被占满仅她一人消费",
+      "onboard_time": 1779094459,
+      "rank": 30,
       "category": "民生新闻"
     },
     {
@@ -19307,14 +19507,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 214573,
-      "num": 214573,
-      "word": "水果含糖量刺客",
-      "onboard_time": 1779082459,
-      "rank": 42,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 214546,
       "num": 227356,
       "word": "紫金陈 低智商犯罪2",
@@ -19363,6 +19555,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 214204,
+      "num": 214204,
+      "word": "田曦薇王安宇好像在拍校园剧",
+      "onboard_time": 1779097761,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 214194,
       "num": 212876,
       "word": "5月最吸金的星座",
@@ -19377,6 +19577,14 @@
       "onboard_time": 1778635701,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 213795,
+      "num": 280482,
+      "word": "AI一天 地上一年",
+      "onboard_time": 1779087679,
+      "rank": 8,
+      "category": "互联网"
     },
     {
       "raw_hot": 213767,
@@ -19817,6 +20025,14 @@
       "onboard_time": 1777683619,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 208182,
+      "num": 208182,
+      "word": "洁丽雅已注册毛巾二叔商标",
+      "onboard_time": 1779086479,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 208172,
@@ -23707,6 +23923,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 161804,
+      "num": 272207,
+      "word": "男子为同村亡者抬棺时心梗离世",
+      "onboard_time": 1779098480,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 161709,
       "num": 161709,
       "word": "妻旅 老公还是在观察室待着吧",
@@ -24179,6 +24403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 157063,
+      "num": 157063,
+      "word": "女孩被胁迫卖淫主犯15岁非免罪金牌",
+      "onboard_time": 1779089840,
+      "rank": 35,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 157058,
       "num": 157058,
       "word": "张予曦怎么又瘦了",
@@ -24281,6 +24513,14 @@
       "onboard_time": 1777561641,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 156142,
+      "num": 156142,
+      "word": "ITZY回归",
+      "onboard_time": 1779096021,
+      "rank": 36,
+      "category": "音乐"
     },
     {
       "raw_hot": 156102,
@@ -24779,6 +25019,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 150255,
+      "num": 231128,
+      "word": "iPhone18Pro系列手机壳曝光",
+      "onboard_time": 1779085639,
+      "rank": 28,
+      "category": "数码"
+    },
+    {
       "raw_hot": 150121,
       "num": 150121,
       "word": "张怡宁为梯队建设选择退役",
@@ -24881,6 +25129,14 @@
       "onboard_time": 1778756421,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 149254,
+      "num": 149254,
+      "word": "家业开播云合",
+      "onboard_time": 1779094759,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 149233,
@@ -25171,6 +25427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 145191,
+      "num": 138993,
+      "word": "监狱来的妈妈女主多平台账号被禁",
+      "onboard_time": 1779098840,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
       "raw_hot": 145127,
       "num": 145127,
       "word": "侯明昊唱歌",
@@ -25241,6 +25505,14 @@
       "onboard_time": 1777762216,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 144487,
+      "num": 144487,
+      "word": "面试看见铺这种地毯的公司要避雷",
+      "onboard_time": 1779099440,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 144445,
@@ -25595,6 +25867,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 139411,
+      "num": 139411,
+      "word": "小孩半夜被关门外哭泣半小时",
+      "onboard_time": 1779098539,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 139315,
       "num": 220444,
       "word": "杨洋游船 幸亏建桥没有偷工减料",
@@ -25921,6 +26201,14 @@
       "onboard_time": 1778983940,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 136006,
+      "num": 136006,
+      "word": "外交部回应特朗普涉台表态",
+      "onboard_time": 1779096260,
+      "rank": 49,
+      "category": "国内时政"
     },
     {
       "raw_hot": 135832,
@@ -28683,6 +28971,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 100979,
+      "num": 138489,
+      "word": "A股成交跌破3万亿",
+      "onboard_time": 1779098539,
+      "rank": 43,
+      "category": "财经"
+    },
+    {
       "raw_hot": 100812,
       "num": 286733,
       "word": "AI圈突传大变局",
@@ -29193,6 +29489,14 @@
       "onboard_time": 1778888359,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 93456,
+      "num": 137475,
+      "word": "鸿蒙智行法务公示多自媒体账号被处理",
+      "onboard_time": 1779099081,
+      "rank": 46,
+      "category": "汽车"
     },
     {
       "raw_hot": 93335,
@@ -30883,6 +31187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 63819,
+      "num": 138546,
+      "word": "被爆米花冰淇淋硬控了",
+      "onboard_time": 1779095180,
+      "rank": 42,
+      "category": "美食"
+    },
+    {
       "raw_hot": 63714,
       "num": 195004,
       "word": "孙艺洲被阿嬷的情书自来水顶号了",
@@ -31265,6 +31577,14 @@
       "onboard_time": 1777568418,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 58252,
+      "num": 137928,
+      "word": "贝克汉姆邀你去FIFA世界杯",
+      "onboard_time": 1779098721,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 58146,
@@ -31777,6 +32097,14 @@
       "onboard_time": 1778169921,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 52623,
+      "num": 139204,
+      "word": "网红大瑶同学突发眩晕症",
+      "onboard_time": 1779098960,
+      "rank": 40,
+      "category": "网红"
     },
     {
       "raw_hot": 52289,
@@ -32465,6 +32793,14 @@
       "onboard_time": 1778227521,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 43107,
+      "num": 137629,
+      "word": "陪娃写作业救星终于来了",
+      "onboard_time": 1779099200,
+      "rank": 45,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 43089,
@@ -35611,6 +35947,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 5947,
+      "num": 841918,
+      "word": "2026中国网络文明大会",
+      "onboard_time": 1779069620,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 5941,
       "num": 168986,
       "word": "i人e人五一自驾belike",
@@ -36033,6 +36377,9 @@
     },
     {
       "word": "#中美关系站上历史的新起点#"
+    },
+    {
+      "word": "#听总书记讲文物故事#"
     }
   ]
 }

@@ -1,0 +1,410 @@
+{
+  "runTime": 1779099518973,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2773191,
+        "num": 2773191,
+        "word": "特朗普连发15张图分享中国记忆",
+        "onboard_time": 1779096622,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 978357,
+        "num": 1079258,
+        "word": "上海交大通报学生私吞竞赛奖金",
+        "onboard_time": 1779097220,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 5947,
+        "num": 841918,
+        "word": "2026中国网络文明大会",
+        "onboard_time": 1779069620,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1763704,
+        "num": 695367,
+        "word": "王濛瘦成鹿晗了",
+        "onboard_time": 1779091519,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1100319,
+        "num": 650641,
+        "word": "98岁奶奶拿出了她当年的嫁妆",
+        "onboard_time": 1779096858,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 443011,
+        "num": 443011,
+        "word": "5中国人在泰遭4警察1平民绑架勒索",
+        "onboard_time": 1779085460,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 287823,
+        "num": 287823,
+        "word": "给阿嬷的情书 宣发模式",
+        "onboard_time": 1779091460,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 282508,
+        "num": 282508,
+        "word": "穆里尼奥将回归执教皇马",
+        "onboard_time": 1779096200,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 213795,
+        "num": 280482,
+        "word": "AI一天 地上一年",
+        "onboard_time": 1779087679,
+        "rank": 8,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 417245,
+        "num": 279960,
+        "word": "余秀华报警",
+        "onboard_time": 1779094879,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 3804140,
+        "num": 279751,
+        "word": "姜乘澜被执行1119万",
+        "onboard_time": 1779096679,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 279282,
+        "num": 279282,
+        "word": "恶意评分杨紫家业已违法",
+        "onboard_time": 1779088099,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 367928,
+        "num": 277799,
+        "word": "理发价格涨了 技术没涨",
+        "onboard_time": 1779089359,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1425921,
+        "num": 276064,
+        "word": "曝监狱来的妈妈撤档",
+        "onboard_time": 1779095118,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1085914,
+        "num": 274990,
+        "word": "麦琳瘦成唐嫣了",
+        "onboard_time": 1779078143,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 273868,
+        "num": 273868,
+        "word": "一个退学博士掀起的学术打假风暴",
+        "onboard_time": 1779087740,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 826630,
+        "num": 273758,
+        "word": "IU边佑锡发文道歉",
+        "onboard_time": 1779086840,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 735703,
+        "num": 273021,
+        "word": "归鸾是逐玉2.0吗",
+        "onboard_time": 1779089540,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161804,
+        "num": 272207,
+        "word": "男子为同村亡者抬棺时心梗离世",
+        "onboard_time": 1779098480,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 593431,
+        "num": 271188,
+        "word": "张元英 贝微微",
+        "onboard_time": 1779090739,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1968780,
+        "num": 270509,
+        "word": "周冬雨 刘昊然",
+        "onboard_time": 1779091099,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 402311,
+        "num": 269962,
+        "word": "100颗拼豆的量",
+        "onboard_time": 1779089840,
+        "rank": 21,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 531307,
+        "num": 269584,
+        "word": "跑男标题 李昀锐温柔回应孟子义",
+        "onboard_time": 1779090320,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 385272,
+        "num": 268349,
+        "word": "难怪杨幂爸妈小时候舍不得打她",
+        "onboard_time": 1779091041,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 314678,
+        "num": 267768,
+        "word": "水果含糖量刺客",
+        "onboard_time": 1779082459,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 267486,
+        "num": 267486,
+        "word": "洁丽雅",
+        "onboard_time": 1779081860,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 262356,
+        "num": 262356,
+        "word": "李思潼将成为00花一番票房最高",
+        "onboard_time": 1779098840,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 232197,
+        "num": 232197,
+        "word": "麦琳从140斤瘦到90多斤",
+        "onboard_time": 1779085940,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150255,
+        "num": 231128,
+        "word": "iPhone18Pro系列手机壳曝光",
+        "onboard_time": 1779085639,
+        "rank": 28,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 148984,
+        "num": 231095,
+        "word": "金价银价大跌原因",
+        "onboard_time": 1779080960,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 231079,
+        "num": 231079,
+        "word": "女子称列车餐车被占满仅她一人消费",
+        "onboard_time": 1779094459,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 214204,
+        "num": 214204,
+        "word": "田曦薇王安宇好像在拍校园剧",
+        "onboard_time": 1779097761,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 208182,
+        "num": 208182,
+        "word": "洁丽雅已注册毛巾二叔商标",
+        "onboard_time": 1779086479,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 181340,
+        "num": 181340,
+        "word": "维嘉回应衣服被马丁买了",
+        "onboard_time": 1779080841,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164541,
+        "num": 164541,
+        "word": "LCK公布亚运会人选",
+        "onboard_time": 1779082580,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 157063,
+        "num": 157063,
+        "word": "女孩被胁迫卖淫主犯15岁非免罪金牌",
+        "onboard_time": 1779089840,
+        "rank": 35,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 156142,
+        "num": 156142,
+        "word": "ITZY回归",
+        "onboard_time": 1779096021,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 149254,
+        "num": 149254,
+        "word": "家业开播云合",
+        "onboard_time": 1779094759,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144487,
+        "num": 144487,
+        "word": "面试看见铺这种地毯的公司要避雷",
+        "onboard_time": 1779099440,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 139411,
+        "num": 139411,
+        "word": "小孩半夜被关门外哭泣半小时",
+        "onboard_time": 1779098539,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 52623,
+        "num": 139204,
+        "word": "网红大瑶同学突发眩晕症",
+        "onboard_time": 1779098960,
+        "rank": 40,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 145191,
+        "num": 138993,
+        "word": "监狱来的妈妈女主多平台账号被禁",
+        "onboard_time": 1779098840,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 63819,
+        "num": 138546,
+        "word": "被爆米花冰淇淋硬控了",
+        "onboard_time": 1779095180,
+        "rank": 42,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 100979,
+        "num": 138489,
+        "word": "A股成交跌破3万亿",
+        "onboard_time": 1779098539,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 58252,
+        "num": 137928,
+        "word": "贝克汉姆邀你去FIFA世界杯",
+        "onboard_time": 1779098721,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 43107,
+        "num": 137629,
+        "word": "陪娃写作业救星终于来了",
+        "onboard_time": 1779099200,
+        "rank": 45,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 93456,
+        "num": 137475,
+        "word": "鸿蒙智行法务公示多自媒体账号被处理",
+        "onboard_time": 1779099081,
+        "rank": 46,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 324729,
+        "num": 137155,
+        "word": "老乡杯",
+        "onboard_time": 1779098661,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 137028,
+        "num": 137028,
+        "word": "易立竞把孙杨问破防了",
+        "onboard_time": 1779077661,
+        "rank": 48,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 136006,
+        "num": 136006,
+        "word": "外交部回应特朗普涉台表态",
+        "onboard_time": 1779096260,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#听总书记讲文物故事#"
+    }
+  }
+}
