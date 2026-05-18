@@ -1,6 +1,6 @@
 {
   "startTime": 1779125683087,
-  "endTime": 1779135169869,
+  "endTime": 1779139193940,
   "band_list": [
     {
       "raw_hot": 645388,
@@ -379,6 +379,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 41611,
+      "num": 41611,
+      "word": "给阿嬷的情书 微博长尾效应",
+      "onboard_time": 1779136093,
+      "rank": 8,
+      "category": "电影"
+    },
+    {
       "raw_hot": 41596,
       "num": 108388,
       "word": "seedance制作的人类进化史科普视频",
@@ -435,7 +443,15 @@
       "category": "财经"
     },
     {
-      "raw_hot": 17217,
+      "raw_hot": 20350,
+      "num": 20350,
+      "word": "唐艺昕 这下妆卸干净了",
+      "onboard_time": 1779135793,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 18528,
       "num": 31556,
       "word": "李显龙晒访华第一站",
       "onboard_time": 1779120081,
@@ -457,6 +473,14 @@
       "onboard_time": 1779127635,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 4651,
+      "num": 19496,
+      "word": "一张情侣票承包整个夏天的甜蜜",
+      "onboard_time": 1779138373,
+      "rank": 41,
+      "category": "演出"
     }
   ],
   "hotgov_list": [
