@@ -1,6 +1,6 @@
 {
   "startTime": 1779037572764,
-  "endTime": 1779081148925,
+  "endTime": 1779082940189,
   "band_list": [
     {
       "raw_hot": 6308488,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 2449407,
-      "num": 299255,
+      "num": 402872,
       "word": "麦琳瘦成唐嫣了",
       "onboard_time": 1779078143,
       "rank": 10,
@@ -163,6 +163,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 735103,
+      "num": 401280,
+      "word": "洁丽雅",
+      "onboard_time": 1779081860,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 703292,
       "num": 709434,
       "word": "吴敬平谈樊振东欧冠失利",
@@ -187,6 +195,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 658525,
+      "num": 398539,
+      "word": "易立竞把孙杨问破防了",
+      "onboard_time": 1779077661,
+      "rank": 11,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 657702,
       "num": 702608,
       "word": "柳州地震现场情况",
@@ -203,24 +219,16 @@
       "category": "体育"
     },
     {
-      "raw_hot": 637764,
-      "num": 298842,
-      "word": "易立竞把孙杨问破防了",
-      "onboard_time": 1779077661,
-      "rank": 11,
-      "category": "艺人,体育"
-    },
-    {
       "raw_hot": 634031,
-      "num": 297837,
+      "num": 393185,
       "word": "A股",
       "onboard_time": 1779073700,
       "rank": 12,
       "category": "财经"
     },
     {
-      "raw_hot": 605951,
-      "num": 297439,
+      "raw_hot": 619745,
+      "num": 619745,
       "word": "给阿嬷的情书要是个烂编剧",
       "onboard_time": 1779080182,
       "rank": 13,
@@ -268,11 +276,19 @@
     },
     {
       "raw_hot": 468468,
-      "num": 296867,
+      "num": 331404,
       "word": "白鹿周翊然方辟谣恋情",
       "onboard_time": 1779074900,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 465786,
+      "num": 465786,
+      "word": "微信读书skill",
+      "onboard_time": 1779077901,
+      "rank": 8,
+      "category": "互联网"
     },
     {
       "raw_hot": 434267,
@@ -284,11 +300,27 @@
     },
     {
       "raw_hot": 430777,
-      "num": 295006,
+      "num": 330110,
       "word": "张凌赫G社生图",
       "onboard_time": 1779071900,
       "rank": 16,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 419728,
+      "num": 395344,
+      "word": "怎么说服杨洋拍这玩意的",
+      "onboard_time": 1779079282,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 404613,
+      "num": 404613,
+      "word": "普京为何急于访华",
+      "onboard_time": 1779081259,
+      "rank": 8,
+      "category": "国际时政"
     },
     {
       "raw_hot": 381922,
@@ -300,7 +332,7 @@
     },
     {
       "raw_hot": 375523,
-      "num": 375523,
+      "num": 397185,
       "word": "哈登抢七躺赢",
       "onboard_time": 1779076340,
       "rank": 7,
@@ -323,8 +355,16 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 369811,
+      "num": 369811,
+      "word": "垫底辣孩与女网红合拍被指没边界感",
+      "onboard_time": 1779081860,
+      "rank": 21,
+      "category": "网红"
+    },
+    {
       "raw_hot": 359633,
-      "num": 300182,
+      "num": 334368,
       "word": "柳州地震有人连夜开车回南宁桂林",
       "onboard_time": 1779077420,
       "rank": 9,
@@ -340,7 +380,7 @@
     },
     {
       "raw_hot": 356078,
-      "num": 294512,
+      "num": 306459,
       "word": "爸爸当家5开播",
       "onboard_time": 1779075381,
       "rank": 17,
@@ -356,19 +396,11 @@
     },
     {
       "raw_hot": 332575,
-      "num": 260767,
+      "num": 298971,
       "word": "李英爱问张凌赫很有名吗",
       "onboard_time": 1779069859,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 327799,
-      "num": 260713,
-      "word": "怎么说服杨洋拍这玩意的",
-      "onboard_time": 1779079282,
-      "rank": 22,
-      "category": "剧集"
     },
     {
       "raw_hot": 314394,
@@ -395,11 +427,35 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 312026,
+      "num": 310406,
+      "word": "徐冬冬和尹子维吵架吵哭了",
+      "onboard_time": 1779079641,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 311524,
       "num": 659724,
       "word": "谢娜晒和李小冉聊天记录",
       "onboard_time": 1779024201,
       "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 310482,
+      "num": 310482,
+      "word": "金价银价大跌原因",
+      "onboard_time": 1779080960,
+      "rank": 46,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 303476,
+      "num": 303476,
+      "word": "娜扎前经纪人回应迪丽热巴被换传闻",
+      "onboard_time": 1779082160,
+      "rank": 30,
       "category": "艺人"
     },
     {
@@ -411,14 +467,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 300644,
-      "num": 300644,
-      "word": "微信读书skill",
-      "onboard_time": 1779077901,
-      "rank": 8,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 294943,
       "num": 256974,
       "word": "许玮甯邱泽公园溜娃",
@@ -428,7 +476,7 @@
     },
     {
       "raw_hot": 289932,
-      "num": 258379,
+      "num": 264229,
       "word": "男子住70元酒店发现空调挂女士内裤",
       "onboard_time": 1779078742,
       "rank": 24,
@@ -459,12 +507,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 273084,
-      "num": 220172,
-      "word": "徐冬冬和尹子维吵架吵哭了",
-      "onboard_time": 1779079641,
-      "rank": 33,
-      "category": "艺人"
+      "raw_hot": 273984,
+      "num": 403908,
+      "word": "孙杨回应妈宝男标签",
+      "onboard_time": 1779081800,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 259777,
@@ -516,7 +564,7 @@
     },
     {
       "raw_hot": 241384,
-      "num": 210711,
+      "num": 227849,
       "word": "孙莉黄磊女儿多妹这么大了",
       "onboard_time": 1779077000,
       "rank": 40,
@@ -539,6 +587,30 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 225964,
+      "num": 225964,
+      "word": "维嘉回应衣服被马丁买了",
+      "onboard_time": 1779080841,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 222707,
+      "num": 229905,
+      "word": "LCK公布亚运会人选",
+      "onboard_time": 1779082580,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 222319,
+      "num": 303719,
+      "word": "当我带豆包去吃旋转小火锅",
+      "onboard_time": 1779080182,
+      "rank": 28,
+      "category": "美食"
+    },
+    {
       "raw_hot": 222027,
       "num": 222027,
       "word": "骑士4比3淘汰活塞",
@@ -553,6 +625,30 @@
       "onboard_time": 1779076521,
       "rank": 34,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 218689,
+      "num": 218689,
+      "word": "岳雨婷自曝正骨长高3.5厘米",
+      "onboard_time": 1779074180,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 216460,
+      "num": 216460,
+      "word": "家业豆瓣热度",
+      "onboard_time": 1779082400,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 214573,
+      "num": 214573,
+      "word": "水果含糖量刺客",
+      "onboard_time": 1779082459,
+      "rank": 42,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 214418,
@@ -595,14 +691,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 202955,
-      "num": 202955,
-      "word": "金价银价大跌原因",
-      "onboard_time": 1779080960,
-      "rank": 46,
-      "category": "财经"
-    },
-    {
       "raw_hot": 201640,
       "num": 201640,
       "word": "算力价格",
@@ -625,14 +713,6 @@
       "onboard_time": 1779067099,
       "rank": 35,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 197940,
-      "num": 223975,
-      "word": "当我带豆包去吃旋转小火锅",
-      "onboard_time": 1779080182,
-      "rank": 28,
-      "category": "美食"
     },
     {
       "raw_hot": 196376,
@@ -708,7 +788,7 @@
     },
     {
       "raw_hot": 169564,
-      "num": 222503,
+      "num": 303543,
       "word": "小米YU7GT发布会定档",
       "onboard_time": 1779069918,
       "rank": 29,
@@ -764,11 +844,19 @@
     },
     {
       "raw_hot": 145231,
-      "num": 220446,
+      "num": 397977,
       "word": "王鹤棣爱到骨子里",
       "onboard_time": 1779080660,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 145224,
+      "num": 175687,
+      "word": "丁程鑫又喊妈咪又喊姐",
+      "onboard_time": 1779081681,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 139801,
@@ -819,12 +907,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 124082,
-      "num": 208311,
-      "word": "维嘉回应衣服被马丁买了",
-      "onboard_time": 1779080841,
-      "rank": 41,
-      "category": "艺人"
+      "raw_hot": 129407,
+      "num": 394239,
+      "word": "主动性强到不活在他人眼里",
+      "onboard_time": 1779076099,
+      "rank": 18,
+      "category": "情感"
     },
     {
       "raw_hot": 123762,
@@ -873,6 +961,22 @@
       "onboard_time": 1779067279,
       "rank": 49,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 115048,
+      "num": 172642,
+      "word": "曝折叠屏iPhone试产受阻",
+      "onboard_time": 1779073520,
+      "rank": 48,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 114611,
+      "num": 173950,
+      "word": "湖北荆州暴雨积水停工停课",
+      "onboard_time": 1779081320,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 112915,
@@ -947,6 +1051,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 87888,
+      "num": 198167,
+      "word": "豆包开始收费谁慌了",
+      "onboard_time": 1779080960,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 87863,
       "num": 653516,
       "word": "任何关系里都要遵守有客之道",
@@ -961,14 +1073,6 @@
       "onboard_time": 1779029841,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 86338,
-      "num": 198167,
-      "word": "豆包开始收费谁慌了",
-      "onboard_time": 1779080960,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 85767,
@@ -1123,6 +1227,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 32836,
+      "num": 220118,
+      "word": "荆州暴雨积水淹进高校宿舍",
+      "onboard_time": 1779082160,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 31752,
       "num": 33603,
       "word": "胖东来回应主动退顾客iPhone差价",
@@ -1153,6 +1265,14 @@
       "onboard_time": 1779042675,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 22671,
+      "num": 394108,
+      "word": "宜昌暴雨已破36年来记录",
+      "onboard_time": 1779082160,
+      "rank": 19,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 21635,

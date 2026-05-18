@@ -1,0 +1,410 @@
+{
+  "runTime": 1779082940189,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1290061,
+        "num": 1290061,
+        "word": "奔跑吧战国袍造型",
+        "onboard_time": 1779076099,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 820892,
+        "num": 869600,
+        "word": "广西柳州地震已致2人死亡",
+        "onboard_time": 1779068478,
+        "rank": 1,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 85254,
+        "num": 677939,
+        "word": "本轮大范围降雨到哪了",
+        "onboard_time": 1779070220,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 980576,
+        "num": 677022,
+        "word": "上了很久的班之后才明白的道理",
+        "onboard_time": 1779073759,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 619745,
+        "num": 619745,
+        "word": "给阿嬷的情书要是个烂编剧",
+        "onboard_time": 1779080182,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 541438,
+        "num": 541438,
+        "word": "白鹿先在综艺穿了战国袍",
+        "onboard_time": 1779076760,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 529016,
+        "num": 529016,
+        "word": "毛巾老板直播被骂晒结婚证自证清白",
+        "onboard_time": 1779072981,
+        "rank": 6,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 465786,
+        "num": 465786,
+        "word": "微信读书skill",
+        "onboard_time": 1779077901,
+        "rank": 7,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 404613,
+        "num": 404613,
+        "word": "普京为何急于访华",
+        "onboard_time": 1779081259,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 273984,
+        "num": 403908,
+        "word": "孙杨回应妈宝男标签",
+        "onboard_time": 1779081800,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1631027,
+        "num": 402872,
+        "word": "麦琳瘦成唐嫣了",
+        "onboard_time": 1779078143,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 536602,
+        "num": 402335,
+        "word": "归鸾阵容官宣",
+        "onboard_time": 1779071480,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 735103,
+        "num": 401280,
+        "word": "洁丽雅",
+        "onboard_time": 1779081860,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 419953,
+        "num": 400022,
+        "word": "何超仪公开何超蕸真正死因",
+        "onboard_time": 1779062779,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 658525,
+        "num": 398539,
+        "word": "易立竞把孙杨问破防了",
+        "onboard_time": 1779077661,
+        "rank": 14,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 35724,
+        "num": 397977,
+        "word": "王鹤棣爱到骨子里",
+        "onboard_time": 1779080660,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 268452,
+        "num": 397185,
+        "word": "哈登抢七躺赢",
+        "onboard_time": 1779076340,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 419728,
+        "num": 395344,
+        "word": "怎么说服杨洋拍这玩意的",
+        "onboard_time": 1779079282,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129407,
+        "num": 394239,
+        "word": "主动性强到不活在他人眼里",
+        "onboard_time": 1779076099,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 22671,
+        "num": 394108,
+        "word": "宜昌暴雨已破36年来记录",
+        "onboard_time": 1779082160,
+        "rank": 19,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 393185,
+        "num": 393185,
+        "word": "A股",
+        "onboard_time": 1779073700,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 369811,
+        "num": 369811,
+        "word": "垫底辣孩与女网红合拍被指没边界感",
+        "onboard_time": 1779081860,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 334368,
+        "num": 334368,
+        "word": "柳州地震有人连夜开车回南宁桂林",
+        "onboard_time": 1779077420,
+        "rank": 22,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 331404,
+        "num": 331404,
+        "word": "白鹿周翊然方辟谣恋情",
+        "onboard_time": 1779074900,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 330110,
+        "num": 330110,
+        "word": "张凌赫G社生图",
+        "onboard_time": 1779071900,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 310482,
+        "num": 310482,
+        "word": "金价银价大跌原因",
+        "onboard_time": 1779080960,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 312026,
+        "num": 310406,
+        "word": "徐冬冬和尹子维吵架吵哭了",
+        "onboard_time": 1779079641,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 306459,
+        "num": 306459,
+        "word": "爸爸当家5开播",
+        "onboard_time": 1779075381,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 222319,
+        "num": 303719,
+        "word": "当我带豆包去吃旋转小火锅",
+        "onboard_time": 1779080182,
+        "rank": 28,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 123530,
+        "num": 303543,
+        "word": "小米YU7GT发布会定档",
+        "onboard_time": 1779069918,
+        "rank": 29,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 303476,
+        "num": 303476,
+        "word": "娜扎前经纪人回应迪丽热巴被换传闻",
+        "onboard_time": 1779082160,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 298971,
+        "num": 298971,
+        "word": "李英爱问张凌赫很有名吗",
+        "onboard_time": 1779069859,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 264229,
+        "num": 264229,
+        "word": "男子住70元酒店发现空调挂女士内裤",
+        "onboard_time": 1779078742,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 234459,
+        "num": 234459,
+        "word": "许玮甯邱泽公园溜娃",
+        "onboard_time": 1779075800,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 232034,
+        "num": 232034,
+        "word": "短剧演员从三年百部到无戏可拍",
+        "onboard_time": 1779069439,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 222707,
+        "num": 229905,
+        "word": "LCK公布亚运会人选",
+        "onboard_time": 1779082580,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 227849,
+        "num": 227849,
+        "word": "孙莉黄磊女儿多妹这么大了",
+        "onboard_time": 1779077000,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 225964,
+        "num": 225964,
+        "word": "维嘉回应衣服被马丁买了",
+        "onboard_time": 1779080841,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32836,
+        "num": 220118,
+        "word": "荆州暴雨积水淹进高校宿舍",
+        "onboard_time": 1779082160,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 218689,
+        "num": 218689,
+        "word": "岳雨婷自曝正骨长高3.5厘米",
+        "onboard_time": 1779074180,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 216460,
+        "num": 216460,
+        "word": "家业豆瓣热度",
+        "onboard_time": 1779082400,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 215040,
+        "num": 215040,
+        "word": "美国2战机飞行表演时撞毁",
+        "onboard_time": 1779063860,
+        "rank": 41,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 214573,
+        "num": 214573,
+        "word": "水果含糖量刺客",
+        "onboard_time": 1779082459,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 208124,
+        "num": 208124,
+        "word": "曝蒋毅婚后私信女网友",
+        "onboard_time": 1779075200,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185324,
+        "num": 185324,
+        "word": "罗永浩谈给阿嬷的情书",
+        "onboard_time": 1779077541,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 175939,
+        "num": 175939,
+        "word": "马克龙非洲行翻车",
+        "onboard_time": 1779071719,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 145224,
+        "num": 175687,
+        "word": "丁程鑫又喊妈咪又喊姐",
+        "onboard_time": 1779081681,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114611,
+        "num": 173950,
+        "word": "湖北荆州暴雨积水停工停课",
+        "onboard_time": 1779081320,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115048,
+        "num": 172642,
+        "word": "曝折叠屏iPhone试产受阻",
+        "onboard_time": 1779073520,
+        "rank": 48,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 87888,
+        "num": 172333,
+        "word": "豆包开始收费谁慌了",
+        "onboard_time": 1779080960,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#盘点中美元首会谈的重要信号#"
+    }
+  }
+}
