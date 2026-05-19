@@ -1,0 +1,410 @@
+{
+  "runTime": 1779227740433,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 582447,
+        "num": 582447,
+        "word": "阿森纳",
+        "onboard_time": 1779226574,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 248168,
+        "num": 248168,
+        "word": "普京到达北京",
+        "onboard_time": 1779202342,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 9712,
+        "num": 191095,
+        "word": "南宁十条护航涉企网络生态",
+        "onboard_time": 1779210316,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 99074,
+        "num": 99074,
+        "word": "泰国终止60天免签",
+        "onboard_time": 1779194540,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 80226,
+        "num": 80226,
+        "word": "武汉市联合调查组发布情况通报",
+        "onboard_time": 1779221954,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77977,
+        "num": 77977,
+        "word": "家业收视率",
+        "onboard_time": 1779201802,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 75025,
+        "num": 75025,
+        "word": "普京抵京画面",
+        "onboard_time": 1779204322,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 68730,
+        "num": 68730,
+        "word": "在不关注的领域世界有另一个样子",
+        "onboard_time": 1779217394,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 59717,
+        "num": 59717,
+        "word": "王源衣服上手缝了三万多颗珠子",
+        "onboard_time": 1779198921,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 58290,
+        "num": 58290,
+        "word": "曝白玉兰提名名单",
+        "onboard_time": 1779202883,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146331,
+        "num": 57357,
+        "word": "普京抱过的中国男孩将再见普京",
+        "onboard_time": 1779202283,
+        "rank": 10,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 101617,
+        "num": 57033,
+        "word": "杉杉来了真夫妻结婚13年了",
+        "onboard_time": 1779198741,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 99431,
+        "num": 55522,
+        "word": "章晓梅章晓燕为婆媳关系非姐妹",
+        "onboard_time": 1779204982,
+        "rank": 12,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 83472,
+        "num": 54924,
+        "word": "普京走出机舱",
+        "onboard_time": 1779205462,
+        "rank": 13,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 67427,
+        "num": 54121,
+        "word": "玻璃",
+        "onboard_time": 1779208159,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 53498,
+        "num": 53498,
+        "word": "黄金直线跳水原因找到了",
+        "onboard_time": 1779206421,
+        "rank": 15,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 43980,
+        "num": 43980,
+        "word": "离婚争娃却不养致俩孩子流落养老院",
+        "onboard_time": 1779223274,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 43458,
+        "num": 43458,
+        "word": "渣打银行宣布将裁员近8000人",
+        "onboard_time": 1779206241,
+        "rank": 17,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 42445,
+        "num": 42445,
+        "word": "佳偶天成",
+        "onboard_time": 1779220093,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 39328,
+        "num": 39328,
+        "word": "专家解释阿嬷的读音",
+        "onboard_time": 1779219674,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 70858,
+        "num": 39328,
+        "word": "5个不经意间摄入微塑料的习惯",
+        "onboard_time": 1779207319,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 41231,
+        "num": 39219,
+        "word": "白发重新变黑的方法",
+        "onboard_time": 1779201743,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 39067,
+        "num": 39067,
+        "word": "千万别用塑料容器加热食物",
+        "onboard_time": 1779226334,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 35963,
+        "num": 35963,
+        "word": "买东西不看尺寸的后果",
+        "onboard_time": 1779197963,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 35625,
+        "num": 35625,
+        "word": "赖清德暗怼特朗普后心虚了",
+        "onboard_time": 1779205462,
+        "rank": 24,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 29284,
+        "num": 29284,
+        "word": "主角",
+        "onboard_time": 1779191601,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 26406,
+        "num": 26406,
+        "word": "被马龙王楚钦薪火相传感动了",
+        "onboard_time": 1779209178,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 26220,
+        "num": 26220,
+        "word": "警方通报中学女生跑操后死亡",
+        "onboard_time": 1779199819,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25052,
+        "num": 25052,
+        "word": "杨紫把韩东君气疯了",
+        "onboard_time": 1779193520,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 24973,
+        "num": 24973,
+        "word": "DeepSeek最新回应",
+        "onboard_time": 1779207860,
+        "rank": 29,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 27679,
+        "num": 24873,
+        "word": "美国男子枪杀少女过程被监控拍下",
+        "onboard_time": 1779214216,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 24769,
+        "num": 24769,
+        "word": "白鹿侯明昊17年拍的剧要上了",
+        "onboard_time": 1779181340,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 24502,
+        "num": 24502,
+        "word": "孙杨采访时突然开始点餐",
+        "onboard_time": 1779181580,
+        "rank": 32,
+        "category": "体育,作品衍生"
+      },
+      {
+        "raw_hot": 24073,
+        "num": 24073,
+        "word": "华东最大水果批发市场只卖云南杨梅",
+        "onboard_time": 1779197963,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23782,
+        "num": 23782,
+        "word": "特斯拉放弃印度建厂",
+        "onboard_time": 1779195381,
+        "rank": 34,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 23573,
+        "num": 23573,
+        "word": "女博士丈夫抢子法院裁定三日内送回",
+        "onboard_time": 1779201982,
+        "rank": 35,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 23162,
+        "num": 23162,
+        "word": "你一般每天刷牙几次",
+        "onboard_time": 1779222134,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 22660,
+        "num": 22660,
+        "word": "葡萄牙公布世界杯名单",
+        "onboard_time": 1779194962,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 22317,
+        "num": 22317,
+        "word": "郭晶晶说爱情比门当户对更重要",
+        "onboard_time": 1779205402,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 21481,
+        "num": 21481,
+        "word": "种地吧",
+        "onboard_time": 1779223394,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 21414,
+        "num": 21481,
+        "word": "杨洋释小龙展昭vs展昭",
+        "onboard_time": 1779201862,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 21050,
+        "num": 21481,
+        "word": "柳州地震全家11口最后一刻逃生",
+        "onboard_time": 1779191241,
+        "rank": 41,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 21106,
+        "num": 21481,
+        "word": "雨霖铃一二集重剪了",
+        "onboard_time": 1779196821,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20805,
+        "num": 21481,
+        "word": "苏新皓新歌登顶全站第一",
+        "onboard_time": 1779207680,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 19707,
+        "num": 21481,
+        "word": "3岁娃被独自分到8节外静音车厢",
+        "onboard_time": 1779189380,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18752,
+        "num": 21481,
+        "word": "杨紫新剧刚开播为何现千条雷同差评",
+        "onboard_time": 1779188180,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 18166,
+        "num": 21480,
+        "word": "爱情有烟火播出时间",
+        "onboard_time": 1779194900,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17066,
+        "num": 21480,
+        "word": "白玉兰",
+        "onboard_time": 1779186500,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16867,
+        "num": 21480,
+        "word": "华尔街股神做空芯片股",
+        "onboard_time": 1779200903,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 16511,
+        "num": 21480,
+        "word": "打工更多是情绪劳动",
+        "onboard_time": 1779215054,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#两国元首身体力行传承中俄世代友好#"
+    }
+  }
+}

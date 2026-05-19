@@ -1,6 +1,6 @@
 {
   "startTime": 1779208114045,
-  "endTime": 1779226050405,
+  "endTime": 1779227740433,
   "band_list": [
     {
       "raw_hot": 4569181,
@@ -57,6 +57,14 @@
       "onboard_time": 1779194540,
       "rank": 4,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 582447,
+      "num": 582447,
+      "word": "阿森纳",
+      "onboard_time": 1779226574,
+      "rank": 0,
+      "category": "体育"
     },
     {
       "raw_hot": 571607,
@@ -372,7 +380,7 @@
     },
     {
       "raw_hot": 84035,
-      "num": 55062,
+      "num": 68730,
       "word": "在不关注的领域世界有另一个样子",
       "onboard_time": 1779217394,
       "rank": 40,
@@ -403,6 +411,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 80226,
+      "num": 80226,
+      "word": "武汉市联合调查组发布情况通报",
+      "onboard_time": 1779221954,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 75551,
       "num": 75551,
       "word": "成都蓉城0比1上海海港",
@@ -419,16 +435,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 49765,
-      "num": 32275,
-      "word": "武汉市联合调查组发布情况通报",
-      "onboard_time": 1779221954,
-      "rank": 15,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 48738,
-      "num": 32120,
+      "num": 43980,
       "word": "离婚争娃却不养致俩孩子流落养老院",
       "onboard_time": 1779223274,
       "rank": 16,
@@ -441,6 +449,14 @@
       "onboard_time": 1779214216,
       "rank": 30,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 42445,
+      "num": 42445,
+      "word": "佳偶天成",
+      "onboard_time": 1779220093,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 41375,
@@ -459,20 +475,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 39328,
+      "num": 39328,
+      "word": "专家解释阿嬷的读音",
+      "onboard_time": 1779219674,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 39067,
+      "num": 39067,
+      "word": "千万别用塑料容器加热食物",
+      "onboard_time": 1779226334,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 33206,
       "num": 61967,
       "word": "阿尔卡拉斯退出草地赛季",
       "onboard_time": 1779210018,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 32828,
-      "num": 32828,
-      "word": "佳偶天成",
-      "onboard_time": 1779220093,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 31827,
@@ -507,14 +531,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 30680,
-      "num": 30680,
-      "word": "专家解释阿嬷的读音",
-      "onboard_time": 1779219674,
-      "rank": 19,
-      "category": "电影"
-    },
-    {
       "raw_hot": 25717,
       "num": 61902,
       "word": "华东最大水果批发市场只卖云南杨梅",
@@ -531,15 +547,7 @@
       "category": "情感"
     },
     {
-      "raw_hot": 22128,
-      "num": 21155,
-      "word": "你一般每天刷牙几次",
-      "onboard_time": 1779222134,
-      "rank": 31,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 22097,
+      "raw_hot": 23573,
       "num": 39832,
       "word": "女博士丈夫抢子法院裁定三日内送回",
       "onboard_time": 1779201982,
@@ -547,8 +555,16 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 19324,
-      "num": 20964,
+      "raw_hot": 23162,
+      "num": 23162,
+      "word": "你一般每天刷牙几次",
+      "onboard_time": 1779222134,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 21481,
+      "num": 21481,
       "word": "种地吧",
       "onboard_time": 1779223394,
       "rank": 35,
@@ -564,7 +580,7 @@
     },
     {
       "raw_hot": 11572,
-      "num": 165631,
+      "num": 191095,
       "word": "南宁十条护航涉企网络生态",
       "onboard_time": 1779210316,
       "rank": 2,
