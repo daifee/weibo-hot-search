@@ -1,6 +1,6 @@
 {
   "startTime": 1778951228781,
-  "endTime": 1779147445247,
+  "endTime": 1779163641221,
   "band_list": [
     {
       "raw_hot": 17984788,
@@ -163,12 +163,36 @@
       "category": "情感"
     },
     {
+      "raw_hot": 2047621,
+      "num": 2047621,
+      "word": "文班亚马超远三分",
+      "onboard_time": 1779161780,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1968780,
       "num": 298530,
       "word": "周冬雨 刘昊然",
       "onboard_time": 1779091099,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1955343,
+      "num": 574252,
+      "word": "跑男 加塞",
+      "onboard_time": 1779160760,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1901720,
+      "num": 1901720,
+      "word": "普京访华",
+      "onboard_time": 1779156200,
+      "rank": 1,
+      "category": "国内时政"
     },
     {
       "raw_hot": 1893593,
@@ -339,6 +363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1177650,
+      "num": 1177650,
+      "word": "医保个账新规来了",
+      "onboard_time": 1779153440,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1135126,
       "num": 476299,
       "word": "中国有多少城市能撑起来七日游",
@@ -411,8 +443,16 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1024364,
+      "num": 1024364,
+      "word": "给阿嬷的情书 先骗来演了再说",
+      "onboard_time": 1779157698,
+      "rank": 4,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1022951,
-      "num": 160050,
+      "num": 237749,
       "word": "曝阿娇没有去阿Sa的婚礼",
       "onboard_time": 1779145878,
       "rank": 22,
@@ -523,6 +563,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 870625,
+      "num": 870625,
+      "word": "马刺vs雷霆",
+      "onboard_time": 1779150141,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 853139,
       "num": 853139,
       "word": "刘浩存穿十厘米高跟鞋定点转圈",
@@ -579,6 +627,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 771974,
+      "num": 572513,
+      "word": "儿子想做蚕丝被家人网购1万粒蚕卵",
+      "onboard_time": 1779163100,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 768484,
       "num": 768484,
       "word": "陈泽",
@@ -595,12 +651,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 756422,
+      "num": 572114,
+      "word": "倪萍让给阿嬷的情书男女主别乱接片",
+      "onboard_time": 1779150920,
+      "rank": 12,
+      "category": "电影"
+    },
+    {
       "raw_hot": 756132,
       "num": 461822,
       "word": "杨子家族疯狂套现超28亿",
       "onboard_time": 1779100880,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 755463,
+      "num": 755463,
+      "word": "人果然对吃都是有执念的",
+      "onboard_time": 1779162019,
+      "rank": 6,
+      "category": "情感"
     },
     {
       "raw_hot": 754879,
@@ -651,6 +723,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 714970,
+      "num": 237783,
+      "word": "周杰伦昆凌大女儿长这么大了",
+      "onboard_time": 1779117382,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 711732,
       "num": 271188,
       "word": "张元英 贝微微",
@@ -689,6 +769,14 @@
       "onboard_time": 1779065301,
       "rank": 9,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 664078,
+      "num": 664078,
+      "word": "尚界汽车报案",
+      "onboard_time": 1779157279,
+      "rank": 7,
+      "category": "汽车"
     },
     {
       "raw_hot": 663685,
@@ -745,6 +833,14 @@
       "onboard_time": 1778985380,
       "rank": 3,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 635891,
+      "num": 635891,
+      "word": "NBA",
+      "onboard_time": 1779161478,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 635250,
@@ -843,6 +939,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 586057,
+      "num": 586057,
+      "word": "开推4官宣阵容",
+      "onboard_time": 1779159319,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 582748,
       "num": 351223,
       "word": "千户苗寨偶遇Angelababy",
@@ -889,6 +993,14 @@
       "onboard_time": 1779060439,
       "rank": 36,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 543632,
+      "num": 543632,
+      "word": "孙杨的执着让马頔和伊能静都没招了",
+      "onboard_time": 1779158422,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 541104,
@@ -1025,6 +1137,14 @@
       "onboard_time": 1779103700,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 474855,
+      "num": 396410,
+      "word": "刘宇宁丁程鑫体型差",
+      "onboard_time": 1779162860,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 474561,
@@ -1203,6 +1323,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 401429,
+      "num": 401429,
+      "word": "用婴儿形象玩具擦边让人不寒而栗",
+      "onboard_time": 1779161960,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 400201,
       "num": 295364,
       "word": "何老师也接受不了vip抢先看",
@@ -1267,6 +1395,30 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 389825,
+      "num": 389825,
+      "word": "王者520皮肤爆料",
+      "onboard_time": 1779147140,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 388856,
+      "num": 192385,
+      "word": "小米YU7GT刷新纽北SUV圈速纪录",
+      "onboard_time": 1779159139,
+      "rank": 30,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 385362,
+      "num": 385362,
+      "word": "王者三丽鸥家族联动返场",
+      "onboard_time": 1779158059,
+      "rank": 17,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 385272,
       "num": 268349,
       "word": "难怪杨幂爸妈小时候舍不得打她",
@@ -1281,14 +1433,6 @@
       "onboard_time": 1779028584,
       "rank": 21,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 382036,
-      "num": 158499,
-      "word": "周杰伦昆凌大女儿长这么大了",
-      "onboard_time": 1779117382,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 381922,
@@ -1329,6 +1473,14 @@
       "onboard_time": 1779081860,
       "rank": 21,
       "category": "网红"
+    },
+    {
+      "raw_hot": 369416,
+      "num": 237769,
+      "word": "朵莉亚新皮肤幻海寻迹",
+      "onboard_time": 1779159139,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 367928,
@@ -1393,6 +1545,14 @@
       "onboard_time": 1779075381,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 354412,
+      "num": 193775,
+      "word": "拼豆已经进化成我拼不起的样子了",
+      "onboard_time": 1779161119,
+      "rank": 28,
+      "category": "休闲"
     },
     {
       "raw_hot": 354343,
@@ -1659,6 +1819,30 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 297856,
+      "num": 297856,
+      "word": "中专生花10天手搓AI短片火遍全网",
+      "onboard_time": 1779157639,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 297794,
+      "num": 189783,
+      "word": "60岁大爷中1亿词元以为是诈骗",
+      "onboard_time": 1779157698,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 295886,
+      "num": 189360,
+      "word": "卡鲁索爆发湖人媒体破防了",
+      "onboard_time": 1779161180,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 295226,
       "num": 255107,
       "word": "台湾人疯狂批发霸王茶姬回家",
@@ -1875,6 +2059,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 265623,
+      "num": 188761,
+      "word": "谢娜安利杨紫家业",
+      "onboard_time": 1779162379,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 261071,
+      "num": 187241,
+      "word": "幼儿园回应2岁宝宝被老师坐断腿",
+      "onboard_time": 1779151340,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 260106,
       "num": 260106,
       "word": "高皮质醇会让你少活7年",
@@ -1899,12 +2099,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 254809,
+      "num": 186044,
+      "word": "雷霆马刺加时",
+      "onboard_time": 1779163100,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 254739,
       "num": 344202,
       "word": "广东暴雨天蟑螂成群出动",
       "onboard_time": 1778989520,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 254558,
+      "num": 185691,
+      "word": "粉丝澄清孟子义跑男加塞",
+      "onboard_time": 1779155900,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 253321,
@@ -1953,6 +2169,14 @@
       "onboard_time": 1779103400,
       "rank": 39,
       "category": "演出"
+    },
+    {
+      "raw_hot": 248918,
+      "num": 184262,
+      "word": "Peanut破防了",
+      "onboard_time": 1779158059,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 247349,
@@ -2049,6 +2273,14 @@
       "onboard_time": 1779023960,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 237887,
+      "num": 237887,
+      "word": "印度2只大象河边打斗一女子被砸死",
+      "onboard_time": 1779157579,
+      "rank": 19,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 237828,
@@ -2427,6 +2659,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 199286,
+      "num": 177207,
+      "word": "王濛干一行行一行",
+      "onboard_time": 1779157518,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 199256,
       "num": 199256,
       "word": "记者正吃螺狮粉碰上柳州再次地震",
@@ -2483,6 +2723,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 195307,
+      "num": 195307,
+      "word": "非洲暴发埃博拉疫情",
+      "onboard_time": 1779160639,
+      "rank": 26,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 195129,
       "num": 195129,
       "word": "尤长靖合伙人董岩磊",
@@ -2531,11 +2779,27 @@
       "category": "演出"
     },
     {
+      "raw_hot": 189743,
+      "num": 175795,
+      "word": "张伟丽举着张真源转圈",
+      "onboard_time": 1779161659,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 186714,
       "num": 186714,
       "word": "外交部回应特朗普涉台表态",
       "onboard_time": 1779096260,
       "rank": 49,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 186361,
+      "num": 174841,
+      "word": "普京发表访华视频讲话",
+      "onboard_time": 1779149841,
+      "rank": 48,
       "category": "国内时政"
     },
     {
@@ -2593,6 +2857,14 @@
       "onboard_time": 1778974517,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 179122,
+      "num": 174800,
+      "word": "广西车辆坠河6人遇难",
+      "onboard_time": 1779158540,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 178583,
@@ -2747,6 +3019,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 168198,
+      "num": 181253,
+      "word": "原相机素颜的女明星们",
+      "onboard_time": 1779161300,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 167640,
+      "num": 194758,
+      "word": "马刺1比0雷霆",
+      "onboard_time": 1779163401,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 166713,
       "num": 166713,
       "word": "都不上班了出来看Angelababy",
@@ -2867,6 +3155,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 156839,
+      "num": 181837,
+      "word": "巨力索具继续跌停",
+      "onboard_time": 1779162860,
+      "rank": 41,
+      "category": "财经"
+    },
+    {
       "raw_hot": 152699,
       "num": 169031,
       "word": "良陈美锦",
@@ -2947,20 +3243,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 142732,
+      "num": 192736,
+      "word": "有一种好朋友叫王安宇田曦薇",
+      "onboard_time": 1779158299,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 142445,
       "num": 142445,
       "word": "张凌赫纽约看秀直拍",
       "onboard_time": 1778987599,
       "rank": 44,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 142024,
-      "num": 142024,
-      "word": "王者520皮肤爆料",
-      "onboard_time": 1779147140,
-      "rank": 25,
-      "category": "游戏"
     },
     {
       "raw_hot": 140496,
@@ -2977,6 +3273,14 @@
       "onboard_time": 1779026542,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 139584,
+      "num": 180058,
+      "word": "阿信方否认秘婚助理",
+      "onboard_time": 1779162019,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 139411,
@@ -3107,6 +3411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 126926,
+      "num": 183107,
+      "word": "五月天向柳州地震捐助100万元",
+      "onboard_time": 1779146719,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 124165,
       "num": 152298,
       "word": "韩红基金会去年收入7.8亿支出2.9亿",
@@ -3219,6 +3531,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 115691,
+      "num": 191378,
+      "word": "柳州地震男子用斧头劈门带全家逃生",
+      "onboard_time": 1779162320,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 115048,
       "num": 172642,
       "word": "曝折叠屏iPhone试产受阻",
@@ -3281,6 +3601,22 @@
       "onboard_time": 1779099081,
       "rank": 46,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 107960,
+      "num": 237829,
+      "word": "赴柳州高铁因地震半路全员下车",
+      "onboard_time": 1779163281,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 107516,
+      "num": 177839,
+      "word": "台湾星二代孙安佐因制作武器被抓",
+      "onboard_time": 1779150381,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 106773,
@@ -3395,14 +3731,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 97051,
-      "num": 97051,
-      "word": "五月天向柳州地震捐助100万元",
-      "onboard_time": 1779146719,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 96440,
       "num": 110250,
       "word": "绿龙夺冠",
@@ -3425,6 +3753,14 @@
       "onboard_time": 1778938222,
       "rank": 32,
       "category": "演出"
+    },
+    {
+      "raw_hot": 94012,
+      "num": 183396,
+      "word": "章若楠垂耳兔造型",
+      "onboard_time": 1779156740,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 93608,
@@ -3683,6 +4019,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 76634,
+      "num": 178567,
+      "word": "创纽北SUV新纪录车手是小米工程师",
+      "onboard_time": 1779161900,
+      "rank": 44,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 76468,
       "num": 176958,
       "word": "感觉AI治好了我多年的老花眼",
@@ -3745,6 +4089,14 @@
       "onboard_time": 1778992701,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 69295,
+      "num": 237834,
+      "word": "女子称金手镯戴了8年表面发绿",
+      "onboard_time": 1779163281,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 69136,
@@ -4321,6 +4673,14 @@
       "onboard_time": 1778990479,
       "rank": 38,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 29527,
+      "num": 237879,
+      "word": "宁夏一景区5公里需乘3段景交车",
+      "onboard_time": 1779163040,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 28387,
