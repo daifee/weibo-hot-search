@@ -1,6 +1,6 @@
 {
   "startTime": 1779208114045,
-  "endTime": 1779227740433,
+  "endTime": 1779232306109,
   "band_list": [
     {
       "raw_hot": 4569181,
@@ -43,6 +43,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 976187,
+      "num": 976187,
+      "word": "阿森纳是冠军",
+      "onboard_time": 1779229515,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 908792,
       "num": 239072,
       "word": "杉杉来了真夫妻结婚13年了",
@@ -59,7 +67,7 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 582447,
+      "raw_hot": 595163,
       "num": 582447,
       "word": "阿森纳",
       "onboard_time": 1779226574,
@@ -76,7 +84,7 @@
     },
     {
       "raw_hot": 570383,
-      "num": 91133,
+      "num": 124198,
       "word": "玻璃",
       "onboard_time": 1779208159,
       "rank": 10,
@@ -179,6 +187,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 218220,
+      "num": 218220,
+      "word": "家业收视率",
+      "onboard_time": 1779201802,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 215796,
       "num": 215796,
       "word": "主角热度破29000",
@@ -187,12 +203,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 215460,
-      "num": 215460,
-      "word": "家业收视率",
-      "onboard_time": 1779201802,
-      "rank": 23,
-      "category": "剧集"
+      "raw_hot": 212603,
+      "num": 212603,
+      "word": "在不关注的领域世界有另一个样子",
+      "onboard_time": 1779217394,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 210291,
@@ -209,6 +225,14 @@
       "onboard_time": 1779207680,
       "rank": 26,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 206133,
+      "num": 125012,
+      "word": "武汉市联合调查组发布情况通报",
+      "onboard_time": 1779221954,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 197620,
@@ -235,6 +259,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 169816,
+      "num": 169816,
+      "word": "千万别用塑料容器加热食物",
+      "onboard_time": 1779226334,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 162965,
       "num": 162965,
       "word": "主角",
@@ -249,6 +281,14 @@
       "onboard_time": 1779201862,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 155170,
+      "num": 108238,
+      "word": "5个不经意间摄入微塑料的习惯",
+      "onboard_time": 1779207319,
+      "rank": 42,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 137892,
@@ -331,6 +371,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 109360,
+      "num": 109360,
+      "word": "离婚争娃却不养致俩孩子流落养老院",
+      "onboard_time": 1779223274,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 108074,
+      "num": 108074,
+      "word": "专家解释阿嬷的读音",
+      "onboard_time": 1779219674,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
       "raw_hot": 104095,
       "num": 104095,
       "word": "张佳宁宋茜提前约会",
@@ -363,28 +419,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 94262,
-      "num": 94262,
-      "word": "5个不经意间摄入微塑料的习惯",
-      "onboard_time": 1779207319,
-      "rank": 42,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 86815,
-      "num": 86815,
+      "raw_hot": 88534,
+      "num": 88534,
       "word": "郭晶晶说爱情比门当户对更重要",
       "onboard_time": 1779205402,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 84035,
-      "num": 68730,
-      "word": "在不关注的领域世界有另一个样子",
-      "onboard_time": 1779217394,
-      "rank": 40,
-      "category": "情感"
     },
     {
       "raw_hot": 81312,
@@ -411,12 +451,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 80226,
-      "num": 80226,
-      "word": "武汉市联合调查组发布情况通报",
-      "onboard_time": 1779221954,
-      "rank": 15,
-      "category": "民生新闻"
+      "raw_hot": 76156,
+      "num": 76156,
+      "word": "佳偶天成",
+      "onboard_time": 1779220093,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 75551,
@@ -424,6 +464,14 @@
       "word": "成都蓉城0比1上海海港",
       "onboard_time": 1779203062,
       "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 70932,
+      "num": 70932,
+      "word": "被马龙王楚钦薪火相传感动了",
+      "onboard_time": 1779209178,
+      "rank": 35,
       "category": "体育"
     },
     {
@@ -435,28 +483,60 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 48738,
-      "num": 43980,
-      "word": "离婚争娃却不养致俩孩子流落养老院",
-      "onboard_time": 1779223274,
-      "rank": 16,
-      "category": "民生新闻"
+      "raw_hot": 65652,
+      "num": 65652,
+      "word": "你一般每天刷牙几次",
+      "onboard_time": 1779222134,
+      "rank": 31,
+      "category": "健康医疗"
     },
     {
-      "raw_hot": 46527,
-      "num": 62044,
+      "raw_hot": 57958,
+      "num": 65647,
+      "word": "女博士丈夫抢子法院裁定三日内送回",
+      "onboard_time": 1779201982,
+      "rank": 44,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 52932,
+      "num": 65625,
       "word": "美国男子枪杀少女过程被监控拍下",
       "onboard_time": 1779214216,
       "rank": 30,
       "category": "海外新闻"
     },
     {
-      "raw_hot": 42445,
-      "num": 42445,
-      "word": "佳偶天成",
-      "onboard_time": 1779220093,
-      "rank": 25,
+      "raw_hot": 50701,
+      "num": 65617,
+      "word": "阿森纳提前1轮夺冠",
+      "onboard_time": 1779231678,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 49033,
+      "num": 65610,
+      "word": "杨紫新剧刚开播为何现千条雷同差评",
+      "onboard_time": 1779188180,
+      "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 45084,
+      "num": 65589,
+      "word": "古装男主出场被韩东君卷起来了",
+      "onboard_time": 1779202883,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 41679,
+      "num": 65558,
+      "word": "俞灏明说要为小家庭未雨绸缪了",
+      "onboard_time": 1779230957,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 41375,
@@ -467,44 +547,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 39640,
-      "num": 62005,
-      "word": "被马龙王楚钦薪火相传感动了",
-      "onboard_time": 1779209178,
-      "rank": 35,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 39328,
-      "num": 39328,
-      "word": "专家解释阿嬷的读音",
-      "onboard_time": 1779219674,
-      "rank": 19,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 39067,
-      "num": 39067,
-      "word": "千万别用塑料容器加热食物",
-      "onboard_time": 1779226334,
-      "rank": 22,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 33206,
       "num": 61967,
       "word": "阿尔卡拉斯退出草地赛季",
       "onboard_time": 1779210018,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 31827,
-      "num": 61963,
-      "word": "古装男主出场被韩东君卷起来了",
-      "onboard_time": 1779202883,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 31481,
@@ -523,16 +571,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 30700,
-      "num": 61932,
-      "word": "杨紫新剧刚开播为何现千条雷同差评",
-      "onboard_time": 1779188180,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 25717,
-      "num": 61902,
+      "raw_hot": 28575,
+      "num": 65526,
       "word": "华东最大水果批发市场只卖云南杨梅",
       "onboard_time": 1779197963,
       "rank": 48,
@@ -545,22 +585,6 @@
       "onboard_time": 1779215054,
       "rank": 38,
       "category": "情感"
-    },
-    {
-      "raw_hot": 23573,
-      "num": 39832,
-      "word": "女博士丈夫抢子法院裁定三日内送回",
-      "onboard_time": 1779201982,
-      "rank": 44,
-      "category": "舆论监督"
-    },
-    {
-      "raw_hot": 23162,
-      "num": 23162,
-      "word": "你一般每天刷牙几次",
-      "onboard_time": 1779222134,
-      "rank": 31,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 21481,
@@ -579,8 +603,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 11572,
-      "num": 191095,
+      "raw_hot": 13253,
+      "num": 460975,
       "word": "南宁十条护航涉企网络生态",
       "onboard_time": 1779210316,
       "rank": 2,

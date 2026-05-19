@@ -1,6 +1,6 @@
 {
   "startTime": 1778951228781,
-  "endTime": 1779227740433,
+  "endTime": 1779232306109,
   "band_list": [
     {
       "raw_hot": 17984788,
@@ -619,6 +619,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 976187,
+      "num": 976187,
+      "word": "阿森纳是冠军",
+      "onboard_time": 1779229515,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 970830,
       "num": 970830,
       "word": "王安宇一手拉田曦薇一手拉黄明昊",
@@ -1179,6 +1187,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 595163,
+      "num": 582447,
+      "word": "阿森纳",
+      "onboard_time": 1779226574,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 588713,
       "num": 588713,
       "word": "特朗普暗示日本过头了",
@@ -1219,14 +1235,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 582447,
-      "num": 582447,
-      "word": "阿森纳",
-      "onboard_time": 1779226574,
-      "rank": 0,
-      "category": "体育"
-    },
-    {
       "raw_hot": 581336,
       "num": 364602,
       "word": "杨紫否认中餐厅录制",
@@ -1252,7 +1260,7 @@
     },
     {
       "raw_hot": 570383,
-      "num": 91133,
+      "num": 124198,
       "word": "玻璃",
       "onboard_time": 1779208159,
       "rank": 10,
@@ -3171,6 +3179,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 212603,
+      "num": 212603,
+      "word": "在不关注的领域世界有另一个样子",
+      "onboard_time": 1779217394,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 212343,
       "num": 192195,
       "word": "杨紫李祯热度",
@@ -3281,6 +3297,14 @@
       "onboard_time": 1779031761,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 206133,
+      "num": 125012,
+      "word": "武汉市联合调查组发布情况通报",
+      "onboard_time": 1779221954,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 205281,
@@ -3787,6 +3811,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 169816,
+      "num": 169816,
+      "word": "千万别用塑料容器加热食物",
+      "onboard_time": 1779226334,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 169564,
       "num": 303543,
       "word": "小米YU7GT发布会定档",
@@ -4001,6 +4033,14 @@
       "onboard_time": 1779169700,
       "rank": 9,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 155170,
+      "num": 108238,
+      "word": "5个不经意间摄入微塑料的习惯",
+      "onboard_time": 1779207319,
+      "rank": 42,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 153467,
@@ -4563,6 +4603,22 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 109360,
+      "num": 109360,
+      "word": "离婚争娃却不养致俩孩子流落养老院",
+      "onboard_time": 1779223274,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 108074,
+      "num": 108074,
+      "word": "专家解释阿嬷的读音",
+      "onboard_time": 1779219674,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
       "raw_hot": 107960,
       "num": 237829,
       "word": "赴柳州高铁因地震半路全员下车",
@@ -4715,14 +4771,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 94262,
-      "num": 94262,
-      "word": "5个不经意间摄入微塑料的习惯",
-      "onboard_time": 1779207319,
-      "rank": 42,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 94012,
       "num": 183396,
       "word": "章若楠垂耳兔造型",
@@ -4819,6 +4867,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 88534,
+      "num": 88534,
+      "word": "郭晶晶说爱情比门当户对更重要",
+      "onboard_time": 1779205402,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 88262,
       "num": 88262,
       "word": "郑州警方打掉特大传销组织",
@@ -4857,14 +4913,6 @@
       "onboard_time": 1779177681,
       "rank": 18,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 86815,
-      "num": 86815,
-      "word": "郭晶晶说爱情比门当户对更重要",
-      "onboard_time": 1779205402,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 86216,
@@ -4913,14 +4961,6 @@
       "onboard_time": 1778928020,
       "rank": 42,
       "category": "财经"
-    },
-    {
-      "raw_hot": 84035,
-      "num": 68730,
-      "word": "在不关注的领域世界有另一个样子",
-      "onboard_time": 1779217394,
-      "rank": 40,
-      "category": "情感"
     },
     {
       "raw_hot": 83994,
@@ -5003,14 +5043,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 80226,
-      "num": 80226,
-      "word": "武汉市联合调查组发布情况通报",
-      "onboard_time": 1779221954,
-      "rank": 15,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 80191,
       "num": 254177,
       "word": "江苏税务再回应偷拍男生拟录公务员",
@@ -5067,6 +5099,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 76156,
+      "num": 76156,
+      "word": "佳偶天成",
+      "onboard_time": 1779220093,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 75981,
       "num": 148657,
       "word": "张雪机车身后4台雅马哈",
@@ -5105,6 +5145,14 @@
       "onboard_time": 1779145217,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 70932,
+      "num": 70932,
+      "word": "被马龙王楚钦薪火相传感动了",
+      "onboard_time": 1779209178,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 70792,
@@ -5235,6 +5283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 65652,
+      "num": 65652,
+      "word": "你一般每天刷牙几次",
+      "onboard_time": 1779222134,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 65055,
       "num": 57169,
       "word": "王楚然抹胸花苞裙",
@@ -5331,6 +5387,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 57958,
+      "num": 65647,
+      "word": "女博士丈夫抢子法院裁定三日内送回",
+      "onboard_time": 1779201982,
+      "rank": 44,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 56997,
       "num": 56997,
       "word": "成毅两京十五日生贺图",
@@ -5377,6 +5441,14 @@
       "onboard_time": 1779080600,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 52932,
+      "num": 65625,
+      "word": "美国男子枪杀少女过程被监控拍下",
+      "onboard_time": 1779214216,
+      "rank": 30,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 52693,
@@ -5435,6 +5507,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 50701,
+      "num": 65617,
+      "word": "阿森纳提前1轮夺冠",
+      "onboard_time": 1779231678,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 50399,
       "num": 213689,
       "word": "AI伪造的商品问题图有破绽",
@@ -5475,12 +5555,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 48738,
-      "num": 43980,
-      "word": "离婚争娃却不养致俩孩子流落养老院",
-      "onboard_time": 1779223274,
-      "rank": 16,
-      "category": "民生新闻"
+      "raw_hot": 49033,
+      "num": 65610,
+      "word": "杨紫新剧刚开播为何现千条雷同差评",
+      "onboard_time": 1779188180,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 48595,
@@ -5539,14 +5619,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 46527,
-      "num": 62044,
-      "word": "美国男子枪杀少女过程被监控拍下",
-      "onboard_time": 1779214216,
-      "rank": 30,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 46498,
       "num": 400343,
       "word": "4个品牌5款牙膏都宣称自己是第一",
@@ -5561,6 +5633,14 @@
       "onboard_time": 1779119361,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 45084,
+      "num": 65589,
+      "word": "古装男主出场被韩东君卷起来了",
+      "onboard_time": 1779202883,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 44627,
@@ -5595,20 +5675,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 42445,
-      "num": 42445,
-      "word": "佳偶天成",
-      "onboard_time": 1779220093,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 42154,
       "num": 225354,
       "word": "窦骁吃醋刘浩存三万福利提翟子路",
       "onboard_time": 1779025161,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 41679,
+      "num": 65558,
+      "word": "俞灏明说要为小家庭未雨绸缪了",
+      "onboard_time": 1779230957,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 41665,
@@ -5673,30 +5753,6 @@
       "onboard_time": 1779029123,
       "rank": 20,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 39640,
-      "num": 62005,
-      "word": "被马龙王楚钦薪火相传感动了",
-      "onboard_time": 1779209178,
-      "rank": 35,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 39328,
-      "num": 39328,
-      "word": "专家解释阿嬷的读音",
-      "onboard_time": 1779219674,
-      "rank": 19,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 39067,
-      "num": 39067,
-      "word": "千万别用塑料容器加热食物",
-      "onboard_time": 1779226334,
-      "rank": 22,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 38817,
@@ -5859,14 +5915,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 31827,
-      "num": 61963,
-      "word": "古装男主出场被韩东君卷起来了",
-      "onboard_time": 1779202883,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 31752,
       "num": 33603,
       "word": "胖东来回应主动退顾客iPhone差价",
@@ -5899,14 +5947,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 30700,
-      "num": 61932,
-      "word": "杨紫新剧刚开播为何现千条雷同差评",
-      "onboard_time": 1779188180,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 30586,
       "num": 1596753,
       "word": "今天全国助残日",
@@ -5928,6 +5968,14 @@
       "word": "宁夏一景区5公里需乘3段景交车",
       "onboard_time": 1779163040,
       "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 28575,
+      "num": 65526,
+      "word": "华东最大水果批发市场只卖云南杨梅",
+      "onboard_time": 1779197963,
+      "rank": 48,
       "category": "民生新闻"
     },
     {
@@ -5979,14 +6027,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 25717,
-      "num": 61902,
-      "word": "华东最大水果批发市场只卖云南杨梅",
-      "onboard_time": 1779197963,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 25568,
       "num": 71714,
       "word": "克罗地亚世界杯33人名单",
@@ -6025,22 +6065,6 @@
       "onboard_time": 1779215054,
       "rank": 38,
       "category": "情感"
-    },
-    {
-      "raw_hot": 23573,
-      "num": 39832,
-      "word": "女博士丈夫抢子法院裁定三日内送回",
-      "onboard_time": 1779201982,
-      "rank": 44,
-      "category": "舆论监督"
-    },
-    {
-      "raw_hot": 23162,
-      "num": 23162,
-      "word": "你一般每天刷牙几次",
-      "onboard_time": 1779222134,
-      "rank": 31,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 22671,
@@ -6219,6 +6243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 13253,
+      "num": 460975,
+      "word": "南宁十条护航涉企网络生态",
+      "onboard_time": 1779210316,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 12601,
       "num": 68804,
       "word": "卢伟冰回应小米17Max价格",
@@ -6233,14 +6265,6 @@
       "onboard_time": 1779032061,
       "rank": 25,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 11572,
-      "num": 191095,
-      "word": "南宁十条护航涉企网络生态",
-      "onboard_time": 1779210316,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 11507,
