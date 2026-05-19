@@ -1,7 +1,15 @@
 {
   "startTime": 1779125683087,
-  "endTime": 1779163641221,
+  "endTime": 1779165744835,
   "band_list": [
+    {
+      "raw_hot": 2161779,
+      "num": 574252,
+      "word": "跑男 加塞",
+      "onboard_time": 1779160760,
+      "rank": 10,
+      "category": "综艺"
+    },
     {
       "raw_hot": 2047621,
       "num": 2047621,
@@ -9,14 +17,6 @@
       "onboard_time": 1779161780,
       "rank": 0,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1955343,
-      "num": 574252,
-      "word": "跑男 加塞",
-      "onboard_time": 1779160760,
-      "rank": 10,
-      "category": "综艺"
     },
     {
       "raw_hot": 1901720,
@@ -35,6 +35,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1614255,
+      "num": 1361985,
+      "word": "人果然对吃都是有执念的",
+      "onboard_time": 1779162019,
+      "rank": 6,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 1358266,
+      "num": 1358266,
+      "word": "给阿嬷的情书 先骗来演了再说",
+      "onboard_time": 1779157698,
+      "rank": 4,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1177650,
       "num": 1177650,
       "word": "医保个账新规来了",
@@ -43,20 +59,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1024364,
-      "num": 1024364,
-      "word": "给阿嬷的情书 先骗来演了再说",
-      "onboard_time": 1779157698,
-      "rank": 4,
-      "category": "电影"
-    },
-    {
       "raw_hot": 1022951,
-      "num": 237749,
+      "num": 239367,
       "word": "曝阿娇没有去阿Sa的婚礼",
       "onboard_time": 1779145878,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 905684,
+      "num": 509788,
+      "word": "毛巾少爷道歉",
+      "onboard_time": 1779164841,
+      "rank": 11,
+      "category": "艺人,作品衍生"
+    },
+    {
+      "raw_hot": 885888,
+      "num": 885888,
+      "word": "刘宇宁丁程鑫体型差",
+      "onboard_time": 1779162860,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 870625,
@@ -83,20 +107,28 @@
       "category": "电影"
     },
     {
-      "raw_hot": 755463,
-      "num": 755463,
-      "word": "人果然对吃都是有执念的",
-      "onboard_time": 1779162019,
-      "rank": 6,
-      "category": "情感"
-    },
-    {
       "raw_hot": 714970,
-      "num": 237783,
+      "num": 395785,
       "word": "周杰伦昆凌大女儿长这么大了",
       "onboard_time": 1779117382,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 706288,
+      "num": 492084,
+      "word": "丁程鑫一天官宣两档综艺",
+      "onboard_time": 1779163941,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 705625,
+      "num": 705625,
+      "word": "拼豆已经进化成我拼不起的样子了",
+      "onboard_time": 1779161119,
+      "rank": 28,
+      "category": "休闲"
     },
     {
       "raw_hot": 664078,
@@ -147,6 +179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 552675,
+      "num": 500007,
+      "word": "用婴儿形象玩具擦边让人不寒而栗",
+      "onboard_time": 1779161960,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 543632,
       "num": 543632,
       "word": "孙杨的执着让马頔和伊能静都没招了",
@@ -155,12 +195,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 474855,
-      "num": 396410,
-      "word": "刘宇宁丁程鑫体型差",
-      "onboard_time": 1779162860,
-      "rank": 15,
-      "category": "综艺"
+      "raw_hot": 441976,
+      "num": 384260,
+      "word": "倪萍三观",
+      "onboard_time": 1779164601,
+      "rank": 21,
+      "category": "电影"
     },
     {
       "raw_hot": 437758,
@@ -171,6 +211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 429471,
+      "num": 382071,
+      "word": "文班亚马41分24篮板",
+      "onboard_time": 1779163700,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 411105,
       "num": 411105,
       "word": "小朋友的世界是没有退路的",
@@ -179,11 +227,11 @@
       "category": "情感"
     },
     {
-      "raw_hot": 401429,
-      "num": 401429,
-      "word": "用婴儿形象玩具擦边让人不寒而栗",
-      "onboard_time": 1779161960,
-      "rank": 14,
+      "raw_hot": 407416,
+      "num": 407416,
+      "word": "中专生花10天手搓AI短片火遍全网",
+      "onboard_time": 1779157639,
+      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -196,7 +244,7 @@
     },
     {
       "raw_hot": 388856,
-      "num": 192385,
+      "num": 266215,
       "word": "小米YU7GT刷新纽北SUV圈速纪录",
       "onboard_time": 1779159139,
       "rank": 30,
@@ -235,12 +283,28 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 354412,
-      "num": 193775,
-      "word": "拼豆已经进化成我拼不起的样子了",
-      "onboard_time": 1779161119,
-      "rank": 28,
-      "category": "休闲"
+      "raw_hot": 360669,
+      "num": 360669,
+      "word": "马刺1比0雷霆",
+      "onboard_time": 1779163401,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 326708,
+      "num": 326708,
+      "word": "谢娜安利杨紫家业",
+      "onboard_time": 1779162379,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 323138,
+      "num": 323138,
+      "word": "第一次见给手机放双休的人",
+      "onboard_time": 1779164781,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 303560,
@@ -249,14 +313,6 @@
       "onboard_time": 1779120561,
       "rank": 10,
       "category": "体育"
-    },
-    {
-      "raw_hot": 297856,
-      "num": 297856,
-      "word": "中专生花10天手搓AI短片火遍全网",
-      "onboard_time": 1779157639,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 297794,
@@ -283,6 +339,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 290932,
+      "num": 360587,
+      "word": "李冰冰说来生绝不和妹妹一起工作",
+      "onboard_time": 1779163340,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 281646,
       "num": 265346,
       "word": "真有人在豆包预约餐厅",
@@ -299,20 +363,36 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 265623,
-      "num": 188761,
-      "word": "谢娜安利杨紫家业",
-      "onboard_time": 1779162379,
-      "rank": 34,
-      "category": "剧集"
+      "raw_hot": 271971,
+      "num": 271971,
+      "word": "文班亚马世界名画",
+      "onboard_time": 1779165562,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 267134,
+      "num": 360186,
+      "word": "原相机素颜的女明星们",
+      "onboard_time": 1779161300,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 261071,
-      "num": 187241,
+      "num": 247817,
       "word": "幼儿园回应2岁宝宝被老师坐断腿",
       "onboard_time": 1779151340,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 259089,
+      "num": 259089,
+      "word": "武汉癌症村需要真相不是敷衍",
+      "onboard_time": 1779165502,
+      "rank": 37,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 258530,
@@ -339,12 +419,44 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 253448,
+      "num": 403715,
+      "word": "印度2只大象河边打斗一女子被砸死",
+      "onboard_time": 1779157579,
+      "rank": 19,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 251749,
+      "num": 360358,
+      "word": "巨力索具继续跌停",
+      "onboard_time": 1779162860,
+      "rank": 41,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 250910,
+      "num": 250910,
+      "word": "张伟丽举着张真源转圈",
+      "onboard_time": 1779161659,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 248918,
-      "num": 184262,
+      "num": 248012,
       "word": "Peanut破防了",
       "onboard_time": 1779158059,
       "rank": 38,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 239864,
+      "num": 256577,
+      "word": "向鹏回应缺席美国大满贯",
+      "onboard_time": 1779164480,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 239793,
@@ -355,11 +467,11 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 237887,
-      "num": 237887,
-      "word": "印度2只大象河边打斗一女子被砸死",
-      "onboard_time": 1779157579,
-      "rank": 19,
+      "raw_hot": 236162,
+      "num": 247889,
+      "word": "非洲暴发埃博拉疫情",
+      "onboard_time": 1779160639,
+      "rank": 26,
       "category": "海外新闻"
     },
     {
@@ -377,6 +489,14 @@
       "onboard_time": 1779123617,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 224556,
+      "num": 360000,
+      "word": "白鹿腿一瘸一拐走机场",
+      "onboard_time": 1779164359,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 218096,
@@ -427,12 +547,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 195307,
-      "num": 195307,
-      "word": "非洲暴发埃博拉疫情",
-      "onboard_time": 1779160639,
-      "rank": 26,
-      "category": "海外新闻"
+      "raw_hot": 193178,
+      "num": 261163,
+      "word": "中国人中国车创纽北新纪录",
+      "onboard_time": 1779165320,
+      "rank": 36,
+      "category": "汽车"
     },
     {
       "raw_hot": 191738,
@@ -443,20 +563,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 189743,
-      "num": 175795,
-      "word": "张伟丽举着张真源转圈",
-      "onboard_time": 1779161659,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 186361,
       "num": 174841,
       "word": "普京发表访华视频讲话",
       "onboard_time": 1779149841,
       "rank": 48,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 185910,
+      "num": 247825,
+      "word": "郭宇欣张翅婚礼路透",
+      "onboard_time": 1779164901,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 185847,
+      "num": 239564,
+      "word": "郭富城拎土特产和方媛回香港",
+      "onboard_time": 1779164001,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 184568,
@@ -499,22 +627,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 168198,
-      "num": 181253,
-      "word": "原相机素颜的女明星们",
-      "onboard_time": 1779161300,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 167640,
-      "num": 194758,
-      "word": "马刺1比0雷霆",
-      "onboard_time": 1779163401,
-      "rank": 27,
-      "category": "体育"
-    },
-    {
       "raw_hot": 166070,
       "num": 166070,
       "word": "小乐老乡杯被踢",
@@ -529,14 +641,6 @@
       "onboard_time": 1779145637,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 156839,
-      "num": 181837,
-      "word": "巨力索具继续跌停",
-      "onboard_time": 1779162860,
-      "rank": 41,
-      "category": "财经"
     },
     {
       "raw_hot": 142732,
@@ -819,6 +923,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 67347,
+      "num": 252118,
+      "word": "13岁男孩被教官打伤后19小时未送医",
+      "onboard_time": 1779164301,
+      "rank": 42,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 66117,
       "num": 109390,
       "word": "A股算力龙头一字涨停",
@@ -907,6 +1019,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 52693,
+      "num": 367115,
+      "word": "埃博拉到底多可怕",
+      "onboard_time": 1779165502,
+      "rank": 24,
+      "category": "民生新闻,健康医疗"
+    },
+    {
+      "raw_hot": 51048,
+      "num": 612041,
+      "word": "广西坠河车辆打捞出水",
+      "onboard_time": 1779164961,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 50065,
       "num": 108859,
       "word": "柳州再地震上晚自习师生撤离避险",
@@ -987,12 +1115,36 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 40055,
+      "num": 1363656,
+      "word": "网警侦破利用工作便利买卖公民个人信息案",
+      "onboard_time": 1779165320,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 38718,
+      "num": 255693,
+      "word": "谁给TF家族AI的图",
+      "onboard_time": 1779164721,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 36124,
       "num": 101024,
       "word": "韩东君你是真上网",
       "onboard_time": 1779118042,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 35438,
+      "num": 253341,
+      "word": "53岁阿姨被2米眼镜蛇咬伤徒手活捉",
+      "onboard_time": 1779165441,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 31070,
@@ -1067,6 +1219,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 10369,
+      "num": 258253,
+      "word": "娜塔莎争议下仍有工厂加急生产",
+      "onboard_time": 1779165320,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 4651,
       "num": 19496,
       "word": "一张情侣票承包整个夏天的甜蜜",
@@ -1078,6 +1238,9 @@
   "hotgov_list": [
     {
       "word": "#习近平谈中俄关系#"
+    },
+    {
+      "word": "#中俄元首会晤恰逢这些时间点#"
     }
   ]
 }
