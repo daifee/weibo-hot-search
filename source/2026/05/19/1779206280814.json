@@ -1,0 +1,410 @@
+{
+  "runTime": 1779206280814,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4123680,
+        "num": 4123680,
+        "word": "普京到达北京",
+        "onboard_time": 1779202342,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 2319377,
+        "num": 2319377,
+        "word": "普京抵京画面",
+        "onboard_time": 1779204322,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 11595,
+        "num": 1183549,
+        "word": "走好网上群众路线百个成绩突出账号",
+        "onboard_time": 1779194421,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 999724,
+        "num": 999724,
+        "word": "泰国终止60天免签",
+        "onboard_time": 1779194540,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 560703,
+        "num": 560703,
+        "word": "520",
+        "onboard_time": 1779206001,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 452629,
+        "num": 452629,
+        "word": "葡萄牙公布世界杯名单",
+        "onboard_time": 1779194962,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 410017,
+        "num": 410017,
+        "word": "曝白玉兰提名名单",
+        "onboard_time": 1779202883,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 388827,
+        "num": 388827,
+        "word": "普京走出机舱",
+        "onboard_time": 1779205462,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 288549,
+        "num": 288549,
+        "word": "白鹿侯明昊17年拍的剧要上了",
+        "onboard_time": 1779181340,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 216368,
+        "num": 288472,
+        "word": "特斯拉放弃印度建厂",
+        "onboard_time": 1779195381,
+        "rank": 9,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 8188750,
+        "num": 288186,
+        "word": "林俊杰晒和七七合照",
+        "onboard_time": 1779198081,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 3032044,
+        "num": 288095,
+        "word": "七七的毕业作品",
+        "onboard_time": 1779200002,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 379338,
+        "num": 287829,
+        "word": "普京抱过的中国男孩将再见普京",
+        "onboard_time": 1779202283,
+        "rank": 12,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1093482,
+        "num": 287688,
+        "word": "杉杉来了真夫妻结婚13年了",
+        "onboard_time": 1779198741,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 535819,
+        "num": 287548,
+        "word": "iPhone或重回钛金属",
+        "onboard_time": 1779201682,
+        "rank": 14,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 717431,
+        "num": 287440,
+        "word": "黄灿灿 发腮受益者",
+        "onboard_time": 1779180681,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 478859,
+        "num": 287084,
+        "word": "娜扎咬面包 神图",
+        "onboard_time": 1779200122,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 301827,
+        "num": 286934,
+        "word": "买东西不看尺寸的后果",
+        "onboard_time": 1779197963,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 373070,
+        "num": 286715,
+        "word": "洁丽雅公示总裁石晶无婚姻登记记录",
+        "onboard_time": 1779202762,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 372291,
+        "num": 286523,
+        "word": "24岁短剧男演员去世",
+        "onboard_time": 1779176601,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 43088,
+        "num": 286420,
+        "word": "赖清德暗怼特朗普后心虚了",
+        "onboard_time": 1779205462,
+        "rank": 20,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 37870,
+        "num": 286284,
+        "word": "民政局回应女子遗体18年无人认领",
+        "onboard_time": 1779205223,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 286150,
+        "num": 286150,
+        "word": "雨霖铃一二集重剪了",
+        "onboard_time": 1779196821,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 258882,
+        "num": 258882,
+        "word": "章晓梅章晓燕为婆媳关系非姐妹",
+        "onboard_time": 1779204982,
+        "rank": 23,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 258254,
+        "num": 258254,
+        "word": "杨紫把韩东君气疯了",
+        "onboard_time": 1779193520,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 236234,
+        "num": 236234,
+        "word": "王源衣服上手缝了三万多颗珠子",
+        "onboard_time": 1779198921,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 229664,
+        "num": 229664,
+        "word": "白发重新变黑的方法",
+        "onboard_time": 1779201743,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 242374,
+        "num": 228874,
+        "word": "家业收视率",
+        "onboard_time": 1779201802,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 222343,
+        "num": 222343,
+        "word": "主角热度破29000",
+        "onboard_time": 1779204022,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126587,
+        "num": 207781,
+        "word": "华尔街股神做空芯片股",
+        "onboard_time": 1779200903,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 197345,
+        "num": 197345,
+        "word": "主角",
+        "onboard_time": 1779191601,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 184070,
+        "num": 184070,
+        "word": "孙杨采访时突然开始点餐",
+        "onboard_time": 1779181580,
+        "rank": 31,
+        "category": "体育,作品衍生"
+      },
+      {
+        "raw_hot": 183468,
+        "num": 183468,
+        "word": "拿婴儿形象擦边泄愤击穿伦理底线",
+        "onboard_time": 1779201503,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 178251,
+        "num": 178251,
+        "word": "杨洋释小龙展昭vs展昭",
+        "onboard_time": 1779201862,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 177278,
+        "num": 177278,
+        "word": "曝平台三部剧逃档",
+        "onboard_time": 1779184821,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 142098,
+        "num": 171805,
+        "word": "3岁娃被独自分到8节外静音车厢",
+        "onboard_time": 1779189380,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 169702,
+        "num": 169702,
+        "word": "给阿嬷的情书 删减的最后一封信",
+        "onboard_time": 1779185779,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 150075,
+        "num": 150075,
+        "word": "洁难财",
+        "onboard_time": 1779197842,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143045,
+        "num": 143045,
+        "word": "爱情有烟火播出时间",
+        "onboard_time": 1779194900,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126359,
+        "num": 126359,
+        "word": "白玉兰",
+        "onboard_time": 1779186500,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121958,
+        "num": 121958,
+        "word": "警方通报中学女生跑操后死亡",
+        "onboard_time": 1779199819,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117866,
+        "num": 117866,
+        "word": "十个勤天摇人式官宣",
+        "onboard_time": 1779195681,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116916,
+        "num": 116916,
+        "word": "特朗普暗示日本过头了",
+        "onboard_time": 1779177981,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 113640,
+        "num": 113640,
+        "word": "张佳宁宋茜提前约会",
+        "onboard_time": 1779198441,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112346,
+        "num": 112346,
+        "word": "马嘉祺宋亚轩中戏校园卡照片",
+        "onboard_time": 1779190159,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93661,
+        "num": 107713,
+        "word": "渣打银行宣布将裁员近8000人",
+        "onboard_time": 1779206241,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 107354,
+        "num": 107354,
+        "word": "林俊杰现身七七毕业典礼",
+        "onboard_time": 1779166582,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 41218,
+        "num": 103183,
+        "word": "焕新极氪009正式上市",
+        "onboard_time": 1779195861,
+        "rank": 47,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 16846,
+        "num": 102113,
+        "word": "AI服务涉黄第一案本周再开庭",
+        "onboard_time": 1779181281,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101987,
+        "num": 101987,
+        "word": "天赐的声音 穆祉丞",
+        "onboard_time": 1779192081,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#两国元首身体力行传承中俄世代友好#"
+    }
+  }
+}
