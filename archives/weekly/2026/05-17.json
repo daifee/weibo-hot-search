@@ -1,6 +1,6 @@
 {
   "startTime": 1778951228781,
-  "endTime": 1779221648001,
+  "endTime": 1779226050405,
   "band_list": [
     {
       "raw_hot": 17984788,
@@ -4908,7 +4908,7 @@
     },
     {
       "raw_hot": 84035,
-      "num": 51068,
+      "num": 55062,
       "word": "在不关注的领域世界有另一个样子",
       "onboard_time": 1779217394,
       "rank": 40,
@@ -5435,6 +5435,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 49765,
+      "num": 32275,
+      "word": "武汉市联合调查组发布情况通报",
+      "onboard_time": 1779221954,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 49642,
       "num": 108821,
       "word": "洁丽雅陷豪门狗血危机是谁输了",
@@ -5457,6 +5465,14 @@
       "onboard_time": 1779186801,
       "rank": 49,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 48738,
+      "num": 32120,
+      "word": "离婚争娃却不养致俩孩子流落养老院",
+      "onboard_time": 1779223274,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 48595,
@@ -5787,6 +5803,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 32828,
+      "num": 32828,
+      "word": "佳偶天成",
+      "onboard_time": 1779220093,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 32768,
       "num": 257489,
       "word": "张雪说培养中国车手给德比斯养老",
@@ -5859,20 +5883,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 30680,
+      "num": 30680,
+      "word": "专家解释阿嬷的读音",
+      "onboard_time": 1779219674,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
       "raw_hot": 30586,
       "num": 1596753,
       "word": "今天全国助残日",
       "onboard_time": 1779002360,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 30317,
-      "num": 30317,
-      "word": "专家解释阿嬷的读音",
-      "onboard_time": 1779219674,
-      "rank": 19,
-      "category": "电影"
     },
     {
       "raw_hot": 30250,
@@ -5913,14 +5937,6 @@
       "onboard_time": 1778990901,
       "rank": 19,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 27084,
-      "num": 27084,
-      "word": "佳偶天成",
-      "onboard_time": 1779220093,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 26391,
@@ -6019,6 +6035,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 22128,
+      "num": 21155,
+      "word": "你一般每天刷牙几次",
+      "onboard_time": 1779222134,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 22097,
       "num": 39832,
       "word": "女博士丈夫抢子法院裁定三日内送回",
@@ -6081,6 +6105,14 @@
       "onboard_time": 1779024080,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 19324,
+      "num": 20964,
+      "word": "种地吧",
+      "onboard_time": 1779223394,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 18273,
