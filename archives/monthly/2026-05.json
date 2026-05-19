@@ -1,6 +1,6 @@
 {
   "startTime": 1777565126834,
-  "endTime": 1779232306109,
+  "endTime": 1779234065205,
   "band_list": [
     {
       "raw_hot": 25375641,
@@ -3083,6 +3083,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1157490,
+      "num": 1157490,
+      "word": "阿森纳是冠军",
+      "onboard_time": 1779229515,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1149812,
       "num": 776782,
       "word": "全山东最重视山姆超市之人",
@@ -3907,14 +3915,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 976187,
-      "num": 976187,
-      "word": "阿森纳是冠军",
-      "onboard_time": 1779229515,
-      "rank": 1,
-      "category": "体育"
-    },
-    {
       "raw_hot": 975658,
       "num": 975658,
       "word": "偏偏宠爱 宋威龙",
@@ -4209,6 +4209,14 @@
       "onboard_time": 1777633459,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 931182,
+      "num": 931182,
+      "word": "美国大满贯王楚钦孙颖莎混双",
+      "onboard_time": 1779232818,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 927802,
@@ -5953,6 +5961,14 @@
       "onboard_time": 1778526494,
       "rank": 3,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 733272,
+      "num": 190183,
+      "word": "张峻豪红包",
+      "onboard_time": 1779233239,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 732665,
@@ -8011,6 +8027,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 583373,
+      "num": 583373,
+      "word": "普京抱过的中国男孩将再见普京",
+      "onboard_time": 1779202283,
+      "rank": 12,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 582924,
       "num": 515621,
       "word": "iPhone17官宣降价",
@@ -8268,7 +8292,7 @@
     },
     {
       "raw_hot": 570383,
-      "num": 124198,
+      "num": 178445,
       "word": "玻璃",
       "onboard_time": 1779208159,
       "rank": 10,
@@ -11345,14 +11369,6 @@
       "onboard_time": 1778078963,
       "rank": 22,
       "category": "体育"
-    },
-    {
-      "raw_hot": 425970,
-      "num": 287829,
-      "word": "普京抱过的中国男孩将再见普京",
-      "onboard_time": 1779202283,
-      "rank": 12,
-      "category": "国内时政"
     },
     {
       "raw_hot": 425887,
@@ -17211,6 +17227,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 266701,
+      "num": 172170,
+      "word": "5个不经意间摄入微塑料的习惯",
+      "onboard_time": 1779207319,
+      "rank": 42,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 266312,
       "num": 266312,
       "word": "因为小三好看不让女儿好看",
@@ -19195,6 +19219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 235839,
+      "num": 183743,
+      "word": "千万别用塑料容器加热食物",
+      "onboard_time": 1779226334,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 235834,
       "num": 235834,
       "word": "宋祖儿看到自己老鼠干的表情",
@@ -19507,6 +19539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 231516,
+      "num": 181753,
+      "word": "武汉市联合调查组发布情况通报",
+      "onboard_time": 1779221954,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 231466,
       "num": 296864,
       "word": "县纪委回应镇干部受同事邀钓鱼溺亡",
@@ -19529,6 +19569,14 @@
       "onboard_time": 1778069602,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 231242,
+      "num": 179143,
+      "word": "离婚争娃却不养致俩孩子流落养老院",
+      "onboard_time": 1779223274,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 231208,
@@ -21443,14 +21491,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 206133,
-      "num": 125012,
-      "word": "武汉市联合调查组发布情况通报",
-      "onboard_time": 1779221954,
-      "rank": 15,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 205840,
       "num": 461592,
       "word": "中餐厅",
@@ -21577,6 +21617,14 @@
       "onboard_time": 1778937981,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 204553,
+      "num": 170699,
+      "word": "王毅机场迎接普京",
+      "onboard_time": 1779232818,
+      "rank": 23,
+      "category": "国内时政"
     },
     {
       "raw_hot": 204536,
@@ -24827,14 +24875,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 169816,
-      "num": 169816,
-      "word": "千万别用塑料容器加热食物",
-      "onboard_time": 1779226334,
-      "rank": 22,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 169765,
       "num": 169765,
       "word": "小米挖孔机盖案法院认定存夸大宣传",
@@ -24849,6 +24889,14 @@
       "onboard_time": 1777609159,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 169627,
+      "num": 169627,
+      "word": "U17国足2比0澳大利亚U17",
+      "onboard_time": 1779233058,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 169564,
@@ -25417,6 +25465,14 @@
       "onboard_time": 1777626319,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 162939,
+      "num": 162939,
+      "word": "用柳州地震营销的蛋糕店道歉",
+      "onboard_time": 1779233179,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 162724,
@@ -26209,14 +26265,6 @@
       "onboard_time": 1778922381,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 155170,
-      "num": 108238,
-      "word": "5个不经意间摄入微塑料的习惯",
-      "onboard_time": 1779207319,
-      "rank": 42,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 155035,
@@ -28587,6 +28635,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 128647,
+      "num": 128647,
+      "word": "U17国足晋级亚洲杯决赛",
+      "onboard_time": 1779233478,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 128494,
       "num": 366233,
       "word": "多位国乒名将祝福刘炜珊",
@@ -29073,6 +29129,14 @@
       "onboard_time": 1777559421,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 123415,
+      "num": 193197,
+      "word": "日本汽车产业遇重创",
+      "onboard_time": 1779233478,
+      "rank": 9,
+      "category": "汽车"
     },
     {
       "raw_hot": 123253,
@@ -30283,14 +30347,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 109360,
-      "num": 109360,
-      "word": "离婚争娃却不养致俩孩子流落养老院",
-      "onboard_time": 1779223274,
-      "rank": 16,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 109243,
       "num": 109243,
       "word": "杨幂早期还是古早画风太太",
@@ -30441,6 +30497,14 @@
       "onboard_time": 1777646661,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 106556,
+      "num": 106556,
+      "word": "OpenAI创始人跳槽Anthropic",
+      "onboard_time": 1779232698,
+      "rank": 33,
+      "category": "互联网"
     },
     {
       "raw_hot": 106528,
@@ -30729,6 +30793,14 @@
       "onboard_time": 1779027861,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 102410,
+      "num": 102410,
+      "word": "气鼓鼓的孙颖莎",
+      "onboard_time": 1779233478,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 102273,
@@ -31931,6 +32003,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 83401,
+      "num": 83401,
+      "word": "女博士丈夫抢子法院裁定三日内送回",
+      "onboard_time": 1779201982,
+      "rank": 44,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 83395,
       "num": 105291,
       "word": "肖战未来想尝试说重庆话的角色",
@@ -32385,6 +32465,14 @@
       "onboard_time": 1778145920,
       "rank": 39,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 76950,
+      "num": 76950,
+      "word": "伯恩茅斯vs曼城",
+      "onboard_time": 1779232998,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 76936,
@@ -33099,6 +33187,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 65612,
+      "num": 65612,
+      "word": "普京面带笑容同王毅交谈",
+      "onboard_time": 1779232818,
+      "rank": 43,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 65309,
       "num": 81697,
       "word": "台作家称身边台湾朋友都喜欢刘宇宁",
@@ -33177,6 +33273,14 @@
       "onboard_time": 1777853478,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 64520,
+      "num": 64520,
+      "word": "益阳网红蕾蕾突然去世年仅32岁",
+      "onboard_time": 1779232578,
+      "rank": 45,
+      "category": "网红"
     },
     {
       "raw_hot": 64282,
@@ -33683,14 +33787,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 57958,
-      "num": 65647,
-      "word": "女博士丈夫抢子法院裁定三日内送回",
-      "onboard_time": 1779201982,
-      "rank": 44,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 57579,
       "num": 268862,
       "word": "狼队对战Hero",
@@ -33705,6 +33801,14 @@
       "onboard_time": 1778287100,
       "rank": 49,
       "category": "数码"
+    },
+    {
+      "raw_hot": 57483,
+      "num": 65558,
+      "word": "俞灏明说要为小家庭未雨绸缪了",
+      "onboard_time": 1779230957,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 57339,
@@ -33809,6 +33913,14 @@
       "onboard_time": 1778472381,
       "rank": 20,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 56244,
+      "num": 56244,
+      "word": "伯恩茅斯1比1曼城",
+      "onboard_time": 1779233058,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 56240,
@@ -35145,14 +35257,6 @@
       "onboard_time": 1777560382,
       "rank": 49,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 41679,
-      "num": 65558,
-      "word": "俞灏明说要为小家庭未雨绸缪了",
-      "onboard_time": 1779230957,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 41673,
@@ -38060,7 +38164,7 @@
     },
     {
       "raw_hot": 13253,
-      "num": 460975,
+      "num": 1001792,
       "word": "南宁十条护航涉企网络生态",
       "onboard_time": 1779210316,
       "rank": 2,

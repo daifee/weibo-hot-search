@@ -1,0 +1,410 @@
+{
+  "runTime": 1779234065205,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1636114,
+        "num": 1636114,
+        "word": "普京到达北京",
+        "onboard_time": 1779202342,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1157490,
+        "num": 1157490,
+        "word": "阿森纳是冠军",
+        "onboard_time": 1779229515,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 12280,
+        "num": 1001792,
+        "word": "南宁十条护航涉企网络生态",
+        "onboard_time": 1779210316,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 931182,
+        "num": 931182,
+        "word": "美国大满贯王楚钦孙颖莎混双",
+        "onboard_time": 1779232818,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 583373,
+        "num": 583373,
+        "word": "普京抱过的中国男孩将再见普京",
+        "onboard_time": 1779202283,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 332230,
+        "num": 332230,
+        "word": "普京抵京画面",
+        "onboard_time": 1779204322,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 257777,
+        "num": 257777,
+        "word": "家业收视率",
+        "onboard_time": 1779201802,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 194914,
+        "num": 194914,
+        "word": "特斯拉放弃印度建厂",
+        "onboard_time": 1779195381,
+        "rank": 7,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 145166,
+        "num": 193590,
+        "word": "王源衣服上手缝了三万多颗珠子",
+        "onboard_time": 1779198921,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 123415,
+        "num": 193197,
+        "word": "日本汽车产业遇重创",
+        "onboard_time": 1779233478,
+        "rank": 9,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 733272,
+        "num": 190183,
+        "word": "张峻豪红包",
+        "onboard_time": 1779233239,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 377133,
+        "num": 189583,
+        "word": "24岁短剧男演员去世",
+        "onboard_time": 1779176601,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 280669,
+        "num": 188132,
+        "word": "章晓梅章晓燕为婆媳关系非姐妹",
+        "onboard_time": 1779204982,
+        "rank": 12,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 275592,
+        "num": 186675,
+        "word": "泰国终止60天免签",
+        "onboard_time": 1779194540,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 239509,
+        "num": 185312,
+        "word": "杉杉来了真夫妻结婚13年了",
+        "onboard_time": 1779198741,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 235839,
+        "num": 183743,
+        "word": "千万别用塑料容器加热食物",
+        "onboard_time": 1779226334,
+        "rank": 15,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 231516,
+        "num": 181753,
+        "word": "武汉市联合调查组发布情况通报",
+        "onboard_time": 1779221954,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 231242,
+        "num": 179143,
+        "word": "离婚争娃却不养致俩孩子流落养老院",
+        "onboard_time": 1779223274,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 208196,
+        "num": 178445,
+        "word": "玻璃",
+        "onboard_time": 1779208159,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 207009,
+        "num": 176020,
+        "word": "在不关注的领域世界有另一个样子",
+        "onboard_time": 1779217394,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 993502,
+        "num": 174616,
+        "word": "林俊杰晒和七七合照",
+        "onboard_time": 1779198081,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 320873,
+        "num": 173753,
+        "word": "七七的毕业作品",
+        "onboard_time": 1779200002,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 266701,
+        "num": 172170,
+        "word": "5个不经意间摄入微塑料的习惯",
+        "onboard_time": 1779207319,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 204553,
+        "num": 170699,
+        "word": "王毅机场迎接普京",
+        "onboard_time": 1779232818,
+        "rank": 23,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 169627,
+        "num": 169627,
+        "word": "U17国足2比0澳大利亚U17",
+        "onboard_time": 1779233058,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 162939,
+        "num": 162939,
+        "word": "用柳州地震营销的蛋糕店道歉",
+        "onboard_time": 1779233179,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148722,
+        "num": 148722,
+        "word": "普京走出机舱",
+        "onboard_time": 1779205462,
+        "rank": 26,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 134264,
+        "num": 134264,
+        "word": "曝白玉兰提名名单",
+        "onboard_time": 1779202883,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131718,
+        "num": 131718,
+        "word": "黄金直线跳水原因找到了",
+        "onboard_time": 1779206421,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 128647,
+        "num": 128647,
+        "word": "U17国足晋级亚洲杯决赛",
+        "onboard_time": 1779233478,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 112106,
+        "num": 112106,
+        "word": "白发重新变黑的方法",
+        "onboard_time": 1779201743,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 111174,
+        "num": 111174,
+        "word": "渣打银行宣布将裁员近8000人",
+        "onboard_time": 1779206241,
+        "rank": 31,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 109753,
+        "num": 109753,
+        "word": "买东西不看尺寸的后果",
+        "onboard_time": 1779197963,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 106556,
+        "num": 106556,
+        "word": "OpenAI创始人跳槽Anthropic",
+        "onboard_time": 1779232698,
+        "rank": 33,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 102410,
+        "num": 102410,
+        "word": "气鼓鼓的孙颖莎",
+        "onboard_time": 1779233478,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 102111,
+        "num": 102111,
+        "word": "专家解释阿嬷的读音",
+        "onboard_time": 1779219674,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 85986,
+        "num": 85986,
+        "word": "佳偶天成",
+        "onboard_time": 1779220093,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 83401,
+        "num": 83401,
+        "word": "女博士丈夫抢子法院裁定三日内送回",
+        "onboard_time": 1779201982,
+        "rank": 37,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 76950,
+        "num": 76950,
+        "word": "伯恩茅斯vs曼城",
+        "onboard_time": 1779232998,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 76708,
+        "num": 76708,
+        "word": "杨紫把韩东君气疯了",
+        "onboard_time": 1779193520,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 76459,
+        "num": 76459,
+        "word": "郭晶晶说爱情比门当户对更重要",
+        "onboard_time": 1779205402,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 74378,
+        "num": 74378,
+        "word": "雨霖铃一二集重剪了",
+        "onboard_time": 1779196821,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 68169,
+        "num": 68169,
+        "word": "白鹿侯明昊17年拍的剧要上了",
+        "onboard_time": 1779181340,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 65612,
+        "num": 65612,
+        "word": "普京面带笑容同王毅交谈",
+        "onboard_time": 1779232818,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 65224,
+        "num": 65224,
+        "word": "葡萄牙公布世界杯名单",
+        "onboard_time": 1779194962,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 64520,
+        "num": 64520,
+        "word": "益阳网红蕾蕾突然去世年仅32岁",
+        "onboard_time": 1779232578,
+        "rank": 45,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 63343,
+        "num": 63343,
+        "word": "你一般每天刷牙几次",
+        "onboard_time": 1779222134,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 62073,
+        "num": 62073,
+        "word": "赖清德暗怼特朗普后心虚了",
+        "onboard_time": 1779205462,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 57483,
+        "num": 57483,
+        "word": "俞灏明说要为小家庭未雨绸缪了",
+        "onboard_time": 1779230957,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 56244,
+        "num": 56244,
+        "word": "伯恩茅斯1比1曼城",
+        "onboard_time": 1779233058,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#两国元首身体力行传承中俄世代友好#"
+    }
+  }
+}
