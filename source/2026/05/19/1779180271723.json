@@ -1,0 +1,410 @@
+{
+  "runTime": 1779180271723,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 868140,
+        "num": 1138902,
+        "word": "普京访华俄方代表团名单公布",
+        "onboard_time": 1779172040,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 677147,
+        "num": 804673,
+        "word": "杨梅泡药事件冲击浙江杨梅市场",
+        "onboard_time": 1779175700,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23838,
+        "num": 795379,
+        "word": "让高品质文旅点亮诗和远方",
+        "onboard_time": 1779174920,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1847839,
+        "num": 782276,
+        "word": "五月份不要轻易离职",
+        "onboard_time": 1779166640,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1050449,
+        "num": 764466,
+        "word": "第一次被中式美学震撼到",
+        "onboard_time": 1779176120,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 657352,
+        "num": 744223,
+        "word": "女子亲宝宝脚丫嘴唇肿成香肠",
+        "onboard_time": 1779167300,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 732917,
+        "num": 732917,
+        "word": "徐若晗没有理方媛",
+        "onboard_time": 1779168022,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 525273,
+        "num": 525273,
+        "word": "攻玉路透",
+        "onboard_time": 1779176601,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 214673,
+        "num": 523331,
+        "word": "Viper仍有机会去亚运会",
+        "onboard_time": 1779177440,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 154757,
+        "num": 508875,
+        "word": "多方祝贺小米YU7GT新纪录",
+        "onboard_time": 1779169700,
+        "rank": 9,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 1775922,
+        "num": 499770,
+        "word": "24岁短剧男演员去世",
+        "onboard_time": 1779176601,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 417782,
+        "num": 497820,
+        "word": "拼豆已经进化成我拼不起的样子了",
+        "onboard_time": 1779161119,
+        "rank": 11,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 1059566,
+        "num": 486152,
+        "word": "奔跑吧发孟子义",
+        "onboard_time": 1779168981,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 781407,
+        "num": 473229,
+        "word": "徐若晗情商",
+        "onboard_time": 1779176780,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 548589,
+        "num": 470663,
+        "word": "生理假",
+        "onboard_time": 1779169341,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 463576,
+        "num": 463576,
+        "word": "跑男 加塞",
+        "onboard_time": 1779160760,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 442674,
+        "num": 442674,
+        "word": "特朗普暗示日本过头了",
+        "onboard_time": 1779177981,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 405058,
+        "num": 405058,
+        "word": "520明星红包",
+        "onboard_time": 1779175879,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 281804,
+        "num": 394677,
+        "word": "普京访华",
+        "onboard_time": 1779156200,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 151408,
+        "num": 388683,
+        "word": "刘浩存扫楼脸上胶原溢出来了",
+        "onboard_time": 1779178040,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1386717,
+        "num": 380000,
+        "word": "林俊杰现身七七毕业典礼",
+        "onboard_time": 1779166582,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 483571,
+        "num": 358924,
+        "word": "离职要上交公司小狗",
+        "onboard_time": 1779174682,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 762913,
+        "num": 349330,
+        "word": "阿Sa否认含泪控诉丈夫",
+        "onboard_time": 1779174080,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 344612,
+        "num": 344612,
+        "word": "林允 女孩儿胖一点真的好",
+        "onboard_time": 1779178401,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115801,
+        "num": 343477,
+        "word": "近期金价持续回调的原因找到了",
+        "onboard_time": 1779174201,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 299968,
+        "num": 342686,
+        "word": "李冰冰说来生绝不和妹妹一起工作",
+        "onboard_time": 1779163340,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 298539,
+        "num": 339567,
+        "word": "我婆婆和王安宇妈妈是同事",
+        "onboard_time": 1779175820,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 390557,
+        "num": 338979,
+        "word": "一生两口牙真不够用",
+        "onboard_time": 1779170660,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 248969,
+        "num": 336692,
+        "word": "颜凯",
+        "onboard_time": 1779170540,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 156440,
+        "num": 334949,
+        "word": "用婴儿形象玩具擦边让人不寒而栗",
+        "onboard_time": 1779161960,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 379203,
+        "num": 333364,
+        "word": "古装剧孩童终于不梳大人发型了",
+        "onboard_time": 1779173000,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 76498,
+        "num": 331645,
+        "word": "新华社新媒体直播实测小鹏第二代VLA",
+        "onboard_time": 1779178040,
+        "rank": 31,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 276922,
+        "num": 330570,
+        "word": "长白头发不是因为老是你太累了",
+        "onboard_time": 1779177860,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 153206,
+        "num": 328083,
+        "word": "家养1.2万只蚕宝宝养到想报警",
+        "onboard_time": 1779166101,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 247873,
+        "num": 325566,
+        "word": "大冰识人的两个标准",
+        "onboard_time": 1779175520,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 238820,
+        "num": 324426,
+        "word": "邵兵女儿提前一年纽约大学毕业",
+        "onboard_time": 1779170601,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 221913,
+        "num": 321886,
+        "word": "第一次见给手机放双休的人",
+        "onboard_time": 1779164781,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 217515,
+        "num": 320688,
+        "word": "王源十个勤天也有六人定律",
+        "onboard_time": 1779179720,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155963,
+        "num": 319496,
+        "word": "广西一蛋糕店用柳州地震营销",
+        "onboard_time": 1779179181,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179940,
+        "num": 317645,
+        "word": "丁程鑫一天官宣两档综艺",
+        "onboard_time": 1779163941,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 64629,
+        "num": 315329,
+        "word": "高速上吵架妻子下车后丈夫扬长而去",
+        "onboard_time": 1779179780,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 63158,
+        "num": 314450,
+        "word": "杨洋张予曦新剧10集才相认",
+        "onboard_time": 1779179601,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168245,
+        "num": 312563,
+        "word": "云合",
+        "onboard_time": 1779180022,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154886,
+        "num": 310094,
+        "word": "人果然对吃都是有执念的",
+        "onboard_time": 1779162019,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 186045,
+        "num": 308642,
+        "word": "十个勤天工装照",
+        "onboard_time": 1779180079,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165482,
+        "num": 306204,
+        "word": "阿娇去了蔡卓妍的婚礼",
+        "onboard_time": 1779175100,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105628,
+        "num": 305819,
+        "word": "小米17Max续航实测超两台iPhone",
+        "onboard_time": 1779174320,
+        "rank": 46,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 81445,
+        "num": 302875,
+        "word": "A股缩量74.2亿",
+        "onboard_time": 1779180140,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 140594,
+        "num": 302456,
+        "word": "雷霆三巨头均遭文班亚马隔扣",
+        "onboard_time": 1779175220,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 156797,
+        "num": 299444,
+        "word": "白鹿腿一瘸一拐走机场",
+        "onboard_time": 1779164359,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#中俄关系继续沿着正确轨道不断发展#"
+    }
+  }
+}
