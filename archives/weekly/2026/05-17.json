@@ -1,6 +1,6 @@
 {
   "startTime": 1778951228781,
-  "endTime": 1779165744835,
+  "endTime": 1779179649420,
   "band_list": [
     {
       "raw_hot": 17984788,
@@ -187,6 +187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1947564,
+      "num": 815314,
+      "word": "五月份不要轻易离职",
+      "onboard_time": 1779166640,
+      "rank": 3,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1901720,
       "num": 1901720,
       "word": "普京访华",
@@ -243,6 +251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1663716,
+      "num": 324088,
+      "word": "24岁短剧男演员去世",
+      "onboard_time": 1779176601,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1648564,
       "num": 1648564,
       "word": "樊振东vs小勒布伦",
@@ -289,6 +305,14 @@
       "onboard_time": 1779001220,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1446933,
+      "num": 308177,
+      "word": "林俊杰现身七七毕业典礼",
+      "onboard_time": 1779166582,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 1425921,
@@ -403,6 +427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1105874,
+      "num": 322413,
+      "word": "奔跑吧发孟子义",
+      "onboard_time": 1779168981,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1105228,
       "num": 1105228,
       "word": "仇人租到这种房我也释怀了",
@@ -465,6 +497,14 @@
       "onboard_time": 1779145878,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1014424,
+      "num": 813085,
+      "word": "第一次被中式美学震撼到",
+      "onboard_time": 1779176120,
+      "rank": 4,
+      "category": "情感"
     },
     {
       "raw_hot": 1013879,
@@ -579,6 +619,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 897086,
+      "num": 1143533,
+      "word": "普京访华俄方代表团名单公布",
+      "onboard_time": 1779172040,
+      "rank": 0,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 885888,
       "num": 885888,
       "word": "刘宇宁丁程鑫体型差",
@@ -619,6 +667,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 813656,
+      "num": 306804,
+      "word": "阿Sa否认含泪控诉丈夫",
+      "onboard_time": 1779174080,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 811867,
       "num": 907403,
       "word": "香蜜最后一帧原来是家业",
@@ -641,6 +697,14 @@
       "onboard_time": 1779009740,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 799365,
+      "num": 799365,
+      "word": "徐若晗没有理方媛",
+      "onboard_time": 1779168022,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 798972,
@@ -787,6 +851,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 701825,
+      "num": 856770,
+      "word": "女子亲宝宝脚丫嘴唇肿成香肠",
+      "onboard_time": 1779167300,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 679545,
       "num": 624627,
       "word": "阚清子乍瘦",
@@ -801,6 +873,14 @@
       "onboard_time": 1779065301,
       "rank": 9,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 674315,
+      "num": 319921,
+      "word": "徐若晗情商",
+      "onboard_time": 1779176780,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 664078,
@@ -995,6 +1075,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 575028,
+      "num": 321321,
+      "word": "生理假",
+      "onboard_time": 1779169341,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 570079,
       "num": 371066,
       "word": "白鹿李昀锐是李晨让牵的",
@@ -1017,6 +1105,14 @@
       "onboard_time": 1779161960,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 552202,
+      "num": 552202,
+      "word": "攻玉路透",
+      "onboard_time": 1779176601,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 546987,
@@ -1129,6 +1225,14 @@
       "onboard_time": 1779000921,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 514646,
+      "num": 305023,
+      "word": "离职要上交公司小狗",
+      "onboard_time": 1779174682,
+      "rank": 22,
+      "category": "幽默"
     },
     {
       "raw_hot": 498394,
@@ -1275,6 +1379,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 441835,
+      "num": 314195,
+      "word": "520明星红包",
+      "onboard_time": 1779175879,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 434267,
       "num": 690531,
       "word": "张雪机车落后雅马哈46分",
@@ -1331,6 +1443,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 418394,
+      "num": 300905,
+      "word": "古装剧孩童终于不梳大人发型了",
+      "onboard_time": 1779173000,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 416577,
+      "num": 299125,
+      "word": "杨梅泡药事件冲击浙江杨梅市场",
+      "onboard_time": 1779175700,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 411105,
       "num": 411105,
       "word": "小朋友的世界是没有退路的",
@@ -1377,6 +1505,14 @@
       "onboard_time": 1779089840,
       "rank": 21,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 401622,
+      "num": 293739,
+      "word": "一生两口牙真不够用",
+      "onboard_time": 1779170660,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 400201,
@@ -1545,6 +1681,14 @@
       "onboard_time": 1779105919,
       "rank": 27,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 366761,
+      "num": 316988,
+      "word": "特朗普暗示日本过头了",
+      "onboard_time": 1779177981,
+      "rank": 15,
+      "category": "国际时政"
     },
     {
       "raw_hot": 366013,
@@ -1891,6 +2035,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 296659,
+      "num": 360587,
+      "word": "李冰冰说来生绝不和妹妹一起工作",
+      "onboard_time": 1779163340,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 295886,
       "num": 189360,
       "word": "卡鲁索爆发湖人媒体破防了",
@@ -1939,14 +2091,6 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 290932,
-      "num": 360587,
-      "word": "李冰冰说来生绝不和妹妹一起工作",
-      "onboard_time": 1779163340,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 290008,
       "num": 240636,
       "word": "樊振东欧冠决赛对阵",
@@ -1985,6 +2129,14 @@
       "onboard_time": 1778954537,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 284674,
+      "num": 291467,
+      "word": "长白头发不是因为老是你太累了",
+      "onboard_time": 1779177860,
+      "rank": 31,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 283992,
@@ -2035,6 +2187,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 278674,
+      "num": 302464,
+      "word": "颜凯",
+      "onboard_time": 1779170540,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 276985,
       "num": 634556,
       "word": "2026高考",
@@ -2065,6 +2225,14 @@
       "onboard_time": 1778990479,
       "rank": 24,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 273992,
+      "num": 290865,
+      "word": "我婆婆和王安宇妈妈是同事",
+      "onboard_time": 1779175820,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 273984,
@@ -2139,6 +2307,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 265192,
+      "num": 289099,
+      "word": "大冰识人的两个标准",
+      "onboard_time": 1779175520,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 261071,
       "num": 247817,
       "word": "幼儿园回应2岁宝宝被老师坐断腿",
@@ -2161,6 +2337,14 @@
       "onboard_time": 1779165502,
       "rank": 37,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 257470,
+      "num": 288086,
+      "word": "林允 女孩儿胖一点真的好",
+      "onboard_time": 1779178401,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 256664,
@@ -2332,7 +2516,7 @@
     },
     {
       "raw_hot": 239864,
-      "num": 256577,
+      "num": 264876,
       "word": "向鹏回应缺席美国大满贯",
       "onboard_time": 1779164480,
       "rank": 39,
@@ -2401,6 +2585,14 @@
       "onboard_time": 1779160639,
       "rank": 26,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 235207,
+      "num": 285975,
+      "word": "邵兵女儿提前一年纽约大学毕业",
+      "onboard_time": 1779170601,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 233087,
@@ -2497,6 +2689,14 @@
       "onboard_time": 1779164359,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 224526,
+      "num": 326822,
+      "word": "Viper仍有机会去亚运会",
+      "onboard_time": 1779177440,
+      "rank": 8,
+      "category": "电竞"
     },
     {
       "raw_hot": 223743,
@@ -3027,6 +3227,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 174108,
+      "num": 294350,
+      "word": "家养1.2万只蚕宝宝养到想报警",
+      "onboard_time": 1779166101,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 173610,
       "num": 223639,
       "word": "KPL",
@@ -3129,6 +3337,14 @@
       "onboard_time": 1778974217,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 169083,
+      "num": 279450,
+      "word": "雷霆三巨头均遭文班亚马隔扣",
+      "onboard_time": 1779175220,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 168753,
@@ -3267,6 +3483,22 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 155924,
+      "num": 325625,
+      "word": "多方祝贺小米YU7GT新纪录",
+      "onboard_time": 1779169700,
+      "rank": 9,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 155618,
+      "num": 272699,
+      "word": "阿娇去了蔡卓妍的婚礼",
+      "onboard_time": 1779175100,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 152699,
       "num": 169031,
       "word": "良陈美锦",
@@ -3297,6 +3529,14 @@
       "onboard_time": 1779000321,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 150622,
+      "num": 268653,
+      "word": "严浩翔学会做饭了",
+      "onboard_time": 1779172939,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 150255,
@@ -3395,6 +3635,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 137638,
+      "num": 270762,
+      "word": "广西一蛋糕店用柳州地震营销",
+      "onboard_time": 1779179181,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 137543,
       "num": 137543,
       "word": "A股科创板整体暴涨",
@@ -3473,6 +3721,14 @@
       "onboard_time": 1779146178,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 130994,
+      "num": 312542,
+      "word": "刘浩存扫楼脸上胶原溢出来了",
+      "onboard_time": 1779178040,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 130680,
@@ -3587,6 +3843,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 121256,
+      "num": 284420,
+      "word": "近期金价持续回调的原因找到了",
+      "onboard_time": 1779174201,
+      "rank": 36,
+      "category": "财经"
+    },
+    {
       "raw_hot": 120143,
       "num": 152292,
       "word": "泰兰尼斯代工厂称做一双鞋只赚几块钱",
@@ -3665,6 +3929,14 @@
       "onboard_time": 1779107901,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 113513,
+      "num": 268223,
+      "word": "小米17Max续航实测超两台iPhone",
+      "onboard_time": 1779174320,
+      "rank": 47,
+      "category": "数码"
     },
     {
       "raw_hot": 113419,
@@ -3987,6 +4259,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 87052,
+      "num": 311201,
+      "word": "刚果金埃博拉疫情扩散",
+      "onboard_time": 1779177681,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 86216,
       "num": 86216,
       "word": "切尔西0比1曼城",
@@ -4081,6 +4361,14 @@
       "onboard_time": 1778974878,
       "rank": 43,
       "category": "财经"
+    },
+    {
+      "raw_hot": 81082,
+      "num": 297807,
+      "word": "新华社新媒体直播实测小鹏第二代VLA",
+      "onboard_time": 1779178040,
+      "rank": 27,
+      "category": "汽车"
     },
     {
       "raw_hot": 80865,
@@ -4787,6 +5075,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 31964,
+      "num": 276237,
+      "word": "杨洋张予曦新剧10集才相认",
+      "onboard_time": 1779179601,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 31752,
       "num": 33603,
       "word": "胖东来回应主动退顾客iPhone差价",
@@ -4907,6 +5203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 23580,
+      "num": 822501,
+      "word": "让高品质文旅点亮诗和远方",
+      "onboard_time": 1779174920,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 22671,
       "num": 394108,
       "word": "宜昌暴雨已破36年来记录",
@@ -4985,6 +5289,14 @@
       "onboard_time": 1779101121,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 18130,
+      "num": 281204,
+      "word": "爱尔兰总统妹妹遭以军扣押",
+      "onboard_time": 1779178820,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 17447,
@@ -5177,6 +5489,9 @@
     },
     {
       "word": "#中俄元首会晤恰逢这些时间点#"
+    },
+    {
+      "word": "#中俄关系继续沿着正确轨道不断发展#"
     }
   ]
 }
