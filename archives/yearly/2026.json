@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1779206280814,
+  "endTime": 1779208114045,
   "band_list": [
     {
       "raw_hot": 46860992,
@@ -1203,6 +1203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 4569181,
+      "num": 4569181,
+      "word": "普京到达北京",
+      "onboard_time": 1779202342,
+      "rank": 0,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 4484030,
       "num": 519345,
       "word": "金靖瘦到认不出来",
@@ -1377,14 +1385,6 @@
       "onboard_time": 1768394242,
       "rank": 0,
       "category": "教育"
-    },
-    {
-      "raw_hot": 4123680,
-      "num": 4123680,
-      "word": "普京到达北京",
-      "onboard_time": 1779202342,
-      "rank": 0,
-      "category": "国内时政"
     },
     {
       "raw_hot": 4088060,
