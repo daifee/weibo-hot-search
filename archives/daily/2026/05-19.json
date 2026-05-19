@@ -1,6 +1,6 @@
 {
   "startTime": 1779125683087,
-  "endTime": 1779180271723,
+  "endTime": 1779193042403,
   "band_list": [
     {
       "raw_hot": 2161779,
@@ -67,6 +67,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1441405,
+      "num": 384072,
+      "word": "洁丽雅晒出生证",
+      "onboard_time": 1779189440,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1358266,
       "num": 1358266,
       "word": "给阿嬷的情书 先骗来演了再说",
@@ -89,6 +97,22 @@
       "onboard_time": 1779168981,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1084904,
+      "num": 372229,
+      "word": "孙杨采访时突然开始点餐",
+      "onboard_time": 1779181580,
+      "rank": 11,
+      "category": "体育,作品衍生"
+    },
+    {
+      "raw_hot": 1078679,
+      "num": 366754,
+      "word": "黄灿灿 发腮受益者",
+      "onboard_time": 1779180681,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 1050449,
@@ -137,6 +161,30 @@
       "onboard_time": 1779150141,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 848844,
+      "num": 619831,
+      "word": "白鹿侯明昊17年拍的剧要上了",
+      "onboard_time": 1779181340,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 836654,
+      "num": 611507,
+      "word": "工作留痕的重要性",
+      "onboard_time": 1779185299,
+      "rank": 4,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 813797,
+      "num": 1130207,
+      "word": "给阿嬷的情书 删减的最后一封信",
+      "onboard_time": 1779185779,
+      "rank": 0,
+      "category": "电影"
     },
     {
       "raw_hot": 813656,
@@ -211,6 +259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 683471,
+      "num": 360421,
+      "word": "曝平台三部剧逃档",
+      "onboard_time": 1779184821,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 677147,
       "num": 804673,
       "word": "杨梅泡药事件冲击浙江杨梅市场",
@@ -243,6 +299,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 641150,
+      "num": 348291,
+      "word": "机建燃油费",
+      "onboard_time": 1779191840,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 635891,
       "num": 635891,
       "word": "NBA",
@@ -251,12 +315,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 612865,
+      "num": 821615,
+      "word": "豆包崩了",
+      "onboard_time": 1779192439,
+      "rank": 1,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 603186,
       "num": 906509,
       "word": "巴西队世界杯26人名单",
       "onboard_time": 1779145818,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 588713,
+      "num": 588713,
+      "word": "特朗普暗示日本过头了",
+      "onboard_time": 1779177981,
+      "rank": 15,
+      "category": "国际时政"
     },
     {
       "raw_hot": 586057,
@@ -272,6 +352,22 @@
       "word": "生理假",
       "onboard_time": 1779169341,
       "rank": 12,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 570547,
+      "num": 321686,
+      "word": "白玉兰",
+      "onboard_time": 1779186500,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 562650,
+      "num": 562650,
+      "word": "24岁女孩遗体放殡仪馆18年无人处理",
+      "onboard_time": 1779185602,
+      "rank": 6,
       "category": "民生新闻"
     },
     {
@@ -305,14 +401,6 @@
       "onboard_time": 1779174682,
       "rank": 22,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 442674,
-      "num": 442674,
-      "word": "特朗普暗示日本过头了",
-      "onboard_time": 1779177981,
-      "rank": 15,
-      "category": "国际时政"
     },
     {
       "raw_hot": 441976,
@@ -379,6 +467,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 394355,
+      "num": 394355,
+      "word": "长白头发不是因为老是你太累了",
+      "onboard_time": 1779177860,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 389825,
       "num": 389825,
       "word": "王者520皮肤爆料",
@@ -441,6 +537,38 @@
       "onboard_time": 1779178401,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 338817,
+      "num": 333049,
+      "word": "主角",
+      "onboard_time": 1779106100,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 336419,
+      "num": 336419,
+      "word": "金手镯没直接给新娘一周后得知丢了",
+      "onboard_time": 1779181221,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 331580,
+      "num": 331580,
+      "word": "恋与深空礼盒",
+      "onboard_time": 1779188061,
+      "rank": 21,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 329387,
+      "num": 299555,
+      "word": "天赐的声音 穆祉丞",
+      "onboard_time": 1779192081,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 326708,
@@ -507,14 +635,6 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 284674,
-      "num": 330570,
-      "word": "长白头发不是因为老是你太累了",
-      "onboard_time": 1779177860,
-      "rank": 31,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 281646,
       "num": 265346,
       "word": "真有人在豆包预约餐厅",
@@ -537,6 +657,14 @@
       "onboard_time": 1779091519,
       "rank": 13,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 274006,
+      "num": 274006,
+      "word": "孙丞潇给金莎的备注是黄逗犟",
+      "onboard_time": 1779190460,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 271971,
@@ -593,6 +721,14 @@
       "onboard_time": 1779163100,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 254568,
+      "num": 332053,
+      "word": "家业",
+      "onboard_time": 1779105261,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 254558,
@@ -659,6 +795,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 237537,
+      "num": 237537,
+      "word": "马嘉祺宋亚轩中戏校园卡照片",
+      "onboard_time": 1779190159,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 236162,
       "num": 247889,
       "word": "非洲暴发埃博拉疫情",
@@ -699,6 +843,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 221619,
+      "num": 216694,
+      "word": "曝李庚希提名白玉兰最佳女主角",
+      "onboard_time": 1779187039,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 218096,
       "num": 187924,
       "word": "台湾人疯狂批发霸王茶姬回家",
@@ -707,11 +859,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 217822,
+      "num": 217822,
+      "word": "巨力索具杨氏家族套现已30亿",
+      "onboard_time": 1779189801,
+      "rank": 34,
+      "category": "财经"
+    },
+    {
       "raw_hot": 217515,
       "num": 320688,
       "word": "王源十个勤天也有六人定律",
       "onboard_time": 1779179720,
       "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 214217,
+      "num": 214217,
+      "word": "张凌赫丁程鑫拥抱",
+      "onboard_time": 1779188061,
+      "rank": 36,
       "category": "综艺"
     },
     {
@@ -803,12 +971,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 185172,
+      "num": 185172,
+      "word": "联想发布会 张凌赫",
+      "onboard_time": 1779190340,
+      "rank": 38,
+      "category": "艺人,数码"
+    },
+    {
       "raw_hot": 184568,
       "num": 184568,
       "word": "杨子家族疯狂套现超28亿",
       "onboard_time": 1779100880,
       "rank": 13,
       "category": "民生新闻,艺人"
+    },
+    {
+      "raw_hot": 180458,
+      "num": 180458,
+      "word": "TVB前艺人马浚伟转行做高管",
+      "onboard_time": 1779190281,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 179122,
@@ -835,11 +1019,35 @@
       "category": "情感"
     },
     {
+      "raw_hot": 176622,
+      "num": 305425,
+      "word": "TODS肖战联名系列",
+      "onboard_time": 1779188780,
+      "rank": 27,
+      "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 175856,
+      "num": 170855,
+      "word": "鹿晗 不是佛子是妖僧",
+      "onboard_time": 1779180801,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 174108,
       "num": 328083,
       "word": "家养1.2万只蚕宝宝养到想报警",
       "onboard_time": 1779166101,
       "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 173366,
+      "num": 196078,
+      "word": "女子帮亲哥贷款23万买房后成黑户",
+      "onboard_time": 1779184580,
+      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -849,6 +1057,14 @@
       "onboard_time": 1779146239,
       "rank": 17,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 171586,
+      "num": 171586,
+      "word": "梁靖崑说登上洛杉矶奥运是梦想",
+      "onboard_time": 1779191660,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 169083,
@@ -883,12 +1099,44 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 163040,
+      "num": 163040,
+      "word": "柳州地震全家11口最后一刻逃生",
+      "onboard_time": 1779191241,
+      "rank": 42,
+      "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 162276,
+      "num": 162276,
+      "word": "AI服务涉黄第一案本周再开庭",
+      "onboard_time": 1779181281,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 161260,
+      "num": 161260,
+      "word": "汪浚熙 音乐节",
+      "onboard_time": 1779188961,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
       "raw_hot": 160424,
       "num": 160424,
       "word": "阿森纳1比0伯恩利",
       "onboard_time": 1779145637,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 156740,
+      "num": 156740,
+      "word": "时代少年团最全综艺拉表",
+      "onboard_time": 1779182180,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 155963,
@@ -905,6 +1153,22 @@
       "onboard_time": 1779169700,
       "rank": 9,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 154967,
+      "num": 154967,
+      "word": "易立竞快憋出内伤了",
+      "onboard_time": 1779192679,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 153467,
+      "num": 155738,
+      "word": "3岁娃被独自分到8节外静音车厢",
+      "onboard_time": 1779189380,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 151408,
@@ -1065,14 +1329,6 @@
       "onboard_time": 1779150381,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 106326,
-      "num": 111130,
-      "word": "主角",
-      "onboard_time": 1779106100,
-      "rank": 20,
-      "category": "剧集"
     },
     {
       "raw_hot": 106153,
@@ -1299,14 +1555,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 62924,
-      "num": 109558,
-      "word": "家业",
-      "onboard_time": 1779105261,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 62100,
       "num": 109521,
       "word": "洁丽雅",
@@ -1337,6 +1585,14 @@
       "onboard_time": 1779116542,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 59195,
+      "num": 330657,
+      "word": "联合国回应日本拥核动向",
+      "onboard_time": 1779192741,
+      "rank": 22,
+      "category": "国际时政"
     },
     {
       "raw_hot": 55811,
@@ -1483,6 +1739,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 32728,
+      "num": 325878,
+      "word": "泡药杨梅自己都不敢吃凭什么卖",
+      "onboard_time": 1779192741,
+      "rank": 23,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 32260,
+      "num": 391903,
+      "word": "拼豆拼出了真的刘浩存",
+      "onboard_time": 1779192081,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 31070,
       "num": 32026,
       "word": "穆祉丞戛纳采访路透",
@@ -1539,6 +1811,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 19134,
+      "num": 300056,
+      "word": "克宫公布普京访华细节",
+      "onboard_time": 1779192861,
+      "rank": 28,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 18130,
       "num": 281204,
       "word": "爱尔兰总统妹妹遭以军扣押",
@@ -1569,6 +1849,14 @@
       "onboard_time": 1779127635,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 11785,
+      "num": 334170,
+      "word": "已经到了哪边都能理解的年纪",
+      "onboard_time": 1779192081,
+      "rank": 18,
+      "category": "情感"
     },
     {
       "raw_hot": 10369,
