@@ -1,6 +1,6 @@
 {
   "startTime": 1778951228781,
-  "endTime": 1779208114045,
+  "endTime": 1779214951674,
   "band_list": [
     {
       "raw_hot": 17984788,
@@ -1241,6 +1241,14 @@
       "onboard_time": 1779186500,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 570383,
+      "num": 91133,
+      "word": "玻璃",
+      "onboard_time": 1779208159,
+      "rank": 10,
+      "category": "音乐"
     },
     {
       "raw_hot": 570079,
@@ -4243,6 +4251,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 131266,
+      "num": 131266,
+      "word": "DeepSeek最新回应",
+      "onboard_time": 1779207860,
+      "rank": 44,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 130680,
       "num": 130680,
       "word": "阚清子想要阚清子得到",
@@ -4803,14 +4819,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 88224,
-      "num": 88224,
-      "word": "DeepSeek最新回应",
-      "onboard_time": 1779207860,
-      "rank": 44,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 87919,
       "num": 149949,
       "word": "黑娃下线",
@@ -5081,6 +5089,14 @@
       "onboard_time": 1779030742,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 70266,
+      "num": 286420,
+      "word": "赖清德暗怼特朗普后心虚了",
+      "onboard_time": 1779205462,
+      "rank": 20,
+      "category": "国内时政"
     },
     {
       "raw_hot": 69635,
@@ -5491,6 +5507,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 46527,
+      "num": 62044,
+      "word": "美国男子枪杀少女过程被监控拍下",
+      "onboard_time": 1779214216,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 46498,
       "num": 400343,
       "word": "4个品牌5款牙膏都宣称自己是第一",
@@ -5539,14 +5563,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 43088,
-      "num": 286420,
-      "word": "赖清德暗怼特朗普后心虚了",
-      "onboard_time": 1779205462,
-      "rank": 20,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 42154,
       "num": 225354,
       "word": "窦骁吃醋刘浩存三万福利提翟子路",
@@ -5569,6 +5585,14 @@
       "onboard_time": 1779117023,
       "rank": 48,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 41375,
+      "num": 62021,
+      "word": "无畏老乡杯上场",
+      "onboard_time": 1779210018,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 41218,
@@ -5609,6 +5633,14 @@
       "onboard_time": 1779029123,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 39640,
+      "num": 62005,
+      "word": "被马龙王楚钦薪火相传感动了",
+      "onboard_time": 1779209178,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 38817,
@@ -5731,6 +5763,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 33206,
+      "num": 61967,
+      "word": "阿尔卡拉斯退出草地赛季",
+      "onboard_time": 1779210018,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 32836,
       "num": 220118,
       "word": "荆州暴雨积水淹进高校宿舍",
@@ -5763,6 +5803,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 31827,
+      "num": 61963,
+      "word": "古装男主出场被韩东君卷起来了",
+      "onboard_time": 1779202883,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 31752,
       "num": 33603,
       "word": "胖东来回应主动退顾客iPhone差价",
@@ -5785,6 +5833,22 @@
       "onboard_time": 1779132374,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 30794,
+      "num": 61936,
+      "word": "文班亚马给队友都看懵了",
+      "onboard_time": 1779210018,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 30700,
+      "num": 61932,
+      "word": "杨紫新剧刚开播为何现千条雷同差评",
+      "onboard_time": 1779188180,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 30586,
@@ -5857,6 +5921,14 @@
       "onboard_time": 1778967974,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 25717,
+      "num": 61902,
+      "word": "华东最大水果批发市场只卖云南杨梅",
+      "onboard_time": 1779197963,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 25568,
@@ -6073,6 +6145,14 @@
       "onboard_time": 1779032061,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 11572,
+      "num": 165631,
+      "word": "南宁十条护航涉企网络生态",
+      "onboard_time": 1779210316,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 11507,
