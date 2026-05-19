@@ -1,0 +1,410 @@
+{
+  "runTime": 1779193600916,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 888602,
+        "num": 1142176,
+        "word": "豆包崩了",
+        "onboard_time": 1779192439,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 725829,
+        "num": 831999,
+        "word": "给阿嬷的情书 删减的最后一封信",
+        "onboard_time": 1779185779,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 13106,
+        "num": 791220,
+        "word": "让高品质文旅点亮诗和远方",
+        "onboard_time": 1779174920,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 787295,
+        "num": 787295,
+        "word": "工作留痕的重要性",
+        "onboard_time": 1779185299,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 759587,
+        "num": 759587,
+        "word": "24岁女孩遗体放殡仪馆18年无人处理",
+        "onboard_time": 1779185602,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 691612,
+        "num": 691612,
+        "word": "白鹿侯明昊17年拍的剧要上了",
+        "onboard_time": 1779181340,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 528636,
+        "num": 528636,
+        "word": "白玉兰",
+        "onboard_time": 1779186500,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 483357,
+        "num": 483357,
+        "word": "特朗普暗示日本过头了",
+        "onboard_time": 1779177981,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 442247,
+        "num": 442247,
+        "word": "第一次被中式美学震撼到",
+        "onboard_time": 1779176120,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 355623,
+        "num": 355623,
+        "word": "长白头发不是因为老是你太累了",
+        "onboard_time": 1779177860,
+        "rank": 9,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 1028306,
+        "num": 354965,
+        "word": "黄灿灿 发腮受益者",
+        "onboard_time": 1779180681,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1598490,
+        "num": 346397,
+        "word": "洁丽雅晒出生证",
+        "onboard_time": 1779189440,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 965592,
+        "num": 333517,
+        "word": "孙杨采访时突然开始点餐",
+        "onboard_time": 1779181580,
+        "rank": 12,
+        "category": "体育,作品衍生"
+      },
+      {
+        "raw_hot": 718942,
+        "num": 327789,
+        "word": "机建燃油费",
+        "onboard_time": 1779191840,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 602815,
+        "num": 321965,
+        "word": "曝平台三部剧逃档",
+        "onboard_time": 1779184821,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 601006,
+        "num": 313102,
+        "word": "24岁短剧男演员去世",
+        "onboard_time": 1779176601,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 308638,
+        "num": 308638,
+        "word": "金手镯没直接给新娘一周后得知丢了",
+        "onboard_time": 1779181221,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 324521,
+        "num": 307052,
+        "word": "天赐的声音 穆祉丞",
+        "onboard_time": 1779192081,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 46666,
+        "num": 302944,
+        "word": "泡药杨梅自己都不敢吃凭什么卖",
+        "onboard_time": 1779192741,
+        "rank": 18,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 77101,
+        "num": 297794,
+        "word": "联合国回应日本拥核动向",
+        "onboard_time": 1779192741,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 492620,
+        "num": 294429,
+        "word": "林俊杰现身七七毕业典礼",
+        "onboard_time": 1779166582,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 49359,
+        "num": 287897,
+        "word": "克宫公布普京访华细节",
+        "onboard_time": 1779192861,
+        "rank": 21,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 285252,
+        "num": 285252,
+        "word": "恋与深空礼盒",
+        "onboard_time": 1779188061,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 285081,
+        "num": 285081,
+        "word": "杨梅泡药事件冲击浙江杨梅市场",
+        "onboard_time": 1779175700,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 278778,
+        "num": 278778,
+        "word": "普京访华俄方代表团名单公布",
+        "onboard_time": 1779172040,
+        "rank": 24,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 273053,
+        "num": 273053,
+        "word": "孙丞潇给金莎的备注是黄逗犟",
+        "onboard_time": 1779190460,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 267017,
+        "num": 267017,
+        "word": "主角",
+        "onboard_time": 1779191601,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 202873,
+        "num": 263615,
+        "word": "梁靖崑说登上洛杉矶奥运是梦想",
+        "onboard_time": 1779191660,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 262722,
+        "num": 262722,
+        "word": "林允 女孩儿胖一点真的好",
+        "onboard_time": 1779178401,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121828,
+        "num": 261018,
+        "word": "AI服务涉黄第一案本周再开庭",
+        "onboard_time": 1779181281,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 259834,
+        "num": 259834,
+        "word": "家业",
+        "onboard_time": 1779191721,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 245167,
+        "num": 245167,
+        "word": "马嘉祺宋亚轩中戏校园卡照片",
+        "onboard_time": 1779190159,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196196,
+        "num": 196196,
+        "word": "普京访华",
+        "onboard_time": 1779156200,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 203675,
+        "num": 195539,
+        "word": "曝李庚希提名白玉兰最佳女主角",
+        "onboard_time": 1779187039,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 194811,
+        "num": 194811,
+        "word": "张凌赫丁程鑫拥抱",
+        "onboard_time": 1779188061,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171972,
+        "num": 180124,
+        "word": "柳州地震全家11口最后一刻逃生",
+        "onboard_time": 1779191241,
+        "rank": 35,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 180116,
+        "num": 180116,
+        "word": "时代少年团最全综艺拉表",
+        "onboard_time": 1779182180,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179874,
+        "num": 179874,
+        "word": "联想发布会 张凌赫",
+        "onboard_time": 1779190340,
+        "rank": 37,
+        "category": "艺人,数码"
+      },
+      {
+        "raw_hot": 163663,
+        "num": 179687,
+        "word": "女子帮亲哥贷款23万买房后成黑户",
+        "onboard_time": 1779184580,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179675,
+        "num": 179675,
+        "word": "易立竞快憋出内伤了",
+        "onboard_time": 1779192679,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 172576,
+        "num": 172576,
+        "word": "汪浚熙 音乐节",
+        "onboard_time": 1779188961,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 156053,
+        "num": 166911,
+        "word": "巨力索具杨氏家族套现已30亿",
+        "onboard_time": 1779189801,
+        "rank": 41,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 164705,
+        "num": 164705,
+        "word": "TVB前艺人马浚伟转行做高管",
+        "onboard_time": 1779190281,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163273,
+        "num": 163273,
+        "word": "杨紫把韩东君气疯了",
+        "onboard_time": 1779193520,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136180,
+        "num": 158974,
+        "word": "3岁娃被独自分到8节外静音车厢",
+        "onboard_time": 1779189380,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157199,
+        "num": 157199,
+        "word": "鹿晗 不是佛子是妖僧",
+        "onboard_time": 1779180801,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156324,
+        "num": 156324,
+        "word": "汪涵在大学时就有红的前兆",
+        "onboard_time": 1779190039,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21010,
+        "num": 149791,
+        "word": "已经到了哪边都能理解的年纪",
+        "onboard_time": 1779192081,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 149749,
+        "num": 149749,
+        "word": "张凌赫解压方式是研究参数",
+        "onboard_time": 1779193280,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 49133,
+        "num": 145189,
+        "word": "小米获有色金属工业科学技术一等奖",
+        "onboard_time": 1779186801,
+        "rank": 49,
+        "category": "互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#中俄关系继续沿着正确轨道不断发展#"
+    }
+  }
+}

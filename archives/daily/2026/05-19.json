@@ -1,6 +1,6 @@
 {
   "startTime": 1779125683087,
-  "endTime": 1779193042403,
+  "endTime": 1779193600916,
   "band_list": [
     {
       "raw_hot": 2161779,
@@ -59,20 +59,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1598490,
+      "num": 384072,
+      "word": "洁丽雅晒出生证",
+      "onboard_time": 1779189440,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1446933,
       "num": 380000,
       "word": "林俊杰现身七七毕业典礼",
       "onboard_time": 1779166582,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1441405,
-      "num": 384072,
-      "word": "洁丽雅晒出生证",
-      "onboard_time": 1779189440,
-      "rank": 10,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1358266,
@@ -147,6 +147,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 888602,
+      "num": 1142176,
+      "word": "豆包崩了",
+      "onboard_time": 1779192439,
+      "rank": 1,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 885888,
       "num": 885888,
       "word": "刘宇宁丁程鑫体型差",
@@ -164,7 +172,7 @@
     },
     {
       "raw_hot": 848844,
-      "num": 619831,
+      "num": 691612,
       "word": "白鹿侯明昊17年拍的剧要上了",
       "onboard_time": 1779181340,
       "rank": 3,
@@ -172,7 +180,7 @@
     },
     {
       "raw_hot": 836654,
-      "num": 611507,
+      "num": 787295,
       "word": "工作留痕的重要性",
       "onboard_time": 1779185299,
       "rank": 4,
@@ -219,12 +227,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 759587,
+      "num": 759587,
+      "word": "24岁女孩遗体放殡仪馆18年无人处理",
+      "onboard_time": 1779185602,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 756422,
       "num": 572114,
       "word": "倪萍让给阿嬷的情书男女主别乱接片",
       "onboard_time": 1779150920,
       "rank": 12,
       "category": "电影"
+    },
+    {
+      "raw_hot": 718942,
+      "num": 348291,
+      "word": "机建燃油费",
+      "onboard_time": 1779191840,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 714970,
@@ -299,28 +323,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 641150,
-      "num": 348291,
-      "word": "机建燃油费",
-      "onboard_time": 1779191840,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 635891,
       "num": 635891,
       "word": "NBA",
       "onboard_time": 1779161478,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 612865,
-      "num": 821615,
-      "word": "豆包崩了",
-      "onboard_time": 1779192439,
-      "rank": 1,
-      "category": "互联网"
     },
     {
       "raw_hot": 603186,
@@ -356,19 +364,11 @@
     },
     {
       "raw_hot": 570547,
-      "num": 321686,
+      "num": 528636,
       "word": "白玉兰",
       "onboard_time": 1779186500,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 562650,
-      "num": 562650,
-      "word": "24岁女孩遗体放殡仪馆18年无人处理",
-      "onboard_time": 1779185602,
-      "rank": 6,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 552675,
@@ -564,7 +564,7 @@
     },
     {
       "raw_hot": 329387,
-      "num": 299555,
+      "num": 307052,
       "word": "天赐的声音 穆祉丞",
       "onboard_time": 1779192081,
       "rank": 29,
@@ -699,6 +699,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 259834,
+      "num": 332053,
+      "word": "家业",
+      "onboard_time": 1779105261,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 259089,
       "num": 259089,
       "word": "武汉癌症村需要真相不是敷衍",
@@ -721,14 +729,6 @@
       "onboard_time": 1779163100,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 254568,
-      "num": 332053,
-      "word": "家业",
-      "onboard_time": 1779105261,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 254558,
@@ -771,6 +771,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 245167,
+      "num": 245167,
+      "word": "马嘉祺宋亚轩中戏校园卡照片",
+      "onboard_time": 1779190159,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 239864,
       "num": 264876,
       "word": "向鹏回应缺席美国大满贯",
@@ -792,14 +800,6 @@
       "word": "邵兵女儿提前一年纽约大学毕业",
       "onboard_time": 1779170601,
       "rank": 35,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 237537,
-      "num": 237537,
-      "word": "马嘉祺宋亚轩中戏校园卡照片",
-      "onboard_time": 1779190159,
-      "rank": 33,
       "category": "艺人"
     },
     {
@@ -899,6 +899,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 202873,
+      "num": 263615,
+      "word": "梁靖崑说登上洛杉矶奥运是梦想",
+      "onboard_time": 1779191660,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 199286,
       "num": 177207,
       "word": "王濛干一行行一行",
@@ -995,6 +1003,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 180116,
+      "num": 180116,
+      "word": "时代少年团最全综艺拉表",
+      "onboard_time": 1779182180,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 179675,
+      "num": 179675,
+      "word": "易立竞快憋出内伤了",
+      "onboard_time": 1779192679,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 179122,
       "num": 174800,
       "word": "广西车辆坠河6人遇难",
@@ -1059,12 +1083,20 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 171586,
-      "num": 171586,
-      "word": "梁靖崑说登上洛杉矶奥运是梦想",
-      "onboard_time": 1779191660,
-      "rank": 40,
-      "category": "体育"
+      "raw_hot": 172576,
+      "num": 172576,
+      "word": "汪浚熙 音乐节",
+      "onboard_time": 1779188961,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 171972,
+      "num": 180124,
+      "word": "柳州地震全家11口最后一刻逃生",
+      "onboard_time": 1779191241,
+      "rank": 42,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 169083,
@@ -1099,28 +1131,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 163040,
-      "num": 163040,
-      "word": "柳州地震全家11口最后一刻逃生",
-      "onboard_time": 1779191241,
-      "rank": 42,
-      "category": "突发/灾害"
+      "raw_hot": 163273,
+      "num": 163273,
+      "word": "杨紫把韩东君气疯了",
+      "onboard_time": 1779193520,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 162276,
-      "num": 162276,
+      "num": 261018,
       "word": "AI服务涉黄第一案本周再开庭",
       "onboard_time": 1779181281,
       "rank": 43,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 161260,
-      "num": 161260,
-      "word": "汪浚熙 音乐节",
-      "onboard_time": 1779188961,
-      "rank": 44,
-      "category": "演出"
     },
     {
       "raw_hot": 160424,
@@ -1131,11 +1155,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 156740,
-      "num": 156740,
-      "word": "时代少年团最全综艺拉表",
-      "onboard_time": 1779182180,
-      "rank": 45,
+      "raw_hot": 156324,
+      "num": 156324,
+      "word": "汪涵在大学时就有红的前兆",
+      "onboard_time": 1779190039,
+      "rank": 46,
       "category": "艺人"
     },
     {
@@ -1155,16 +1179,8 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 154967,
-      "num": 154967,
-      "word": "易立竞快憋出内伤了",
-      "onboard_time": 1779192679,
-      "rank": 47,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 153467,
-      "num": 155738,
+      "num": 158974,
       "word": "3岁娃被独自分到8节外静音车厢",
       "onboard_time": 1779189380,
       "rank": 46,
@@ -1185,6 +1201,14 @@
       "onboard_time": 1779172939,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 149749,
+      "num": 149749,
+      "word": "张凌赫解压方式是研究参数",
+      "onboard_time": 1779193280,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 142732,
@@ -1435,6 +1459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 77101,
+      "num": 330657,
+      "word": "联合国回应日本拥核动向",
+      "onboard_time": 1779192741,
+      "rank": 22,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 76634,
       "num": 178567,
       "word": "创纽北SUV新纪录车手是小米工程师",
@@ -1587,14 +1619,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 59195,
-      "num": 330657,
-      "word": "联合国回应日本拥核动向",
-      "onboard_time": 1779192741,
-      "rank": 22,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 55811,
       "num": 71714,
       "word": "许昕左手将的爱情",
@@ -1643,12 +1667,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 49359,
+      "num": 300056,
+      "word": "克宫公布普京访华细节",
+      "onboard_time": 1779192861,
+      "rank": 28,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 49133,
+      "num": 145189,
+      "word": "小米获有色金属工业科学技术一等奖",
+      "onboard_time": 1779186801,
+      "rank": 49,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 47107,
       "num": 71710,
       "word": "美商业航天板块爆发",
       "onboard_time": 1779130634,
       "rank": 35,
       "category": "财经"
+    },
+    {
+      "raw_hot": 46666,
+      "num": 325878,
+      "word": "泡药杨梅自己都不敢吃凭什么卖",
+      "onboard_time": 1779192741,
+      "rank": 23,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 45164,
@@ -1739,14 +1787,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 32728,
-      "num": 325878,
-      "word": "泡药杨梅自己都不敢吃凭什么卖",
-      "onboard_time": 1779192741,
-      "rank": 23,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 32260,
       "num": 391903,
       "word": "拼豆拼出了真的刘浩存",
@@ -1811,12 +1851,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 19134,
-      "num": 300056,
-      "word": "克宫公布普京访华细节",
-      "onboard_time": 1779192861,
-      "rank": 28,
-      "category": "国内时政"
+      "raw_hot": 21010,
+      "num": 334170,
+      "word": "已经到了哪边都能理解的年纪",
+      "onboard_time": 1779192081,
+      "rank": 18,
+      "category": "情感"
     },
     {
       "raw_hot": 18130,
@@ -1849,14 +1889,6 @@
       "onboard_time": 1779127635,
       "rank": 49,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 11785,
-      "num": 334170,
-      "word": "已经到了哪边都能理解的年纪",
-      "onboard_time": 1779192081,
-      "rank": 18,
-      "category": "情感"
     },
     {
       "raw_hot": 10369,
