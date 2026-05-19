@@ -1,6 +1,6 @@
 {
   "startTime": 1779208114045,
-  "endTime": 1779217674041,
+  "endTime": 1779221648001,
   "band_list": [
     {
       "raw_hot": 4569181,
@@ -371,6 +371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 84035,
+      "num": 51068,
+      "word": "在不关注的领域世界有另一个样子",
+      "onboard_time": 1779217394,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 81312,
       "num": 81312,
       "word": "白玉兰",
@@ -475,6 +483,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 30317,
+      "num": 30317,
+      "word": "专家解释阿嬷的读音",
+      "onboard_time": 1779219674,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 27084,
+      "num": 27084,
+      "word": "佳偶天成",
+      "onboard_time": 1779220093,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 25717,
       "num": 61902,
       "word": "华东最大水果批发市场只卖云南杨梅",
@@ -488,14 +512,6 @@
       "word": "打工更多是情绪劳动",
       "onboard_time": 1779215054,
       "rank": 38,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 23150,
-      "num": 39854,
-      "word": "在不关注的领域世界有另一个样子",
-      "onboard_time": 1779217394,
-      "rank": 40,
       "category": "情感"
     },
     {
