@@ -1,6 +1,6 @@
 {
   "startTime": 1779293187585,
-  "endTime": 1779312000231,
+  "endTime": 1779317572943,
   "band_list": [
     {
       "raw_hot": 2050981,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 1263382,
-      "num": 724890,
+      "num": 756008,
       "word": "为什么520朋友圈秀恩爱的变少了",
       "onboard_time": 1779277280,
       "rank": 3,
@@ -139,19 +139,27 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 334577,
+      "num": 410770,
+      "word": "小学网购45把伞用后全损退回",
+      "onboard_time": 1779292640,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 316185,
+      "num": 316185,
+      "word": "抖音禁止录播伪装为直播",
+      "onboard_time": 1779297619,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 311145,
       "num": 422906,
       "word": "杨梅滞留树上70岁奶奶崩溃哭",
       "onboard_time": 1779288743,
       "rank": 16,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 303837,
-      "num": 410770,
-      "word": "小学网购45把伞用后全损退回",
-      "onboard_time": 1779292640,
-      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -179,6 +187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 280678,
+      "num": 125251,
+      "word": "律师谈女教师劝架被学生划伤眼球",
+      "onboard_time": 1779312493,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 277238,
       "num": 277238,
       "word": "李多海怀孕",
@@ -201,6 +217,14 @@
       "onboard_time": 1779291920,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 258711,
+      "num": 258711,
+      "word": "讨好型人格建议反复阅读",
+      "onboard_time": 1779302715,
+      "rank": 6,
+      "category": "情感"
     },
     {
       "raw_hot": 258566,
@@ -233,14 +257,6 @@
       "onboard_time": 1779285202,
       "rank": 7,
       "category": "财经"
-    },
-    {
-      "raw_hot": 232724,
-      "num": 232724,
-      "word": "抖音禁止录播伪装为直播",
-      "onboard_time": 1779297619,
-      "rank": 3,
-      "category": "剧集"
     },
     {
       "raw_hot": 223025,
@@ -331,6 +347,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 156804,
+      "num": 156804,
+      "word": "倒过来看才看明白那些云是石头",
+      "onboard_time": 1779284061,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 155606,
       "num": 193603,
       "word": "宋亚轩提及作品你好吗",
@@ -379,6 +403,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 123453,
+      "num": 123453,
+      "word": "尚公主",
+      "onboard_time": 1779306254,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 119677,
       "num": 193559,
       "word": "福建漳州泡药杨梅事件5人被刑拘",
@@ -395,12 +427,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 112426,
-      "num": 112426,
-      "word": "尚公主",
-      "onboard_time": 1779306254,
-      "rank": 3,
-      "category": "剧集"
+      "raw_hot": 111798,
+      "num": 111798,
+      "word": "奔驰车主2次调整故意碾压猫咪",
+      "onboard_time": 1779295399,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 107298,
@@ -419,20 +451,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 93139,
-      "num": 93139,
-      "word": "讨好型人格建议反复阅读",
-      "onboard_time": 1779302715,
-      "rank": 6,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 80124,
-      "num": 80124,
-      "word": "奔驰车主2次调整故意碾压猫咪",
-      "onboard_time": 1779295399,
-      "rank": 22,
-      "category": "民生新闻"
+      "raw_hot": 89798,
+      "num": 89798,
+      "word": "亚洲艺术电影节",
+      "onboard_time": 1779310754,
+      "rank": 34,
+      "category": "电影"
     },
     {
       "raw_hot": 74241,
@@ -443,6 +467,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 70879,
+      "num": 70879,
+      "word": "建议所有成年人都查一次脂蛋白A",
+      "onboard_time": 1779316756,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 63450,
+      "num": 63450,
+      "word": "醉酒女钻进锅炉房重度烧伤后中毒身亡",
+      "onboard_time": 1779280220,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 57473,
       "num": 57473,
       "word": "白玉兰奖预测就很激烈",
@@ -451,20 +491,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 53344,
-      "num": 53344,
-      "word": "醉酒女钻进锅炉房重度烧伤后中毒身亡",
-      "onboard_time": 1779280220,
-      "rank": 34,
+      "raw_hot": 53774,
+      "num": 49397,
+      "word": "杨梅果农的生路不该靠消费者的同情",
+      "onboard_time": 1779306373,
+      "rank": 40,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 51228,
-      "num": 51228,
-      "word": "倒过来看才看明白那些云是石头",
-      "onboard_time": 1779284061,
-      "rank": 35,
-      "category": "幽默"
     },
     {
       "raw_hot": 51109,
@@ -475,12 +507,44 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 38522,
+      "raw_hot": 49454,
+      "num": 49454,
+      "word": "国际足联官宣世界杯全新单曲",
+      "onboard_time": 1779302174,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 43922,
+      "num": 43922,
+      "word": "刘宇宁说我的身材很曼妙",
+      "onboard_time": 1779304394,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 42140,
       "num": 48718,
       "word": "一种很新的道歉方式",
       "onboard_time": 1779281781,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 39861,
+      "num": 48255,
+      "word": "张雪机车64号选手获车迷刷屏力挺",
+      "onboard_time": 1779296177,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 38133,
+      "num": 38133,
+      "word": "中俄元首会晤成果文件清单",
+      "onboard_time": 1779299355,
+      "rank": 40,
+      "category": "国内时政"
     },
     {
       "raw_hot": 37293,
@@ -499,28 +563,36 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 34390,
-      "num": 48255,
-      "word": "张雪机车64号选手获车迷刷屏力挺",
-      "onboard_time": 1779296177,
+      "raw_hot": 34754,
+      "num": 34754,
+      "word": "福建漳州追回问题杨梅540公斤",
+      "onboard_time": 1779312674,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 34006,
+      "num": 34006,
+      "word": "龙海杨梅协会会长回应多地下架杨梅",
+      "onboard_time": 1779316336,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 31926,
+      "num": 32921,
+      "word": "主角每天都让我哭",
+      "onboard_time": 1779307153,
       "rank": 45,
-      "category": "体育"
+      "category": "剧集"
     },
     {
-      "raw_hot": 33404,
-      "num": 33404,
-      "word": "亚洲艺术电影节",
-      "onboard_time": 1779310754,
-      "rank": 34,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 28610,
-      "num": 40579,
-      "word": "国际足联官宣世界杯全新单曲",
-      "onboard_time": 1779302174,
-      "rank": 47,
-      "category": "体育"
+      "raw_hot": 28246,
+      "num": 32916,
+      "word": "台湾人疯狂批发霸王茶姬回家",
+      "onboard_time": 1779317538,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 24393,
@@ -539,28 +611,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 21104,
-      "num": 22175,
-      "word": "主角每天都让我哭",
-      "onboard_time": 1779307153,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 21001,
       "num": 521026,
       "word": "湖南石门多处断水断电",
       "onboard_time": 1779292579,
       "rank": 8,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 20772,
-      "num": 22183,
-      "word": "杨梅果农的生路不该靠消费者的同情",
-      "onboard_time": 1779306373,
-      "rank": 40,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [

@@ -1,0 +1,410 @@
+{
+  "runTime": 1779317572943,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 756008,
+        "num": 756008,
+        "word": "为什么520朋友圈秀恩爱的变少了",
+        "onboard_time": 1779277280,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 359492,
+        "num": 475864,
+        "word": "中俄两国联合声明",
+        "onboard_time": 1779290002,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 18051,
+        "num": 368176,
+        "word": "中俄元首会谈现场都有谁",
+        "onboard_time": 1779286463,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 334577,
+        "num": 334577,
+        "word": "小学网购45把伞用后全损退回",
+        "onboard_time": 1779292640,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 316185,
+        "num": 316185,
+        "word": "抖音禁止录播伪装为直播",
+        "onboard_time": 1779297619,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 264927,
+        "num": 264927,
+        "word": "普京结束访华",
+        "onboard_time": 1779287002,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 258711,
+        "num": 258711,
+        "word": "讨好型人格建议反复阅读",
+        "onboard_time": 1779302715,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 156804,
+        "num": 156804,
+        "word": "倒过来看才看明白那些云是石头",
+        "onboard_time": 1779284061,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 155208,
+        "num": 155208,
+        "word": "淑柔扮演者回应为何不进演艺圈",
+        "onboard_time": 1779289762,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 126219,
+        "num": 126219,
+        "word": "刘浩存穆桂英剧照",
+        "onboard_time": 1779291920,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 280678,
+        "num": 125251,
+        "word": "律师谈女教师劝架被学生划伤眼球",
+        "onboard_time": 1779312493,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170288,
+        "num": 125052,
+        "word": "颜颜回复凯凯",
+        "onboard_time": 1779289341,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148670,
+        "num": 124887,
+        "word": "杨梅滞留树上70岁奶奶崩溃哭",
+        "onboard_time": 1779288743,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123453,
+        "num": 123453,
+        "word": "尚公主",
+        "onboard_time": 1779306254,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117146,
+        "num": 117146,
+        "word": "陈赫在综艺发火了",
+        "onboard_time": 1779271822,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111798,
+        "num": 111798,
+        "word": "奔驰车主2次调整故意碾压猫咪",
+        "onboard_time": 1779295399,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107401,
+        "num": 107401,
+        "word": "有种痛苦叫邻居买大车",
+        "onboard_time": 1779286823,
+        "rank": 16,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 89798,
+        "num": 89798,
+        "word": "亚洲艺术电影节",
+        "onboard_time": 1779310754,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 87779,
+        "num": 87779,
+        "word": "肖战出发参加亚洲艺术电影节",
+        "onboard_time": 1779279021,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 69433,
+        "num": 87411,
+        "word": "翻倍牛股一字涨停",
+        "onboard_time": 1779285202,
+        "rank": 19,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 87365,
+        "num": 87365,
+        "word": "女子刮大腿疏通胆经像刨木头",
+        "onboard_time": 1779285562,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 70879,
+        "num": 70879,
+        "word": "建议所有成年人都查一次脂蛋白A",
+        "onboard_time": 1779316756,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 69560,
+        "num": 69560,
+        "word": "孙浩演技 最佳男配",
+        "onboard_time": 1779288502,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 67799,
+        "num": 67799,
+        "word": "福建漳州泡药杨梅事件5人被刑拘",
+        "onboard_time": 1779287542,
+        "rank": 23,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 66875,
+        "num": 66875,
+        "word": "戴维没关注凯凯",
+        "onboard_time": 1779293419,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 66757,
+        "num": 66757,
+        "word": "抖音封了打焦赞直播间",
+        "onboard_time": 1779280882,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 63450,
+        "num": 63450,
+        "word": "醉酒女钻进锅炉房重度烧伤后中毒身亡",
+        "onboard_time": 1779280220,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 58091,
+        "num": 58091,
+        "word": "给阿嬷的情书",
+        "onboard_time": 1779284603,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 55523,
+        "num": 55523,
+        "word": "对人是真皮的有了实感",
+        "onboard_time": 1779292280,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 49454,
+        "num": 49454,
+        "word": "国际足联官宣世界杯全新单曲",
+        "onboard_time": 1779302174,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 53774,
+        "num": 49397,
+        "word": "杨梅果农的生路不该靠消费者的同情",
+        "onboard_time": 1779306373,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 49017,
+        "num": 49017,
+        "word": "小鹏GX价格炸裂",
+        "onboard_time": 1779286463,
+        "rank": 31,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 48501,
+        "num": 48501,
+        "word": "深圳暴雨",
+        "onboard_time": 1779282501,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 44952,
+        "num": 44952,
+        "word": "张凌赫回复丁程鑫",
+        "onboard_time": 1779276142,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 43922,
+        "num": 43922,
+        "word": "刘宇宁说我的身材很曼妙",
+        "onboard_time": 1779304394,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 42993,
+        "num": 42993,
+        "word": "别笑张碧晨也要毕业答辩",
+        "onboard_time": 1779287181,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 42465,
+        "num": 42465,
+        "word": "普京离京对送行人群微笑点头致意",
+        "onboard_time": 1779291441,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 42140,
+        "num": 42140,
+        "word": "一种很新的道歉方式",
+        "onboard_time": 1779281781,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 41359,
+        "num": 41359,
+        "word": "未开封的饮料都可以偷梁换柱",
+        "onboard_time": 1779280641,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 39861,
+        "num": 39861,
+        "word": "张雪机车64号选手获车迷刷屏力挺",
+        "onboard_time": 1779296177,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 38133,
+        "num": 38133,
+        "word": "中俄元首会晤成果文件清单",
+        "onboard_time": 1779299355,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 37897,
+        "num": 37897,
+        "word": "主角",
+        "onboard_time": 1779274581,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 35238,
+        "num": 35238,
+        "word": "被普京抱过的男孩回应年龄像50多岁",
+        "onboard_time": 1779289762,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 34754,
+        "num": 34754,
+        "word": "福建漳州追回问题杨梅540公斤",
+        "onboard_time": 1779312674,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34006,
+        "num": 34006,
+        "word": "龙海杨梅协会会长回应多地下架杨梅",
+        "onboard_time": 1779316336,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33945,
+        "num": 33945,
+        "word": "丁程鑫看的是正经逐玉吗",
+        "onboard_time": 1779269480,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 32922,
+        "num": 32922,
+        "word": "白玉兰奖预测就很激烈",
+        "onboard_time": 1779294138,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 31926,
+        "num": 32921,
+        "word": "主角每天都让我哭",
+        "onboard_time": 1779307153,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 29697,
+        "num": 32917,
+        "word": "宋亚轩提及作品你好吗",
+        "onboard_time": 1779288025,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 28246,
+        "num": 32916,
+        "word": "台湾人疯狂批发霸王茶姬回家",
+        "onboard_time": 1779317538,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中俄关系迈上新起点#"
+    }
+  }
+}
