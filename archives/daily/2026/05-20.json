@@ -1,6 +1,6 @@
 {
   "startTime": 1779208114045,
-  "endTime": 1779252371791,
+  "endTime": 1779265946853,
   "band_list": [
     {
       "raw_hot": 4569181,
@@ -67,11 +67,35 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1142833,
+      "num": 602588,
+      "word": "何润东商务 有人莫名其妙就发财了",
+      "onboard_time": 1779262580,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1126147,
       "num": 1126147,
       "word": "普京抵京画面",
       "onboard_time": 1779204322,
       "rank": 3,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 1101498,
+      "num": 582853,
+      "word": "煎饼夏天 戛纳",
+      "onboard_time": 1779262101,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1052003,
+      "num": 1168320,
+      "word": "武契奇将对中国进行国事访问",
+      "onboard_time": 1779262041,
+      "rank": 0,
       "category": "国内时政"
     },
     {
@@ -123,6 +147,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 806728,
+      "num": 587561,
+      "word": "职场中不要过度礼貌",
+      "onboard_time": 1779259820,
+      "rank": 10,
+      "category": "情感"
+    },
+    {
       "raw_hot": 759604,
       "num": 759604,
       "word": "普京宾至如归脱下外套",
@@ -161,6 +193,30 @@
       "onboard_time": 1779194540,
       "rank": 4,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 659637,
+      "num": 575192,
+      "word": "李昀锐偷看关晓彤这一眼",
+      "onboard_time": 1779261141,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 652514,
+      "num": 564292,
+      "word": "张凌赫把金靖放在C位",
+      "onboard_time": 1779254902,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 649875,
+      "num": 649875,
+      "word": "金靖回复张凌赫谢谢我的站哥",
+      "onboard_time": 1779259039,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 600251,
@@ -209,6 +265,22 @@
       "onboard_time": 1779208159,
       "rank": 10,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 567307,
+      "num": 567307,
+      "word": "普京访华欢迎仪式上的中国排面",
+      "onboard_time": 1779260300,
+      "rank": 13,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 564149,
+      "num": 564149,
+      "word": "喜婆婆凌晨5点到民政局帮儿媳排队",
+      "onboard_time": 1779258740,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 558501,
@@ -283,6 +355,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 452227,
+      "num": 452227,
+      "word": "颜颜哭着告白凯凯",
+      "onboard_time": 1779257481,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 435647,
       "num": 515868,
       "word": "易烊千玺深夜敲代码",
@@ -291,12 +371,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 426160,
+      "num": 426160,
+      "word": "女子疑患脚气光脚试鞋留白色碎屑",
+      "onboard_time": 1779260420,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 420655,
       "num": 238929,
       "word": "章晓梅章晓燕为婆媳关系非姐妹",
       "onboard_time": 1779204982,
       "rank": 15,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 406907,
+      "num": 406907,
+      "word": "我有一个很小众的恐惧点",
+      "onboard_time": 1779259160,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 393997,
+      "num": 864190,
+      "word": "普京说亲爱的朋友一日不见如隔三秋",
+      "onboard_time": 1779257001,
+      "rank": 1,
+      "category": "国内时政"
     },
     {
       "raw_hot": 393630,
@@ -371,12 +475,36 @@
       "category": "美妆,网红"
     },
     {
+      "raw_hot": 334963,
+      "num": 334963,
+      "word": "中俄元首会见记者",
+      "onboard_time": 1779255144,
+      "rank": 24,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 334846,
       "num": 438641,
       "word": "男性感染HPV后身体会有什么变化",
       "onboard_time": 1779243440,
       "rank": 47,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 331551,
+      "num": 331551,
+      "word": "明星红包",
+      "onboard_time": 1779259459,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 330672,
+      "num": 330672,
+      "word": "丁程鑫 我养猪杀你",
+      "onboard_time": 1779256941,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 326728,
@@ -409,6 +537,14 @@
       "onboard_time": 1779250341,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 318278,
+      "num": 646035,
+      "word": "人一旦有了考研的念头",
+      "onboard_time": 1779251181,
+      "rank": 43,
+      "category": "教育"
     },
     {
       "raw_hot": 292744,
@@ -459,6 +595,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 273980,
+      "num": 431231,
+      "word": "大裁员前夕Meta员工疯狂薅羊毛",
+      "onboard_time": 1779260481,
+      "rank": 19,
+      "category": "海外新闻,互联网"
+    },
+    {
+      "raw_hot": 271320,
+      "num": 565724,
+      "word": "麦当劳星星人玩具",
+      "onboard_time": 1779264380,
+      "rank": 14,
+      "category": "美食"
+    },
+    {
       "raw_hot": 266701,
       "num": 172170,
       "word": "5个不经意间摄入微塑料的习惯",
@@ -468,7 +620,7 @@
     },
     {
       "raw_hot": 265893,
-      "num": 396799,
+      "num": 616364,
       "word": "孙颖莎王楚钦混双搭档第九年",
       "onboard_time": 1779251302,
       "rank": 35,
@@ -491,6 +643,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 257494,
+      "num": 257494,
+      "word": "于娜退圈十年归来胖若两人",
+      "onboard_time": 1779265762,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 251302,
+      "num": 271457,
+      "word": "雷军回应小米YU7GT定价",
+      "onboard_time": 1779257960,
+      "rank": 28,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 248697,
       "num": 473247,
       "word": "查了金价后觉得男主更帅了",
@@ -505,6 +673,46 @@
       "onboard_time": 1779251362,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 247586,
+      "num": 632061,
+      "word": "孟子义苗苗一见如故",
+      "onboard_time": 1779258199,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 243134,
+      "num": 622953,
+      "word": "国产芯片好消息不断",
+      "onboard_time": 1779249501,
+      "rank": 45,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 242268,
+      "num": 242268,
+      "word": "贷款借给朋友50万父亲肺癌要回被怼",
+      "onboard_time": 1779255501,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 242085,
+      "num": 293838,
+      "word": "浪姐三天直播三场",
+      "onboard_time": 1779256700,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 240922,
+      "num": 240922,
+      "word": "恩恩小新亲了",
+      "onboard_time": 1779260001,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 239323,
@@ -579,14 +787,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 213110,
-      "num": 380999,
-      "word": "人一旦有了考研的念头",
-      "onboard_time": 1779251181,
-      "rank": 43,
-      "category": "教育"
-    },
-    {
       "raw_hot": 212770,
       "num": 557679,
       "word": "又一家日本车企暴雷",
@@ -601,6 +801,14 @@
       "onboard_time": 1779217394,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 210730,
+      "num": 210730,
+      "word": "喜笑颜凯",
+      "onboard_time": 1779255144,
+      "rank": 35,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 210291,
@@ -635,6 +843,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 200883,
+      "num": 200883,
+      "word": "女博士见被抢幼子孩子的手被栓住了",
+      "onboard_time": 1779263961,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 197620,
       "num": 239275,
       "word": "黄金直线跳水原因找到了",
@@ -667,6 +883,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 191014,
+      "num": 191014,
+      "word": "中方将引进200架波音飞机",
+      "onboard_time": 1779265461,
+      "rank": 41,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 187876,
+      "num": 187876,
+      "word": "杨紫家业收视率",
+      "onboard_time": 1779264501,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 181478,
       "num": 445615,
       "word": "浪姐歌手对打",
@@ -675,12 +907,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 179882,
+      "num": 179882,
+      "word": "王楚钦汪顺超浪漫海报",
+      "onboard_time": 1779254721,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 178095,
+      "num": 428144,
+      "word": "520明星发红包",
+      "onboard_time": 1779265100,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 173062,
       "num": 215565,
       "word": "白发重新变黑的方法",
       "onboard_time": 1779201743,
       "rank": 22,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 172219,
+      "num": 172219,
+      "word": "第一次觉得绿化这么重要",
+      "onboard_time": 1779263961,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 169627,
@@ -721,14 +977,6 @@
       "onboard_time": 1779201862,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 146644,
-      "num": 442412,
-      "word": "国产芯片好消息不断",
-      "onboard_time": 1779249501,
-      "rank": 45,
-      "category": "数码"
     },
     {
       "raw_hot": 137892,
@@ -819,6 +1067,14 @@
       "category": "艺人,作品衍生"
     },
     {
+      "raw_hot": 113454,
+      "num": 145711,
+      "word": "中俄多极世界联合声明",
+      "onboard_time": 1779260120,
+      "rank": 48,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 112985,
       "num": 389667,
       "word": "爱情有烟火520海报",
@@ -857,6 +1113,14 @@
       "onboard_time": 1779198441,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 103225,
+      "num": 613120,
+      "word": "黑袍纠察队",
+      "onboard_time": 1779263301,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 102410,
@@ -929,6 +1193,14 @@
       "onboard_time": 1779201982,
       "rank": 44,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 82696,
+      "num": 200967,
+      "word": "哈尔滨一双层巴士被高架桥削顶",
+      "onboard_time": 1779265341,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 81486,
@@ -1011,6 +1283,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 66073,
+      "num": 201236,
+      "word": "王濛用衣角撩李小冉",
+      "onboard_time": 1779265341,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 65652,
       "num": 65652,
       "word": "你一般每天刷牙几次",
@@ -1041,6 +1321,14 @@
       "onboard_time": 1779249620,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 58810,
+      "num": 200913,
+      "word": "赛里木湖挤满上千对来领证的新人",
+      "onboard_time": 1779264501,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 57483,
@@ -1099,6 +1387,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 46359,
+      "num": 144609,
+      "word": "旅游党手机多大的电池才够用",
+      "onboard_time": 1779265401,
+      "rank": 49,
+      "category": "数码"
+    },
+    {
       "raw_hot": 45395,
       "num": 455728,
       "word": "520民政局门口四点半开始排队",
@@ -1123,6 +1419,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 44672,
+      "num": 674141,
+      "word": "一曲莫斯科郊外的晚上欢迎普京",
+      "onboard_time": 1779265822,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 41375,
       "num": 62021,
       "word": "无畏老乡杯上场",
@@ -1137,6 +1441,14 @@
       "onboard_time": 1779210018,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 32663,
+      "num": 158236,
+      "word": "小白狗是懂李小冉的美的",
+      "onboard_time": 1779261081,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 31481,
@@ -1233,6 +1545,9 @@
     },
     {
       "word": "#中俄元首会晤何以全球瞩目#"
+    },
+    {
+      "word": "#习近平用三句诗喻中俄关系#"
     }
   ]
 }
