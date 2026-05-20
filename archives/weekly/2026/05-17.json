@@ -1,6 +1,6 @@
 {
   "startTime": 1778951228781,
-  "endTime": 1779278931937,
+  "endTime": 1779291518619,
   "band_list": [
     {
       "raw_hot": 17984788,
@@ -123,6 +123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2843496,
+      "num": 412933,
+      "word": "颜颜回复凯凯",
+      "onboard_time": 1779289341,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2773191,
       "num": 2773191,
       "word": "特朗普连发15张图分享中国记忆",
@@ -137,6 +145,14 @@
       "onboard_time": 1779277280,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2488883,
+      "num": 2488883,
+      "word": "普京结束访华",
+      "onboard_time": 1779287002,
+      "rank": 0,
+      "category": "国际时政"
     },
     {
       "raw_hot": 2449407,
@@ -252,7 +268,7 @@
     },
     {
       "raw_hot": 1900988,
-      "num": 622551,
+      "num": 949986,
       "word": "为什么520朋友圈秀恩爱的变少了",
       "onboard_time": 1779277280,
       "rank": 5,
@@ -265,6 +281,14 @@
       "onboard_time": 1779025283,
       "rank": 21,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1871511,
+      "num": 412830,
+      "word": "鹿晗马鹿合照",
+      "onboard_time": 1779289222,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 1858231,
@@ -529,6 +553,14 @@
       "onboard_time": 1779262101,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1144658,
+      "num": 326515,
+      "word": "凯凯回应",
+      "onboard_time": 1779283761,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 1142833,
@@ -803,6 +835,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 908703,
+      "num": 908703,
+      "word": "未开封的饮料都可以偷梁换柱",
+      "onboard_time": 1779280641,
+      "rank": 4,
+      "category": "情感"
+    },
+    {
       "raw_hot": 905684,
       "num": 509788,
       "word": "毛巾少爷道歉",
@@ -985,6 +1025,22 @@
       "onboard_time": 1778946561,
       "rank": 1,
       "category": "电影"
+    },
+    {
+      "raw_hot": 795002,
+      "num": 1043754,
+      "word": "抖音封了打焦赞直播间",
+      "onboard_time": 1779280882,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 781549,
+      "num": 393777,
+      "word": "宋威龙手动打码",
+      "onboard_time": 1779285262,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 781407,
@@ -1771,6 +1827,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 512768,
+      "num": 512768,
+      "word": "胡海泉被歌手淘汰",
+      "onboard_time": 1779286043,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 499122,
+      "num": 302432,
+      "word": "粥文be",
+      "onboard_time": 1779280042,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 498394,
       "num": 693127,
       "word": "男子拒绝广州调岗山东被炒获赔50万",
@@ -1883,12 +1955,36 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 460880,
+      "num": 460880,
+      "word": "小鹏GX价格炸裂",
+      "onboard_time": 1779286463,
+      "rank": 6,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 459775,
+      "num": 459775,
+      "word": "中俄两国联合声明",
+      "onboard_time": 1779290002,
+      "rank": 7,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 458389,
       "num": 254841,
       "word": "监狱来的妈妈女主多平台账号被禁",
       "onboard_time": 1779098840,
       "rank": 41,
       "category": "电影"
+    },
+    {
+      "raw_hot": 455668,
+      "num": 455668,
+      "word": "别笑张碧晨也要毕业答辩",
+      "onboard_time": 1779287181,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 453755,
@@ -1929,6 +2025,14 @@
       "onboard_time": 1779257481,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 449031,
+      "num": 316075,
+      "word": "谢依霖谈丈夫重病与事业暂停",
+      "onboard_time": 1779285021,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 447737,
@@ -2083,6 +2187,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 412033,
+      "num": 412033,
+      "word": "普京离京",
+      "onboard_time": 1779287362,
+      "rank": 12,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 411105,
       "num": 411105,
       "word": "小朋友的世界是没有退路的",
@@ -2153,6 +2265,14 @@
       "onboard_time": 1779170660,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 401565,
+      "num": 309206,
+      "word": "女子刮大腿疏通胆经像刨木头",
+      "onboard_time": 1779285562,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 400201,
@@ -2465,6 +2585,14 @@
       "onboard_time": 1779247523,
       "rank": 16,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 351251,
+      "num": 351251,
+      "word": "翻倍牛股一字涨停",
+      "onboard_time": 1779285202,
+      "rank": 16,
+      "category": "财经"
     },
     {
       "raw_hot": 344991,
@@ -2955,6 +3083,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 293210,
+      "num": 293210,
+      "word": "iPhone情侣设置",
+      "onboard_time": 1779279021,
+      "rank": 25,
+      "category": "数码"
+    },
+    {
       "raw_hot": 292471,
       "num": 649055,
       "word": "央视追踪四川大摆荡坠亡事件",
@@ -3115,6 +3251,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 276744,
+      "num": 276744,
+      "word": "抖音副总裁谈主角营销争议",
+      "onboard_time": 1779284182,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 275862,
       "num": 481804,
       "word": "哈登失误",
@@ -3233,6 +3377,14 @@
       "onboard_time": 1779025822,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 266068,
+      "num": 266068,
+      "word": "有种痛苦叫邻居买大车",
+      "onboard_time": 1779286823,
+      "rank": 33,
+      "category": "汽车"
     },
     {
       "raw_hot": 265893,
@@ -3577,6 +3729,14 @@
       "onboard_time": 1779170601,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 238763,
+      "num": 341863,
+      "word": "深圳暴雨",
+      "onboard_time": 1779282501,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 238331,
@@ -3955,6 +4115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 214020,
+      "num": 330886,
+      "word": "官方通报泡药杨梅",
+      "onboard_time": 1779287362,
+      "rank": 19,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 212770,
       "num": 557679,
       "word": "又一家日本车企暴雷",
@@ -4059,6 +4227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 208007,
+      "num": 208007,
+      "word": "肖战出发参加亚洲艺术电影节",
+      "onboard_time": 1779279021,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 207771,
       "num": 207771,
       "word": "丈夫蒙面抢走儿子女子称可以不离婚",
@@ -4097,6 +4273,22 @@
       "onboard_time": 1779015919,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 204857,
+      "num": 204857,
+      "word": "淑柔扮演者回应为何不进演艺圈",
+      "onboard_time": 1779289762,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 204612,
+      "num": 204612,
+      "word": "孙浩演技 最佳男配",
+      "onboard_time": 1779288502,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 204553,
@@ -4427,6 +4619,14 @@
       "category": "民生新闻,财经"
     },
     {
+      "raw_hot": 184063,
+      "num": 276966,
+      "word": "杨梅滞留树上70岁奶奶崩溃哭",
+      "onboard_time": 1779288743,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 183468,
       "num": 183468,
       "word": "拿婴儿形象擦边泄愤击穿伦理底线",
@@ -4465,6 +4665,14 @@
       "onboard_time": 1779190281,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 180336,
+      "num": 180336,
+      "word": "醉酒女钻进锅炉房重度烧伤后中毒身亡",
+      "onboard_time": 1779280220,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 180323,
@@ -4641,6 +4849,14 @@
       "onboard_time": 1778991379,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 173105,
+      "num": 173105,
+      "word": "宋亚轩提及作品你好吗",
+      "onboard_time": 1779288025,
+      "rank": 43,
+      "category": "电影"
     },
     {
       "raw_hot": 173102,
@@ -4859,6 +5075,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 163644,
+      "num": 163644,
+      "word": "杨幂真的会接住谢依霖",
+      "onboard_time": 1779281901,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 162939,
       "num": 162939,
       "word": "用柳州地震营销的蛋糕店道歉",
@@ -4889,6 +5113,14 @@
       "onboard_time": 1779181281,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 161370,
+      "num": 161370,
+      "word": "被普京抱过的男孩回应年龄像50多岁",
+      "onboard_time": 1779289762,
+      "rank": 45,
+      "category": "国际时政"
     },
     {
       "raw_hot": 160424,
@@ -4987,6 +5219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 153148,
+      "num": 153148,
+      "word": "白鹿520给粉丝准备了花",
+      "onboard_time": 1779284663,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 152699,
       "num": 169031,
       "word": "良陈美锦",
@@ -5083,6 +5323,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 146606,
+      "num": 413058,
+      "word": "EWC电竞世俱杯",
+      "onboard_time": 1779286762,
+      "rank": 9,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 145716,
+      "num": 276788,
+      "word": "北京男篮vs上海男篮",
+      "onboard_time": 1779284721,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 145513,
       "num": 145513,
       "word": "中俄达成其他领域20项合作文件",
@@ -5105,6 +5361,14 @@
       "onboard_time": 1779081681,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 143407,
+      "num": 143407,
+      "word": "中俄元首茶叙",
+      "onboard_time": 1779281422,
+      "rank": 47,
+      "category": "国际时政"
     },
     {
       "raw_hot": 143045,
@@ -5139,6 +5403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 140109,
+      "num": 140109,
+      "word": "倒过来看才看明白那些云是石头",
+      "onboard_time": 1779284061,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 140096,
       "num": 239963,
       "word": "下身瘫痪女子育女后丈夫消失7年",
@@ -5153,6 +5425,14 @@
       "onboard_time": 1779162019,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 139503,
+      "num": 204660,
+      "word": "C罗晒个人世界杯海报",
+      "onboard_time": 1779290182,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 139411,
@@ -6579,6 +6859,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 56588,
+      "num": 950665,
+      "word": "中俄元首会谈现场都有谁",
+      "onboard_time": 1779286463,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 56244,
       "num": 56244,
       "word": "伯恩茅斯1比1曼城",
@@ -7419,6 +7707,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 21234,
+      "num": 274890,
+      "word": "普京离京对送行人群微笑点头致意",
+      "onboard_time": 1779291441,
+      "rank": 31,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 21010,
       "num": 334170,
       "word": "已经到了哪边都能理解的年纪",
@@ -7449,6 +7745,14 @@
       "onboard_time": 1779024080,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 18836,
+      "num": 187321,
+      "word": "家属讲述26年前普京抱中国男孩细节",
+      "onboard_time": 1779291081,
+      "rank": 41,
+      "category": "国内时政"
     },
     {
       "raw_hot": 18273,
@@ -7701,6 +8005,9 @@
     },
     {
       "word": "#习近平用三句诗喻中俄关系#"
+    },
+    {
+      "word": "#中俄关系迈上新起点#"
     }
   ]
 }
