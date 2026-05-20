@@ -1,6 +1,6 @@
 {
   "startTime": 1778951228781,
-  "endTime": 1779317572943,
+  "endTime": 1779319233071,
   "band_list": [
     {
       "raw_hot": 17984788,
@@ -1636,7 +1636,7 @@
     },
     {
       "raw_hot": 561462,
-      "num": 561462,
+      "num": 777000,
       "word": "中俄两国联合声明",
       "onboard_time": 1779290002,
       "rank": 7,
@@ -1729,6 +1729,14 @@
       "onboard_time": 1779035899,
       "rank": 4,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 533789,
+      "num": 572111,
+      "word": "小学网购45把伞用后全损退回",
+      "onboard_time": 1779292640,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 531307,
@@ -2091,6 +2099,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 438969,
+      "num": 208032,
+      "word": "律师谈女教师劝架被学生划伤眼球",
+      "onboard_time": 1779312493,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 435647,
       "num": 515868,
       "word": "易烊千玺深夜敲代码",
@@ -2113,6 +2129,14 @@
       "onboard_time": 1779114803,
       "rank": 33,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 431807,
+      "num": 431807,
+      "word": "抖音禁止录播伪装为直播",
+      "onboard_time": 1779297619,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 430777,
@@ -2595,6 +2619,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 345784,
+      "num": 345784,
+      "word": "讨好型人格建议反复阅读",
+      "onboard_time": 1779302715,
+      "rank": 6,
+      "category": "情感"
+    },
+    {
       "raw_hot": 344991,
       "num": 449111,
       "word": "豆包没有身份证说话就是狠",
@@ -2705,14 +2737,6 @@
       "onboard_time": 1779243440,
       "rank": 47,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 334577,
-      "num": 410770,
-      "word": "小学网购45把伞用后全损退回",
-      "onboard_time": 1779292640,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 332575,
@@ -2851,14 +2875,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 316185,
-      "num": 316185,
-      "word": "抖音禁止录播伪装为直播",
-      "onboard_time": 1779297619,
-      "rank": 3,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 314678,
       "num": 267768,
       "word": "水果含糖量刺客",
@@ -2913,6 +2929,14 @@
       "onboard_time": 1779080960,
       "rank": 46,
       "category": "财经"
+    },
+    {
+      "raw_hot": 309496,
+      "num": 207280,
+      "word": "小满",
+      "onboard_time": 1779318918,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 308498,
@@ -3243,14 +3267,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 280678,
-      "num": 125251,
-      "word": "律师谈女教师劝架被学生划伤眼球",
-      "onboard_time": 1779312493,
-      "rank": 10,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 280605,
       "num": 246382,
       "word": "田栩宁戛纳红毯首秀",
@@ -3497,14 +3513,6 @@
       "onboard_time": 1779165502,
       "rank": 37,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 258711,
-      "num": 258711,
-      "word": "讨好型人格建议反复阅读",
-      "onboard_time": 1779302715,
-      "rank": 6,
-      "category": "情感"
     },
     {
       "raw_hot": 258254,
@@ -3761,6 +3769,14 @@
       "onboard_time": 1779002000,
       "rank": 26,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 240519,
+      "num": 205180,
+      "word": "倒过来看才看明白那些云是石头",
+      "onboard_time": 1779284061,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 239864,
@@ -4387,6 +4403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 202391,
+      "num": 206209,
+      "word": "尚公主",
+      "onboard_time": 1779306254,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 201640,
       "num": 201640,
       "word": "算力价格",
@@ -4987,6 +5011,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 169921,
+      "num": 200524,
+      "word": "建议所有成年人都查一次脂蛋白A",
+      "onboard_time": 1779316756,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 169627,
       "num": 169627,
       "word": "U17国足2比0澳大利亚U17",
@@ -5241,14 +5273,6 @@
       "onboard_time": 1779089840,
       "rank": 35,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 156804,
-      "num": 156804,
-      "word": "倒过来看才看明白那些云是石头",
-      "onboard_time": 1779284061,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 156324,
@@ -5691,6 +5715,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 128406,
+      "num": 193731,
+      "word": "奔驰车主2次调整故意碾压猫咪",
+      "onboard_time": 1779295399,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 127911,
       "num": 127911,
       "word": "C罗状态",
@@ -5745,14 +5777,6 @@
       "onboard_time": 1779061098,
       "rank": 39,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 123453,
-      "num": 123453,
-      "word": "尚公主",
-      "onboard_time": 1779306254,
-      "rank": 3,
-      "category": "剧集"
     },
     {
       "raw_hot": 123074,
@@ -5841,6 +5865,14 @@
       "onboard_time": 1779287542,
       "rank": 44,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 117986,
+      "num": 199667,
+      "word": "碳水脸是对碳水的污名化",
+      "onboard_time": 1779318017,
+      "rank": 18,
+      "category": "健康医疗,民生新闻"
     },
     {
       "raw_hot": 117866,
@@ -5969,14 +6001,6 @@
       "onboard_time": 1779251362,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 111798,
-      "num": 111798,
-      "word": "奔驰车主2次调整故意碾压猫咪",
-      "onboard_time": 1779295399,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 110651,
@@ -6147,6 +6171,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 100258,
+      "num": 186717,
+      "word": "前女友直播锤李嘉凯",
+      "onboard_time": 1779318677,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 99129,
       "num": 346177,
       "word": "委内瑞拉驱逐马杜罗亲信",
@@ -6292,7 +6324,7 @@
     },
     {
       "raw_hot": 89798,
-      "num": 89798,
+      "num": 177557,
       "word": "亚洲艺术电影节",
       "onboard_time": 1779310754,
       "rank": 34,
@@ -6377,6 +6409,14 @@
       "onboard_time": 1779251122,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 87092,
+      "num": 274890,
+      "word": "普京离京对送行人群微笑点头致意",
+      "onboard_time": 1779291441,
+      "rank": 31,
+      "category": "国际时政"
     },
     {
       "raw_hot": 87052,
@@ -6531,6 +6571,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 81353,
+      "num": 182554,
+      "word": "刘宇宁说我的身材很曼妙",
+      "onboard_time": 1779304394,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 81082,
       "num": 331645,
       "word": "新华社新媒体直播实测小鹏第二代VLA",
@@ -6643,20 +6691,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 74241,
-      "num": 274890,
-      "word": "普京离京对送行人群微笑点头致意",
-      "onboard_time": 1779291441,
-      "rank": 31,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 73550,
       "num": 73550,
       "word": "陈浚铭生周",
       "onboard_time": 1778976678,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 72620,
+      "num": 178737,
+      "word": "杨梅果农的生路不该靠消费者的同情",
+      "onboard_time": 1779306373,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 72611,
@@ -6667,20 +6715,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 71483,
+      "num": 187604,
+      "word": "张雪机车64号选手获车迷刷屏力挺",
+      "onboard_time": 1779296177,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 70932,
       "num": 70932,
       "word": "被马龙王楚钦薪火相传感动了",
       "onboard_time": 1779209178,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 70879,
-      "num": 70879,
-      "word": "建议所有成年人都查一次脂蛋白A",
-      "onboard_time": 1779316756,
-      "rank": 21,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 70792,
@@ -6923,6 +6971,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 61494,
+      "num": 175776,
+      "word": "一种很新的道歉方式",
+      "onboard_time": 1779281781,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 59946,
       "num": 109175,
       "word": "商场举办偷吃大赛被抓罚站30秒",
@@ -7041,14 +7097,6 @@
       "onboard_time": 1778942841,
       "rank": 49,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 53774,
-      "num": 49397,
-      "word": "杨梅果农的生路不该靠消费者的同情",
-      "onboard_time": 1779306373,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 53719,
@@ -7172,7 +7220,7 @@
     },
     {
       "raw_hot": 49454,
-      "num": 49454,
+      "num": 170464,
       "word": "国际足联官宣世界杯全新单曲",
       "onboard_time": 1779302174,
       "rank": 47,
@@ -7209,6 +7257,14 @@
       "onboard_time": 1778973196,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 48393,
+      "num": 168926,
+      "word": "福建漳州追回问题杨梅540公斤",
+      "onboard_time": 1779312674,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 48307,
@@ -7331,14 +7387,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 43922,
-      "num": 43922,
-      "word": "刘宇宁说我的身材很曼妙",
-      "onboard_time": 1779304394,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 43783,
       "num": 71707,
       "word": "柳州酒店住客逃出避险不敢入内",
@@ -7361,14 +7409,6 @@
       "onboard_time": 1779025161,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 42140,
-      "num": 48718,
-      "word": "一种很新的道歉方式",
-      "onboard_time": 1779281781,
-      "rank": 42,
-      "category": "幽默"
     },
     {
       "raw_hot": 41873,
@@ -7443,12 +7483,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 39861,
-      "num": 48255,
-      "word": "张雪机车64号选手获车迷刷屏力挺",
-      "onboard_time": 1779296177,
-      "rank": 45,
-      "category": "体育"
+      "raw_hot": 39047,
+      "num": 198987,
+      "word": "suv买6座还是买7座",
+      "onboard_time": 1779318017,
+      "rank": 19,
+      "category": "汽车"
     },
     {
       "raw_hot": 38817,
@@ -7553,14 +7593,6 @@
       "onboard_time": 1779077420,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 34754,
-      "num": 34754,
-      "word": "福建漳州追回问题杨梅540公斤",
-      "onboard_time": 1779312674,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 34006,
@@ -7705,6 +7737,14 @@
       "onboard_time": 1778990479,
       "rank": 38,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 29772,
+      "num": 209556,
+      "word": "CBA",
+      "onboard_time": 1779286583,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 29527,
@@ -8137,6 +8177,14 @@
       "onboard_time": 1779249682,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 7093,
+      "num": 208718,
+      "word": "阴阳师手游十周年庆典",
+      "onboard_time": 1779319097,
+      "rank": 9,
+      "category": "游戏"
     },
     {
       "raw_hot": 6870,
