@@ -1,0 +1,410 @@
+{
+  "runTime": 1779278931937,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 758241,
+        "num": 1121318,
+        "word": "普京欢迎宴会",
+        "onboard_time": 1779276261,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 651700,
+        "num": 815876,
+        "word": "普京与26年前抱过的中国男孩见面了",
+        "onboard_time": 1779274041,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 88173,
+        "num": 644513,
+        "word": "一曲莫斯科郊外的晚上欢迎普京",
+        "onboard_time": 1779265822,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1900988,
+        "num": 622551,
+        "word": "为什么520朋友圈秀恩爱的变少了",
+        "onboard_time": 1779277280,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 773546,
+        "num": 504006,
+        "word": "张凌赫回复丁程鑫",
+        "onboard_time": 1779276142,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 371501,
+        "num": 371501,
+        "word": "这么隐晦的暗恋方式",
+        "onboard_time": 1779267261,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 358483,
+        "num": 358483,
+        "word": "普京访华欢迎仪式上的中国排面",
+        "onboard_time": 1779260300,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 316055,
+        "num": 316055,
+        "word": "豆包没有身份证说话就是狠",
+        "onboard_time": 1779266661,
+        "rank": 7,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 267123,
+        "num": 267123,
+        "word": "十个勤天巡演官宣",
+        "onboard_time": 1779273680,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 132072,
+        "num": 265985,
+        "word": "芯片龙头股价大涨",
+        "onboard_time": 1779272962,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 2638208,
+        "num": 263716,
+        "word": "颜颜凯凯没在一起",
+        "onboard_time": 1779277280,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2004750,
+        "num": 258719,
+        "word": "陈赫在综艺发火了",
+        "onboard_time": 1779271822,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 757209,
+        "num": 257009,
+        "word": "被戳伤眼球女教师希望处分涉事女生",
+        "onboard_time": 1779275781,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132258,
+        "num": 253219,
+        "word": "汉娜高达采访谈孙颖莎",
+        "onboard_time": 1779275781,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 83283,
+        "num": 252451,
+        "word": "iQOO15T新品发布",
+        "onboard_time": 1779276921,
+        "rank": 14,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 484303,
+        "num": 249981,
+        "word": "阳朔一米粉店本地人7元游客13元",
+        "onboard_time": 1779275061,
+        "rank": 15,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 315899,
+        "num": 247172,
+        "word": "中方将引进200架波音飞机",
+        "onboard_time": 1779265461,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 244542,
+        "num": 244542,
+        "word": "武契奇将对中国进行国事访问",
+        "onboard_time": 1779262041,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 130077,
+        "num": 226595,
+        "word": "韩东君把家业官博整疯了",
+        "onboard_time": 1779278480,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 226198,
+        "num": 226198,
+        "word": "易青娥二公",
+        "onboard_time": 1779278480,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 584866,
+        "num": 225656,
+        "word": "杨梅协会会长恳求消费者给果农生路",
+        "onboard_time": 1779267800,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1229724,
+        "num": 224701,
+        "word": "李多海怀孕",
+        "onboard_time": 1779272361,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1017214,
+        "num": 224195,
+        "word": "主角热度 反抖音营销第一枪",
+        "onboard_time": 1779275121,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 204036,
+        "num": 223392,
+        "word": "五子棋下成二维码了",
+        "onboard_time": 1779271340,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 954454,
+        "num": 222843,
+        "word": "王一菲与嘉行解约",
+        "onboard_time": 1779276921,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176135,
+        "num": 221754,
+        "word": "小米YU7代言人",
+        "onboard_time": 1779275240,
+        "rank": 25,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 659283,
+        "num": 220910,
+        "word": "于娜退圈十年归来胖若两人",
+        "onboard_time": 1779265762,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 26345,
+        "num": 219756,
+        "word": "张雪夺冠了才想起欠她一束玫瑰",
+        "onboard_time": 1779278721,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 144670,
+        "num": 219227,
+        "word": "小鹏GX发布会",
+        "onboard_time": 1779275240,
+        "rank": 28,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 495569,
+        "num": 218139,
+        "word": "金莎孙丞潇婚纱照",
+        "onboard_time": 1779272660,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 395002,
+        "num": 217229,
+        "word": "颜凯be",
+        "onboard_time": 1779277880,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 191479,
+        "num": 216715,
+        "word": "普京访华欢迎宴会",
+        "onboard_time": 1779276142,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 340202,
+        "num": 215885,
+        "word": "李晨红包",
+        "onboard_time": 1779275420,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 275186,
+        "num": 215101,
+        "word": "丁程鑫看的是正经逐玉吗",
+        "onboard_time": 1779269480,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123664,
+        "num": 213935,
+        "word": "麦当劳星星人玩具",
+        "onboard_time": 1779264380,
+        "rank": 34,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 236395,
+        "num": 213530,
+        "word": "喜笑颜凯",
+        "onboard_time": 1779255144,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 213021,
+        "num": 213021,
+        "word": "何润东商务 有人莫名其妙就发财了",
+        "onboard_time": 1779262580,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123074,
+        "num": 212539,
+        "word": "尼泊尔大象被虐事件引中国网友不满",
+        "onboard_time": 1779276921,
+        "rank": 37,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 90477,
+        "num": 212175,
+        "word": "寿司郎被罚后仍拒洗净餐具",
+        "onboard_time": 1779277041,
+        "rank": 38,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 22241,
+        "num": 210943,
+        "word": "主角演到我麻筋上了",
+        "onboard_time": 1779278480,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 30342,
+        "num": 210339,
+        "word": "乌漆麻嘿一口嘿化",
+        "onboard_time": 1779275301,
+        "rank": 40,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 209810,
+        "num": 209810,
+        "word": "打开朋友圈误入玻璃厂",
+        "onboard_time": 1779265940,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 201805,
+        "num": 205979,
+        "word": "主角",
+        "onboard_time": 1779274581,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122102,
+        "num": 204922,
+        "word": "清弦cos大乔花嫁",
+        "onboard_time": 1779272421,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 204779,
+        "num": 204779,
+        "word": "明星红包",
+        "onboard_time": 1779259459,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 41873,
+        "num": 204320,
+        "word": "京东20城线下比价直播最高赔10万",
+        "onboard_time": 1779278901,
+        "rank": 45,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 204223,
+        "num": 204223,
+        "word": "张凌赫把金靖放在C位",
+        "onboard_time": 1779254902,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189088,
+        "num": 189088,
+        "word": "给阿嬷的情书 导演预判",
+        "onboard_time": 1779272601,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 121086,
+        "num": 168236,
+        "word": "普京说了一句中国古语",
+        "onboard_time": 1779277761,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 163682,
+        "num": 163682,
+        "word": "王橹杰520语音",
+        "onboard_time": 1779277041,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平用三句诗喻中俄关系#"
+    }
+  }
+}

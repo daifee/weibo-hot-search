@@ -1,6 +1,6 @@
 {
   "startTime": 1777565126834,
-  "endTime": 1779278069610,
+  "endTime": 1779278931937,
   "band_list": [
     {
       "raw_hot": 25375641,
@@ -811,6 +811,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2638208,
+      "num": 426819,
+      "word": "颜颜凯凯没在一起",
+      "onboard_time": 1779277280,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2619846,
       "num": 2619846,
       "word": "空军一号轰鸣而过中国军人纹丝不动",
@@ -1323,6 +1331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2004750,
+      "num": 442560,
+      "word": "陈赫在综艺发火了",
+      "onboard_time": 1779271822,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2000797,
       "num": 2000797,
       "word": "方媛坚持要住男生单人间",
@@ -1433,6 +1449,14 @@
       "onboard_time": 1777970900,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1900988,
+      "num": 622551,
+      "word": "为什么520朋友圈秀恩爱的变少了",
+      "onboard_time": 1779277280,
+      "rank": 5,
+      "category": "情感"
     },
     {
       "raw_hot": 1893593,
@@ -1665,14 +1689,6 @@
       "onboard_time": 1778646139,
       "rank": 23,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1728702,
-      "num": 442560,
-      "word": "陈赫在综艺发火了",
-      "onboard_time": 1779271822,
-      "rank": 10,
-      "category": "综艺"
     },
     {
       "raw_hot": 1725493,
@@ -2835,14 +2851,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1264560,
-      "num": 426819,
-      "word": "颜颜凯凯没在一起",
-      "onboard_time": 1779277280,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1260830,
       "num": 1260830,
       "word": "女孩退礼服事件合唱团称受牵连",
@@ -3763,6 +3771,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 1017214,
+      "num": 441928,
+      "word": "主角热度 反抖音营销第一枪",
+      "onboard_time": 1779275121,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1016769,
       "num": 1016769,
       "word": "浏阳爆炸烟花厂内部画面",
@@ -3817,14 +3833,6 @@
       "onboard_time": 1778597181,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1003514,
-      "num": 441928,
-      "word": "主角热度 反抖音营销第一枪",
-      "onboard_time": 1779275121,
-      "rank": 11,
-      "category": "剧集"
     },
     {
       "raw_hot": 1003049,
@@ -4161,6 +4169,14 @@
       "onboard_time": 1778748623,
       "rank": 5,
       "category": "电影"
+    },
+    {
+      "raw_hot": 954454,
+      "num": 435662,
+      "word": "王一菲与嘉行解约",
+      "onboard_time": 1779276921,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 954271,
@@ -4980,7 +4996,7 @@
     },
     {
       "raw_hot": 841065,
-      "num": 439460,
+      "num": 504006,
       "word": "张凌赫回复丁程鑫",
       "onboard_time": 1779276142,
       "rank": 13,
@@ -5857,6 +5873,22 @@
       "onboard_time": 1778331320,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 758241,
+      "num": 1121318,
+      "word": "普京欢迎宴会",
+      "onboard_time": 1779276261,
+      "rank": 1,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 757209,
+      "num": 317087,
+      "word": "被戳伤眼球女教师希望处分涉事女生",
+      "onboard_time": 1779275781,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 756422,
@@ -7219,6 +7251,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 651700,
+      "num": 1084816,
+      "word": "普京与26年前抱过的中国男孩见面了",
+      "onboard_time": 1779274041,
+      "rank": 0,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 651420,
       "num": 651420,
       "word": "越来越理解什么叫事缓则圆",
@@ -8443,14 +8483,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 574317,
-      "num": 435662,
-      "word": "王一菲与嘉行解约",
-      "onboard_time": 1779276921,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 572346,
       "num": 572346,
       "word": "Tian闹剧结束了",
@@ -9267,14 +9299,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 530102,
-      "num": 1084816,
-      "word": "普京与26年前抱过的中国男孩见面了",
-      "onboard_time": 1779274041,
-      "rank": 0,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 529923,
       "num": 329513,
       "word": "女孩演出完退礼服被商家曝光",
@@ -9585,14 +9609,6 @@
       "onboard_time": 1778138060,
       "rank": 19,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 518414,
-      "num": 518414,
-      "word": "为什么520朋友圈秀恩爱的变少了",
-      "onboard_time": 1779277280,
-      "rank": 5,
-      "category": "情感"
     },
     {
       "raw_hot": 518404,
@@ -10121,14 +10137,6 @@
       "onboard_time": 1778921480,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 493029,
-      "num": 812915,
-      "word": "普京欢迎宴会",
-      "onboard_time": 1779276261,
-      "rank": 1,
-      "category": "国际时政"
     },
     {
       "raw_hot": 492208,
@@ -12579,6 +12587,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 395002,
+      "num": 298803,
+      "word": "颜凯be",
+      "onboard_time": 1779277880,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 394605,
       "num": 394605,
       "word": "分析师称苹果降价是阳谋",
@@ -14723,14 +14739,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 333801,
-      "num": 298803,
-      "word": "颜凯be",
-      "onboard_time": 1779277880,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 333764,
       "num": 333764,
       "word": "痞幼脱鞋与毛巾二叔合照",
@@ -15456,14 +15464,6 @@
       "word": "37岁女主持人患癌去世朋友发声",
       "onboard_time": 1777777460,
       "rank": 11,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 317087,
-      "num": 317087,
-      "word": "被戳伤眼球女教师希望处分涉事女生",
-      "onboard_time": 1779275781,
-      "rank": 26,
       "category": "民生新闻"
     },
     {
@@ -17819,6 +17819,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 267123,
+      "num": 267123,
+      "word": "十个勤天巡演官宣",
+      "onboard_time": 1779273680,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
       "raw_hot": 266988,
       "num": 266988,
       "word": "宋亚轩你好吗 端午档",
@@ -18937,14 +18945,6 @@
       "onboard_time": 1778821582,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 248925,
-      "num": 248925,
-      "word": "十个勤天巡演官宣",
-      "onboard_time": 1779273680,
-      "rank": 40,
-      "category": "演出"
     },
     {
       "raw_hot": 248918,
@@ -20569,6 +20569,14 @@
       "onboard_time": 1777843514,
       "rank": 31,
       "category": "演出"
+    },
+    {
+      "raw_hot": 226198,
+      "num": 226198,
+      "word": "易青娥二公",
+      "onboard_time": 1779278480,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 226173,
@@ -23707,6 +23715,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 189088,
+      "num": 445085,
+      "word": "给阿嬷的情书 导演预判",
+      "onboard_time": 1779272601,
+      "rank": 8,
+      "category": "电影"
+    },
+    {
       "raw_hot": 188825,
       "num": 234046,
       "word": "狩谎",
@@ -24289,14 +24305,6 @@
       "onboard_time": 1778926221,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 181676,
-      "num": 445085,
-      "word": "给阿嬷的情书 导演预判",
-      "onboard_time": 1779272601,
-      "rank": 8,
-      "category": "电影"
     },
     {
       "raw_hot": 181657,
@@ -24883,6 +24891,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 176135,
+      "num": 427859,
+      "word": "小米YU7代言人",
+      "onboard_time": 1779275240,
+      "rank": 23,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 175959,
       "num": 175959,
       "word": "曾沛慈团三公小考第一",
@@ -25465,14 +25481,6 @@
       "onboard_time": 1779191241,
       "rank": 42,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 171949,
-      "num": 427859,
-      "word": "小米YU7代言人",
-      "onboard_time": 1779275240,
-      "rank": 23,
-      "category": "汽车"
     },
     {
       "raw_hot": 171841,
@@ -29171,12 +29179,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 132258,
+      "num": 311474,
+      "word": "汉娜高达采访谈孙颖莎",
+      "onboard_time": 1779275781,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 132215,
       "num": 132215,
       "word": "王橹杰黑白变装",
       "onboard_time": 1778844380,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 132072,
+      "num": 313098,
+      "word": "芯片龙头股价大涨",
+      "onboard_time": 1779272962,
+      "rank": 28,
+      "category": "财经"
     },
     {
       "raw_hot": 131755,
@@ -29411,6 +29435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 130077,
+      "num": 226595,
+      "word": "韩东君把家业官博整疯了",
+      "onboard_time": 1779278480,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 130061,
       "num": 264587,
       "word": "一个烧饼做成40多亿跨国产业",
@@ -29481,14 +29513,6 @@
       "onboard_time": 1779076099,
       "rank": 18,
       "category": "情感"
-    },
-    {
-      "raw_hot": 129228,
-      "num": 313098,
-      "word": "芯片龙头股价大涨",
-      "onboard_time": 1779272962,
-      "rank": 28,
-      "category": "财经"
     },
     {
       "raw_hot": 129211,
@@ -30059,6 +30083,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 123074,
+      "num": 429423,
+      "word": "尼泊尔大象被虐事件引中国网友不满",
+      "onboard_time": 1779276921,
+      "rank": 21,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 123027,
       "num": 169725,
       "word": "裁判向孙颖莎行绅士礼",
@@ -30179,6 +30211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 122102,
+      "num": 204922,
+      "word": "清弦cos大乔花嫁",
+      "onboard_time": 1779272421,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 122055,
       "num": 336734,
       "word": "日本男团2比3法国",
@@ -30271,14 +30311,6 @@
       "num": 299567,
       "word": "张本智和一单两分",
       "onboard_time": 1778168841,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 121574,
-      "num": 311474,
-      "word": "汉娜高达采访谈孙颖莎",
-      "onboard_time": 1779275781,
       "rank": 29,
       "category": "体育"
     },
@@ -32273,14 +32305,6 @@
       "onboard_time": 1778316861,
       "rank": 49,
       "category": "财经"
-    },
-    {
-      "raw_hot": 94225,
-      "num": 429423,
-      "word": "尼泊尔大象被虐事件引中国网友不满",
-      "onboard_time": 1779276921,
-      "rank": 21,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 94112,
@@ -36323,6 +36347,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 41873,
+      "num": 204320,
+      "word": "京东20城线下比价直播最高赔10万",
+      "onboard_time": 1779278901,
+      "rank": 45,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 41847,
       "num": 185174,
       "word": "浪姐三公出场顺序",
@@ -38051,6 +38083,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 26345,
+      "num": 219756,
+      "word": "张雪夺冠了才想起欠她一束玫瑰",
+      "onboard_time": 1779278721,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 26293,
       "num": 71098,
       "word": "铁证",
@@ -38449,6 +38489,14 @@
       "onboard_time": 1777623200,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 22241,
+      "num": 210943,
+      "word": "主角演到我麻筋上了",
+      "onboard_time": 1779278480,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 22216,
