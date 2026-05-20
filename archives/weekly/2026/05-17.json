@@ -1,6 +1,6 @@
 {
   "startTime": 1778951228781,
-  "endTime": 1779265946853,
+  "endTime": 1779266506800,
   "band_list": [
     {
       "raw_hot": 17984788,
@@ -491,6 +491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1148508,
+      "num": 582853,
+      "word": "煎饼夏天 戛纳",
+      "onboard_time": 1779262101,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1142833,
       "num": 602588,
       "word": "何润东商务 有人莫名其妙就发财了",
@@ -537,14 +545,6 @@
       "onboard_time": 1779060679,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1101498,
-      "num": 582853,
-      "word": "煎饼夏天 戛纳",
-      "onboard_time": 1779262101,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 1100319,
@@ -611,8 +611,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 1052003,
-      "num": 1168320,
+      "raw_hot": 1060149,
+      "num": 1169623,
       "word": "武契奇将对中国进行国事访问",
       "onboard_time": 1779262041,
       "rank": 0,
@@ -1019,6 +1019,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 739286,
+      "num": 575192,
+      "word": "李昀锐偷看关晓彤这一眼",
+      "onboard_time": 1779261141,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 735703,
       "num": 273021,
       "word": "归鸾是逐玉2.0吗",
@@ -1163,6 +1171,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 670033,
+      "num": 567307,
+      "word": "普京访华欢迎仪式上的中国排面",
+      "onboard_time": 1779260300,
+      "rank": 13,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 664078,
       "num": 664078,
       "word": "尚界汽车报案",
@@ -1187,14 +1203,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 659637,
-      "num": 575192,
-      "word": "李昀锐偷看关晓彤这一眼",
-      "onboard_time": 1779261141,
-      "rank": 12,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 658525,
       "num": 398539,
       "word": "易立竞把孙杨问破防了",
@@ -1211,7 +1219,7 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 652514,
+      "raw_hot": 657333,
       "num": 564292,
       "word": "张凌赫把金靖放在C位",
       "onboard_time": 1779254902,
@@ -1441,14 +1449,6 @@
       "onboard_time": 1779016220,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 567307,
-      "num": 567307,
-      "word": "普京访华欢迎仪式上的中国排面",
-      "onboard_time": 1779260300,
-      "rank": 13,
-      "category": "国内时政"
     },
     {
       "raw_hot": 565623,
@@ -1859,6 +1859,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 441769,
+      "num": 864190,
+      "word": "普京说亲爱的朋友一日不见如隔三秋",
+      "onboard_time": 1779257001,
+      "rank": 1,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 435647,
       "num": 515868,
       "word": "易烊千玺深夜敲代码",
@@ -1891,6 +1899,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 430728,
+      "num": 426160,
+      "word": "女子疑患脚气光脚试鞋留白色碎屑",
+      "onboard_time": 1779260420,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 429471,
       "num": 382071,
       "word": "文班亚马41分24篮板",
@@ -1907,12 +1923,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 426160,
-      "num": 426160,
-      "word": "女子疑患脚气光脚试鞋留白色碎屑",
-      "onboard_time": 1779260420,
-      "rank": 21,
-      "category": "民生新闻"
+      "raw_hot": 428308,
+      "num": 428308,
+      "word": "于娜退圈十年归来胖若两人",
+      "onboard_time": 1779265762,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 420854,
@@ -2067,14 +2083,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 393997,
-      "num": 864190,
-      "word": "普京说亲爱的朋友一日不见如隔三秋",
-      "onboard_time": 1779257001,
-      "rank": 1,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 393141,
       "num": 393141,
       "word": "王橹杰iPad上面视频是心理问题",
@@ -2153,6 +2161,14 @@
       "onboard_time": 1779248901,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 379631,
+      "num": 565724,
+      "word": "麦当劳星星人玩具",
+      "onboard_time": 1779264380,
+      "rank": 14,
+      "category": "美食"
     },
     {
       "raw_hot": 375523,
@@ -2297,6 +2313,14 @@
       "onboard_time": 1778973437,
       "rank": 15,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 353557,
+      "num": 353557,
+      "word": "黄子弘凡红包",
+      "onboard_time": 1779266422,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 351486,
@@ -2755,6 +2779,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 293329,
+      "num": 431231,
+      "word": "大裁员前夕Meta员工疯狂薅羊毛",
+      "onboard_time": 1779260481,
+      "rank": 19,
+      "category": "海外新闻,互联网"
+    },
+    {
       "raw_hot": 293226,
       "num": 193357,
       "word": "郑州一火锅店露天洗菜做饭如调色盘",
@@ -2955,14 +2987,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 273980,
-      "num": 431231,
-      "word": "大裁员前夕Meta员工疯狂薅羊毛",
-      "onboard_time": 1779260481,
-      "rank": 19,
-      "category": "海外新闻,互联网"
-    },
-    {
       "raw_hot": 273868,
       "num": 273868,
       "word": "一个退学博士掀起的学术打假风暴",
@@ -2985,14 +3009,6 @@
       "onboard_time": 1779165562,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 271320,
-      "num": 565724,
-      "word": "麦当劳星星人玩具",
-      "onboard_time": 1779264380,
-      "rank": 14,
-      "category": "美食"
     },
     {
       "raw_hot": 270170,
@@ -3097,14 +3113,6 @@
       "onboard_time": 1779193520,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 257494,
-      "num": 257494,
-      "word": "于娜退圈十年归来胖若两人",
-      "onboard_time": 1779265762,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 256664,
@@ -3233,6 +3241,14 @@
       "onboard_time": 1779158059,
       "rank": 38,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 248794,
+      "num": 426456,
+      "word": "打开朋友圈误入玻璃厂",
+      "onboard_time": 1779265940,
+      "rank": 6,
+      "category": "音乐"
     },
     {
       "raw_hot": 248697,
@@ -4043,6 +4059,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 197001,
+      "num": 197001,
+      "word": "中方将引进200架波音飞机",
+      "onboard_time": 1779265461,
+      "rank": 41,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 196717,
       "num": 500022,
       "word": "监狱来的妈妈单日票房超4万",
@@ -4107,20 +4131,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 191151,
+      "num": 428144,
+      "word": "520明星发红包",
+      "onboard_time": 1779265100,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 191144,
       "num": 214409,
       "word": "A股算力龙头一字涨停",
       "onboard_time": 1779113005,
       "rank": 47,
       "category": "财经"
-    },
-    {
-      "raw_hot": 191014,
-      "num": 191014,
-      "word": "中方将引进200架波音飞机",
-      "onboard_time": 1779265461,
-      "rank": 41,
-      "category": "国内时政"
     },
     {
       "raw_hot": 190374,
@@ -4219,6 +4243,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 182745,
+      "num": 182745,
+      "word": "第一次觉得绿化这么重要",
+      "onboard_time": 1779263961,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 182311,
       "num": 202448,
       "word": "张雪机车捷克站夺冠",
@@ -4313,14 +4345,6 @@
       "onboard_time": 1779201862,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 178095,
-      "num": 428144,
-      "word": "520明星发红包",
-      "onboard_time": 1779265100,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 177078,
@@ -4425,14 +4449,6 @@
       "onboard_time": 1779013460,
       "rank": 46,
       "category": "军事"
-    },
-    {
-      "raw_hot": 172219,
-      "num": 172219,
-      "word": "第一次觉得绿化这么重要",
-      "onboard_time": 1779263961,
-      "rank": 45,
-      "category": "情感"
     },
     {
       "raw_hot": 171972,
@@ -4827,6 +4843,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 145513,
+      "num": 145513,
+      "word": "中俄达成其他领域20项合作文件",
+      "onboard_time": 1779262580,
+      "rank": 45,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 145231,
       "num": 397977,
       "word": "王鹤棣爱到骨子里",
@@ -4923,6 +4947,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 136324,
+      "num": 136324,
+      "word": "刘宇宁说丁程鑫好怂",
+      "onboard_time": 1779266301,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 136096,
       "num": 135379,
       "word": "迪丽热巴双剧入围电视金鹰奖",
@@ -4961,6 +4993,14 @@
       "onboard_time": 1779032599,
       "rank": 25,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 133394,
+      "num": 613120,
+      "word": "黑袍纠察队",
+      "onboard_time": 1779263301,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 133391,
@@ -5395,14 +5435,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 103225,
-      "num": 613120,
-      "word": "黑袍纠察队",
-      "onboard_time": 1779263301,
-      "rank": 8,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 102901,
       "num": 236843,
       "word": "魏建军承认自己怕了",
@@ -5473,6 +5505,14 @@
       "onboard_time": 1779017240,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 98218,
+      "num": 201236,
+      "word": "王濛用衣角撩李小冉",
+      "onboard_time": 1779265341,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 96440,
@@ -6075,14 +6115,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 66073,
-      "num": 201236,
-      "word": "王濛用衣角撩李小冉",
-      "onboard_time": 1779265341,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 65652,
       "num": 65652,
       "word": "你一般每天刷牙几次",
@@ -6169,6 +6201,14 @@
       "onboard_time": 1779077059,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 61277,
+      "num": 674141,
+      "word": "一曲莫斯科郊外的晚上欢迎普京",
+      "onboard_time": 1779265822,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 59946,
@@ -6443,6 +6483,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 47557,
+      "num": 144609,
+      "word": "旅游党手机多大的电池才够用",
+      "onboard_time": 1779265401,
+      "rank": 49,
+      "category": "数码"
+    },
+    {
       "raw_hot": 47107,
       "num": 71710,
       "word": "美商业航天板块爆发",
@@ -6483,14 +6531,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 46359,
-      "num": 144609,
-      "word": "旅游党手机多大的电池才够用",
-      "onboard_time": 1779265401,
-      "rank": 49,
-      "category": "数码"
-    },
-    {
       "raw_hot": 45395,
       "num": 455728,
       "word": "520民政局门口四点半开始排队",
@@ -6521,14 +6561,6 @@
       "onboard_time": 1779252021,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 44672,
-      "num": 674141,
-      "word": "一曲莫斯科郊外的晚上欢迎普京",
-      "onboard_time": 1779265822,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 44627,
@@ -6809,6 +6841,14 @@
       "onboard_time": 1779054254,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 31407,
+      "num": 310064,
+      "word": "三星明起大罢工",
+      "onboard_time": 1779266240,
+      "rank": 24,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 31160,
@@ -7176,6 +7216,14 @@
       "word": "消费者曝双汇鸡肉肠生虫",
       "onboard_time": 1779032061,
       "rank": 25,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 11749,
+      "num": 175259,
+      "word": "90后海归富二代主动选择流浪",
+      "onboard_time": 1779266061,
+      "rank": 39,
       "category": "民生新闻"
     },
     {

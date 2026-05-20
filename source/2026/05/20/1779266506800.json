@@ -1,0 +1,410 @@
+{
+  "runTime": 1779266506800,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1060149,
+        "num": 1169623,
+        "word": "武契奇将对中国进行国事访问",
+        "onboard_time": 1779262041,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 441769,
+        "num": 854095,
+        "word": "普京说亲爱的朋友一日不见如隔三秋",
+        "onboard_time": 1779257001,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 61277,
+        "num": 654501,
+        "word": "一曲莫斯科郊外的晚上欢迎普京",
+        "onboard_time": 1779265822,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 596246,
+        "num": 596246,
+        "word": "金靖回复张凌赫谢谢我的站哥",
+        "onboard_time": 1779259039,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 299741,
+        "num": 455339,
+        "word": "人一旦有了考研的念头",
+        "onboard_time": 1779251181,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 428308,
+        "num": 428308,
+        "word": "于娜退圈十年归来胖若两人",
+        "onboard_time": 1779265762,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 248794,
+        "num": 426456,
+        "word": "打开朋友圈误入玻璃厂",
+        "onboard_time": 1779265940,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 227048,
+        "num": 417791,
+        "word": "国产芯片好消息不断",
+        "onboard_time": 1779249501,
+        "rank": 7,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 133688,
+        "num": 413221,
+        "word": "孙颖莎王楚钦混双搭档第九年",
+        "onboard_time": 1779251302,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1148508,
+        "num": 406178,
+        "word": "煎饼夏天 戛纳",
+        "onboard_time": 1779262101,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 757963,
+        "num": 398080,
+        "word": "何润东商务 有人莫名其妙就发财了",
+        "onboard_time": 1779262580,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 670033,
+        "num": 397668,
+        "word": "普京访华欢迎仪式上的中国排面",
+        "onboard_time": 1779260300,
+        "rank": 11,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 739286,
+        "num": 389943,
+        "word": "李昀锐偷看关晓彤这一眼",
+        "onboard_time": 1779261141,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 657333,
+        "num": 380504,
+        "word": "张凌赫把金靖放在C位",
+        "onboard_time": 1779254902,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 379631,
+        "num": 379631,
+        "word": "麦当劳星星人玩具",
+        "onboard_time": 1779264380,
+        "rank": 14,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 636270,
+        "num": 377345,
+        "word": "职场中不要过度礼貌",
+        "onboard_time": 1779259820,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 453519,
+        "num": 375871,
+        "word": "喜婆婆凌晨5点到民政局帮儿媳排队",
+        "onboard_time": 1779258740,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 430728,
+        "num": 374013,
+        "word": "女子疑患脚气光脚试鞋留白色碎屑",
+        "onboard_time": 1779260420,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 293329,
+        "num": 370769,
+        "word": "大裁员前夕Meta员工疯狂薅羊毛",
+        "onboard_time": 1779260481,
+        "rank": 18,
+        "category": "海外新闻,互联网"
+      },
+      {
+        "raw_hot": 370364,
+        "num": 370364,
+        "word": "颜颜哭着告白凯凯",
+        "onboard_time": 1779257481,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 191151,
+        "num": 361195,
+        "word": "520明星发红包",
+        "onboard_time": 1779265100,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 383831,
+        "num": 359915,
+        "word": "我有一个很小众的恐惧点",
+        "onboard_time": 1779259160,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 353557,
+        "num": 353557,
+        "word": "黄子弘凡红包",
+        "onboard_time": 1779266422,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 314730,
+        "num": 314730,
+        "word": "丁程鑫 我养猪杀你",
+        "onboard_time": 1779256941,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 31407,
+        "num": 310064,
+        "word": "三星明起大罢工",
+        "onboard_time": 1779266240,
+        "rank": 24,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 308185,
+        "num": 308185,
+        "word": "明星红包",
+        "onboard_time": 1779259459,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 286743,
+        "num": 286743,
+        "word": "中俄元首会见记者",
+        "onboard_time": 1779255144,
+        "rank": 26,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 245166,
+        "num": 245166,
+        "word": "金鹤龙回应白鹿20万一次造型",
+        "onboard_time": 1779248420,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 234401,
+        "num": 234401,
+        "word": "雷军回应小米YU7GT定价",
+        "onboard_time": 1779257960,
+        "rank": 28,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 232052,
+        "num": 232052,
+        "word": "浪姐三天直播三场",
+        "onboard_time": 1779256700,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 223166,
+        "num": 223166,
+        "word": "恩恩小新亲了",
+        "onboard_time": 1779260001,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 218899,
+        "num": 218899,
+        "word": "贷款借给朋友50万父亲肺癌要回被怼",
+        "onboard_time": 1779255501,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 202399,
+        "num": 202399,
+        "word": "孟子义苗苗一见如故",
+        "onboard_time": 1779258199,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197001,
+        "num": 197001,
+        "word": "中方将引进200架波音飞机",
+        "onboard_time": 1779265461,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 193051,
+        "num": 193051,
+        "word": "女博士见被抢幼子孩子的手被栓住了",
+        "onboard_time": 1779263961,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 192864,
+        "num": 192864,
+        "word": "喜笑颜凯",
+        "onboard_time": 1779255144,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 182745,
+        "num": 182745,
+        "word": "第一次觉得绿化这么重要",
+        "onboard_time": 1779263961,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 178896,
+        "num": 178896,
+        "word": "普京欢迎仪式",
+        "onboard_time": 1779244160,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 98218,
+        "num": 176276,
+        "word": "王濛用衣角撩李小冉",
+        "onboard_time": 1779265341,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 11749,
+        "num": 175259,
+        "word": "90后海归富二代主动选择流浪",
+        "onboard_time": 1779266061,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81102,
+        "num": 174419,
+        "word": "哈尔滨一双层巴士被高架桥削顶",
+        "onboard_time": 1779265341,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 174272,
+        "num": 174272,
+        "word": "杨紫家业收视率",
+        "onboard_time": 1779264501,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168873,
+        "num": 168873,
+        "word": "普京宾至如归脱下外套",
+        "onboard_time": 1779244040,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 160613,
+        "num": 160613,
+        "word": "王楚钦汪顺超浪漫海报",
+        "onboard_time": 1779254721,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 160129,
+        "num": 160129,
+        "word": "唐艺昕张若昀 龇牙咧嘴夫妇",
+        "onboard_time": 1779250825,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145513,
+        "num": 145513,
+        "word": "中俄达成其他领域20项合作文件",
+        "onboard_time": 1779262580,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 136324,
+        "num": 136324,
+        "word": "刘宇宁说丁程鑫好怂",
+        "onboard_time": 1779266301,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131696,
+        "num": 133557,
+        "word": "iPhone绝版配件回归",
+        "onboard_time": 1779243860,
+        "rank": 47,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 47557,
+        "num": 133440,
+        "word": "旅游党手机多大的电池才够用",
+        "onboard_time": 1779265401,
+        "rank": 48,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 133394,
+        "num": 133394,
+        "word": "黑袍纠察队",
+        "onboard_time": 1779263301,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平用三句诗喻中俄关系#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1779208114045,
-  "endTime": 1779265946853,
+  "endTime": 1779266506800,
   "band_list": [
     {
       "raw_hot": 4569181,
@@ -67,6 +67,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1148508,
+      "num": 582853,
+      "word": "煎饼夏天 戛纳",
+      "onboard_time": 1779262101,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1142833,
       "num": 602588,
       "word": "何润东商务 有人莫名其妙就发财了",
@@ -83,16 +91,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 1101498,
-      "num": 582853,
-      "word": "煎饼夏天 戛纳",
-      "onboard_time": 1779262101,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1052003,
-      "num": 1168320,
+      "raw_hot": 1060149,
+      "num": 1169623,
       "word": "武契奇将对中国进行国事访问",
       "onboard_time": 1779262041,
       "rank": 0,
@@ -163,6 +163,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 739286,
+      "num": 575192,
+      "word": "李昀锐偷看关晓彤这一眼",
+      "onboard_time": 1779261141,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 733272,
       "num": 190183,
       "word": "张峻豪红包",
@@ -187,6 +195,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 670033,
+      "num": 567307,
+      "word": "普京访华欢迎仪式上的中国排面",
+      "onboard_time": 1779260300,
+      "rank": 13,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 664158,
       "num": 664158,
       "word": "泰国终止60天免签",
@@ -195,15 +211,7 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 659637,
-      "num": 575192,
-      "word": "李昀锐偷看关晓彤这一眼",
-      "onboard_time": 1779261141,
-      "rank": 12,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 652514,
+      "raw_hot": 657333,
       "num": 564292,
       "word": "张凌赫把金靖放在C位",
       "onboard_time": 1779254902,
@@ -265,14 +273,6 @@
       "onboard_time": 1779208159,
       "rank": 10,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 567307,
-      "num": 567307,
-      "word": "普京访华欢迎仪式上的中国排面",
-      "onboard_time": 1779260300,
-      "rank": 13,
-      "category": "国内时政"
     },
     {
       "raw_hot": 564149,
@@ -363,6 +363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 441769,
+      "num": 864190,
+      "word": "普京说亲爱的朋友一日不见如隔三秋",
+      "onboard_time": 1779257001,
+      "rank": 1,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 435647,
       "num": 515868,
       "word": "易烊千玺深夜敲代码",
@@ -371,12 +379,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 426160,
+      "raw_hot": 430728,
       "num": 426160,
       "word": "女子疑患脚气光脚试鞋留白色碎屑",
       "onboard_time": 1779260420,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 428308,
+      "num": 428308,
+      "word": "于娜退圈十年归来胖若两人",
+      "onboard_time": 1779265762,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 420655,
@@ -395,14 +411,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 393997,
-      "num": 864190,
-      "word": "普京说亲爱的朋友一日不见如隔三秋",
-      "onboard_time": 1779257001,
-      "rank": 1,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 393630,
       "num": 238843,
       "word": "娜扎咬面包 神图",
@@ -417,6 +425,14 @@
       "onboard_time": 1779248901,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 379631,
+      "num": 565724,
+      "word": "麦当劳星星人玩具",
+      "onboard_time": 1779264380,
+      "rank": 14,
+      "category": "美食"
     },
     {
       "raw_hot": 377133,
@@ -449,6 +465,14 @@
       "onboard_time": 1779242120,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 353557,
+      "num": 353557,
+      "word": "黄子弘凡红包",
+      "onboard_time": 1779266422,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 351486,
@@ -547,6 +571,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 293329,
+      "num": 431231,
+      "word": "大裁员前夕Meta员工疯狂薅羊毛",
+      "onboard_time": 1779260481,
+      "rank": 19,
+      "category": "海外新闻,互联网"
+    },
+    {
       "raw_hot": 292744,
       "num": 292744,
       "word": "葡萄牙公布世界杯名单",
@@ -595,22 +627,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 273980,
-      "num": 431231,
-      "word": "大裁员前夕Meta员工疯狂薅羊毛",
-      "onboard_time": 1779260481,
-      "rank": 19,
-      "category": "海外新闻,互联网"
-    },
-    {
-      "raw_hot": 271320,
-      "num": 565724,
-      "word": "麦当劳星星人玩具",
-      "onboard_time": 1779264380,
-      "rank": 14,
-      "category": "美食"
-    },
-    {
       "raw_hot": 266701,
       "num": 172170,
       "word": "5个不经意间摄入微塑料的习惯",
@@ -643,20 +659,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 257494,
-      "num": 257494,
-      "word": "于娜退圈十年归来胖若两人",
-      "onboard_time": 1779265762,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 251302,
       "num": 271457,
       "word": "雷军回应小米YU7GT定价",
       "onboard_time": 1779257960,
       "rank": 28,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 248794,
+      "num": 426456,
+      "word": "打开朋友圈误入玻璃厂",
+      "onboard_time": 1779265940,
+      "rank": 6,
+      "category": "音乐"
     },
     {
       "raw_hot": 248697,
@@ -859,6 +875,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 197001,
+      "num": 197001,
+      "word": "中方将引进200架波音飞机",
+      "onboard_time": 1779265461,
+      "rank": 41,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 195232,
       "num": 494448,
       "word": "日本汽车产业遇重创",
@@ -883,12 +907,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 191014,
-      "num": 191014,
-      "word": "中方将引进200架波音飞机",
-      "onboard_time": 1779265461,
-      "rank": 41,
-      "category": "国内时政"
+      "raw_hot": 191151,
+      "num": 428144,
+      "word": "520明星发红包",
+      "onboard_time": 1779265100,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 187876,
@@ -897,6 +921,14 @@
       "onboard_time": 1779264501,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 182745,
+      "num": 182745,
+      "word": "第一次觉得绿化这么重要",
+      "onboard_time": 1779263961,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 181478,
@@ -915,28 +947,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 178095,
-      "num": 428144,
-      "word": "520明星发红包",
-      "onboard_time": 1779265100,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 173062,
       "num": 215565,
       "word": "白发重新变黑的方法",
       "onboard_time": 1779201743,
       "rank": 22,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 172219,
-      "num": 172219,
-      "word": "第一次觉得绿化这么重要",
-      "onboard_time": 1779263961,
-      "rank": 45,
-      "category": "情感"
     },
     {
       "raw_hot": 169627,
@@ -979,12 +995,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 145513,
+      "num": 145513,
+      "word": "中俄达成其他领域20项合作文件",
+      "onboard_time": 1779262580,
+      "rank": 45,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 137892,
       "num": 209348,
       "word": "孙杨采访时突然开始点餐",
       "onboard_time": 1779181580,
       "rank": 25,
       "category": "体育,作品衍生"
+    },
+    {
+      "raw_hot": 136324,
+      "num": 136324,
+      "word": "刘宇宁说丁程鑫好怂",
+      "onboard_time": 1779266301,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 134763,
@@ -1001,6 +1033,14 @@
       "onboard_time": 1779248420,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 133394,
+      "num": 613120,
+      "word": "黑袍纠察队",
+      "onboard_time": 1779263301,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 132934,
@@ -1115,14 +1155,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 103225,
-      "num": 613120,
-      "word": "黑袍纠察队",
-      "onboard_time": 1779263301,
-      "rank": 8,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 102410,
       "num": 102410,
       "word": "气鼓鼓的孙颖莎",
@@ -1145,6 +1177,14 @@
       "onboard_time": 1779199819,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 98218,
+      "num": 201236,
+      "word": "王濛用衣角撩李小冉",
+      "onboard_time": 1779265341,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 94508,
@@ -1283,14 +1323,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 66073,
-      "num": 201236,
-      "word": "王濛用衣角撩李小冉",
-      "onboard_time": 1779265341,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 65652,
       "num": 65652,
       "word": "你一般每天刷牙几次",
@@ -1321,6 +1353,14 @@
       "onboard_time": 1779249620,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 61277,
+      "num": 674141,
+      "word": "一曲莫斯科郊外的晚上欢迎普京",
+      "onboard_time": 1779265822,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 58810,
@@ -1387,7 +1427,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 46359,
+      "raw_hot": 47557,
       "num": 144609,
       "word": "旅游党手机多大的电池才够用",
       "onboard_time": 1779265401,
@@ -1417,14 +1457,6 @@
       "onboard_time": 1779252021,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 44672,
-      "num": 674141,
-      "word": "一曲莫斯科郊外的晚上欢迎普京",
-      "onboard_time": 1779265822,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 41375,
@@ -1457,6 +1489,14 @@
       "onboard_time": 1779191241,
       "rank": 42,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 31407,
+      "num": 310064,
+      "word": "三星明起大罢工",
+      "onboard_time": 1779266240,
+      "rank": 24,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 30794,
@@ -1529,6 +1569,14 @@
       "onboard_time": 1779210316,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 11749,
+      "num": 175259,
+      "word": "90后海归富二代主动选择流浪",
+      "onboard_time": 1779266061,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 7566,
