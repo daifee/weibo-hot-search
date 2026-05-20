@@ -1,6 +1,6 @@
 {
   "startTime": 1779208114045,
-  "endTime": 1779234065205,
+  "endTime": 1779250085546,
   "band_list": [
     {
       "raw_hot": 4569181,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 4568838,
-      "num": 239215,
+      "num": 441139,
       "word": "林俊杰晒和七七合照",
       "onboard_time": 1779198081,
       "rank": 10,
@@ -25,6 +25,30 @@
       "onboard_time": 1779200002,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1532362,
+      "num": 1190812,
+      "word": "普京欢迎仪式",
+      "onboard_time": 1779244160,
+      "rank": 1,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 1326066,
+      "num": 1326066,
+      "word": "中俄元首会谈",
+      "onboard_time": 1779245240,
+      "rank": 0,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 1317870,
+      "num": 556470,
+      "word": "520红包",
+      "onboard_time": 1779235700,
+      "rank": 10,
+      "category": "情感"
     },
     {
       "raw_hot": 1244259,
@@ -51,6 +75,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 991756,
+      "num": 991756,
+      "word": "将门独后520花絮",
+      "onboard_time": 1779248901,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 989517,
+      "num": 556249,
+      "word": "时代少年团红包",
+      "onboard_time": 1779247462,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 931182,
       "num": 931182,
       "word": "美国大满贯王楚钦孙颖莎混双",
@@ -67,12 +107,44 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 873348,
+      "num": 507788,
+      "word": "iPhone绝版配件回归",
+      "onboard_time": 1779243860,
+      "rank": 20,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 820685,
+      "num": 820685,
+      "word": "普京抵达人民大会堂",
+      "onboard_time": 1779248301,
+      "rank": 4,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 733272,
       "num": 190183,
       "word": "张峻豪红包",
       "onboard_time": 1779233239,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 695064,
+      "num": 555638,
+      "word": "A股",
+      "onboard_time": 1779244100,
+      "rank": 12,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 679797,
+      "num": 679797,
+      "word": "普京宾至如归脱下外套",
+      "onboard_time": 1779244040,
+      "rank": 5,
+      "category": "国际时政"
     },
     {
       "raw_hot": 664158,
@@ -115,12 +187,44 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 558501,
+      "num": 558501,
+      "word": "电影偷偷藏不住定档",
+      "onboard_time": 1779246741,
+      "rank": 6,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 554663,
+      "num": 554663,
+      "word": "金鹤龙回应白鹿20万一次造型",
+      "onboard_time": 1779248420,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 520266,
+      "num": 520266,
+      "word": "昀牵孟绕520物料",
+      "onboard_time": 1779247161,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 456126,
       "num": 131569,
       "word": "iPhone或重回钛金属",
       "onboard_time": 1779201682,
       "rank": 34,
       "category": "数码"
+    },
+    {
+      "raw_hot": 435647,
+      "num": 515868,
+      "word": "易烊千玺深夜敲代码",
+      "onboard_time": 1779244100,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 420655,
@@ -131,12 +235,28 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 409658,
+      "num": 514426,
+      "word": "野狗骨头",
+      "onboard_time": 1779247761,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 393630,
       "num": 238843,
       "word": "娜扎咬面包 神图",
       "onboard_time": 1779200122,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 380890,
+      "num": 558217,
+      "word": "尼克斯落后22分逆转骑士",
+      "onboard_time": 1779248901,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 377133,
@@ -155,12 +275,92 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 366558,
+      "num": 556911,
+      "word": "原来身体给的保命暗示已经很明显了",
+      "onboard_time": 1779241639,
+      "rank": 9,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 361662,
+      "num": 555143,
+      "word": "骑士vs尼克斯",
+      "onboard_time": 1779242120,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 351486,
+      "num": 519018,
+      "word": "萨摩耶饰演过哮天犬",
+      "onboard_time": 1779247523,
+      "rank": 16,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 336551,
+      "num": 512337,
+      "word": "姜乘澜很新鲜的美学论点",
+      "onboard_time": 1779244701,
+      "rank": 19,
+      "category": "美妆,网红"
+    },
+    {
+      "raw_hot": 326728,
+      "num": 507152,
+      "word": "再也不敢小瞧任何摆摊的了",
+      "onboard_time": 1779237682,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 320357,
+      "num": 504374,
+      "word": "普京访华欢迎仪式高清大图",
+      "onboard_time": 1779247523,
+      "rank": 22,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 300530,
+      "num": 500185,
+      "word": "姜广涛为躲雨误入选美圈",
+      "onboard_time": 1779245541,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 299561,
+      "num": 498764,
+      "word": "喜欢你6阵容官宣",
+      "onboard_time": 1779249682,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 292744,
       "num": 292744,
       "word": "葡萄牙公布世界杯名单",
       "onboard_time": 1779194962,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 290906,
+      "num": 491371,
+      "word": "张凌赫王楚然这一秒过火520新物料",
+      "onboard_time": 1779246681,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 289360,
+      "num": 486686,
+      "word": "红包分组",
+      "onboard_time": 1779235161,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 282849,
@@ -171,6 +371,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 276676,
+      "num": 493151,
+      "word": "中俄领导人握手",
+      "onboard_time": 1779248721,
+      "rank": 26,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 275862,
+      "num": 481804,
+      "word": "哈登失误",
+      "onboard_time": 1779246981,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 275801,
       "num": 275801,
       "word": "雨霖铃一二集重剪了",
@@ -179,12 +395,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 273698,
+      "num": 480991,
+      "word": "吃东西时不要分心",
+      "onboard_time": 1779249260,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 266701,
       "num": 172170,
       "word": "5个不经意间摄入微塑料的习惯",
       "onboard_time": 1779207319,
       "rank": 42,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 263924,
+      "num": 477735,
+      "word": "檀健次抱卢昱晓摘梅花",
+      "onboard_time": 1779248841,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 257777,
@@ -211,6 +443,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 237164,
+      "num": 475020,
+      "word": "柳州3.6级地震",
+      "onboard_time": 1779237200,
+      "rank": 33,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 235839,
       "num": 183743,
       "word": "千万别用塑料容器加热食物",
@@ -235,6 +475,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 230368,
+      "num": 473247,
+      "word": "查了金价后觉得男主更帅了",
+      "onboard_time": 1779249381,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 221534,
+      "num": 466894,
+      "word": "菲律宾涉台表态",
+      "onboard_time": 1779239001,
+      "rank": 36,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 219056,
       "num": 219056,
       "word": "杨紫把韩东君气疯了",
@@ -249,6 +505,22 @@
       "onboard_time": 1779204022,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 215454,
+      "num": 438641,
+      "word": "男性感染HPV后身体会有什么变化",
+      "onboard_time": 1779243440,
+      "rank": 47,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 212770,
+      "num": 557679,
+      "word": "又一家日本车企暴雷",
+      "onboard_time": 1779244941,
+      "rank": 8,
+      "category": "汽车"
     },
     {
       "raw_hot": 212603,
@@ -275,12 +547,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 207193,
+      "num": 436032,
+      "word": "段永平清仓阿里巴巴",
+      "onboard_time": 1779249742,
+      "rank": 48,
+      "category": "财经,互联网"
+    },
+    {
       "raw_hot": 204553,
       "num": 170699,
       "word": "王毅机场迎接普京",
       "onboard_time": 1779232818,
       "rank": 23,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 204115,
+      "num": 433733,
+      "word": "学校通报老师劝架被学生戳伤眼球",
+      "onboard_time": 1779243021,
+      "rank": 49,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 197620,
@@ -291,12 +579,36 @@
       "category": "财经"
     },
     {
+      "raw_hot": 195232,
+      "num": 494448,
+      "word": "日本汽车产业遇重创",
+      "onboard_time": 1779233478,
+      "rank": 9,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 194914,
       "num": 225658,
       "word": "特斯拉放弃印度建厂",
       "onboard_time": 1779195381,
       "rank": 19,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 193580,
+      "num": 447612,
+      "word": "卢昱晓红包",
+      "onboard_time": 1779248241,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 181478,
+      "num": 445615,
+      "word": "浪姐歌手对打",
+      "onboard_time": 1779241339,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 173062,
@@ -339,6 +651,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 146644,
+      "num": 442412,
+      "word": "国产芯片好消息不断",
+      "onboard_time": 1779249501,
+      "rank": 45,
+      "category": "数码"
+    },
+    {
       "raw_hot": 137892,
       "num": 209348,
       "word": "孙杨采访时突然开始点餐",
@@ -353,6 +673,14 @@
       "onboard_time": 1779184821,
       "rank": 31,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 134162,
+      "num": 463437,
+      "word": "雷霆马刺裁判报告",
+      "onboard_time": 1779248420,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 132934,
@@ -393,14 +721,6 @@
       "onboard_time": 1779194900,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 123415,
-      "num": 193197,
-      "word": "日本汽车产业遇重创",
-      "onboard_time": 1779233478,
-      "rank": 9,
-      "category": "汽车"
     },
     {
       "raw_hot": 117373,
@@ -571,6 +891,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 69604,
+      "num": 468946,
+      "word": "中俄睦邻友好合作条约继续延期",
+      "onboard_time": 1779249921,
+      "rank": 35,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 65652,
       "num": 65652,
       "word": "你一般每天刷牙几次",
@@ -595,6 +923,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 64483,
+      "num": 459906,
+      "word": "白鹿让保安收伞打招呼",
+      "onboard_time": 1779249620,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 57483,
       "num": 65558,
       "word": "俞灏明说要为小家庭未雨绸缪了",
@@ -609,6 +945,14 @@
       "onboard_time": 1779233058,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 53719,
+      "num": 1020136,
+      "word": "中俄合作新篇章",
+      "onboard_time": 1779243559,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 52932,
@@ -633,6 +977,14 @@
       "onboard_time": 1779188180,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 45395,
+      "num": 455728,
+      "word": "520民政局门口四点半开始排队",
+      "onboard_time": 1779248901,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 45084,
@@ -675,6 +1027,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 28909,
+      "num": 453336,
+      "word": "日本5.9级地震",
+      "onboard_time": 1779249501,
+      "rank": 41,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 28575,
       "num": 65526,
       "word": "华东最大水果批发市场只卖云南杨梅",
@@ -713,11 +1073,22 @@
       "onboard_time": 1779210316,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 7566,
+      "num": 462875,
+      "word": "雨霖铃重新剪辑了",
+      "onboard_time": 1779249682,
+      "rank": 38,
+      "category": "剧集"
     }
   ],
   "hotgov_list": [
     {
       "word": "#两国元首身体力行传承中俄世代友好#"
+    },
+    {
+      "word": "#中俄元首会晤何以全球瞩目#"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "startTime": 1777565126834,
-  "endTime": 1779234065205,
+  "endTime": 1779250085546,
   "band_list": [
     {
       "raw_hot": 25375641,
@@ -172,7 +172,7 @@
     },
     {
       "raw_hot": 8188750,
-      "num": 288186,
+      "num": 441139,
       "word": "林俊杰晒和七七合照",
       "onboard_time": 1779198081,
       "rank": 10,
@@ -2051,6 +2051,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 1532362,
+      "num": 1190812,
+      "word": "普京欢迎仪式",
+      "onboard_time": 1779244160,
+      "rank": 1,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 1532316,
       "num": 572514,
       "word": "原来好的大学真的有隐形福利",
@@ -2587,12 +2595,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1326066,
+      "num": 1326066,
+      "word": "中俄元首会谈",
+      "onboard_time": 1779245240,
+      "rank": 0,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 1319994,
       "num": 589484,
       "word": "抖音评论区 陈赫眼中含泪",
       "onboard_time": 1778578459,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1317870,
+      "num": 556470,
+      "word": "520红包",
+      "onboard_time": 1779235700,
+      "rank": 10,
+      "category": "情感"
     },
     {
       "raw_hot": 1315875,
@@ -2660,7 +2684,7 @@
     },
     {
       "raw_hot": 1298164,
-      "num": 532969,
+      "num": 555638,
       "word": "A股",
       "onboard_time": 1778036119,
       "rank": 13,
@@ -3819,6 +3843,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 991756,
+      "num": 991756,
+      "word": "将门独后520花絮",
+      "onboard_time": 1779248901,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 989517,
+      "num": 556249,
+      "word": "时代少年团红包",
+      "onboard_time": 1779247462,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 985661,
       "num": 454549,
       "word": "马斯克回复360度转圈拍人民大会堂",
@@ -4643,6 +4683,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 873348,
+      "num": 507788,
+      "word": "iPhone绝版配件回归",
+      "onboard_time": 1779243860,
+      "rank": 20,
+      "category": "数码"
+    },
+    {
       "raw_hot": 870745,
       "num": 870745,
       "word": "中餐厅10录制",
@@ -5073,6 +5121,14 @@
       "onboard_time": 1778671460,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 820685,
+      "num": 820685,
+      "word": "普京抵达人民大会堂",
+      "onboard_time": 1779248301,
+      "rank": 4,
+      "category": "国内时政"
     },
     {
       "raw_hot": 819369,
@@ -6641,6 +6697,14 @@
       "onboard_time": 1778725346,
       "rank": 5,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 679797,
+      "num": 679797,
+      "word": "普京宾至如归脱下外套",
+      "onboard_time": 1779244040,
+      "rank": 5,
+      "category": "国际时政"
     },
     {
       "raw_hot": 679545,
@@ -8507,6 +8571,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 558501,
+      "num": 558501,
+      "word": "电影偷偷藏不住定档",
+      "onboard_time": 1779246741,
+      "rank": 6,
+      "category": "电影"
+    },
+    {
       "raw_hot": 557780,
       "num": 483623,
       "word": "昀牵孟绕真的be了吗",
@@ -8577,6 +8649,14 @@
       "onboard_time": 1778915539,
       "rank": 22,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 554663,
+      "num": 554663,
+      "word": "金鹤龙回应白鹿20万一次造型",
+      "onboard_time": 1779248420,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 553484,
@@ -9249,6 +9329,14 @@
       "onboard_time": 1778475321,
       "rank": 6,
       "category": "美食"
+    },
+    {
+      "raw_hot": 520266,
+      "num": 520266,
+      "word": "昀牵孟绕520物料",
+      "onboard_time": 1779247161,
+      "rank": 15,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 519984,
@@ -11107,6 +11195,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 435647,
+      "num": 515868,
+      "word": "易烊千玺深夜敲代码",
+      "onboard_time": 1779244100,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 435462,
       "num": 435462,
       "word": "燃油附加费 涨价",
@@ -11680,6 +11776,14 @@
       "word": "金鹰奖",
       "onboard_time": 1778843001,
       "rank": 24,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 409658,
+      "num": 514426,
+      "word": "野狗骨头",
+      "onboard_time": 1779247761,
+      "rank": 18,
       "category": "剧集"
     },
     {
@@ -12675,6 +12779,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 380890,
+      "num": 558217,
+      "word": "尼克斯落后22分逆转骑士",
+      "onboard_time": 1779248901,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 380751,
       "num": 304441,
       "word": "双胞胎姐妹杀人案后续",
@@ -13123,6 +13235,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 366558,
+      "num": 556911,
+      "word": "原来身体给的保命暗示已经很明显了",
+      "onboard_time": 1779241639,
+      "rank": 9,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 366486,
       "num": 366486,
       "word": "时代少年团演唱会下雨",
@@ -13305,6 +13425,14 @@
       "onboard_time": 1778196859,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 361662,
+      "num": 555143,
+      "word": "骑士vs尼克斯",
+      "onboard_time": 1779242120,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 361553,
@@ -13617,6 +13745,14 @@
       "onboard_time": 1777882581,
       "rank": 15,
       "category": "情感"
+    },
+    {
+      "raw_hot": 351486,
+      "num": 519018,
+      "word": "萨摩耶饰演过哮天犬",
+      "onboard_time": 1779247523,
+      "rank": 16,
+      "category": "幽默"
     },
     {
       "raw_hot": 351349,
@@ -14131,6 +14267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 336551,
+      "num": 512337,
+      "word": "姜乘澜很新鲜的美学论点",
+      "onboard_time": 1779244701,
+      "rank": 19,
+      "category": "美妆,网红"
+    },
+    {
       "raw_hot": 336420,
       "num": 320630,
       "word": "戚薇也在嗑张凌赫田曦薇",
@@ -14539,6 +14683,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 326728,
+      "num": 507152,
+      "word": "再也不敢小瞧任何摆摊的了",
+      "onboard_time": 1779237682,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 326708,
       "num": 326708,
       "word": "谢娜安利杨紫家业",
@@ -14793,6 +14945,14 @@
       "onboard_time": 1778153600,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 320357,
+      "num": 504374,
+      "word": "普京访华欢迎仪式高清大图",
+      "onboard_time": 1779247523,
+      "rank": 22,
+      "category": "国内时政"
     },
     {
       "raw_hot": 319954,
@@ -15603,6 +15763,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 300530,
+      "num": 500185,
+      "word": "姜广涛为躲雨误入选美圈",
+      "onboard_time": 1779245541,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 300434,
       "num": 300434,
       "word": "樊振东赛后纸袋装球拍",
@@ -15657,6 +15825,14 @@
       "onboard_time": 1778916440,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 299561,
+      "num": 498764,
+      "word": "喜欢你6阵容官宣",
+      "onboard_time": 1779249682,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 299394,
@@ -16083,6 +16259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 290906,
+      "num": 491371,
+      "word": "张凌赫王楚然这一秒过火520新物料",
+      "onboard_time": 1779246681,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 290846,
       "num": 290846,
       "word": "小米18系列或成最激进一代",
@@ -16169,6 +16353,14 @@
       "onboard_time": 1777618999,
       "rank": 33,
       "category": "电影"
+    },
+    {
+      "raw_hot": 289360,
+      "num": 486686,
+      "word": "红包分组",
+      "onboard_time": 1779235161,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 289212,
@@ -16779,6 +16971,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 276676,
+      "num": 493151,
+      "word": "中俄领导人握手",
+      "onboard_time": 1779248721,
+      "rank": 26,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 276326,
       "num": 276326,
       "word": "中国地铁被谬认为日本还在发生",
@@ -16793,6 +16993,14 @@
       "onboard_time": 1777993824,
       "rank": 17,
       "category": "财经"
+    },
+    {
+      "raw_hot": 275862,
+      "num": 481804,
+      "word": "哈登失误",
+      "onboard_time": 1779246981,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 275513,
@@ -16913,6 +17121,14 @@
       "onboard_time": 1778455940,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 273698,
+      "num": 480991,
+      "word": "吃东西时不要分心",
+      "onboard_time": 1779249260,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 273406,
@@ -17384,6 +17600,14 @@
       "word": "刘亦菲烈焰玫瑰裙",
       "onboard_time": 1778762242,
       "rank": 36,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 263924,
+      "num": 477735,
+      "word": "檀健次抱卢昱晓摘梅花",
+      "onboard_time": 1779248841,
+      "rank": 32,
       "category": "艺人"
     },
     {
@@ -19115,6 +19339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 237164,
+      "num": 475020,
+      "word": "柳州3.6级地震",
+      "onboard_time": 1779237200,
+      "rank": 33,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 236694,
       "num": 275535,
       "word": "张元英无眼妆封面",
@@ -19665,6 +19897,14 @@
       "onboard_time": 1778379800,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 230368,
+      "num": 473247,
+      "word": "查了金价后觉得男主更帅了",
+      "onboard_time": 1779249381,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 229972,
@@ -20227,6 +20467,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 221534,
+      "num": 466894,
+      "word": "菲律宾涉台表态",
+      "onboard_time": 1779239001,
+      "rank": 36,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 221504,
       "num": 311798,
       "word": "小米官宣YU7交付能力大幅提升",
@@ -20699,6 +20947,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 215454,
+      "num": 438641,
+      "word": "男性感染HPV后身体会有什么变化",
+      "onboard_time": 1779243440,
+      "rank": 47,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 215420,
       "num": 215420,
       "word": "王皓眼含热泪",
@@ -20945,6 +21201,14 @@
       "onboard_time": 1777900523,
       "rank": 31,
       "category": "演出"
+    },
+    {
+      "raw_hot": 212770,
+      "num": 557679,
+      "word": "又一家日本车企暴雷",
+      "onboard_time": 1779244941,
+      "rank": 8,
+      "category": "汽车"
     },
     {
       "raw_hot": 212707,
@@ -21435,6 +21699,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 207193,
+      "num": 436032,
+      "word": "段永平清仓阿里巴巴",
+      "onboard_time": 1779249742,
+      "rank": 48,
+      "category": "财经,互联网"
+    },
+    {
       "raw_hot": 207167,
       "num": 379938,
       "word": "肖战五一vlog",
@@ -21673,6 +21945,14 @@
       "onboard_time": 1778243781,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 204115,
+      "num": 433733,
+      "word": "学校通报老师劝架被学生戳伤眼球",
+      "onboard_time": 1779243021,
+      "rank": 49,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 204048,
@@ -22411,6 +22691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 195232,
+      "num": 494448,
+      "word": "日本汽车产业遇重创",
+      "onboard_time": 1779233478,
+      "rank": 9,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 195223,
       "num": 195223,
       "word": "华南理工被偷拍女生认可校方处分",
@@ -22560,6 +22848,14 @@
       "word": "伊能静晒女儿母亲节礼物",
       "onboard_time": 1778416881,
       "rank": 48,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 193580,
+      "num": 447612,
+      "word": "卢昱晓红包",
+      "onboard_time": 1779248241,
+      "rank": 43,
       "category": "艺人"
     },
     {
@@ -23537,6 +23833,14 @@
       "onboard_time": 1777644562,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 181478,
+      "num": 445615,
+      "word": "浪姐歌手对打",
+      "onboard_time": 1779241339,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 181463,
@@ -27035,6 +27339,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 146644,
+      "num": 442412,
+      "word": "国产芯片好消息不断",
+      "onboard_time": 1779249501,
+      "rank": 45,
+      "category": "数码"
+    },
+    {
       "raw_hot": 146602,
       "num": 146602,
       "word": "肖战入围中国电影导演协会年度男演员",
@@ -28073,6 +28385,14 @@
       "onboard_time": 1778846961,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 134162,
+      "num": 463437,
+      "word": "雷霆马刺裁判报告",
+      "onboard_time": 1779248420,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 134126,
@@ -29129,14 +29449,6 @@
       "onboard_time": 1777559421,
       "rank": 43,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 123415,
-      "num": 193197,
-      "word": "日本汽车产业遇重创",
-      "onboard_time": 1779233478,
-      "rank": 9,
-      "category": "汽车"
     },
     {
       "raw_hot": 123253,
@@ -32923,6 +33235,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 69604,
+      "num": 468946,
+      "word": "中俄睦邻友好合作条约继续延期",
+      "onboard_time": 1779249921,
+      "rank": 35,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 69546,
       "num": 169369,
       "word": "孟子义要去乘风挑战李小冉",
@@ -33281,6 +33601,14 @@
       "onboard_time": 1779232578,
       "rank": 45,
       "category": "网红"
+    },
+    {
+      "raw_hot": 64483,
+      "num": 459906,
+      "word": "白鹿让保安收伞打招呼",
+      "onboard_time": 1779249620,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 64282,
@@ -34195,6 +34523,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 53719,
+      "num": 1020136,
+      "word": "中俄合作新篇章",
+      "onboard_time": 1779243559,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 53648,
       "num": 114798,
       "word": "酒店不更换床单执法人员已上门检查",
@@ -34920,6 +35256,14 @@
       "word": "宝妈称花7万5坐月子多次吃到生肉",
       "onboard_time": 1777741218,
       "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 45395,
+      "num": 455728,
+      "word": "520民政局门口四点半开始排队",
+      "onboard_time": 1779248901,
+      "rank": 40,
       "category": "民生新闻"
     },
     {
@@ -36601,6 +36945,14 @@
       "onboard_time": 1778912421,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 28909,
+      "num": 453336,
+      "word": "日本5.9级地震",
+      "onboard_time": 1779249501,
+      "rank": 41,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 28898,
@@ -38467,6 +38819,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 7566,
+      "num": 462875,
+      "word": "雨霖铃重新剪辑了",
+      "onboard_time": 1779249682,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 7481,
       "num": 63243,
       "word": "李想称自研芯片被质疑跟风烧钱",
@@ -38968,6 +39328,9 @@
     },
     {
       "word": "#两国元首身体力行传承中俄世代友好#"
+    },
+    {
+      "word": "#中俄元首会晤何以全球瞩目#"
     }
   ]
 }
