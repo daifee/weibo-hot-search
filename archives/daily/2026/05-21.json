@@ -1,6 +1,6 @@
 {
   "startTime": 1779293187585,
-  "endTime": 1779293187585,
+  "endTime": 1779301547004,
   "band_list": [
     {
       "raw_hot": 2050981,
@@ -131,11 +131,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 338842,
+      "num": 261651,
+      "word": "对人是真皮的有了实感",
+      "onboard_time": 1779292280,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 311145,
       "num": 422906,
       "word": "杨梅滞留树上70岁奶奶崩溃哭",
       "onboard_time": 1779288743,
       "rank": 16,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 303837,
+      "num": 410770,
+      "word": "小学网购45把伞用后全损退回",
+      "onboard_time": 1779292640,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -155,6 +171,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 289642,
+      "num": 98715,
+      "word": "戴维没关注凯凯",
+      "onboard_time": 1779293419,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 277238,
       "num": 277238,
       "word": "李多海怀孕",
@@ -169,14 +193,6 @@
       "onboard_time": 1779282501,
       "rank": 17,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 261651,
-      "num": 261651,
-      "word": "对人是真皮的有了实感",
-      "onboard_time": 1779292280,
-      "rank": 27,
-      "category": "幽默"
     },
     {
       "raw_hot": 259916,
@@ -217,6 +233,14 @@
       "onboard_time": 1779285202,
       "rank": 7,
       "category": "财经"
+    },
+    {
+      "raw_hot": 232724,
+      "num": 232724,
+      "word": "抖音禁止录播伪装为直播",
+      "onboard_time": 1779297619,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 223025,
@@ -323,6 +347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 149744,
+      "num": 149744,
+      "word": "JDG辟谣清融大闹京东基地",
+      "onboard_time": 1779295758,
+      "rank": 6,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 144951,
       "num": 193265,
       "word": "杨幂真的会接住谢依霖",
@@ -379,6 +411,46 @@
       "category": "体育"
     },
     {
+      "raw_hot": 80124,
+      "num": 80124,
+      "word": "奔驰车主2次调整故意碾压猫咪",
+      "onboard_time": 1779295399,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 74241,
+      "num": 74241,
+      "word": "普京离京对送行人群微笑点头致意",
+      "onboard_time": 1779291441,
+      "rank": 25,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 57473,
+      "num": 57473,
+      "word": "白玉兰奖预测就很激烈",
+      "onboard_time": 1779294138,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 53344,
+      "num": 53344,
+      "word": "醉酒女钻进锅炉房重度烧伤后中毒身亡",
+      "onboard_time": 1779280220,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 51228,
+      "num": 51228,
+      "word": "倒过来看才看明白那些云是石头",
+      "onboard_time": 1779284061,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 51109,
       "num": 730068,
       "word": "中俄元首会谈现场都有谁",
@@ -387,12 +459,36 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 30893,
-      "num": 410770,
-      "word": "小学网购45把伞用后全损退回",
-      "onboard_time": 1779292640,
-      "rank": 19,
-      "category": "民生新闻"
+      "raw_hot": 38522,
+      "num": 48718,
+      "word": "一种很新的道歉方式",
+      "onboard_time": 1779281781,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 37293,
+      "num": 49076,
+      "word": "C罗晒个人世界杯海报",
+      "onboard_time": 1779290182,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 35061,
+      "num": 48600,
+      "word": "丁程鑫看的是正经逐玉吗",
+      "onboard_time": 1779269480,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 34390,
+      "num": 48255,
+      "word": "张雪机车64号选手获车迷刷屏力挺",
+      "onboard_time": 1779296177,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 21001,
