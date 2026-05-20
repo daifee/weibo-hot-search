@@ -1,6 +1,6 @@
 {
   "startTime": 1778951228781,
-  "endTime": 1779301547004,
+  "endTime": 1779302467588,
   "band_list": [
     {
       "raw_hot": 17984788,
@@ -7625,6 +7625,14 @@
       "onboard_time": 1779249501,
       "rank": 41,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 28610,
+      "num": 40579,
+      "word": "国际足联官宣世界杯全新单曲",
+      "onboard_time": 1779302174,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 28575,
