@@ -1,6 +1,6 @@
 {
   "startTime": 1779208114045,
-  "endTime": 1779266506800,
+  "endTime": 1779278069610,
   "band_list": [
     {
       "raw_hot": 4569181,
@@ -27,12 +27,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1728702,
+      "num": 442560,
+      "word": "陈赫在综艺发火了",
+      "onboard_time": 1779271822,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1532362,
       "num": 1190812,
       "word": "普京欢迎仪式",
       "onboard_time": 1779244160,
       "rank": 1,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1504059,
+      "num": 428655,
+      "word": "李多海怀孕",
+      "onboard_time": 1779272361,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 1326066,
@@ -49,6 +65,14 @@
       "onboard_time": 1779235700,
       "rank": 10,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1264560,
+      "num": 426819,
+      "word": "颜颜凯凯没在一起",
+      "onboard_time": 1779277280,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 1244259,
@@ -99,6 +123,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1003514,
+      "num": 441928,
+      "word": "主角热度 反抖音营销第一枪",
+      "onboard_time": 1779275121,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 991756,
       "num": 991756,
       "word": "将门独后520花絮",
@@ -137,6 +169,14 @@
       "onboard_time": 1779243860,
       "rank": 20,
       "category": "数码"
+    },
+    {
+      "raw_hot": 841065,
+      "num": 439460,
+      "word": "张凌赫回复丁程鑫",
+      "onboard_time": 1779276142,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 820685,
@@ -187,12 +227,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 701709,
+      "num": 441145,
+      "word": "杨梅协会会长恳求消费者给果农生路",
+      "onboard_time": 1779267800,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 695064,
       "num": 555638,
       "word": "A股",
       "onboard_time": 1779244100,
       "rank": 12,
       "category": "财经"
+    },
+    {
+      "raw_hot": 677390,
+      "num": 438743,
+      "word": "于娜退圈十年归来胖若两人",
+      "onboard_time": 1779265762,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 670033,
@@ -251,12 +307,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 592723,
+      "num": 436868,
+      "word": "阳朔一米粉店本地人7元游客13元",
+      "onboard_time": 1779275061,
+      "rank": 15,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 583373,
       "num": 583373,
       "word": "普京抱过的中国男孩将再见普京",
       "onboard_time": 1779202283,
       "rank": 12,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 574317,
+      "num": 435662,
+      "word": "王一菲与嘉行解约",
+      "onboard_time": 1779276921,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 571607,
@@ -299,12 +371,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 530102,
+      "num": 1084816,
+      "word": "普京与26年前抱过的中国男孩见面了",
+      "onboard_time": 1779274041,
+      "rank": 0,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 523876,
       "num": 556911,
       "word": "原来身体给的保命暗示已经很明显了",
       "onboard_time": 1779241639,
       "rank": 9,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 523350,
+      "num": 434953,
+      "word": "金莎孙丞潇婚纱照",
+      "onboard_time": 1779272660,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 520266,
@@ -315,12 +403,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 518414,
+      "num": 518414,
+      "word": "为什么520朋友圈秀恩爱的变少了",
+      "onboard_time": 1779277280,
+      "rank": 5,
+      "category": "情感"
+    },
+    {
       "raw_hot": 513853,
       "num": 439085,
       "word": "唐艺昕张若昀 龇牙咧嘴夫妇",
       "onboard_time": 1779250825,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 493029,
+      "num": 812915,
+      "word": "普京欢迎宴会",
+      "onboard_time": 1779276261,
+      "rank": 1,
+      "category": "国际时政"
     },
     {
       "raw_hot": 468063,
@@ -363,6 +467,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 446158,
+      "num": 446158,
+      "word": "这么隐晦的暗恋方式",
+      "onboard_time": 1779267261,
+      "rank": 7,
+      "category": "情感"
+    },
+    {
       "raw_hot": 441769,
       "num": 864190,
       "word": "普京说亲爱的朋友一日不见如隔三秋",
@@ -387,11 +499,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 428308,
-      "num": 428308,
-      "word": "于娜退圈十年归来胖若两人",
-      "onboard_time": 1779265762,
-      "rank": 30,
+      "raw_hot": 425714,
+      "num": 425714,
+      "word": "李晨红包",
+      "onboard_time": 1779275420,
+      "rank": 25,
       "category": "艺人"
     },
     {
@@ -451,6 +563,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 376423,
+      "num": 524515,
+      "word": "中方将引进200架波音飞机",
+      "onboard_time": 1779265461,
+      "rank": 41,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 370207,
       "num": 419635,
       "word": "除了王一博没有人这样对粉丝",
@@ -481,6 +601,14 @@
       "onboard_time": 1779247523,
       "rank": 16,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 344991,
+      "num": 449111,
+      "word": "豆包没有身份证说话就是狠",
+      "onboard_time": 1779266661,
+      "rank": 6,
+      "category": "互联网"
     },
     {
       "raw_hot": 344983,
@@ -515,6 +643,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 333801,
+      "num": 298803,
+      "word": "颜凯be",
+      "onboard_time": 1779277880,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 331551,
       "num": 331551,
       "word": "明星红包",
@@ -528,6 +664,14 @@
       "word": "丁程鑫 我养猪杀你",
       "onboard_time": 1779256941,
       "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 328123,
+      "num": 309467,
+      "word": "丁程鑫看的是正经逐玉吗",
+      "onboard_time": 1779269480,
+      "rank": 30,
       "category": "综艺"
     },
     {
@@ -569,6 +713,22 @@
       "onboard_time": 1779251181,
       "rank": 43,
       "category": "教育"
+    },
+    {
+      "raw_hot": 317087,
+      "num": 317087,
+      "word": "被戳伤眼球女教师希望处分涉事女生",
+      "onboard_time": 1779275781,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 304899,
+      "num": 304899,
+      "word": "普京访华欢迎宴会",
+      "onboard_time": 1779276142,
+      "rank": 32,
+      "category": "国际时政"
     },
     {
       "raw_hot": 293329,
@@ -627,6 +787,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 268444,
+      "num": 253566,
+      "word": "喜笑颜凯",
+      "onboard_time": 1779255144,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 266701,
       "num": 172170,
       "word": "5个不经意间摄入微塑料的习惯",
@@ -659,6 +827,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 253314,
+      "num": 426456,
+      "word": "打开朋友圈误入玻璃厂",
+      "onboard_time": 1779265940,
+      "rank": 6,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 251302,
       "num": 271457,
       "word": "雷军回应小米YU7GT定价",
@@ -667,12 +843,12 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 248794,
-      "num": 426456,
-      "word": "打开朋友圈误入玻璃厂",
-      "onboard_time": 1779265940,
-      "rank": 6,
-      "category": "音乐"
+      "raw_hot": 248925,
+      "num": 248925,
+      "word": "十个勤天巡演官宣",
+      "onboard_time": 1779273680,
+      "rank": 40,
+      "category": "演出"
     },
     {
       "raw_hot": 248697,
@@ -779,6 +955,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 226722,
+      "num": 253686,
+      "word": "五子棋下成二维码了",
+      "onboard_time": 1779271340,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 221534,
       "num": 466894,
       "word": "菲律宾涉台表态",
@@ -817,14 +1001,6 @@
       "onboard_time": 1779217394,
       "rank": 40,
       "category": "情感"
-    },
-    {
-      "raw_hot": 210730,
-      "num": 210730,
-      "word": "喜笑颜凯",
-      "onboard_time": 1779255144,
-      "rank": 35,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 210291,
@@ -875,14 +1051,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 197001,
-      "num": 197001,
-      "word": "中方将引进200架波音飞机",
-      "onboard_time": 1779265461,
-      "rank": 41,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 195232,
       "num": 494448,
       "word": "日本汽车产业遇重创",
@@ -897,6 +1065,14 @@
       "onboard_time": 1779195381,
       "rank": 19,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 193922,
+      "num": 305163,
+      "word": "iQOO15T新品发布",
+      "onboard_time": 1779276921,
+      "rank": 31,
+      "category": "数码"
     },
     {
       "raw_hot": 193580,
@@ -931,6 +1107,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 181676,
+      "num": 445085,
+      "word": "给阿嬷的情书 导演预判",
+      "onboard_time": 1779272601,
+      "rank": 8,
+      "category": "电影"
+    },
+    {
       "raw_hot": 181478,
       "num": 445615,
       "word": "浪姐歌手对打",
@@ -947,6 +1131,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 175081,
+      "num": 250511,
+      "word": "普京说了一句中国古语",
+      "onboard_time": 1779277761,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 174666,
+      "num": 174666,
+      "word": "王橹杰520语音",
+      "onboard_time": 1779277041,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 173062,
       "num": 215565,
       "word": "白发重新变黑的方法",
@@ -955,12 +1155,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 171949,
+      "num": 427859,
+      "word": "小米YU7代言人",
+      "onboard_time": 1779275240,
+      "rank": 23,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 169627,
       "num": 169627,
       "word": "U17国足2比0澳大利亚U17",
       "onboard_time": 1779233058,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 168805,
+      "num": 157759,
+      "word": "王橹杰520拍立得",
+      "onboard_time": 1779270679,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 162965,
@@ -993,6 +1209,22 @@
       "onboard_time": 1779201862,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 158221,
+      "num": 316831,
+      "word": "小鹏GX发布会",
+      "onboard_time": 1779275240,
+      "rank": 27,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 157760,
+      "num": 157760,
+      "word": "谢依霖 杨幂都生了我怕什么",
+      "onboard_time": 1779271340,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 145513,
@@ -1067,6 +1299,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 129228,
+      "num": 313098,
+      "word": "芯片龙头股价大涨",
+      "onboard_time": 1779272962,
+      "rank": 28,
+      "category": "财经"
+    },
+    {
       "raw_hot": 128647,
       "num": 128647,
       "word": "U17国足晋级亚洲杯决赛",
@@ -1081,6 +1321,14 @@
       "onboard_time": 1779194900,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 121574,
+      "num": 311474,
+      "word": "汉娜高达采访谈孙颖莎",
+      "onboard_time": 1779275781,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 117373,
@@ -1195,12 +1443,44 @@
       "category": "财经"
     },
     {
+      "raw_hot": 94225,
+      "num": 429423,
+      "word": "尼泊尔大象被虐事件引中国网友不满",
+      "onboard_time": 1779276921,
+      "rank": 21,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 93250,
+      "num": 674141,
+      "word": "一曲莫斯科郊外的晚上欢迎普京",
+      "onboard_time": 1779265822,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 93105,
+      "num": 249002,
+      "word": "寿司郎被罚后仍拒洗净餐具",
+      "onboard_time": 1779277041,
+      "rank": 39,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 88534,
       "num": 88534,
       "word": "郭晶晶说爱情比门当户对更重要",
       "onboard_time": 1779205402,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 87933,
+      "num": 157751,
+      "word": "Peyz的第14次五杀",
+      "onboard_time": 1779274401,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 87669,
@@ -1315,6 +1595,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 69053,
+      "num": 444421,
+      "word": "小胖 TTG",
+      "onboard_time": 1779257542,
+      "rank": 9,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 67291,
       "num": 382000,
       "word": "中俄元首合影",
@@ -1353,14 +1641,6 @@
       "onboard_time": 1779249620,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 61277,
-      "num": 674141,
-      "word": "一曲莫斯科郊外的晚上欢迎普京",
-      "onboard_time": 1779265822,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 58810,
@@ -1433,6 +1713,14 @@
       "onboard_time": 1779265401,
       "rank": 49,
       "category": "数码"
+    },
+    {
+      "raw_hot": 46220,
+      "num": 430789,
+      "word": "乌漆麻嘿一口嘿化",
+      "onboard_time": 1779275301,
+      "rank": 20,
+      "category": "美食"
     },
     {
       "raw_hot": 45395,
@@ -1521,6 +1809,14 @@
       "onboard_time": 1779197963,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 23876,
+      "num": 433301,
+      "word": "家业求看广告复活骆文松",
+      "onboard_time": 1779276740,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 23670,

@@ -1,6 +1,6 @@
 {
   "startTime": 1777565126834,
-  "endTime": 1779266506800,
+  "endTime": 1779278069610,
   "band_list": [
     {
       "raw_hot": 25375641,
@@ -1667,6 +1667,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1728702,
+      "num": 442560,
+      "word": "陈赫在综艺发火了",
+      "onboard_time": 1779271822,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1725493,
       "num": 705866,
       "word": "卢昱晓下沉口碑",
@@ -2137,6 +2145,14 @@
       "onboard_time": 1779001220,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1504059,
+      "num": 428655,
+      "word": "李多海怀孕",
+      "onboard_time": 1779272361,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 1502755,
@@ -2817,6 +2833,14 @@
       "onboard_time": 1778213902,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1264560,
+      "num": 426819,
+      "word": "颜颜凯凯没在一起",
+      "onboard_time": 1779277280,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 1260830,
@@ -3793,6 +3817,14 @@
       "onboard_time": 1778597181,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1003514,
+      "num": 441928,
+      "word": "主角热度 反抖音营销第一枪",
+      "onboard_time": 1779275121,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 1003049,
@@ -4945,6 +4977,14 @@
       "onboard_time": 1778541618,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 841065,
+      "num": 439460,
+      "word": "张凌赫回复丁程鑫",
+      "onboard_time": 1779276142,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 840321,
@@ -6523,6 +6563,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 701709,
+      "num": 441145,
+      "word": "杨梅协会会长恳求消费者给果农生路",
+      "onboard_time": 1779267800,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 701400,
       "num": 368308,
       "word": "鞠婧祎 你被人鲨了但你是齐刘海",
@@ -6761,6 +6809,14 @@
       "onboard_time": 1778998400,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 677390,
+      "num": 438743,
+      "word": "于娜退圈十年归来胖若两人",
+      "onboard_time": 1779265762,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 677147,
@@ -8051,6 +8107,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 592723,
+      "num": 436868,
+      "word": "阳朔一米粉店本地人7元游客13元",
+      "onboard_time": 1779275061,
+      "rank": 15,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 591451,
       "num": 499546,
       "word": "特朗普参观天坛感叹惊艳",
@@ -8377,6 +8441,14 @@
       "onboard_time": 1778850082,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 574317,
+      "num": 435662,
+      "word": "王一菲与嘉行解约",
+      "onboard_time": 1779276921,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 572346,
@@ -9195,6 +9267,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 530102,
+      "num": 1084816,
+      "word": "普京与26年前抱过的中国男孩见面了",
+      "onboard_time": 1779274041,
+      "rank": 0,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 529923,
       "num": 329513,
       "word": "女孩演出完退礼服被商家曝光",
@@ -9355,6 +9435,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 523350,
+      "num": 434953,
+      "word": "金莎孙丞潇婚纱照",
+      "onboard_time": 1779272660,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 522995,
       "num": 546302,
       "word": "伦敦世乒赛团体赛",
@@ -9497,6 +9585,14 @@
       "onboard_time": 1778138060,
       "rank": 19,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 518414,
+      "num": 518414,
+      "word": "为什么520朋友圈秀恩爱的变少了",
+      "onboard_time": 1779277280,
+      "rank": 5,
+      "category": "情感"
     },
     {
       "raw_hot": 518404,
@@ -10025,6 +10121,14 @@
       "onboard_time": 1778921480,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 493029,
+      "num": 812915,
+      "word": "普京欢迎宴会",
+      "onboard_time": 1779276261,
+      "rank": 1,
+      "category": "国际时政"
     },
     {
       "raw_hot": 492208,
@@ -11123,6 +11227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 446158,
+      "num": 446158,
+      "word": "这么隐晦的暗恋方式",
+      "onboard_time": 1779267261,
+      "rank": 7,
+      "category": "情感"
+    },
+    {
       "raw_hot": 445937,
       "num": 445937,
       "word": "什么细节让你觉得一个人可靠",
@@ -11587,14 +11699,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 428308,
-      "num": 428308,
-      "word": "于娜退圈十年归来胖若两人",
-      "onboard_time": 1779265762,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 428298,
       "num": 293606,
       "word": "王俊凯去看了五月天",
@@ -11640,6 +11744,14 @@
       "word": "李现是张婧仪的站姐吧",
       "onboard_time": 1778294359,
       "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 425714,
+      "num": 425714,
+      "word": "李晨红包",
+      "onboard_time": 1779275420,
+      "rank": 25,
       "category": "艺人"
     },
     {
@@ -13075,6 +13187,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 376423,
+      "num": 524515,
+      "word": "中方将引进200架波音飞机",
+      "onboard_time": 1779265461,
+      "rank": 41,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 376344,
       "num": 376344,
       "word": "国际乒联为球台故障焦头烂额",
@@ -14155,6 +14275,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 344991,
+      "num": 449111,
+      "word": "豆包没有身份证说话就是狠",
+      "onboard_time": 1779266661,
+      "rank": 6,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 344983,
       "num": 500185,
       "word": "姜广涛为躲雨误入选美圈",
@@ -14595,6 +14723,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 333801,
+      "num": 298803,
+      "word": "颜凯be",
+      "onboard_time": 1779277880,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 333764,
       "num": 333764,
       "word": "痞幼脱鞋与毛巾二叔合照",
@@ -14817,6 +14953,14 @@
       "onboard_time": 1778226801,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 328123,
+      "num": 309467,
+      "word": "丁程鑫看的是正经逐玉吗",
+      "onboard_time": 1779269480,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 328105,
@@ -15315,6 +15459,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 317087,
+      "num": 317087,
+      "word": "被戳伤眼球女教师希望处分涉事女生",
+      "onboard_time": 1779275781,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 316711,
       "num": 316711,
       "word": "14岁男孩为父庆生饮酒后翻窗坠亡",
@@ -15809,6 +15961,14 @@
       "onboard_time": 1778376320,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 304899,
+      "num": 304899,
+      "word": "普京访华欢迎宴会",
+      "onboard_time": 1779276142,
+      "rank": 32,
+      "category": "国际时政"
     },
     {
       "raw_hot": 304845,
@@ -17619,6 +17779,14 @@
       "category": "网红,作品衍生"
     },
     {
+      "raw_hot": 268444,
+      "num": 253566,
+      "word": "喜笑颜凯",
+      "onboard_time": 1779255144,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 268186,
       "num": 338166,
       "word": "第一个想到这么赚零花钱的是个天才",
@@ -18483,6 +18651,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 253314,
+      "num": 426456,
+      "word": "打开朋友圈误入玻璃厂",
+      "onboard_time": 1779265940,
+      "rank": 6,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 252994,
       "num": 248922,
       "word": "齐豫 歌手2026",
@@ -18763,6 +18939,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 248925,
+      "num": 248925,
+      "word": "十个勤天巡演官宣",
+      "onboard_time": 1779273680,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
       "raw_hot": 248918,
       "num": 248012,
       "word": "Peanut破防了",
@@ -18777,14 +18961,6 @@
       "onboard_time": 1778196739,
       "rank": 21,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 248794,
-      "num": 426456,
-      "word": "打开朋友圈误入玻璃厂",
-      "onboard_time": 1779265940,
-      "rank": 6,
-      "category": "音乐"
     },
     {
       "raw_hot": 248697,
@@ -20379,6 +20555,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 226722,
+      "num": 253686,
+      "word": "五子棋下成二维码了",
+      "onboard_time": 1779271340,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 226210,
       "num": 409685,
       "word": "周深追不上伴舞气笑了",
@@ -21651,14 +21835,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 210730,
-      "num": 210730,
-      "word": "喜笑颜凯",
-      "onboard_time": 1779255144,
-      "rank": 35,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 210501,
       "num": 210501,
       "word": "特朗普访华整晚都在谈台湾问题",
@@ -22851,14 +23027,6 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 197001,
-      "num": 197001,
-      "word": "中方将引进200架波音飞机",
-      "onboard_time": 1779265461,
-      "rank": 41,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 196965,
       "num": 196965,
       "word": "女生没电脑在电竞馆学习获免单",
@@ -23121,6 +23289,14 @@
       "onboard_time": 1778987120,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 193922,
+      "num": 305163,
+      "word": "iQOO15T新品发布",
+      "onboard_time": 1779276921,
+      "rank": 31,
+      "category": "数码"
     },
     {
       "raw_hot": 193916,
@@ -24115,6 +24291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 181676,
+      "num": 445085,
+      "word": "给阿嬷的情书 导演预判",
+      "onboard_time": 1779272601,
+      "rank": 8,
+      "category": "电影"
+    },
+    {
       "raw_hot": 181657,
       "num": 181657,
       "word": "泰国濑尿虾一夜可能就死了",
@@ -24835,6 +25019,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 175081,
+      "num": 250511,
+      "word": "普京说了一句中国古语",
+      "onboard_time": 1779277761,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 175070,
       "num": 100745,
       "word": "张杰让何炅提醒谢娜要超时了",
@@ -24865,6 +25057,14 @@
       "onboard_time": 1777635440,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 174666,
+      "num": 174666,
+      "word": "王橹杰520语音",
+      "onboard_time": 1779277041,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 174568,
@@ -25267,6 +25467,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 171949,
+      "num": 427859,
+      "word": "小米YU7代言人",
+      "onboard_time": 1779275240,
+      "rank": 23,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 171841,
       "num": 144446,
       "word": "于正轰动内娱的王炸",
@@ -25609,6 +25817,14 @@
       "onboard_time": 1777628840,
       "rank": 9,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 168805,
+      "num": 157759,
+      "word": "王橹杰520拍立得",
+      "onboard_time": 1779270679,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 168753,
@@ -26531,6 +26747,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 158221,
+      "num": 316831,
+      "word": "小鹏GX发布会",
+      "onboard_time": 1779275240,
+      "rank": 27,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 158154,
       "num": 158154,
       "word": "优酷来了个全男综艺",
@@ -26601,6 +26825,14 @@
       "onboard_time": 1778058621,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 157760,
+      "num": 157760,
+      "word": "谢依霖 杨幂都生了我怕什么",
+      "onboard_time": 1779271340,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 157701,
@@ -29251,6 +29483,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 129228,
+      "num": 313098,
+      "word": "芯片龙头股价大涨",
+      "onboard_time": 1779272962,
+      "rank": 28,
+      "category": "财经"
+    },
+    {
       "raw_hot": 129211,
       "num": 303389,
       "word": "五四晚会",
@@ -30031,6 +30271,14 @@
       "num": 299567,
       "word": "张本智和一单两分",
       "onboard_time": 1778168841,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 121574,
+      "num": 311474,
+      "word": "汉娜高达采访谈孙颖莎",
+      "onboard_time": 1779275781,
       "rank": 29,
       "category": "体育"
     },
@@ -32027,6 +32275,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 94225,
+      "num": 429423,
+      "word": "尼泊尔大象被虐事件引中国网友不满",
+      "onboard_time": 1779276921,
+      "rank": 21,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 94112,
       "num": 275962,
       "word": "DeepSeek思考过程好萌",
@@ -32107,12 +32363,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 93250,
+      "num": 674141,
+      "word": "一曲莫斯科郊外的晚上欢迎普京",
+      "onboard_time": 1779265822,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 93116,
       "num": 135661,
       "word": "白鹿摘了姚译添眼镜给自己戴",
       "onboard_time": 1777651522,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 93105,
+      "num": 249002,
+      "word": "寿司郎被罚后仍拒洗净餐具",
+      "onboard_time": 1779277041,
+      "rank": 39,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 92917,
@@ -32393,6 +32665,14 @@
       "onboard_time": 1778437275,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 87933,
+      "num": 157751,
+      "word": "Peyz的第14次五杀",
+      "onboard_time": 1779274401,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 87888,
@@ -33707,6 +33987,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 69053,
+      "num": 444421,
+      "word": "小胖 TTG",
+      "onboard_time": 1779257542,
+      "rank": 9,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 69034,
       "num": 138911,
       "word": "常州队世界波破门",
@@ -34185,14 +34473,6 @@
       "onboard_time": 1778828841,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 61277,
-      "num": 674141,
-      "word": "一曲莫斯科郊外的晚上欢迎普京",
-      "onboard_time": 1779265822,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 61239,
@@ -35633,6 +35913,14 @@
       "onboard_time": 1779017000,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 46220,
+      "num": 430789,
+      "word": "乌漆麻嘿一口嘿化",
+      "onboard_time": 1779275301,
+      "rank": 20,
+      "category": "美食"
     },
     {
       "raw_hot": 46217,
@@ -37993,6 +38281,14 @@
       "onboard_time": 1778784915,
       "rank": 42,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 23876,
+      "num": 433301,
+      "word": "家业求看广告复活骆文松",
+      "onboard_time": 1779276740,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 23865,
