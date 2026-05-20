@@ -1,0 +1,410 @@
+{
+  "runTime": 1779311047338,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 165999,
+        "num": 165999,
+        "word": "为什么520朋友圈秀恩爱的变少了",
+        "onboard_time": 1779277280,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 139720,
+        "num": 139720,
+        "word": "抖音禁止录播伪装为直播",
+        "onboard_time": 1779297619,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 8644,
+        "num": 125241,
+        "word": "中俄元首会谈现场都有谁",
+        "onboard_time": 1779286463,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 112426,
+        "num": 112426,
+        "word": "尚公主",
+        "onboard_time": 1779306254,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 99196,
+        "num": 99196,
+        "word": "小学网购45把伞用后全损退回",
+        "onboard_time": 1779292640,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87096,
+        "num": 87096,
+        "word": "普京结束访华",
+        "onboard_time": 1779287002,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 83295,
+        "num": 83295,
+        "word": "讨好型人格建议反复阅读",
+        "onboard_time": 1779302715,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 74395,
+        "num": 74395,
+        "word": "中俄两国联合声明",
+        "onboard_time": 1779290002,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 53226,
+        "num": 53226,
+        "word": "淑柔扮演者回应为何不进演艺圈",
+        "onboard_time": 1779289762,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 38591,
+        "num": 38591,
+        "word": "刘浩存穆桂英剧照",
+        "onboard_time": 1779291920,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117520,
+        "num": 38557,
+        "word": "陈赫在综艺发火了",
+        "onboard_time": 1779271822,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 76741,
+        "num": 38473,
+        "word": "颜颜回复凯凯",
+        "onboard_time": 1779289341,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 49089,
+        "num": 38282,
+        "word": "对人是真皮的有了实感",
+        "onboard_time": 1779292280,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 42737,
+        "num": 38156,
+        "word": "有种痛苦叫邻居买大车",
+        "onboard_time": 1779286823,
+        "rank": 13,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 41843,
+        "num": 38107,
+        "word": "奔驰车主2次调整故意碾压猫咪",
+        "onboard_time": 1779295399,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 38017,
+        "num": 38017,
+        "word": "抖音封了打焦赞直播间",
+        "onboard_time": 1779280882,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 50511,
+        "num": 37967,
+        "word": "戴维没关注凯凯",
+        "onboard_time": 1779293419,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 30400,
+        "num": 37860,
+        "word": "杨梅滞留树上70岁奶奶崩溃哭",
+        "onboard_time": 1779288743,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27796,
+        "num": 37770,
+        "word": "深圳暴雨",
+        "onboard_time": 1779282501,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25675,
+        "num": 37642,
+        "word": "翻倍牛股一字涨停",
+        "onboard_time": 1779285202,
+        "rank": 19,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 43999,
+        "num": 37519,
+        "word": "女子刮大腿疏通胆经像刨木头",
+        "onboard_time": 1779285562,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37464,
+        "num": 37464,
+        "word": "胡海泉被歌手淘汰",
+        "onboard_time": 1779286043,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 35965,
+        "num": 35965,
+        "word": "JDG辟谣清融大闹京东基地",
+        "onboard_time": 1779295758,
+        "rank": 22,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 30850,
+        "num": 30850,
+        "word": "给阿嬷的情书",
+        "onboard_time": 1779284603,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 30803,
+        "num": 30803,
+        "word": "倒过来看才看明白那些云是石头",
+        "onboard_time": 1779284061,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 30475,
+        "num": 30475,
+        "word": "主角",
+        "onboard_time": 1779274581,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 26597,
+        "num": 26597,
+        "word": "张凌赫回复丁程鑫",
+        "onboard_time": 1779276142,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 26513,
+        "num": 26513,
+        "word": "肖战出发参加亚洲艺术电影节",
+        "onboard_time": 1779279021,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 21468,
+        "num": 25835,
+        "word": "福建漳州泡药杨梅事件5人被刑拘",
+        "onboard_time": 1779287542,
+        "rank": 28,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 20609,
+        "num": 25750,
+        "word": "国际足联官宣世界杯全新单曲",
+        "onboard_time": 1779302174,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 38422,
+        "num": 25739,
+        "word": "未开封的饮料都可以偷梁换柱",
+        "onboard_time": 1779280641,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 25708,
+        "num": 25708,
+        "word": "醉酒女钻进锅炉房重度烧伤后中毒身亡",
+        "onboard_time": 1779280220,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24925,
+        "num": 24925,
+        "word": "普京离京对送行人群微笑点头致意",
+        "onboard_time": 1779291441,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 24326,
+        "num": 24326,
+        "word": "张雪机车64号选手获车迷刷屏力挺",
+        "onboard_time": 1779296177,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 24031,
+        "num": 24031,
+        "word": "亚洲艺术电影节",
+        "onboard_time": 1779310754,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 23506,
+        "num": 23506,
+        "word": "小鹏GX价格炸裂",
+        "onboard_time": 1779286463,
+        "rank": 35,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 23315,
+        "num": 23315,
+        "word": "别笑张碧晨也要毕业答辩",
+        "onboard_time": 1779287181,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 22187,
+        "num": 22187,
+        "word": "抖音副总裁谈主角营销争议",
+        "onboard_time": 1779284182,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 21746,
+        "num": 22187,
+        "word": "阴阳师",
+        "onboard_time": 1779310333,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 20980,
+        "num": 22186,
+        "word": "一种很新的道歉方式",
+        "onboard_time": 1779281781,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 20772,
+        "num": 22183,
+        "word": "杨梅果农的生路不该靠消费者的同情",
+        "onboard_time": 1779306373,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20309,
+        "num": 22182,
+        "word": "宋亚轩提及作品你好吗",
+        "onboard_time": 1779288025,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 19513,
+        "num": 22181,
+        "word": "丁程鑫看的是正经逐玉吗",
+        "onboard_time": 1779269480,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 19305,
+        "num": 22178,
+        "word": "孙浩演技 最佳男配",
+        "onboard_time": 1779288502,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 19030,
+        "num": 22177,
+        "word": "白玉兰奖预测就很激烈",
+        "onboard_time": 1779294138,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 18790,
+        "num": 22175,
+        "word": "主角每天都让我哭",
+        "onboard_time": 1779307153,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 18610,
+        "num": 22175,
+        "word": "粥文be",
+        "onboard_time": 1779280042,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 17623,
+        "num": 22174,
+        "word": "普京离京",
+        "onboard_time": 1779287362,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 16744,
+        "num": 22172,
+        "word": "阳朔一米粉店本地人7元游客13元",
+        "onboard_time": 1779275061,
+        "rank": 48,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 16655,
+        "num": 22170,
+        "word": "被普京抱过的男孩回应年龄像50多岁",
+        "onboard_time": 1779289762,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#中俄关系迈上新起点#"
+    }
+  }
+}
