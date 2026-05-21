@@ -1,0 +1,410 @@
+{
+  "runTime": 1779342622544,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1002333,
+        "num": 1160373,
+        "word": "米粉店老板回应本地人7元游客13元",
+        "onboard_time": 1779330019,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 759246,
+        "num": 843548,
+        "word": "马斯克冲击全球首位万亿美元富翁",
+        "onboard_time": 1779338300,
+        "rank": 1,
+        "category": "财经,互联网"
+      },
+      {
+        "raw_hot": 17303,
+        "num": 776423,
+        "word": "小满节气里的烟火诗意",
+        "onboard_time": 1779330139,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 3186719,
+        "num": 763007,
+        "word": "孙杨当众让张豆豆给他道歉",
+        "onboard_time": 1779338901,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 732223,
+        "num": 732223,
+        "word": "杨梅",
+        "onboard_time": 1779339560,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1253156,
+        "num": 731250,
+        "word": "曝铁证王玉雯换张艺凡",
+        "onboard_time": 1779331640,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 679714,
+        "num": 679714,
+        "word": "奶奶一天的接待量",
+        "onboard_time": 1779333200,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 591071,
+        "num": 591071,
+        "word": "姜乘澜 化妆要顺应头发质感",
+        "onboard_time": 1779337100,
+        "rank": 7,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 410693,
+        "num": 410693,
+        "word": "雷霆马刺打得太惨烈了",
+        "onboard_time": 1779336502,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 210109,
+        "num": 332914,
+        "word": "雷军晒YU7GT团队",
+        "onboard_time": 1779336683,
+        "rank": 9,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 4409779,
+        "num": 332442,
+        "word": "金秀贤案件反转",
+        "onboard_time": 1779340101,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 740489,
+        "num": 332141,
+        "word": "王玉雯的资源",
+        "onboard_time": 1779340700,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 331428,
+        "num": 331428,
+        "word": "22岁男子杀害34岁女友被判死缓",
+        "onboard_time": 1779334640,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 581896,
+        "num": 298735,
+        "word": "疑似王鹤棣捏孟子义肩膀说假的",
+        "onboard_time": 1779330740,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 517423,
+        "num": 297997,
+        "word": "主角 上升期小花禁止恋爱",
+        "onboard_time": 1779336141,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 251400,
+        "num": 251400,
+        "word": "孙颖莎说世乒赛决赛打到忘我的感觉了",
+        "onboard_time": 1779335900,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 72741,
+        "num": 248784,
+        "word": "KMS打不开",
+        "onboard_time": 1779335422,
+        "rank": 16,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 160139,
+        "num": 246701,
+        "word": "由易烊千玺备份的精彩世界",
+        "onboard_time": 1779341781,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21734,
+        "num": 243088,
+        "word": "盗版新华字典的销量竟超过正版",
+        "onboard_time": 1779342080,
+        "rank": 18,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 289170,
+        "num": 241984,
+        "word": "人生自取其辱十件套",
+        "onboard_time": 1779328157,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 476094,
+        "num": 239521,
+        "word": "宋亚轩买家秀vs卖家秀",
+        "onboard_time": 1779337881,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 463126,
+        "num": 234842,
+        "word": "王菲唱主角 单纯喜欢张嘉益",
+        "onboard_time": 1779339023,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2275398,
+        "num": 232466,
+        "word": "月经期洗澡停经 下丘脑对温度敏感",
+        "onboard_time": 1779334701,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 185137,
+        "num": 230352,
+        "word": "比亚迪元PLUS代言人王楚然",
+        "onboard_time": 1779338362,
+        "rank": 23,
+        "category": "汽车,艺人"
+      },
+      {
+        "raw_hot": 711301,
+        "num": 225962,
+        "word": "恋综 背调",
+        "onboard_time": 1779330680,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 422521,
+        "num": 223660,
+        "word": "韩警方称金赛纶的声音是AI造假",
+        "onboard_time": 1779339261,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 222575,
+        "num": 222575,
+        "word": "袁隆平夫人祭拜前拒绝了搀扶",
+        "onboard_time": 1779341240,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 317654,
+        "num": 222344,
+        "word": "伊能静说张豆豆哭起来像刘诗诗",
+        "onboard_time": 1779342559,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174866,
+        "num": 220720,
+        "word": "特朗普回应中俄元首会晤",
+        "onboard_time": 1779327979,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 361436,
+        "num": 220255,
+        "word": "让肖战看行李这个赛道好热闹",
+        "onboard_time": 1779337401,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 359190,
+        "num": 219023,
+        "word": "Angelababy银裙高定",
+        "onboard_time": 1779330079,
+        "rank": 30,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 243794,
+        "num": 218559,
+        "word": "檀健次卢昱晓好激烈的吻戏",
+        "onboard_time": 1779325459,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 217706,
+        "num": 217706,
+        "word": "小学退回全损雨伞家委会致歉赔偿",
+        "onboard_time": 1779320421,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 357669,
+        "num": 215936,
+        "word": "刘亦菲超900天没组进",
+        "onboard_time": 1779341721,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 326579,
+        "num": 213890,
+        "word": "RAIN回应金泰熙因育儿压力大落泪",
+        "onboard_time": 1779337221,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 209370,
+        "num": 209370,
+        "word": "70岁阿姨给男主播打赏336万",
+        "onboard_time": 1779336683,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 250225,
+        "num": 205521,
+        "word": "麦迪娜姜潮7岁儿子颜值",
+        "onboard_time": 1779336740,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193926,
+        "num": 193926,
+        "word": "女子在博物馆看到闺蜜了",
+        "onboard_time": 1779340880,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 193465,
+        "num": 193465,
+        "word": "江语晨吃饭用的雷霆大勺",
+        "onboard_time": 1779335180,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108137,
+        "num": 186667,
+        "word": "影后视后都在追主角",
+        "onboard_time": 1779342021,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183162,
+        "num": 183162,
+        "word": "面试空窗期",
+        "onboard_time": 1779341959,
+        "rank": 40,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 179919,
+        "num": 181734,
+        "word": "TF家族运动会在选号码了",
+        "onboard_time": 1779338242,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184406,
+        "num": 181639,
+        "word": "没戴珠宝的刘亦菲是最闪耀的珠宝",
+        "onboard_time": 1779342500,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181359,
+        "num": 181359,
+        "word": "找工作 短期主义",
+        "onboard_time": 1779336560,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 181213,
+        "num": 181213,
+        "word": "陈都灵 不醒",
+        "onboard_time": 1779341301,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181187,
+        "num": 181187,
+        "word": "白玉兰",
+        "onboard_time": 1779326479,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155622,
+        "num": 176184,
+        "word": "孙颖莎天道酬勤",
+        "onboard_time": 1779341660,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 138649,
+        "num": 175356,
+        "word": "雷霆1比1马刺",
+        "onboard_time": 1779333379,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 175048,
+        "num": 175048,
+        "word": "陈哲远说陈奕恒的狗很可爱",
+        "onboard_time": 1779338901,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120311,
+        "num": 165297,
+        "word": "印4岁女孩光天化日遭多名劫匪抢走",
+        "onboard_time": 1779339681,
+        "rank": 49,
+        "category": "海外新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席这样提炼中俄关系发展历程#"
+    }
+  }
+}

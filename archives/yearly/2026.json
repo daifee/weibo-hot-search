@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1779337039142,
+  "endTime": 1779342622544,
   "band_list": [
     {
       "raw_hot": 46860992,
@@ -1267,6 +1267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 4409779,
+      "num": 332442,
+      "word": "金秀贤案件反转",
+      "onboard_time": 1779340101,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 4371841,
       "num": 326544,
       "word": "马立奥有妹妹了",
@@ -2011,6 +2019,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 3186719,
+      "num": 763007,
+      "word": "孙杨当众让张豆豆给他道歉",
+      "onboard_time": 1779338901,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 3175580,
       "num": 211141,
       "word": "齐思钧回应分手",
@@ -2385,22 +2401,6 @@
       "onboard_time": 1769681065,
       "rank": 46,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 2802336,
-      "num": 440459,
-      "word": "早期刘三姐演出全裸桥段",
-      "onboard_time": 1778238920,
-      "rank": 10,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 2798944,
-      "num": 2798944,
-      "word": "中国男团2比2瑞典",
-      "onboard_time": 1777819882,
-      "rank": 8,
-      "category": "体育"
     }
   ],
   "hotgov_list": [
