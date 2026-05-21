@@ -1,6 +1,6 @@
 {
   "startTime": 1778951228781,
-  "endTime": 1779371076736,
+  "endTime": 1779380513479,
   "band_list": [
     {
       "raw_hot": 17984788,
@@ -177,6 +177,14 @@
       "onboard_time": 1779334219,
       "rank": 0,
       "category": "数码"
+    },
+    {
+      "raw_hot": 2492570,
+      "num": 261393,
+      "word": "曝Angelababy没有靠黄晓明",
+      "onboard_time": 1779373642,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 2489871,
@@ -512,6 +520,14 @@
       "word": "林俊杰现身七七毕业典礼",
       "onboard_time": 1779166582,
       "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1437252,
+      "num": 267479,
+      "word": "至今不知道庾澄庆家有多难搞",
+      "onboard_time": 1779371722,
+      "rank": 10,
       "category": "艺人"
     },
     {
@@ -1163,6 +1179,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 848594,
+      "num": 968431,
+      "word": "雷军说输给特斯拉不丢人",
+      "onboard_time": 1779369441,
+      "rank": 5,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 841065,
       "num": 504006,
       "word": "张凌赫回复丁程鑫",
@@ -1345,14 +1369,6 @@
       "onboard_time": 1779100880,
       "rank": 40,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 765949,
-      "num": 765949,
-      "word": "雷军说输给特斯拉不丢人",
-      "onboard_time": 1779369441,
-      "rank": 5,
-      "category": "汽车"
     },
     {
       "raw_hot": 759604,
@@ -1771,6 +1787,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 640783,
+      "num": 640783,
+      "word": "肖战金海燕奖最佳男主角",
+      "onboard_time": 1779373402,
+      "rank": 3,
+      "category": "电影"
+    },
+    {
       "raw_hot": 639862,
       "num": 229807,
       "word": "樊振东希望下次打得更好被队友婉拒",
@@ -2099,6 +2123,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 555560,
+      "num": 354344,
+      "word": "颜颜 凯凯",
+      "onboard_time": 1779376161,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 552675,
       "num": 500007,
       "word": "用婴儿形象玩具擦边让人不寒而栗",
@@ -2153,6 +2185,14 @@
       "onboard_time": 1779158422,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 542391,
+      "num": 264312,
+      "word": "谁给娜扎美甲贴成这样的",
+      "onboard_time": 1779373701,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 541104,
@@ -3523,6 +3563,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 332960,
+      "num": 438940,
+      "word": "父母弄散儿子拼3天积木感觉天塌了",
+      "onboard_time": 1779369922,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 332575,
       "num": 298971,
       "word": "李英爱问张凌赫很有名吗",
@@ -3971,6 +4019,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 294877,
+      "num": 294877,
+      "word": "得闲谨制横扫",
+      "onboard_time": 1779374422,
+      "rank": 7,
+      "category": "电影"
+    },
+    {
       "raw_hot": 293329,
       "num": 431231,
       "word": "大裁员前夕Meta员工疯狂薅羊毛",
@@ -4211,6 +4267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 275993,
+      "num": 258341,
+      "word": "我逛街偶遇Jennie了",
+      "onboard_time": 1779374542,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 275862,
       "num": 481804,
       "word": "哈登失误",
@@ -4307,6 +4371,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 268326,
+      "num": 338959,
+      "word": "小米耳夹式耳机849元",
+      "onboard_time": 1779364580,
+      "rank": 37,
+      "category": "数码"
+    },
+    {
       "raw_hot": 267349,
       "num": 419188,
       "word": "深圳暴雨",
@@ -4379,11 +4451,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 263847,
+      "num": 257750,
+      "word": "Haru拍的影帝肖战",
+      "onboard_time": 1779376641,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 263030,
       "num": 355997,
       "word": "2万多元商品签收2天被仅退款",
       "onboard_time": 1779329420,
       "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 262639,
+      "num": 262639,
+      "word": "母亲阳台烧香起火致2子女身亡",
+      "onboard_time": 1779376461,
+      "rank": 17,
       "category": "民生新闻"
     },
     {
@@ -4417,14 +4505,6 @@
       "onboard_time": 1779291920,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 259558,
-      "num": 438940,
-      "word": "父母弄散儿子拼3天积木感觉天塌了",
-      "onboard_time": 1779369922,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 259089,
@@ -5099,14 +5179,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 222067,
-      "num": 338959,
-      "word": "小米耳夹式耳机849元",
-      "onboard_time": 1779364580,
-      "rank": 37,
-      "category": "数码"
-    },
-    {
       "raw_hot": 222027,
       "num": 222027,
       "word": "骑士4比3淘汰活塞",
@@ -5137,6 +5209,14 @@
       "onboard_time": 1779239001,
       "rank": 36,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 219901,
+      "num": 219901,
+      "word": "给阿嬷的情书亚洲年度最佳艺术电影",
+      "onboard_time": 1779378801,
+      "rank": 34,
+      "category": "电影"
     },
     {
       "raw_hot": 219831,
@@ -5409,6 +5489,14 @@
       "onboard_time": 1779071780,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 207702,
+      "num": 207702,
+      "word": "张馨予妲己妆",
+      "onboard_time": 1779377661,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 207106,
@@ -6371,6 +6459,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 164605,
+      "num": 164605,
+      "word": "刘亦菲对镜四连拍",
+      "onboard_time": 1779380180,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 164496,
       "num": 156205,
       "word": "减掉内脏脂肪才是减肥关键",
@@ -6443,6 +6539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 160451,
+      "num": 227730,
+      "word": "Viper手部伤情加重",
+      "onboard_time": 1779380059,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 160424,
       "num": 160424,
       "word": "阿森纳1比0伯恩利",
@@ -6465,6 +6569,14 @@
       "onboard_time": 1779022042,
       "rank": 45,
       "category": "财经,互联网"
+    },
+    {
+      "raw_hot": 159695,
+      "num": 259078,
+      "word": "LV纽约大秀",
+      "onboard_time": 1779376102,
+      "rank": 24,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 159669,
@@ -6553,6 +6665,14 @@
       "onboard_time": 1779341660,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 154667,
+      "num": 263835,
+      "word": "小米YU7新增入门版",
+      "onboard_time": 1779371121,
+      "rank": 15,
+      "category": "汽车"
     },
     {
       "raw_hot": 154626,
@@ -6803,6 +6923,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 142068,
+      "num": 142068,
+      "word": "尹净汉跳舞",
+      "onboard_time": 1779377002,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 140496,
       "num": 140496,
       "word": "万千惠情商",
@@ -6971,6 +7099,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 131819,
+      "num": 256498,
+      "word": "护工拍打刚满月婴儿致其脑出血",
+      "onboard_time": 1779379280,
+      "rank": 28,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 131493,
       "num": 127905,
       "word": "预制菜已经进化到开展会了",
@@ -7081,6 +7217,14 @@
       "onboard_time": 1779291681,
       "rank": 30,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 124982,
+      "num": 160085,
+      "word": "归期 转会",
+      "onboard_time": 1779372082,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 124165,
@@ -7201,6 +7345,14 @@
       "onboard_time": 1779195681,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 117749,
+      "num": 142862,
+      "word": "26年买小米还是买特斯拉",
+      "onboard_time": 1779371661,
+      "rank": 44,
+      "category": "汽车"
     },
     {
       "raw_hot": 117337,
@@ -7563,6 +7715,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 97383,
+      "num": 141970,
+      "word": "王腾说YU7GT价格真香",
+      "onboard_time": 1779373821,
+      "rank": 47,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 96440,
       "num": 110250,
       "word": "绿龙夺冠",
@@ -7627,6 +7787,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 92361,
+      "num": 256144,
+      "word": "寿司郎为什么洗不干净盘子",
+      "onboard_time": 1779375382,
+      "rank": 29,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 92349,
       "num": 92349,
       "word": "为什么领导总是那么精力充沛",
@@ -7689,6 +7857,14 @@
       "onboard_time": 1778954296,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 89486,
+      "num": 141892,
+      "word": "深圳男篮vs广厦男篮",
+      "onboard_time": 1779380419,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 89398,

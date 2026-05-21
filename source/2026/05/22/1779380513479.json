@@ -1,0 +1,410 @@
+{
+  "runTime": 1779380513479,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 848594,
+        "num": 968431,
+        "word": "雷军说输给特斯拉不丢人",
+        "onboard_time": 1779369441,
+        "rank": 0,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 435398,
+        "num": 698663,
+        "word": "小米YU7GT价格",
+        "onboard_time": 1779365540,
+        "rank": 1,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 27349,
+        "num": 659104,
+        "word": "我国建成规模最大水利基础设施体系",
+        "onboard_time": 1779366861,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 640783,
+        "num": 640783,
+        "word": "肖战金海燕奖最佳男主角",
+        "onboard_time": 1779373402,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 359027,
+        "num": 359027,
+        "word": "官方通报税务局职工上班玩手游",
+        "onboard_time": 1779368123,
+        "rank": 4,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 555560,
+        "num": 354344,
+        "word": "颜颜 凯凯",
+        "onboard_time": 1779376161,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 332612,
+        "num": 332612,
+        "word": "不小心把DeepSeek叫成豆包",
+        "onboard_time": 1779353301,
+        "rank": 6,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 294877,
+        "num": 294877,
+        "word": "得闲谨制横扫",
+        "onboard_time": 1779374422,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 268326,
+        "num": 268326,
+        "word": "小米耳夹式耳机849元",
+        "onboard_time": 1779364580,
+        "rank": 8,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 161130,
+        "num": 267732,
+        "word": "老人不买天价鹿茸被一脚踹翻",
+        "onboard_time": 1779361221,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1437252,
+        "num": 267479,
+        "word": "至今不知道庾澄庆家有多难搞",
+        "onboard_time": 1779371722,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1027451,
+        "num": 266286,
+        "word": "任敏一口气发了154张照片",
+        "onboard_time": 1779366980,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 301426,
+        "num": 265809,
+        "word": "洛克王国 暗改",
+        "onboard_time": 1779362239,
+        "rank": 12,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 610674,
+        "num": 265062,
+        "word": "张元英总裁从五百平的床上醒来",
+        "onboard_time": 1779369441,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 542391,
+        "num": 264312,
+        "word": "谁给娜扎美甲贴成这样的",
+        "onboard_time": 1779373701,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154667,
+        "num": 263835,
+        "word": "小米YU7新增入门版",
+        "onboard_time": 1779371121,
+        "rank": 15,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 129212,
+        "num": 262668,
+        "word": "史上最大IPO就要来了",
+        "onboard_time": 1779361999,
+        "rank": 16,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 262639,
+        "num": 262639,
+        "word": "母亲阳台烧香起火致2子女身亡",
+        "onboard_time": 1779376461,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164996,
+        "num": 262113,
+        "word": "夫妻二胎流3次丈夫认为自己没问题",
+        "onboard_time": 1779364040,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 484436,
+        "num": 261596,
+        "word": "王菲别唱了",
+        "onboard_time": 1779368302,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 2492570,
+        "num": 261393,
+        "word": "曝Angelababy没有靠黄晓明",
+        "onboard_time": 1779373642,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 332960,
+        "num": 260404,
+        "word": "父母弄散儿子拼3天积木感觉天塌了",
+        "onboard_time": 1779369922,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 719998,
+        "num": 259928,
+        "word": "宁艺卓评论吉赛尔恋情传闻帖",
+        "onboard_time": 1779363020,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 412704,
+        "num": 259731,
+        "word": "田曦薇西装露额头",
+        "onboard_time": 1779370762,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 159695,
+        "num": 259078,
+        "word": "LV纽约大秀",
+        "onboard_time": 1779376102,
+        "rank": 24,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 275993,
+        "num": 258341,
+        "word": "我逛街偶遇Jennie了",
+        "onboard_time": 1779374542,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 263847,
+        "num": 257750,
+        "word": "Haru拍的影帝肖战",
+        "onboard_time": 1779376641,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 179145,
+        "num": 257445,
+        "word": "A股突然下跌原因找到了",
+        "onboard_time": 1779358100,
+        "rank": 27,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 131819,
+        "num": 256498,
+        "word": "护工拍打刚满月婴儿致其脑出血",
+        "onboard_time": 1779379280,
+        "rank": 28,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 92361,
+        "num": 256144,
+        "word": "寿司郎为什么洗不干净盘子",
+        "onboard_time": 1779375382,
+        "rank": 29,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 255931,
+        "num": 255931,
+        "word": "白鹿 油画公主",
+        "onboard_time": 1779365839,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 242083,
+        "num": 242083,
+        "word": "金秀贤从全民唾骂到沉冤得雪",
+        "onboard_time": 1779350899,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160451,
+        "num": 227730,
+        "word": "Viper手部伤情加重",
+        "onboard_time": 1779380059,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 224733,
+        "num": 224733,
+        "word": "庾澄庆问窦靖童怎么称呼",
+        "onboard_time": 1779363740,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 219901,
+        "num": 219901,
+        "word": "给阿嬷的情书亚洲年度最佳艺术电影",
+        "onboard_time": 1779378801,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 125622,
+        "num": 218852,
+        "word": "洛克王国世界",
+        "onboard_time": 1779351861,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 218072,
+        "num": 218072,
+        "word": "歌手歌单",
+        "onboard_time": 1779364700,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 207702,
+        "num": 207702,
+        "word": "张馨予妲己妆",
+        "onboard_time": 1779377661,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125438,
+        "num": 190681,
+        "word": "小米YU7GT",
+        "onboard_time": 1779364880,
+        "rank": 38,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 175376,
+        "num": 175376,
+        "word": "孙杨当众让张豆豆给他道歉",
+        "onboard_time": 1779338901,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164605,
+        "num": 164605,
+        "word": "刘亦菲对镜四连拍",
+        "onboard_time": 1779380180,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124982,
+        "num": 160085,
+        "word": "归期 转会",
+        "onboard_time": 1779372082,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 158176,
+        "num": 158176,
+        "word": "主角",
+        "onboard_time": 1779363920,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152775,
+        "num": 152775,
+        "word": "Angelababy画的红黄蓝",
+        "onboard_time": 1779361699,
+        "rank": 43,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 117749,
+        "num": 142862,
+        "word": "26年买小米还是买特斯拉",
+        "onboard_time": 1779371661,
+        "rank": 44,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 142068,
+        "num": 142068,
+        "word": "尹净汉跳舞",
+        "onboard_time": 1779377002,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132987,
+        "num": 142065,
+        "word": "金秀贤案件反转",
+        "onboard_time": 1779340101,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97383,
+        "num": 141970,
+        "word": "王腾说YU7GT价格真香",
+        "onboard_time": 1779373821,
+        "rank": 47,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 96680,
+        "num": 141936,
+        "word": "暗恋同事的有福了",
+        "onboard_time": 1779354860,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 89486,
+        "num": 141892,
+        "word": "深圳男篮vs广厦男篮",
+        "onboard_time": 1779380419,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中俄关系站得更高走得更稳行得更远#"
+    }
+  }
+}
