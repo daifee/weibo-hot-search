@@ -1,6 +1,6 @@
 {
   "startTime": 1778951228781,
-  "endTime": 1779383565717,
+  "endTime": 1779390302843,
   "band_list": [
     {
       "raw_hot": 17984788,
@@ -8035,6 +8035,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 84299,
+      "num": 230580,
+      "word": "豆包炒股建议",
+      "onboard_time": 1779382818,
+      "rank": 38,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 84282,
       "num": 232843,
       "word": "弟弟谎报身份致哥哥成吸毒人员",
@@ -8587,14 +8595,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 63320,
-      "num": 230580,
-      "word": "豆包炒股建议",
-      "onboard_time": 1779382818,
-      "rank": 38,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 63158,
       "num": 314450,
       "word": "杨洋张予曦新剧10集才相认",
@@ -8633,6 +8633,14 @@
       "onboard_time": 1779100821,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 59763,
+      "num": 47956,
+      "word": "肖战极限24小时状态",
+      "onboard_time": 1779387255,
+      "rank": 22,
+      "category": "电影"
     },
     {
       "raw_hot": 59260,
@@ -9571,6 +9579,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 30368,
+      "num": 34263,
+      "word": "袁隆平吴孟超逝世5年了",
+      "onboard_time": 1779386355,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 30250,
       "num": 176841,
       "word": "泰国火车与巴士相撞已致8死32伤",
@@ -9649,6 +9665,14 @@
       "onboard_time": 1778990901,
       "rank": 19,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 27481,
+      "num": 34082,
+      "word": "小米17Max真香",
+      "onboard_time": 1779390015,
+      "rank": 37,
+      "category": "数码"
     },
     {
       "raw_hot": 26391,
@@ -9929,6 +9953,14 @@
       "onboard_time": 1779024080,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 19646,
+      "num": 32962,
+      "word": "BBK ZSMJ",
+      "onboard_time": 1779382818,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 18836,
