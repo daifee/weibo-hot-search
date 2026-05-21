@@ -1,12 +1,20 @@
 {
   "startTime": 1779293187585,
-  "endTime": 1779342622544,
+  "endTime": 1779352773764,
   "band_list": [
     {
       "raw_hot": 4409779,
       "num": 332442,
       "word": "金秀贤案件反转",
       "onboard_time": 1779340101,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 3583516,
+      "num": 296667,
+      "word": "金秀贤从全民唾骂到沉冤得雪",
+      "onboard_time": 1779350899,
       "rank": 10,
       "category": "艺人"
     },
@@ -49,6 +57,14 @@
       "onboard_time": 1779331640,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 2070813,
+      "num": 295682,
+      "word": "女孩怕责备隐瞒被狗咬后狂犬病去世",
+      "onboard_time": 1779346819,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 2050981,
@@ -115,6 +131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1121513,
+      "num": 1179442,
+      "word": "税务局职工被曝上班脚翘桌上玩手游",
+      "onboard_time": 1779350481,
+      "rank": 0,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 1075634,
       "num": 1075634,
       "word": "奶奶一天的接待量",
@@ -161,6 +185,14 @@
       "onboard_time": 1779331101,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 877033,
+      "num": 554400,
+      "word": "孙杨向张豆豆道歉",
+      "onboard_time": 1779351380,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 759246,
@@ -233,6 +265,22 @@
       "onboard_time": 1779333379,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 604865,
+      "num": 291628,
+      "word": "金赛纶聊天记录被篡改",
+      "onboard_time": 1779344840,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 600364,
+      "num": 287052,
+      "word": "李佳琦胖出啤酒肚",
+      "onboard_time": 1779351801,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 591071,
@@ -339,6 +387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 478216,
+      "num": 281136,
+      "word": "小黄豆520收到一束油漆花",
+      "onboard_time": 1779349400,
+      "rank": 22,
+      "category": "网红"
+    },
+    {
       "raw_hot": 476094,
       "num": 239521,
       "word": "宋亚轩买家秀vs卖家秀",
@@ -419,6 +475,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 410940,
+      "num": 291025,
+      "word": "A股跌破4100",
+      "onboard_time": 1779346880,
+      "rank": 14,
+      "category": "财经"
+    },
+    {
       "raw_hot": 410693,
       "num": 410693,
       "word": "雷霆马刺打得太惨烈了",
@@ -465,6 +529,14 @@
       "onboard_time": 1779321380,
       "rank": 16,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 383110,
+      "num": 383110,
+      "word": "17人终身禁止从事足球有关活动",
+      "onboard_time": 1779349280,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 380467,
@@ -540,7 +612,7 @@
     },
     {
       "raw_hot": 357669,
-      "num": 215936,
+      "num": 218427,
       "word": "刘亦菲超900天没组进",
       "onboard_time": 1779341721,
       "rank": 33,
@@ -553,6 +625,14 @@
       "onboard_time": 1779327979,
       "rank": 22,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 354005,
+      "num": 280831,
+      "word": "袁隆平夫人祭拜前拒绝了搀扶",
+      "onboard_time": 1779341240,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 341393,
@@ -603,6 +683,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 298722,
+      "num": 298722,
+      "word": "特朗普称卸任后不排除去竞选以总理",
+      "onboard_time": 1779347240,
+      "rank": 8,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 296812,
       "num": 296812,
       "word": "普京欢迎宴会",
@@ -627,6 +715,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 286895,
+      "num": 286895,
+      "word": "日本乒乓球队亚运会名单",
+      "onboard_time": 1779347119,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 286701,
       "num": 352290,
       "word": "有种痛苦叫邻居买大车",
@@ -641,6 +737,14 @@
       "onboard_time": 1779332659,
       "rank": 31,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 279957,
+      "num": 279957,
+      "word": "良陈美锦大结局",
+      "onboard_time": 1779342860,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 277238,
@@ -699,6 +803,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 258449,
+      "num": 258449,
+      "word": "面试空窗期",
+      "onboard_time": 1779341959,
+      "rank": 40,
+      "category": "教育"
+    },
+    {
       "raw_hot": 255357,
       "num": 358523,
       "word": "白鹿见面会抢票",
@@ -721,6 +833,14 @@
       "onboard_time": 1779335900,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 251322,
+      "num": 251322,
+      "word": "小黄豆追星运",
+      "onboard_time": 1779350419,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 250686,
@@ -779,6 +899,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 239204,
+      "num": 239204,
+      "word": "马頔带李纯看极光准备了头纱",
+      "onboard_time": 1779348620,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 234311,
       "num": 535667,
       "word": "翻倍牛股一字涨停",
@@ -793,14 +921,6 @@
       "onboard_time": 1779288502,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 222575,
-      "num": 222575,
-      "word": "袁隆平夫人祭拜前拒绝了搀扶",
-      "onboard_time": 1779341240,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 222557,
@@ -891,6 +1011,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 196749,
+      "num": 179689,
+      "word": "亚洲艺术电影节红毯",
+      "onboard_time": 1779344661,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 193926,
       "num": 193926,
       "word": "女子在博物馆看到闺蜜了",
@@ -923,14 +1051,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 183162,
-      "num": 183162,
-      "word": "面试空窗期",
-      "onboard_time": 1779341959,
-      "rank": 40,
-      "category": "教育"
-    },
-    {
       "raw_hot": 181213,
       "num": 181213,
       "word": "陈都灵 不醒",
@@ -953,6 +1073,22 @@
       "onboard_time": 1779338242,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 179797,
+      "num": 179797,
+      "word": "高市早苗给李在明讲闹鬼传闻",
+      "onboard_time": 1779344661,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 179060,
+      "num": 179060,
+      "word": "虞书欣为洪潇林柏叡新剧打call",
+      "onboard_time": 1779348021,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 175048,
@@ -979,6 +1115,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 167517,
+      "num": 167517,
+      "word": "生源减少后小学老师开始转岗",
+      "onboard_time": 1779349581,
+      "rank": 37,
+      "category": "教育"
+    },
+    {
       "raw_hot": 167412,
       "num": 213792,
       "word": "官方通报泡药杨梅",
@@ -1001,6 +1145,14 @@
       "onboard_time": 1779323840,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 165085,
+      "num": 165085,
+      "word": "鞠婧祎 拉芳",
+      "onboard_time": 1779346939,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 163288,
@@ -1067,6 +1219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 149934,
+      "num": 147565,
+      "word": "马龙溜达的时候被孙颖莎叫来聊球",
+      "onboard_time": 1779348561,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 149744,
       "num": 149744,
       "word": "JDG辟谣清融大闹京东基地",
@@ -1075,12 +1235,52 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 149463,
+      "num": 149463,
+      "word": "洛克王国世界",
+      "onboard_time": 1779351861,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 147138,
+      "num": 147138,
+      "word": "鹿晗看见人就开始拜",
+      "onboard_time": 1779350360,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 145459,
+      "num": 145459,
+      "word": "TF五代沈子航同学录",
+      "onboard_time": 1779345619,
+      "rank": 44,
+      "category": "艺人,综艺"
+    },
+    {
+      "raw_hot": 145007,
+      "num": 145007,
+      "word": "世乒赛马龙指导王曼昱",
+      "onboard_time": 1779350959,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 144951,
       "num": 193265,
       "word": "杨幂真的会接住谢依霖",
       "onboard_time": 1779281901,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 137746,
+      "num": 137746,
+      "word": "A股跳水冲高回落",
+      "onboard_time": 1779350720,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 128406,
@@ -1163,6 +1363,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 85850,
+      "num": 232376,
+      "word": "小学门口放学信息播报被喊全国推广",
+      "onboard_time": 1779351441,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 81353,
       "num": 182554,
       "word": "刘宇宁说我的身材很曼妙",
@@ -1193,6 +1401,14 @@
       "onboard_time": 1779296177,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 70469,
+      "num": 241194,
+      "word": "618买数码产品别抄错作业",
+      "onboard_time": 1779350839,
+      "rank": 28,
+      "category": "数码"
     },
     {
       "raw_hot": 68099,
@@ -1275,6 +1491,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 47241,
+      "num": 285874,
+      "word": "终于实现618现货自由",
+      "onboard_time": 1779350839,
+      "rank": 18,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 47089,
       "num": 378378,
       "word": "美军航母进入加勒比海",
@@ -1283,12 +1507,36 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 45888,
+      "num": 137879,
+      "word": "我的购物车先宠自己",
+      "onboard_time": 1779351441,
+      "rank": 48,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 45653,
       "num": 373582,
       "word": "印度新娘家庭常因嫁妆倾家荡产",
       "onboard_time": 1779336079,
       "rank": 19,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 45569,
+      "num": 655705,
+      "word": "南方还有2轮强降雨",
+      "onboard_time": 1779350120,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 45109,
+      "num": 282331,
+      "word": "易烊千玺每一步都被好好保存",
+      "onboard_time": 1779350839,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 39466,
@@ -1355,6 +1603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 23668,
+      "num": 252559,
+      "word": "2男子装醉掩护同伙入侵女宅偷拍",
+      "onboard_time": 1779351441,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 23132,
       "num": 23132,
       "word": "阴阳师",
@@ -1395,6 +1651,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 14894,
+      "num": 285530,
+      "word": "煤企损毁明长城被停产整顿",
+      "onboard_time": 1779351681,
+      "rank": 19,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 11451,
+      "num": 147614,
+      "word": "湖南石门海拔超1000米致救援困难",
+      "onboard_time": 1779351560,
+      "rank": 41,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 7093,
       "num": 208718,
       "word": "阴阳师手游十周年庆典",
@@ -1420,6 +1692,9 @@
     },
     {
       "word": "#习主席这样提炼中俄关系发展历程#"
+    },
+    {
+      "word": "#100秒看中俄元首北京会晤#"
     }
   ]
 }

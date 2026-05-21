@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1779342622544,
+  "endTime": 1779352773764,
   "band_list": [
     {
       "raw_hot": 46860992,
@@ -1667,6 +1667,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 3583516,
+      "num": 296667,
+      "word": "金秀贤从全民唾骂到沉冤得雪",
+      "onboard_time": 1779350899,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 3580894,
       "num": 4661789,
       "word": "U23男足晋级四强",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1773113601,
       "rank": 10,
       "category": "情感"
-    },
-    {
-      "raw_hot": 2802556,
-      "num": 826760,
-      "word": "Bin疑似离队",
-      "onboard_time": 1769681065,
-      "rank": 46,
-      "category": "电竞"
     }
   ],
   "hotgov_list": [
