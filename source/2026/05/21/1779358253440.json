@@ -1,0 +1,410 @@
+{
+  "runTime": 1779358253440,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1691499,
+        "num": 1691499,
+        "word": "税务局职工被曝上班脚翘桌上玩手游",
+        "onboard_time": 1779350481,
+        "rank": 0,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 753213,
+        "num": 890670,
+        "word": "36岁高三老师高考前倒在讲台去世",
+        "onboard_time": 1779352881,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 44462,
+        "num": 729896,
+        "word": "南方还有2轮强降雨",
+        "onboard_time": 1779350120,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 966417,
+        "num": 723094,
+        "word": "不小心把DeepSeek叫成豆包",
+        "onboard_time": 1779353301,
+        "rank": 3,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 603637,
+        "num": 603637,
+        "word": "孙杨向张豆豆道歉",
+        "onboard_time": 1779351380,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 599063,
+        "num": 599063,
+        "word": "暗恋同事的有福了",
+        "onboard_time": 1779354860,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 475099,
+        "num": 475099,
+        "word": "穆祉丞演唱会过审",
+        "onboard_time": 1779355100,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 395163,
+        "num": 395163,
+        "word": "KPL",
+        "onboard_time": 1779355040,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 382800,
+        "num": 382800,
+        "word": "特朗普称卸任后不排除去竞选以总理",
+        "onboard_time": 1779347240,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 365698,
+        "num": 365698,
+        "word": "WBG战胜BLG",
+        "onboard_time": 1779353301,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 3158412,
+        "num": 365069,
+        "word": "金秀贤从全民唾骂到沉冤得雪",
+        "onboard_time": 1779350899,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 780103,
+        "num": 364344,
+        "word": "孙杨当众让张豆豆给他道歉",
+        "onboard_time": 1779338901,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 404399,
+        "num": 363440,
+        "word": "A股突然下跌原因找到了",
+        "onboard_time": 1779358100,
+        "rank": 12,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 578089,
+        "num": 362552,
+        "word": "监狱来的妈妈报审存在违规",
+        "onboard_time": 1779352821,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 550779,
+        "num": 361987,
+        "word": "林志玲拒绝文策院董事一职",
+        "onboard_time": 1779354800,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 51763,
+        "num": 360681,
+        "word": "618让你开空调不再扣扣搜搜",
+        "onboard_time": 1779356240,
+        "rank": 15,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 430639,
+        "num": 360109,
+        "word": "小黄豆520收到一束油漆花",
+        "onboard_time": 1779349400,
+        "rank": 16,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 414341,
+        "num": 359111,
+        "word": "金秀贤案件反转",
+        "onboard_time": 1779340101,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 56525,
+        "num": 358092,
+        "word": "杨紫家业云合两连涨",
+        "onboard_time": 1779357680,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 63727,
+        "num": 357739,
+        "word": "12306回应女子在静音车厢打电话",
+        "onboard_time": 1779357740,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 738847,
+        "num": 356979,
+        "word": "月经期洗澡停经 下丘脑对温度敏感",
+        "onboard_time": 1779334701,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 356357,
+        "num": 356357,
+        "word": "肖战刚拿奖又获提名",
+        "onboard_time": 1779355040,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 352183,
+        "num": 352183,
+        "word": "曝铁证王玉雯换张艺凡",
+        "onboard_time": 1779331640,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 320778,
+        "num": 320778,
+        "word": "米线里有多少鸡精",
+        "onboard_time": 1779355159,
+        "rank": 23,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 320396,
+        "num": 320396,
+        "word": "品牌方向蔡徐坤道歉",
+        "onboard_time": 1779357022,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 299732,
+        "num": 299732,
+        "word": "给阿嬷的情书从1000多人中选出南枝",
+        "onboard_time": 1779353181,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 277655,
+        "num": 277655,
+        "word": "A股跌破4100",
+        "onboard_time": 1779346880,
+        "rank": 26,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 237245,
+        "num": 237245,
+        "word": "17人终身禁止从事足球有关活动",
+        "onboard_time": 1779349280,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 299378,
+        "num": 226513,
+        "word": "金赛纶聊天记录被篡改",
+        "onboard_time": 1779344840,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182282,
+        "num": 182282,
+        "word": "坚决反对美国向台湾出售武器",
+        "onboard_time": 1779355761,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 243316,
+        "num": 181914,
+        "word": "张踩玲老公一小时呼吸暂停40多次",
+        "onboard_time": 1779354021,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208183,
+        "num": 181670,
+        "word": "中国教师报谈复旦教授遭小学家长举报",
+        "onboard_time": 1779356779,
+        "rank": 31,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 181372,
+        "num": 181372,
+        "word": "桃花坞导演回应方媛争议",
+        "onboard_time": 1779356121,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172571,
+        "num": 176170,
+        "word": "44岁脑梗半身不遂48岁能单手倒立",
+        "onboard_time": 1779355221,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 175365,
+        "num": 175365,
+        "word": "瑞幸特调",
+        "onboard_time": 1779357680,
+        "rank": 34,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 173522,
+        "num": 173522,
+        "word": "孙东旭谈东方甄选多名主播离职",
+        "onboard_time": 1779353422,
+        "rank": 35,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 171391,
+        "num": 171391,
+        "word": "肖战拍照背景是自己的眼睛",
+        "onboard_time": 1779358159,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170122,
+        "num": 170122,
+        "word": "马頔带李纯看极光准备了头纱",
+        "onboard_time": 1779348620,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135692,
+        "num": 169434,
+        "word": "歌手发布会",
+        "onboard_time": 1779357260,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 40082,
+        "num": 169077,
+        "word": "空调怎么用最省电",
+        "onboard_time": 1779357860,
+        "rank": 39,
+        "category": "数码,互联网"
+      },
+      {
+        "raw_hot": 44918,
+        "num": 168222,
+        "word": "究竟是谁在炒作碳水脸恶心公众",
+        "onboard_time": 1779357260,
+        "rank": 40,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 53856,
+        "num": 167493,
+        "word": "刘萧旭在京东直播比价现场",
+        "onboard_time": 1779358039,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167171,
+        "num": 167171,
+        "word": "赵昭仪 野心不藏",
+        "onboard_time": 1779356060,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150016,
+        "num": 150016,
+        "word": "BLG 野辅",
+        "onboard_time": 1779356300,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 148610,
+        "num": 148610,
+        "word": "小黄豆追星运",
+        "onboard_time": 1779350419,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146783,
+        "num": 146783,
+        "word": "良陈美锦大结局",
+        "onboard_time": 1779342860,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 38647,
+        "num": 146199,
+        "word": "高温出行全套防护",
+        "onboard_time": 1779357440,
+        "rank": 46,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 20921,
+        "num": 146077,
+        "word": "空调哪些功能纯属冤枉钱",
+        "onboard_time": 1779358100,
+        "rank": 47,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 31037,
+        "num": 145087,
+        "word": "王源加盟京东618夏日歌会",
+        "onboard_time": 1779354620,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 79491,
+        "num": 144654,
+        "word": "邓超工体开唱",
+        "onboard_time": 1779355640,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#100秒看中俄元首北京会晤#"
+    }
+  }
+}

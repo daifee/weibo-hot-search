@@ -1,6 +1,6 @@
 {
   "startTime": 1778951228781,
-  "endTime": 1779352773764,
+  "endTime": 1779358253440,
   "band_list": [
     {
       "raw_hot": 17984788,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 4409779,
-      "num": 332442,
+      "num": 359111,
       "word": "金秀贤案件反转",
       "onboard_time": 1779340101,
       "rank": 10,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 3583516,
-      "num": 296667,
+      "num": 365069,
       "word": "金秀贤从全民唾骂到沉冤得雪",
       "onboard_time": 1779350899,
       "rank": 10,
@@ -403,6 +403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1691499,
+      "num": 1691499,
+      "word": "税务局职工被曝上班脚翘桌上玩手游",
+      "onboard_time": 1779350481,
+      "rank": 0,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 1648564,
       "num": 1648564,
       "word": "樊振东vs小勒布伦",
@@ -675,14 +683,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1121513,
-      "num": 1179442,
-      "word": "税务局职工被曝上班脚翘桌上玩手游",
-      "onboard_time": 1779350481,
-      "rank": 0,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 1105874,
       "num": 486152,
       "word": "奔跑吧发孟子义",
@@ -915,6 +915,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 966417,
+      "num": 723094,
+      "word": "不小心把DeepSeek叫成豆包",
+      "onboard_time": 1779353301,
+      "rank": 3,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 962711,
       "num": 962711,
       "word": "女子极端饮食月瘦20斤重度脂肪肝",
@@ -1036,7 +1044,7 @@
     },
     {
       "raw_hot": 877033,
-      "num": 554400,
+      "num": 603637,
       "word": "孙杨向张豆豆道歉",
       "onboard_time": 1779351380,
       "rank": 3,
@@ -1297,6 +1305,14 @@
       "onboard_time": 1779076760,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 753213,
+      "num": 890670,
+      "word": "36岁高三老师高考前倒在讲台去世",
+      "onboard_time": 1779352881,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 747593,
@@ -1723,6 +1739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 599063,
+      "num": 599063,
+      "word": "暗恋同事的有福了",
+      "onboard_time": 1779354860,
+      "rank": 5,
+      "category": "情感"
+    },
+    {
       "raw_hot": 597937,
       "num": 597937,
       "word": "李思潼将成为00花一番票房最高",
@@ -1827,6 +1851,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 578089,
+      "num": 362552,
+      "word": "监狱来的妈妈报审存在违规",
+      "onboard_time": 1779352821,
+      "rank": 13,
+      "category": "电影"
+    },
+    {
       "raw_hot": 575028,
       "num": 470663,
       "word": "生理假",
@@ -1929,6 +1961,14 @@
       "onboard_time": 1779176601,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 550779,
+      "num": 361987,
+      "word": "林志玲拒绝文策院董事一职",
+      "onboard_time": 1779354800,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 546987,
@@ -2212,7 +2252,7 @@
     },
     {
       "raw_hot": 478216,
-      "num": 281136,
+      "num": 360109,
       "word": "小黄豆520收到一束油漆花",
       "onboard_time": 1779349400,
       "rank": 22,
@@ -2225,6 +2265,14 @@
       "onboard_time": 1779337881,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 475099,
+      "num": 475099,
+      "word": "穆祉丞演唱会过审",
+      "onboard_time": 1779355100,
+      "rank": 6,
+      "category": "演出"
     },
     {
       "raw_hot": 474561,
@@ -2635,6 +2683,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 404399,
+      "num": 363440,
+      "word": "A股突然下跌原因找到了",
+      "onboard_time": 1779358100,
+      "rank": 12,
+      "category": "财经"
+    },
+    {
       "raw_hot": 403829,
       "num": 361294,
       "word": "孟子义探班王楚然",
@@ -2689,6 +2745,14 @@
       "onboard_time": 1779105021,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 395163,
+      "num": 395163,
+      "word": "KPL",
+      "onboard_time": 1779030082,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 395002,
@@ -2801,6 +2865,14 @@
       "onboard_time": 1779349280,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 382800,
+      "num": 382800,
+      "word": "特朗普称卸任后不排除去竞选以总理",
+      "onboard_time": 1779347240,
+      "rank": 8,
+      "category": "国际时政"
     },
     {
       "raw_hot": 382359,
@@ -2955,6 +3027,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 365698,
+      "num": 365698,
+      "word": "WBG战胜BLG",
+      "onboard_time": 1779353301,
+      "rank": 9,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 363576,
       "num": 363576,
       "word": "孩子被抢走后姥姥暴瘦30斤",
@@ -3041,6 +3121,14 @@
       "onboard_time": 1779030144,
       "rank": 46,
       "category": "数码"
+    },
+    {
+      "raw_hot": 356357,
+      "num": 356357,
+      "word": "肖战刚拿奖又获提名",
+      "onboard_time": 1779355040,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 356078,
@@ -3331,6 +3419,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 320778,
+      "num": 320778,
+      "word": "米线里有多少鸡精",
+      "onboard_time": 1779355159,
+      "rank": 23,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 320396,
+      "num": 320396,
+      "word": "品牌方向蔡徐坤道歉",
+      "onboard_time": 1779357022,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 320357,
       "num": 504374,
       "word": "普京访华欢迎仪式高清大图",
@@ -3555,20 +3659,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 299732,
+      "num": 299732,
+      "word": "给阿嬷的情书从1000多人中选出南枝",
+      "onboard_time": 1779353181,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 299106,
       "num": 192310,
       "word": "专家称4岁以下穿机能鞋干扰足弓发育",
       "onboard_time": 1779029601,
       "rank": 44,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 298722,
-      "num": 298722,
-      "word": "特朗普称卸任后不排除去竞选以总理",
-      "onboard_time": 1779347240,
-      "rank": 8,
-      "category": "国际时政"
     },
     {
       "raw_hot": 298619,
@@ -4315,6 +4419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 243316,
+      "num": 181914,
+      "word": "张踩玲老公一小时呼吸暂停40多次",
+      "onboard_time": 1779354021,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 243134,
       "num": 622953,
       "word": "国产芯片好消息不断",
@@ -4971,6 +5083,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 208183,
+      "num": 181670,
+      "word": "中国教师报谈复旦教授遭小学家长举报",
+      "onboard_time": 1779356779,
+      "rank": 31,
+      "category": "教育"
+    },
+    {
       "raw_hot": 208182,
       "num": 208182,
       "word": "洁丽雅已注册毛巾二叔商标",
@@ -5427,11 +5547,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 182282,
+      "num": 182282,
+      "word": "坚决反对美国向台湾出售武器",
+      "onboard_time": 1779355761,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 181478,
       "num": 445615,
       "word": "浪姐歌手对打",
       "onboard_time": 1779241339,
       "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 181372,
+      "num": 181372,
+      "word": "桃花坞导演回应方媛争议",
+      "onboard_time": 1779356121,
+      "rank": 32,
       "category": "综艺"
     },
     {
@@ -5595,6 +5731,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 175365,
+      "num": 175365,
+      "word": "瑞幸特调",
+      "onboard_time": 1779357680,
+      "rank": 34,
+      "category": "美食"
+    },
+    {
       "raw_hot": 175081,
       "num": 250511,
       "word": "普京说了一句中国古语",
@@ -5635,12 +5779,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 173610,
-      "num": 223639,
-      "word": "KPL",
-      "onboard_time": 1779030082,
-      "rank": 38,
-      "category": "电竞"
+      "raw_hot": 173522,
+      "num": 173522,
+      "word": "孙东旭谈东方甄选多名主播离职",
+      "onboard_time": 1779353422,
+      "rank": 35,
+      "category": "互联网"
     },
     {
       "raw_hot": 173366,
@@ -5691,6 +5835,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 172571,
+      "num": 176170,
+      "word": "44岁脑梗半身不遂48岁能单手倒立",
+      "onboard_time": 1779355221,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 172450,
       "num": 238902,
       "word": "歼10CE军演中9比0完胜台风战机",
@@ -5729,6 +5881,14 @@
       "onboard_time": 1779003441,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 171391,
+      "num": 171391,
+      "word": "肖战拍照背景是自己的眼睛",
+      "onboard_time": 1779358159,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 170931,
@@ -5841,6 +6001,14 @@
       "onboard_time": 1779349581,
       "rank": 37,
       "category": "教育"
+    },
+    {
+      "raw_hot": 167171,
+      "num": 167171,
+      "word": "赵昭仪 野心不藏",
+      "onboard_time": 1779356060,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 166713,
@@ -6179,6 +6347,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 150016,
+      "num": 150016,
+      "word": "BLG 野辅",
+      "onboard_time": 1779356300,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 149934,
       "num": 147565,
       "word": "马龙溜达的时候被孙颖莎叫来聊球",
@@ -6425,6 +6601,14 @@
       "onboard_time": 1779146778,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 135692,
+      "num": 169434,
+      "word": "歌手发布会",
+      "onboard_time": 1779357260,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 134426,
@@ -7475,6 +7659,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 79491,
+      "num": 144654,
+      "word": "邓超工体开唱",
+      "onboard_time": 1779355640,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 79342,
       "num": 149362,
       "word": "刘浩存忆秦娥长大转场",
@@ -7835,6 +8027,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 63727,
+      "num": 357739,
+      "word": "12306回应女子在静音车厢打电话",
+      "onboard_time": 1779357740,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 63158,
       "num": 314450,
       "word": "杨洋张予曦新剧10集才相认",
@@ -7939,6 +8139,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 56525,
+      "num": 358092,
+      "word": "杨紫家业云合两连涨",
+      "onboard_time": 1779357680,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 56244,
       "num": 56244,
       "word": "伯恩茅斯1比1曼城",
@@ -7977,6 +8185,14 @@
       "onboard_time": 1778942841,
       "rank": 49,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 53856,
+      "num": 167493,
+      "word": "刘萧旭在京东直播比价现场",
+      "onboard_time": 1779358039,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 53719,
@@ -8033,6 +8249,14 @@
       "onboard_time": 1778991080,
       "rank": 15,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 51763,
+      "num": 360681,
+      "word": "618让你开空调不再扣扣搜搜",
+      "onboard_time": 1779356240,
+      "rank": 15,
+      "category": "互联网"
     },
     {
       "raw_hot": 51630,
@@ -8260,7 +8484,7 @@
     },
     {
       "raw_hot": 45569,
-      "num": 655705,
+      "num": 729896,
       "word": "南方还有2轮强降雨",
       "onboard_time": 1779350120,
       "rank": 2,
@@ -8297,6 +8521,14 @@
       "onboard_time": 1779202883,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 44918,
+      "num": 168222,
+      "word": "究竟是谁在炒作碳水脸恶心公众",
+      "onboard_time": 1779357260,
+      "rank": 40,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 44853,
@@ -8403,6 +8635,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 40082,
+      "num": 169077,
+      "word": "空调怎么用最省电",
+      "onboard_time": 1779357860,
+      "rank": 39,
+      "category": "数码,互联网"
+    },
+    {
       "raw_hot": 40055,
       "num": 1363656,
       "word": "网警侦破利用工作便利买卖公民个人信息案",
@@ -8441,6 +8681,14 @@
       "onboard_time": 1779164721,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 38647,
+      "num": 146199,
+      "word": "高温出行全套防护",
+      "onboard_time": 1779357440,
+      "rank": 46,
+      "category": "美妆"
     },
     {
       "raw_hot": 38612,
@@ -8657,6 +8905,14 @@
       "onboard_time": 1779132374,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 31037,
+      "num": 145087,
+      "word": "王源加盟京东618夏日歌会",
+      "onboard_time": 1779354620,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 30794,
@@ -8961,6 +9217,14 @@
       "onboard_time": 1779026663,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 20921,
+      "num": 146077,
+      "word": "空调哪些功能纯属冤枉钱",
+      "onboard_time": 1779358100,
+      "rank": 47,
+      "category": "科学科普"
     },
     {
       "raw_hot": 20438,
