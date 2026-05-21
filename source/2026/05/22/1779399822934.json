@@ -1,0 +1,410 @@
+{
+  "runTime": 1779399822934,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 59785,
+        "num": 193749,
+        "word": "给阿嬷的情书亚洲年度最佳艺术电影",
+        "onboard_time": 1779378801,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 30484,
+        "num": 136783,
+        "word": "婴幼儿湿巾检出锑为何不公布品牌",
+        "onboard_time": 1779375681,
+        "rank": 1,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 7622,
+        "num": 110421,
+        "word": "我国建成规模最大水利基础设施体系",
+        "onboard_time": 1779366861,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 82562,
+        "num": 82562,
+        "word": "肖战金海燕奖最佳男主角",
+        "onboard_time": 1779373402,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 82212,
+        "num": 82212,
+        "word": "张豆豆情绪稳定后又被孙杨说哭了",
+        "onboard_time": 1779381858,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 33911,
+        "num": 80758,
+        "word": "得闲谨制横扫",
+        "onboard_time": 1779374422,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 30378,
+        "num": 80744,
+        "word": "小米YU7GT价格",
+        "onboard_time": 1779365540,
+        "rank": 6,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 25781,
+        "num": 78457,
+        "word": "LV纽约大秀",
+        "onboard_time": 1779376102,
+        "rank": 7,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 22866,
+        "num": 77258,
+        "word": "小米YU7GT",
+        "onboard_time": 1779364880,
+        "rank": 8,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 18303,
+        "num": 76174,
+        "word": "寿司郎为什么洗不干净盘子",
+        "onboard_time": 1779375382,
+        "rank": 9,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 74944,
+        "num": 74944,
+        "word": "肖战极限24小时状态",
+        "onboard_time": 1779387255,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 90796,
+        "num": 73310,
+        "word": "母亲阳台烧香起火致2子女身亡",
+        "onboard_time": 1779376461,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 69738,
+        "num": 69738,
+        "word": "王菲别唱了",
+        "onboard_time": 1779368302,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 53016,
+        "num": 69722,
+        "word": "豆包炒股建议",
+        "onboard_time": 1779382818,
+        "rank": 13,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 52702,
+        "num": 69674,
+        "word": "雷军说输给特斯拉不丢人",
+        "onboard_time": 1779369441,
+        "rank": 14,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 41644,
+        "num": 69596,
+        "word": "洛克王国 暗改",
+        "onboard_time": 1779362239,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 37565,
+        "num": 69541,
+        "word": "官方通报税务局职工上班玩手游",
+        "onboard_time": 1779368123,
+        "rank": 16,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 34751,
+        "num": 69495,
+        "word": "护工拍打刚满月婴儿致其脑出血",
+        "onboard_time": 1779379280,
+        "rank": 17,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 34500,
+        "num": 69461,
+        "word": "女子在深圳水贝捡到11条黄金首饰",
+        "onboard_time": 1779395713,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16905,
+        "num": 69381,
+        "word": "洛克王国世界",
+        "onboard_time": 1779351861,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 39633,
+        "num": 69343,
+        "word": "父母弄散儿子拼3天积木感觉天塌了",
+        "onboard_time": 1779369922,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33818,
+        "num": 69296,
+        "word": "小米YU7首战ModelY八败两胜",
+        "onboard_time": 1779383297,
+        "rank": 21,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 31287,
+        "num": 69228,
+        "word": "弟弟谎报身份致哥哥成吸毒人员",
+        "onboard_time": 1779375502,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27569,
+        "num": 69171,
+        "word": "小米17Max真香",
+        "onboard_time": 1779390015,
+        "rank": 23,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 26261,
+        "num": 69123,
+        "word": "袁隆平吴孟超逝世5年了",
+        "onboard_time": 1779386355,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25567,
+        "num": 69075,
+        "word": "发朋友圈辱骂邻居孩子被判赔7000元",
+        "onboard_time": 1779371362,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24378,
+        "num": 69049,
+        "word": "老人不买天价鹿茸被一脚踹翻",
+        "onboard_time": 1779361221,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23062,
+        "num": 68982,
+        "word": "主角",
+        "onboard_time": 1779363920,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22981,
+        "num": 68951,
+        "word": "颜颜 凯凯",
+        "onboard_time": 1779376161,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 22586,
+        "num": 68903,
+        "word": "庾澄庆问窦靖童怎么称呼",
+        "onboard_time": 1779363740,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 22409,
+        "num": 68816,
+        "word": "男子生日当天掐死30岁妻子",
+        "onboard_time": 1779394873,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22245,
+        "num": 68780,
+        "word": "我的购物车比聊天记录还真实",
+        "onboard_time": 1779370641,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 22236,
+        "num": 68720,
+        "word": "crocs实体店被曝售假",
+        "onboard_time": 1779381318,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22089,
+        "num": 68672,
+        "word": "郑丽文怒骂赖清德30分钟",
+        "onboard_time": 1779377241,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 20710,
+        "num": 68630,
+        "word": "孙杨当众让张豆豆给他道歉",
+        "onboard_time": 1779338901,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 20340,
+        "num": 68557,
+        "word": "A股突然下跌原因找到了",
+        "onboard_time": 1779358100,
+        "rank": 35,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 20327,
+        "num": 68520,
+        "word": "夫妻二胎流3次丈夫认为自己没问题",
+        "onboard_time": 1779364040,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19534,
+        "num": 68470,
+        "word": "不小心把DeepSeek叫成豆包",
+        "onboard_time": 1779353301,
+        "rank": 37,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 17544,
+        "num": 68416,
+        "word": "小米耳夹式耳机849元",
+        "onboard_time": 1779364580,
+        "rank": 38,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 16678,
+        "num": 68386,
+        "word": "泰国豪门接班人被亲弟指控性侵",
+        "onboard_time": 1779382637,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 16364,
+        "num": 68299,
+        "word": "歌手歌单",
+        "onboard_time": 1779364700,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 16121,
+        "num": 68245,
+        "word": "德国队公布世界杯名单",
+        "onboard_time": 1779367460,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 15293,
+        "num": 68206,
+        "word": "暗恋同事的有福了",
+        "onboard_time": 1779354860,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 14306,
+        "num": 68152,
+        "word": "窦靖童 同一片天空下",
+        "onboard_time": 1779393493,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 13870,
+        "num": 68131,
+        "word": "归期 转会",
+        "onboard_time": 1779372082,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 13542,
+        "num": 68081,
+        "word": "Viper手部伤情加重",
+        "onboard_time": 1779380059,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 13057,
+        "num": 68022,
+        "word": "詹姆斯点赞重返骑士动态",
+        "onboard_time": 1779382818,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 12516,
+        "num": 67938,
+        "word": "BBK ZSMJ",
+        "onboard_time": 1779382818,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 11978,
+        "num": 67895,
+        "word": "王腾说YU7GT价格真香",
+        "onboard_time": 1779373821,
+        "rank": 48,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 11764,
+        "num": 67837,
+        "word": "深圳男篮vs广厦男篮",
+        "onboard_time": 1779380419,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中俄关系站得更高走得更稳行得更远#"
+    }
+  }
+}

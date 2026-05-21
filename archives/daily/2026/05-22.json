@@ -1,6 +1,6 @@
 {
   "startTime": 1779380513479,
-  "endTime": 1779397895380,
+  "endTime": 1779399822934,
   "band_list": [
     {
       "raw_hot": 2492570,
@@ -435,6 +435,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 74944,
+      "num": 74944,
+      "word": "肖战极限24小时状态",
+      "onboard_time": 1779387255,
+      "rank": 22,
+      "category": "电影"
+    },
+    {
       "raw_hot": 71822,
       "num": 231761,
       "word": "时代少年团幻影游船主题曲",
@@ -449,14 +457,6 @@
       "onboard_time": 1779382637,
       "rank": 37,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 59763,
-      "num": 52732,
-      "word": "肖战极限24小时状态",
-      "onboard_time": 1779387255,
-      "rank": 22,
-      "category": "电影"
     },
     {
       "raw_hot": 57339,
@@ -523,8 +523,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 34500,
+      "num": 69461,
+      "word": "女子在深圳水贝捡到11条黄金首饰",
+      "onboard_time": 1779395713,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 32662,
-      "num": 34082,
+      "num": 69171,
       "word": "小米17Max真香",
       "onboard_time": 1779390015,
       "rank": 37,
@@ -532,18 +540,10 @@
     },
     {
       "raw_hot": 30368,
-      "num": 34263,
+      "num": 69123,
       "word": "袁隆平吴孟超逝世5年了",
       "onboard_time": 1779386355,
       "rank": 35,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 28343,
-      "num": 28343,
-      "word": "女子在深圳水贝捡到11条黄金首饰",
-      "onboard_time": 1779395713,
-      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -556,7 +556,7 @@
     },
     {
       "raw_hot": 25777,
-      "num": 33878,
+      "num": 68780,
       "word": "我的购物车比聊天记录还真实",
       "onboard_time": 1779370641,
       "rank": 39,
@@ -564,7 +564,7 @@
     },
     {
       "raw_hot": 25728,
-      "num": 25728,
+      "num": 68816,
       "word": "男子生日当天掐死30岁妻子",
       "onboard_time": 1779394873,
       "rank": 23,
@@ -572,15 +572,15 @@
     },
     {
       "raw_hot": 19646,
-      "num": 32962,
+      "num": 67938,
       "word": "BBK ZSMJ",
       "onboard_time": 1779382818,
       "rank": 49,
       "category": "电竞"
     },
     {
-      "raw_hot": 12073,
-      "num": 25004,
+      "raw_hot": 14306,
+      "num": 68152,
       "word": "窦靖童 同一片天空下",
       "onboard_time": 1779393493,
       "rank": 47,
