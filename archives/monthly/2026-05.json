@@ -1,6 +1,6 @@
 {
   "startTime": 1777565126834,
-  "endTime": 1779358253440,
+  "endTime": 1779366181656,
   "band_list": [
     {
       "raw_hot": 25375641,
@@ -1448,6 +1448,14 @@
       "word": "周冬雨 刘昊然",
       "onboard_time": 1779091099,
       "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1948431,
+      "num": 350734,
+      "word": "宁艺卓评论吉赛尔恋情传闻帖",
+      "onboard_time": 1779363020,
+      "rank": 23,
       "category": "艺人"
     },
     {
@@ -3963,6 +3971,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 1008163,
+      "num": 374682,
+      "word": "肖战回头笑",
+      "onboard_time": 1779360080,
+      "rank": 11,
+      "category": "艺人,作品衍生"
+    },
+    {
       "raw_hot": 1005426,
       "num": 1005426,
       "word": "工作后大家的朋友圈都变了",
@@ -4075,6 +4091,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 987786,
+      "num": 372529,
+      "word": "张月 三公妆造",
+      "onboard_time": 1779359120,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 985661,
       "num": 454549,
       "word": "马斯克回复360度转圈拍人民大会堂",
@@ -4097,6 +4121,14 @@
       "onboard_time": 1778217080,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 981737,
+      "num": 723094,
+      "word": "不小心把DeepSeek叫成豆包",
+      "onboard_time": 1779353301,
+      "rank": 3,
+      "category": "互联网"
     },
     {
       "raw_hot": 981365,
@@ -4265,14 +4297,6 @@
       "onboard_time": 1779105261,
       "rank": 6,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 966417,
-      "num": 723094,
-      "word": "不小心把DeepSeek叫成豆包",
-      "onboard_time": 1779353301,
-      "rank": 3,
-      "category": "互联网"
     },
     {
       "raw_hot": 965736,
@@ -4747,6 +4771,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 896200,
+      "num": 1143392,
+      "word": "小米发布会",
+      "onboard_time": 1779363020,
+      "rank": 0,
+      "category": "数码"
+    },
+    {
       "raw_hot": 895100,
       "num": 1143216,
       "word": "用烧烤签给狗撸串顾客账号已私密",
@@ -4985,6 +5017,14 @@
       "onboard_time": 1778043142,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 869647,
+      "num": 363440,
+      "word": "A股突然下跌原因找到了",
+      "onboard_time": 1779358100,
+      "rank": 12,
+      "category": "财经"
     },
     {
       "raw_hot": 868447,
@@ -5297,6 +5337,14 @@
       "onboard_time": 1778044341,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 830684,
+      "num": 830684,
+      "word": "老人不买天价鹿茸被一脚踹翻",
+      "onboard_time": 1779361221,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 829613,
@@ -6241,6 +6289,14 @@
       "onboard_time": 1778998041,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 747331,
+      "num": 673536,
+      "word": "小米17Max价格",
+      "onboard_time": 1779365119,
+      "rank": 4,
+      "category": "数码"
     },
     {
       "raw_hot": 746120,
@@ -7203,6 +7259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 672974,
+      "num": 672974,
+      "word": "庾澄庆问窦靖童怎么称呼",
+      "onboard_time": 1779363740,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 671728,
       "num": 671728,
       "word": "国内一年仅卖2763万台彩电",
@@ -7643,6 +7707,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 645550,
+      "num": 344392,
+      "word": "兰晓龙在肖战后面捂耳朵",
+      "onboard_time": 1779361879,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 644590,
       "num": 1099146,
       "word": "跑男真夫妻就是甜",
@@ -7665,6 +7737,14 @@
       "onboard_time": 1778908160,
       "rank": 4,
       "category": "美食"
+    },
+    {
+      "raw_hot": 642450,
+      "num": 599063,
+      "word": "暗恋同事的有福了",
+      "onboard_time": 1779354860,
+      "rank": 5,
+      "category": "情感"
     },
     {
       "raw_hot": 641975,
@@ -8379,14 +8459,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 599063,
-      "num": 599063,
-      "word": "暗恋同事的有福了",
-      "onboard_time": 1779354860,
-      "rank": 5,
-      "category": "情感"
-    },
-    {
       "raw_hot": 598473,
       "num": 341456,
       "word": "郑州一火锅店露天洗菜做饭如调色盘",
@@ -9035,6 +9107,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 564857,
+      "num": 364968,
+      "word": "Angelababy画的红黄蓝",
+      "onboard_time": 1779361699,
+      "rank": 15,
+      "category": "作品衍生,艺人"
+    },
+    {
       "raw_hot": 564727,
       "num": 266358,
       "word": "乘客拒付高速费00后车主果断返程",
@@ -9256,6 +9336,14 @@
       "word": "林志玲拒绝文策院董事一职",
       "onboard_time": 1779354800,
       "rank": 14,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 550237,
+      "num": 353023,
+      "word": "张踩玲老公一小时呼吸暂停40多次",
+      "onboard_time": 1779354021,
+      "rank": 30,
       "category": "艺人"
     },
     {
@@ -9513,6 +9601,14 @@
       "onboard_time": 1778651001,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 537368,
+      "num": 343478,
+      "word": "中国教师报谈复旦教授遭小学家长举报",
+      "onboard_time": 1779356779,
+      "rank": 31,
+      "category": "教育"
     },
     {
       "raw_hot": 537192,
@@ -9801,6 +9897,14 @@
       "onboard_time": 1778051959,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 524287,
+      "num": 524287,
+      "word": "瑞幸特调",
+      "onboard_time": 1779357680,
+      "rank": 34,
+      "category": "美食"
     },
     {
       "raw_hot": 523876,
@@ -11099,6 +11203,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 470365,
+      "num": 470365,
+      "word": "歌手歌单",
+      "onboard_time": 1779364700,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 470247,
       "num": 467705,
       "word": "妻子频繁私发孩子照片给陌生男子",
@@ -11921,6 +12033,14 @@
       "onboard_time": 1778555899,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 438108,
+      "num": 342448,
+      "word": "复旦大学沈奕斐教授被举报",
+      "onboard_time": 1779365960,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 437757,
@@ -12827,14 +12947,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 404399,
-      "num": 363440,
-      "word": "A股突然下跌原因找到了",
-      "onboard_time": 1779358100,
-      "rank": 12,
-      "category": "财经"
-    },
-    {
       "raw_hot": 404305,
       "num": 404305,
       "word": "机票价格大跳水",
@@ -13555,6 +13667,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 384468,
+      "num": 384468,
+      "word": "小米YU7GT",
+      "onboard_time": 1779364880,
+      "rank": 8,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 384368,
       "num": 335794,
       "word": "王楚钦在训练场得知国乒拿下韩国",
@@ -13857,6 +13977,14 @@
       "onboard_time": 1778858362,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 375998,
+      "num": 341531,
+      "word": "王玉雯一年没进组了",
+      "onboard_time": 1779364460,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 375523,
@@ -14811,6 +14939,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 350837,
+      "num": 350837,
+      "word": "洛克王国 暗改",
+      "onboard_time": 1779362239,
+      "rank": 22,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 350831,
       "num": 296991,
       "word": "爷爷支持打消毛巾少爷顾虑",
@@ -15193,6 +15329,14 @@
       "onboard_time": 1778456119,
       "rank": 31,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 341348,
+      "num": 341348,
+      "word": "白鹿 油画公主",
+      "onboard_time": 1779365839,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 341086,
@@ -15649,6 +15793,14 @@
       "onboard_time": 1777720701,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 329156,
+      "num": 363769,
+      "word": "坚决反对美国向台湾出售武器",
+      "onboard_time": 1779355761,
+      "rank": 29,
+      "category": "国内时政"
     },
     {
       "raw_hot": 328856,
@@ -19931,6 +20083,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 247584,
+      "num": 337897,
+      "word": "小米YU7GT价格",
+      "onboard_time": 1779365540,
+      "rank": 39,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 247349,
       "num": 247349,
       "word": "张凌赫被保镖架起感觉在空中飞行",
@@ -20203,12 +20363,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 243316,
-      "num": 181914,
-      "word": "张踩玲老公一小时呼吸暂停40多次",
-      "onboard_time": 1779354021,
-      "rank": 30,
-      "category": "艺人"
+      "raw_hot": 243214,
+      "num": 243214,
+      "word": "洛克王国世界",
+      "onboard_time": 1779351861,
+      "rank": 40,
+      "category": "游戏"
     },
     {
       "raw_hot": 243176,
@@ -21651,6 +21811,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 225437,
+      "num": 360134,
+      "word": "史上最大IPO就要来了",
+      "onboard_time": 1779361999,
+      "rank": 17,
+      "category": "财经"
+    },
+    {
       "raw_hot": 225374,
       "num": 222052,
       "word": "歌手2026的首期歌单",
@@ -21881,6 +22049,14 @@
       "onboard_time": 1778068400,
       "rank": 44,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 222067,
+      "num": 338959,
+      "word": "小米耳夹式耳机849元",
+      "onboard_time": 1779364580,
+      "rank": 37,
+      "category": "数码"
     },
     {
       "raw_hot": 222062,
@@ -23097,14 +23273,6 @@
       "onboard_time": 1779123617,
       "rank": 31,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 208183,
-      "num": 181670,
-      "word": "中国教师报谈复旦教授遭小学家长举报",
-      "onboard_time": 1779356779,
-      "rank": 31,
-      "category": "教育"
     },
     {
       "raw_hot": 208182,
@@ -25323,14 +25491,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 182282,
-      "num": 182282,
-      "word": "坚决反对美国向台湾出售武器",
-      "onboard_time": 1779355761,
-      "rank": 29,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 182259,
       "num": 182259,
       "word": "日本男团3比0中国台北",
@@ -25995,6 +26155,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 176530,
+      "num": 346752,
+      "word": "马琳说孙颖莎上场气场马上不一样",
+      "onboard_time": 1779360440,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 176354,
       "num": 176354,
       "word": "iOS26.5正式版发布",
@@ -26097,14 +26265,6 @@
       "onboard_time": 1777833855,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 175365,
-      "num": 175365,
-      "word": "瑞幸特调",
-      "onboard_time": 1779357680,
-      "rank": 34,
-      "category": "美食"
     },
     {
       "raw_hot": 175352,
@@ -26588,7 +26748,7 @@
     },
     {
       "raw_hot": 172571,
-      "num": 176170,
+      "num": 338323,
       "word": "44岁脑梗半身不遂48岁能单手倒立",
       "onboard_time": 1779355221,
       "rank": 33,
@@ -28675,6 +28835,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 152451,
+      "num": 359995,
+      "word": "主角 全员演技出彩",
+      "onboard_time": 1779364821,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 152270,
       "num": 152270,
       "word": "杨紫来到了董竹君的城市",
@@ -28977,14 +29145,6 @@
       "onboard_time": 1778678842,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 149463,
-      "num": 149463,
-      "word": "洛克王国世界",
-      "onboard_time": 1779351861,
-      "rank": 40,
-      "category": "游戏"
     },
     {
       "raw_hot": 149443,
@@ -33355,6 +33515,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 100175,
+      "num": 345273,
+      "word": "绿联痛盒搞定全套充电",
+      "onboard_time": 1779361580,
+      "rank": 30,
+      "category": "数码"
+    },
+    {
       "raw_hot": 100132,
       "num": 282935,
       "word": "苹果iOS27系列新功能",
@@ -36291,6 +36459,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 58988,
+      "num": 243277,
+      "word": "巴基斯坦总理夏巴兹将访华",
+      "onboard_time": 1779354021,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 58986,
       "num": 407615,
       "word": "章若楠透露杨洋拍戏坠马",
@@ -37659,6 +37835,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 45363,
+      "num": 318392,
+      "word": "今年的天猫618也太好买了",
+      "onboard_time": 1779361819,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 45346,
       "num": 266599,
       "word": "俞浩称追觅要与苹果三星三分天下",
@@ -38387,6 +38571,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 37930,
+      "num": 347530,
+      "word": "618蹲直播间到底有多省",
+      "onboard_time": 1779365240,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 37889,
       "num": 306771,
       "word": "九江多地倡议公职人员带头缴物业费",
@@ -38417,6 +38609,14 @@
       "onboard_time": 1778922439,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 37614,
+      "num": 348246,
+      "word": "家业细节到连指甲缝都不放过",
+      "onboard_time": 1779364821,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 37509,
@@ -39155,6 +39355,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 31133,
+      "num": 357550,
+      "word": "妈妈为孩子教育搬4座城市生活",
+      "onboard_time": 1779365240,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 31129,
       "num": 303652,
       "word": "榴莲商家称顾客吃完了平台还能给退",
@@ -39473,6 +39681,14 @@
       "onboard_time": 1778669059,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 28789,
+      "num": 244363,
+      "word": "618防暑未必花大价钱",
+      "onboard_time": 1779361699,
+      "rank": 44,
+      "category": "美妆"
     },
     {
       "raw_hot": 28729,
@@ -39841,6 +40057,14 @@
       "onboard_time": 1778383639,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 26098,
+      "num": 346327,
+      "word": "主角官微转了辛芷蕾评论",
+      "onboard_time": 1779364821,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 26082,
@@ -40297,6 +40521,14 @@
       "onboard_time": 1779048374,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 21585,
+      "num": 243485,
+      "word": "今年618补贴力度超过去年",
+      "onboard_time": 1779361580,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 21568,
@@ -41019,6 +41251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 14003,
+      "num": 353340,
+      "word": "疑遭肥料暗算一蒜地减产率94%",
+      "onboard_time": 1779365481,
+      "rank": 20,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 13972,
       "num": 28417,
       "word": "雨霖铃电影质感",
@@ -41353,6 +41593,14 @@
       "onboard_time": 1777591336,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 10106,
+      "num": 228016,
+      "word": "谁懂现货即发的满足感",
+      "onboard_time": 1779363260,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 9740,
