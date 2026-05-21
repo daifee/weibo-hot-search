@@ -1,0 +1,410 @@
+{
+  "runTime": 1779405048456,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 497568,
+        "num": 706347,
+        "word": "母亲阳台烧香起火致2子女身亡",
+        "onboard_time": 1779376461,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 203227,
+        "num": 521508,
+        "word": "婴幼儿湿巾检出锑为何不公布品牌",
+        "onboard_time": 1779375681,
+        "rank": 1,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 14653,
+        "num": 418843,
+        "word": "我国建成规模最大水利基础设施体系",
+        "onboard_time": 1779366861,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 324893,
+        "num": 324893,
+        "word": "张豆豆情绪稳定后又被孙杨说哭了",
+        "onboard_time": 1779381858,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160341,
+        "num": 160341,
+        "word": "给阿嬷的情书亚洲年度最佳艺术电影",
+        "onboard_time": 1779378801,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 150753,
+        "num": 150753,
+        "word": "雷军说输给特斯拉不丢人",
+        "onboard_time": 1779369441,
+        "rank": 5,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 284124,
+        "num": 150635,
+        "word": "肖战金海燕奖最佳男主角",
+        "onboard_time": 1779373402,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 136015,
+        "num": 150466,
+        "word": "豆包炒股建议",
+        "onboard_time": 1779382818,
+        "rank": 7,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 62113,
+        "num": 150263,
+        "word": "小米YU7GT",
+        "onboard_time": 1779364880,
+        "rank": 8,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 55799,
+        "num": 149933,
+        "word": "寿司郎为什么洗不干净盘子",
+        "onboard_time": 1779375382,
+        "rank": 9,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 156010,
+        "num": 149811,
+        "word": "发朋友圈辱骂邻居孩子被判赔7000元",
+        "onboard_time": 1779371362,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 205719,
+        "num": 149494,
+        "word": "肖战极限24小时状态",
+        "onboard_time": 1779387255,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 149407,
+        "num": 149407,
+        "word": "官方通报税务局职工上班玩手游",
+        "onboard_time": 1779368123,
+        "rank": 12,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 141183,
+        "num": 141183,
+        "word": "王菲别唱了",
+        "onboard_time": 1779368302,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104786,
+        "num": 104786,
+        "word": "得闲谨制横扫",
+        "onboard_time": 1779374422,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 98337,
+        "num": 98337,
+        "word": "弟弟谎报身份致哥哥成吸毒人员",
+        "onboard_time": 1779375502,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88887,
+        "num": 88887,
+        "word": "金秀贤已接受精神科治疗",
+        "onboard_time": 1779404418,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 54364,
+        "num": 88881,
+        "word": "洛克王国 暗改",
+        "onboard_time": 1779362239,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 40697,
+        "num": 88782,
+        "word": "不小心把DeepSeek叫成豆包",
+        "onboard_time": 1779353301,
+        "rank": 18,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 38207,
+        "num": 88769,
+        "word": "泰国豪门接班人被亲弟指控性侵",
+        "onboard_time": 1779382637,
+        "rank": 19,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 81804,
+        "num": 88669,
+        "word": "小米17Max真香",
+        "onboard_time": 1779390015,
+        "rank": 20,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 74497,
+        "num": 88637,
+        "word": "护工拍打刚满月婴儿致其脑出血",
+        "onboard_time": 1779379280,
+        "rank": 21,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 74275,
+        "num": 88590,
+        "word": "王濛举报李小冉作弊",
+        "onboard_time": 1779403516,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 73893,
+        "num": 88527,
+        "word": "父母弄散儿子拼3天积木感觉天塌了",
+        "onboard_time": 1779369922,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 68524,
+        "num": 88465,
+        "word": "小米YU7首战ModelY八败两胜",
+        "onboard_time": 1779383297,
+        "rank": 24,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 65966,
+        "num": 88405,
+        "word": "女子在深圳水贝捡到11条黄金首饰",
+        "onboard_time": 1779395713,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 61780,
+        "num": 88365,
+        "word": "崔始源曾给阚清子卷头发",
+        "onboard_time": 1779404418,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 59885,
+        "num": 88296,
+        "word": "老人不买天价鹿茸被一脚踹翻",
+        "onboard_time": 1779361221,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 55098,
+        "num": 88274,
+        "word": "A股突然下跌原因找到了",
+        "onboard_time": 1779358100,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 52059,
+        "num": 88222,
+        "word": "男子生日当天掐死30岁妻子",
+        "onboard_time": 1779394873,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 49502,
+        "num": 88154,
+        "word": "我的购物车比聊天记录还真实",
+        "onboard_time": 1779370641,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 45730,
+        "num": 88087,
+        "word": "孙杨当众让张豆豆给他道歉",
+        "onboard_time": 1779338901,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 44572,
+        "num": 88054,
+        "word": "小米YU7GT价格",
+        "onboard_time": 1779365540,
+        "rank": 32,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 44168,
+        "num": 87959,
+        "word": "暗恋同事的有福了",
+        "onboard_time": 1779354860,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 42719,
+        "num": 87902,
+        "word": "LV纽约大秀",
+        "onboard_time": 1779376102,
+        "rank": 34,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 37631,
+        "num": 87851,
+        "word": "袁隆平吴孟超逝世5年了",
+        "onboard_time": 1779386355,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36685,
+        "num": 87802,
+        "word": "夫妻二胎流3次丈夫认为自己没问题",
+        "onboard_time": 1779364040,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34886,
+        "num": 87748,
+        "word": "主角",
+        "onboard_time": 1779363920,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 34280,
+        "num": 87680,
+        "word": "小米耳夹式耳机849元",
+        "onboard_time": 1779364580,
+        "rank": 38,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 32217,
+        "num": 87646,
+        "word": "德国队公布世界杯名单",
+        "onboard_time": 1779367460,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 30926,
+        "num": 87622,
+        "word": "詹姆斯点赞重返骑士动态",
+        "onboard_time": 1779382818,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 28956,
+        "num": 87541,
+        "word": "歌手歌单",
+        "onboard_time": 1779364700,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 27428,
+        "num": 87464,
+        "word": "颜颜 凯凯",
+        "onboard_time": 1779376161,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 22845,
+        "num": 87431,
+        "word": "归期 转会",
+        "onboard_time": 1779372082,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 25392,
+        "num": 87399,
+        "word": "庾澄庆问窦靖童怎么称呼",
+        "onboard_time": 1779363740,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 21770,
+        "num": 87321,
+        "word": "洛克王国世界",
+        "onboard_time": 1779351861,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 21471,
+        "num": 87278,
+        "word": "crocs实体店被曝售假",
+        "onboard_time": 1779381318,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21447,
+        "num": 87193,
+        "word": "郑丽文怒骂赖清德30分钟",
+        "onboard_time": 1779377241,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 15269,
+        "num": 87180,
+        "word": "用上AI后工作时间反而更长了",
+        "onboard_time": 1779404418,
+        "rank": 48,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 7494,
+        "num": 87124,
+        "word": "禁止从菲律宾输入猪",
+        "onboard_time": 1779404418,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#中俄关系站得更高走得更稳行得更远#"
+    }
+  }
+}

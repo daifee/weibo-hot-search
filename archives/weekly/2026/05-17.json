@@ -1,6 +1,6 @@
 {
   "startTime": 1778951228781,
-  "endTime": 1779403825635,
+  "endTime": 1779405048456,
   "band_list": [
     {
       "raw_hot": 17984788,
@@ -2411,6 +2411,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 497568,
+      "num": 706347,
+      "word": "母亲阳台烧香起火致2子女身亡",
+      "onboard_time": 1779376461,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 494002,
       "num": 494002,
       "word": "碳水脸是对碳水的污名化",
@@ -3147,14 +3155,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 380062,
-      "num": 556660,
-      "word": "母亲阳台烧香起火致2子女身亡",
-      "onboard_time": 1779376461,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 379631,
       "num": 565724,
       "word": "麦当劳星星人玩具",
@@ -3697,6 +3697,14 @@
       "onboard_time": 1779249742,
       "rank": 48,
       "category": "财经,互联网"
+    },
+    {
+      "raw_hot": 324893,
+      "num": 324893,
+      "word": "张豆豆情绪稳定后又被孙杨说哭了",
+      "onboard_time": 1779381858,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 324729,
@@ -4337,14 +4345,6 @@
       "onboard_time": 1779112885,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 271980,
-      "num": 271980,
-      "word": "张豆豆情绪稳定后又被孙杨说哭了",
-      "onboard_time": 1779381858,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 271971,
@@ -5531,6 +5531,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 205719,
+      "num": 149494,
+      "word": "肖战极限24小时状态",
+      "onboard_time": 1779387255,
+      "rank": 22,
+      "category": "电影"
+    },
+    {
       "raw_hot": 205281,
       "num": 205281,
       "word": "反问别人真是太好用了",
@@ -5561,6 +5569,14 @@
       "onboard_time": 1779014600,
       "rank": 17,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 203227,
+      "num": 521508,
+      "word": "婴幼儿湿巾检出锑为何不公布品牌",
+      "onboard_time": 1779375681,
+      "rank": 41,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 202873,
@@ -5817,14 +5833,6 @@
       "onboard_time": 1779264501,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 187303,
-      "num": 130903,
-      "word": "肖战极限24小时状态",
-      "onboard_time": 1779387255,
-      "rank": 22,
-      "category": "电影"
     },
     {
       "raw_hot": 186714,
@@ -6667,6 +6675,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 156010,
+      "num": 229063,
+      "word": "发朋友圈辱骂邻居孩子被判赔7000元",
+      "onboard_time": 1779371362,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 155963,
       "num": 319496,
       "word": "广西一蛋糕店用柳州地震营销",
@@ -6955,14 +6971,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 141093,
-      "num": 403487,
-      "word": "婴幼儿湿巾检出锑为何不公布品牌",
-      "onboard_time": 1779375681,
-      "rank": 41,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 140496,
       "num": 140496,
       "word": "万千惠情商",
@@ -7057,6 +7065,14 @@
       "onboard_time": 1779146778,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 136015,
+      "num": 230580,
+      "word": "豆包炒股建议",
+      "onboard_time": 1779382818,
+      "rank": 38,
+      "category": "互联网"
     },
     {
       "raw_hot": 135692,
@@ -7547,14 +7563,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 109336,
-      "num": 229063,
-      "word": "发朋友圈辱骂邻居孩子被判赔7000元",
-      "onboard_time": 1779371362,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 108137,
       "num": 186667,
       "word": "影后视后都在追主角",
@@ -7739,6 +7747,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 98337,
+      "num": 232843,
+      "word": "弟弟谎报身份致哥哥成吸毒人员",
+      "onboard_time": 1779375502,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 98218,
       "num": 201236,
       "word": "王濛用衣角撩李小冉",
@@ -7753,14 +7769,6 @@
       "onboard_time": 1779373821,
       "rank": 47,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 97284,
-      "num": 230580,
-      "word": "豆包炒股建议",
-      "onboard_time": 1779382818,
-      "rank": 38,
-      "category": "互联网"
     },
     {
       "raw_hot": 96440,
@@ -7915,6 +7923,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 88887,
+      "num": 88887,
+      "word": "金秀贤已接受精神科治疗",
+      "onboard_time": 1779404418,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 88534,
       "num": 88534,
       "word": "郭晶晶说爱情比门当户对更重要",
@@ -8067,14 +8083,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 84282,
-      "num": 232843,
-      "word": "弟弟谎报身份致哥哥成吸毒人员",
-      "onboard_time": 1779375502,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 83994,
       "num": 83994,
       "word": "王安宇偶尔可以吃点三文鱼了",
@@ -8121,6 +8129,14 @@
       "onboard_time": 1778972296,
       "rank": 18,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 81804,
+      "num": 88669,
+      "word": "小米17Max真香",
+      "onboard_time": 1779390015,
+      "rank": 37,
+      "category": "数码"
     },
     {
       "raw_hot": 81767,
@@ -8284,7 +8300,7 @@
     },
     {
       "raw_hot": 75616,
-      "num": 75616,
+      "num": 88405,
       "word": "女子在深圳水贝捡到11条黄金首饰",
       "onboard_time": 1779395713,
       "rank": 19,
@@ -8313,6 +8329,14 @@
       "onboard_time": 1779366980,
       "rank": 38,
       "category": "数码"
+    },
+    {
+      "raw_hot": 74275,
+      "num": 88590,
+      "word": "王濛举报李小冉作弊",
+      "onboard_time": 1779403516,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 73550,
@@ -8643,6 +8667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 61780,
+      "num": 88365,
+      "word": "崔始源曾给阚清子卷头发",
+      "onboard_time": 1779404418,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 61494,
       "num": 175776,
       "word": "一种很新的道歉方式",
@@ -8708,7 +8740,7 @@
     },
     {
       "raw_hot": 58005,
-      "num": 70946,
+      "num": 88222,
       "word": "男子生日当天掐死30岁妻子",
       "onboard_time": 1779394873,
       "rank": 23,
@@ -8777,14 +8809,6 @@
       "onboard_time": 1778991741,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 55168,
-      "num": 69171,
-      "word": "小米17Max真香",
-      "onboard_time": 1779390015,
-      "rank": 37,
-      "category": "数码"
     },
     {
       "raw_hot": 55166,
@@ -8963,6 +8987,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 49502,
+      "num": 278935,
+      "word": "我的购物车比聊天记录还真实",
+      "onboard_time": 1779370641,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 49454,
       "num": 170464,
       "word": "国际足联官宣世界杯全新单曲",
@@ -9049,14 +9081,6 @@
       "onboard_time": 1779350839,
       "rank": 18,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 47147,
-      "num": 66828,
-      "word": "王濛举报李小冉作弊",
-      "onboard_time": 1779403516,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 47107,
@@ -9387,20 +9411,20 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 37631,
+      "num": 87851,
+      "word": "袁隆平吴孟超逝世5年了",
+      "onboard_time": 1779386355,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 37614,
       "num": 348246,
       "word": "家业细节到连指甲缝都不放过",
       "onboard_time": 1779364821,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 37292,
-      "num": 69123,
-      "word": "袁隆平吴孟超逝世5年了",
-      "onboard_time": 1779386355,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 37278,
@@ -9641,14 +9665,6 @@
       "onboard_time": 1779163040,
       "rank": 20,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 29420,
-      "num": 278935,
-      "word": "我的购物车比聊天记录还真实",
-      "onboard_time": 1779370641,
-      "rank": 40,
-      "category": "情感"
     },
     {
       "raw_hot": 28909,
@@ -10059,6 +10075,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 15269,
+      "num": 87180,
+      "word": "用上AI后工作时间反而更长了",
+      "onboard_time": 1779404418,
+      "rank": 48,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 14894,
       "num": 285530,
       "word": "煤企损毁明长城被停产整顿",
@@ -10193,6 +10217,14 @@
       "onboard_time": 1779249682,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 7494,
+      "num": 87124,
+      "word": "禁止从菲律宾输入猪",
+      "onboard_time": 1779404418,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 7093,

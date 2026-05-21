@@ -1,6 +1,6 @@
 {
   "startTime": 1779380513479,
-  "endTime": 1779403825635,
+  "endTime": 1779405048456,
   "band_list": [
     {
       "raw_hot": 2492570,
@@ -75,6 +75,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 497568,
+      "num": 706347,
+      "word": "母亲阳台烧香起火致2子女身亡",
+      "onboard_time": 1779376461,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 484436,
       "num": 303975,
       "word": "王菲别唱了",
@@ -97,14 +105,6 @@
       "onboard_time": 1779370762,
       "rank": 23,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 380062,
-      "num": 556660,
-      "word": "母亲阳台烧香起火致2子女身亡",
-      "onboard_time": 1779376461,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 359027,
@@ -131,6 +131,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 324893,
+      "num": 324893,
+      "word": "张豆豆情绪稳定后又被孙杨说哭了",
+      "onboard_time": 1779381858,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 301426,
       "num": 265809,
       "word": "洛克王国 暗改",
@@ -153,14 +161,6 @@
       "onboard_time": 1779374542,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 271980,
-      "num": 271980,
-      "word": "张豆豆情绪稳定后又被孙杨说哭了",
-      "onboard_time": 1779381858,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 268326,
@@ -227,12 +227,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 187303,
-      "num": 130903,
+      "raw_hot": 205719,
+      "num": 149494,
       "word": "肖战极限24小时状态",
       "onboard_time": 1779387255,
       "rank": 22,
       "category": "电影"
+    },
+    {
+      "raw_hot": 203227,
+      "num": 521508,
+      "word": "婴幼儿湿巾检出锑为何不公布品牌",
+      "onboard_time": 1779375681,
+      "rank": 41,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 179145,
@@ -307,6 +315,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 156010,
+      "num": 229063,
+      "word": "发朋友圈辱骂邻居孩子被判赔7000元",
+      "onboard_time": 1779371362,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 154667,
       "num": 263835,
       "word": "小米YU7新增入门版",
@@ -331,12 +347,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 141093,
-      "num": 403487,
-      "word": "婴幼儿湿巾检出锑为何不公布品牌",
-      "onboard_time": 1779375681,
-      "rank": 41,
-      "category": "舆论监督"
+      "raw_hot": 136015,
+      "num": 230580,
+      "word": "豆包炒股建议",
+      "onboard_time": 1779382818,
+      "rank": 38,
+      "category": "互联网"
     },
     {
       "raw_hot": 132987,
@@ -387,11 +403,11 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 109336,
-      "num": 229063,
-      "word": "发朋友圈辱骂邻居孩子被判赔7000元",
-      "onboard_time": 1779371362,
-      "rank": 42,
+      "raw_hot": 98337,
+      "num": 232843,
+      "word": "弟弟谎报身份致哥哥成吸毒人员",
+      "onboard_time": 1779375502,
+      "rank": 32,
       "category": "民生新闻"
     },
     {
@@ -401,14 +417,6 @@
       "onboard_time": 1779373821,
       "rank": 47,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 97284,
-      "num": 230580,
-      "word": "豆包炒股建议",
-      "onboard_time": 1779382818,
-      "rank": 38,
-      "category": "互联网"
     },
     {
       "raw_hot": 96680,
@@ -435,6 +443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 88887,
+      "num": 88887,
+      "word": "金秀贤已接受精神科治疗",
+      "onboard_time": 1779404418,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 87986,
       "num": 233578,
       "word": "crocs实体店被曝售假",
@@ -443,12 +459,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 84282,
-      "num": 232843,
-      "word": "弟弟谎报身份致哥哥成吸毒人员",
-      "onboard_time": 1779375502,
-      "rank": 32,
-      "category": "民生新闻"
+      "raw_hot": 81804,
+      "num": 88669,
+      "word": "小米17Max真香",
+      "onboard_time": 1779390015,
+      "rank": 37,
+      "category": "数码"
     },
     {
       "raw_hot": 76302,
@@ -460,11 +476,19 @@
     },
     {
       "raw_hot": 75616,
-      "num": 75616,
+      "num": 88405,
       "word": "女子在深圳水贝捡到11条黄金首饰",
       "onboard_time": 1779395713,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 74275,
+      "num": 88590,
+      "word": "王濛举报李小冉作弊",
+      "onboard_time": 1779403516,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 71822,
@@ -483,8 +507,16 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 61780,
+      "num": 88365,
+      "word": "崔始源曾给阚清子卷头发",
+      "onboard_time": 1779404418,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 58005,
-      "num": 70946,
+      "num": 88222,
       "word": "男子生日当天掐死30岁妻子",
       "onboard_time": 1779394873,
       "rank": 23,
@@ -497,14 +529,6 @@
       "onboard_time": 1779366980,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 55168,
-      "num": 69171,
-      "word": "小米17Max真香",
-      "onboard_time": 1779390015,
-      "rank": 37,
-      "category": "数码"
     },
     {
       "raw_hot": 52897,
@@ -523,20 +547,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 49502,
+      "num": 88154,
+      "word": "我的购物车比聊天记录还真实",
+      "onboard_time": 1779370641,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 47709,
       "num": 227911,
       "word": "郑丽文怒骂赖清德30分钟",
       "onboard_time": 1779377241,
       "rank": 46,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 47147,
-      "num": 66828,
-      "word": "王濛举报李小冉作弊",
-      "onboard_time": 1779403516,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 43024,
@@ -555,20 +579,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 37292,
-      "num": 69123,
+      "raw_hot": 37631,
+      "num": 87851,
       "word": "袁隆平吴孟超逝世5年了",
       "onboard_time": 1779386355,
       "rank": 35,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 29420,
-      "num": 68780,
-      "word": "我的购物车比聊天记录还真实",
-      "onboard_time": 1779370641,
-      "rank": 39,
-      "category": "情感"
     },
     {
       "raw_hot": 27349,
@@ -593,6 +609,22 @@
       "onboard_time": 1779393493,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 15269,
+      "num": 87180,
+      "word": "用上AI后工作时间反而更长了",
+      "onboard_time": 1779404418,
+      "rank": 48,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 7494,
+      "num": 87124,
+      "word": "禁止从菲律宾输入猪",
+      "onboard_time": 1779404418,
+      "rank": 49,
+      "category": "国际时政"
     }
   ],
   "hotgov_list": [
