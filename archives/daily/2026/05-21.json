@@ -1,6 +1,6 @@
 {
   "startTime": 1779293187585,
-  "endTime": 1779366181656,
+  "endTime": 1779371076736,
   "band_list": [
     {
       "raw_hot": 4409779,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 3583516,
-      "num": 365069,
+      "num": 444591,
       "word": "金秀贤从全民唾骂到沉冤得雪",
       "onboard_time": 1779350899,
       "rank": 10,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 2424051,
-      "num": 365799,
+      "num": 471372,
       "word": "月经期洗澡停经 下丘脑对温度敏感",
       "onboard_time": 1779334701,
       "rank": 23,
@@ -84,11 +84,19 @@
     },
     {
       "raw_hot": 1948431,
-      "num": 350734,
+      "num": 481087,
       "word": "宁艺卓评论吉赛尔恋情传闻帖",
       "onboard_time": 1779363020,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1939520,
+      "num": 1939520,
+      "word": "小米YU7GT价格",
+      "onboard_time": 1779365540,
+      "rank": 39,
+      "category": "汽车"
     },
     {
       "raw_hot": 1691499,
@@ -97,6 +105,14 @@
       "onboard_time": 1779350481,
       "rank": 0,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 1463615,
+      "num": 504515,
+      "word": "任敏一口气发了154张照片",
+      "onboard_time": 1779366980,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1418520,
@@ -172,7 +188,7 @@
     },
     {
       "raw_hot": 1008163,
-      "num": 374682,
+      "num": 475071,
       "word": "肖战回头笑",
       "onboard_time": 1779360080,
       "rank": 11,
@@ -180,7 +196,7 @@
     },
     {
       "raw_hot": 987786,
-      "num": 372529,
+      "num": 378248,
       "word": "张月 三公妆造",
       "onboard_time": 1779359120,
       "rank": 12,
@@ -219,6 +235,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 910403,
+      "num": 958130,
+      "word": "官方通报税务局职工上班玩手游",
+      "onboard_time": 1779368123,
+      "rank": 1,
+      "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 899675,
+      "num": 499574,
+      "word": "张元英总裁从五百平的床上醒来",
+      "onboard_time": 1779369441,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 896200,
       "num": 1143392,
       "word": "小米发布会",
@@ -236,11 +268,19 @@
     },
     {
       "raw_hot": 869647,
-      "num": 363440,
+      "num": 476657,
       "word": "A股突然下跌原因找到了",
       "onboard_time": 1779358100,
       "rank": 12,
       "category": "财经"
+    },
+    {
+      "raw_hot": 853608,
+      "num": 853608,
+      "word": "歌手歌单",
+      "onboard_time": 1779364700,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 830684,
@@ -249,6 +289,38 @@
       "onboard_time": 1779361221,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 827678,
+      "num": 644363,
+      "word": "特朗普儿媳强烈推荐打卡长城",
+      "onboard_time": 1779368060,
+      "rank": 7,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 805722,
+      "num": 805722,
+      "word": "王菲别唱了",
+      "onboard_time": 1779368302,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 800215,
+      "num": 498484,
+      "word": "白鹿 油画公主",
+      "onboard_time": 1779365839,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 765949,
+      "num": 765949,
+      "word": "雷军说输给特斯拉不丢人",
+      "onboard_time": 1779369441,
+      "rank": 5,
+      "category": "汽车"
     },
     {
       "raw_hot": 759246,
@@ -420,7 +492,7 @@
     },
     {
       "raw_hot": 564857,
-      "num": 364968,
+      "num": 438932,
       "word": "Angelababy画的红黄蓝",
       "onboard_time": 1779361699,
       "rank": 15,
@@ -515,6 +587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 507852,
+      "num": 507852,
+      "word": "小米YU7GT",
+      "onboard_time": 1779364880,
+      "rank": 8,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 494002,
       "num": 494002,
       "word": "碳水脸是对碳水的污名化",
@@ -555,20 +635,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 470365,
-      "num": 470365,
-      "word": "歌手歌单",
-      "onboard_time": 1779364700,
-      "rank": 7,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 467405,
       "num": 467405,
       "word": "未开封的饮料都可以偷梁换柱",
       "onboard_time": 1779280641,
       "rank": 12,
       "category": "情感"
+    },
+    {
+      "raw_hot": 465588,
+      "num": 465588,
+      "word": "田曦薇西装露额头",
+      "onboard_time": 1779370762,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 463126,
@@ -600,6 +680,14 @@
       "word": "复旦大学沈奕斐教授被举报",
       "onboard_time": 1779365960,
       "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 436997,
+      "num": 490843,
+      "word": "35岁去世中介有3个孩子",
+      "onboard_time": 1779366500,
+      "rank": 16,
       "category": "民生新闻"
     },
     {
@@ -705,14 +793,6 @@
       "onboard_time": 1779321380,
       "rank": 16,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 384468,
-      "num": 384468,
-      "word": "小米YU7GT",
-      "onboard_time": 1779364880,
-      "rank": 8,
-      "category": "汽车"
     },
     {
       "raw_hot": 383110,
@@ -852,11 +932,19 @@
     },
     {
       "raw_hot": 350837,
-      "num": 350837,
+      "num": 492140,
       "word": "洛克王国 暗改",
       "onboard_time": 1779362239,
       "rank": 22,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 344421,
+      "num": 444842,
+      "word": "小米YU7标准版来了",
+      "onboard_time": 1779369743,
+      "rank": 26,
+      "category": "汽车"
     },
     {
       "raw_hot": 341393,
@@ -865,14 +953,6 @@
       "onboard_time": 1779332239,
       "rank": 49,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 341348,
-      "num": 341348,
-      "word": "白鹿 油画公主",
-      "onboard_time": 1779365839,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 331428,
@@ -889,6 +969,14 @@
       "onboard_time": 1779355761,
       "rank": 29,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 328890,
+      "num": 328890,
+      "word": "亚洲艺术电影节",
+      "onboard_time": 1779310754,
+      "rank": 34,
+      "category": "电影"
     },
     {
       "raw_hot": 326579,
@@ -929,6 +1017,14 @@
       "onboard_time": 1779289762,
       "rank": 49,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 304963,
+      "num": 488441,
+      "word": "夫妻二胎流3次丈夫认为自己没问题",
+      "onboard_time": 1779364040,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 301099,
@@ -1011,6 +1107,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 275648,
+      "num": 441591,
+      "word": "孕妇凌晨江边散步失联丈夫发声",
+      "onboard_time": 1779370702,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 271691,
+      "num": 271691,
+      "word": "主角",
+      "onboard_time": 1779274581,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 269682,
       "num": 350350,
       "word": "刘宇宁铁证开机",
@@ -1051,6 +1163,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 259558,
+      "num": 438940,
+      "word": "父母弄散儿子拼3天积木感觉天塌了",
+      "onboard_time": 1779369922,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 258566,
       "num": 258566,
       "word": "张凌赫回复丁程鑫",
@@ -1065,6 +1185,14 @@
       "onboard_time": 1779341959,
       "rank": 40,
       "category": "教育"
+    },
+    {
+      "raw_hot": 256351,
+      "num": 256351,
+      "word": "颜颜 体面",
+      "onboard_time": 1779366980,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 255357,
@@ -1113,14 +1241,6 @@
       "onboard_time": 1779336740,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 247584,
-      "num": 337897,
-      "word": "小米YU7GT价格",
-      "onboard_time": 1779365540,
-      "rank": 39,
-      "category": "汽车"
     },
     {
       "raw_hot": 243615,
@@ -1219,6 +1339,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 219520,
+      "num": 290212,
+      "word": "AL晋级EWC",
+      "onboard_time": 1779367940,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 218514,
       "num": 333049,
       "word": "找工作 短期主义",
@@ -1249,14 +1377,6 @@
       "onboard_time": 1779336683,
       "rank": 20,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 209327,
-      "num": 209327,
-      "word": "主角",
-      "onboard_time": 1779274581,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 208983,
@@ -1507,6 +1627,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 162357,
+      "num": 281496,
+      "word": "德国队公布世界杯名单",
+      "onboard_time": 1779367460,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 161524,
       "num": 193710,
       "word": "肖战出发参加亚洲艺术电影节",
@@ -1545,6 +1673,14 @@
       "onboard_time": 1779288025,
       "rank": 43,
       "category": "电影"
+    },
+    {
+      "raw_hot": 154626,
+      "num": 271923,
+      "word": "郑钦文法网首战资格赛选手",
+      "onboard_time": 1779370161,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 154181,
@@ -1659,12 +1795,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 114776,
+      "num": 485288,
+      "word": "穆祉丞18岁首登戛纳红毯",
+      "onboard_time": 1779369021,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 112859,
       "num": 500642,
       "word": "EWC电竞世俱杯",
       "onboard_time": 1779286762,
       "rank": 9,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 111791,
+      "num": 277731,
+      "word": "浪姐歌手如同做了夫妻一般",
+      "onboard_time": 1779369982,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 108137,
@@ -1707,14 +1859,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 89798,
-      "num": 177557,
-      "word": "亚洲艺术电影节",
-      "onboard_time": 1779310754,
-      "rank": 34,
-      "category": "电影"
-    },
-    {
       "raw_hot": 87092,
       "num": 185594,
       "word": "普京离京对送行人群微笑点头致意",
@@ -1745,6 +1889,22 @@
       "onboard_time": 1779355640,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 77020,
+      "num": 287162,
+      "word": "娜扎这张脸 顶美",
+      "onboard_time": 1779369862,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 75111,
+      "num": 284776,
+      "word": "小米17系列怎么选",
+      "onboard_time": 1779366980,
+      "rank": 38,
+      "category": "数码"
     },
     {
       "raw_hot": 72741,
@@ -2075,6 +2235,22 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 28130,
+      "num": 905163,
+      "word": "我国建成规模最大水利基础设施体系",
+      "onboard_time": 1779366861,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 26188,
+      "num": 278935,
+      "word": "我的购物车比聊天记录还真实",
+      "onboard_time": 1779370641,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 26098,
       "num": 346327,
       "word": "主角官微转了辛芷蕾评论",
@@ -2215,6 +2391,9 @@
     },
     {
       "word": "#100秒看中俄元首北京会晤#"
+    },
+    {
+      "word": "#中俄关系站得更高走得更稳行得更远#"
     }
   ]
 }
