@@ -1,7 +1,15 @@
 {
   "startTime": 1779293187585,
-  "endTime": 1779327188235,
+  "endTime": 1779337039142,
   "band_list": [
+    {
+      "raw_hot": 2558835,
+      "num": 2558835,
+      "word": "国产手机突然降价2000元",
+      "onboard_time": 1779334219,
+      "rank": 0,
+      "category": "数码"
+    },
     {
       "raw_hot": 2489871,
       "num": 2489871,
@@ -9,6 +17,22 @@
       "onboard_time": 1779320421,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2424051,
+      "num": 365799,
+      "word": "月经期洗澡停经 下丘脑对温度敏感",
+      "onboard_time": 1779334701,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 2423671,
+      "num": 1164648,
+      "word": "曝铁证王玉雯换张艺凡",
+      "onboard_time": 1779331640,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 2050981,
@@ -35,12 +59,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1365442,
+      "num": 1365442,
+      "word": "米粉店老板回应本地人7元游客13元",
+      "onboard_time": 1779330019,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1332892,
       "num": 354830,
       "word": "英伟达财报",
       "onboard_time": 1779319218,
       "rank": 30,
       "category": "财经"
+    },
+    {
+      "raw_hot": 1272096,
+      "num": 364586,
+      "word": "恋综 背调",
+      "onboard_time": 1779330680,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 1263382,
@@ -59,12 +99,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1075634,
+      "num": 1075634,
+      "word": "奶奶一天的接待量",
+      "onboard_time": 1779333200,
+      "rank": 4,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1063030,
       "num": 438865,
       "word": "檀健次卢昱晓好激烈的吻戏",
       "onboard_time": 1779325459,
       "rank": 10,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1038940,
+      "num": 390310,
+      "word": "疑似王鹤棣捏孟子义肩膀说假的",
+      "onboard_time": 1779330740,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 971096,
@@ -81,6 +137,22 @@
       "onboard_time": 1779320298,
       "rank": 4,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 924119,
+      "num": 360796,
+      "word": "孙颖莎叫自己中国科比",
+      "onboard_time": 1779331101,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 755298,
+      "num": 325931,
+      "word": "特斯拉监督版FSD入华",
+      "onboard_time": 1779330499,
+      "rank": 45,
+      "category": "汽车"
     },
     {
       "raw_hot": 727709,
@@ -113,6 +185,38 @@
       "onboard_time": 1779321319,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 612447,
+      "num": 612447,
+      "word": "雷霆1比1马刺",
+      "onboard_time": 1779333379,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 587107,
+      "num": 387602,
+      "word": "Angelababy银裙高定",
+      "onboard_time": 1779330079,
+      "rank": 12,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 570719,
+      "num": 385876,
+      "word": "王玉雯工作室回应被换角",
+      "onboard_time": 1779335239,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 570329,
+      "num": 570329,
+      "word": "不交物业费业主被挂小区电子屏",
+      "onboard_time": 1779331580,
+      "rank": 6,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 561462,
@@ -219,6 +323,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 419263,
+      "num": 384047,
+      "word": "哈珀受伤",
+      "onboard_time": 1779331819,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 414314,
       "num": 414314,
       "word": "淑柔扮演者回应为何不进演艺圈",
@@ -251,6 +363,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 393670,
+      "num": 393670,
+      "word": "谢娜发了快乐大本营片段",
+      "onboard_time": 1779327319,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 393613,
       "num": 393613,
       "word": "李在明说以色列总理已被列为战犯",
@@ -264,6 +384,22 @@
       "word": "粥文be",
       "onboard_time": 1779280042,
       "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 380231,
+      "num": 363235,
+      "word": "林俊杰 七七",
+      "onboard_time": 1779327139,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 377372,
+      "num": 370291,
+      "word": "江语晨吃饭用的雷霆大勺",
+      "onboard_time": 1779335180,
+      "rank": 21,
       "category": "综艺"
     },
     {
@@ -299,12 +435,44 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 358011,
+      "num": 356699,
+      "word": "人生自取其辱十件套",
+      "onboard_time": 1779328157,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 354145,
+      "num": 368806,
+      "word": "特朗普回应中俄元首会晤",
+      "onboard_time": 1779327979,
+      "rank": 22,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 341393,
+      "num": 317347,
+      "word": "女子让螳螂帮忙吃肉瘊子",
+      "onboard_time": 1779332239,
+      "rank": 49,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 315781,
       "num": 357672,
       "word": "被普京抱过的男孩回应年龄像50多岁",
       "onboard_time": 1779289762,
       "rank": 49,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 306056,
+      "num": 376335,
+      "word": "主角 上升期小花禁止恋爱",
+      "onboard_time": 1779336141,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 301099,
@@ -323,6 +491,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 290181,
+      "num": 353264,
+      "word": "张艺凡铁证领衔主演",
+      "onboard_time": 1779334879,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 289642,
       "num": 98715,
       "word": "戴维没关注凯凯",
@@ -339,6 +515,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 281836,
+      "num": 350897,
+      "word": "洛克王国致歉",
+      "onboard_time": 1779332659,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 277238,
       "num": 277238,
       "word": "李多海怀孕",
@@ -347,12 +531,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 269682,
+      "num": 350350,
+      "word": "刘宇宁铁证开机",
+      "onboard_time": 1779327677,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 267349,
       "num": 419188,
       "word": "深圳暴雨",
       "onboard_time": 1779282501,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 263030,
+      "num": 355997,
+      "word": "2万多元商品签收2天被仅退款",
+      "onboard_time": 1779329420,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 262053,
+      "num": 348276,
+      "word": "氯化钾输液 快推执行死刑",
+      "onboard_time": 1779331160,
+      "rank": 33,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 259916,
@@ -369,6 +577,14 @@
       "onboard_time": 1779276142,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 255357,
+      "num": 358523,
+      "word": "白鹿见面会抢票",
+      "onboard_time": 1779329659,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 254315,
@@ -435,12 +651,44 @@
       "category": "财经"
     },
     {
+      "raw_hot": 229263,
+      "num": 343610,
+      "word": "孙颖莎说世乒赛决赛打到忘我的感觉了",
+      "onboard_time": 1779335900,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 223025,
       "num": 325114,
       "word": "孙浩演技 最佳男配",
       "onboard_time": 1779288502,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 222557,
+      "num": 342924,
+      "word": "铁证",
+      "onboard_time": 1779331278,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 218514,
+      "num": 333049,
+      "word": "找工作 短期主义",
+      "onboard_time": 1779336560,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 216171,
+      "num": 330881,
+      "word": "22岁男子杀害34岁女友被判死缓",
+      "onboard_time": 1779334640,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 210260,
@@ -515,6 +763,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 170931,
+      "num": 323136,
+      "word": "张凌赫说新的自动回复有点土",
+      "onboard_time": 1779329719,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 169921,
       "num": 200524,
       "word": "建议所有成年人都查一次脂蛋白A",
@@ -547,6 +803,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 163288,
+      "num": 340704,
+      "word": "这是我的西游2定档",
+      "onboard_time": 1779336079,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 162967,
       "num": 193771,
       "word": "杨梅协会会长恳求消费者给果农生路",
@@ -561,6 +825,14 @@
       "onboard_time": 1779279021,
       "rank": 42,
       "category": "电影"
+    },
+    {
+      "raw_hot": 161006,
+      "num": 321238,
+      "word": "麦迪娜姜潮7岁儿子颜值",
+      "onboard_time": 1779336740,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 158819,
@@ -603,14 +875,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 128580,
-      "num": 318956,
-      "word": "林俊杰 七七",
-      "onboard_time": 1779327139,
-      "rank": 49,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 128406,
       "num": 193731,
       "word": "奔驰车主2次调整故意碾压猫咪",
@@ -624,6 +888,14 @@
       "word": "小鹏发布会",
       "onboard_time": 1779291681,
       "rank": 30,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 114764,
+      "num": 379686,
+      "word": "雷军晒YU7GT团队",
+      "onboard_time": 1779336683,
+      "rank": 16,
       "category": "汽车"
     },
     {
@@ -681,6 +953,14 @@
       "onboard_time": 1779304394,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 75171,
+      "num": 392091,
+      "word": "雷霆马刺打得太惨烈了",
+      "onboard_time": 1779336502,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 72620,
@@ -747,6 +1027,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 51630,
+      "num": 335961,
+      "word": "腾讯AI助手马维斯正式上工",
+      "onboard_time": 1779336079,
+      "rank": 39,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 51109,
       "num": 989877,
       "word": "中俄元首会谈现场都有谁",
@@ -779,6 +1067,30 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 45653,
+      "num": 373582,
+      "word": "印度新娘家庭常因嫁妆倾家荡产",
+      "onboard_time": 1779336079,
+      "rank": 19,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 39769,
+      "num": 371348,
+      "word": "70岁阿姨给男主播打赏336万",
+      "onboard_time": 1779336683,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 39466,
+      "num": 1200745,
+      "word": "小满节气里的烟火诗意",
+      "onboard_time": 1779330139,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 38133,
       "num": 38133,
       "word": "中俄元首会晤成果文件清单",
@@ -801,6 +1113,14 @@
       "onboard_time": 1779316336,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 33680,
+      "num": 326554,
+      "word": "买法拍房当婚房多次遭水泥封门",
+      "onboard_time": 1779336922,
+      "rank": 44,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 31926,
@@ -835,6 +1155,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 21018,
+      "num": 335486,
+      "word": "普京抱过的小男孩回应为何送鸟鸣壶",
+      "onboard_time": 1779336141,
+      "rank": 40,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 21001,
       "num": 521026,
       "word": "湖南石门多处断水断电",
@@ -857,6 +1185,14 @@
       "onboard_time": 1779319097,
       "rank": 9,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 4181,
+      "num": 377677,
+      "word": "杨洋被剪掉的这个动作好潇洒",
+      "onboard_time": 1779336079,
+      "rank": 17,
+      "category": "剧集"
     }
   ],
   "hotgov_list": [
@@ -865,6 +1201,9 @@
     },
     {
       "word": "#中俄关系迈上新起点#"
+    },
+    {
+      "word": "#习主席这样提炼中俄关系发展历程#"
     }
   ]
 }
