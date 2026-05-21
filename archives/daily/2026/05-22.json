@@ -1,6 +1,6 @@
 {
   "startTime": 1779380513479,
-  "endTime": 1779390302843,
+  "endTime": 1779391610760,
   "band_list": [
     {
       "raw_hot": 2492570,
@@ -523,20 +523,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 32662,
+      "num": 34082,
+      "word": "小米17Max真香",
+      "onboard_time": 1779390015,
+      "rank": 37,
+      "category": "数码"
+    },
+    {
       "raw_hot": 30368,
       "num": 34263,
       "word": "袁隆平吴孟超逝世5年了",
       "onboard_time": 1779386355,
       "rank": 35,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 27481,
-      "num": 34082,
-      "word": "小米17Max真香",
-      "onboard_time": 1779390015,
-      "rank": 37,
-      "category": "数码"
     },
     {
       "raw_hot": 27349,

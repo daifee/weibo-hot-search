@@ -1,6 +1,6 @@
 {
   "startTime": 1777565126834,
-  "endTime": 1779390302843,
+  "endTime": 1779391610760,
   "band_list": [
     {
       "raw_hot": 25375641,
@@ -39635,6 +39635,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 32662,
+      "num": 34082,
+      "word": "小米17Max真香",
+      "onboard_time": 1779390015,
+      "rank": 37,
+      "category": "数码"
+    },
+    {
       "raw_hot": 32640,
       "num": 236166,
       "word": "丈夫买房后去世物业拒给家属钥匙",
@@ -40305,14 +40313,6 @@
       "onboard_time": 1777747095,
       "rank": 41,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 27481,
-      "num": 34082,
-      "word": "小米17Max真香",
-      "onboard_time": 1779390015,
-      "rank": 37,
-      "category": "数码"
     },
     {
       "raw_hot": 27422,
