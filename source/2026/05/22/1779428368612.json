@@ -1,0 +1,410 @@
+{
+  "runTime": 1779428368612,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1898042,
+        "num": 1898042,
+        "word": "女子捡到金项链发现异常立马扔掉",
+        "onboard_time": 1779419421,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 796234,
+        "num": 915208,
+        "word": "微信回应只能撤回2分钟内消息",
+        "onboard_time": 1779421645,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 10848,
+        "num": 861956,
+        "word": "走近第二十二届文博会",
+        "onboard_time": 1779415879,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 861190,
+        "num": 861190,
+        "word": "第一次觉得excel好吵",
+        "onboard_time": 1779421824,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 836156,
+        "num": 836156,
+        "word": "伊能静大战庾澄庆 宋妍霏大战窦靖童",
+        "onboard_time": 1779422723,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 702547,
+        "num": 702547,
+        "word": "赵丽颖易烊千玺三搭",
+        "onboard_time": 1779423625,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 486002,
+        "num": 486002,
+        "word": "朱自清散文AI率超60%",
+        "onboard_time": 1779423745,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 325390,
+        "num": 482299,
+        "word": "盛世天下女帝篇定档6月",
+        "onboard_time": 1779419541,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 294788,
+        "num": 476364,
+        "word": "雷军强烈推荐现在就换手机",
+        "onboard_time": 1779408981,
+        "rank": 8,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 259056,
+        "num": 467776,
+        "word": "小猫突然把小狗脑袋扶正",
+        "onboard_time": 1779427102,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1205311,
+        "num": 454527,
+        "word": "张豆豆喊出我肚子很痛孙杨才停下来",
+        "onboard_time": 1779420685,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 34860,
+        "num": 442550,
+        "word": "市监局回应摊贩往西瓜上抹透明液体",
+        "onboard_time": 1779427944,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 684290,
+        "num": 434147,
+        "word": "复旦教授沈奕斐遭家长疯狂举报两月",
+        "onboard_time": 1779423445,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 575295,
+        "num": 427422,
+        "word": "被家长举报沈奕斐称扛不住了",
+        "onboard_time": 1779425905,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 553940,
+        "num": 421450,
+        "word": "景甜方否认代孕协议",
+        "onboard_time": 1779420746,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 509732,
+        "num": 415356,
+        "word": "马嘉祺录综艺还在论文查重",
+        "onboard_time": 1779426026,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 340474,
+        "num": 407068,
+        "word": "韩国服饰品牌抄袭汉服",
+        "onboard_time": 1779424286,
+        "rank": 16,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 509035,
+        "num": 390653,
+        "word": "赵丽颖林子烨演母子",
+        "onboard_time": 1779426746,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 49206,
+        "num": 381540,
+        "word": "用上AI后工作时间反而更长了",
+        "onboard_time": 1779404418,
+        "rank": 18,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 490182,
+        "num": 373828,
+        "word": "易烊千玺演皇帝",
+        "onboard_time": 1779423625,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 372132,
+        "num": 372132,
+        "word": "身上莫名长出的小红点是什么",
+        "onboard_time": 1779413719,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 370694,
+        "num": 370694,
+        "word": "刘耀文在宋亚轩行李箱里找洗漱包",
+        "onboard_time": 1779427102,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 320368,
+        "num": 320368,
+        "word": "汪峰又把人设立住了",
+        "onboard_time": 1779423145,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 249982,
+        "num": 288388,
+        "word": "孙颖莎王楚钦世乒赛全胜海报",
+        "onboard_time": 1779425185,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 278634,
+        "num": 278634,
+        "word": "白鹿 年纪大了有点尴尬",
+        "onboard_time": 1779420804,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 254418,
+        "num": 254418,
+        "word": "景甜还有3部待播剧",
+        "onboard_time": 1779427824,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 192108,
+        "num": 249061,
+        "word": "美国暂停一项对台军售案",
+        "onboard_time": 1779426565,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 247372,
+        "num": 247372,
+        "word": "高空跳伞遇难女子生前说突然让跳伞",
+        "onboard_time": 1779423625,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 61289,
+        "num": 247296,
+        "word": "学生用AI降论文AIGC率",
+        "onboard_time": 1779423745,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 60997,
+        "num": 247240,
+        "word": "电影澎湖海战定档7月25日",
+        "onboard_time": 1779419180,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 226601,
+        "num": 247234,
+        "word": "TOP 青岛",
+        "onboard_time": 1779418519,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 247230,
+        "num": 247230,
+        "word": "月薪归妻子丈夫倍感委屈起诉离婚",
+        "onboard_time": 1779423265,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 243287,
+        "num": 243287,
+        "word": "肯德基 aespa",
+        "onboard_time": 1779419782,
+        "rank": 32,
+        "category": "艺人,美食"
+      },
+      {
+        "raw_hot": 238601,
+        "num": 238601,
+        "word": "雷军直言YU7输给ModelY原因",
+        "onboard_time": 1779418039,
+        "rank": 33,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 237010,
+        "num": 237010,
+        "word": "伊能静自曝48岁生女肚子被打开2次",
+        "onboard_time": 1779425663,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 215533,
+        "num": 215533,
+        "word": "澎湖海战",
+        "onboard_time": 1779416900,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 188823,
+        "num": 188823,
+        "word": "狗狗看似不经意实则是故意",
+        "onboard_time": 1779424825,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 195751,
+        "num": 188304,
+        "word": "为了拍肖战走了一整套连招",
+        "onboard_time": 1779427044,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 182716,
+        "num": 182716,
+        "word": "曝刺棠宋祖儿换李宛妲",
+        "onboard_time": 1779412160,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 180153,
+        "num": 180153,
+        "word": "深圳开公司十年房租交了一千万",
+        "onboard_time": 1779426683,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170483,
+        "num": 170483,
+        "word": "我的工位饮料belike",
+        "onboard_time": 1779427763,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 163794,
+        "num": 163794,
+        "word": "家委会退雨伞教坏下一代",
+        "onboard_time": 1779427402,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161817,
+        "num": 161817,
+        "word": "肖战手上的伤口",
+        "onboard_time": 1779417740,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 160808,
+        "num": 160808,
+        "word": "芒果 听完你的听你的",
+        "onboard_time": 1779424526,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 31348,
+        "num": 150321,
+        "word": "国外多起死亡事件被证实和AI有关",
+        "onboard_time": 1779426864,
+        "rank": 44,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 147359,
+        "num": 147359,
+        "word": "尼克斯2比0骑士",
+        "onboard_time": 1779421525,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 135048,
+        "num": 135048,
+        "word": "詹姆斯说不会再去重建球队",
+        "onboard_time": 1779418819,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 133409,
+        "num": 133409,
+        "word": "曝桃花坞游戏抄袭",
+        "onboard_time": 1779416239,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131718,
+        "num": 131718,
+        "word": "第五人格遗忘之海",
+        "onboard_time": 1779421944,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 16020,
+        "num": 127453,
+        "word": "金秀贤从全民唾骂到沉冤得雪",
+        "onboard_time": 1779350899,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#精彩瞬间见证中俄元首友谊#"
+    }
+  }
+}
