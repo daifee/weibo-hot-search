@@ -1,0 +1,410 @@
+{
+  "runTime": 1779470082787,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2534636,
+        "num": 2534636,
+        "word": "浪姐淘汰",
+        "onboard_time": 1779465562,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 295172,
+        "num": 1616885,
+        "word": "上班不会为工位花一分钱",
+        "onboard_time": 1779449900,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 25748,
+        "num": 1595920,
+        "word": "神舟二十三号已做好发射前各项准备",
+        "onboard_time": 1779453561,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1588879,
+        "num": 1588879,
+        "word": "歌手排名",
+        "onboard_time": 1779459751,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 814588,
+        "num": 814588,
+        "word": "跑男收视率",
+        "onboard_time": 1779461308,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 813354,
+        "num": 813354,
+        "word": "庾澄庆淘汰",
+        "onboard_time": 1779461548,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184324,
+        "num": 810370,
+        "word": "我年龄大到能看懂这张图",
+        "onboard_time": 1779450440,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 154788,
+        "num": 794092,
+        "word": "上班被领导兜底的含金量",
+        "onboard_time": 1779460284,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 91522,
+        "num": 781165,
+        "word": "美退役海军中将受访画面引争议",
+        "onboard_time": 1779454761,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 83737,
+        "num": 771687,
+        "word": "富途控股拟被罚18.5亿元",
+        "onboard_time": 1779458545,
+        "rank": 9,
+        "category": "财经,互联网"
+      },
+      {
+        "raw_hot": 759312,
+        "num": 759312,
+        "word": "庾澄庆合伙人",
+        "onboard_time": 1779465742,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 736767,
+        "num": 736767,
+        "word": "窦靖童演唱那英从头哭到尾",
+        "onboard_time": 1779461127,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 681507,
+        "num": 681507,
+        "word": "浪姐 做局",
+        "onboard_time": 1779465502,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 555301,
+        "num": 610902,
+        "word": "耳帝长评歌手",
+        "onboard_time": 1779462625,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 594667,
+        "num": 594667,
+        "word": "惊鸿一面 夯",
+        "onboard_time": 1779456623,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 76105,
+        "num": 592004,
+        "word": "寿司郎广州门店被曝吃出4条寄生虫",
+        "onboard_time": 1779463045,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 591847,
+        "num": 591847,
+        "word": "浪姐票数 等差数列",
+        "onboard_time": 1779466461,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115361,
+        "num": 562818,
+        "word": "大爷穿着自己编织的蓑衣卖樱桃",
+        "onboard_time": 1779448760,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104413,
+        "num": 556044,
+        "word": "英格兰公布世界杯26人名单",
+        "onboard_time": 1779468380,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 399490,
+        "num": 554526,
+        "word": "长沙暴雨",
+        "onboard_time": 1779464065,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 553166,
+        "num": 553166,
+        "word": "浪姐排名",
+        "onboard_time": 1779462147,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 536595,
+        "num": 536595,
+        "word": "结石姐 歌手袭榜",
+        "onboard_time": 1779461428,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 438100,
+        "num": 438100,
+        "word": "窦靖童 王菲的声音唱窦唯",
+        "onboard_time": 1779457223,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 395775,
+        "num": 395775,
+        "word": "伊能静 我在妻旅才是乘风破浪",
+        "onboard_time": 1779458604,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 308454,
+        "num": 308454,
+        "word": "胡彦斌破音",
+        "onboard_time": 1779456324,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 249559,
+        "num": 305824,
+        "word": "丈夫高调宣布出轨有私生子妻子崩溃",
+        "onboard_time": 1779441201,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 215410,
+        "num": 302391,
+        "word": "网约车司机闷死小猫后跑路拉黑",
+        "onboard_time": 1779468140,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 199242,
+        "num": 298293,
+        "word": "突然理解自己为什么会高物欲了",
+        "onboard_time": 1779445820,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 160770,
+        "num": 295092,
+        "word": "iPhone17系列降价后销量",
+        "onboard_time": 1779454343,
+        "rank": 28,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 136814,
+        "num": 291341,
+        "word": "小猫臂力惊人 肚肚逼人",
+        "onboard_time": 1779450560,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 289995,
+        "num": 289995,
+        "word": "窦颖给窦靖童和声",
+        "onboard_time": 1779462805,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 283856,
+        "num": 283856,
+        "word": "范丞丞让尤长靖拿第三名",
+        "onboard_time": 1779460226,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 208474,
+        "num": 282562,
+        "word": "那英说张碧晨是一定走到最后的",
+        "onboard_time": 1779468620,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159919,
+        "num": 276734,
+        "word": "歌手直播",
+        "onboard_time": 1779449601,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129909,
+        "num": 274977,
+        "word": "歌手弹幕 隔壁唱得好看跳得好听",
+        "onboard_time": 1779456264,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129247,
+        "num": 270511,
+        "word": "美国18岁少女遭生父性侵后自杀",
+        "onboard_time": 1779448521,
+        "rank": 35,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 152159,
+        "num": 266036,
+        "word": "尤长靖把我唱哭了",
+        "onboard_time": 1779454701,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183178,
+        "num": 263639,
+        "word": "张碧晨 炸场子",
+        "onboard_time": 1779458907,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125034,
+        "num": 260320,
+        "word": "齐豫开净化了",
+        "onboard_time": 1779468260,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117008,
+        "num": 256875,
+        "word": "收视率",
+        "onboard_time": 1779457104,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112130,
+        "num": 254899,
+        "word": "年轻人开始全款买房意味着什么",
+        "onboard_time": 1779448282,
+        "rank": 40,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 110790,
+        "num": 248257,
+        "word": "王菲我知道你在看",
+        "onboard_time": 1779459447,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 85950,
+        "num": 246655,
+        "word": "赵睿微笑",
+        "onboard_time": 1779466520,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 76822,
+        "num": 243478,
+        "word": "一小伙儿爆砸充电完不走车辆",
+        "onboard_time": 1779446001,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 76662,
+        "num": 240077,
+        "word": "iPhone哪个材质手感最好",
+        "onboard_time": 1779447560,
+        "rank": 44,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 67285,
+        "num": 236177,
+        "word": "黄金又跌破4500美元了",
+        "onboard_time": 1779469399,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 63736,
+        "num": 232062,
+        "word": "泰国长公主昏迷近3年半后病情恶化",
+        "onboard_time": 1779445042,
+        "rank": 46,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 55632,
+        "num": 228747,
+        "word": "女孩开心跑进店将小猫扔出店外",
+        "onboard_time": 1779467840,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 55580,
+        "num": 225737,
+        "word": "济南山姆称已安排人员巡查",
+        "onboard_time": 1779460646,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 54065,
+        "num": 222266,
+        "word": "上海男篮淘汰北京男篮",
+        "onboard_time": 1779460048,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#光影记录中俄友谊故事#"
+    }
+  }
+}

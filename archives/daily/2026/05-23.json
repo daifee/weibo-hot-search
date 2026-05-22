@@ -1,6 +1,6 @@
 {
   "startTime": 1779465797561,
-  "endTime": 1779465797561,
+  "endTime": 1779470082787,
   "band_list": [
     {
       "raw_hot": 13549280,
@@ -16,6 +16,14 @@
       "word": "浪姐排名",
       "onboard_time": 1779462147,
       "rank": 1,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 2534636,
+      "num": 2534636,
+      "word": "浪姐淘汰",
+      "onboard_time": 1779465562,
+      "rank": 23,
       "category": "综艺"
     },
     {
@@ -75,19 +83,27 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 800886,
-      "num": 2012219,
-      "word": "浪姐淘汰",
-      "onboard_time": 1779465562,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 772419,
       "num": 1979106,
       "word": "凑热闹 喷麦",
       "onboard_time": 1779462747,
       "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 759312,
+      "num": 1941150,
+      "word": "庾澄庆合伙人",
+      "onboard_time": 1779465742,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 736767,
+      "num": 1969525,
+      "word": "窦靖童演唱那英从头哭到尾",
+      "onboard_time": 1779461127,
+      "rank": 27,
       "category": "综艺"
     },
     {
@@ -99,19 +115,27 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 700826,
-      "num": 1969525,
-      "word": "窦靖童演唱那英从头哭到尾",
-      "onboard_time": 1779461127,
-      "rank": 27,
+      "raw_hot": 681507,
+      "num": 681507,
+      "word": "浪姐 做局",
+      "onboard_time": 1779465502,
+      "rank": 12,
       "category": "综艺"
     },
     {
-      "raw_hot": 511927,
-      "num": 1941150,
-      "word": "庾澄庆合伙人",
-      "onboard_time": 1779465742,
-      "rank": 30,
+      "raw_hot": 591847,
+      "num": 591847,
+      "word": "浪姐票数 等差数列",
+      "onboard_time": 1779466461,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 555301,
+      "num": 1748536,
+      "word": "耳帝长评歌手",
+      "onboard_time": 1779462625,
+      "rank": 47,
       "category": "综艺"
     },
     {
@@ -153,6 +177,14 @@
       "onboard_time": 1779462805,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 399490,
+      "num": 2091573,
+      "word": "长沙暴雨",
+      "onboard_time": 1779464065,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 389712,
@@ -203,14 +235,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 286992,
-      "num": 2091573,
-      "word": "长沙暴雨",
-      "onboard_time": 1779464065,
-      "rank": 16,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 284292,
       "num": 1824297,
       "word": "左航直播",
@@ -225,14 +249,6 @@
       "onboard_time": 1779454343,
       "rank": 22,
       "category": "数码"
-    },
-    {
-      "raw_hot": 283112,
-      "num": 1748536,
-      "word": "耳帝长评歌手",
-      "onboard_time": 1779462625,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 269035,
@@ -267,6 +283,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 215410,
+      "num": 302391,
+      "word": "网约车司机闷死小猫后跑路拉黑",
+      "onboard_time": 1779468140,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 208474,
+      "num": 282562,
+      "word": "那英说张碧晨是一定走到最后的",
+      "onboard_time": 1779468620,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 186942,
       "num": 2201218,
       "word": "上班被领导兜底的含金量",
@@ -291,6 +323,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 129247,
+      "num": 1858799,
+      "word": "美国18岁少女遭生父性侵后自杀",
+      "onboard_time": 1779448521,
+      "rank": 37,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 125034,
+      "num": 260320,
+      "word": "齐豫开净化了",
+      "onboard_time": 1779468260,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 124116,
       "num": 2076488,
       "word": "泰国长公主昏迷近3年半后病情恶化",
@@ -307,12 +355,12 @@
       "category": "财经,互联网"
     },
     {
-      "raw_hot": 111457,
-      "num": 1858799,
-      "word": "美国18岁少女遭生父性侵后自杀",
-      "onboard_time": 1779448521,
-      "rank": 37,
-      "category": "海外新闻"
+      "raw_hot": 110790,
+      "num": 248257,
+      "word": "王菲我知道你在看",
+      "onboard_time": 1779459447,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 109487,
@@ -328,6 +376,14 @@
       "word": "上海男篮3比1北京男篮",
       "onboard_time": 1779464065,
       "rank": 15,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 104413,
+      "num": 556044,
+      "word": "英格兰公布世界杯26人名单",
+      "onboard_time": 1779468380,
+      "rank": 18,
       "category": "体育"
     },
     {
@@ -347,10 +403,50 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 85950,
+      "num": 246655,
+      "word": "赵睿微笑",
+      "onboard_time": 1779466520,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 81744,
       "num": 1737952,
       "word": "一小伙儿爆砸充电完不走车辆",
       "onboard_time": 1779446001,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 76105,
+      "num": 592004,
+      "word": "寿司郎广州门店被曝吃出4条寄生虫",
+      "onboard_time": 1779463045,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 67285,
+      "num": 236177,
+      "word": "黄金又跌破4500美元了",
+      "onboard_time": 1779469399,
+      "rank": 45,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 55632,
+      "num": 228747,
+      "word": "女孩开心跑进店将小猫扔出店外",
+      "onboard_time": 1779467840,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 55580,
+      "num": 225737,
+      "word": "济南山姆称已安排人员巡查",
+      "onboard_time": 1779460646,
       "rank": 48,
       "category": "民生新闻"
     },
