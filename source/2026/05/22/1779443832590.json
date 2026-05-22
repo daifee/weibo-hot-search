@@ -1,0 +1,410 @@
+{
+  "runTime": 1779443832590,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 804779,
+        "num": 1128764,
+        "word": "女子捡到金项链发现异常立马扔掉",
+        "onboard_time": 1779419421,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 551280,
+        "num": 842318,
+        "word": "证监会拟对老虎富途长桥严厉处罚",
+        "onboard_time": 1779441502,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 89542,
+        "num": 805457,
+        "word": "暴雨为啥来得这么猛",
+        "onboard_time": 1779436041,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 789406,
+        "num": 789406,
+        "word": "川渝是一个巨大的客厅",
+        "onboard_time": 1779438621,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 775657,
+        "num": 775657,
+        "word": "晚上一定要拉窗帘",
+        "onboard_time": 1779429203,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 729521,
+        "num": 729521,
+        "word": "魏如萱调侃曾沛慈太残酷",
+        "onboard_time": 1779440900,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 548230,
+        "num": 548230,
+        "word": "水果含糖量金字塔",
+        "onboard_time": 1779428962,
+        "rank": 6,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 470923,
+        "num": 470923,
+        "word": "庾澄庆伊能静歌手浪姐封面",
+        "onboard_time": 1779439341,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 272096,
+        "num": 468746,
+        "word": "地铁吐血女孩打工挣6000元捐助石门",
+        "onboard_time": 1779434661,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 182645,
+        "num": 466841,
+        "word": "福登落选世界杯大名单",
+        "onboard_time": 1779438860,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1387395,
+        "num": 465271,
+        "word": "丈夫高调宣布出轨有私生子妻子崩溃",
+        "onboard_time": 1779441201,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 742526,
+        "num": 462470,
+        "word": "雪莉哥哥向金秀贤宣战",
+        "onboard_time": 1779442700,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 620577,
+        "num": 461455,
+        "word": "曾沛慈 全部看浪姐不准看歌手",
+        "onboard_time": 1779434961,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 436512,
+        "num": 458155,
+        "word": "鸭嘴钳 替代技术",
+        "onboard_time": 1779437001,
+        "rank": 13,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 452606,
+        "num": 456813,
+        "word": "孙千这个腿长",
+        "onboard_time": 1779435022,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 386580,
+        "num": 454246,
+        "word": "证监会",
+        "onboard_time": 1779441921,
+        "rank": 15,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 340400,
+        "num": 452249,
+        "word": "女子没来过月经却生了三个孩子",
+        "onboard_time": 1779429322,
+        "rank": 16,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 238028,
+        "num": 450077,
+        "word": "微信回应只能撤回2分钟内消息",
+        "onboard_time": 1779421645,
+        "rank": 17,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 326205,
+        "num": 446634,
+        "word": "吴宣仪发文力挺陈丽君",
+        "onboard_time": 1779437300,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198452,
+        "num": 444878,
+        "word": "除了日本七国集团高层接连访华",
+        "onboard_time": 1779432502,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 309785,
+        "num": 441915,
+        "word": "胡歌考古 对家顶级阳谋送顶流出国",
+        "onboard_time": 1779441921,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 82887,
+        "num": 440124,
+        "word": "蔡文静geelato加小料不手抖",
+        "onboard_time": 1779441201,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 219821,
+        "num": 437894,
+        "word": "请客买彩票自己没中奖朋友中100万",
+        "onboard_time": 1779437121,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 232818,
+        "num": 436892,
+        "word": "张豆豆曾反复跟孙杨确认是否真的结婚",
+        "onboard_time": 1779435561,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 64891,
+        "num": 433010,
+        "word": "在外打拼的娃靠拼多多送孝心回家",
+        "onboard_time": 1779441142,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 222436,
+        "num": 432431,
+        "word": "时团上六休一",
+        "onboard_time": 1779437781,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 210603,
+        "num": 429708,
+        "word": "女子翻译5分钟赚500元感慨要好好念书",
+        "onboard_time": 1779441623,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 206542,
+        "num": 427082,
+        "word": "有韩国媒体道歉了",
+        "onboard_time": 1779431601,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 203891,
+        "num": 424357,
+        "word": "赵丽颖林子烨演母子",
+        "onboard_time": 1779426746,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 202512,
+        "num": 422979,
+        "word": "狗狗中毒针进店向主人求救仍死亡",
+        "onboard_time": 1779437121,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 191771,
+        "num": 420795,
+        "word": "魏坤琳老了",
+        "onboard_time": 1779436521,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191377,
+        "num": 417175,
+        "word": "易长痘体质",
+        "onboard_time": 1779435260,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 179660,
+        "num": 415667,
+        "word": "特朗普说去不去儿子婚礼都会被骂",
+        "onboard_time": 1779431482,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 173640,
+        "num": 413134,
+        "word": "刘耀文宋亚轩完全暴露",
+        "onboard_time": 1779434482,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165077,
+        "num": 411282,
+        "word": "田曦薇gucci第二套",
+        "onboard_time": 1779434841,
+        "rank": 34,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 164810,
+        "num": 408754,
+        "word": "原来驼背会让脸变大",
+        "onboard_time": 1779435682,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 164747,
+        "num": 407182,
+        "word": "小猫突然把小狗脑袋扶正",
+        "onboard_time": 1779427102,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 163283,
+        "num": 404429,
+        "word": "短剧 一万播放五块钱",
+        "onboard_time": 1779443601,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158555,
+        "num": 401126,
+        "word": "身上有这种小红点是疾病信号",
+        "onboard_time": 1779435802,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 156023,
+        "num": 399700,
+        "word": "歌手浪姐 互念热搜",
+        "onboard_time": 1779440183,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 87446,
+        "num": 396503,
+        "word": "张婧仪回应最美艺考生",
+        "onboard_time": 1779443661,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148489,
+        "num": 395483,
+        "word": "朱自清散文AI率超60%",
+        "onboard_time": 1779423745,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152284,
+        "num": 392051,
+        "word": "景甜方否认代孕协议",
+        "onboard_time": 1779420746,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138738,
+        "num": 390424,
+        "word": "孙颖莎石家庄普法形象大使",
+        "onboard_time": 1779441623,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137657,
+        "num": 388800,
+        "word": "微信撤回 能不能不提醒",
+        "onboard_time": 1779438260,
+        "rank": 44,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 45454,
+        "num": 386695,
+        "word": "网店大量面试裙被穿完退货退款",
+        "onboard_time": 1779442341,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128168,
+        "num": 384550,
+        "word": "德比斯上演绝地反击夺冠",
+        "onboard_time": 1779437121,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 78271,
+        "num": 381999,
+        "word": "38岁巴西门将得知入选国家队激动晕倒",
+        "onboard_time": 1779440961,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142353,
+        "num": 379346,
+        "word": "景甜变装",
+        "onboard_time": 1779432142,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123423,
+        "num": 377643,
+        "word": "谢娜栀子花大战菠萝蜜是真的",
+        "onboard_time": 1779433701,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席引经据典寄望中俄关系发展#"
+    }
+  }
+}
