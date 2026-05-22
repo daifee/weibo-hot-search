@@ -1,6 +1,6 @@
 {
   "startTime": 1778951228781,
-  "endTime": 1779473762482,
+  "endTime": 1779479917901,
   "band_list": [
     {
       "raw_hot": 28198949,
@@ -3603,6 +3603,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 406525,
+      "num": 192176,
+      "word": "歌手排名 闹麻了",
+      "onboard_time": 1779473116,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 405725,
       "num": 405725,
       "word": "女子刮大腿疏通胆经像刨木头",
@@ -7115,14 +7123,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 192176,
-      "num": 192176,
-      "word": "歌手排名 闹麻了",
-      "onboard_time": 1779473116,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 192108,
       "num": 249061,
       "word": "美国暂停一项对台军售案",
@@ -8177,6 +8177,14 @@
       "onboard_time": 1779341660,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 154734,
+      "num": 184975,
+      "word": "好想回到纸媒繁荣的时代",
+      "onboard_time": 1779474495,
+      "rank": 1,
+      "category": "情感"
     },
     {
       "raw_hot": 154667,
@@ -10603,6 +10611,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 61080,
+      "num": 61080,
+      "word": "孙怡浪姐谈离婚",
+      "onboard_time": 1779458365,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 59946,
       "num": 109175,
       "word": "商场举办偷吃大赛被抓罚站30秒",
@@ -10993,6 +11009,14 @@
       "onboard_time": 1778996541,
       "rank": 47,
       "category": "财经"
+    },
+    {
+      "raw_hot": 47752,
+      "num": 74521,
+      "word": "人民日报评所谓碳水脸概念走红",
+      "onboard_time": 1779473236,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 47726,
@@ -11905,6 +11929,14 @@
       "onboard_time": 1779278480,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 21988,
+      "num": 41600,
+      "word": "英格兰队公布世界杯26人大名单",
+      "onboard_time": 1779478394,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 21882,

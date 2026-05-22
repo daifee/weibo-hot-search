@@ -1,6 +1,6 @@
 {
   "startTime": 1779465797561,
-  "endTime": 1779473762482,
+  "endTime": 1779479917901,
   "band_list": [
     {
       "raw_hot": 13549280,
@@ -179,6 +179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 406525,
+      "num": 192176,
+      "word": "歌手排名 闹麻了",
+      "onboard_time": 1779473116,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 399490,
       "num": 2091573,
       "word": "长沙暴雨",
@@ -307,14 +315,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 192176,
-      "num": 192176,
-      "word": "歌手排名 闹麻了",
-      "onboard_time": 1779473116,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 186942,
       "num": 2201218,
       "word": "上班被领导兜底的含金量",
@@ -337,6 +337,14 @@
       "onboard_time": 1779448760,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 154734,
+      "num": 184975,
+      "word": "好想回到纸媒繁荣的时代",
+      "onboard_time": 1779474495,
+      "rank": 1,
+      "category": "情感"
     },
     {
       "raw_hot": 129247,
@@ -451,6 +459,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 61080,
+      "num": 61080,
+      "word": "孙怡浪姐谈离婚",
+      "onboard_time": 1779458365,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 55632,
       "num": 228747,
       "word": "女孩开心跑进店将小猫扔出店外",
@@ -475,6 +491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 47752,
+      "num": 74521,
+      "word": "人民日报评所谓碳水脸概念走红",
+      "onboard_time": 1779473236,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 46763,
       "num": 2174704,
       "word": "证监会拟对老虎富途长桥严厉处罚",
@@ -497,6 +521,14 @@
       "onboard_time": 1779464423,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 21988,
+      "num": 41600,
+      "word": "英格兰队公布世界杯26人大名单",
+      "onboard_time": 1779478394,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 19358,
