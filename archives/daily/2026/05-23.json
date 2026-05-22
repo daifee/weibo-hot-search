@@ -1,6 +1,6 @@
 {
   "startTime": 1779465797561,
-  "endTime": 1779486195197,
+  "endTime": 1779491397542,
   "band_list": [
     {
       "raw_hot": 13549280,
@@ -171,19 +171,19 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 437725,
+      "num": 357043,
+      "word": "歌手排名 闹麻了",
+      "onboard_time": 1779473116,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 437333,
       "num": 1869859,
       "word": "窦颖给窦靖童和声",
       "onboard_time": 1779462805,
       "rank": 36,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 406525,
-      "num": 192176,
-      "word": "歌手排名 闹麻了",
-      "onboard_time": 1779473116,
-      "rank": 25,
       "category": "综艺"
     },
     {
@@ -219,6 +219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 353364,
+      "num": 279233,
+      "word": "中国U17男足2比3日本U17",
+      "onboard_time": 1779481154,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 346361,
       "num": 1808233,
       "word": "张月完全女团来的",
@@ -241,6 +249,14 @@
       "onboard_time": 1779452300,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 299990,
+      "num": 299990,
+      "word": "好想回到纸媒繁荣的时代",
+      "onboard_time": 1779474495,
+      "rank": 1,
+      "category": "情感"
     },
     {
       "raw_hot": 284292,
@@ -275,14 +291,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 257817,
-      "num": 61200,
-      "word": "中国U17男足2比3日本U17",
-      "onboard_time": 1779481154,
-      "rank": 27,
-      "category": "体育"
-    },
-    {
       "raw_hot": 235406,
       "num": 1962581,
       "word": "小猫臂力惊人 肚肚逼人",
@@ -308,7 +316,7 @@
     },
     {
       "raw_hot": 208902,
-      "num": 208902,
+      "num": 269245,
       "word": "歌手",
       "onboard_time": 1779473236,
       "rank": 22,
@@ -331,6 +339,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 178946,
+      "num": 294473,
+      "word": "人民日报评所谓碳水脸概念走红",
+      "onboard_time": 1779473236,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 169804,
+      "num": 571934,
+      "word": "燃油车骨折清仓",
+      "onboard_time": 1779482894,
+      "rank": 8,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 167990,
       "num": 1917623,
       "word": "年轻人开始全款买房意味着什么",
@@ -347,12 +371,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 154734,
-      "num": 184975,
-      "word": "好想回到纸媒繁荣的时代",
-      "onboard_time": 1779474495,
-      "rank": 1,
-      "category": "情感"
+      "raw_hot": 143312,
+      "num": 299253,
+      "word": "ai漫剧硬通货 泡面火腿纯净水",
+      "onboard_time": 1779481814,
+      "rank": 6,
+      "category": "幽默"
     },
     {
       "raw_hot": 129247,
@@ -435,16 +459,8 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 93039,
-      "num": 130418,
-      "word": "ai漫剧硬通货 泡面火腿纯净水",
-      "onboard_time": 1779481814,
-      "rank": 6,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 89071,
-      "num": 89071,
+      "raw_hot": 91713,
+      "num": 266872,
       "word": "李小冉 北舞大师姐发力了",
       "onboard_time": 1779482354,
       "rank": 12,
@@ -467,6 +483,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 79870,
+      "num": 266328,
+      "word": "第一次爱的人",
+      "onboard_time": 1779459630,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 76105,
       "num": 592004,
       "word": "寿司郎广州门店被曝吃出4条寄生虫",
@@ -475,16 +499,16 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 67373,
-      "num": 128299,
-      "word": "燃油车骨折清仓",
-      "onboard_time": 1779482894,
-      "rank": 8,
-      "category": "汽车"
+      "raw_hot": 67446,
+      "num": 262153,
+      "word": "教育空间的缩小不是突然发生的",
+      "onboard_time": 1779491178,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 67285,
-      "num": 236177,
+      "num": 286710,
       "word": "黄金又跌破4500美元了",
       "onboard_time": 1779469399,
       "rank": 45,
@@ -499,16 +523,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 59780,
-      "num": 74521,
-      "word": "人民日报评所谓碳水脸概念走红",
-      "onboard_time": 1779473236,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 55632,
-      "num": 228747,
+      "num": 252811,
       "word": "女孩开心跑进店将小猫扔出店外",
       "onboard_time": 1779467840,
       "rank": 47,
@@ -521,6 +537,14 @@
       "onboard_time": 1779460646,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 51647,
+      "num": 249911,
+      "word": "黄百鸣或面临10年监禁",
+      "onboard_time": 1779490818,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 47992,

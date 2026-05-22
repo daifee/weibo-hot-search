@@ -1,6 +1,6 @@
 {
   "startTime": 1778951228781,
-  "endTime": 1779486195197,
+  "endTime": 1779491397542,
   "band_list": [
     {
       "raw_hot": 28198949,
@@ -3339,6 +3339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 437725,
+      "num": 357043,
+      "word": "歌手排名 闹麻了",
+      "onboard_time": 1779473116,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 437333,
       "num": 1869859,
       "word": "窦颖给窦靖童和声",
@@ -3601,14 +3609,6 @@
       "onboard_time": 1779259160,
       "rank": 22,
       "category": "情感"
-    },
-    {
-      "raw_hot": 406525,
-      "num": 192176,
-      "word": "歌手排名 闹麻了",
-      "onboard_time": 1779473116,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 405725,
@@ -4267,6 +4267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 353364,
+      "num": 279233,
+      "word": "中国U17男足2比3日本U17",
+      "onboard_time": 1779481154,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 351486,
       "num": 519018,
       "word": "萨摩耶饰演过哮天犬",
@@ -4921,6 +4929,14 @@
       "onboard_time": 1779105441,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 299990,
+      "num": 299990,
+      "word": "好想回到纸媒繁荣的时代",
+      "onboard_time": 1779474495,
+      "rank": 1,
+      "category": "情感"
     },
     {
       "raw_hot": 299968,
@@ -5601,14 +5617,6 @@
       "onboard_time": 1779193520,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 257817,
-      "num": 61200,
-      "word": "中国U17男足2比3日本U17",
-      "onboard_time": 1779481154,
-      "rank": 27,
-      "category": "体育"
     },
     {
       "raw_hot": 257709,
@@ -7475,6 +7483,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 178946,
+      "num": 294473,
+      "word": "人民日报评所谓碳水脸概念走红",
+      "onboard_time": 1779473236,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 178772,
       "num": 413134,
       "word": "刘耀文宋亚轩完全暴露",
@@ -7737,6 +7753,14 @@
       "onboard_time": 1779316756,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 169804,
+      "num": 571934,
+      "word": "燃油车骨折清仓",
+      "onboard_time": 1779482894,
+      "rank": 8,
+      "category": "汽车"
     },
     {
       "raw_hot": 169627,
@@ -8187,14 +8211,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 154734,
-      "num": 184975,
-      "word": "好想回到纸媒繁荣的时代",
-      "onboard_time": 1779474495,
-      "rank": 1,
-      "category": "情感"
-    },
-    {
       "raw_hot": 154667,
       "num": 263835,
       "word": "小米YU7新增入门版",
@@ -8457,6 +8473,14 @@
       "onboard_time": 1779281422,
       "rank": 47,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 143312,
+      "num": 299253,
+      "word": "ai漫剧硬通货 泡面火腿纯净水",
+      "onboard_time": 1779481814,
+      "rank": 6,
+      "category": "幽默"
     },
     {
       "raw_hot": 143045,
@@ -9667,14 +9691,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 93039,
-      "num": 130418,
-      "word": "ai漫剧硬通货 泡面火腿纯净水",
-      "onboard_time": 1779481814,
-      "rank": 6,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 92670,
       "num": 150366,
       "word": "方媛缺席桃花坞发布会",
@@ -9705,6 +9721,14 @@
       "onboard_time": 1779080479,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 91713,
+      "num": 266872,
+      "word": "李小冉 北舞大师姐发力了",
+      "onboard_time": 1779482354,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 91196,
@@ -9761,14 +9785,6 @@
       "onboard_time": 1778995520,
       "rank": 31,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 89071,
-      "num": 89071,
-      "word": "李小冉 北舞大师姐发力了",
-      "onboard_time": 1779482354,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 88534,
@@ -10451,12 +10467,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 67373,
-      "num": 128299,
-      "word": "燃油车骨折清仓",
-      "onboard_time": 1779482894,
-      "rank": 8,
-      "category": "汽车"
+      "raw_hot": 67446,
+      "num": 262153,
+      "word": "教育空间的缩小不是突然发生的",
+      "onboard_time": 1779491178,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 67347,
@@ -10476,7 +10492,7 @@
     },
     {
       "raw_hot": 67285,
-      "num": 236177,
+      "num": 286710,
       "word": "黄金又跌破4500美元了",
       "onboard_time": 1779469399,
       "rank": 45,
@@ -10667,14 +10683,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 59780,
-      "num": 74521,
-      "word": "人民日报评所谓碳水脸概念走红",
-      "onboard_time": 1779473236,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 59260,
       "num": 109050,
       "word": "楚嘉禾气晕我了",
@@ -10788,7 +10796,7 @@
     },
     {
       "raw_hot": 55632,
-      "num": 228747,
+      "num": 252811,
       "word": "女孩开心跑进店将小猫扔出店外",
       "onboard_time": 1779467840,
       "rank": 47,
@@ -10897,6 +10905,14 @@
       "onboard_time": 1779356240,
       "rank": 15,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 51647,
+      "num": 249911,
+      "word": "黄百鸣或面临10年监禁",
+      "onboard_time": 1779490818,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 51630,
