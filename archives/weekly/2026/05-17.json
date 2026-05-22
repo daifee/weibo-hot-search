@@ -1,6 +1,6 @@
 {
   "startTime": 1778951228781,
-  "endTime": 1779443832590,
+  "endTime": 1779450687506,
   "band_list": [
     {
       "raw_hot": 17984788,
@@ -291,6 +291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2080943,
+      "num": 1068810,
+      "word": "歌手直播",
+      "onboard_time": 1779449601,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2070813,
       "num": 295682,
       "word": "女孩怕责备隐瞒被狗咬后狂犬病去世",
@@ -571,6 +579,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1416051,
+      "num": 353423,
+      "word": "井胧背后抱井迪",
+      "onboard_time": 1779447081,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1397610,
       "num": 698547,
       "word": "万千惠点名徐梦洁",
@@ -713,6 +729,14 @@
       "onboard_time": 1779420685,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1202523,
+      "num": 462470,
+      "word": "雪莉哥哥向金秀贤宣战",
+      "onboard_time": 1779442700,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 1177650,
@@ -865,6 +889,14 @@
       "onboard_time": 1779003742,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1068735,
+      "num": 1068735,
+      "word": "浪姐直播",
+      "onboard_time": 1779450200,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 1063030,
@@ -1291,6 +1323,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 830559,
+      "num": 346444,
+      "word": "突然理解自己为什么会高物欲了",
+      "onboard_time": 1779445820,
+      "rank": 15,
+      "category": "情感"
+    },
+    {
       "raw_hot": 827678,
       "num": 644363,
       "word": "特朗普儿媳强烈推荐打卡长城",
@@ -1577,14 +1617,6 @@
       "onboard_time": 1779365119,
       "rank": 4,
       "category": "数码"
-    },
-    {
-      "raw_hot": 742526,
-      "num": 462470,
-      "word": "雪莉哥哥向金秀贤宣战",
-      "onboard_time": 1779442700,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 740489,
@@ -2363,6 +2395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 547899,
+      "num": 347391,
+      "word": "方媛哭了",
+      "onboard_time": 1779447741,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 546987,
       "num": 546987,
       "word": "杨紫回复黄晓明",
@@ -2441,6 +2481,14 @@
       "onboard_time": 1779035899,
       "rank": 4,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 535301,
+      "num": 343070,
+      "word": "朱珠说刘亦菲选择朋友很小心",
+      "onboard_time": 1779444620,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 534031,
@@ -2561,6 +2609,14 @@
       "onboard_time": 1779247161,
       "rank": 15,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 519300,
+      "num": 337150,
+      "word": "曝杨幂已提名白玉兰最佳女主角",
+      "onboard_time": 1779447261,
+      "rank": 20,
+      "category": "剧集"
     },
     {
       "raw_hot": 517423,
@@ -3169,6 +3225,14 @@
       "onboard_time": 1779079282,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 419274,
+      "num": 339417,
+      "word": "iPhone哪个材质手感最好",
+      "onboard_time": 1779447560,
+      "rank": 19,
+      "category": "数码"
     },
     {
       "raw_hot": 419263,
@@ -3811,6 +3875,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 356331,
+      "num": 404429,
+      "word": "短剧 一万播放五块钱",
+      "onboard_time": 1779443601,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 356078,
       "num": 306459,
       "word": "爸爸当家5开播",
@@ -4323,6 +4395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 309582,
+      "num": 328874,
+      "word": "年轻人开始全款买房意味着什么",
+      "onboard_time": 1779448282,
+      "rank": 25,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 308498,
       "num": 449368,
       "word": "骗爸妈上班在楼顶的一天",
@@ -4364,7 +4444,7 @@
     },
     {
       "raw_hot": 306862,
-      "num": 444878,
+      "num": 1075711,
       "word": "除了日本七国集团高层接连访华",
       "onboard_time": 1779432502,
       "rank": 8,
@@ -4393,6 +4473,14 @@
       "onboard_time": 1779276142,
       "rank": 32,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 303838,
+      "num": 341206,
+      "word": "浪姐",
+      "onboard_time": 1779450200,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 303560,
@@ -4585,6 +4673,14 @@
       "onboard_time": 1778994441,
       "rank": 8,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 292010,
+      "num": 1073686,
+      "word": "伦敦世乒赛46名选手不败",
+      "onboard_time": 1779446061,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 291259,
@@ -4795,6 +4891,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 277136,
+      "num": 311793,
+      "word": "复旦认定沈奕斐连麦内容合规",
+      "onboard_time": 1779447380,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 276985,
       "num": 634556,
       "word": "2026高考",
@@ -4825,6 +4929,14 @@
       "onboard_time": 1779284182,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 276232,
+      "num": 318402,
+      "word": "一小伙儿爆砸充电完不走车辆",
+      "onboard_time": 1779446001,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 275993,
@@ -4913,6 +5025,14 @@
       "onboard_time": 1779165562,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 271757,
+      "num": 317490,
+      "word": "孙怡短发造型",
+      "onboard_time": 1779449121,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 270170,
@@ -5097,6 +5217,14 @@
       "onboard_time": 1779193520,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 257709,
+      "num": 1072035,
+      "word": "比亚迪将发布重大技术",
+      "onboard_time": 1779449601,
+      "rank": 4,
+      "category": "汽车"
     },
     {
       "raw_hot": 256664,
@@ -5675,6 +5803,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 228975,
+      "num": 309826,
+      "word": "黄百鸣内幕交易罪名成立",
+      "onboard_time": 1779444381,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
       "raw_hot": 228840,
       "num": 203714,
       "word": "开始推理吧4定档",
@@ -5769,6 +5905,14 @@
       "onboard_time": 1778975058,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 223608,
+      "num": 309178,
+      "word": "景甜曾自曝比起结婚更想生帅儿子",
+      "onboard_time": 1779447024,
+      "rank": 37,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 223025,
@@ -6275,6 +6419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 202501,
+      "num": 302115,
+      "word": "不同姓氏却是最爱彼此的人",
+      "onboard_time": 1779446481,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 202391,
       "num": 206209,
       "word": "尚公主",
@@ -6417,6 +6569,14 @@
       "onboard_time": 1779123617,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 196649,
+      "num": 300245,
+      "word": "徐若晗回应不理方媛",
+      "onboard_time": 1779448941,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 195885,
@@ -6963,6 +7123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 174102,
+      "num": 305763,
+      "word": "大爷穿着自己编织的蓑衣卖樱桃",
+      "onboard_time": 1779448760,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 173522,
       "num": 173522,
       "word": "孙东旭谈东方甄选多名主播离职",
@@ -7355,14 +7523,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 163283,
-      "num": 404429,
-      "word": "短剧 一万播放五块钱",
-      "onboard_time": 1779443601,
-      "rank": 37,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 162939,
       "num": 162939,
       "word": "用柳州地震营销的蛋糕店道歉",
@@ -7587,6 +7747,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 154160,
+      "num": 293425,
+      "word": "小猫臂力惊人 肚肚逼人",
+      "onboard_time": 1779450560,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 153467,
       "num": 171805,
       "word": "3岁娃被独自分到8节外静音车厢",
@@ -7625,6 +7793,14 @@
       "onboard_time": 1779364821,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 151657,
+      "num": 289722,
+      "word": "我年龄大到能看懂这张图",
+      "onboard_time": 1779450440,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 151408,
@@ -7763,6 +7939,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 145856,
+      "num": 296337,
+      "word": "泰国长公主昏迷近3年半后病情恶化",
+      "onboard_time": 1779445042,
+      "rank": 44,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 145716,
       "num": 276788,
       "word": "北京男篮vs上海男篮",
@@ -7857,6 +8041,14 @@
       "onboard_time": 1779377002,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 141771,
+      "num": 327739,
+      "word": "KPL老乡杯",
+      "onboard_time": 1779447981,
+      "rank": 26,
+      "category": "电竞"
     },
     {
       "raw_hot": 141458,
@@ -8075,6 +8267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 132457,
+      "num": 320121,
+      "word": "腾势Z9GT在南法戛纳天价落槌",
+      "onboard_time": 1779449781,
+      "rank": 30,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 132258,
       "num": 311474,
       "word": "汉娜高达采访谈孙颖莎",
@@ -8241,6 +8441,14 @@
       "onboard_time": 1779291681,
       "rank": 30,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 125324,
+      "num": 353888,
+      "word": "30多万名行政执法人员被调整清退",
+      "onboard_time": 1779449960,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 124982,
@@ -8505,6 +8713,14 @@
       "onboard_time": 1779432922,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 114385,
+      "num": 295711,
+      "word": "洛克王国说明",
+      "onboard_time": 1779444261,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 113875,
@@ -8972,7 +9188,7 @@
     },
     {
       "raw_hot": 89780,
-      "num": 852314,
+      "num": 1075287,
       "word": "暴雨为啥来得这么猛",
       "onboard_time": 1779436041,
       "rank": 2,
@@ -9705,6 +9921,14 @@
       "onboard_time": 1778948421,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 65004,
+      "num": 307056,
+      "word": "收到子女的快递爸妈有多高兴",
+      "onboard_time": 1779446782,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 64891,
@@ -10617,6 +10841,14 @@
       "onboard_time": 1779118042,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 35954,
+      "num": 344507,
+      "word": "中国奶粉在剑桥圈粉了",
+      "onboard_time": 1779447920,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 35438,

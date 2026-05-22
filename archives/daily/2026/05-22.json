@@ -1,6 +1,6 @@
 {
   "startTime": 1779380513479,
-  "endTime": 1779443832590,
+  "endTime": 1779450687506,
   "band_list": [
     {
       "raw_hot": 2611196,
@@ -27,6 +27,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2080943,
+      "num": 1068810,
+      "word": "歌手直播",
+      "onboard_time": 1779449601,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1898042,
       "num": 1898042,
       "word": "女子捡到金项链发现异常立马扔掉",
@@ -51,6 +59,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1416051,
+      "num": 353423,
+      "word": "井胧背后抱井迪",
+      "onboard_time": 1779447081,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1387395,
       "num": 465271,
       "word": "丈夫高调宣布出轨有私生子妻子崩溃",
@@ -64,6 +80,22 @@
       "word": "张豆豆喊出我肚子很痛孙杨才停下来",
       "onboard_time": 1779420685,
       "rank": 3,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1202523,
+      "num": 462470,
+      "word": "雪莉哥哥向金秀贤宣战",
+      "onboard_time": 1779442700,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1068735,
+      "num": 1068735,
+      "word": "浪姐直播",
+      "onboard_time": 1779450200,
+      "rank": 6,
       "category": "综艺"
     },
     {
@@ -115,6 +147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 830559,
+      "num": 346444,
+      "word": "突然理解自己为什么会高物欲了",
+      "onboard_time": 1779445820,
+      "rank": 15,
+      "category": "情感"
+    },
+    {
       "raw_hot": 825389,
       "num": 458155,
       "word": "鸭嘴钳 替代技术",
@@ -144,14 +184,6 @@
       "word": "金秀贤已接受精神科治疗",
       "onboard_time": 1779404418,
       "rank": 16,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 742526,
-      "num": 462470,
-      "word": "雪莉哥哥向金秀贤宣战",
-      "onboard_time": 1779442700,
-      "rank": 11,
       "category": "艺人"
     },
     {
@@ -267,6 +299,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 547899,
+      "num": 347391,
+      "word": "方媛哭了",
+      "onboard_time": 1779447741,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 542391,
       "num": 264312,
       "word": "谁给娜扎美甲贴成这样的",
@@ -283,12 +323,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 535301,
+      "num": 343070,
+      "word": "朱珠说刘亦菲选择朋友很小心",
+      "onboard_time": 1779444620,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 534031,
       "num": 446634,
       "word": "吴宣仪发文力挺陈丽君",
       "onboard_time": 1779437300,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 519300,
+      "num": 337150,
+      "word": "曝杨幂已提名白玉兰最佳女主角",
+      "onboard_time": 1779447261,
+      "rank": 20,
+      "category": "剧集"
     },
     {
       "raw_hot": 509732,
@@ -443,6 +499,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 419274,
+      "num": 339417,
+      "word": "iPhone哪个材质手感最好",
+      "onboard_time": 1779447560,
+      "rank": 19,
+      "category": "数码"
+    },
+    {
       "raw_hot": 414196,
       "num": 393090,
       "word": "第五人格",
@@ -539,6 +603,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 356331,
+      "num": 404429,
+      "word": "短剧 一万播放五块钱",
+      "onboard_time": 1779443601,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 355860,
       "num": 355860,
       "word": "肖战手上的伤口",
@@ -627,12 +699,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 309582,
+      "num": 328874,
+      "word": "年轻人开始全款买房意味着什么",
+      "onboard_time": 1779448282,
+      "rank": 25,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 306862,
-      "num": 444878,
+      "num": 1075711,
       "word": "除了日本七国集团高层接连访华",
       "onboard_time": 1779432502,
       "rank": 8,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 303838,
+      "num": 341206,
+      "word": "浪姐",
+      "onboard_time": 1779450200,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 303143,
@@ -667,6 +755,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 292010,
+      "num": 1073686,
+      "word": "伦敦世乒赛46名选手不败",
+      "onboard_time": 1779446061,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 290690,
       "num": 408754,
       "word": "原来驼背会让脸变大",
@@ -699,6 +795,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 277136,
+      "num": 311793,
+      "word": "复旦认定沈奕斐连麦内容合规",
+      "onboard_time": 1779447380,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 276232,
+      "num": 318402,
+      "word": "一小伙儿爆砸充电完不走车辆",
+      "onboard_time": 1779446001,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 275993,
       "num": 258341,
       "word": "我逛街偶遇Jennie了",
@@ -723,6 +835,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 271757,
+      "num": 317490,
+      "word": "孙怡短发造型",
+      "onboard_time": 1779449121,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 268326,
       "num": 275914,
       "word": "小米耳夹式耳机849元",
@@ -737,6 +857,14 @@
       "onboard_time": 1779376641,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 257709,
+      "num": 1072035,
+      "word": "比亚迪将发布重大技术",
+      "onboard_time": 1779449601,
+      "rank": 4,
+      "category": "汽车"
     },
     {
       "raw_hot": 255931,
@@ -811,6 +939,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 228975,
+      "num": 309826,
+      "word": "黄百鸣内幕交易罪名成立",
+      "onboard_time": 1779444381,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
       "raw_hot": 226685,
       "num": 230580,
       "word": "豆包炒股建议",
@@ -833,6 +969,14 @@
       "onboard_time": 1779363740,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 223608,
+      "num": 309178,
+      "word": "景甜曾自曝比起结婚更想生帅儿子",
+      "onboard_time": 1779447024,
+      "rank": 37,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 222436,
@@ -931,12 +1075,28 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 202501,
+      "num": 302115,
+      "word": "不同姓氏却是最爱彼此的人",
+      "onboard_time": 1779446481,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 197983,
       "num": 241104,
       "word": "尼克斯2比0骑士",
       "onboard_time": 1779421525,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 196649,
+      "num": 300245,
+      "word": "徐若晗回应不理方媛",
+      "onboard_time": 1779448941,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 195885,
@@ -1051,6 +1211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 174102,
+      "num": 305763,
+      "word": "大爷穿着自己编织的蓑衣卖樱桃",
+      "onboard_time": 1779448760,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 170483,
       "num": 170483,
       "word": "我的工位饮料belike",
@@ -1105,14 +1273,6 @@
       "onboard_time": 1779427402,
       "rank": 41,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 163283,
-      "num": 404429,
-      "word": "短剧 一万播放五块钱",
-      "onboard_time": 1779443601,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 161130,
@@ -1195,12 +1355,28 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 154160,
+      "num": 293425,
+      "word": "小猫臂力惊人 肚肚逼人",
+      "onboard_time": 1779450560,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 152775,
       "num": 152775,
       "word": "Angelababy画的红黄蓝",
       "onboard_time": 1779361699,
       "rank": 43,
       "category": "作品衍生,艺人"
+    },
+    {
+      "raw_hot": 151657,
+      "num": 289722,
+      "word": "我年龄大到能看懂这张图",
+      "onboard_time": 1779450440,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 149451,
@@ -1219,6 +1395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 145856,
+      "num": 296337,
+      "word": "泰国长公主昏迷近3年半后病情恶化",
+      "onboard_time": 1779445042,
+      "rank": 44,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 143519,
       "num": 369074,
       "word": "女生租房1年遍地垃圾散发恶臭",
@@ -1233,6 +1417,14 @@
       "onboard_time": 1779377002,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 141771,
+      "num": 327739,
+      "word": "KPL老乡杯",
+      "onboard_time": 1779447981,
+      "rank": 26,
+      "category": "电竞"
     },
     {
       "raw_hot": 141458,
@@ -1307,6 +1499,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 132457,
+      "num": 320121,
+      "word": "腾势Z9GT在南法戛纳天价落槌",
+      "onboard_time": 1779449781,
+      "rank": 30,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 131718,
       "num": 131718,
       "word": "第五人格遗忘之海",
@@ -1369,6 +1569,14 @@
       "onboard_time": 1779364880,
       "rank": 38,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 125324,
+      "num": 353888,
+      "word": "30多万名行政执法人员被调整清退",
+      "onboard_time": 1779449960,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 124982,
@@ -1451,6 +1659,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 114385,
+      "num": 295711,
+      "word": "洛克王国说明",
+      "onboard_time": 1779444261,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 111913,
       "num": 149826,
       "word": "12306回应车厢内脱鞋现象频出",
@@ -1516,7 +1732,7 @@
     },
     {
       "raw_hot": 89780,
-      "num": 852314,
+      "num": 1075287,
       "word": "暴雨为啥来得这么猛",
       "onboard_time": 1779436041,
       "rank": 2,
@@ -1625,6 +1841,14 @@
       "onboard_time": 1779382637,
       "rank": 37,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 65004,
+      "num": 307056,
+      "word": "收到子女的快递爸妈有多高兴",
+      "onboard_time": 1779446782,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 64891,
@@ -1752,6 +1976,14 @@
       "word": "袁隆平吴孟超逝世5年了",
       "onboard_time": 1779386355,
       "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 35954,
+      "num": 344507,
+      "word": "中国奶粉在剑桥圈粉了",
+      "onboard_time": 1779447920,
+      "rank": 16,
       "category": "民生新闻"
     },
     {
