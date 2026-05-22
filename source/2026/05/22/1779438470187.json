@@ -1,0 +1,410 @@
+{
+  "runTime": 1779438470187,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1064727,
+        "num": 1170356,
+        "word": "女子捡到金项链发现异常立马扔掉",
+        "onboard_time": 1779419421,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 410090,
+        "num": 860211,
+        "word": "微信回应只能撤回2分钟内消息",
+        "onboard_time": 1779421645,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 89780,
+        "num": 852314,
+        "word": "暴雨为啥来得这么猛",
+        "onboard_time": 1779436041,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1060699,
+        "num": 851649,
+        "word": "晚上一定要拉窗帘",
+        "onboard_time": 1779429203,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 847147,
+        "num": 847147,
+        "word": "曾沛慈 全部看浪姐不准看歌手",
+        "onboard_time": 1779434961,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 616035,
+        "num": 616035,
+        "word": "水果含糖量金字塔",
+        "onboard_time": 1779428962,
+        "rank": 5,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 433248,
+        "num": 433248,
+        "word": "张豆豆曾反复跟孙杨确认是否真的结婚",
+        "onboard_time": 1779435561,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 330334,
+        "num": 427854,
+        "word": "朱自清散文AI率超60%",
+        "onboard_time": 1779423745,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 306862,
+        "num": 423470,
+        "word": "除了日本七国集团高层接连访华",
+        "onboard_time": 1779432502,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 104677,
+        "num": 419110,
+        "word": "伦敦世乒赛团体赛",
+        "onboard_time": 1779429802,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 46644,
+        "num": 416601,
+        "word": "外交部回应美方称已暂停对台军售",
+        "onboard_time": 1779437542,
+        "rank": 10,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 825389,
+        "num": 407038,
+        "word": "鸭嘴钳 替代技术",
+        "onboard_time": 1779437001,
+        "rank": 11,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 681654,
+        "num": 400835,
+        "word": "孙千这个腿长",
+        "onboard_time": 1779435022,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 534031,
+        "num": 398636,
+        "word": "吴宣仪发文力挺陈丽君",
+        "onboard_time": 1779437300,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 498534,
+        "num": 394077,
+        "word": "女子没来过月经却生了三个孩子",
+        "onboard_time": 1779429322,
+        "rank": 14,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 388903,
+        "num": 388903,
+        "word": "景甜变装",
+        "onboard_time": 1779432142,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 299453,
+        "num": 372417,
+        "word": "伊能静自曝48岁生女肚子被打开2次",
+        "onboard_time": 1779425663,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 234698,
+        "num": 358530,
+        "word": "特朗普说去不去儿子婚礼都会被骂",
+        "onboard_time": 1779431482,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 16010,
+        "num": 345371,
+        "word": "不小心把DeepSeek叫成豆包",
+        "onboard_time": 1779353301,
+        "rank": 18,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 129620,
+        "num": 322485,
+        "word": "男子调包的睡衣是送女友的520礼物",
+        "onboard_time": 1779437300,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 311620,
+        "num": 311620,
+        "word": "小猫突然把小狗脑袋扶正",
+        "onboard_time": 1779427102,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 303143,
+        "num": 303143,
+        "word": "狗狗中毒针进店向主人求救仍死亡",
+        "onboard_time": 1779437121,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 290690,
+        "num": 290690,
+        "word": "原来驼背会让脸变大",
+        "onboard_time": 1779435682,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 286144,
+        "num": 286144,
+        "word": "易长痘体质",
+        "onboard_time": 1779435260,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 270276,
+        "num": 270276,
+        "word": "赵丽颖林子烨演母子",
+        "onboard_time": 1779426746,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 214931,
+        "num": 214931,
+        "word": "谢娜栀子花大战菠萝蜜是真的",
+        "onboard_time": 1779433701,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195885,
+        "num": 195885,
+        "word": "身上有这种小红点是疾病信号",
+        "onboard_time": 1779435802,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 210226,
+        "num": 195361,
+        "word": "景甜方否认代孕协议",
+        "onboard_time": 1779420746,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175093,
+        "num": 191363,
+        "word": "有韩国媒体道歉了",
+        "onboard_time": 1779431601,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 189310,
+        "num": 189310,
+        "word": "请客买彩票自己没中奖朋友中100万",
+        "onboard_time": 1779437121,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 209103,
+        "num": 186394,
+        "word": "赵丽颖易烊千玺三搭",
+        "onboard_time": 1779423625,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 178772,
+        "num": 178772,
+        "word": "刘耀文宋亚轩完全暴露",
+        "onboard_time": 1779434482,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165653,
+        "num": 174608,
+        "word": "地铁吐血女孩打工挣6000元捐助石门",
+        "onboard_time": 1779434661,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 172582,
+        "num": 172582,
+        "word": "马嘉祺录综艺还在论文查重",
+        "onboard_time": 1779426026,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167470,
+        "num": 167470,
+        "word": "田曦薇gucci第二套",
+        "onboard_time": 1779434841,
+        "rank": 34,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 158665,
+        "num": 158665,
+        "word": "德比斯上演绝地反击夺冠",
+        "onboard_time": 1779437121,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 149387,
+        "num": 149387,
+        "word": "汪峰又把人设立住了",
+        "onboard_time": 1779423145,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142606,
+        "num": 142606,
+        "word": "韩国服饰品牌抄袭汉服",
+        "onboard_time": 1779424286,
+        "rank": 37,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 142039,
+        "num": 142039,
+        "word": "魏坤琳老了",
+        "onboard_time": 1779436521,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109948,
+        "num": 141315,
+        "word": "时团上六休一",
+        "onboard_time": 1779437781,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140988,
+        "num": 140988,
+        "word": "极简生活一年的真实感受",
+        "onboard_time": 1779428362,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 139752,
+        "num": 139752,
+        "word": "易烊千玺演皇帝",
+        "onboard_time": 1779423625,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 135852,
+        "num": 135852,
+        "word": "微信撤回 能不能不提醒",
+        "onboard_time": 1779438260,
+        "rank": 42,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 134322,
+        "num": 134322,
+        "word": "九尾见面会",
+        "onboard_time": 1779433283,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 133160,
+        "num": 133160,
+        "word": "警方通报女子被陌生男子从背后踢倒",
+        "onboard_time": 1779433102,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131857,
+        "num": 131857,
+        "word": "白鹿 年纪大了有点尴尬",
+        "onboard_time": 1779420804,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127399,
+        "num": 127399,
+        "word": "教育部拟同意设置34所新大学",
+        "onboard_time": 1779437601,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 115878,
+        "num": 115878,
+        "word": "男子深夜把孩子拖拽出门",
+        "onboard_time": 1779434001,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 4146,
+        "num": 114696,
+        "word": "用上AI后工作时间反而更长了",
+        "onboard_time": 1779404418,
+        "rank": 48,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 114545,
+        "num": 114545,
+        "word": "王橹杰被拼豆折磨出痛苦面具",
+        "onboard_time": 1779432922,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席引经据典寄望中俄关系发展#"
+    }
+  }
+}
