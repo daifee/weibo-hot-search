@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/05/22 19:51:27
+本榜单时间：2026/01/01 00:35:36 ~ 2026/05/22 20:40:37
 </p>
 </blockquote>
 <p>
@@ -749,6 +749,12 @@ iPhone17Pro降价2000（热度：15057331）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E4%B8%80%E5%90%8D%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E9%81%87%E9%9A%BE%23" target="weibo">
 伊朗一名中国公民遇难（热度：6188688）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AD%8C%E6%89%8B%E7%9B%B4%E6%92%AD%23" target="weibo">
+歌手直播（热度：6146304）
 </a>
 </li>
 
@@ -1805,12 +1811,6 @@ miumiu陷害女明星（热度：2876659）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%92%AF%E6%9B%BCvs%E6%A1%A5%E6%9C%AC%E5%B8%86%E4%B9%83%E9%A6%99%23" target="weibo">
 蒯曼vs桥本帆乃香（热度：2817428）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%A6%99%E8%95%89%E6%9C%89%E5%8F%AF%E8%83%BD%E4%BC%9A%E7%81%AD%E7%BB%9D%23" target="weibo">
-香蕉有可能会灭绝（热度：2807648）
 </a>
 </li>
 

@@ -1,7 +1,15 @@
 {
   "startTime": 1779380513479,
-  "endTime": 1779450687506,
+  "endTime": 1779453637480,
   "band_list": [
+    {
+      "raw_hot": 6146304,
+      "num": 6146304,
+      "word": "歌手直播",
+      "onboard_time": 1779449601,
+      "rank": 5,
+      "category": "综艺"
+    },
     {
       "raw_hot": 2611196,
       "num": 689558,
@@ -19,20 +27,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2426550,
+      "num": 2426550,
+      "word": "浪姐直播",
+      "onboard_time": 1779450200,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2292787,
       "num": 421450,
       "word": "景甜方否认代孕协议",
       "onboard_time": 1779420746,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2080943,
-      "num": 1068810,
-      "word": "歌手直播",
-      "onboard_time": 1779449601,
-      "rank": 5,
-      "category": "综艺"
     },
     {
       "raw_hot": 1898042,
@@ -60,7 +68,7 @@
     },
     {
       "raw_hot": 1416051,
-      "num": 353423,
+      "num": 391748,
       "word": "井胧背后抱井迪",
       "onboard_time": 1779447081,
       "rank": 11,
@@ -91,14 +99,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1068735,
-      "num": 1068735,
-      "word": "浪姐直播",
-      "onboard_time": 1779450200,
-      "rank": 6,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1060699,
       "num": 851649,
       "word": "晚上一定要拉窗帘",
@@ -113,6 +113,14 @@
       "onboard_time": 1779366980,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 964868,
+      "num": 964868,
+      "word": "魏如萱太稳了",
+      "onboard_time": 1779453081,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 861190,
@@ -148,7 +156,7 @@
     },
     {
       "raw_hot": 830559,
-      "num": 346444,
+      "num": 383645,
       "word": "突然理解自己为什么会高物欲了",
       "onboard_time": 1779445820,
       "rank": 15,
@@ -179,20 +187,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 767476,
+      "num": 729521,
+      "word": "魏如萱调侃曾沛慈太残酷",
+      "onboard_time": 1779440900,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 751793,
       "num": 388500,
       "word": "金秀贤已接受精神科治疗",
       "onboard_time": 1779404418,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 729521,
-      "num": 729521,
-      "word": "魏如萱调侃曾沛慈太残酷",
-      "onboard_time": 1779440900,
-      "rank": 5,
-      "category": "综艺"
     },
     {
       "raw_hot": 719998,
@@ -241,6 +249,14 @@
       "onboard_time": 1779373402,
       "rank": 3,
       "category": "电影"
+    },
+    {
+      "raw_hot": 627115,
+      "num": 368522,
+      "word": "你曾是少年",
+      "onboard_time": 1779452480,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 616035,
@@ -300,7 +316,7 @@
     },
     {
       "raw_hot": 547899,
-      "num": 347391,
+      "num": 350993,
       "word": "方媛哭了",
       "onboard_time": 1779447741,
       "rank": 14,
@@ -324,7 +340,7 @@
     },
     {
       "raw_hot": 535301,
-      "num": 343070,
+      "num": 358813,
       "word": "朱珠说刘亦菲选择朋友很小心",
       "onboard_time": 1779444620,
       "rank": 17,
@@ -340,7 +356,7 @@
     },
     {
       "raw_hot": 519300,
-      "num": 337150,
+      "num": 363762,
       "word": "曝杨幂已提名白玉兰最佳女主角",
       "onboard_time": 1779447261,
       "rank": 20,
@@ -427,6 +443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 470269,
+      "num": 366784,
+      "word": "井胧井迪龙凤胎姐弟相拥惹热议",
+      "onboard_time": 1779452300,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 468208,
       "num": 889896,
       "word": "C罗夺得沙特联赛冠军",
@@ -459,12 +483,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 442392,
+      "num": 352628,
+      "word": "歌手直播放浪姐小片",
+      "onboard_time": 1779452962,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 439866,
       "num": 392222,
       "word": "赵丽颖天下大势乘风而来",
       "onboard_time": 1779418159,
       "rank": 12,
       "category": "电影"
+    },
+    {
+      "raw_hot": 436318,
+      "num": 344066,
+      "word": "浪姐",
+      "onboard_time": 1779450200,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 435398,
@@ -500,7 +540,7 @@
     },
     {
       "raw_hot": 419274,
-      "num": 339417,
+      "num": 340272,
       "word": "iPhone哪个材质手感最好",
       "onboard_time": 1779447560,
       "rank": 19,
@@ -521,6 +561,14 @@
       "onboard_time": 1779370762,
       "rank": 23,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 409015,
+      "num": 409015,
+      "word": "我年龄大到能看懂这张图",
+      "onboard_time": 1779450440,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 400442,
@@ -611,6 +659,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 355931,
+      "num": 343628,
+      "word": "歌手顺序 现场抽签",
+      "onboard_time": 1779453141,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 355860,
       "num": 355860,
       "word": "肖战手上的伤口",
@@ -625,6 +681,14 @@
       "onboard_time": 1779408921,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 349716,
+      "num": 336406,
+      "word": "何炅那英主持",
+      "onboard_time": 1779452662,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 349412,
@@ -643,6 +707,22 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 337248,
+      "num": 348847,
+      "word": "年轻人开始全款买房意味着什么",
+      "onboard_time": 1779448282,
+      "rank": 25,
+      "category": "议题讨论"
+    },
+    {
+      "raw_hot": 337174,
+      "num": 354740,
+      "word": "小猫臂力惊人 肚肚逼人",
+      "onboard_time": 1779450560,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 332960,
       "num": 260404,
       "word": "父母弄散儿子拼3天积木感觉天塌了",
@@ -657,6 +737,14 @@
       "onboard_time": 1779353301,
       "rank": 6,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 330588,
+      "num": 336059,
+      "word": "你曾是少年 听哭了",
+      "onboard_time": 1779453502,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 325390,
@@ -699,28 +787,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 309582,
-      "num": 328874,
-      "word": "年轻人开始全款买房意味着什么",
-      "onboard_time": 1779448282,
-      "rank": 25,
-      "category": "议题讨论"
-    },
-    {
       "raw_hot": 306862,
       "num": 1075711,
       "word": "除了日本七国集团高层接连访华",
       "onboard_time": 1779432502,
       "rank": 8,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 303838,
-      "num": 341206,
-      "word": "浪姐",
-      "onboard_time": 1779450200,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 303143,
@@ -755,6 +827,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 294012,
+      "num": 328907,
+      "word": "徐若晗回应不理方媛",
+      "onboard_time": 1779448941,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 292010,
       "num": 1073686,
       "word": "伦敦世乒赛46名选手不败",
@@ -777,6 +857,14 @@
       "onboard_time": 1779435260,
       "rank": 23,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 282020,
+      "num": 322171,
+      "word": "跑男",
+      "onboard_time": 1779453263,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 279724,
@@ -859,6 +947,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 262979,
+      "num": 397075,
+      "word": "上班不会为工位花一分钱",
+      "onboard_time": 1779449900,
+      "rank": 7,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 257709,
       "num": 1072035,
       "word": "比亚迪将发布重大技术",
@@ -889,6 +985,14 @@
       "onboard_time": 1779427824,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 250537,
+      "num": 382236,
+      "word": "大爷穿着自己编织的蓑衣卖樱桃",
+      "onboard_time": 1779448760,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 249982,
@@ -963,6 +1067,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 225045,
+      "num": 333618,
+      "word": "不同姓氏却是最爱彼此的人",
+      "onboard_time": 1779446481,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 224733,
       "num": 236674,
       "word": "庾澄庆问窦靖童怎么称呼",
@@ -977,6 +1089,14 @@
       "onboard_time": 1779447024,
       "rank": 37,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 223583,
+      "num": 380936,
+      "word": "泰国长公主昏迷近3年半后病情恶化",
+      "onboard_time": 1779445042,
+      "rank": 44,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 222436,
@@ -1075,28 +1195,12 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 202501,
-      "num": 302115,
-      "word": "不同姓氏却是最爱彼此的人",
-      "onboard_time": 1779446481,
-      "rank": 41,
-      "category": "情感"
-    },
-    {
       "raw_hot": 197983,
       "num": 241104,
       "word": "尼克斯2比0骑士",
       "onboard_time": 1779421525,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 196649,
-      "num": 300245,
-      "word": "徐若晗回应不理方媛",
-      "onboard_time": 1779448941,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 195885,
@@ -1129,6 +1233,14 @@
       "onboard_time": 1779415638,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 192354,
+      "num": 376172,
+      "word": "孙怡的底妆为什么哭不花",
+      "onboard_time": 1779451459,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 192108,
@@ -1209,14 +1321,6 @@
       "onboard_time": 1779338901,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 174102,
-      "num": 305763,
-      "word": "大爷穿着自己编织的蓑衣卖樱桃",
-      "onboard_time": 1779448760,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 170483,
@@ -1355,14 +1459,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 154160,
-      "num": 293425,
-      "word": "小猫臂力惊人 肚肚逼人",
-      "onboard_time": 1779450560,
-      "rank": 46,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 152775,
       "num": 152775,
       "word": "Angelababy画的红黄蓝",
@@ -1371,12 +1467,12 @@
       "category": "作品衍生,艺人"
     },
     {
-      "raw_hot": 151657,
-      "num": 289722,
-      "word": "我年龄大到能看懂这张图",
-      "onboard_time": 1779450440,
-      "rank": 48,
-      "category": "幽默"
+      "raw_hot": 152070,
+      "num": 365842,
+      "word": "C罗发博晒全家福",
+      "onboard_time": 1779450680,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 149451,
@@ -1395,12 +1491,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 145856,
-      "num": 296337,
-      "word": "泰国长公主昏迷近3年半后病情恶化",
-      "onboard_time": 1779445042,
-      "rank": 44,
-      "category": "海外新闻"
+      "raw_hot": 145581,
+      "num": 331833,
+      "word": "歌手开场十季歌王",
+      "onboard_time": 1779453561,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 143519,
@@ -1483,6 +1579,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 133443,
+      "num": 323797,
+      "word": "摊贩向西瓜涂抹的液体检测是水",
+      "onboard_time": 1779452121,
+      "rank": 46,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 133160,
       "num": 133160,
       "word": "警方通报女子被陌生男子从背后踢倒",
@@ -1500,7 +1604,7 @@
     },
     {
       "raw_hot": 132457,
-      "num": 320121,
+      "num": 339939,
       "word": "腾势Z9GT在南法戛纳天价落槌",
       "onboard_time": 1779449781,
       "rank": 30,
@@ -1595,6 +1699,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 123308,
+      "num": 372009,
+      "word": "豆包 古偶女主",
+      "onboard_time": 1779446961,
+      "rank": 20,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 123205,
       "num": 123205,
       "word": "良陈美锦",
@@ -1625,6 +1737,14 @@
       "onboard_time": 1779422005,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 119373,
+      "num": 1075287,
+      "word": "暴雨为啥来得这么猛",
+      "onboard_time": 1779436041,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 119171,
@@ -1729,14 +1849,6 @@
       "onboard_time": 1779375382,
       "rank": 29,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 89780,
-      "num": 1075287,
-      "word": "暴雨为啥来得这么猛",
-      "onboard_time": 1779436041,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 89486,
@@ -1931,6 +2043,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 46733,
+      "num": 374791,
+      "word": "这个麻婆豆腐泡面口味给到夯",
+      "onboard_time": 1779451459,
+      "rank": 19,
+      "category": "美食"
+    },
+    {
       "raw_hot": 46644,
       "num": 416601,
       "word": "外交部回应美方称已暂停对台军售",
@@ -2043,12 +2163,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 18465,
+      "num": 396164,
+      "word": "推行常住地提供基本公共服务",
+      "onboard_time": 1779453443,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 18159,
       "num": 68152,
       "word": "窦靖童 同一片天空下",
       "onboard_time": 1779393493,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 17191,
+      "num": 317890,
+      "word": "买家电选功能还是选智能",
+      "onboard_time": 1779451880,
+      "rank": 49,
+      "category": "数码"
     },
     {
       "raw_hot": 15647,
@@ -2065,6 +2201,14 @@
       "onboard_time": 1779415879,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 12994,
+      "num": 347143,
+      "word": "厂家425包邮的轮椅政府采购价1450元",
+      "onboard_time": 1779453561,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 7828,
@@ -2092,6 +2236,9 @@
     },
     {
       "word": "#习主席引经据典寄望中俄关系发展#"
+    },
+    {
+      "word": "#光影记录中俄友谊故事#"
     }
   ]
 }
