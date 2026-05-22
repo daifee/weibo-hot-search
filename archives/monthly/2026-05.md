@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/05/01 00:05:26 ~ 2026/05/22 20:40:37
+本榜单时间：2026/05/01 00:05:26 ~ 2026/05/22 22:52:38
 </p>
 </blockquote>
 <p>
@@ -13,6 +13,12 @@
 热榜
 </h2>
 <ol>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AD%8C%E6%89%8B%E6%8E%92%E5%90%8D%23" target="weibo">
+歌手排名（热度：28198949）
+</a>
+</li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B1%86%E5%8C%85%20%E4%BB%98%E8%B4%B9%23" target="weibo">
@@ -119,6 +125,12 @@ iPhone17Pro降价2000（热度：15057331）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%E6%AC%A2%E8%BF%8E%E4%BB%AA%E5%BC%8F%23" target="weibo">
 特朗普访华欢迎仪式（热度：10065284）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%AA%A6%E9%9D%96%E7%AB%A5%20%E7%8E%8B%E8%8F%B2%E7%9A%84%E5%A3%B0%E9%9F%B3%E5%94%B1%E7%AA%A6%E5%94%AF%23" target="weibo">
+窦靖童 王菲的声音唱窦唯（热度：9386633）
 </a>
 </li>
 
@@ -239,6 +251,12 @@ iPhone17Pro降价2000（热度：15057331）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E5%88%B0%E8%BE%BE%E5%8C%97%E4%BA%AC%23" target="weibo">
 普京到达北京（热度：4569181）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%A2%A7%E6%99%A8%20%E8%B7%91%E8%B0%83%23" target="weibo">
+张碧晨 跑调（热度：4493043）
 </a>
 </li>
 
@@ -437,6 +455,12 @@ iPhone17Pro降价2000（热度：15057331）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E9%9D%96%E7%98%A6%E5%88%B0%E8%AE%A4%E4%B8%8D%E5%87%BA%E6%9D%A5%23" target="weibo">
 金靖瘦到认不出来（热度：3255384）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%83%8A%E9%B8%BF%E4%B8%80%E9%9D%A2%20%E5%A4%AF%23" target="weibo">
+惊鸿一面 夯（热度：3236569）
 </a>
 </li>
 
@@ -651,6 +675,12 @@ iPhone18（热度：2710736）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%83%A1%E5%BD%A6%E6%96%8C%E7%A0%B4%E9%9F%B3%23" target="weibo">
+胡彦斌破音（热度：2641309）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A2%9C%E9%A2%9C%E5%87%AF%E5%87%AF%E6%B2%A1%E5%9C%A8%E4%B8%80%E8%B5%B7%23" target="weibo">
 颜颜凯凯没在一起（热度：2638208）
 </a>
@@ -665,6 +695,12 @@ iPhone18（热度：2710736）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E8%83%BD%E9%9D%99%E4%B8%8A%E6%89%8B%E6%8B%89%E5%BC%80%E4%BA%86%E5%AD%99%E6%9D%A8%23" target="weibo">
 伊能静上手拉开了孙杨（热度：2611196）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%AC%A1%E7%88%B1%E7%9A%84%E4%BA%BA%23" target="weibo">
+第一次爱的人（热度：2607514）
 </a>
 </li>
 
@@ -1125,6 +1161,12 @@ OPPO 文案价值观（热度：2055441）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E5%8A%A9%E7%90%86%E4%B8%8E%E9%BB%84%E6%99%AF%E7%91%9C%E5%8F%91%E5%B0%8F%E7%BB%93%E5%A9%9A%E4%BA%86%23" target="weibo">
+关晓彤助理与黄景瑜发小结婚了（热度：1971760）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E5%86%AC%E9%9B%A8%20%E5%88%98%E6%98%8A%E7%84%B6%23" target="weibo">
 周冬雨 刘昊然（热度：1968780）
 </a>
@@ -1553,6 +1595,12 @@ iPhone折叠屏上手（热度：1630619）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%A9%A7%E4%BB%AA%E5%B0%86%E6%9A%82%E5%81%9C%E9%85%8D%E5%90%88%E5%AE%A3%E4%BC%A0%E4%BD%A0%E5%A5%BD%E6%98%9F%E6%9C%9F%E5%85%AD%23" target="weibo">
 张婧仪将暂停配合宣传你好星期六（热度：1620731）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%A2%A7%E6%99%A8%20%E7%82%B8%E5%9C%BA%E5%AD%90%23" target="weibo">
+张碧晨 炸场子（热度：1620464）
 </a>
 </li>
 
@@ -3009,6 +3057,12 @@ EXO King（热度：1062649）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%AC%A1%E7%88%B1%E7%9A%84%E4%BA%BA%20%E5%85%A8%E5%9C%BA%E6%9C%80%E4%BD%B3%23" target="weibo">
+第一次爱的人 全场最佳（热度：1035627）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BA%93%E5%85%8B%E4%BD%A0%E7%9A%84iPhone%E5%9C%A8%E5%8C%97%E4%BA%AC%E7%83%AB%E5%90%97%23" target="weibo">
 库克你的iPhone在北京烫吗（热度：1028996）
 </a>
@@ -3155,6 +3209,12 @@ EXO King（热度：1062649）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%B4%E5%AE%9D%E8%8B%B1%E7%99%BE%E6%83%B3%E8%A7%86%E5%90%8E%23" target="weibo">
 朴宝英百想视后（热度：995129）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%80%86%E6%88%98%23" target="weibo">
+逆战（热度：992350）
 </a>
 </li>
 
@@ -3431,6 +3491,12 @@ ChatGPT的恐怖我后知后觉（热度：965016）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E5%BD%A4%E7%9B%B4%E6%92%AD%E9%81%93%E6%AD%89%23" target="weibo">
 吴彤直播道歉（热度：949909）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9B%BE%E6%B2%9B%E6%85%88%20%E5%BC%80%E5%8F%A3%E8%B7%AA%23" target="weibo">
+曾沛慈 开口跪（热度：949254）
 </a>
 </li>
 
@@ -5463,6 +5529,12 @@ FIFA回应中国区天价世界杯版权（热度：711746）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B7%91%E7%94%B7%E6%94%B6%E8%A7%86%E7%8E%87%23" target="weibo">
+跑男收视率（热度：690683）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%83%AB%E7%89%9B%E5%A5%B6%E6%98%AF%E5%96%84%E8%89%AF%E7%9A%84%E9%A3%9F%E7%89%A9%23" target="weibo">
 烫牛奶是善良的食物（热度：689980）
 </a>
@@ -5939,78 +6011,6 @@ labubu冰箱被炒至19999元（热度：655160）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%89%E4%BA%BA%E7%BB%99TOP%E4%B9%B0%E4%BA%86%E4%BA%94%E4%B8%AA%E9%98%B2%E6%AF%92%E9%9D%A2%E5%85%B7%23" target="weibo">
 有人给TOP买了五个防毒面具（热度：651338）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E8%BF%9B%E7%BB%84%23" target="weibo">
-刘宇宁进组（热度：650691）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B7%91%E7%94%B7%E8%BD%AC%E5%8F%91%E5%8C%BA%23" target="weibo">
-跑男转发区（热度：650012）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E9%9D%96%E5%9B%9E%E5%A4%8D%E5%BC%A0%E5%87%8C%E8%B5%AB%E8%B0%A2%E8%B0%A2%E6%88%91%E7%9A%84%E7%AB%99%E5%93%A5%23" target="weibo">
-金靖回复张凌赫谢谢我的站哥（热度：649875）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E6%8B%92%E4%B9%B0%E5%8D%95%E5%90%8E%E5%9B%BD%E9%99%85%E8%B6%B3%E8%81%94%E9%AB%98%E7%AE%A1%E5%B0%86%E8%AE%BF%E5%8D%8E%23" target="weibo">
-央视拒买单后国际足联高管将访华（热度：649792）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%86%8A%E7%8C%AB%E5%AE%B6%E5%92%8C%E5%8E%BB%E4%B8%96%23" target="weibo">
-大熊猫家和去世（热度：647831）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E3%E6%AF%942%E9%87%91%E5%A8%9C%E8%8B%B1%23" target="weibo">
-孙颖莎3比2金娜英（热度：647601）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%88%9D%E4%BB%A3%E8%B7%91%E7%94%B7%E6%98%AF%E4%B8%8D%E6%98%AF%E5%9C%A8%E5%95%86%E9%87%8F%E9%87%8D%E7%BB%84%23" target="weibo">
-初代跑男是不是在商量重组（热度：647444）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%B1%86%E8%B1%86%E7%BB%99%E5%AD%99%E6%9D%A8%E7%9A%84%E5%A4%87%E6%B3%A8%23" target="weibo">
-张豆豆给孙杨的备注（热度：647040）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E5%8D%97%E7%90%86%E5%B7%A5%E5%81%B7%E6%8B%8D%E7%94%B7%E7%94%9F%E6%9C%AA%E8%A2%AB%E5%BC%80%E9%99%A4%23" target="weibo">
-华南理工偷拍男生未被开除（热度：646889）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B6%88%E6%9D%80%E5%85%AC%E5%8F%B8%E6%84%BF%E4%B8%BA%E8%AF%AF%E5%BC%80%E6%88%BF%E9%97%A8%E8%B5%9430%E5%80%8D%E6%88%BF%E8%B4%B9%23" target="weibo">
-消杀公司愿为误开房门赔30倍房费（热度：646020）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%AD%89%E7%AD%89%E7%BB%99%E5%AD%99%E4%BF%AA%E4%B9%B0%E7%91%9E%E5%A3%AB%E5%8D%B7%23" target="weibo">
-等等给孙俪买瑞士卷（热度：646019）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%85%B0%E6%99%93%E9%BE%99%E5%9C%A8%E8%82%96%E6%88%98%E5%90%8E%E9%9D%A2%E6%8D%82%E8%80%B3%E6%9C%B5%23" target="weibo">
-兰晓龙在肖战后面捂耳朵（热度：645550）
 </a>
 </li>
 
