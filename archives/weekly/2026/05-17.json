@@ -1,6 +1,6 @@
 {
   "startTime": 1778951228781,
-  "endTime": 1779405048456,
+  "endTime": 1779413429933,
   "band_list": [
     {
       "raw_hot": 17984788,
@@ -171,6 +171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2611196,
+      "num": 689558,
+      "word": "伊能静上手拉开了孙杨",
+      "onboard_time": 1779408140,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2558835,
       "num": 2558835,
       "word": "国产手机突然降价2000元",
@@ -180,7 +188,7 @@
     },
     {
       "raw_hot": 2492570,
-      "num": 261393,
+      "num": 364897,
       "word": "曝Angelababy没有靠黄晓明",
       "onboard_time": 1779373642,
       "rank": 20,
@@ -483,6 +491,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1527372,
+      "num": 1527372,
+      "word": "雷军强烈推荐现在就换手机",
+      "onboard_time": 1779408981,
+      "rank": 0,
+      "category": "数码"
+    },
+    {
       "raw_hot": 1514593,
       "num": 252121,
       "word": "13岁女生被闺蜜胁迫卖淫",
@@ -524,7 +540,7 @@
     },
     {
       "raw_hot": 1437252,
-      "num": 267479,
+      "num": 386464,
       "word": "至今不知道庾澄庆家有多难搞",
       "onboard_time": 1779371722,
       "rank": 10,
@@ -1451,6 +1467,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 751793,
+      "num": 388500,
+      "word": "金秀贤已接受精神科治疗",
+      "onboard_time": 1779404418,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 747593,
       "num": 629302,
       "word": "北电看到了杨幂的毕业论文",
@@ -1641,6 +1665,14 @@
       "onboard_time": 1779184821,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 681223,
+      "num": 681223,
+      "word": "洛克王国",
+      "onboard_time": 1779405437,
+      "rank": 4,
+      "category": "游戏"
     },
     {
       "raw_hot": 679545,
@@ -1955,6 +1987,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 591015,
+      "num": 381445,
+      "word": "张豆豆情绪稳定后又被孙杨说哭了",
+      "onboard_time": 1779381858,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 588713,
       "num": 588713,
       "word": "特朗普暗示日本过头了",
@@ -2073,6 +2113,14 @@
       "onboard_time": 1779016220,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 567088,
+      "num": 567088,
+      "word": "李在明点名批评韩媒炮制涉华假新闻",
+      "onboard_time": 1779410120,
+      "rank": 5,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 565623,
@@ -2201,6 +2249,14 @@
       "onboard_time": 1778944460,
       "rank": 11,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 539629,
+      "num": 539629,
+      "word": "徐若晗艺术生的含金量还在上升",
+      "onboard_time": 1779406038,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 537368,
@@ -2523,6 +2579,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 473294,
+      "num": 379239,
+      "word": "曝刺棠宋祖儿换李宛妲",
+      "onboard_time": 1779412160,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 472727,
       "num": 296469,
       "word": "给阿嬷的情书 暴走老奶",
@@ -2537,6 +2601,14 @@
       "onboard_time": 1779074900,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 468208,
+      "num": 889896,
+      "word": "C罗夺得沙特联赛冠军",
+      "onboard_time": 1779405618,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 468063,
@@ -2667,6 +2739,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 445390,
+      "num": 445390,
+      "word": "男子拍到摊贩往西瓜上抹不明液体",
+      "onboard_time": 1779405978,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 443011,
       "num": 443011,
       "word": "5中国人在泰遭4警察1平民绑架勒索",
@@ -2793,6 +2873,14 @@
       "onboard_time": 1779275420,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 424970,
+      "num": 376570,
+      "word": "天津跳伞遇难女员工原本今年订婚",
+      "onboard_time": 1779412521,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 422521,
@@ -2979,6 +3067,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 395782,
+      "num": 374302,
+      "word": "沈梦辰歌手直播冷到发抖",
+      "onboard_time": 1779411140,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 395697,
       "num": 393605,
       "word": "小满",
@@ -3057,6 +3153,14 @@
       "onboard_time": 1778993301,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 392562,
+      "num": 392562,
+      "word": "小米YU7首战ModelY八败两胜",
+      "onboard_time": 1779383297,
+      "rank": 34,
+      "category": "汽车"
     },
     {
       "raw_hot": 392241,
@@ -3299,6 +3403,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 363533,
+      "num": 363533,
+      "word": "此沙陈丽君方否认恋情",
+      "onboard_time": 1779405857,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 362612,
       "num": 175449,
       "word": "男子酒后多次骚扰女童被打索赔36万",
@@ -3395,6 +3507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 354437,
+      "num": 319406,
+      "word": "陈奕迅女儿现身法网助阵男友",
+      "onboard_time": 1779408921,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 354343,
       "num": 247926,
       "word": "内娱的红从来都是意想不到的",
@@ -3449,6 +3569,14 @@
       "onboard_time": 1779362239,
       "rank": 22,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 349412,
+      "num": 349412,
+      "word": "终于理解了朋友是流动的这句话",
+      "onboard_time": 1779406638,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 344991,
@@ -3699,14 +3827,6 @@
       "category": "财经,互联网"
     },
     {
-      "raw_hot": 324893,
-      "num": 324893,
-      "word": "张豆豆情绪稳定后又被孙杨说哭了",
-      "onboard_time": 1779381858,
-      "rank": 13,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 324729,
       "num": 258554,
       "word": "老乡杯",
@@ -3729,6 +3849,14 @@
       "onboard_time": 1779355159,
       "rank": 23,
       "category": "美食"
+    },
+    {
+      "raw_hot": 320519,
+      "num": 390626,
+      "word": "雷军回应为何只公布锁单量",
+      "onboard_time": 1779408380,
+      "rank": 9,
+      "category": "互联网"
     },
     {
       "raw_hot": 320396,
@@ -4315,6 +4443,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 274143,
+      "num": 274143,
+      "word": "女子收22万彩礼拉黑准新郎",
+      "onboard_time": 1779406519,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 274006,
       "num": 274006,
       "word": "孙丞潇给金莎的备注是黄逗犟",
@@ -4585,6 +4721,14 @@
       "onboard_time": 1778989520,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 254728,
+      "num": 254728,
+      "word": "孔笙帮肖战整理西服",
+      "onboard_time": 1779405857,
+      "rank": 25,
+      "category": "电影"
     },
     {
       "raw_hot": 254558,
@@ -5083,6 +5227,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 226685,
+      "num": 230580,
+      "word": "豆包炒股建议",
+      "onboard_time": 1779382818,
+      "rank": 38,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 226424,
+      "num": 226424,
+      "word": "金价",
+      "onboard_time": 1779412761,
+      "rank": 27,
+      "category": "财经"
+    },
+    {
       "raw_hot": 226198,
       "num": 226198,
       "word": "易青娥二公",
@@ -5192,6 +5352,14 @@
       "word": "骑士4比3淘汰活塞",
       "onboard_time": 1779073520,
       "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 222026,
+      "num": 222026,
+      "word": "马奎尔落选世界杯名单",
+      "onboard_time": 1779405618,
+      "rank": 30,
       "category": "体育"
     },
     {
@@ -5723,6 +5891,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 195289,
+      "num": 195289,
+      "word": "一次性雨伞用过被退写满学生姓名",
+      "onboard_time": 1779407300,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 195232,
       "num": 494448,
       "word": "日本汽车产业遇重创",
@@ -5937,6 +6113,14 @@
       "onboard_time": 1779263961,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 182732,
+      "num": 182732,
+      "word": "丁程鑫不参与开推胆量排名",
+      "onboard_time": 1779407659,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 182311,
@@ -6851,6 +7035,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 149451,
+      "num": 149451,
+      "word": "徐若晗拍的欧阳娜娜",
+      "onboard_time": 1779410660,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 149427,
       "num": 149427,
       "word": "Angelababy千禧芭比",
@@ -6865,6 +7057,14 @@
       "onboard_time": 1779094759,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 147364,
+      "num": 147364,
+      "word": "白鹿说十周年见面会压力很大",
+      "onboard_time": 1779409640,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 147138,
@@ -6931,6 +7131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 143519,
+      "num": 369074,
+      "word": "女生租房1年遍地垃圾散发恶臭",
+      "onboard_time": 1779412459,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 143407,
       "num": 143407,
       "word": "中俄元首茶叙",
@@ -6969,6 +7177,14 @@
       "onboard_time": 1779377002,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 141458,
+      "num": 141458,
+      "word": "庾澄庆和窦靖童聊恩利",
+      "onboard_time": 1779408380,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 140496,
@@ -7067,14 +7283,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 136015,
-      "num": 230580,
-      "word": "豆包炒股建议",
-      "onboard_time": 1779382818,
-      "rank": 38,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 135692,
       "num": 169434,
       "word": "歌手发布会",
@@ -7105,6 +7313,14 @@
       "onboard_time": 1779032599,
       "rank": 25,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 133737,
+      "num": 133737,
+      "word": "杨梅价格暴跌",
+      "onboard_time": 1779405799,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 133394,
@@ -7203,6 +7419,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 128968,
+      "num": 128968,
+      "word": "让袁隆平挠头的学生在沙漠种小麦",
+      "onboard_time": 1779410781,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 128647,
       "num": 128647,
       "word": "U17国足晋级亚洲杯决赛",
@@ -7291,6 +7515,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 123462,
+      "num": 123462,
+      "word": "7G100显卡",
+      "onboard_time": 1779408859,
+      "rank": 44,
+      "category": "数码"
+    },
+    {
       "raw_hot": 123074,
       "num": 429423,
       "word": "尼泊尔大象被虐事件引中国网友不满",
@@ -7363,6 +7595,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 121192,
+      "num": 121192,
+      "word": "花主人回应连夜更换警示牌",
+      "onboard_time": 1779409941,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 120311,
       "num": 165297,
       "word": "印4岁女孩光天化日遭多名劫匪抢走",
@@ -7377,6 +7617,14 @@
       "onboard_time": 1778999720,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 118265,
+      "num": 371920,
+      "word": "用上AI后工作时间反而更长了",
+      "onboard_time": 1779404418,
+      "rank": 48,
+      "category": "互联网"
     },
     {
       "raw_hot": 117866,
@@ -7521,6 +7769,14 @@
       "onboard_time": 1779251362,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 111913,
+      "num": 149826,
+      "word": "12306回应车厢内脱鞋现象频出",
+      "onboard_time": 1779412039,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 111791,
@@ -7723,6 +7979,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 99746,
+      "num": 222047,
+      "word": "双星陨落5年了",
+      "onboard_time": 1779410840,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 99129,
       "num": 346177,
       "word": "委内瑞拉驱逐马杜罗亲信",
@@ -7803,6 +8067,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 93855,
+      "num": 256144,
+      "word": "寿司郎为什么洗不干净盘子",
+      "onboard_time": 1779375382,
+      "rank": 29,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 93608,
       "num": 93608,
       "word": "降低皮质醇的秘诀",
@@ -7833,14 +8105,6 @@
       "onboard_time": 1778932940,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 92361,
-      "num": 256144,
-      "word": "寿司郎为什么洗不干净盘子",
-      "onboard_time": 1779375382,
-      "rank": 29,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 92349,
@@ -7921,14 +8185,6 @@
       "onboard_time": 1778995520,
       "rank": 31,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 88887,
-      "num": 88887,
-      "word": "金秀贤已接受精神科治疗",
-      "onboard_time": 1779404418,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 88534,
@@ -8097,6 +8353,14 @@
       "onboard_time": 1778976018,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 83516,
+      "num": 120191,
+      "word": "金银双双加速下跌",
+      "onboard_time": 1779412521,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 83401,
@@ -8281,14 +8545,6 @@
       "onboard_time": 1779145217,
       "rank": 19,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 76302,
-      "num": 232208,
-      "word": "小米YU7首战ModelY八败两胜",
-      "onboard_time": 1779383297,
-      "rank": 34,
-      "category": "汽车"
     },
     {
       "raw_hot": 75981,
@@ -9299,6 +9555,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 41211,
+      "num": 147867,
+      "word": "3岁女童小区坠井物业称监控坏了",
+      "onboard_time": 1779412039,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 41208,
       "num": 71706,
       "word": "阿森纳vs伯恩利",
@@ -9563,6 +9827,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 32477,
+      "num": 905163,
+      "word": "我国建成规模最大水利基础设施体系",
+      "onboard_time": 1779366861,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 32260,
       "num": 391903,
       "word": "拼豆拼出了真的刘浩存",
@@ -9699,20 +9971,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 28305,
+      "num": 240114,
+      "word": "11省区市大到暴雨",
+      "onboard_time": 1779413239,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 28185,
       "num": 215430,
       "word": "中国斩断欧盟长臂管辖",
       "onboard_time": 1778992400,
       "rank": 21,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 28130,
-      "num": 905163,
-      "word": "我国建成规模最大水利基础设施体系",
-      "onboard_time": 1779366861,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 28106,
@@ -10073,14 +10345,6 @@
       "onboard_time": 1779127635,
       "rank": 49,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 15269,
-      "num": 87180,
-      "word": "用上AI后工作时间反而更长了",
-      "onboard_time": 1779404418,
-      "rank": 48,
-      "category": "互联网"
     },
     {
       "raw_hot": 14894,
