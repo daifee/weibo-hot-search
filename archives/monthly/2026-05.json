@@ -1,6 +1,6 @@
 {
   "startTime": 1777565126834,
-  "endTime": 1779491397542,
+  "endTime": 1779493194502,
   "band_list": [
     {
       "raw_hot": 28198949,
@@ -729,6 +729,14 @@
       "onboard_time": 1778366536,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 2969609,
+      "num": 595095,
+      "word": "王鹤棣说自己确实不舒服",
+      "onboard_time": 1779491538,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 2951894,
@@ -9947,6 +9955,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 548231,
+      "num": 548231,
+      "word": "歌手排名 闹麻了",
+      "onboard_time": 1779473116,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 547899,
       "num": 350993,
       "word": "方媛哭了",
@@ -11483,6 +11499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 486489,
+      "num": 181227,
+      "word": "工作室为王鹤棣发声",
+      "onboard_time": 1779491836,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 486245,
       "num": 486245,
       "word": "手机店老板称线下基本不卖新机了",
@@ -12171,6 +12195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 462000,
+      "num": 758632,
+      "word": "中国U17男足2比3日本U17",
+      "onboard_time": 1779481154,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 461745,
       "num": 329099,
       "word": "张凌赫爸妈给他送饭",
@@ -12793,14 +12825,6 @@
       "onboard_time": 1777646241,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 437725,
-      "num": 357043,
-      "word": "歌手排名 闹麻了",
-      "onboard_time": 1779473116,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 437333,
@@ -15379,6 +15403,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 362695,
+      "num": 362695,
+      "word": "山西沁源煤矿事故已致8死",
+      "onboard_time": 1779491717,
+      "rank": 5,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 362612,
       "num": 175449,
       "word": "男子酒后多次骚扰女童被打索赔36万",
@@ -15779,14 +15811,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 353364,
-      "num": 279233,
-      "word": "中国U17男足2比3日本U17",
-      "onboard_time": 1779481154,
-      "rank": 27,
-      "category": "体育"
-    },
-    {
       "raw_hot": 353189,
       "num": 353189,
       "word": "阿信感谢王俊凯",
@@ -15865,6 +15889,14 @@
       "onboard_time": 1779247523,
       "rank": 16,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 351444,
+      "num": 571934,
+      "word": "燃油车骨折清仓",
+      "onboard_time": 1779482894,
+      "rank": 8,
+      "category": "汽车"
     },
     {
       "raw_hot": 351349,
@@ -17843,6 +17875,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 308140,
+      "num": 308140,
+      "word": "好想回到纸媒繁荣的时代",
+      "onboard_time": 1779474495,
+      "rank": 1,
+      "category": "情感"
+    },
+    {
       "raw_hot": 307940,
       "num": 307940,
       "word": "戛纳电影节",
@@ -18225,14 +18265,6 @@
       "onboard_time": 1777948161,
       "rank": 35,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 299990,
-      "num": 299990,
-      "word": "好想回到纸媒繁荣的时代",
-      "onboard_time": 1779474495,
-      "rank": 1,
-      "category": "情感"
     },
     {
       "raw_hot": 299968,
@@ -19545,6 +19577,14 @@
       "onboard_time": 1777710439,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 276570,
+      "num": 294473,
+      "word": "人民日报评所谓碳水脸概念走红",
+      "onboard_time": 1779473236,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 276326,
@@ -25611,6 +25651,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 198772,
+      "num": 299253,
+      "word": "ai漫剧硬通货 泡面火腿纯净水",
+      "onboard_time": 1779481814,
+      "rank": 6,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 198739,
       "num": 394384,
       "word": "夸克TV崩了",
@@ -27451,14 +27499,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 178946,
-      "num": 294473,
-      "word": "人民日报评所谓碳水脸概念走红",
-      "onboard_time": 1779473236,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 178919,
       "num": 178919,
       "word": "TCG晋级挑杯八强",
@@ -28697,14 +28737,6 @@
       "onboard_time": 1779316756,
       "rank": 21,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 169804,
-      "num": 571934,
-      "word": "燃油车骨折清仓",
-      "onboard_time": 1779482894,
-      "rank": 8,
-      "category": "汽车"
     },
     {
       "raw_hot": 169765,
@@ -31457,14 +31489,6 @@
       "onboard_time": 1779281422,
       "rank": 47,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 143312,
-      "num": 299253,
-      "word": "ai漫剧硬通货 泡面火腿纯净水",
-      "onboard_time": 1779481814,
-      "rank": 6,
-      "category": "幽默"
     },
     {
       "raw_hot": 143267,
@@ -34459,6 +34483,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 116258,
+      "num": 262153,
+      "word": "教育空间的缩小不是突然发生的",
+      "onboard_time": 1779491178,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 116193,
       "num": 327044,
       "word": "4岁男童从11楼坠落奇迹生还",
@@ -35153,6 +35185,14 @@
       "onboard_time": 1777639582,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 106266,
+      "num": 249911,
+      "word": "黄百鸣或面临10年监禁",
+      "onboard_time": 1779490818,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 106153,
@@ -35883,6 +35923,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 96648,
+      "num": 266872,
+      "word": "李小冉 北舞大师姐发力了",
+      "onboard_time": 1779482354,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 96630,
       "num": 208261,
       "word": "埃弗顿3比3曼城",
@@ -36225,14 +36273,6 @@
       "onboard_time": 1779080479,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 91713,
-      "num": 266872,
-      "word": "李小冉 北舞大师姐发力了",
-      "onboard_time": 1779482354,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 91612,
@@ -37883,6 +37923,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 70089,
+      "num": 252811,
+      "word": "女孩开心跑进店将小猫扔出店外",
+      "onboard_time": 1779467840,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 69894,
       "num": 69894,
       "word": "房主任瘦了16斤",
@@ -38136,14 +38184,6 @@
       "word": "武汉暴雨预警升级为红色",
       "onboard_time": 1779118521,
       "rank": 33,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 67446,
-      "num": 262153,
-      "word": "教育空间的缩小不是突然发生的",
-      "onboard_time": 1779491178,
-      "rank": 32,
       "category": "民生新闻"
     },
     {
@@ -39211,14 +39251,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 55632,
-      "num": 252811,
-      "word": "女孩开心跑进店将小猫扔出店外",
-      "onboard_time": 1779467840,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 55580,
       "num": 2646061,
       "word": "济南山姆称已安排人员巡查",
@@ -39593,14 +39625,6 @@
       "onboard_time": 1779356240,
       "rank": 15,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 51647,
-      "num": 249911,
-      "word": "黄百鸣或面临10年监禁",
-      "onboard_time": 1779490818,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 51630,
@@ -42433,6 +42457,14 @@
       "onboard_time": 1777629199,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 27104,
+      "num": 137447,
+      "word": "马斯克SpaceX星舰V3首飞成功",
+      "onboard_time": 1779493099,
+      "rank": 17,
+      "category": "海外新闻,互联网"
     },
     {
       "raw_hot": 26982,

@@ -1,6 +1,6 @@
 {
   "startTime": 1779465797561,
-  "endTime": 1779491397542,
+  "endTime": 1779493194502,
   "band_list": [
     {
       "raw_hot": 13549280,
@@ -8,6 +8,14 @@
       "word": "歌手排名",
       "onboard_time": 1779459751,
       "rank": 0,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 2969609,
+      "num": 595095,
+      "word": "王鹤棣说自己确实不舒服",
+      "onboard_time": 1779491538,
+      "rank": 3,
       "category": "综艺"
     },
     {
@@ -139,11 +147,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 548231,
+      "num": 548231,
+      "word": "歌手排名 闹麻了",
+      "onboard_time": 1779473116,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 506908,
       "num": 1932992,
       "word": "张碧晨 炸场子",
       "onboard_time": 1779458907,
       "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 486489,
+      "num": 181227,
+      "word": "工作室为王鹤棣发声",
+      "onboard_time": 1779491836,
+      "rank": 11,
       "category": "综艺"
     },
     {
@@ -163,19 +187,19 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 462000,
+      "num": 758632,
+      "word": "中国U17男足2比3日本U17",
+      "onboard_time": 1779481154,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 461080,
       "num": 1887762,
       "word": "歌手直播",
       "onboard_time": 1779449601,
       "rank": 35,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 437725,
-      "num": 357043,
-      "word": "歌手排名 闹麻了",
-      "onboard_time": 1779473116,
-      "rank": 25,
       "category": "综艺"
     },
     {
@@ -211,6 +235,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 362695,
+      "num": 362695,
+      "word": "山西沁源煤矿事故已致8死",
+      "onboard_time": 1779491717,
+      "rank": 5,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 356649,
       "num": 1843516,
       "word": "歌手弹幕 隔壁唱得好看跳得好听",
@@ -219,12 +251,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 353364,
-      "num": 279233,
-      "word": "中国U17男足2比3日本U17",
-      "onboard_time": 1779481154,
-      "rank": 27,
-      "category": "体育"
+      "raw_hot": 351444,
+      "num": 571934,
+      "word": "燃油车骨折清仓",
+      "onboard_time": 1779482894,
+      "rank": 8,
+      "category": "汽车"
     },
     {
       "raw_hot": 346361,
@@ -251,8 +283,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 299990,
-      "num": 299990,
+      "raw_hot": 308140,
+      "num": 308140,
       "word": "好想回到纸媒繁荣的时代",
       "onboard_time": 1779474495,
       "rank": 1,
@@ -273,6 +305,14 @@
       "onboard_time": 1779454343,
       "rank": 22,
       "category": "数码"
+    },
+    {
+      "raw_hot": 276570,
+      "num": 294473,
+      "word": "人民日报评所谓碳水脸概念走红",
+      "onboard_time": 1779473236,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 269035,
@@ -331,28 +371,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 198772,
+      "num": 299253,
+      "word": "ai漫剧硬通货 泡面火腿纯净水",
+      "onboard_time": 1779481814,
+      "rank": 6,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 186942,
       "num": 2201218,
       "word": "上班被领导兜底的含金量",
       "onboard_time": 1779460284,
       "rank": 7,
       "category": "情感"
-    },
-    {
-      "raw_hot": 178946,
-      "num": 294473,
-      "word": "人民日报评所谓碳水脸概念走红",
-      "onboard_time": 1779473236,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 169804,
-      "num": 571934,
-      "word": "燃油车骨折清仓",
-      "onboard_time": 1779482894,
-      "rank": 8,
-      "category": "汽车"
     },
     {
       "raw_hot": 167990,
@@ -369,14 +401,6 @@
       "onboard_time": 1779448760,
       "rank": 17,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 143312,
-      "num": 299253,
-      "word": "ai漫剧硬通货 泡面火腿纯净水",
-      "onboard_time": 1779481814,
-      "rank": 6,
-      "category": "幽默"
     },
     {
       "raw_hot": 129247,
@@ -411,6 +435,14 @@
       "category": "财经,互联网"
     },
     {
+      "raw_hot": 116258,
+      "num": 262153,
+      "word": "教育空间的缩小不是突然发生的",
+      "onboard_time": 1779491178,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 110790,
       "num": 248257,
       "word": "王菲我知道你在看",
@@ -425,6 +457,22 @@
       "onboard_time": 1779460048,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 106614,
+      "num": 266328,
+      "word": "第一次爱的人",
+      "onboard_time": 1779459630,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 106266,
+      "num": 249911,
+      "word": "黄百鸣或面临10年监禁",
+      "onboard_time": 1779490818,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 105606,
@@ -459,7 +507,7 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 91713,
+      "raw_hot": 96648,
       "num": 266872,
       "word": "李小冉 北舞大师姐发力了",
       "onboard_time": 1779482354,
@@ -483,14 +531,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 79870,
-      "num": 266328,
-      "word": "第一次爱的人",
-      "onboard_time": 1779459630,
-      "rank": 29,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 76105,
       "num": 592004,
       "word": "寿司郎广州门店被曝吃出4条寄生虫",
@@ -499,11 +539,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 67446,
-      "num": 262153,
-      "word": "教育空间的缩小不是突然发生的",
-      "onboard_time": 1779491178,
-      "rank": 32,
+      "raw_hot": 70089,
+      "num": 252811,
+      "word": "女孩开心跑进店将小猫扔出店外",
+      "onboard_time": 1779467840,
+      "rank": 47,
       "category": "民生新闻"
     },
     {
@@ -523,28 +563,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 55632,
-      "num": 252811,
-      "word": "女孩开心跑进店将小猫扔出店外",
-      "onboard_time": 1779467840,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 55580,
       "num": 225737,
       "word": "济南山姆称已安排人员巡查",
       "onboard_time": 1779460646,
       "rank": 48,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 51647,
-      "num": 249911,
-      "word": "黄百鸣或面临10年监禁",
-      "onboard_time": 1779490818,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 47992,
@@ -577,6 +601,14 @@
       "onboard_time": 1779464423,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 27104,
+      "num": 137447,
+      "word": "马斯克SpaceX星舰V3首飞成功",
+      "onboard_time": 1779493099,
+      "rank": 17,
+      "category": "海外新闻,互联网"
     },
     {
       "raw_hot": 21988,
