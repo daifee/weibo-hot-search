@@ -1,6 +1,6 @@
 {
   "startTime": 1778951228781,
-  "endTime": 1779470082787,
+  "endTime": 1779473762482,
   "band_list": [
     {
       "raw_hot": 28198949,
@@ -6131,6 +6131,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 234428,
+      "num": 302391,
+      "word": "网约车司机闷死小猫后跑路拉黑",
+      "onboard_time": 1779468140,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 233087,
       "num": 240828,
       "word": "AI已经预测了世界杯",
@@ -6537,14 +6545,6 @@
       "onboard_time": 1779195381,
       "rank": 9,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 215410,
-      "num": 302391,
-      "word": "网约车司机闷死小猫后跑路拉黑",
-      "onboard_time": 1779468140,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 215396,
@@ -7112,6 +7112,14 @@
       "word": "孙怡的底妆为什么哭不花",
       "onboard_time": 1779451459,
       "rank": 18,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 192176,
+      "num": 192176,
+      "word": "歌手排名 闹麻了",
+      "onboard_time": 1779473116,
+      "rank": 25,
       "category": "综艺"
     },
     {

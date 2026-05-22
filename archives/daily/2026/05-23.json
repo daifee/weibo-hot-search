@@ -1,6 +1,6 @@
 {
   "startTime": 1779465797561,
-  "endTime": 1779470082787,
+  "endTime": 1779473762482,
   "band_list": [
     {
       "raw_hot": 13549280,
@@ -275,6 +275,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 234428,
+      "num": 302391,
+      "word": "网约车司机闷死小猫后跑路拉黑",
+      "onboard_time": 1779468140,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 232736,
       "num": 2212820,
       "word": "我年龄大到能看懂这张图",
@@ -283,12 +291,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 215410,
-      "num": 302391,
-      "word": "网约车司机闷死小猫后跑路拉黑",
-      "onboard_time": 1779468140,
-      "rank": 26,
-      "category": "民生新闻"
+      "raw_hot": 208902,
+      "num": 208902,
+      "word": "歌手",
+      "onboard_time": 1779473236,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 208474,
@@ -296,6 +304,14 @@
       "word": "那英说张碧晨是一定走到最后的",
       "onboard_time": 1779468620,
       "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 192176,
+      "num": 192176,
+      "word": "歌手排名 闹麻了",
+      "onboard_time": 1779473116,
+      "rank": 25,
       "category": "综艺"
     },
     {

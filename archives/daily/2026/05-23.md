@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/05/23 00:03:17 ~ 2026/05/23 01:14:42
+本榜单时间：2026/05/23 00:03:17 ~ 2026/05/23 02:16:02
 </p>
 </blockquote>
 <p>
@@ -219,20 +219,32 @@ iPhone17系列降价后销量（热度：283884）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BA%A6%E8%BD%A6%E5%8F%B8%E6%9C%BA%E9%97%B7%E6%AD%BB%E5%B0%8F%E7%8C%AB%E5%90%8E%E8%B7%91%E8%B7%AF%E6%8B%89%E9%BB%91%23" target="weibo">
+网约车司机闷死小猫后跑路拉黑（热度：234428）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E5%B9%B4%E9%BE%84%E5%A4%A7%E5%88%B0%E8%83%BD%E7%9C%8B%E6%87%82%E8%BF%99%E5%BC%A0%E5%9B%BE%23" target="weibo">
 我年龄大到能看懂这张图（热度：232736）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BA%A6%E8%BD%A6%E5%8F%B8%E6%9C%BA%E9%97%B7%E6%AD%BB%E5%B0%8F%E7%8C%AB%E5%90%8E%E8%B7%91%E8%B7%AF%E6%8B%89%E9%BB%91%23" target="weibo">
-网约车司机闷死小猫后跑路拉黑（热度：215410）
+<a href="https://s.weibo.com/weibo?q=%23%E6%AD%8C%E6%89%8B%23" target="weibo">
+歌手（热度：208902）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%82%A3%E8%8B%B1%E8%AF%B4%E5%BC%A0%E7%A2%A7%E6%99%A8%E6%98%AF%E4%B8%80%E5%AE%9A%E8%B5%B0%E5%88%B0%E6%9C%80%E5%90%8E%E7%9A%84%23" target="weibo">
 那英说张碧晨是一定走到最后的（热度：208474）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AD%8C%E6%89%8B%E6%8E%92%E5%90%8D%20%E9%97%B9%E9%BA%BB%E4%BA%86%23" target="weibo">
+歌手排名 闹麻了（热度：192176）
 </a>
 </li>
 
