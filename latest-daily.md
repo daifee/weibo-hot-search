@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/05/24 01:10:40 ~ 2026/05/24 03:45:27
+本榜单时间：2026/05/24 01:10:40 ~ 2026/05/24 05:03:09
 </p>
 </blockquote>
 <p>
@@ -351,8 +351,20 @@ SK的BP（热度：78251）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B1%AA%E8%8B%8F%E6%B3%B7%E8%B7%B3%E4%BA%86%E4%B8%89%E6%AC%A1%E8%AF%AF%E9%97%AF%E5%A4%A9%E5%AE%B6%23" target="weibo">
+汪苏泷跳了三次误闯天家（热度：30456）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8B%BC%E9%98%9F%E9%87%91%E8%89%B2%E9%9B%A8%23" target="weibo">
 狼队金色雨（热度：27804）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E8%A5%BF%E7%85%A4%E7%9F%BF%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%85%E8%BF%9B%E5%B1%95%23" target="weibo">
+山西煤矿爆炸事故进展（热度：27747）
 </a>
 </li>
 

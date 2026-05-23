@@ -1,6 +1,6 @@
 {
   "startTime": 1779556240361,
-  "endTime": 1779565527890,
+  "endTime": 1779570189503,
   "band_list": [
     {
       "raw_hot": 1292397,
@@ -451,12 +451,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 30456,
+      "num": 37409,
+      "word": "汪苏泷跳了三次误闯天家",
+      "onboard_time": 1779567074,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 27804,
       "num": 85710,
       "word": "狼队金色雨",
       "onboard_time": 1779563714,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 27747,
+      "num": 37302,
+      "word": "山西煤矿爆炸事故进展",
+      "onboard_time": 1779569834,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 20582,
