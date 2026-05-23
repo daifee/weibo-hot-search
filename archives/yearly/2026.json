@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1779535207002,
+  "endTime": 1779538454637,
   "band_list": [
     {
       "raw_hot": 46860992,
@@ -1971,6 +1971,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 3363795,
+      "num": 789544,
+      "word": "沈月工作室 你仅仅是沈月就很好",
+      "onboard_time": 1779536482,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 3348414,
       "num": 698907,
       "word": "朴信惠眼睛 断崖式衰老",
@@ -2172,7 +2180,7 @@
     },
     {
       "raw_hot": 3126022,
-      "num": 590338,
+      "num": 599550,
       "word": "王鹤棣 拆cp",
       "onboard_time": 1779523702,
       "rank": 10,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1767177980,
       "rank": 0,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 2927069,
-      "num": 2927069,
-      "word": "Bin是世一上",
-      "onboard_time": 1774198160,
-      "rank": 4,
-      "category": "电竞"
     }
   ],
   "hotgov_list": [
