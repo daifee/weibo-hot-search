@@ -1,6 +1,6 @@
 {
   "startTime": 1777565126834,
-  "endTime": 1779564131688,
+  "endTime": 1779565527890,
   "band_list": [
     {
       "raw_hot": 28198949,
@@ -18131,6 +18131,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 320514,
+      "num": 200258,
+      "word": "王鹤棣对徐志胜的态度",
+      "onboard_time": 1779562936,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 320396,
       "num": 320396,
       "word": "品牌方向蔡徐坤道歉",
@@ -22401,14 +22409,6 @@
       "onboard_time": 1778947820,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 247273,
-      "num": 200258,
-      "word": "王鹤棣对徐志胜的态度",
-      "onboard_time": 1779562936,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 247230,
@@ -41331,6 +41331,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 52237,
+      "num": 101188,
+      "word": "香港航天员黎家盈",
+      "onboard_time": 1779562215,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 52163,
       "num": 112974,
       "word": "2岁女儿认错妈妈10岁儿子也认错",
@@ -42377,14 +42385,6 @@
       "onboard_time": 1778236040,
       "rank": 18,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 42729,
-      "num": 95449,
-      "word": "香港航天员黎家盈",
-      "onboard_time": 1779562215,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 42380,
@@ -44257,6 +44257,14 @@
       "onboard_time": 1778383999,
       "rank": 25,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 27804,
+      "num": 85710,
+      "word": "狼队金色雨",
+      "onboard_time": 1779563714,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 27608,
