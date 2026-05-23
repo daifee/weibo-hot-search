@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1779545438014,
+  "endTime": 1779548939684,
   "band_list": [
     {
       "raw_hot": 46860992,
@@ -169,6 +169,14 @@
       "onboard_time": 1779112703,
       "rank": 0,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 17345610,
+      "num": 17345610,
+      "word": "王鹤棣沈月疑似互删",
+      "onboard_time": 1779546504,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 16741456,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1777376002,
       "rank": 11,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 2961322,
-      "num": 681188,
-      "word": "伊朗接受停火提议",
-      "onboard_time": 1775603420,
-      "rank": 4,
-      "category": "国际时政"
     }
   ],
   "hotgov_list": [

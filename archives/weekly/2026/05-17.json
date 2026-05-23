@@ -1,6 +1,6 @@
 {
   "startTime": 1778951228781,
-  "endTime": 1779545438014,
+  "endTime": 1779548939684,
   "band_list": [
     {
       "raw_hot": 28198949,
@@ -25,6 +25,14 @@
       "onboard_time": 1779112703,
       "rank": 0,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 17345610,
+      "num": 17345610,
+      "word": "王鹤棣沈月疑似互删",
+      "onboard_time": 1779546504,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 15856679,
@@ -507,6 +515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2100974,
+      "num": 877086,
+      "word": "孙怡看到曾沛慈票数的表情",
+      "onboard_time": 1779547526,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2070813,
       "num": 295682,
       "word": "女孩怕责备隐瞒被狗咬后狂犬病去世",
@@ -537,6 +553,14 @@
       "onboard_time": 1779161780,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 2022456,
+      "num": 482990,
+      "word": "曾沛慈票数",
+      "onboard_time": 1779545424,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 2004750,
@@ -633,6 +657,14 @@
       "onboard_time": 1779019820,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1812300,
+      "num": 879311,
+      "word": "狼队信FMVP",
+      "onboard_time": 1779545424,
+      "rank": 4,
+      "category": "电竞"
     },
     {
       "raw_hot": 1809322,
@@ -1073,6 +1105,14 @@
       "onboard_time": 1779011060,
       "rank": 38,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 1134805,
+      "num": 1257970,
+      "word": "留神峪煤矿有重大违法行为",
+      "onboard_time": 1779547826,
+      "rank": 1,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 1128891,
@@ -1931,6 +1971,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 762458,
+      "num": 762458,
+      "word": "一诺错失大满贯",
+      "onboard_time": 1779546325,
+      "rank": 6,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 759604,
       "num": 759604,
       "word": "普京宾至如归脱下外套",
@@ -2555,6 +2603,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 611775,
+      "num": 611775,
+      "word": "我要的是闺女不是大学生",
+      "onboard_time": 1779546085,
+      "rank": 7,
+      "category": "情感"
+    },
+    {
       "raw_hot": 605373,
       "num": 2772612,
       "word": "跑男",
@@ -2641,6 +2697,14 @@
       "onboard_time": 1779250943,
       "rank": 13,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 595822,
+      "num": 424016,
+      "word": "张艺上淘汰待定",
+      "onboard_time": 1779546627,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 595163,
@@ -2769,6 +2833,14 @@
       "onboard_time": 1779352821,
       "rank": 13,
       "category": "电影"
+    },
+    {
+      "raw_hot": 576838,
+      "num": 519623,
+      "word": "王濛短道速滑 也许放弃才能靠近你",
+      "onboard_time": 1779541044,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 575295,
@@ -3019,6 +3091,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 547819,
+      "num": 547819,
+      "word": "留神峪煤矿事故发布会",
+      "onboard_time": 1779547046,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 546987,
       "num": 546987,
       "word": "杨紫回复黄晓明",
@@ -3048,6 +3128,14 @@
       "word": "孙杨的执着让马頔和伊能静都没招了",
       "onboard_time": 1779158422,
       "rank": 13,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 543131,
+      "num": 521477,
+      "word": "张月好适合野心家",
+      "onboard_time": 1779541103,
+      "rank": 25,
       "category": "综艺"
     },
     {
@@ -3363,14 +3451,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 497048,
-      "num": 521477,
-      "word": "张月好适合野心家",
-      "onboard_time": 1779541103,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 496615,
       "num": 511705,
       "word": "曾沛慈非常不满意自己的表现",
@@ -3441,6 +3521,14 @@
       "onboard_time": 1779416900,
       "rank": 5,
       "category": "电影"
+    },
+    {
+      "raw_hot": 484190,
+      "num": 484190,
+      "word": "张月赢了安崎",
+      "onboard_time": 1779546024,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 480882,
@@ -3520,6 +3608,14 @@
       "word": "八旬老人公交上闭眼休息实则已死亡",
       "onboard_time": 1779020841,
       "rank": 16,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 473614,
+      "num": 523590,
+      "word": "留神峪矿工说跑了2小时才出来",
+      "onboard_time": 1779539844,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -3891,14 +3987,6 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 430988,
-      "num": 519623,
-      "word": "王濛短道速滑 也许放弃才能靠近你",
-      "onboard_time": 1779541044,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 430945,
       "num": 372132,
       "word": "身上莫名长出的小红点是什么",
@@ -3945,6 +4033,14 @@
       "onboard_time": 1779020540,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 426317,
+      "num": 415726,
+      "word": "不许再霸凌自己了",
+      "onboard_time": 1779546024,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 425714,
@@ -4403,6 +4499,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 385193,
+      "num": 446050,
+      "word": "张国清赶赴留神峪煤矿事故现场",
+      "onboard_time": 1779542244,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 384229,
       "num": 384229,
       "word": "肯德基 aespa",
@@ -4649,6 +4753,14 @@
       "onboard_time": 1779405857,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 363358,
+      "num": 405499,
+      "word": "单依纯终于原谅观众了",
+      "onboard_time": 1779547287,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 362695,
@@ -6331,6 +6443,22 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 259081,
+      "num": 399891,
+      "word": "肖战直播射箭",
+      "onboard_time": 1779546925,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 259034,
+      "num": 394219,
+      "word": "张杰唱的是天下也是归途",
+      "onboard_time": 1779546504,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 258449,
       "num": 258449,
       "word": "面试空窗期",
@@ -6377,6 +6505,14 @@
       "onboard_time": 1779071719,
       "rank": 27,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 256634,
+      "num": 392548,
+      "word": "喻言摔了",
+      "onboard_time": 1779546206,
+      "rank": 33,
+      "category": "演出"
     },
     {
       "raw_hot": 256351,
@@ -6803,6 +6939,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 240435,
+      "num": 481268,
+      "word": "东北超",
+      "onboard_time": 1779539303,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 240251,
       "num": 346137,
       "word": "英伟达Q1净利润583亿美元",
@@ -6931,6 +7075,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 236110,
+      "num": 403253,
+      "word": "男子回应妻子胎停后脑梗智力变3岁",
+      "onboard_time": 1779545965,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 235839,
       "num": 183743,
       "word": "千万别用塑料容器加热食物",
@@ -7017,6 +7169,14 @@
       "onboard_time": 1779113784,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 231908,
+      "num": 383872,
+      "word": "大帅",
+      "onboard_time": 1779548365,
+      "rank": 37,
+      "category": "电竞"
     },
     {
       "raw_hot": 231884,
@@ -7755,6 +7915,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 204902,
+      "num": 397740,
+      "word": "孙颖莎火眼金睛一语道破",
+      "onboard_time": 1779547946,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 204553,
       "num": 170699,
       "word": "王毅机场迎接普京",
@@ -8097,14 +8265,6 @@
       "onboard_time": 1779451459,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 192135,
-      "num": 523590,
-      "word": "留神峪矿工说跑了2小时才出来",
-      "onboard_time": 1779539844,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 192108,
@@ -9307,6 +9467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 153973,
+      "num": 374491,
+      "word": "久诚要亲一下清清",
+      "onboard_time": 1779548725,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 153467,
       "num": 171805,
       "word": "3岁娃被独自分到8节外静音车厢",
@@ -9491,6 +9659,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 147514,
+      "num": 369738,
+      "word": "阿史那隼站起来了",
+      "onboard_time": 1779548426,
+      "rank": 44,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 147364,
       "num": 147364,
       "word": "白鹿说十周年见面会压力很大",
@@ -9505,6 +9681,14 @@
       "onboard_time": 1779350360,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 147054,
+      "num": 366785,
+      "word": "苏超",
+      "onboard_time": 1779546145,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 146606,
@@ -9721,6 +9905,14 @@
       "onboard_time": 1779505163,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 138409,
+      "num": 359415,
+      "word": "重庆狼队十一冠",
+      "onboard_time": 1779546627,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 137881,
@@ -9955,6 +10147,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 131263,
+      "num": 1339068,
+      "word": "新一轮强降雨今晚上线",
+      "onboard_time": 1779540142,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 130985,
       "num": 384725,
       "word": "安徽抽检杨梅16批次不合格",
@@ -10017,14 +10217,6 @@
       "onboard_time": 1779448521,
       "rank": 49,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 128996,
-      "num": 481268,
-      "word": "东北超",
-      "onboard_time": 1779539303,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 128968,
@@ -10321,6 +10513,14 @@
       "onboard_time": 1779404418,
       "rank": 48,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 118282,
+      "num": 430005,
+      "word": "雷军透露小米下一步规划",
+      "onboard_time": 1779546865,
+      "rank": 15,
+      "category": "汽车"
     },
     {
       "raw_hot": 117866,
@@ -10891,14 +11091,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 96359,
-      "num": 446050,
-      "word": "张国清赶赴留神峪煤矿事故现场",
-      "onboard_time": 1779542244,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 94828,
       "num": 164527,
       "word": "AI算力产业链正批量造富",
@@ -11049,14 +11241,6 @@
       "onboard_time": 1778995520,
       "rank": 31,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 88629,
-      "num": 1339068,
-      "word": "新一轮强降雨今晚上线",
-      "onboard_time": 1779540142,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 88534,
@@ -12155,6 +12339,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 56276,
+      "num": 381186,
+      "word": "王濛看李小冉唐艺昕的眼神",
+      "onboard_time": 1779548486,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 56244,
       "num": 56244,
       "word": "伯恩茅斯1比1曼城",
@@ -12673,6 +12865,14 @@
       "onboard_time": 1779015860,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 44335,
+      "num": 362628,
+      "word": "荣耀机器人带着荣耀幸运星空降苏超",
+      "onboard_time": 1779545485,
+      "rank": 48,
+      "category": "数码,体育"
     },
     {
       "raw_hot": 44028,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1779548939684,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2984006,
+        "num": 2984006,
+        "word": "狼队战胜AG",
+        "onboard_time": 1779543386,
+        "rank": 0,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 1134805,
+        "num": 1257970,
+        "word": "留神峪煤矿有重大违法行为",
+        "onboard_time": 1779547826,
+        "rank": 1,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 131263,
+        "num": 959199,
+        "word": "新一轮强降雨今晚上线",
+        "onboard_time": 1779540142,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2514218,
+        "num": 948565,
+        "word": "沈月工作室 你仅仅是沈月就很好",
+        "onboard_time": 1779536482,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1812300,
+        "num": 879311,
+        "word": "狼队信FMVP",
+        "onboard_time": 1779545424,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 2100974,
+        "num": 877086,
+        "word": "孙怡看到曾沛慈票数的表情",
+        "onboard_time": 1779547526,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 762458,
+        "num": 762458,
+        "word": "一诺错失大满贯",
+        "onboard_time": 1779546325,
+        "rank": 6,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 611775,
+        "num": 611775,
+        "word": "我要的是闺女不是大学生",
+        "onboard_time": 1779546085,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 547819,
+        "num": 547819,
+        "word": "留神峪煤矿事故发布会",
+        "onboard_time": 1779547046,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 484190,
+        "num": 484190,
+        "word": "张月赢了安崎",
+        "onboard_time": 1779546024,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2022456,
+        "num": 482990,
+        "word": "曾沛慈票数",
+        "onboard_time": 1779545424,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 473614,
+        "num": 473614,
+        "word": "留神峪矿工说跑了2小时才出来",
+        "onboard_time": 1779539844,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17345610,
+        "num": 17345610,
+        "word": "王鹤棣沈月疑似互删",
+        "onboard_time": 1779546504,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 3876850,
+        "num": 447925,
+        "word": "伊能静疑似力挺庾澄庆",
+        "onboard_time": 1779543386,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 430727,
+        "num": 430727,
+        "word": "狼队夺冠",
+        "onboard_time": 1779544044,
+        "rank": 14,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 118282,
+        "num": 430005,
+        "word": "雷军透露小米下一步规划",
+        "onboard_time": 1779546865,
+        "rank": 15,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 61953,
+        "num": 427098,
+        "word": "AI光算力第一股上市首日暴涨380%",
+        "onboard_time": 1779530661,
+        "rank": 16,
+        "category": "财经,互联网"
+      },
+      {
+        "raw_hot": 989239,
+        "num": 425631,
+        "word": "王鹤棣 拆cp",
+        "onboard_time": 1779523702,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 595822,
+        "num": 424016,
+        "word": "张艺上淘汰待定",
+        "onboard_time": 1779546627,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 385193,
+        "num": 422096,
+        "word": "张国清赶赴留神峪煤矿事故现场",
+        "onboard_time": 1779542244,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 576838,
+        "num": 418717,
+        "word": "王濛短道速滑 也许放弃才能靠近你",
+        "onboard_time": 1779541044,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 558839,
+        "num": 417015,
+        "word": "棣月系超话头像变黑了",
+        "onboard_time": 1779524302,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 426317,
+        "num": 415726,
+        "word": "不许再霸凌自己了",
+        "onboard_time": 1779546024,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 543131,
+        "num": 412335,
+        "word": "张月好适合野心家",
+        "onboard_time": 1779541103,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 453407,
+        "num": 410411,
+        "word": "窦靖童小时候是王菲的挂件",
+        "onboard_time": 1779542963,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 240435,
+        "num": 409031,
+        "word": "东北超",
+        "onboard_time": 1779539303,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 403461,
+        "num": 406527,
+        "word": "家业收视率",
+        "onboard_time": 1779545904,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 363358,
+        "num": 405499,
+        "word": "单依纯终于原谅观众了",
+        "onboard_time": 1779547287,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 236110,
+        "num": 403253,
+        "word": "男子回应妻子胎停后脑梗智力变3岁",
+        "onboard_time": 1779545965,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 297811,
+        "num": 400845,
+        "word": "魏晨带儿子逛超市",
+        "onboard_time": 1779535702,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 259081,
+        "num": 399891,
+        "word": "肖战直播射箭",
+        "onboard_time": 1779546925,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204902,
+        "num": 397740,
+        "word": "孙颖莎火眼金睛一语道破",
+        "onboard_time": 1779547946,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 259034,
+        "num": 394219,
+        "word": "张杰唱的是天下也是归途",
+        "onboard_time": 1779546504,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 256634,
+        "num": 392548,
+        "word": "喻言摔了",
+        "onboard_time": 1779546206,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 204084,
+        "num": 390096,
+        "word": "山西留神峪煤矿内部画面",
+        "onboard_time": 1779522503,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 174053,
+        "num": 389350,
+        "word": "赵嘉敏去看一诺决赛",
+        "onboard_time": 1779532102,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 203843,
+        "num": 386589,
+        "word": "山西事故煤矿矿工晕倒一个多小时",
+        "onboard_time": 1779522264,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 231908,
+        "num": 383872,
+        "word": "大帅",
+        "onboard_time": 1779548365,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 164125,
+        "num": 381994,
+        "word": "蒋毅老婆起诉赵樱子",
+        "onboard_time": 1779534803,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 56276,
+        "num": 381186,
+        "word": "王濛看李小冉唐艺昕的眼神",
+        "onboard_time": 1779548486,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163273,
+        "num": 378303,
+        "word": "山西煤矿爆炸点附近出现积水",
+        "onboard_time": 1779533543,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161942,
+        "num": 375769,
+        "word": "庾澄庆淘汰缺席歌手采访",
+        "onboard_time": 1779538161,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153973,
+        "num": 374491,
+        "word": "久诚要亲一下清清",
+        "onboard_time": 1779548725,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 429127,
+        "num": 371965,
+        "word": "浪姐直播",
+        "onboard_time": 1779535401,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147514,
+        "num": 369738,
+        "word": "阿史那隼站起来了",
+        "onboard_time": 1779548426,
+        "rank": 44,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 147365,
+        "num": 369056,
+        "word": "张月选了安崎",
+        "onboard_time": 1779543505,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147054,
+        "num": 366785,
+        "word": "苏超",
+        "onboard_time": 1779546145,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 144656,
+        "num": 363340,
+        "word": "孕妻脑梗变3岁丈夫900多天不离不弃",
+        "onboard_time": 1779531203,
+        "rank": 47,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 44335,
+        "num": 362628,
+        "word": "荣耀机器人带着荣耀幸运星空降苏超",
+        "onboard_time": 1779545485,
+        "rank": 48,
+        "category": "数码,体育"
+      },
+      {
+        "raw_hot": 138409,
+        "num": 359415,
+        "word": "重庆狼队十一冠",
+        "onboard_time": 1779546627,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#全力救治伤员科学组织搜救#"
+    }
+  }
+}
