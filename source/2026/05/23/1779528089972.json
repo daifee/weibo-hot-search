@@ -1,0 +1,410 @@
+{
+  "runTime": 1779528089972,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3788590,
+        "num": 3788590,
+        "word": "山西煤矿事故已致90人死亡",
+        "onboard_time": 1779512784,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 2362495,
+        "num": 2362495,
+        "word": "山西事故煤矿矿工晕倒一个多小时",
+        "onboard_time": 1779522264,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41124,
+        "num": 1247806,
+        "word": "神23航天员乘组公布",
+        "onboard_time": 1779498619,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 3943478,
+        "num": 1180507,
+        "word": "沈月向王鹤棣道歉",
+        "onboard_time": 1779501203,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1050530,
+        "num": 1050530,
+        "word": "山西留神峪煤矿内部画面",
+        "onboard_time": 1779522503,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1231792,
+        "num": 1045512,
+        "word": "庾澄庆格局",
+        "onboard_time": 1779523404,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1020268,
+        "num": 1020268,
+        "word": "手机点单 举报抽烟",
+        "onboard_time": 1779517044,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 850232,
+        "num": 850232,
+        "word": "徐留平被查",
+        "onboard_time": 1779525083,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 560756,
+        "num": 560756,
+        "word": "原来吃完虾不能马上运动",
+        "onboard_time": 1779521904,
+        "rank": 8,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 509222,
+        "num": 509222,
+        "word": "AG对战狼队",
+        "onboard_time": 1779525625,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 122113,
+        "num": 508168,
+        "word": "山西留神峪矿井外停满救护车",
+        "onboard_time": 1779527484,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 3854096,
+        "num": 507190,
+        "word": "林一 沈月",
+        "onboard_time": 1779527903,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 3084374,
+        "num": 505514,
+        "word": "王鹤棣 拆cp",
+        "onboard_time": 1779523702,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 829885,
+        "num": 504588,
+        "word": "女子住院被朋友殴打昏迷数天后死亡",
+        "onboard_time": 1779525023,
+        "rank": 13,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 2717248,
+        "num": 503579,
+        "word": "棣月系超话头像变黑了",
+        "onboard_time": 1779524302,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 835423,
+        "num": 501963,
+        "word": "易烊千玺给王源演唱会送花篮了",
+        "onboard_time": 1779523103,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 501599,
+        "num": 501599,
+        "word": "不上班靠一对善良的夫妇救济",
+        "onboard_time": 1779518004,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 372954,
+        "num": 499712,
+        "word": "申请美国绿卡须返回原籍国提申请",
+        "onboard_time": 1779516984,
+        "rank": 17,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 41654,
+        "num": 498393,
+        "word": "红旗金葵花携国宝非遗绽放蓉城",
+        "onboard_time": 1779526162,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 647298,
+        "num": 496114,
+        "word": "吴泽林语气",
+        "onboard_time": 1779502703,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 583873,
+        "num": 492455,
+        "word": "沙溢跑男高反吸氧开车",
+        "onboard_time": 1779521301,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 480145,
+        "num": 489450,
+        "word": "感情里有一个最微妙的悖论",
+        "onboard_time": 1779521242,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 471319,
+        "num": 488193,
+        "word": "明星看粉丝分析",
+        "onboard_time": 1779515663,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 452403,
+        "num": 484475,
+        "word": "iPhone20渲染视频",
+        "onboard_time": 1779524661,
+        "rank": 23,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 410108,
+        "num": 481753,
+        "word": "赵又廷这么发高圆圆知道吗",
+        "onboard_time": 1779518185,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 307865,
+        "num": 480077,
+        "word": "特朗普取消出席儿子婚礼返回白宫",
+        "onboard_time": 1779527723,
+        "rank": 25,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 284496,
+        "num": 478215,
+        "word": "孙亚龙买了两万克黄金",
+        "onboard_time": 1779516684,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 49467,
+        "num": 476182,
+        "word": "巴基斯坦总理抵达杭州",
+        "onboard_time": 1779527784,
+        "rank": 27,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 246860,
+        "num": 472838,
+        "word": "秦统一至今麦子不过熟了2246次",
+        "onboard_time": 1779520341,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 239316,
+        "num": 470351,
+        "word": "曝白玉兰提名终极预测",
+        "onboard_time": 1779520763,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 236503,
+        "num": 467375,
+        "word": "女子捅死男友辩称正当防卫被判无期",
+        "onboard_time": 1779521483,
+        "rank": 30,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 232967,
+        "num": 465042,
+        "word": "给杨幂干成外星人了",
+        "onboard_time": 1779526043,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 219218,
+        "num": 461930,
+        "word": "谢娜回应又被黄灿灿踩裙子了",
+        "onboard_time": 1779512904,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 210160,
+        "num": 460983,
+        "word": "水蚁泛滥",
+        "onboard_time": 1779523944,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 212166,
+        "num": 456795,
+        "word": "小澈瘦了好多",
+        "onboard_time": 1779517044,
+        "rank": 34,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 199012,
+        "num": 453808,
+        "word": "男子忘记池里有鱼一年后瘦成蝌蚪",
+        "onboard_time": 1779527723,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188963,
+        "num": 452837,
+        "word": "谁家酒店在门口放个游泳池",
+        "onboard_time": 1779525742,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 232470,
+        "num": 449604,
+        "word": "2026王者荣耀挑战者杯决赛",
+        "onboard_time": 1779526882,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 66711,
+        "num": 446779,
+        "word": "Gemini挑杯决赛预测",
+        "onboard_time": 1779526882,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 60381,
+        "num": 445553,
+        "word": "5胞胎出院父母带烤全羊感谢",
+        "onboard_time": 1779527361,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188628,
+        "num": 440821,
+        "word": "诸葛亮吃了两顿十万只箭就够了",
+        "onboard_time": 1779526162,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 187148,
+        "num": 439960,
+        "word": "夏天 苍蝇卵",
+        "onboard_time": 1779508339,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 164668,
+        "num": 436549,
+        "word": "留神峪煤矿事故企业负责人被控制",
+        "onboard_time": 1779509721,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 149710,
+        "num": 435499,
+        "word": "阿尔及利亚四男偷游上海泳池",
+        "onboard_time": 1779520882,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146488,
+        "num": 430560,
+        "word": "严浩翔将缺席下一期西游录制",
+        "onboard_time": 1779520403,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137846,
+        "num": 428772,
+        "word": "不接陌生电话 自保机制",
+        "onboard_time": 1779518004,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 125599,
+        "num": 427317,
+        "word": "美军F16击落神秘物体",
+        "onboard_time": 1779515903,
+        "rank": 46,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 135713,
+        "num": 423244,
+        "word": "儿子在学校被打复旦教授是怎么处理的",
+        "onboard_time": 1779519025,
+        "rank": 47,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 134848,
+        "num": 421046,
+        "word": "曾沛慈非常不满意自己的表现",
+        "onboard_time": 1779514884,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129456,
+        "num": 419575,
+        "word": "刘耀文让于洋少说宋亚轩两句",
+        "onboard_time": 1779518542,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平对山西煤矿事故作出重要指示#"
+    }
+  }
+}

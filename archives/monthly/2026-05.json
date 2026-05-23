@@ -1,6 +1,6 @@
 {
   "startTime": 1777565126834,
-  "endTime": 1779527313885,
+  "endTime": 1779528089972,
   "band_list": [
     {
       "raw_hot": 28198949,
@@ -483,6 +483,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 3854096,
+      "num": 507190,
+      "word": "林一 沈月",
+      "onboard_time": 1779527903,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 3804140,
       "num": 292914,
       "word": "姜乘澜被执行1119万",
@@ -899,6 +907,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2717248,
+      "num": 583116,
+      "word": "棣月系超话头像变黑了",
+      "onboard_time": 1779524302,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2710736,
       "num": 1258726,
       "word": "iPhone18",
@@ -1153,14 +1169,6 @@
       "onboard_time": 1779331640,
       "rank": 3,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 2415837,
-      "num": 583116,
-      "word": "棣月系超话头像变黑了",
-      "onboard_time": 1779524302,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 2389578,
@@ -5787,6 +5795,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 835423,
+      "num": 561215,
+      "word": "易烊千玺给王源演唱会送花篮了",
+      "onboard_time": 1779523103,
+      "rank": 14,
+      "category": "演出"
+    },
+    {
       "raw_hot": 833636,
       "num": 692848,
       "word": "当你意识到自己无法升职时",
@@ -5833,6 +5849,14 @@
       "onboard_time": 1779445820,
       "rank": 15,
       "category": "情感"
+    },
+    {
+      "raw_hot": 829885,
+      "num": 574774,
+      "word": "女子住院被朋友殴打昏迷数天后死亡",
+      "onboard_time": 1779525023,
+      "rank": 12,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 829613,
@@ -6281,14 +6305,6 @@
       "onboard_time": 1778155162,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 794166,
-      "num": 561215,
-      "word": "易烊千玺给王源演唱会送花篮了",
-      "onboard_time": 1779523103,
-      "rank": 14,
-      "category": "演出"
     },
     {
       "raw_hot": 794116,
@@ -8809,14 +8825,6 @@
       "onboard_time": 1779080182,
       "rank": 13,
       "category": "电影"
-    },
-    {
-      "raw_hot": 619588,
-      "num": 574774,
-      "word": "女子住院被朋友殴打昏迷数天后死亡",
-      "onboard_time": 1779525023,
-      "rank": 12,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 619368,
@@ -11347,6 +11355,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 501599,
+      "num": 538706,
+      "word": "不上班靠一对善良的夫妇救济",
+      "onboard_time": 1779518004,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 501412,
       "num": 501412,
       "word": "涉偷拍男生与拟录公务员姓名院校一致",
@@ -11889,14 +11905,6 @@
       "onboard_time": 1778305461,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 483473,
-      "num": 538706,
-      "word": "不上班靠一对善良的夫妇救济",
-      "onboard_time": 1779518004,
-      "rank": 38,
-      "category": "情感"
     },
     {
       "raw_hot": 482957,
@@ -12745,6 +12753,14 @@
       "onboard_time": 1779194962,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 452403,
+      "num": 536403,
+      "word": "iPhone20渲染视频",
+      "onboard_time": 1779524661,
+      "rank": 22,
+      "category": "数码"
     },
     {
       "raw_hot": 452310,
@@ -13899,6 +13915,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 410108,
+      "num": 518279,
+      "word": "赵又廷这么发高圆圆知道吗",
+      "onboard_time": 1779518185,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 410091,
       "num": 410091,
       "word": "浪7三公是浪姐史上浓墨重彩的一笔",
@@ -14561,14 +14585,6 @@
       "onboard_time": 1778809099,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 393527,
-      "num": 536403,
-      "word": "iPhone20渲染视频",
-      "onboard_time": 1779524661,
-      "rank": 22,
-      "category": "数码"
     },
     {
       "raw_hot": 393346,
@@ -17579,14 +17595,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 325070,
-      "num": 518279,
-      "word": "赵又廷这么发高圆圆知道吗",
-      "onboard_time": 1779518185,
-      "rank": 35,
-      "category": "电影"
-    },
-    {
       "raw_hot": 325062,
       "num": 453395,
       "word": "女子将高锰酸钾塞体内消毒引大出血",
@@ -18353,6 +18361,14 @@
       "onboard_time": 1778628258,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 307865,
+      "num": 480077,
+      "word": "特朗普取消出席儿子婚礼返回白宫",
+      "onboard_time": 1779527723,
+      "rank": 25,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 307758,
@@ -23243,6 +23259,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 232470,
+      "num": 492968,
+      "word": "2026王者荣耀挑战者杯决赛",
+      "onboard_time": 1778961794,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 232349,
       "num": 284823,
       "word": "天庭三大反骨仔去寂静岭",
@@ -25139,6 +25163,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 210160,
+      "num": 504313,
+      "word": "水蚁泛滥",
+      "onboard_time": 1779523944,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 210109,
       "num": 379686,
       "word": "雷军晒YU7GT团队",
@@ -26243,6 +26275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 199012,
+      "num": 453808,
+      "word": "男子忘记池里有鱼一年后瘦成蝌蚪",
+      "onboard_time": 1779527723,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 198919,
       "num": 248511,
       "word": "平台已对抢方向盘女子账号实施管控",
@@ -27179,6 +27219,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 188963,
+      "num": 501531,
+      "word": "谁家酒店在门口放个游泳池",
+      "onboard_time": 1779525742,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 188825,
       "num": 234046,
       "word": "狩谎",
@@ -27209,6 +27257,14 @@
       "onboard_time": 1778563460,
       "rank": 42,
       "category": "网红"
+    },
+    {
+      "raw_hot": 188628,
+      "num": 471687,
+      "word": "诸葛亮吃了两顿十万只箭就够了",
+      "onboard_time": 1779526162,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 188605,
@@ -28473,14 +28529,6 @@
       "onboard_time": 1778913920,
       "rank": 35,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 176221,
-      "num": 504313,
-      "word": "水蚁泛滥",
-      "onboard_time": 1779523944,
-      "rank": 34,
-      "category": "情感"
     },
     {
       "raw_hot": 176179,
@@ -29771,14 +29819,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 166174,
-      "num": 501531,
-      "word": "谁家酒店在门口放个游泳池",
-      "onboard_time": 1779525742,
-      "rank": 35,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 166070,
       "num": 166070,
       "word": "小乐老乡杯被踢",
@@ -30337,14 +30377,6 @@
       "onboard_time": 1778307800,
       "rank": 41,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 160924,
-      "num": 492968,
-      "word": "2026王者荣耀挑战者杯决赛",
-      "onboard_time": 1778961794,
-      "rank": 35,
-      "category": "电竞"
     },
     {
       "raw_hot": 160808,
@@ -33179,14 +33211,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 134193,
-      "num": 471687,
-      "word": "诸葛亮吃了两顿十万只箭就够了",
-      "onboard_time": 1779526162,
-      "rank": 45,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 134162,
       "num": 463437,
       "word": "雷霆马刺裁判报告",
@@ -34601,6 +34625,14 @@
       "onboard_time": 1779415278,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 122113,
+      "num": 508168,
+      "word": "山西留神峪矿井外停满救护车",
+      "onboard_time": 1779527484,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 122102,
@@ -39107,6 +39139,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 66711,
+      "num": 488671,
+      "word": "Gemini挑杯决赛预测",
+      "onboard_time": 1779526882,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 66644,
       "num": 368059,
       "word": "李冰冰回归戛纳红毯",
@@ -39545,6 +39585,14 @@
       "onboard_time": 1777734084,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 60381,
+      "num": 445553,
+      "word": "5胞胎出院父母带烤全羊感谢",
+      "onboard_time": 1779527361,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 60363,
@@ -40787,6 +40835,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 49467,
+      "num": 476182,
+      "word": "巴基斯坦总理抵达杭州",
+      "onboard_time": 1779527784,
+      "rank": 27,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 49465,
       "num": 280403,
       "word": "郭涛儿子石头拿到驾照了",
@@ -41729,14 +41785,6 @@
       "onboard_time": 1779113184,
       "rank": 49,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 40820,
-      "num": 488671,
-      "word": "Gemini挑杯决赛预测",
-      "onboard_time": 1779526882,
-      "rank": 39,
-      "category": "电竞"
     },
     {
       "raw_hot": 40668,

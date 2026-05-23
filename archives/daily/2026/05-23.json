@@ -1,6 +1,6 @@
 {
   "startTime": 1779465797561,
-  "endTime": 1779527313885,
+  "endTime": 1779528089972,
   "band_list": [
     {
       "raw_hot": 20596528,
@@ -51,6 +51,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 3854096,
+      "num": 507190,
+      "word": "林一 沈月",
+      "onboard_time": 1779527903,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 3126022,
       "num": 590338,
       "word": "王鹤棣 拆cp",
@@ -65,6 +73,14 @@
       "onboard_time": 1779491538,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2717248,
+      "num": 583116,
+      "word": "棣月系超话头像变黑了",
+      "onboard_time": 1779524302,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 2589136,
@@ -89,14 +105,6 @@
       "onboard_time": 1779502703,
       "rank": 5,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 2415837,
-      "num": 583116,
-      "word": "棣月系超话头像变黑了",
-      "onboard_time": 1779524302,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 2385284,
@@ -243,12 +251,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 794166,
+      "raw_hot": 835423,
       "num": 561215,
       "word": "易烊千玺给王源演唱会送花篮了",
       "onboard_time": 1779523103,
       "rank": 14,
       "category": "演出"
+    },
+    {
+      "raw_hot": 829885,
+      "num": 574774,
+      "word": "女子住院被朋友殴打昏迷数天后死亡",
+      "onboard_time": 1779525023,
+      "rank": 12,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 772419,
@@ -345,14 +361,6 @@
       "onboard_time": 1779503062,
       "rank": 13,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 619588,
-      "num": 574774,
-      "word": "女子住院被朋友殴打昏迷数天后死亡",
-      "onboard_time": 1779525023,
-      "rank": 12,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 595063,
@@ -459,6 +467,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 501599,
+      "num": 538706,
+      "word": "不上班靠一对善良的夫妇救济",
+      "onboard_time": 1779518004,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 496615,
       "num": 511705,
       "word": "曾沛慈非常不满意自己的表现",
@@ -473,14 +489,6 @@
       "onboard_time": 1779491836,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 483473,
-      "num": 538706,
-      "word": "不上班靠一对善良的夫妇救济",
-      "onboard_time": 1779518004,
-      "rank": 38,
-      "category": "情感"
     },
     {
       "raw_hot": 478178,
@@ -531,6 +539,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 452403,
+      "num": 536403,
+      "word": "iPhone20渲染视频",
+      "onboard_time": 1779524661,
+      "rank": 22,
+      "category": "数码"
+    },
+    {
       "raw_hot": 439990,
       "num": 487506,
       "word": "山西煤矿事故伤者主要因有毒气体",
@@ -563,20 +579,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 410108,
+      "num": 518279,
+      "word": "赵又廷这么发高圆圆知道吗",
+      "onboard_time": 1779518185,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 399490,
       "num": 2091573,
       "word": "长沙暴雨",
       "onboard_time": 1779464065,
       "rank": 16,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 393527,
-      "num": 536403,
-      "word": "iPhone20渲染视频",
-      "onboard_time": 1779524661,
-      "rank": 22,
-      "category": "数码"
     },
     {
       "raw_hot": 389712,
@@ -715,14 +731,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 325070,
-      "num": 518279,
-      "word": "赵又廷这么发高圆圆知道吗",
-      "onboard_time": 1779518185,
-      "rank": 35,
-      "category": "电影"
-    },
-    {
       "raw_hot": 322304,
       "num": 509269,
       "word": "小澈瘦了好多",
@@ -753,6 +761,14 @@
       "onboard_time": 1779474495,
       "rank": 1,
       "category": "情感"
+    },
+    {
+      "raw_hot": 307865,
+      "num": 480077,
+      "word": "特朗普取消出席儿子婚礼返回白宫",
+      "onboard_time": 1779527723,
+      "rank": 25,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 292078,
@@ -939,6 +955,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 232470,
+      "num": 492968,
+      "word": "2026王者荣耀挑战者杯决赛",
+      "onboard_time": 1779526882,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 225949,
       "num": 572468,
       "word": "巴基斯坦航天员将执行短期飞行任务",
@@ -963,6 +987,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 210160,
+      "num": 504313,
+      "word": "水蚁泛滥",
+      "onboard_time": 1779523944,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 208902,
       "num": 400254,
       "word": "歌手",
@@ -984,6 +1016,14 @@
       "word": "非洲大蜗牛",
       "onboard_time": 1779509242,
       "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 199012,
+      "num": 453808,
+      "word": "男子忘记池里有鱼一年后瘦成蝌蚪",
+      "onboard_time": 1779527723,
+      "rank": 35,
       "category": "民生新闻"
     },
     {
@@ -1011,6 +1051,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 188963,
+      "num": 501531,
+      "word": "谁家酒店在门口放个游泳池",
+      "onboard_time": 1779525742,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 188628,
+      "num": 471687,
+      "word": "诸葛亮吃了两顿十万只箭就够了",
+      "onboard_time": 1779526162,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 186942,
       "num": 2201218,
       "word": "上班被领导兜底的含金量",
@@ -1025,14 +1081,6 @@
       "onboard_time": 1779493640,
       "rank": 17,
       "category": "财经"
-    },
-    {
-      "raw_hot": 176221,
-      "num": 504313,
-      "word": "水蚁泛滥",
-      "onboard_time": 1779523944,
-      "rank": 34,
-      "category": "情感"
     },
     {
       "raw_hot": 175210,
@@ -1059,14 +1107,6 @@
       "category": "议题讨论"
     },
     {
-      "raw_hot": 166174,
-      "num": 501531,
-      "word": "谁家酒店在门口放个游泳池",
-      "onboard_time": 1779525742,
-      "rank": 35,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 165793,
       "num": 561494,
       "word": "贺峻霖宋亚轩十年前就住一起",
@@ -1089,14 +1129,6 @@
       "onboard_time": 1779520882,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 160924,
-      "num": 492968,
-      "word": "2026王者荣耀挑战者杯决赛",
-      "onboard_time": 1779526882,
-      "rank": 38,
-      "category": "电竞"
     },
     {
       "raw_hot": 159136,
@@ -1179,14 +1211,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 134193,
-      "num": 471687,
-      "word": "诸葛亮吃了两顿十万只箭就够了",
-      "onboard_time": 1779526162,
-      "rank": 45,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 132119,
       "num": 519051,
       "word": "美军F16击落神秘物体",
@@ -1257,6 +1281,14 @@
       "onboard_time": 1779458545,
       "rank": 8,
       "category": "财经,互联网"
+    },
+    {
+      "raw_hot": 122113,
+      "num": 508168,
+      "word": "山西留神峪矿井外停满救护车",
+      "onboard_time": 1779527484,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 116258,
@@ -1427,6 +1459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 66711,
+      "num": 488671,
+      "word": "Gemini挑杯决赛预测",
+      "onboard_time": 1779526882,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 63340,
       "num": 450168,
       "word": "山西沁源煤矿事故事发时中班下矿",
@@ -1441,6 +1481,14 @@
       "onboard_time": 1779458365,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 60381,
+      "num": 445553,
+      "word": "5胞胎出院父母带烤全羊感谢",
+      "onboard_time": 1779527361,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 58950,
@@ -1483,6 +1531,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 49467,
+      "num": 476182,
+      "word": "巴基斯坦总理抵达杭州",
+      "onboard_time": 1779527784,
+      "rank": 27,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 47992,
       "num": 2058017,
       "word": "伦敦世乒赛46名选手不败",
@@ -1521,14 +1577,6 @@
       "onboard_time": 1779507681,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 40820,
-      "num": 488671,
-      "word": "Gemini挑杯决赛预测",
-      "onboard_time": 1779526882,
-      "rank": 39,
-      "category": "电竞"
     },
     {
       "raw_hot": 39013,
