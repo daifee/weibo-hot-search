@@ -1,6 +1,6 @@
 {
   "startTime": 1779465797561,
-  "endTime": 1779538454637,
+  "endTime": 1779544304287,
   "band_list": [
     {
       "raw_hot": 20596528,
@@ -43,6 +43,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 5254554,
+      "num": 5254554,
+      "word": "狼队战胜AG",
+      "onboard_time": 1779543386,
+      "rank": 0,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 5030301,
       "num": 507190,
       "word": "林一 沈月",
@@ -59,8 +67,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 3363795,
-      "num": 789544,
+      "raw_hot": 3520180,
+      "num": 1228604,
       "word": "沈月工作室 你仅仅是沈月就很好",
       "onboard_time": 1779536482,
       "rank": 3,
@@ -131,6 +139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 2303027,
+      "num": 431179,
+      "word": "伊能静疑似力挺庾澄庆",
+      "onboard_time": 1779543386,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2290333,
       "num": 2290333,
       "word": "留神峪煤矿事故知情矿工发声",
@@ -171,6 +187,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1516517,
+      "num": 766179,
+      "word": "AG对战狼队",
+      "onboard_time": 1779525625,
+      "rank": 8,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 1514789,
+      "num": 1628797,
+      "word": "浪姐直播",
+      "onboard_time": 1779535401,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1449221,
       "num": 1449221,
       "word": "曝iPhone18Pro配色大换血",
@@ -185,14 +217,6 @@
       "onboard_time": 1779515663,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1312411,
-      "num": 1312411,
-      "word": "浪姐直播",
-      "onboard_time": 1779535401,
-      "rank": 1,
-      "category": "综艺"
     },
     {
       "raw_hot": 1243243,
@@ -257,6 +281,14 @@
       "onboard_time": 1779461189,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1023412,
+      "num": 1023412,
+      "word": "狼队夺冠",
+      "onboard_time": 1779544044,
+      "rank": 5,
+      "category": "电竞"
     },
     {
       "raw_hot": 1005491,
@@ -379,20 +411,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 679604,
-      "num": 766179,
-      "word": "AG对战狼队",
-      "onboard_time": 1779525625,
-      "rank": 8,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 676725,
       "num": 527746,
       "word": "谢娜回应又被黄灿灿踩裙子了",
       "onboard_time": 1779512904,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 666328,
+      "num": 410133,
+      "word": "窦靖童小时候是王菲的挂件",
+      "onboard_time": 1779542963,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 652309,
@@ -465,6 +497,14 @@
       "onboard_time": 1779508339,
       "rank": 20,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 557529,
+      "num": 557529,
+      "word": "范玮琪没来",
+      "onboard_time": 1779539723,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 555341,
@@ -627,6 +667,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 436304,
+      "num": 501207,
+      "word": "KPL",
+      "onboard_time": 1779537684,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 421617,
+      "num": 405233,
+      "word": "孙怡 节目组把我当歌手用了吗",
+      "onboard_time": 1779542545,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 413743,
       "num": 639025,
       "word": "范丞丞喊李晨老头",
@@ -673,6 +729,14 @@
       "onboard_time": 1779493759,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 377950,
+      "num": 400138,
+      "word": "张月好适合野心家",
+      "onboard_time": 1779541103,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 376458,
@@ -963,6 +1027,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 259621,
+      "num": 390592,
+      "word": "王濛短道速滑 也许放弃才能靠近你",
+      "onboard_time": 1779541044,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 258331,
       "num": 610376,
       "word": "交警回应时速不到60被抓拍121",
@@ -1009,14 +1081,6 @@
       "onboard_time": 1779511823,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 243653,
-      "num": 501207,
-      "word": "KPL",
-      "onboard_time": 1779537684,
-      "rank": 39,
-      "category": "电竞"
     },
     {
       "raw_hot": 242827,
@@ -1131,6 +1195,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 212412,
+      "num": 377706,
+      "word": "浪姐这不是会选歌吗",
+      "onboard_time": 1779543624,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 210160,
       "num": 504313,
       "word": "水蚁泛滥",
@@ -1195,6 +1267,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 202452,
+      "num": 376083,
+      "word": "宋亚轩唱值了",
+      "onboard_time": 1779538643,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 201537,
       "num": 558315,
       "word": "吴彤为宋亚轩投入了最高版权",
@@ -1225,6 +1305,22 @@
       "onboard_time": 1779506301,
       "rank": 35,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 196568,
+      "num": 622124,
+      "word": "一诺射手开团",
+      "onboard_time": 1779528744,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 192135,
+      "num": 434078,
+      "word": "留神峪矿工说跑了2小时才出来",
+      "onboard_time": 1779539844,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 191678,
@@ -1259,20 +1355,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 184314,
+      "num": 367913,
+      "word": "王濛pk萧蔷",
+      "onboard_time": 1779539783,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 183960,
       "num": 674557,
       "word": "美联储预期加息25个基点",
       "onboard_time": 1779493640,
       "rank": 17,
       "category": "财经"
-    },
-    {
-      "raw_hot": 177822,
-      "num": 622124,
-      "word": "一诺射手开团",
-      "onboard_time": 1779528744,
-      "rank": 44,
-      "category": "电竞"
     },
     {
       "raw_hot": 175210,
@@ -1419,6 +1515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 137881,
+      "num": 351152,
+      "word": "成龙是有什么把柄在吴彤手上吗",
+      "onboard_time": 1779539063,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 137474,
       "num": 388528,
       "word": "李家超感谢国家给予香港宝贵机会",
@@ -1457,6 +1561,14 @@
       "onboard_time": 1779519863,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 126302,
+      "num": 408617,
+      "word": "留神峪煤矿给出的图纸与实际不符",
+      "onboard_time": 1779543926,
+      "rank": 21,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 125034,
@@ -1563,6 +1675,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 104406,
+      "num": 353672,
+      "word": "东北超",
+      "onboard_time": 1779539303,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 103153,
       "num": 1778308,
       "word": "iPhone哪个材质手感最好",
@@ -1627,6 +1747,14 @@
       "category": "财经,互联网"
     },
     {
+      "raw_hot": 88629,
+      "num": 1339068,
+      "word": "新一轮强降雨今晚上线",
+      "onboard_time": 1779540142,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 85950,
       "num": 246655,
       "word": "赵睿微笑",
@@ -1660,7 +1788,7 @@
     },
     {
       "raw_hot": 76260,
-      "num": 323873,
+      "num": 359832,
       "word": "十万级智能纯电轿跑新高度",
       "onboard_time": 1779531385,
       "rank": 29,
@@ -1819,6 +1947,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 47085,
+      "num": 372694,
+      "word": "萧蔷开口跪",
+      "onboard_time": 1779543744,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 46763,
       "num": 2174704,
       "word": "证监会拟对老虎富途长桥严厉处罚",
@@ -1939,6 +2075,22 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 17944,
+      "num": 369741,
+      "word": "范丞丞让尤长靖学那英",
+      "onboard_time": 1779544165,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 17404,
+      "num": 416498,
+      "word": "老师讲台晕倒学生瞬间冲了上去",
+      "onboard_time": 1779543505,
+      "rank": 17,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 15845,
       "num": 340877,
       "word": "国务院工作组赴广西柳州震区",
@@ -1953,6 +2105,14 @@
       "onboard_time": 1779532823,
       "rank": 16,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 14748,
+      "num": 413196,
+      "word": "同一天274人扎堆登顶珠峰破纪录",
+      "onboard_time": 1779543505,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 10840,

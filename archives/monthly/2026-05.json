@@ -1,6 +1,6 @@
 {
   "startTime": 1777565126834,
-  "endTime": 1779538454637,
+  "endTime": 1779544304287,
   "band_list": [
     {
       "raw_hot": 28198949,
@@ -323,6 +323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 5254554,
+      "num": 5254554,
+      "word": "狼队战胜AG",
+      "onboard_time": 1779543386,
+      "rank": 0,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 5107513,
       "num": 5107513,
       "word": "张雪机车再夺冠军",
@@ -579,6 +587,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 3520180,
+      "num": 1228604,
+      "word": "沈月工作室 你仅仅是沈月就很好",
+      "onboard_time": 1779536482,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 3511859,
       "num": 706969,
       "word": "难听",
@@ -600,14 +616,6 @@
       "word": "歌手首发阵容",
       "onboard_time": 1778908220,
       "rank": 0,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 3363795,
-      "num": 789544,
-      "word": "沈月工作室 你仅仅是沈月就很好",
-      "onboard_time": 1779536482,
-      "rank": 3,
       "category": "综艺"
     },
     {
@@ -1249,6 +1257,14 @@
       "onboard_time": 1779204322,
       "rank": 1,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 2303027,
+      "num": 431179,
+      "word": "伊能静疑似力挺庾澄庆",
+      "onboard_time": 1779543386,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 2302381,
@@ -2505,6 +2521,14 @@
       "onboard_time": 1778414420,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1516517,
+      "num": 766179,
+      "word": "AG对战狼队",
+      "onboard_time": 1779525625,
+      "rank": 8,
+      "category": "电竞"
     },
     {
       "raw_hot": 1514752,
@@ -4313,6 +4337,14 @@
       "onboard_time": 1778400319,
       "rank": 4,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1023412,
+      "num": 1023412,
+      "word": "狼队夺冠",
+      "onboard_time": 1779544044,
+      "rank": 5,
+      "category": "电竞"
     },
     {
       "raw_hot": 1022951,
@@ -7867,14 +7899,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 679604,
-      "num": 766179,
-      "word": "AG对战狼队",
-      "onboard_time": 1779525625,
-      "rank": 8,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 679545,
       "num": 624627,
       "word": "阚清子乍瘦",
@@ -8065,6 +8089,14 @@
       "onboard_time": 1777820122,
       "rank": 13,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 666328,
+      "num": 410133,
+      "word": "窦靖童小时候是王菲的挂件",
+      "onboard_time": 1779542963,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 666057,
@@ -10073,6 +10105,14 @@
       "onboard_time": 1778717060,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 557529,
+      "num": 557529,
+      "word": "范玮琪没来",
+      "onboard_time": 1779539723,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 557054,
@@ -13267,6 +13307,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 436304,
+      "num": 501207,
+      "word": "KPL",
+      "onboard_time": 1777653679,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 436075,
       "num": 415674,
       "word": "DeepSeek崩了",
@@ -13673,6 +13721,14 @@
       "onboard_time": 1778895139,
       "rank": 17,
       "category": "财经"
+    },
+    {
+      "raw_hot": 421617,
+      "num": 405233,
+      "word": "孙怡 节目组把我当歌手用了吗",
+      "onboard_time": 1779542545,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 421517,
@@ -14491,14 +14547,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 397644,
-      "num": 501207,
-      "word": "KPL",
-      "onboard_time": 1777653679,
-      "rank": 35,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 396964,
       "num": 204503,
       "word": "孙颖莎证明自己为何是世界第一",
@@ -15257,6 +15305,14 @@
       "onboard_time": 1778770403,
       "rank": 30,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 377950,
+      "num": 400138,
+      "word": "张月好适合野心家",
+      "onboard_time": 1779541103,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 377781,
@@ -21163,6 +21219,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 259621,
+      "num": 390592,
+      "word": "王濛短道速滑 也许放弃才能靠近你",
+      "onboard_time": 1779541044,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 259599,
       "num": 251485,
       "word": "白鹿自己摔了还不忘扶周洁琼",
@@ -25123,6 +25187,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 212412,
+      "num": 377706,
+      "word": "浪姐这不是会选歌吗",
+      "onboard_time": 1779543624,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 212343,
       "num": 192195,
       "word": "杨紫李祯热度",
@@ -26115,6 +26187,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 202452,
+      "num": 376083,
+      "word": "宋亚轩唱值了",
+      "onboard_time": 1779538643,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 202427,
       "num": 336929,
       "word": "AppleWatch首次加入教育优惠",
@@ -26675,6 +26755,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 196568,
+      "num": 622124,
+      "word": "一诺射手开团",
+      "onboard_time": 1779528744,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 196533,
       "num": 196533,
       "word": "腾讯推出svip云包场",
@@ -27145,6 +27233,14 @@
       "onboard_time": 1777620499,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 192135,
+      "num": 434078,
+      "word": "留神峪矿工说跑了2小时才出来",
+      "onboard_time": 1779539844,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 192108,
@@ -27809,6 +27905,14 @@
       "onboard_time": 1778498000,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 184314,
+      "num": 367913,
+      "word": "王濛pk萧蔷",
+      "onboard_time": 1779539783,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 184253,
@@ -28481,14 +28585,6 @@
       "onboard_time": 1778888478,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 177822,
-      "num": 622124,
-      "word": "一诺射手开团",
-      "onboard_time": 1779528744,
-      "rank": 44,
-      "category": "电竞"
     },
     {
       "raw_hot": 177742,
@@ -32995,6 +33091,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 137881,
+      "num": 351152,
+      "word": "成龙是有什么把柄在吴彤手上吗",
+      "onboard_time": 1779539063,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 137831,
       "num": 137831,
       "word": "全香港都在偶遇陈奕迅",
@@ -34345,6 +34449,14 @@
       "onboard_time": 1777741218,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 126302,
+      "num": 408617,
+      "word": "留神峪煤矿给出的图纸与实际不符",
+      "onboard_time": 1779543926,
+      "rank": 21,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 126093,
@@ -36355,6 +36467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 104406,
+      "num": 353672,
+      "word": "东北超",
+      "onboard_time": 1779539303,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 104282,
       "num": 97220,
       "word": "周深感谢五月天",
@@ -37555,6 +37675,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 88629,
+      "num": 1339068,
+      "word": "新一轮强降雨今晚上线",
+      "onboard_time": 1779540142,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 88534,
       "num": 88534,
       "word": "郭晶晶说爱情比门当户对更重要",
@@ -38580,7 +38708,7 @@
     },
     {
       "raw_hot": 76260,
-      "num": 323873,
+      "num": 359832,
       "word": "十万级智能纯电轿跑新高度",
       "onboard_time": 1779531385,
       "rank": 29,
@@ -41345,6 +41473,14 @@
       "onboard_time": 1779326540,
       "rank": 21,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 47085,
+      "num": 372694,
+      "word": "萧蔷开口跪",
+      "onboard_time": 1779543744,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 46927,
@@ -44795,6 +44931,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 17944,
+      "num": 369741,
+      "word": "范丞丞让尤长靖学那英",
+      "onboard_time": 1779544165,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 17746,
       "num": 230102,
       "word": "中国视频被谬称日本已不止一次",
@@ -44825,6 +44969,14 @@
       "onboard_time": 1779058817,
       "rank": 29,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 17404,
+      "num": 416498,
+      "word": "老师讲台晕倒学生瞬间冲了上去",
+      "onboard_time": 1779543505,
+      "rank": 17,
+      "category": "正能量"
     },
     {
       "raw_hot": 17361,
@@ -45152,6 +45304,14 @@
       "word": "北漂独居青年每月花5000给猫续命",
       "onboard_time": 1778771303,
       "rank": 40,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 14748,
+      "num": 413196,
+      "word": "同一天274人扎堆登顶珠峰破纪录",
+      "onboard_time": 1779543505,
+      "rank": 19,
       "category": "民生新闻"
     },
     {

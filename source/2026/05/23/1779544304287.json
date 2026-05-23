@@ -1,0 +1,410 @@
+{
+  "runTime": 1779544304287,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 5254554,
+        "num": 5254554,
+        "word": "狼队战胜AG",
+        "onboard_time": 1779543386,
+        "rank": 0,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 1514789,
+        "num": 1628797,
+        "word": "浪姐直播",
+        "onboard_time": 1779535401,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 88629,
+        "num": 1339068,
+        "word": "新一轮强降雨今晚上线",
+        "onboard_time": 1779540142,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 3520180,
+        "num": 1228604,
+        "word": "沈月工作室 你仅仅是沈月就很好",
+        "onboard_time": 1779536482,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1118017,
+        "num": 1118017,
+        "word": "山西煤矿事故已致90人死亡",
+        "onboard_time": 1779512784,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1023412,
+        "num": 1023412,
+        "word": "狼队夺冠",
+        "onboard_time": 1779544044,
+        "rank": 5,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 557529,
+        "num": 557529,
+        "word": "范玮琪没来",
+        "onboard_time": 1779539723,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 436304,
+        "num": 436304,
+        "word": "KPL",
+        "onboard_time": 1779537684,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 225041,
+        "num": 436111,
+        "word": "不上班靠一对善良的夫妇救济",
+        "onboard_time": 1779518004,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 192135,
+        "num": 434078,
+        "word": "留神峪矿工说跑了2小时才出来",
+        "onboard_time": 1779539844,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2303027,
+        "num": 431179,
+        "word": "伊能静疑似力挺庾澄庆",
+        "onboard_time": 1779543386,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2021542,
+        "num": 428488,
+        "word": "王鹤棣 拆cp",
+        "onboard_time": 1779523702,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1516517,
+        "num": 426014,
+        "word": "AG对战狼队",
+        "onboard_time": 1779525625,
+        "rank": 12,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 758705,
+        "num": 424303,
+        "word": "棣月系超话头像变黑了",
+        "onboard_time": 1779524302,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185329,
+        "num": 422590,
+        "word": "山西留神峪煤矿内部画面",
+        "onboard_time": 1779522503,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 184949,
+        "num": 420611,
+        "word": "原来吃完虾不能马上运动",
+        "onboard_time": 1779521904,
+        "rank": 15,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 64540,
+        "num": 418530,
+        "word": "AI光算力第一股上市首日暴涨380%",
+        "onboard_time": 1779530661,
+        "rank": 16,
+        "category": "财经,互联网"
+      },
+      {
+        "raw_hot": 17404,
+        "num": 416498,
+        "word": "老师讲台晕倒学生瞬间冲了上去",
+        "onboard_time": 1779543505,
+        "rank": 17,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 1177564,
+        "num": 414874,
+        "word": "沈月向王鹤棣道歉",
+        "onboard_time": 1779501203,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 14748,
+        "num": 413196,
+        "word": "同一天274人扎堆登顶珠峰破纪录",
+        "onboard_time": 1779543505,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 666328,
+        "num": 410133,
+        "word": "窦靖童小时候是王菲的挂件",
+        "onboard_time": 1779542963,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126302,
+        "num": 408617,
+        "word": "留神峪煤矿给出的图纸与实际不符",
+        "onboard_time": 1779543926,
+        "rank": 21,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 497905,
+        "num": 406014,
+        "word": "女子住院被朋友殴打昏迷数天后死亡",
+        "onboard_time": 1779525023,
+        "rank": 22,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 421617,
+        "num": 405233,
+        "word": "孙怡 节目组把我当歌手用了吗",
+        "onboard_time": 1779542545,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 386914,
+        "num": 401378,
+        "word": "山西事故煤矿矿工晕倒一个多小时",
+        "onboard_time": 1779522264,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 377950,
+        "num": 400138,
+        "word": "张月好适合野心家",
+        "onboard_time": 1779541103,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 324330,
+        "num": 398254,
+        "word": "山西煤矿爆炸点附近出现积水",
+        "onboard_time": 1779533543,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 208315,
+        "num": 396461,
+        "word": "iPhone20渲染视频",
+        "onboard_time": 1779524661,
+        "rank": 27,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 304252,
+        "num": 393425,
+        "word": "魏晨带儿子逛超市",
+        "onboard_time": 1779535702,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196534,
+        "num": 391171,
+        "word": "男子忘记池里有鱼一年后瘦成蝌蚪",
+        "onboard_time": 1779527723,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 259621,
+        "num": 390592,
+        "word": "王濛短道速滑 也许放弃才能靠近你",
+        "onboard_time": 1779541044,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 238778,
+        "num": 386882,
+        "word": "易烊千玺给王源演唱会送花篮了",
+        "onboard_time": 1779523103,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 196568,
+        "num": 385719,
+        "word": "一诺射手开团",
+        "onboard_time": 1779528744,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 219638,
+        "num": 383298,
+        "word": "庾澄庆格局",
+        "onboard_time": 1779523404,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 216504,
+        "num": 381146,
+        "word": "丁程鑫误入巨人国",
+        "onboard_time": 1779532462,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161830,
+        "num": 380537,
+        "word": "孕妻脑梗变3岁丈夫900多天不离不弃",
+        "onboard_time": 1779531203,
+        "rank": 35,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 212412,
+        "num": 377706,
+        "word": "浪姐这不是会选歌吗",
+        "onboard_time": 1779543624,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202452,
+        "num": 376083,
+        "word": "宋亚轩唱值了",
+        "onboard_time": 1779538643,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 47085,
+        "num": 372694,
+        "word": "萧蔷开口跪",
+        "onboard_time": 1779543744,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149723,
+        "num": 372098,
+        "word": "感情里有一个最微妙的悖论",
+        "onboard_time": 1779521242,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 17944,
+        "num": 369741,
+        "word": "范丞丞让尤长靖学那英",
+        "onboard_time": 1779544165,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184314,
+        "num": 367913,
+        "word": "王濛pk萧蔷",
+        "onboard_time": 1779539783,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110131,
+        "num": 364957,
+        "word": "小狗护主中弹三次手术后出院",
+        "onboard_time": 1779529044,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 170303,
+        "num": 362751,
+        "word": "蒋毅老婆起诉赵樱子",
+        "onboard_time": 1779534803,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162439,
+        "num": 361143,
+        "word": "ally打肉毒导致脸部僵硬",
+        "onboard_time": 1779533183,
+        "rank": 44,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 44610,
+        "num": 359832,
+        "word": "十万级智能纯电轿跑新高度",
+        "onboard_time": 1779531385,
+        "rank": 45,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 15272,
+        "num": 356712,
+        "word": "红旗金葵花携国宝非遗绽放蓉城",
+        "onboard_time": 1779526162,
+        "rank": 46,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 141535,
+        "num": 354111,
+        "word": "杨紫玉兰花开君再来杀青合照",
+        "onboard_time": 1779536303,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104406,
+        "num": 353672,
+        "word": "东北超",
+        "onboard_time": 1779539303,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137881,
+        "num": 351152,
+        "word": "成龙是有什么把柄在吴彤手上吗",
+        "onboard_time": 1779539063,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#全力救治伤员科学组织搜救#"
+    }
+  }
+}

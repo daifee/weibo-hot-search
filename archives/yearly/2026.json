@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1779538454637,
+  "endTime": 1779544304287,
   "band_list": [
     {
       "raw_hot": 46860992,
@@ -1147,6 +1147,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 5254554,
+      "num": 5254554,
+      "word": "狼队战胜AG",
+      "onboard_time": 1774100963,
+      "rank": 4,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 5157492,
       "num": 5157492,
       "word": "苏翊鸣金牌",
@@ -1827,6 +1835,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 3520180,
+      "num": 1228604,
+      "word": "沈月工作室 你仅仅是沈月就很好",
+      "onboard_time": 1779536482,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 3512092,
       "num": 3512092,
       "word": "浪姐直播 对口型",
@@ -1969,14 +1985,6 @@
       "onboard_time": 1769996779,
       "rank": 10,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 3363795,
-      "num": 789544,
-      "word": "沈月工作室 你仅仅是沈月就很好",
-      "onboard_time": 1779536482,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 3348414,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1779105379,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 2932923,
-      "num": 2932923,
-      "word": "新年贺词",
-      "onboard_time": 1767177980,
-      "rank": 0,
-      "category": "国内时政"
     }
   ],
   "hotgov_list": [
