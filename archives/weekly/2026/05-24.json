@@ -1,6 +1,6 @@
 {
   "startTime": 1779556240361,
-  "endTime": 1779570944484,
+  "endTime": 1779573918030,
   "band_list": [
     {
       "raw_hot": 1292397,
@@ -193,6 +193,14 @@
       "onboard_time": 1779549624,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 201962,
+      "num": 66052,
+      "word": "山西煤矿爆炸事故进展",
+      "onboard_time": 1779569834,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 193720,
@@ -395,14 +403,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 62556,
-      "num": 41864,
-      "word": "山西煤矿爆炸事故进展",
-      "onboard_time": 1779569834,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 62425,
       "num": 383816,
       "word": "成龙是有什么把柄在吴彤手上吗",
@@ -411,20 +411,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 61402,
+      "num": 101188,
+      "word": "香港航天员黎家盈",
+      "onboard_time": 1779562215,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 57485,
       "num": 382286,
       "word": "紫幻双冠中单",
       "onboard_time": 1779547468,
       "rank": 49,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 52237,
-      "num": 101188,
-      "word": "香港航天员黎家盈",
-      "onboard_time": 1779562215,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 46421,
@@ -460,11 +460,19 @@
     },
     {
       "raw_hot": 30456,
-      "num": 37409,
+      "num": 59334,
       "word": "汪苏泷跳了三次误闯天家",
       "onboard_time": 1779567074,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 28265,
+      "num": 59404,
+      "word": "神舟二十三号出征",
+      "onboard_time": 1779570914,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 27804,
@@ -476,7 +484,7 @@
     },
     {
       "raw_hot": 22177,
-      "num": 36119,
+      "num": 59224,
       "word": "救援人员扛水管进留神峪煤矿",
       "onboard_time": 1779570794,
       "rank": 40,
@@ -491,12 +499,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 17081,
-      "num": 35466,
-      "word": "神舟二十三号出征",
-      "onboard_time": 1779570914,
-      "rank": 49,
-      "category": "民生新闻"
+      "raw_hot": 20039,
+      "num": 59247,
+      "word": "留神峪煤矿事故最新进展",
+      "onboard_time": 1779567974,
+      "rank": 45,
+      "category": "民生新闻,国内时政"
     }
   ],
   "hotgov_list": [
