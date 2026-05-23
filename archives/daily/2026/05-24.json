@@ -1,7 +1,15 @@
 {
   "startTime": 1779556240361,
-  "endTime": 1779574583391,
+  "endTime": 1779579052751,
   "band_list": [
+    {
+      "raw_hot": 2611827,
+      "num": 239075,
+      "word": "王鹤棣",
+      "onboard_time": 1779578717,
+      "rank": 10,
+      "category": "艺人"
+    },
     {
       "raw_hot": 1292397,
       "num": 534856,
@@ -28,11 +36,19 @@
     },
     {
       "raw_hot": 832364,
-      "num": 576236,
+      "num": 864199,
       "word": "留神峪煤矿事故82人遇难",
       "onboard_time": 1779551124,
       "rank": 4,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 717509,
+      "num": 717509,
+      "word": "王鹤棣对徐志胜的态度",
+      "onboard_time": 1779562936,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 650431,
@@ -72,6 +88,22 @@
       "word": "郭本尼唯爱孙怡",
       "onboard_time": 1779553102,
       "rank": 14,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 468743,
+      "num": 238140,
+      "word": "李登科声援沈月",
+      "onboard_time": 1779549266,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 457629,
+      "num": 246339,
+      "word": "沈月工作室 你仅仅是沈月就很好",
+      "onboard_time": 1779536482,
+      "rank": 5,
       "category": "综艺"
     },
     {
@@ -131,12 +163,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 339045,
-      "num": 200258,
-      "word": "王鹤棣对徐志胜的态度",
-      "onboard_time": 1779562936,
-      "rank": 3,
-      "category": "综艺"
+      "raw_hot": 317156,
+      "num": 240662,
+      "word": "山西煤矿爆炸事故进展",
+      "onboard_time": 1779569834,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 315764,
@@ -169,14 +201,6 @@
       "onboard_time": 1779541044,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 232924,
-      "num": 89074,
-      "word": "山西煤矿爆炸事故进展",
-      "onboard_time": 1779569834,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 216186,
@@ -283,6 +307,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 119293,
+      "num": 742068,
+      "word": "香港航天员黎家盈",
+      "onboard_time": 1779562215,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 108381,
+      "num": 223842,
+      "word": "在泳池游泳一定要学会踩水",
+      "onboard_time": 1779577155,
+      "rank": 23,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 106252,
       "num": 404751,
       "word": "浪姐 制造悬念",
@@ -300,7 +340,7 @@
     },
     {
       "raw_hot": 103132,
-      "num": 180603,
+      "num": 212948,
       "word": "航司取消航班 无赔偿",
       "onboard_time": 1779558317,
       "rank": 7,
@@ -379,14 +419,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 68368,
-      "num": 101188,
-      "word": "香港航天员黎家盈",
-      "onboard_time": 1779562215,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 68191,
       "num": 387664,
       "word": "张杰唱的是天下也是归途",
@@ -419,12 +451,52 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 60292,
+      "num": 225204,
+      "word": "信钟馗FMVP皮肤",
+      "onboard_time": 1779577696,
+      "rank": 22,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 57485,
       "num": 382286,
       "word": "紫幻双冠中单",
       "onboard_time": 1779547468,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 55936,
+      "num": 231712,
+      "word": "神舟二十三号出征",
+      "onboard_time": 1779570914,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 55201,
+      "num": 211693,
+      "word": "孕妻脑梗变3岁当事人3年后新变化",
+      "onboard_time": 1779558917,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 51461,
+      "num": 241651,
+      "word": "F1",
+      "onboard_time": 1779578717,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 47476,
+      "num": 209390,
+      "word": "救援人员扛水管进留神峪煤矿",
+      "onboard_time": 1779570794,
+      "rank": 40,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 46421,
@@ -435,19 +507,19 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 34165,
-      "num": 92373,
-      "word": "孕妻脑梗变3岁当事人3年后新变化",
-      "onboard_time": 1779558917,
-      "rank": 41,
-      "category": "民生新闻"
+      "raw_hot": 37551,
+      "num": 229710,
+      "word": "北京国安1比2不敌河南队",
+      "onboard_time": 1779577219,
+      "rank": 18,
+      "category": "体育"
     },
     {
-      "raw_hot": 31454,
-      "num": 59404,
-      "word": "神舟二十三号出征",
-      "onboard_time": 1779570914,
-      "rank": 49,
+      "raw_hot": 31750,
+      "num": 726930,
+      "word": "中国硬核实力又刷屏了",
+      "onboard_time": 1779539963,
+      "rank": 2,
       "category": "民生新闻"
     },
     {
@@ -467,6 +539,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 30911,
+      "num": 198935,
+      "word": "李在明与文在寅出席卢武铉追悼会",
+      "onboard_time": 1779577578,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 30456,
       "num": 59334,
       "word": "汪苏泷跳了三次误闯天家",
@@ -483,19 +563,11 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 27153,
-      "num": 59224,
-      "word": "救援人员扛水管进留神峪煤矿",
-      "onboard_time": 1779570794,
-      "rank": 40,
-      "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 20582,
-      "num": 577380,
-      "word": "中国硬核实力又刷屏了",
-      "onboard_time": 1779539963,
-      "rank": 2,
+      "raw_hot": 25264,
+      "num": 216076,
+      "word": "租客退租后满屋垃圾留下瘦狗",
+      "onboard_time": 1779577758,
+      "rank": 30,
       "category": "民生新闻"
     },
     {
@@ -505,6 +577,14 @@
       "onboard_time": 1779567974,
       "rank": 45,
       "category": "民生新闻,国内时政"
+    },
+    {
+      "raw_hot": 18184,
+      "num": 197710,
+      "word": "神二十三航天员公布",
+      "onboard_time": 1779578296,
+      "rank": 46,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
