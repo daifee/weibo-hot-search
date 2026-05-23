@@ -1,6 +1,6 @@
 {
   "startTime": 1779465797561,
-  "endTime": 1779518463867,
+  "endTime": 1779520547309,
   "band_list": [
     {
       "raw_hot": 20596528,
@@ -27,8 +27,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 7323645,
-      "num": 7323645,
+      "raw_hot": 9761642,
+      "num": 9761642,
       "word": "山西煤矿事故已致90人死亡",
       "onboard_time": 1779512784,
       "rank": 0,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 2525642,
-      "num": 1148379,
+      "num": 1331605,
       "word": "吴泽林语气",
       "onboard_time": 1779502703,
       "rank": 5,
@@ -115,8 +115,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1544396,
-      "num": 1544396,
+      "raw_hot": 1613826,
+      "num": 1613826,
       "word": "手机点单 举报抽烟",
       "onboard_time": 1779517044,
       "rank": 4,
@@ -259,6 +259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 676725,
+      "num": 521610,
+      "word": "谢娜回应又被黄灿灿踩裙子了",
+      "onboard_time": 1779512904,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 620775,
       "num": 679740,
       "word": "山西煤矿事故造成重大人员伤亡",
@@ -267,19 +275,19 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 593620,
+      "num": 2139344,
+      "word": "留神峪煤矿事故企业负责人被控制",
+      "onboard_time": 1779509721,
+      "rank": 40,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 591847,
       "num": 591847,
       "word": "浪姐票数 等差数列",
       "onboard_time": 1779466461,
       "rank": 16,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 569511,
-      "num": 521610,
-      "word": "谢娜回应又被黄灿灿踩裙子了",
-      "onboard_time": 1779512904,
-      "rank": 14,
       "category": "综艺"
     },
     {
@@ -411,20 +419,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 459413,
+      "num": 508955,
+      "word": "申请美国绿卡须返回原籍国提申请",
+      "onboard_time": 1779516984,
+      "rank": 18,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 439990,
+      "num": 487506,
+      "word": "山西煤矿事故伤者主要因有毒气体",
+      "onboard_time": 1779516984,
+      "rank": 27,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 437333,
       "num": 1869859,
       "word": "窦颖给窦靖童和声",
       "onboard_time": 1779462805,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 435971,
-      "num": 584814,
-      "word": "留神峪煤矿事故企业负责人被控制",
-      "onboard_time": 1779509721,
-      "rank": 40,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 413743,
@@ -459,6 +475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 383899,
+      "num": 457488,
+      "word": "不上班靠一对善良的夫妇救济",
+      "onboard_time": 1779518004,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 382646,
       "num": 624216,
       "word": "曝红果短剧收益断崖式下跌",
@@ -473,6 +497,14 @@
       "onboard_time": 1779449900,
       "rank": 4,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 365771,
+      "num": 538690,
+      "word": "孙亚龙买了两万克黄金",
+      "onboard_time": 1779516684,
+      "rank": 7,
+      "category": "游戏"
     },
     {
       "raw_hot": 362695,
@@ -547,6 +579,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 330283,
+      "num": 469029,
+      "word": "惠英红 假装来谈几百亿的大项目",
+      "onboard_time": 1779516684,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 327356,
       "num": 430519,
       "word": "庾澄庆合伙人 什么玩意儿",
@@ -571,12 +611,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 323175,
-      "num": 538690,
-      "word": "孙亚龙买了两万克黄金",
-      "onboard_time": 1779516684,
-      "rank": 7,
-      "category": "游戏"
+      "raw_hot": 325070,
+      "num": 465173,
+      "word": "赵又廷这么发高圆圆知道吗",
+      "onboard_time": 1779518185,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 322304,
+      "num": 462131,
+      "word": "小澈瘦了好多",
+      "onboard_time": 1779517044,
+      "rank": 37,
+      "category": "网红"
     },
     {
       "raw_hot": 321555,
@@ -667,22 +715,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 265769,
-      "num": 487506,
-      "word": "山西煤矿事故伤者主要因有毒气体",
-      "onboard_time": 1779516984,
-      "rank": 27,
-      "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 264239,
-      "num": 508955,
-      "word": "申请美国绿卡须返回原籍国提申请",
-      "onboard_time": 1779516984,
-      "rank": 18,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 258331,
       "num": 610376,
       "word": "交警回应时速不到60被抓拍121",
@@ -697,6 +729,14 @@
       "onboard_time": 1779516205,
       "rank": 29,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 250514,
+      "num": 403173,
+      "word": "刘耀文让于洋少说宋亚轩两句",
+      "onboard_time": 1779518542,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 245687,
@@ -731,14 +771,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 234841,
-      "num": 469029,
-      "word": "惠英红 假装来谈几百亿的大项目",
-      "onboard_time": 1779516684,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 234673,
       "num": 692107,
       "word": "雷霆2比1马刺",
@@ -771,14 +803,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 226831,
-      "num": 465173,
-      "word": "赵又廷这么发高圆圆知道吗",
-      "onboard_time": 1779518185,
-      "rank": 35,
-      "category": "电影"
-    },
-    {
       "raw_hot": 225949,
       "num": 572468,
       "word": "巴基斯坦航天员将执行短期飞行任务",
@@ -787,12 +811,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 217645,
-      "num": 462131,
-      "word": "小澈瘦了好多",
-      "onboard_time": 1779517044,
-      "rank": 37,
-      "category": "网红"
+      "raw_hot": 224222,
+      "num": 396288,
+      "word": "儿子在学校被打复旦教授是怎么处理的",
+      "onboard_time": 1779519025,
+      "rank": 36,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 212810,
@@ -817,14 +841,6 @@
       "onboard_time": 1779468620,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 207557,
-      "num": 457488,
-      "word": "不上班靠一对善良的夫妇救济",
-      "onboard_time": 1779518004,
-      "rank": 38,
-      "category": "情感"
     },
     {
       "raw_hot": 206472,
@@ -915,6 +931,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 155974,
+      "num": 406869,
+      "word": "山西发生事故煤矿为高瓦斯矿井",
+      "onboard_time": 1779519262,
+      "rank": 31,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 154847,
       "num": 626165,
       "word": "联想集团暴涨",
@@ -987,6 +1011,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 127500,
+      "num": 454549,
+      "word": "留神峪煤矿事故123人送医",
+      "onboard_time": 1779519863,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 125034,
       "num": 260320,
       "word": "齐豫开净化了",
@@ -1003,8 +1035,16 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 123766,
+      "num": 385736,
+      "word": "严浩翔将缺席下一期西游录制",
+      "onboard_time": 1779520403,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 123505,
-      "num": 379540,
+      "num": 1719417,
       "word": "神23航天员乘组公布",
       "onboard_time": 1779498619,
       "rank": 47,
@@ -1025,6 +1065,14 @@
       "onboard_time": 1779491178,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 115229,
+      "num": 436530,
+      "word": "美军F16击落神秘物体",
+      "onboard_time": 1779515903,
+      "rank": 46,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 110790,
@@ -1059,14 +1107,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 105785,
-      "num": 436530,
-      "word": "美军F16击落神秘物体",
-      "onboard_time": 1779515903,
-      "rank": 46,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 105606,
       "num": 2103796,
       "word": "上海男篮3比1北京男篮",
@@ -1097,6 +1137,14 @@
       "onboard_time": 1779454761,
       "rank": 29,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 101177,
+      "num": 374389,
+      "word": "白酒退市第一股被终止上市",
+      "onboard_time": 1779519203,
+      "rank": 46,
+      "category": "财经"
     },
     {
       "raw_hot": 100996,
@@ -1201,6 +1249,14 @@
       "onboard_time": 1779458365,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 58950,
+      "num": 369664,
+      "word": "提升幸福感的100件小物",
+      "onboard_time": 1779519382,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 56899,
@@ -1337,6 +1393,14 @@
       "onboard_time": 1779462205,
       "rank": 46,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 10075,
+      "num": 433306,
+      "word": "论文防AI不能变成荒诞的黑色幽默",
+      "onboard_time": 1779519684,
+      "rank": 19,
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 6115,

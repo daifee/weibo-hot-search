@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/05/23 14:41:03
+本榜单时间：2026/01/01 00:35:36 ~ 2026/05/23 15:15:47
 </p>
 </blockquote>
 <p>
@@ -447,6 +447,12 @@ iPhone17Pro降价2000（热度：15057331）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E8%A5%BF%E7%85%A4%E7%9F%BF%E4%BA%8B%E6%95%85%E5%B7%B2%E8%87%B490%E4%BA%BA%E6%AD%BB%E4%BA%A1%23" target="weibo">
+山西煤矿事故已致90人死亡（热度：9761642）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%AA%E5%8F%91%E7%8E%B0%E9%9E%A0%E5%A9%A7%E7%A5%8E%E6%B6%89%E7%A8%8E%E9%97%AE%E9%A2%98%23" target="weibo">
 未发现鞠婧祎涉税问题（热度：9720060）
 </a>
@@ -671,12 +677,6 @@ iPhone17Pro降价2000（热度：15057331）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23487%E7%A7%92%E5%88%A0%23" target="weibo">
 487秒删（热度：7482738）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E8%A5%BF%E7%85%A4%E7%9F%BF%E4%BA%8B%E6%95%85%E5%B7%B2%E8%87%B490%E4%BA%BA%E6%AD%BB%E4%BA%A1%23" target="weibo">
-山西煤矿事故已致90人死亡（热度：7323645）
 </a>
 </li>
 

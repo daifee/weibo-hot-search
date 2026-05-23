@@ -1,0 +1,410 @@
+{
+  "runTime": 1779520547309,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 9761642,
+        "num": 9761642,
+        "word": "山西煤矿事故已致90人死亡",
+        "onboard_time": 1779512784,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 593620,
+        "num": 2139344,
+        "word": "留神峪煤矿事故企业负责人被控制",
+        "onboard_time": 1779509721,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 83957,
+        "num": 1719417,
+        "word": "神23航天员乘组公布",
+        "onboard_time": 1779498619,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 3337366,
+        "num": 1706218,
+        "word": "沈月向王鹤棣道歉",
+        "onboard_time": 1779501203,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1613826,
+        "num": 1613826,
+        "word": "手机点单 举报抽烟",
+        "onboard_time": 1779517044,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1331605,
+        "num": 1331605,
+        "word": "吴泽林语气",
+        "onboard_time": 1779502703,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 459413,
+        "num": 459413,
+        "word": "申请美国绿卡须返回原籍国提申请",
+        "onboard_time": 1779516984,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 365771,
+        "num": 458622,
+        "word": "孙亚龙买了两万克黄金",
+        "onboard_time": 1779516684,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 310421,
+        "num": 456783,
+        "word": "原来十年前的拼豆长这样",
+        "onboard_time": 1779503962,
+        "rank": 8,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 127500,
+        "num": 454549,
+        "word": "留神峪煤矿事故123人送医",
+        "onboard_time": 1779519863,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14023954,
+        "num": 14023954,
+        "word": "王鹤棣回旋镖",
+        "onboard_time": 1779510622,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 439990,
+        "num": 449547,
+        "word": "山西煤矿事故伤者主要因有毒气体",
+        "onboard_time": 1779516984,
+        "rank": 11,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 2529127,
+        "num": 446728,
+        "word": "曝沈月小群不是录制期间那个",
+        "onboard_time": 1779509602,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1088138,
+        "num": 445552,
+        "word": "明星看粉丝分析",
+        "onboard_time": 1779515663,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 386875,
+        "num": 443891,
+        "word": "夏天 苍蝇卵",
+        "onboard_time": 1779508339,
+        "rank": 14,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 676725,
+        "num": 440953,
+        "word": "谢娜回应又被黄灿灿踩裙子了",
+        "onboard_time": 1779512904,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 432446,
+        "num": 439432,
+        "word": "棣月系粉丝现状",
+        "onboard_time": 1779505042,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 383899,
+        "num": 436916,
+        "word": "不上班靠一对善良的夫妇救济",
+        "onboard_time": 1779518004,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 516443,
+        "num": 435469,
+        "word": "棣月系be了",
+        "onboard_time": 1779503062,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 10075,
+        "num": 433306,
+        "word": "论文防AI不能变成荒诞的黑色幽默",
+        "onboard_time": 1779519684,
+        "rank": 19,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 467787,
+        "num": 430157,
+        "word": "曝iPhone18Pro配色大换血",
+        "onboard_time": 1779503303,
+        "rank": 20,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 405330,
+        "num": 426982,
+        "word": "曾沛慈非常不满意自己的表现",
+        "onboard_time": 1779514884,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 382414,
+        "num": 425543,
+        "word": "范丞丞喊李晨老头",
+        "onboard_time": 1779508762,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 306196,
+        "num": 423357,
+        "word": "山西大同地震",
+        "onboard_time": 1779513803,
+        "rank": 23,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 330283,
+        "num": 421283,
+        "word": "惠英红 假装来谈几百亿的大项目",
+        "onboard_time": 1779516684,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 325070,
+        "num": 419062,
+        "word": "赵又廷这么发高圆圆知道吗",
+        "onboard_time": 1779518185,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 302815,
+        "num": 417288,
+        "word": "老板一个滚字赔了员工近16万元",
+        "onboard_time": 1779504742,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179723,
+        "num": 415140,
+        "word": "马刺雷霆打架",
+        "onboard_time": 1779505282,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115229,
+        "num": 412387,
+        "word": "美军F16击落神秘物体",
+        "onboard_time": 1779515903,
+        "rank": 28,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 322304,
+        "num": 410638,
+        "word": "小澈瘦了好多",
+        "onboard_time": 1779517044,
+        "rank": 29,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 296443,
+        "num": 407934,
+        "word": "山西煤矿事故造成重大人员伤亡",
+        "onboard_time": 1779503062,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155974,
+        "num": 406869,
+        "word": "山西发生事故煤矿为高瓦斯矿井",
+        "onboard_time": 1779519262,
+        "rank": 31,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 250514,
+        "num": 403173,
+        "word": "刘耀文让于洋少说宋亚轩两句",
+        "onboard_time": 1779518542,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 248280,
+        "num": 402268,
+        "word": "侯宇发长文",
+        "onboard_time": 1779510622,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 236460,
+        "num": 400880,
+        "word": "留神峪煤矿事故救援画面",
+        "onboard_time": 1779516205,
+        "rank": 34,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 225357,
+        "num": 397428,
+        "word": "包上恩24岁是公主",
+        "onboard_time": 1779510203,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 224222,
+        "num": 396288,
+        "word": "儿子在学校被打复旦教授是怎么处理的",
+        "onboard_time": 1779519025,
+        "rank": 36,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 191180,
+        "num": 393917,
+        "word": "当我在重要的日子化妆打扮",
+        "onboard_time": 1779512304,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 186720,
+        "num": 390195,
+        "word": "史上颜值巅峰iPhone要来了",
+        "onboard_time": 1779496821,
+        "rank": 38,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 172151,
+        "num": 388149,
+        "word": "李若彤回应未婚无子人生不完整",
+        "onboard_time": 1779511823,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166408,
+        "num": 386655,
+        "word": "被骂后选择离家出走的狗狗",
+        "onboard_time": 1779515125,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 123766,
+        "num": 385736,
+        "word": "严浩翔将缺席下一期西游录制",
+        "onboard_time": 1779520403,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164671,
+        "num": 383612,
+        "word": "带薪健身",
+        "onboard_time": 1779513385,
+        "rank": 42,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 158237,
+        "num": 379474,
+        "word": "4名在泰失联中国公民已被找到",
+        "onboard_time": 1779509361,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126684,
+        "num": 377549,
+        "word": "Uzi回应送老婆贵重礼物",
+        "onboard_time": 1779506301,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 120775,
+        "num": 374971,
+        "word": "洛克王国世界",
+        "onboard_time": 1779498741,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 101177,
+        "num": 374389,
+        "word": "白酒退市第一股被终止上市",
+        "onboard_time": 1779519203,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 145380,
+        "num": 372191,
+        "word": "庾澄庆 春泥",
+        "onboard_time": 1779499700,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 58950,
+        "num": 369664,
+        "word": "提升幸福感的100件小物",
+        "onboard_time": 1779519382,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 137966,
+        "num": 367029,
+        "word": "交警回应时速不到60被抓拍121",
+        "onboard_time": 1779503903,
+        "rank": 49,
+        "category": "舆论监督"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平对山西煤矿事故作出重要指示#"
+    }
+  }
+}
