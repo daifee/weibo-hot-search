@@ -1,0 +1,410 @@
+{
+  "runTime": 1779570944484,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 162651,
+        "num": 162651,
+        "word": "留神峪煤矿事故82人遇难",
+        "onboard_time": 1779551124,
+        "rank": 0,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 138150,
+        "num": 138150,
+        "word": "不许再霸凌自己了",
+        "onboard_time": 1779546024,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 11546,
+        "num": 104765,
+        "word": "中国硬核实力又刷屏了",
+        "onboard_time": 1779539963,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 261156,
+        "num": 103176,
+        "word": "王鹤棣对徐志胜的态度",
+        "onboard_time": 1779562936,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 98603,
+        "num": 98603,
+        "word": "孙怡看到曾沛慈票数的表情",
+        "onboard_time": 1779547526,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 79418,
+        "num": 79418,
+        "word": "我要的是闺女不是大学生",
+        "onboard_time": 1779546085,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 78045,
+        "num": 78045,
+        "word": "留神峪煤矿有重大违法行为",
+        "onboard_time": 1779547826,
+        "rank": 6,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 57251,
+        "num": 57251,
+        "word": "浪姐最合理的一次",
+        "onboard_time": 1779550523,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 54564,
+        "num": 54564,
+        "word": "留神峪煤矿企业对作业人数统计不清",
+        "onboard_time": 1779550284,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 50100,
+        "num": 50100,
+        "word": "航司取消航班 无赔偿",
+        "onboard_time": 1779558317,
+        "rank": 9,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 159692,
+        "num": 49056,
+        "word": "伊能静疑似力挺庾澄庆",
+        "onboard_time": 1779543386,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 80806,
+        "num": 48088,
+        "word": "小伙去银行定期存50万全程记录",
+        "onboard_time": 1779549444,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 78221,
+        "num": 46955,
+        "word": "单依纯终于原谅观众了",
+        "onboard_time": 1779547287,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 71394,
+        "num": 45288,
+        "word": "曾沛慈 踢馆歌手",
+        "onboard_time": 1779546085,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 69731,
+        "num": 43583,
+        "word": "窦靖童小时候是王菲的挂件",
+        "onboard_time": 1779542963,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 62556,
+        "num": 41864,
+        "word": "山西煤矿爆炸事故进展",
+        "onboard_time": 1779569834,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41460,
+        "num": 41460,
+        "word": "张月队长solo秀第一名",
+        "onboard_time": 1779551963,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 38427,
+        "num": 38427,
+        "word": "小胖 转会",
+        "onboard_time": 1779549204,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 39822,
+        "num": 38397,
+        "word": "王濛短道速滑 也许放弃才能靠近你",
+        "onboard_time": 1779541044,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 38263,
+        "num": 38263,
+        "word": "李昀锐撩的不是关晓彤是丁程鑫吧",
+        "onboard_time": 1779549624,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 39470,
+        "num": 38009,
+        "word": "郭本尼唯爱孙怡",
+        "onboard_time": 1779553102,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 37431,
+        "num": 37431,
+        "word": "香港航天员黎家盈",
+        "onboard_time": 1779562215,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34464,
+        "num": 37421,
+        "word": "张国清赶赴留神峪煤矿事故现场",
+        "onboard_time": 1779542244,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32865,
+        "num": 37340,
+        "word": "成龙是有什么把柄在吴彤手上吗",
+        "onboard_time": 1779539063,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 33998,
+        "num": 37240,
+        "word": "留神峪矿工说跑了2小时才出来",
+        "onboard_time": 1779539844,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32701,
+        "num": 37170,
+        "word": "大帅",
+        "onboard_time": 1779548365,
+        "rank": 25,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 32680,
+        "num": 37142,
+        "word": "狼队战胜AG",
+        "onboard_time": 1779543386,
+        "rank": 26,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 32009,
+        "num": 37041,
+        "word": "孕妻脑梗变3岁当事人3年后新变化",
+        "onboard_time": 1779558917,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31615,
+        "num": 36991,
+        "word": "男子回应妻子胎停后脑梗智力变3岁",
+        "onboard_time": 1779545965,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31195,
+        "num": 36904,
+        "word": "一诺错失大满贯",
+        "onboard_time": 1779546325,
+        "rank": 29,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 27161,
+        "num": 36815,
+        "word": "阿史那隼站起来了",
+        "onboard_time": 1779548426,
+        "rank": 30,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 26290,
+        "num": 36760,
+        "word": "潮汕女子嫁到五常吐槽插秧累",
+        "onboard_time": 1779557659,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24590,
+        "num": 36691,
+        "word": "狼队信FMVP",
+        "onboard_time": 1779545424,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 24266,
+        "num": 36615,
+        "word": "周深一开嗓票价就回本了",
+        "onboard_time": 1779551725,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 24024,
+        "num": 36515,
+        "word": "山西煤矿事故发布会现场默哀",
+        "onboard_time": 1779549924,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23547,
+        "num": 36445,
+        "word": "家业收视率",
+        "onboard_time": 1779545904,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 23421,
+        "num": 36422,
+        "word": "就说王源的演出少看一场会出事",
+        "onboard_time": 1779550827,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23124,
+        "num": 36308,
+        "word": "汪苏泷跳了三次误闯天家",
+        "onboard_time": 1779567074,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 22940,
+        "num": 36270,
+        "word": "山西煤矿事故仍有2人失联",
+        "onboard_time": 1779551244,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22081,
+        "num": 36173,
+        "word": "王者荣耀",
+        "onboard_time": 1779546145,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 22177,
+        "num": 36119,
+        "word": "救援人员扛水管进留神峪煤矿",
+        "onboard_time": 1779570794,
+        "rank": 40,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 21936,
+        "num": 36010,
+        "word": "狼队夺冠",
+        "onboard_time": 1779544044,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 21640,
+        "num": 35941,
+        "word": "湖南石门一受灾村庄几乎没了",
+        "onboard_time": 1779552084,
+        "rank": 42,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 21618,
+        "num": 35871,
+        "word": "喻言摔了",
+        "onboard_time": 1779546206,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 20609,
+        "num": 35798,
+        "word": "狼队金色雨",
+        "onboard_time": 1779563714,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 19065,
+        "num": 35764,
+        "word": "狼队首次BO9夺冠",
+        "onboard_time": 1779563236,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 20327,
+        "num": 35714,
+        "word": "王源在我脸上饭撒了",
+        "onboard_time": 1779554241,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 19246,
+        "num": 35600,
+        "word": "重庆狼队十一冠",
+        "onboard_time": 1779546627,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 17285,
+        "num": 35542,
+        "word": "东北超",
+        "onboard_time": 1779539303,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 17081,
+        "num": 35466,
+        "word": "神舟二十三号出征",
+        "onboard_time": 1779570914,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#全力救治伤员科学组织搜救#"
+    }
+  }
+}

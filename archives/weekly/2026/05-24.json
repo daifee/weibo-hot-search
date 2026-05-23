@@ -1,6 +1,6 @@
 {
   "startTime": 1779556240361,
-  "endTime": 1779570189503,
+  "endTime": 1779570944484,
   "band_list": [
     {
       "raw_hot": 1292397,
@@ -395,6 +395,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 62556,
+      "num": 41864,
+      "word": "山西煤矿爆炸事故进展",
+      "onboard_time": 1779569834,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 62425,
       "num": 383816,
       "word": "成龙是有什么把柄在吴彤手上吗",
@@ -467,12 +475,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 27747,
-      "num": 37302,
-      "word": "山西煤矿爆炸事故进展",
-      "onboard_time": 1779569834,
-      "rank": 30,
-      "category": "民生新闻"
+      "raw_hot": 22177,
+      "num": 36119,
+      "word": "救援人员扛水管进留神峪煤矿",
+      "onboard_time": 1779570794,
+      "rank": 40,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 20582,
@@ -480,6 +488,14 @@
       "word": "中国硬核实力又刷屏了",
       "onboard_time": 1779539963,
       "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 17081,
+      "num": 35466,
+      "word": "神舟二十三号出征",
+      "onboard_time": 1779570914,
+      "rank": 49,
       "category": "民生新闻"
     }
   ],

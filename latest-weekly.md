@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/05/24 01:10:40 ~ 2026/05/24 05:03:09
+本榜单时间：2026/05/24 01:10:40 ~ 2026/05/24 05:15:44
 </p>
 </blockquote>
 <p>
@@ -309,6 +309,12 @@ SK的BP（热度：78251）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E8%A5%BF%E7%85%A4%E7%9F%BF%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%85%E8%BF%9B%E5%B1%95%23" target="weibo">
+山西煤矿爆炸事故进展（热度：62556）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E9%BE%99%E6%98%AF%E6%9C%89%E4%BB%80%E4%B9%88%E6%8A%8A%E6%9F%84%E5%9C%A8%E5%90%B4%E5%BD%A4%E6%89%8B%E4%B8%8A%E5%90%97%23" target="weibo">
 成龙是有什么把柄在吴彤手上吗（热度：62425）
 </a>
@@ -363,14 +369,20 @@ SK的BP（热度：78251）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E8%A5%BF%E7%85%A4%E7%9F%BF%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%85%E8%BF%9B%E5%B1%95%23" target="weibo">
-山西煤矿爆炸事故进展（热度：27747）
+<a href="https://s.weibo.com/weibo?q=%23%E6%95%91%E6%8F%B4%E4%BA%BA%E5%91%98%E6%89%9B%E6%B0%B4%E7%AE%A1%E8%BF%9B%E7%95%99%E7%A5%9E%E5%B3%AA%E7%85%A4%E7%9F%BF%23" target="weibo">
+救援人员扛水管进留神峪煤矿（热度：22177）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%A1%AC%E6%A0%B8%E5%AE%9E%E5%8A%9B%E5%8F%88%E5%88%B7%E5%B1%8F%E4%BA%86%23" target="weibo">
 中国硬核实力又刷屏了（热度：20582）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%A5%9E%E8%88%9F%E4%BA%8C%E5%8D%81%E4%B8%89%E5%8F%B7%E5%87%BA%E5%BE%81%23" target="weibo">
+神舟二十三号出征（热度：17081）
 </a>
 </li>
 
