@@ -1,6 +1,6 @@
 {
   "startTime": 1779556240361,
-  "endTime": 1779556240361,
+  "endTime": 1779557707325,
   "band_list": [
     {
       "raw_hot": 1292397,
@@ -283,20 +283,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 94444,
+      "num": 398138,
+      "word": "雷军透露小米下一步规划",
+      "onboard_time": 1779546865,
+      "rank": 37,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 90116,
       "num": 400641,
       "word": "张国清赶赴留神峪煤矿事故现场",
       "onboard_time": 1779542244,
       "rank": 35,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 89486,
-      "num": 398138,
-      "word": "雷军透露小米下一步规划",
-      "onboard_time": 1779546865,
-      "rank": 37,
-      "category": "汽车"
     },
     {
       "raw_hot": 87177,
@@ -395,7 +395,15 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 18150,
+      "raw_hot": 46421,
+      "num": 376163,
+      "word": "潮汕女子嫁到五常吐槽插秧累",
+      "onboard_time": 1779557659,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 20582,
       "num": 577380,
       "word": "中国硬核实力又刷屏了",
       "onboard_time": 1779539963,
