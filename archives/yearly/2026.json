@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1779544304287,
+  "endTime": 1779545438014,
   "band_list": [
     {
       "raw_hot": 46860992,
@@ -1419,6 +1419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 4254390,
+      "num": 549330,
+      "word": "伊能静疑似力挺庾澄庆",
+      "onboard_time": 1779543386,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 4221098,
       "num": 688153,
       "word": "曝沈月小群不是录制期间那个",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1775603420,
       "rank": 4,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 2951894,
-      "num": 475492,
-      "word": "唐艺昕9年了妆还没卸干净",
-      "onboard_time": 1779105379,
-      "rank": 11,
-      "category": "综艺"
     }
   ],
   "hotgov_list": [
