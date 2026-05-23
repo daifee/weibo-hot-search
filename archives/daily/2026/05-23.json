@@ -1,6 +1,6 @@
 {
   "startTime": 1779465797561,
-  "endTime": 1779508280367,
+  "endTime": 1779509786976,
   "band_list": [
     {
       "raw_hot": 20596528,
@@ -24,6 +24,14 @@
       "word": "沈月 王鹤棣",
       "onboard_time": 1779499760,
       "rank": 11,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 4221098,
+      "num": 688153,
+      "word": "曝沈月小群不是录制期间那个",
+      "onboard_time": 1779509602,
+      "rank": 10,
       "category": "综艺"
     },
     {
@@ -51,8 +59,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 2471528,
-      "num": 665319,
+      "raw_hot": 2525642,
+      "num": 703524,
       "word": "吴泽林语气",
       "onboard_time": 1779502703,
       "rank": 5,
@@ -76,15 +84,15 @@
     },
     {
       "raw_hot": 1698716,
-      "num": 458976,
+      "num": 683911,
       "word": "棣月系粉丝现状",
       "onboard_time": 1779505042,
       "rank": 12,
       "category": "艺人"
     },
     {
-      "raw_hot": 1269335,
-      "num": 1269335,
+      "raw_hot": 1449221,
+      "num": 1449221,
       "word": "曝iPhone18Pro配色大换血",
       "onboard_time": 1779503303,
       "rank": 0,
@@ -124,7 +132,7 @@
     },
     {
       "raw_hot": 1005491,
-      "num": 444761,
+      "num": 669726,
       "word": "棣月系be了",
       "onboard_time": 1779503062,
       "rank": 18,
@@ -137,6 +145,14 @@
       "onboard_time": 1779461308,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 944615,
+      "num": 1402117,
+      "word": "马刺雷霆打架",
+      "onboard_time": 1779505282,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 772419,
@@ -163,14 +179,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 736180,
-      "num": 1028421,
-      "word": "马刺雷霆打架",
-      "onboard_time": 1779505282,
-      "rank": 1,
-      "category": "体育"
-    },
-    {
       "raw_hot": 723865,
       "num": 2001958,
       "word": "胡彦斌破音",
@@ -180,11 +188,19 @@
     },
     {
       "raw_hot": 712276,
-      "num": 440575,
+      "num": 649506,
       "word": "史上颜值巅峰iPhone要来了",
       "onboard_time": 1779496821,
       "rank": 20,
       "category": "数码"
+    },
+    {
+      "raw_hot": 706910,
+      "num": 706910,
+      "word": "原来十年前的拼豆长这样",
+      "onboard_time": 1779503962,
+      "rank": 6,
+      "category": "休闲"
     },
     {
       "raw_hot": 681507,
@@ -196,19 +212,19 @@
     },
     {
       "raw_hot": 679720,
-      "num": 679720,
+      "num": 700299,
       "word": "中国官宣第4位女航天员",
       "onboard_time": 1779499220,
       "rank": 4,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 647211,
-      "num": 647211,
-      "word": "原来十年前的拼豆长这样",
-      "onboard_time": 1779503962,
-      "rank": 6,
-      "category": "休闲"
+      "raw_hot": 620775,
+      "num": 679740,
+      "word": "山西煤矿事故造成重大人员伤亡",
+      "onboard_time": 1779503062,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 591847,
@@ -220,11 +236,19 @@
     },
     {
       "raw_hot": 560995,
-      "num": 560995,
+      "num": 697964,
       "word": "这是我的西游2全员直播",
       "onboard_time": 1779506902,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 560654,
+      "num": 652652,
+      "word": "夏天 苍蝇卵",
+      "onboard_time": 1779508339,
+      "rank": 20,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 555301,
@@ -235,24 +259,32 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 554345,
+      "num": 566633,
+      "word": "王鹤棣以为自己太敏感",
+      "onboard_time": 1779509602,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 548231,
-      "num": 548231,
+      "num": 558518,
       "word": "歌手排名 闹麻了",
       "onboard_time": 1779473116,
       "rank": 25,
       "category": "综艺"
     },
     {
-      "raw_hot": 541359,
-      "num": 456593,
-      "word": "山西煤矿事故造成重大人员伤亡",
-      "onboard_time": 1779503062,
-      "rank": 13,
+      "raw_hot": 544818,
+      "num": 645967,
+      "word": "老板一个滚字赔了员工近16万元",
+      "onboard_time": 1779504742,
+      "rank": 16,
       "category": "民生新闻"
     },
     {
       "raw_hot": 535939,
-      "num": 453694,
+      "num": 642437,
       "word": "庾澄庆脸色",
       "onboard_time": 1779493699,
       "rank": 14,
@@ -260,7 +292,7 @@
     },
     {
       "raw_hot": 514479,
-      "num": 451473,
+      "num": 632919,
       "word": "坐肖战前面的导演回应假装合照",
       "onboard_time": 1779503122,
       "rank": 15,
@@ -300,7 +332,7 @@
     },
     {
       "raw_hot": 466397,
-      "num": 466397,
+      "num": 696525,
       "word": "雷霆vs马刺",
       "onboard_time": 1779499341,
       "rank": 8,
@@ -331,20 +363,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 413743,
+      "num": 639025,
+      "word": "范丞丞喊李晨老头",
+      "onboard_time": 1779508762,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 413421,
-      "num": 441649,
+      "num": 629074,
       "word": "窦靖童把窦颖摇来了",
       "onboard_time": 1779494600,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 411771,
-      "num": 450341,
-      "word": "老板一个滚字赔了员工近16万元",
-      "onboard_time": 1779504742,
-      "rank": 16,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 399490,
@@ -364,7 +396,7 @@
     },
     {
       "raw_hot": 382646,
-      "num": 438604,
+      "num": 624216,
       "word": "曝红果短剧收益断崖式下跌",
       "onboard_time": 1779493759,
       "rank": 21,
@@ -412,7 +444,7 @@
     },
     {
       "raw_hot": 345386,
-      "num": 436893,
+      "num": 620701,
       "word": "何炅让那英别聊不在场的人",
       "onboard_time": 1779496400,
       "rank": 22,
@@ -444,7 +476,7 @@
     },
     {
       "raw_hot": 325806,
-      "num": 466298,
+      "num": 598370,
       "word": "神23航天员简历",
       "onboard_time": 1779506003,
       "rank": 9,
@@ -459,8 +491,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 313077,
-      "num": 433775,
+      "raw_hot": 315800,
+      "num": 636839,
       "word": "女孩吃流产药后长期卧床腰臀长疮",
       "onboard_time": 1779494780,
       "rank": 23,
@@ -476,7 +508,7 @@
     },
     {
       "raw_hot": 292078,
-      "num": 429083,
+      "num": 615123,
       "word": "洛克王国世界",
       "onboard_time": 1779498741,
       "rank": 25,
@@ -499,8 +531,16 @@
       "category": "数码"
     },
     {
+      "raw_hot": 283728,
+      "num": 612427,
+      "word": "庾澄庆 春泥",
+      "onboard_time": 1779499700,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 277108,
-      "num": 427022,
+      "num": 602092,
       "word": "女子日服800粒减肥丸致肠道无法蠕动",
       "onboard_time": 1779502882,
       "rank": 26,
@@ -531,6 +571,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 258331,
+      "num": 610376,
+      "word": "交警回应时速不到60被抓拍121",
+      "onboard_time": 1779503903,
+      "rank": 33,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 245687,
       "num": 419484,
       "word": "山西沁源一煤矿发生事故井下仍有90人",
@@ -547,12 +595,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 234673,
+      "num": 692107,
+      "word": "雷霆2比1马刺",
+      "onboard_time": 1779508883,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 234428,
       "num": 302391,
       "word": "网约车司机闷死小猫后跑路拉黑",
       "onboard_time": 1779468140,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 232889,
+      "num": 606530,
+      "word": "此处禁止停猫",
+      "onboard_time": 1779504922,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 232736,
@@ -564,19 +628,11 @@
     },
     {
       "raw_hot": 225949,
-      "num": 415346,
+      "num": 572468,
       "word": "巴基斯坦航天员将执行短期飞行任务",
       "onboard_time": 1779501443,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 211655,
-      "num": 412850,
-      "word": "此处禁止停猫",
-      "onboard_time": 1779504922,
-      "rank": 32,
-      "category": "幽默"
     },
     {
       "raw_hot": 208902,
@@ -595,12 +651,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 205747,
-      "num": 410525,
-      "word": "交警回应时速不到60被抓拍121",
-      "onboard_time": 1779503903,
-      "rank": 33,
-      "category": "舆论监督"
+      "raw_hot": 206472,
+      "num": 581068,
+      "word": "非洲大蜗牛",
+      "onboard_time": 1779509242,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 198772,
@@ -612,7 +668,7 @@
     },
     {
       "raw_hot": 197518,
-      "num": 406254,
+      "num": 574543,
       "word": "Uzi回应送老婆贵重礼物",
       "onboard_time": 1779506301,
       "rank": 35,
@@ -628,7 +684,7 @@
     },
     {
       "raw_hot": 183960,
-      "num": 447029,
+      "num": 674557,
       "word": "美联储预期加息25个基点",
       "onboard_time": 1779493640,
       "rank": 17,
@@ -651,6 +707,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 165793,
+      "num": 561494,
+      "word": "贺峻霖宋亚轩十年前就住一起",
+      "onboard_time": 1779508339,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 159136,
       "num": 2079776,
       "word": "大爷穿着自己编织的蓑衣卖樱桃",
@@ -660,7 +724,7 @@
     },
     {
       "raw_hot": 154847,
-      "num": 422303,
+      "num": 626165,
       "word": "联想集团暴涨",
       "onboard_time": 1779505461,
       "rank": 28,
@@ -672,6 +736,14 @@
       "word": "6年住家保姆打孩子被炒持刀威胁",
       "onboard_time": 1779494239,
       "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 140310,
+      "num": 656960,
+      "word": "黎家盈是一名香港警司",
+      "onboard_time": 1779509062,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -755,6 +827,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 114653,
+      "num": 659029,
+      "word": "4名在泰失联中国公民已被找到",
+      "onboard_time": 1779509361,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 110790,
       "num": 248257,
       "word": "王菲我知道你在看",
@@ -819,8 +899,8 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 97847,
-      "num": 386532,
+      "raw_hot": 97932,
+      "num": 564570,
       "word": "英法德意发表联合声明",
       "onboard_time": 1779503545,
       "rank": 44,
@@ -843,19 +923,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 83664,
+      "num": 1264415,
+      "word": "神23任务发布会",
+      "onboard_time": 1779493821,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 81744,
       "num": 1737952,
       "word": "一小伙儿爆砸充电完不走车辆",
       "onboard_time": 1779446001,
       "rank": 48,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 79818,
-      "num": 1025206,
-      "word": "神23任务发布会",
-      "onboard_time": 1779493821,
-      "rank": 2,
       "category": "民生新闻"
     },
     {
@@ -883,6 +963,22 @@
       "category": "财经"
     },
     {
+      "raw_hot": 67108,
+      "num": 588681,
+      "word": "张碧晨回应被说跑调",
+      "onboard_time": 1779509721,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 64398,
+      "num": 584814,
+      "word": "留神峪煤矿事故企业负责人被控制",
+      "onboard_time": 1779509721,
+      "rank": 40,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 61080,
       "num": 61080,
       "word": "孙怡浪姐谈离婚",
@@ -891,12 +987,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 56899,
+      "num": 664308,
+      "word": "马刺说雷霆防守文班不是篮球动作",
+      "onboard_time": 1779508883,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 56640,
+      "num": 676509,
+      "word": "神23航天员见面会",
+      "onboard_time": 1779508522,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 55580,
       "num": 225737,
       "word": "济南山姆称已安排人员巡查",
       "onboard_time": 1779460646,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 54528,
+      "num": 595577,
+      "word": "马刺两代神塔同框",
+      "onboard_time": 1779508883,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 47992,
@@ -948,7 +1068,7 @@
     },
     {
       "raw_hot": 35952,
-      "num": 376205,
+      "num": 555351,
       "word": "618抄作业还来得及吗",
       "onboard_time": 1779507622,
       "rank": 48,
@@ -961,6 +1081,14 @@
       "onboard_time": 1779464423,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 27303,
+      "num": 592825,
+      "word": "尤长靖 土偶之光",
+      "onboard_time": 1779508942,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 27104,
@@ -993,6 +1121,14 @@
       "onboard_time": 1779462205,
       "rank": 46,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 3270,
+      "num": 666829,
+      "word": "鹿晗担任一天五哈导演",
+      "onboard_time": 1779508883,
+      "rank": 16,
+      "category": "综艺"
     }
   ],
   "hotgov_list": [
