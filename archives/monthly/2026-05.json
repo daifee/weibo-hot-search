@@ -1,6 +1,6 @@
 {
   "startTime": 1777565126834,
-  "endTime": 1779528089972,
+  "endTime": 1779533560143,
   "band_list": [
     {
       "raw_hot": 28198949,
@@ -331,6 +331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 5030301,
+      "num": 507190,
+      "word": "林一 沈月",
+      "onboard_time": 1779527903,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 5000250,
       "num": 1748906,
       "word": "王楚钦生气了",
@@ -481,14 +489,6 @@
       "onboard_time": 1778223740,
       "rank": 0,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 3854096,
-      "num": 507190,
-      "word": "林一 沈月",
-      "onboard_time": 1779527903,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 3804140,
@@ -768,6 +768,14 @@
       "word": "曝陈星旭拍轧戏等卢昱晓七个小时",
       "onboard_time": 1778027421,
       "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 3000806,
+      "num": 413461,
+      "word": "不舒服学",
+      "onboard_time": 1779528562,
+      "rank": 12,
       "category": "艺人"
     },
     {
@@ -3331,6 +3339,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1243243,
+      "num": 702456,
+      "word": "那些曾经是好朋友结果不来往的cp",
+      "onboard_time": 1779529583,
+      "rank": 3,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1241545,
       "num": 1093972,
       "word": "庾澄庆格局",
@@ -4224,6 +4240,14 @@
       "word": "第一次爱的人 全场最佳",
       "onboard_time": 1779461189,
       "rank": 18,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1041608,
+      "num": 677849,
+      "word": "庾澄庆 被换6首歌",
+      "onboard_time": 1779528323,
+      "rank": 4,
       "category": "综艺"
     },
     {
@@ -5379,6 +5403,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 883133,
+      "num": 574774,
+      "word": "女子住院被朋友殴打昏迷数天后死亡",
+      "onboard_time": 1779525023,
+      "rank": 12,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 881658,
       "num": 881658,
       "word": "宇树机甲 民用交通工具",
@@ -5849,14 +5881,6 @@
       "onboard_time": 1779445820,
       "rank": 15,
       "category": "情感"
-    },
-    {
-      "raw_hot": 829885,
-      "num": 574774,
-      "word": "女子住院被朋友殴打昏迷数天后死亡",
-      "onboard_time": 1779525023,
-      "rank": 12,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 829613,
@@ -8409,6 +8433,14 @@
       "onboard_time": 1778886738,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 643427,
+      "num": 922193,
+      "word": "iPhone20渲染视频",
+      "onboard_time": 1779524661,
+      "rank": 22,
+      "category": "数码"
     },
     {
       "raw_hot": 643057,
@@ -11043,6 +11075,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 517194,
+      "num": 538706,
+      "word": "不上班靠一对善良的夫妇救济",
+      "onboard_time": 1779518004,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 516250,
       "num": 516250,
       "word": "里夫斯季后赛打没身价",
@@ -11353,14 +11393,6 @@
       "onboard_time": 1778139620,
       "rank": 12,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 501599,
-      "num": 538706,
-      "word": "不上班靠一对善良的夫妇救济",
-      "onboard_time": 1779518004,
-      "rank": 38,
-      "category": "情感"
     },
     {
       "raw_hot": 501412,
@@ -12753,14 +12785,6 @@
       "onboard_time": 1779194962,
       "rank": 5,
       "category": "体育"
-    },
-    {
-      "raw_hot": 452403,
-      "num": 536403,
-      "word": "iPhone20渲染视频",
-      "onboard_time": 1779524661,
-      "rank": 22,
-      "category": "数码"
     },
     {
       "raw_hot": 452310,
@@ -18611,6 +18635,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 302565,
+      "num": 321506,
+      "word": "丁程鑫误入巨人国",
+      "onboard_time": 1779532462,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 302262,
       "num": 302262,
       "word": "特朗普说美高法门楣刻孔子无比荣幸",
@@ -20003,6 +20035,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 277295,
+      "num": 318089,
+      "word": "孕妻脑梗变3岁丈夫900多天不离不弃",
+      "onboard_time": 1779531203,
+      "rank": 33,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 277237,
       "num": 277237,
       "word": "乒协公布名古屋亚运会选拔办法",
@@ -20401,6 +20441,14 @@
       "onboard_time": 1778162063,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 270844,
+      "num": 508168,
+      "word": "山西留神峪矿井外停满救护车",
+      "onboard_time": 1779527484,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 270758,
@@ -22449,6 +22497,14 @@
       "onboard_time": 1779077000,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 241340,
+      "num": 312328,
+      "word": "国家卫健委组织专家赴山西",
+      "onboard_time": 1779532344,
+      "rank": 36,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 241287,
@@ -24579,6 +24635,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 216617,
+      "num": 453808,
+      "word": "男子忘记池里有鱼一年后瘦成蝌蚪",
+      "onboard_time": 1779527723,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 216550,
       "num": 355124,
       "word": "巨力索具被证监会立案",
@@ -25411,6 +25475,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 208193,
+      "num": 305601,
+      "word": "小狗护主中弹三次手术后出院",
+      "onboard_time": 1779529044,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 208182,
       "num": 208182,
       "word": "洁丽雅已注册毛巾二叔商标",
@@ -25425,6 +25497,14 @@
       "onboard_time": 1778392880,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 208056,
+      "num": 501531,
+      "word": "谁家酒店在门口放个游泳池",
+      "onboard_time": 1779525742,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 208010,
@@ -25867,6 +25947,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 203409,
+      "num": 302575,
+      "word": "登神",
+      "onboard_time": 1779529463,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 203392,
       "num": 203392,
       "word": "给阿嬷的情书 微博自来水",
@@ -26051,6 +26139,22 @@
       "category": "美食"
     },
     {
+      "raw_hot": 201537,
+      "num": 301478,
+      "word": "吴彤为宋亚轩投入了最高版权",
+      "onboard_time": 1779528202,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 201405,
+      "num": 329884,
+      "word": "赵嘉敏去看一诺决赛",
+      "onboard_time": 1779532102,
+      "rank": 26,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 201289,
       "num": 572676,
       "word": "周雨谈樊振东输球",
@@ -26145,6 +26249,14 @@
       "onboard_time": 1779110961,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 200596,
+      "num": 293556,
+      "word": "ally打肉毒导致脸部僵硬",
+      "onboard_time": 1779533183,
+      "rank": 47,
+      "category": "网红"
     },
     {
       "raw_hot": 200595,
@@ -26273,14 +26385,6 @@
       "onboard_time": 1778756421,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 199012,
-      "num": 453808,
-      "word": "男子忘记池里有鱼一年后瘦成蝌蚪",
-      "onboard_time": 1779527723,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 198919,
@@ -27219,14 +27323,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 188963,
-      "num": 501531,
-      "word": "谁家酒店在门口放个游泳池",
-      "onboard_time": 1779525742,
-      "rank": 35,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 188825,
       "num": 234046,
       "word": "狩谎",
@@ -27649,6 +27745,14 @@
       "onboard_time": 1777701740,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 184234,
+      "num": 464904,
+      "word": "为了省停车费烧了一箱油",
+      "onboard_time": 1779527063,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 184195,
@@ -28315,6 +28419,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 177822,
+      "num": 299423,
+      "word": "一诺射手开团",
+      "onboard_time": 1779528744,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 177742,
       "num": 177742,
       "word": "浪姐二公乘风值排名",
@@ -28745,6 +28857,14 @@
       "onboard_time": 1779277041,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 174656,
+      "num": 290757,
+      "word": "山西煤矿爆炸点附近出现积水",
+      "onboard_time": 1779533543,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 174568,
@@ -34379,14 +34499,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 124175,
-      "num": 464904,
-      "word": "为了省停车费烧了一箱油",
-      "onboard_time": 1779527063,
-      "rank": 48,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 123853,
       "num": 125496,
       "word": "Cui71 韩国游戏",
@@ -34625,14 +34737,6 @@
       "onboard_time": 1779415278,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 122113,
-      "num": 508168,
-      "word": "山西留神峪矿井外停满救护车",
-      "onboard_time": 1779527484,
-      "rank": 10,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 122102,
@@ -37107,6 +37211,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 92576,
+      "num": 328150,
+      "word": "AI光算力第一股上市首日暴涨380%",
+      "onboard_time": 1779530661,
+      "rank": 27,
+      "category": "财经,互联网"
+    },
+    {
       "raw_hot": 92533,
       "num": 132603,
       "word": "中国男团2比0日本",
@@ -38371,6 +38483,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 76260,
+      "num": 323873,
+      "word": "十万级智能纯电轿跑新高度",
+      "onboard_time": 1779531385,
+      "rank": 29,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 76209,
       "num": 117984,
       "word": "无名高地 阿信",
@@ -39577,6 +39697,14 @@
       "onboard_time": 1778519955,
       "rank": 30,
       "category": "美食"
+    },
+    {
+      "raw_hot": 60427,
+      "num": 343029,
+      "word": "网购iPad开箱发现里面写着Aqqle",
+      "onboard_time": 1779532823,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 60381,
@@ -41803,6 +41931,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 40325,
+      "num": 309108,
+      "word": "邓超一盆水把鹿晗泼回了扁头",
+      "onboard_time": 1779533122,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 40308,
       "num": 123612,
       "word": "徐良见粉丝求婚当场送喜被",
@@ -43099,6 +43235,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 30240,
+      "num": 340556,
+      "word": "玉龙雪山被指嘲讽标语已拆除",
+      "onboard_time": 1779532823,
+      "rank": 20,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 30145,
       "num": 725825,
       "word": "用最美镜头致敬铁路劳动者",
@@ -44267,6 +44411,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 20913,
+      "num": 344369,
+      "word": "10.99万入手与众07夯爆了",
+      "onboard_time": 1779532763,
+      "rank": 17,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 20597,
       "num": 188586,
       "word": "谈莉娜产后8天仍刀口痛",
@@ -44755,6 +44907,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 15845,
+      "num": 340877,
+      "word": "国务院工作组赴广西柳州震区",
+      "onboard_time": 1779532763,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 15801,
       "num": 528291,
       "word": "庐山索道将停机检修30天",
@@ -44825,6 +44985,14 @@
       "onboard_time": 1778060060,
       "rank": 49,
       "category": "数码"
+    },
+    {
+      "raw_hot": 14991,
+      "num": 347159,
+      "word": "奕派M8华派黄金标准大六座",
+      "onboard_time": 1779532823,
+      "rank": 16,
+      "category": "汽车"
     },
     {
       "raw_hot": 14897,
