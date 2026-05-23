@@ -1,6 +1,6 @@
 {
   "startTime": 1777565126834,
-  "endTime": 1779550894205,
+  "endTime": 1779556240361,
   "band_list": [
     {
       "raw_hot": 28198949,
@@ -5012,7 +5012,7 @@
     },
     {
       "raw_hot": 941977,
-      "num": 519560,
+      "num": 521295,
       "word": "曾沛慈 踢馆歌手",
       "onboard_time": 1779546085,
       "rank": 13,
@@ -5953,6 +5953,14 @@
       "onboard_time": 1778602639,
       "rank": 5,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 832364,
+      "num": 576236,
+      "word": "留神峪煤矿事故82人遇难",
+      "onboard_time": 1779551124,
+      "rank": 4,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 830768,
@@ -9659,6 +9667,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 581406,
+      "num": 581406,
+      "word": "浪姐最合理的一次",
+      "onboard_time": 1779550523,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 581336,
       "num": 364602,
       "word": "杨紫否认中餐厅录制",
@@ -9841,6 +9857,14 @@
       "onboard_time": 1779535043,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 573961,
+      "num": 573961,
+      "word": "小胖 转会",
+      "onboard_time": 1779549204,
+      "rank": 29,
+      "category": "电竞"
     },
     {
       "raw_hot": 572346,
@@ -11148,7 +11172,7 @@
     },
     {
       "raw_hot": 521260,
-      "num": 518475,
+      "num": 518933,
       "word": "小伙去银行定期存50万全程记录",
       "onboard_time": 1779549444,
       "rank": 14,
@@ -11284,7 +11308,7 @@
     },
     {
       "raw_hot": 516761,
-      "num": 497566,
+      "num": 565855,
       "word": "留神峪煤矿企业对作业人数统计不清",
       "onboard_time": 1779550284,
       "rank": 22,
@@ -11665,6 +11689,14 @@
       "onboard_time": 1778392099,
       "rank": 5,
       "category": "情感"
+    },
+    {
+      "raw_hot": 499605,
+      "num": 499605,
+      "word": "郭本尼唯爱孙怡",
+      "onboard_time": 1779553102,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 499334,
@@ -12452,7 +12484,7 @@
     },
     {
       "raw_hot": 471524,
-      "num": 505983,
+      "num": 560168,
       "word": "不许再霸凌自己了",
       "onboard_time": 1779546024,
       "rank": 22,
@@ -15891,14 +15923,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 367200,
-      "num": 470900,
-      "word": "浪姐最合理的一次",
-      "onboard_time": 1779550523,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 367097,
       "num": 355449,
       "word": "文章开酒吧了",
@@ -16817,6 +16841,14 @@
       "onboard_time": 1778115920,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 346518,
+      "num": 424079,
+      "word": "张月队长solo秀第一名",
+      "onboard_time": 1779551963,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 346361,
@@ -20441,14 +20473,6 @@
       "onboard_time": 1779446001,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 276163,
-      "num": 480144,
-      "word": "小胖 转会",
-      "onboard_time": 1779549204,
-      "rank": 29,
-      "category": "电竞"
     },
     {
       "raw_hot": 275993,
@@ -25555,6 +25579,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 210611,
+      "num": 529244,
+      "word": "山西煤矿事故发布会现场默哀",
+      "onboard_time": 1779549924,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 210603,
       "num": 429708,
       "word": "女子翻译5分钟赚500元感慨要好好念书",
@@ -28363,6 +28395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 181931,
+      "num": 414532,
+      "word": "山西煤矿事故仍有2人失联",
+      "onboard_time": 1779551244,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 181866,
       "num": 181866,
       "word": "丁程鑫各种意义上的神图来了",
@@ -29633,6 +29673,14 @@
       "onboard_time": 1779355221,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 172528,
+      "num": 413584,
+      "word": "少司缘在等一个叫信的人",
+      "onboard_time": 1779553043,
+      "rank": 26,
+      "category": "电竞"
     },
     {
       "raw_hot": 172460,
@@ -31099,6 +31147,14 @@
       "category": "舆论监督,数码"
     },
     {
+      "raw_hot": 159191,
+      "num": 429682,
+      "word": "bao教练",
+      "onboard_time": 1779550284,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 159112,
       "num": 159112,
       "word": "雾里青",
@@ -32403,14 +32459,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 147634,
-      "num": 429682,
-      "word": "bao教练",
-      "onboard_time": 1779550284,
-      "rank": 48,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 147607,
       "num": 2214091,
       "word": "这些美方代表在中美元首会谈会场",
@@ -33380,7 +33428,7 @@
     },
     {
       "raw_hot": 137881,
-      "num": 351152,
+      "num": 383816,
       "word": "成龙是有什么把柄在吴彤手上吗",
       "onboard_time": 1779539063,
       "rank": 49,
@@ -34491,6 +34539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 128449,
+      "num": 400553,
+      "word": "王源在我脸上饭撒了",
+      "onboard_time": 1779554241,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
       "raw_hot": 128436,
       "num": 128436,
       "word": "养家有亲生儿子后赶走被拐男孩",
@@ -34689,14 +34745,6 @@
       "onboard_time": 1778598741,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 127095,
-      "num": 529244,
-      "word": "山西煤矿事故发布会现场默哀",
-      "onboard_time": 1779549924,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 127071,
@@ -35353,6 +35401,14 @@
       "onboard_time": 1777627699,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 121337,
+      "num": 405358,
+      "word": "周深一开嗓票价就回本了",
+      "onboard_time": 1779551725,
+      "rank": 32,
+      "category": "演出"
     },
     {
       "raw_hot": 121305,
@@ -36833,6 +36889,14 @@
       "onboard_time": 1778199259,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 103716,
+      "num": 402045,
+      "word": "李宇春港得好帅",
+      "onboard_time": 1779553822,
+      "rank": 34,
+      "category": "演出"
     },
     {
       "raw_hot": 103648,
@@ -38675,6 +38739,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 81220,
+      "num": 394987,
+      "word": "湖南石门一受灾村庄几乎没了",
+      "onboard_time": 1779552084,
+      "rank": 40,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 81118,
       "num": 962990,
       "word": "月壤用拔丝地瓜手法做成纤维",
@@ -38873,6 +38945,14 @@
       "onboard_time": 1779440961,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 78251,
+      "num": 391292,
+      "word": "SK的BP",
+      "onboard_time": 1779555620,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 77867,
@@ -40593,6 +40673,14 @@
       "onboard_time": 1778287100,
       "rank": 49,
       "category": "数码"
+    },
+    {
+      "raw_hot": 57485,
+      "num": 382286,
+      "word": "紫幻双冠中单",
+      "onboard_time": 1779547468,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 57483,
@@ -45249,6 +45337,14 @@
       "onboard_time": 1779393493,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 18150,
+      "num": 577380,
+      "word": "中国硬核实力又刷屏了",
+      "onboard_time": 1779539963,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 18130,
