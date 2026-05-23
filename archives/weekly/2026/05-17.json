@@ -1,6 +1,6 @@
 {
   "startTime": 1778951228781,
-  "endTime": 1779509786976,
+  "endTime": 1779518463867,
   "band_list": [
     {
       "raw_hot": 28198949,
@@ -25,6 +25,14 @@
       "onboard_time": 1779112703,
       "rank": 0,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 15856679,
+      "num": 15856679,
+      "word": "王鹤棣回旋镖",
+      "onboard_time": 1779510622,
+      "rank": 10,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 15077740,
@@ -65,6 +73,14 @@
       "onboard_time": 1779198081,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 7323645,
+      "num": 7323645,
+      "word": "山西煤矿事故已致90人死亡",
+      "onboard_time": 1779512784,
+      "rank": 0,
+      "category": "国内时政"
     },
     {
       "raw_hot": 7075368,
@@ -292,7 +308,7 @@
     },
     {
       "raw_hot": 2525642,
-      "num": 703524,
+      "num": 1148379,
       "word": "吴泽林语气",
       "onboard_time": 1779502703,
       "rank": 5,
@@ -369,6 +385,14 @@
       "onboard_time": 1779420746,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2290333,
+      "num": 2290333,
+      "word": "留神峪煤矿事故知情矿工发声",
+      "onboard_time": 1779516744,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 2289964,
@@ -643,6 +667,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1544396,
+      "num": 1544396,
+      "word": "手机点单 举报抽烟",
+      "onboard_time": 1779517044,
+      "rank": 4,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1543509,
       "num": 1543509,
       "word": "广州震感",
@@ -809,6 +841,14 @@
       "onboard_time": 1779235700,
       "rank": 10,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1312524,
+      "num": 524052,
+      "word": "明星看粉丝分析",
+      "onboard_time": 1779515663,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 1306431,
@@ -2595,6 +2635,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 569511,
+      "num": 521610,
+      "word": "谢娜回应又被黄灿灿踩裙子了",
+      "onboard_time": 1779512904,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 567088,
       "num": 567088,
       "word": "李在明点名批评韩媒炮制涉华假新闻",
@@ -3099,6 +3147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 496615,
+      "num": 511705,
+      "word": "曾沛慈非常不满意自己的表现",
+      "onboard_time": 1779514884,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 494002,
       "num": 494002,
       "word": "碳水脸是对碳水的污名化",
@@ -3545,6 +3601,14 @@
       "onboard_time": 1779450200,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 435971,
+      "num": 584814,
+      "word": "留神峪煤矿事故企业负责人被控制",
+      "onboard_time": 1779509721,
+      "rank": 40,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 435647,
@@ -4435,6 +4499,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 355389,
+      "num": 494218,
+      "word": "山西大同地震",
+      "onboard_time": 1779513803,
+      "rank": 24,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 354437,
       "num": 319406,
       "word": "陈奕迅女儿现身法网助阵男友",
@@ -4643,6 +4715,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 337357,
+      "num": 492479,
+      "word": "包上恩24岁是公主",
+      "onboard_time": 1779510203,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 337248,
       "num": 2742197,
       "word": "年轻人开始全款买房意味着什么",
@@ -4751,6 +4831,14 @@
       "num": 330672,
       "word": "丁程鑫 我养猪杀你",
       "onboard_time": 1779256941,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 330601,
+      "num": 490157,
+      "word": "侯宇发长文",
+      "onboard_time": 1779510622,
       "rank": 26,
       "category": "综艺"
     },
@@ -4865,6 +4953,14 @@
       "onboard_time": 1779098661,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 323175,
+      "num": 538690,
+      "word": "孙亚龙买了两万克黄金",
+      "onboard_time": 1779516684,
+      "rank": 7,
+      "category": "游戏"
     },
     {
       "raw_hot": 323138,
@@ -5803,6 +5899,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 265769,
+      "num": 487506,
+      "word": "山西煤矿事故伤者主要因有毒气体",
+      "onboard_time": 1779516984,
+      "rank": 27,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 265192,
       "num": 325566,
       "word": "大冰识人的两个标准",
@@ -5817,6 +5921,14 @@
       "onboard_time": 1779453561,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 264239,
+      "num": 508955,
+      "word": "申请美国绿卡须返回原籍国提申请",
+      "onboard_time": 1779516984,
+      "rank": 18,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 263924,
@@ -5905,6 +6017,14 @@
       "onboard_time": 1779193520,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 258082,
+      "num": 482409,
+      "word": "留神峪煤矿事故救援画面",
+      "onboard_time": 1779516205,
+      "rank": 29,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 257709,
@@ -6219,6 +6339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 244557,
+      "num": 478438,
+      "word": "李若彤回应未婚无子人生不完整",
+      "onboard_time": 1779511823,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 243769,
       "num": 243769,
       "word": "曝桃花坞游戏抄袭",
@@ -6241,6 +6369,14 @@
       "onboard_time": 1779249501,
       "rank": 45,
       "category": "数码"
+    },
+    {
+      "raw_hot": 242827,
+      "num": 476980,
+      "word": "当我在重要的日子化妆打扮",
+      "onboard_time": 1779512304,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 242268,
@@ -6435,6 +6571,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 234841,
+      "num": 469029,
+      "word": "惠英红 假装来谈几百亿的大项目",
+      "onboard_time": 1779516684,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 234698,
       "num": 415667,
       "word": "特朗普说去不去儿子婚礼都会被骂",
@@ -6569,6 +6713,14 @@
       "onboard_time": 1779010880,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 226831,
+      "num": 465173,
+      "word": "赵又廷这么发高圆圆知道吗",
+      "onboard_time": 1779518185,
+      "rank": 35,
+      "category": "电影"
     },
     {
       "raw_hot": 226722,
@@ -6851,6 +7003,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 217645,
+      "num": 462131,
+      "word": "小澈瘦了好多",
+      "onboard_time": 1779517044,
+      "rank": 37,
+      "category": "网红"
+    },
+    {
       "raw_hot": 217515,
       "num": 320688,
       "word": "王源十个勤天也有六人定律",
@@ -6937,6 +7097,14 @@
       "onboard_time": 1779287362,
       "rank": 19,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 212810,
+      "num": 462566,
+      "word": "带薪健身",
+      "onboard_time": 1779513385,
+      "rank": 36,
+      "category": "运动健身"
     },
     {
       "raw_hot": 212770,
@@ -7113,6 +7281,14 @@
       "onboard_time": 1779377661,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 207557,
+      "num": 457488,
+      "word": "不上班靠一对善良的夫妇救济",
+      "onboard_time": 1779518004,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 207106,
@@ -7497,6 +7673,14 @@
       "onboard_time": 1779125417,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 191678,
+      "num": 443834,
+      "word": "被骂后选择离家出走的狗狗",
+      "onboard_time": 1779515125,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 191151,
@@ -7897,6 +8081,14 @@
       "onboard_time": 1779180801,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 175210,
+      "num": 659029,
+      "word": "4名在泰失联中国公民已被找到",
+      "onboard_time": 1779509361,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 175081,
@@ -8673,6 +8865,14 @@
       "onboard_time": 1779085639,
       "rank": 28,
       "category": "数码"
+    },
+    {
+      "raw_hot": 150094,
+      "num": 532727,
+      "word": "山西煤矿事故仍有9人失联",
+      "onboard_time": 1779513684,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 150075,
@@ -9635,14 +9835,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 114653,
-      "num": 659029,
-      "word": "4名在泰失联中国公民已被找到",
-      "onboard_time": 1779509361,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 114611,
       "num": 173950,
       "word": "湖北荆州暴雨积水停工停课",
@@ -9851,6 +10043,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 105785,
+      "num": 436530,
+      "word": "美军F16击落神秘物体",
+      "onboard_time": 1779515903,
+      "rank": 46,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 105606,
       "num": 2103796,
       "word": "上海男篮3比1北京男篮",
@@ -9960,6 +10160,14 @@
       "word": "男子手机号被豆包乱标成卖猪电话",
       "onboard_time": 1779018260,
       "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 100996,
+      "num": 456314,
+      "word": "29岁男子车上挂低俗标语被罚",
+      "onboard_time": 1779517704,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -10420,7 +10628,7 @@
     },
     {
       "raw_hot": 83664,
-      "num": 1264415,
+      "num": 1733532,
       "word": "神23任务发布会",
       "onboard_time": 1779493821,
       "rank": 2,
@@ -10481,6 +10689,14 @@
       "onboard_time": 1779265341,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 81922,
+      "num": 454154,
+      "word": "周深不要在我唱的时候放混响",
+      "onboard_time": 1779518244,
+      "rank": 40,
+      "category": "演出"
     },
     {
       "raw_hot": 81856,
@@ -11035,14 +11251,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 64398,
-      "num": 584814,
-      "word": "留神峪煤矿事故企业负责人被控制",
-      "onboard_time": 1779509721,
-      "rank": 40,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 63819,
       "num": 138546,
       "word": "被爆米花冰淇淋硬控了",
@@ -11065,6 +11273,14 @@
       "onboard_time": 1779357740,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 63340,
+      "num": 450168,
+      "word": "山西沁源煤矿事故事发时中班下矿",
+      "onboard_time": 1779517343,
+      "rank": 41,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 63158,
@@ -12921,6 +13137,14 @@
       "onboard_time": 1779024501,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 6115,
+      "num": 472135,
+      "word": "留神峪煤矿事故部分被救人员状况良好",
+      "onboard_time": 1779518362,
+      "rank": 33,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 5947,
