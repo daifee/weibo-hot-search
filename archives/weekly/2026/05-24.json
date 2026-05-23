@@ -1,6 +1,6 @@
 {
   "startTime": 1779556240361,
-  "endTime": 1779573918030,
+  "endTime": 1779574583391,
   "band_list": [
     {
       "raw_hot": 1292397,
@@ -131,7 +131,7 @@
       "category": "情感"
     },
     {
-      "raw_hot": 320514,
+      "raw_hot": 339045,
       "num": 200258,
       "word": "王鹤棣对徐志胜的态度",
       "onboard_time": 1779562936,
@@ -171,6 +171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 232924,
+      "num": 89074,
+      "word": "山西煤矿爆炸事故进展",
+      "onboard_time": 1779569834,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 216186,
       "num": 420563,
       "word": "留神峪矿工说跑了2小时才出来",
@@ -193,14 +201,6 @@
       "onboard_time": 1779549624,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 201962,
-      "num": 66052,
-      "word": "山西煤矿爆炸事故进展",
-      "onboard_time": 1779569834,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 193720,
@@ -379,6 +379,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 68368,
+      "num": 101188,
+      "word": "香港航天员黎家盈",
+      "onboard_time": 1779562215,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 68191,
       "num": 387664,
       "word": "张杰唱的是天下也是归途",
@@ -411,14 +419,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 61402,
-      "num": 101188,
-      "word": "香港航天员黎家盈",
-      "onboard_time": 1779562215,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 57485,
       "num": 382286,
       "word": "紫幻双冠中单",
@@ -440,6 +440,14 @@
       "word": "孕妻脑梗变3岁当事人3年后新变化",
       "onboard_time": 1779558917,
       "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 31454,
+      "num": 59404,
+      "word": "神舟二十三号出征",
+      "onboard_time": 1779570914,
+      "rank": 49,
       "category": "民生新闻"
     },
     {
@@ -467,15 +475,7 @@
       "category": "演出"
     },
     {
-      "raw_hot": 28265,
-      "num": 59404,
-      "word": "神舟二十三号出征",
-      "onboard_time": 1779570914,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 27804,
+      "raw_hot": 29552,
       "num": 85710,
       "word": "狼队金色雨",
       "onboard_time": 1779563714,
@@ -483,7 +483,7 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 22177,
+      "raw_hot": 27153,
       "num": 59224,
       "word": "救援人员扛水管进留神峪煤矿",
       "onboard_time": 1779570794,
