@@ -1,10 +1,10 @@
 {
   "startTime": 1779556240361,
-  "endTime": 1779619694649,
+  "endTime": 1779620142451,
   "band_list": [
     {
-      "raw_hot": 9945194,
-      "num": 9945194,
+      "raw_hot": 12767872,
+      "num": 12767872,
       "word": "苗苗也不舒服了",
       "onboard_time": 1779610163,
       "rank": 16,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 2169174,
-      "num": 353924,
+      "num": 359315,
       "word": "苗苗工作室回应",
       "onboard_time": 1779615503,
       "rank": 18,
@@ -131,6 +131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1438841,
+      "num": 370017,
+      "word": "王鹤棣曾让沈月吸二手烟",
+      "onboard_time": 1779614362,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1419142,
       "num": 1554055,
       "word": "大奉打更人",
@@ -179,14 +187,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1204286,
-      "num": 350070,
-      "word": "王鹤棣曾让沈月吸二手烟",
-      "onboard_time": 1779614362,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1192402,
       "num": 618513,
       "word": "沈月涨粉量",
@@ -211,16 +211,16 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1029405,
-      "num": 363292,
+      "raw_hot": 1048026,
+      "num": 367643,
       "word": "68岁男子出轨90后生子称妻子同意",
       "onboard_time": 1779618082,
       "rank": 12,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 961290,
-      "num": 961290,
+      "raw_hot": 990015,
+      "num": 990015,
       "word": "煤矿19点半爆炸工人22点才被通知",
       "onboard_time": 1779615742,
       "rank": 1,
@@ -275,6 +275,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 798219,
+      "num": 363576,
+      "word": "机建燃油费",
+      "onboard_time": 1779618203,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 780020,
       "num": 780020,
       "word": "武契奇抵京",
@@ -297,14 +305,6 @@
       "onboard_time": 1779597083,
       "rank": 6,
       "category": "美食"
-    },
-    {
-      "raw_hot": 767129,
-      "num": 356581,
-      "word": "机建燃油费",
-      "onboard_time": 1779618203,
-      "rank": 16,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 741497,
@@ -412,7 +412,7 @@
     },
     {
       "raw_hot": 494468,
-      "num": 354827,
+      "num": 358663,
       "word": "德国性侵案主犯直播作案过程",
       "onboard_time": 1779616342,
       "rank": 17,
@@ -420,7 +420,7 @@
     },
     {
       "raw_hot": 490245,
-      "num": 347856,
+      "num": 348299,
       "word": "张予曦的讨厌真的很明显",
       "onboard_time": 1779616043,
       "rank": 21,
@@ -432,6 +432,14 @@
       "word": "惠英红 算你不对算你没用",
       "onboard_time": 1779597261,
       "rank": 29,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 487323,
+      "num": 351874,
+      "word": "卢昱晓线下活动被吐槽",
+      "onboard_time": 1779619942,
+      "rank": 21,
       "category": "艺人"
     },
     {
@@ -539,20 +547,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 375441,
+      "num": 375441,
+      "word": "小猫等了28年终于被收养了",
+      "onboard_time": 1779615082,
+      "rank": 7,
+      "category": "情感"
+    },
+    {
       "raw_hot": 372860,
       "num": 609777,
       "word": "每天刷手机5小时以上的人都怎么样了",
       "onboard_time": 1779592762,
       "rank": 28,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 371730,
-      "num": 371730,
-      "word": "小猫等了28年终于被收养了",
-      "onboard_time": 1779615082,
-      "rank": 7,
-      "category": "情感"
     },
     {
       "raw_hot": 358085,
@@ -643,6 +651,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 318999,
+      "num": 350098,
+      "word": "姜乘澜关于贴双眼皮贴的小分享",
+      "onboard_time": 1779619162,
+      "rank": 30,
+      "category": "美妆,网红"
+    },
+    {
       "raw_hot": 317156,
       "num": 250638,
       "word": "山西煤矿爆炸事故进展",
@@ -691,19 +707,19 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 289405,
+      "num": 340947,
+      "word": "刘诗诗越南活动",
+      "onboard_time": 1779613702,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 287732,
       "num": 639521,
       "word": "杨紫张一山军训合照",
       "onboard_time": 1779600322,
       "rank": 34,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 285549,
-      "num": 336246,
-      "word": "刘诗诗越南活动",
-      "onboard_time": 1779613702,
-      "rank": 28,
       "category": "艺人"
     },
     {
@@ -763,6 +779,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 263357,
+      "num": 335344,
+      "word": "林一 人永远不知道谁会旺你",
+      "onboard_time": 1779619582,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 261180,
+      "num": 330823,
+      "word": "NMIXX CORTIS",
+      "onboard_time": 1779618141,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 259599,
       "num": 421192,
       "word": "王濛短道速滑 也许放弃才能靠近你",
@@ -785,14 +817,6 @@
       "onboard_time": 1779579619,
       "rank": 15,
       "category": "议题讨论"
-    },
-    {
-      "raw_hot": 249171,
-      "num": 331520,
-      "word": "姜乘澜关于贴双眼皮贴的小分享",
-      "onboard_time": 1779619162,
-      "rank": 30,
-      "category": "美妆,网红"
     },
     {
       "raw_hot": 240603,
@@ -819,14 +843,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 236359,
-      "num": 330823,
-      "word": "NMIXX CORTIS",
-      "onboard_time": 1779618141,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 235324,
       "num": 236829,
       "word": "悄悄升高血糖的5个习惯",
@@ -835,8 +851,16 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 232797,
+      "num": 369238,
+      "word": "仙逆",
+      "onboard_time": 1779619523,
+      "rank": 9,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 231516,
-      "num": 371221,
+      "num": 374745,
       "word": "法网",
       "onboard_time": 1779616401,
       "rank": 8,
@@ -883,14 +907,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 225277,
-      "num": 324130,
-      "word": "林一 人永远不知道谁会旺你",
-      "onboard_time": 1779619582,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 216186,
       "num": 420563,
       "word": "留神峪矿工说跑了2小时才出来",
@@ -931,12 +947,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 209661,
-      "num": 369238,
-      "word": "仙逆",
-      "onboard_time": 1779619523,
-      "rank": 9,
-      "category": "动漫"
+      "raw_hot": 209824,
+      "num": 321099,
+      "word": "刘诗诗旗袍簪花",
+      "onboard_time": 1779620123,
+      "rank": 38,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 207411,
@@ -1043,6 +1059,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 185796,
+      "num": 308982,
+      "word": "鹿晗 五哈forever",
+      "onboard_time": 1779615262,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 184398,
       "num": 608944,
       "word": "田嘉瑞去参加婚礼了",
@@ -1091,14 +1115,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 166589,
-      "num": 307108,
-      "word": "鹿晗 五哈forever",
-      "onboard_time": 1779615262,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 166550,
       "num": 339154,
       "word": "郑钦文晒法网粉红色战袍",
@@ -1115,6 +1131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 162007,
+      "num": 372532,
+      "word": "燃油车被时代抛弃了吗",
+      "onboard_time": 1779615322,
+      "rank": 45,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 159817,
       "num": 568926,
       "word": "iOS27全新功能",
@@ -1129,6 +1153,14 @@
       "onboard_time": 1779550284,
       "rank": 27,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 156915,
+      "num": 316613,
+      "word": "漳州杨梅果农哽咽求助",
+      "onboard_time": 1779619403,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 153084,
@@ -1163,14 +1195,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 150980,
-      "num": 299736,
-      "word": "漳州杨梅果农哽咽求助",
-      "onboard_time": 1779619403,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 150338,
       "num": 584923,
       "word": "婚后2年未同房女方否认身体有障碍",
@@ -1185,14 +1209,6 @@
       "onboard_time": 1779546206,
       "rank": 28,
       "category": "演出"
-    },
-    {
-      "raw_hot": 149247,
-      "num": 306150,
-      "word": "燃油车被时代抛弃了吗",
-      "onboard_time": 1779615322,
-      "rank": 45,
-      "category": "汽车"
     },
     {
       "raw_hot": 147288,
@@ -1235,6 +1251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 142894,
+      "num": 311705,
+      "word": "NIP对战EDG",
+      "onboard_time": 1779620062,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 141135,
       "num": 227873,
       "word": "拉小群时间线",
@@ -1265,6 +1289,14 @@
       "onboard_time": 1779600024,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 133834,
+      "num": 302503,
+      "word": "一看就是块学数学的料",
+      "onboard_time": 1779619462,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 133138,
@@ -1299,20 +1331,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 121200,
+      "num": 306340,
+      "word": "借账户炒股19年不赚反亏476万元",
+      "onboard_time": 1779617362,
+      "rank": 46,
+      "category": "财经"
+    },
+    {
       "raw_hot": 121134,
       "num": 241651,
       "word": "F1",
       "onboard_time": 1779578717,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 112334,
-      "num": 302773,
-      "word": "借账户炒股19年不赚反亏476万元",
-      "onboard_time": 1779617362,
-      "rank": 46,
-      "category": "财经"
     },
     {
       "raw_hot": 110830,
@@ -1467,6 +1499,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 74518,
+      "num": 303511,
+      "word": "周鸿祎谈马斯克大尺度预言",
+      "onboard_time": 1779616942,
+      "rank": 47,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 73589,
       "num": 1266788,
       "word": "神舟二十三号出征",
@@ -1553,14 +1593,6 @@
       "onboard_time": 1779539303,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 65977,
-      "num": 301900,
-      "word": "周鸿祎谈马斯克大尺度预言",
-      "onboard_time": 1779616942,
-      "rank": 47,
-      "category": "汽车"
     },
     {
       "raw_hot": 65821,
@@ -1692,7 +1724,7 @@
     },
     {
       "raw_hot": 38260,
-      "num": 358830,
+      "num": 361162,
       "word": "大眼音乐节现场全员开嚼",
       "onboard_time": 1779618022,
       "rank": 15,

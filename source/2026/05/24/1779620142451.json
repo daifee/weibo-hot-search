@@ -1,0 +1,410 @@
+{
+  "runTime": 1779620142451,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1315642,
+        "num": 1315642,
+        "word": "武汉停课停业",
+        "onboard_time": 1779608362,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 990015,
+        "num": 990015,
+        "word": "煤矿19点半爆炸工人22点才被通知",
+        "onboard_time": 1779615742,
+        "rank": 1,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 42328,
+        "num": 892576,
+        "word": "国产600公斤推力级涡扇发动机首飞成功",
+        "onboard_time": 1779606381,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1979956,
+        "num": 868403,
+        "word": "王鹤棣 沈月",
+        "onboard_time": 1779605483,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 816362,
+        "num": 816362,
+        "word": "两个淡人生了个浓人宝宝",
+        "onboard_time": 1779606142,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1206987,
+        "num": 805970,
+        "word": "李晨郑恺跑男停宣了",
+        "onboard_time": 1779584420,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 755183,
+        "num": 755183,
+        "word": "将门独后台词 你只是谢景行而已",
+        "onboard_time": 1779617962,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 375441,
+        "num": 375441,
+        "word": "小猫等了28年终于被收养了",
+        "onboard_time": 1779615082,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 165662,
+        "num": 374745,
+        "word": "法网",
+        "onboard_time": 1779616401,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 162007,
+        "num": 372532,
+        "word": "燃油车被时代抛弃了吗",
+        "onboard_time": 1779615322,
+        "rank": 9,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 12767872,
+        "num": 12767872,
+        "word": "苗苗也不舒服了",
+        "onboard_time": 1779610163,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1438841,
+        "num": 370017,
+        "word": "王鹤棣曾让沈月吸二手烟",
+        "onboard_time": 1779614362,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1048026,
+        "num": 367643,
+        "word": "68岁男子出轨90后生子称妻子同意",
+        "onboard_time": 1779618082,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 819240,
+        "num": 364887,
+        "word": "不舒服文学下沉出圈",
+        "onboard_time": 1779605181,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 798219,
+        "num": 363576,
+        "word": "机建燃油费",
+        "onboard_time": 1779618203,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37447,
+        "num": 361162,
+        "word": "大眼音乐节现场全员开嚼",
+        "onboard_time": 1779618022,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 1982688,
+        "num": 359315,
+        "word": "苗苗工作室回应",
+        "onboard_time": 1779615503,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 365225,
+        "num": 358663,
+        "word": "德国性侵案主犯直播作案过程",
+        "onboard_time": 1779616342,
+        "rank": 17,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1114511,
+        "num": 356890,
+        "word": "以爱为营",
+        "onboard_time": 1779618022,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 293067,
+        "num": 354857,
+        "word": "男子踩中蛇窝被咬10多口",
+        "onboard_time": 1779601043,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 778220,
+        "num": 352266,
+        "word": "王楚然高反是睡着了还是晕了",
+        "onboard_time": 1779611844,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 487323,
+        "num": 351874,
+        "word": "卢昱晓线下活动被吐槽",
+        "onboard_time": 1779619942,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 318999,
+        "num": 350098,
+        "word": "姜乘澜关于贴双眼皮贴的小分享",
+        "onboard_time": 1779619162,
+        "rank": 22,
+        "category": "美妆,网红"
+      },
+      {
+        "raw_hot": 373873,
+        "num": 348299,
+        "word": "张予曦的讨厌真的很明显",
+        "onboard_time": 1779616043,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 373389,
+        "num": 346440,
+        "word": "BTS成员闵玧其插队被骂",
+        "onboard_time": 1779606083,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 277107,
+        "num": 343621,
+        "word": "煤矿爆炸时247人下井仅记录124人",
+        "onboard_time": 1779589342,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 320956,
+        "num": 342356,
+        "word": "五月天阿信道歉",
+        "onboard_time": 1779605483,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 289405,
+        "num": 340947,
+        "word": "刘诗诗越南活动",
+        "onboard_time": 1779613702,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 257182,
+        "num": 339354,
+        "word": "最后他的脸型居然被完全复制了",
+        "onboard_time": 1779609923,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 213954,
+        "num": 335937,
+        "word": "印度高温肆虐蝙蝠从树上坠落奄奄一息",
+        "onboard_time": 1779614422,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 263357,
+        "num": 335344,
+        "word": "林一 人永远不知道谁会旺你",
+        "onboard_time": 1779619582,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 232797,
+        "num": 333312,
+        "word": "仙逆",
+        "onboard_time": 1779619523,
+        "rank": 31,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 261180,
+        "num": 330530,
+        "word": "NMIXX CORTIS",
+        "onboard_time": 1779618141,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 257272,
+        "num": 329053,
+        "word": "曝杨紫在接触女君和熹",
+        "onboard_time": 1779607162,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171583,
+        "num": 327937,
+        "word": "盒马60元一斤网红葡萄卖断货",
+        "onboard_time": 1779602242,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 235934,
+        "num": 326266,
+        "word": "鹿晗控诉五哈P图严重",
+        "onboard_time": 1779602302,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 215610,
+        "num": 324878,
+        "word": "任权前女友回怼薛小婉",
+        "onboard_time": 1779610222,
+        "rank": 36,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 159117,
+        "num": 322590,
+        "word": "女子因漏放吸管辱骂砸打店员",
+        "onboard_time": 1779605842,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 209824,
+        "num": 321099,
+        "word": "刘诗诗旗袍簪花",
+        "onboard_time": 1779620123,
+        "rank": 38,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 203999,
+        "num": 319570,
+        "word": "杜江霍思燕为妈妈庆祝70大寿",
+        "onboard_time": 1779607043,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156915,
+        "num": 316613,
+        "word": "漳州杨梅果农哽咽求助",
+        "onboard_time": 1779619403,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 199223,
+        "num": 315347,
+        "word": "郭碧婷爸爸晒与向笙向芷合照",
+        "onboard_time": 1779606862,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186963,
+        "num": 313817,
+        "word": "宝莲妆造",
+        "onboard_time": 1779614001,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142894,
+        "num": 311705,
+        "word": "NIP对战EDG",
+        "onboard_time": 1779620062,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 185796,
+        "num": 308982,
+        "word": "鹿晗 五哈forever",
+        "onboard_time": 1779615262,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137408,
+        "num": 308024,
+        "word": "iOS27全新功能",
+        "onboard_time": 1779611303,
+        "rank": 45,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 121200,
+        "num": 306340,
+        "word": "借账户炒股19年不赚反亏476万元",
+        "onboard_time": 1779617362,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 74518,
+        "num": 303511,
+        "word": "周鸿祎谈马斯克大尺度预言",
+        "onboard_time": 1779616942,
+        "rank": 47,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 133834,
+        "num": 302503,
+        "word": "一看就是块学数学的料",
+        "onboard_time": 1779619462,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 175455,
+        "num": 301237,
+        "word": "杨紫又有一部大女主剧",
+        "onboard_time": 1779617541,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#时刻绷紧安全生产这根弦#"
+    }
+  }
+}

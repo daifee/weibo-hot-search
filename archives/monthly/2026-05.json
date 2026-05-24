@@ -1,6 +1,6 @@
 {
   "startTime": 1777565126834,
-  "endTime": 1779619694649,
+  "endTime": 1779620142451,
   "band_list": [
     {
       "raw_hot": 28198949,
@@ -139,6 +139,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 12767872,
+      "num": 12767872,
+      "word": "苗苗也不舒服了",
+      "onboard_time": 1779610163,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 12337365,
       "num": 13587365,
       "word": "浏阳烟花厂爆炸致26死61伤",
@@ -177,14 +185,6 @@
       "onboard_time": 1778721860,
       "rank": 16,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 9945194,
-      "num": 9945194,
-      "word": "苗苗也不舒服了",
-      "onboard_time": 1779610163,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 9761642,
@@ -1516,7 +1516,7 @@
     },
     {
       "raw_hot": 2169174,
-      "num": 353924,
+      "num": 359315,
       "word": "苗苗工作室回应",
       "onboard_time": 1779615503,
       "rank": 18,
@@ -2891,6 +2891,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1438841,
+      "num": 370017,
+      "word": "王鹤棣曾让沈月吸二手烟",
+      "onboard_time": 1779614362,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1437252,
       "num": 386464,
       "word": "至今不知道庾澄庆家有多难搞",
@@ -3715,14 +3723,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1204286,
-      "num": 350070,
-      "word": "王鹤棣曾让沈月吸二手烟",
-      "onboard_time": 1779614362,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1203882,
       "num": 389741,
       "word": "赵樱子回应蒋毅妻子喊话",
@@ -4499,6 +4499,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1048026,
+      "num": 367643,
+      "word": "68岁男子出轨90后生子称妻子同意",
+      "onboard_time": 1779618082,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1047082,
       "num": 1047082,
       "word": "国乒急需下一个樊振东王楚钦",
@@ -4537,14 +4545,6 @@
       "onboard_time": 1778287703,
       "rank": 11,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1029405,
-      "num": 363292,
-      "word": "68岁男子出轨90后生子称妻子同意",
-      "onboard_time": 1779618082,
-      "rank": 12,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1028996,
@@ -4785,6 +4785,14 @@
       "onboard_time": 1779248901,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 990015,
+      "num": 990015,
+      "word": "煤矿19点半爆炸工人22点才被通知",
+      "onboard_time": 1779615742,
+      "rank": 1,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 989517,
@@ -5057,14 +5065,6 @@
       "onboard_time": 1778282299,
       "rank": 11,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 961290,
-      "num": 961290,
-      "word": "煤矿19点半爆炸工人22点才被通知",
-      "onboard_time": 1779615742,
-      "rank": 1,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 958230,
@@ -6635,6 +6635,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 798219,
+      "num": 363576,
+      "word": "机建燃油费",
+      "onboard_time": 1779191840,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 796449,
       "num": 796449,
       "word": "二十七八岁什么感觉",
@@ -7025,14 +7033,6 @@
       "onboard_time": 1779440900,
       "rank": 5,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 767129,
-      "num": 356581,
-      "word": "机建燃油费",
-      "onboard_time": 1779191840,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 766722,
@@ -12156,7 +12156,7 @@
     },
     {
       "raw_hot": 494468,
-      "num": 354827,
+      "num": 358663,
       "word": "德国性侵案主犯直播作案过程",
       "onboard_time": 1779616342,
       "rank": 17,
@@ -12348,7 +12348,7 @@
     },
     {
       "raw_hot": 490245,
-      "num": 347856,
+      "num": 348299,
       "word": "张予曦的讨厌真的很明显",
       "onboard_time": 1779616043,
       "rank": 21,
@@ -12425,6 +12425,14 @@
       "onboard_time": 1779029841,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 487323,
+      "num": 351874,
+      "word": "卢昱晓线下活动被吐槽",
+      "onboard_time": 1779619942,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 486489,
@@ -16027,6 +16035,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 375441,
+      "num": 375441,
+      "word": "小猫等了28年终于被收养了",
+      "onboard_time": 1779615082,
+      "rank": 7,
+      "category": "情感"
+    },
+    {
       "raw_hot": 375311,
       "num": 375311,
       "word": "林诗栋vs张禹珍",
@@ -16153,14 +16169,6 @@
       "onboard_time": 1777970424,
       "rank": 16,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 371730,
-      "num": 371730,
-      "word": "小猫等了28年终于被收养了",
-      "onboard_time": 1779615082,
-      "rank": 7,
-      "category": "情感"
     },
     {
       "raw_hot": 371679,
@@ -18691,6 +18699,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 318999,
+      "num": 350098,
+      "word": "姜乘澜关于贴双眼皮贴的小分享",
+      "onboard_time": 1779619162,
+      "rank": 30,
+      "category": "美妆,网红"
+    },
+    {
       "raw_hot": 318490,
       "num": 302890,
       "word": "刘耀文裤子",
@@ -20235,6 +20251,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 289405,
+      "num": 340947,
+      "word": "刘诗诗越南活动",
+      "onboard_time": 1779613702,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 289360,
       "num": 486686,
       "word": "红包分组",
@@ -20465,14 +20489,6 @@
       "onboard_time": 1777683559,
       "rank": 23,
       "category": "情感"
-    },
-    {
-      "raw_hot": 285549,
-      "num": 336246,
-      "word": "刘诗诗越南活动",
-      "onboard_time": 1779613702,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 285421,
@@ -21811,6 +21827,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 263357,
+      "num": 335344,
+      "word": "林一 人永远不知道谁会旺你",
+      "onboard_time": 1779619582,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 263307,
       "num": 434756,
       "word": "国务院成立浏阳烟花爆炸事故调查组",
@@ -21897,6 +21921,14 @@
       "onboard_time": 1778834120,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 261180,
+      "num": 330823,
+      "word": "NMIXX CORTIS",
+      "onboard_time": 1779618141,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 261110,
@@ -22889,14 +22921,6 @@
       "onboard_time": 1778495301,
       "rank": 26,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 249171,
-      "num": 331520,
-      "word": "姜乘澜关于贴双眼皮贴的小分享",
-      "onboard_time": 1779619162,
-      "rank": 30,
-      "category": "美妆,网红"
     },
     {
       "raw_hot": 249156,
@@ -23963,14 +23987,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 236359,
-      "num": 330823,
-      "word": "NMIXX CORTIS",
-      "onboard_time": 1779618141,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 236347,
       "num": 219989,
       "word": "千里江山图妆造",
@@ -24275,6 +24291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 232797,
+      "num": 385055,
+      "word": "仙逆",
+      "onboard_time": 1777804825,
+      "rank": 44,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 232752,
       "num": 232752,
       "word": "老人疑因地铁座位撕扯女孩",
@@ -24436,7 +24460,7 @@
     },
     {
       "raw_hot": 231516,
-      "num": 371221,
+      "num": 374745,
       "word": "法网",
       "onboard_time": 1779616401,
       "rank": 8,
@@ -24969,14 +24993,6 @@
       "onboard_time": 1778924300,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 225277,
-      "num": 324130,
-      "word": "林一 人永远不知道谁会旺你",
-      "onboard_time": 1779619582,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 225215,
@@ -26371,6 +26387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 209824,
+      "num": 321099,
+      "word": "刘诗诗旗袍簪花",
+      "onboard_time": 1779620123,
+      "rank": 38,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 209787,
       "num": 514259,
       "word": "庾澄庆淘汰缺席歌手采访",
@@ -26393,14 +26417,6 @@
       "onboard_time": 1777637842,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 209661,
-      "num": 385055,
-      "word": "仙逆",
-      "onboard_time": 1777804825,
-      "rank": 44,
-      "category": "动漫"
     },
     {
       "raw_hot": 209614,
@@ -28851,6 +28867,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 185796,
+      "num": 308982,
+      "word": "鹿晗 五哈forever",
+      "onboard_time": 1779615262,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 185575,
       "num": 226516,
       "word": "突然就没有年龄焦虑了",
@@ -31163,14 +31187,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 166589,
-      "num": 307108,
-      "word": "鹿晗 五哈forever",
-      "onboard_time": 1779615262,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 166550,
       "num": 339154,
       "word": "郑钦文晒法网粉红色战袍",
@@ -31681,6 +31697,14 @@
       "onboard_time": 1778292799,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 162007,
+      "num": 372532,
+      "word": "燃油车被时代抛弃了吗",
+      "onboard_time": 1779615322,
+      "rank": 45,
+      "category": "汽车"
     },
     {
       "raw_hot": 161994,
@@ -32329,6 +32353,14 @@
       "onboard_time": 1778123780,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 156915,
+      "num": 316613,
+      "word": "漳州杨梅果农哽咽求助",
+      "onboard_time": 1779619403,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 156888,
@@ -33019,14 +33051,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 150980,
-      "num": 299736,
-      "word": "漳州杨梅果农哽咽求助",
-      "onboard_time": 1779619403,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 150969,
       "num": 150969,
       "word": "张凌赫 给纽约一些东方骨相的震撼",
@@ -33257,14 +33281,6 @@
       "onboard_time": 1779094759,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 149247,
-      "num": 306150,
-      "word": "燃油车被时代抛弃了吗",
-      "onboard_time": 1779615322,
-      "rank": 45,
-      "category": "汽车"
     },
     {
       "raw_hot": 149233,
@@ -33873,6 +33889,14 @@
       "onboard_time": 1778067622,
       "rank": 49,
       "category": "财经"
+    },
+    {
+      "raw_hot": 142894,
+      "num": 311705,
+      "word": "NIP对战EDG",
+      "onboard_time": 1779620062,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 142868,
@@ -34881,6 +34905,14 @@
       "onboard_time": 1778836761,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 133834,
+      "num": 302503,
+      "word": "一看就是块学数学的料",
+      "onboard_time": 1779619462,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 133760,
@@ -36403,6 +36435,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 121200,
+      "num": 306340,
+      "word": "借账户炒股19年不赚反亏476万元",
+      "onboard_time": 1779617362,
+      "rank": 46,
+      "category": "财经"
+    },
+    {
       "raw_hot": 121192,
       "num": 121192,
       "word": "花主人回应连夜更换警示牌",
@@ -37265,14 +37305,6 @@
       "onboard_time": 1777722501,
       "rank": 39,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 112334,
-      "num": 302773,
-      "word": "借账户炒股19年不赚反亏476万元",
-      "onboard_time": 1779617362,
-      "rank": 46,
-      "category": "财经"
     },
     {
       "raw_hot": 111913,
@@ -40307,6 +40339,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 74518,
+      "num": 303511,
+      "word": "周鸿祎谈马斯克大尺度预言",
+      "onboard_time": 1779616942,
+      "rank": 47,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 74375,
       "num": 161910,
       "word": "特朗普说访问中国非常荣幸",
@@ -40993,14 +41033,6 @@
       "onboard_time": 1778926460,
       "rank": 15,
       "category": "电影"
-    },
-    {
-      "raw_hot": 65977,
-      "num": 301900,
-      "word": "周鸿祎谈马斯克大尺度预言",
-      "onboard_time": 1779616942,
-      "rank": 47,
-      "category": "汽车"
     },
     {
       "raw_hot": 65785,
@@ -44028,7 +44060,7 @@
     },
     {
       "raw_hot": 38260,
-      "num": 358830,
+      "num": 361162,
       "word": "大眼音乐节现场全员开嚼",
       "onboard_time": 1779618022,
       "rank": 15,
