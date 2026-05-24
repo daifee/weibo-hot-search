@@ -1,6 +1,6 @@
 {
   "startTime": 1779638894290,
-  "endTime": 1779640503381,
+  "endTime": 1779645888005,
   "band_list": [
     {
       "raw_hot": 5187594,
@@ -179,20 +179,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 482248,
+      "num": 930524,
+      "word": "谢娜主持能力",
+      "onboard_time": 1779640224,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 474853,
       "num": 1518965,
       "word": "神23点火升空",
       "onboard_time": 1779635787,
       "rank": 6,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 466106,
-      "num": 930524,
-      "word": "谢娜主持能力",
-      "onboard_time": 1779640224,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 459312,
@@ -387,6 +387,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 157632,
+      "num": 567133,
+      "word": "刘浩存首部破万女主剧",
+      "onboard_time": 1779641178,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 124158,
       "num": 1209113,
       "word": "黎家盈展示肩膀上的国旗",
@@ -403,12 +411,60 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 119648,
+      "num": 560166,
+      "word": "曾沛慈 谁再说徐梦洁唱歌不好听",
+      "onboard_time": 1779642019,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 112008,
+      "num": 553433,
+      "word": "翟子路发了和刘浩存合照",
+      "onboard_time": 1779635367,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 111824,
       "num": 1196800,
       "word": "水晶宫vs阿森纳",
       "onboard_time": 1779636565,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 107013,
+      "num": 552113,
+      "word": "宝莲组dancebreak神了",
+      "onboard_time": 1779636925,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 102348,
+      "num": 550201,
+      "word": "黄灿灿踩张月的裙子",
+      "onboard_time": 1779636385,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 99935,
+      "num": 549461,
+      "word": "青春修炼手册903票",
+      "onboard_time": 1779631704,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 91501,
+      "num": 547030,
+      "word": "黄圣依 初代浪姐不养闲人",
+      "onboard_time": 1779627863,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 91397,
@@ -427,6 +483,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 64768,
+      "num": 544042,
+      "word": "扁鹊原皮海报优化",
+      "onboard_time": 1779641600,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 51681,
       "num": 1293330,
       "word": "雅迪给张柏芝的仪式感绝了",
@@ -443,7 +507,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 44202,
+      "raw_hot": 49803,
       "num": 1030514,
       "word": "中国空间站组合体已进入对接轨道",
       "onboard_time": 1779639380,

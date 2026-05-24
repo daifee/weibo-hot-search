@@ -1,6 +1,6 @@
 {
   "startTime": 1779556240361,
-  "endTime": 1779640503381,
+  "endTime": 1779645888005,
   "band_list": [
     {
       "raw_hot": 12767872,
@@ -739,6 +739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 482248,
+      "num": 930524,
+      "word": "谢娜主持能力",
+      "onboard_time": 1779640224,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 475136,
       "num": 660168,
       "word": "曝杨紫在接触女君和熹",
@@ -761,14 +769,6 @@
       "onboard_time": 1779549266,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 466106,
-      "num": 930524,
-      "word": "谢娜主持能力",
-      "onboard_time": 1779640224,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 463899,
@@ -1715,6 +1715,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 157632,
+      "num": 567133,
+      "word": "刘浩存首部破万女主剧",
+      "onboard_time": 1779641178,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 154268,
       "num": 830926,
       "word": "14省区市大到暴雨",
@@ -1915,12 +1923,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 119648,
+      "num": 560166,
+      "word": "曾沛慈 谁再说徐梦洁唱歌不好听",
+      "onboard_time": 1779642019,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 112040,
       "num": 340265,
       "word": "EDG战胜NIP",
       "onboard_time": 1779621082,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 112008,
+      "num": 553433,
+      "word": "翟子路发了和刘浩存合照",
+      "onboard_time": 1779635367,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 111824,
@@ -1955,6 +1979,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 107013,
+      "num": 552113,
+      "word": "宝莲组dancebreak神了",
+      "onboard_time": 1779636925,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 106361,
       "num": 784418,
       "word": "耐高决赛",
@@ -1987,6 +2019,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 102348,
+      "num": 550201,
+      "word": "黄灿灿踩张月的裙子",
+      "onboard_time": 1779636385,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 102146,
       "num": 786565,
       "word": "经销商亏本甩卖燃油车",
@@ -2001,6 +2041,14 @@
       "onboard_time": 1779591802,
       "rank": 17,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 99935,
+      "num": 549461,
+      "word": "青春修炼手册903票",
+      "onboard_time": 1779631704,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 96488,
@@ -2235,6 +2283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 64768,
+      "num": 544042,
+      "word": "扁鹊原皮海报优化",
+      "onboard_time": 1779641600,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 63324,
       "num": 225204,
       "word": "信钟馗FMVP皮肤",
@@ -2331,6 +2387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 49803,
+      "num": 1030514,
+      "word": "中国空间站组合体已进入对接轨道",
+      "onboard_time": 1779639380,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 47597,
       "num": 1284390,
       "word": "国产600公斤推力级涡扇发动机首飞成功",
@@ -2361,14 +2425,6 @@
       "onboard_time": 1779557659,
       "rank": 49,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 44202,
-      "num": 1030514,
-      "word": "中国空间站组合体已进入对接轨道",
-      "onboard_time": 1779639380,
-      "rank": 8,
-      "category": "国内时政"
     },
     {
       "raw_hot": 39558,
