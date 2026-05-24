@@ -1,0 +1,410 @@
+{
+  "runTime": 1779664286411,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 309420,
+        "num": 676243,
+        "word": "浪姐排名",
+        "onboard_time": 1779635966,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 238341,
+        "num": 487895,
+        "word": "神23发射成功",
+        "onboard_time": 1779636864,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 26577,
+        "num": 400653,
+        "word": "直播神23发射",
+        "onboard_time": 1779630205,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 528304,
+        "num": 308630,
+        "word": "谢娜主持能力",
+        "onboard_time": 1779640224,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 192300,
+        "num": 192300,
+        "word": "7只半导体热门股拟套现近127亿",
+        "onboard_time": 1779635727,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 502153,
+        "num": 191620,
+        "word": "王濛 我们就一个群",
+        "onboard_time": 1779633804,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163636,
+        "num": 163636,
+        "word": "武汉停课停业",
+        "onboard_time": 1779608362,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154971,
+        "num": 154971,
+        "word": "官方通报小区马匹受惊致女童死亡",
+        "onboard_time": 1779634824,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115152,
+        "num": 115152,
+        "word": "中国空间站组合体已进入对接轨道",
+        "onboard_time": 1779639380,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 174043,
+        "num": 115009,
+        "word": "刘晓艳回应叮嘱高颜值女生视频走红",
+        "onboard_time": 1779628646,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 645008,
+        "num": 114634,
+        "word": "王鹤棣直播人气",
+        "onboard_time": 1779639321,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 407382,
+        "num": 113644,
+        "word": "汪峰晒与四个孩子合照",
+        "onboard_time": 1779638362,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155676,
+        "num": 113608,
+        "word": "死了么APP又改名了",
+        "onboard_time": 1779624322,
+        "rank": 12,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 320453,
+        "num": 112880,
+        "word": "折磨三天最后还是淘汰侯宇",
+        "onboard_time": 1779639501,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175338,
+        "num": 112412,
+        "word": "李连杰回应换年轻武僧心脏",
+        "onboard_time": 1779624744,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145109,
+        "num": 111621,
+        "word": "网红主播把假一赔万当成口号",
+        "onboard_time": 1779651554,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 404503,
+        "num": 111084,
+        "word": "王鹤棣风波后首度公开亮相",
+        "onboard_time": 1779629484,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131201,
+        "num": 111026,
+        "word": "温峥嵘 可不可以我走",
+        "onboard_time": 1779630864,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 37927,
+        "num": 110049,
+        "word": "小虎",
+        "onboard_time": 1779663678,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 138368,
+        "num": 109735,
+        "word": "侯宇淘汰",
+        "onboard_time": 1779635126,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126706,
+        "num": 109146,
+        "word": "刘浩存首部破万女主剧",
+        "onboard_time": 1779641178,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112498,
+        "num": 108896,
+        "word": "68岁男子出轨90后生子称妻子同意",
+        "onboard_time": 1779618082,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100174,
+        "num": 107990,
+        "word": "煤矿19点半爆炸工人22点才被通知",
+        "onboard_time": 1779615742,
+        "rank": 22,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 108239,
+        "num": 107594,
+        "word": "白玉兰",
+        "onboard_time": 1779628824,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 79190,
+        "num": 107399,
+        "word": "王霏霏孟佳这段好强",
+        "onboard_time": 1779639321,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 73072,
+        "num": 106799,
+        "word": "央视曝光多品牌用商标擦边",
+        "onboard_time": 1779631163,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77756,
+        "num": 105912,
+        "word": "缘分一道桥拿什么输",
+        "onboard_time": 1779632186,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 76524,
+        "num": 105633,
+        "word": "黄灿灿踩张月的裙子",
+        "onboard_time": 1779636385,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 40479,
+        "num": 105218,
+        "word": "存储巨头冲刺IPO",
+        "onboard_time": 1779641840,
+        "rank": 28,
+        "category": "财经,互联网"
+      },
+      {
+        "raw_hot": 62920,
+        "num": 104804,
+        "word": "香港观众来送Madam黎出征太空",
+        "onboard_time": 1779634945,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 71825,
+        "num": 103955,
+        "word": "宝莲 麦好干",
+        "onboard_time": 1779633386,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 63732,
+        "num": 103801,
+        "word": "张艺上淘汰",
+        "onboard_time": 1779628224,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 58099,
+        "num": 103148,
+        "word": "巴西男子强奸女儿及其所生外孙女",
+        "onboard_time": 1779620783,
+        "rank": 32,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 63272,
+        "num": 102781,
+        "word": "青春修炼手册903票",
+        "onboard_time": 1779631704,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 12869,
+        "num": 101999,
+        "word": "LGD确认晋级淘汰赛",
+        "onboard_time": 1779663917,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 61692,
+        "num": 101481,
+        "word": "小澈复出了",
+        "onboard_time": 1779630628,
+        "rank": 35,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 55162,
+        "num": 101022,
+        "word": "王橹杰高会",
+        "onboard_time": 1779638183,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 43272,
+        "num": 100348,
+        "word": "台4月大女婴伴尸2天险被饿死",
+        "onboard_time": 1779634048,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 51585,
+        "num": 99788,
+        "word": "王濛团三公总票数",
+        "onboard_time": 1779662957,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 50811,
+        "num": 99742,
+        "word": "何洁秒了",
+        "onboard_time": 1779626603,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 42811,
+        "num": 98816,
+        "word": "男子钓鱼捞起一溺水婴儿",
+        "onboard_time": 1779627742,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 49962,
+        "num": 98256,
+        "word": "黄圣依 初代浪姐不养闲人",
+        "onboard_time": 1779627863,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 49607,
+        "num": 97882,
+        "word": "内娱最有名的七字真言",
+        "onboard_time": 1779625942,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 40630,
+        "num": 97413,
+        "word": "高考第一个出来的记得喊取消机建燃油费",
+        "onboard_time": 1779631645,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 44852,
+        "num": 96681,
+        "word": "窦骁演技真好",
+        "onboard_time": 1779646156,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 39703,
+        "num": 96471,
+        "word": "神23与空间站完成对接",
+        "onboard_time": 1779664038,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37742,
+        "num": 95681,
+        "word": "洛克王国再次补偿",
+        "onboard_time": 1779630144,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 37354,
+        "num": 95312,
+        "word": "神23报告航天员感觉良好",
+        "onboard_time": 1779638183,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 36955,
+        "num": 94631,
+        "word": "中国航天员第8次太空会师",
+        "onboard_time": 1779664158,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34475,
+        "num": 94463,
+        "word": "法网",
+        "onboard_time": 1779616401,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#时刻绷紧安全生产这根弦#"
+    }
+  }
+}

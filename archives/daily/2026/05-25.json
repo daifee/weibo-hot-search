@@ -1,6 +1,6 @@
 {
   "startTime": 1779638894290,
-  "endTime": 1779662019868,
+  "endTime": 1779664286411,
   "band_list": [
     {
       "raw_hot": 5187594,
@@ -155,6 +155,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 528304,
+      "num": 930524,
+      "word": "谢娜主持能力",
+      "onboard_time": 1779640224,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 520624,
       "num": 1459706,
       "word": "死了么APP又改名了",
@@ -177,14 +185,6 @@
       "onboard_time": 1779608362,
       "rank": 5,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 482248,
-      "num": 930524,
-      "word": "谢娜主持能力",
-      "onboard_time": 1779640224,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 474853,
@@ -395,6 +395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 145109,
+      "num": 111621,
+      "word": "网红主播把假一赔万当成口号",
+      "onboard_time": 1779651554,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 124158,
       "num": 1209113,
       "word": "黎家盈展示肩膀上的国旗",
@@ -417,6 +425,14 @@
       "onboard_time": 1779642019,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 115152,
+      "num": 1030514,
+      "word": "中国空间站组合体已进入对接轨道",
+      "onboard_time": 1779639380,
+      "rank": 8,
+      "category": "国内时政"
     },
     {
       "raw_hot": 112008,
@@ -467,14 +483,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 93472,
-      "num": 64355,
-      "word": "网红主播把假一赔万当成口号",
-      "onboard_time": 1779651554,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 91501,
       "num": 547030,
       "word": "黄圣依 初代浪姐不养闲人",
@@ -515,6 +523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 51585,
+      "num": 99788,
+      "word": "王濛团三公总票数",
+      "onboard_time": 1779662957,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 50148,
       "num": 864364,
       "word": "李宇春雅迪摩登之夜压轴",
@@ -523,20 +539,44 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 49803,
-      "num": 1030514,
-      "word": "中国空间站组合体已进入对接轨道",
-      "onboard_time": 1779639380,
-      "rank": 8,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 29855,
+      "raw_hot": 40479,
       "num": 388542,
       "word": "存储巨头冲刺IPO",
       "onboard_time": 1779641840,
       "rank": 48,
       "category": "财经,互联网"
+    },
+    {
+      "raw_hot": 39703,
+      "num": 96471,
+      "word": "神23与空间站完成对接",
+      "onboard_time": 1779664038,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 37927,
+      "num": 110049,
+      "word": "小虎",
+      "onboard_time": 1779663678,
+      "rank": 18,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 36955,
+      "num": 94631,
+      "word": "中国航天员第8次太空会师",
+      "onboard_time": 1779664158,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 34475,
+      "num": 94463,
+      "word": "法网",
+      "onboard_time": 1779616401,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 29032,
@@ -561,6 +601,14 @@
       "onboard_time": 1779648435,
       "rank": 47,
       "category": "电竞,电竞"
+    },
+    {
+      "raw_hot": 12869,
+      "num": 101999,
+      "word": "LGD确认晋级淘汰赛",
+      "onboard_time": 1779663917,
+      "rank": 34,
+      "category": "电竞"
     }
   ],
   "hotgov_list": [
