@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/05/25 00:08:14 ~ 2026/05/25 02:38:03
+本榜单时间：2026/05/25 00:08:14 ~ 2026/05/25 04:13:14
 </p>
 </blockquote>
 <p>
@@ -413,6 +413,18 @@ LPL登峰组变天了（热度：236357）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E5%A3%B0%E7%BA%AF%E4%BA%AB%E7%89%88%E7%A5%9E23%E5%8F%91%E5%B0%84%23" target="weibo">
 原声纯享版神23发射（热度：29032）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BA%A2%E4%B8%BB%E6%92%AD%E6%8A%8A%E5%81%87%E4%B8%80%E8%B5%94%E4%B8%87%E5%BD%93%E6%88%90%E5%8F%A3%E5%8F%B7%23" target="weibo">
+网红主播把假一赔万当成口号（热度：22608）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23DRG%E6%96%B0%E8%80%81%E4%BA%94%E4%BA%BA%E7%BB%84%E5%9B%A2%E7%9C%8B%E5%BE%90%E8%89%AF%23" target="weibo">
+DRG新老五人组团看徐良（热度：17274）
 </a>
 </li>
 
