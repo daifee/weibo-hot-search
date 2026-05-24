@@ -1,0 +1,410 @@
+{
+  "runTime": 1779581110924,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 721103,
+        "num": 1115376,
+        "word": "留神峪煤矿事故82人遇难",
+        "onboard_time": 1779551124,
+        "rank": 0,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 214818,
+        "num": 831989,
+        "word": "香港航天员黎家盈",
+        "onboard_time": 1779562215,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33877,
+        "num": 658379,
+        "word": "中国硬核实力又刷屏了",
+        "onboard_time": 1779539963,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 454038,
+        "num": 454038,
+        "word": "李登科声援沈月",
+        "onboard_time": 1779549266,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 331831,
+        "num": 331831,
+        "word": "在泳池游泳一定要学会踩水",
+        "onboard_time": 1779577155,
+        "rank": 4,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 302792,
+        "num": 302792,
+        "word": "留神峪煤矿有重大违法行为",
+        "onboard_time": 1779547826,
+        "rank": 5,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 292837,
+        "num": 292837,
+        "word": "孙怡看到曾沛慈票数的表情",
+        "onboard_time": 1779547526,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 244415,
+        "num": 244415,
+        "word": "不许再霸凌自己了",
+        "onboard_time": 1779546024,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 153307,
+        "num": 243903,
+        "word": "大奉打更人",
+        "onboard_time": 1779580399,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 35133,
+        "num": 242046,
+        "word": "黄仁勋希望内存供应商增加产能",
+        "onboard_time": 1779577337,
+        "rank": 9,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 741497,
+        "num": 241999,
+        "word": "王鹤棣对徐志胜的态度",
+        "onboard_time": 1779562936,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 594140,
+        "num": 240751,
+        "word": "高迪",
+        "onboard_time": 1779579079,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 282951,
+        "num": 238714,
+        "word": "山西煤矿爆炸事故进展",
+        "onboard_time": 1779569834,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 540183,
+        "num": 238096,
+        "word": "沈月工作室 你仅仅是沈月就很好",
+        "onboard_time": 1779536482,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 287361,
+        "num": 236215,
+        "word": "伊能静疑似力挺庾澄庆",
+        "onboard_time": 1779543386,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 251156,
+        "num": 235691,
+        "word": "男子回应结婚近两年从未同房",
+        "onboard_time": 1779579619,
+        "rank": 15,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 121134,
+        "num": 234289,
+        "word": "F1",
+        "onboard_time": 1779578717,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 82246,
+        "num": 233309,
+        "word": "特朗普称基本谈成美伊协议",
+        "onboard_time": 1779579979,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 217427,
+        "num": 231788,
+        "word": "小伙去银行定期存50万全程记录",
+        "onboard_time": 1779549444,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 210891,
+        "num": 231346,
+        "word": "留神峪煤矿企业对作业人数统计不清",
+        "onboard_time": 1779550284,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2947433,
+        "num": 229877,
+        "word": "王鹤棣",
+        "onboard_time": 1779578717,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 235324,
+        "num": 227975,
+        "word": "悄悄升高血糖的5个习惯",
+        "onboard_time": 1779579557,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 190363,
+        "num": 226697,
+        "word": "婚后长期分居无亲密关系男方盼离婚",
+        "onboard_time": 1779579678,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 189291,
+        "num": 226378,
+        "word": "单依纯终于原谅观众了",
+        "onboard_time": 1779547287,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151986,
+        "num": 224328,
+        "word": "超级潮的孙颖莎",
+        "onboard_time": 1779579798,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 141135,
+        "num": 223132,
+        "word": "拉小群时间线",
+        "onboard_time": 1779580099,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 133323,
+        "num": 221874,
+        "word": "我要的是闺女不是大学生",
+        "onboard_time": 1779546085,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 121777,
+        "num": 220755,
+        "word": "留神峪矿工说跑了2小时才出来",
+        "onboard_time": 1779539844,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 46930,
+        "num": 219765,
+        "word": "特朗普称美伊协议基本谈成",
+        "onboard_time": 1779580879,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 114982,
+        "num": 219040,
+        "word": "曾沛慈 踢馆歌手",
+        "onboard_time": 1779546085,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 103003,
+        "num": 217739,
+        "word": "窦靖童小时候是王菲的挂件",
+        "onboard_time": 1779542963,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 80133,
+        "num": 216649,
+        "word": "AG老板回应不敌狼队",
+        "onboard_time": 1779579798,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 78829,
+        "num": 215279,
+        "word": "张国清赶赴留神峪煤矿事故现场",
+        "onboard_time": 1779542244,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 76971,
+        "num": 214400,
+        "word": "李昀锐撩的不是关晓彤是丁程鑫吧",
+        "onboard_time": 1779549624,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 75847,
+        "num": 212698,
+        "word": "香港开展突击扫黄21名女子被捕",
+        "onboard_time": 1779580819,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 74591,
+        "num": 212072,
+        "word": "王濛短道速滑 也许放弃才能靠近你",
+        "onboard_time": 1779541044,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 70166,
+        "num": 210822,
+        "word": "棣月系超话头像变黑了",
+        "onboard_time": 1779524302,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 68534,
+        "num": 209581,
+        "word": "男子回应妻子胎停后脑梗智力变3岁",
+        "onboard_time": 1779545965,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 74328,
+        "num": 208253,
+        "word": "张月队长solo秀第一名",
+        "onboard_time": 1779551963,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 67509,
+        "num": 207576,
+        "word": "曝郭宇欣被公司起诉",
+        "onboard_time": 1779579859,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 63324,
+        "num": 205536,
+        "word": "信钟馗FMVP皮肤",
+        "onboard_time": 1779577696,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 66530,
+        "num": 204151,
+        "word": "家业收视率",
+        "onboard_time": 1779545904,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 63131,
+        "num": 203373,
+        "word": "神舟二十三号出征",
+        "onboard_time": 1779570914,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 56621,
+        "num": 202781,
+        "word": "孕妻脑梗变3岁当事人3年后新变化",
+        "onboard_time": 1779558917,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 53407,
+        "num": 201309,
+        "word": "航司取消航班 无赔偿",
+        "onboard_time": 1779558317,
+        "rank": 44,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 52720,
+        "num": 199988,
+        "word": "湖南石门一受灾村庄几乎没了",
+        "onboard_time": 1779552084,
+        "rank": 45,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 51481,
+        "num": 198205,
+        "word": "救援队救出17人后撤到湖北休整",
+        "onboard_time": 1779580699,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34087,
+        "num": 197463,
+        "word": "美国白宫附近传出枪声",
+        "onboard_time": 1779580218,
+        "rank": 47,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 50280,
+        "num": 196663,
+        "word": "山西煤矿事故仍有2人失联",
+        "onboard_time": 1779551244,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 48541,
+        "num": 195726,
+        "word": "就说王源的演出少看一场会出事",
+        "onboard_time": 1779550827,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#全力救治伤员科学组织搜救#"
+    }
+  }
+}

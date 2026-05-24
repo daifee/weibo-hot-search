@@ -1,6 +1,6 @@
 {
   "startTime": 1777565126834,
-  "endTime": 1779579052751,
+  "endTime": 1779581110924,
   "band_list": [
     {
       "raw_hot": 28198949,
@@ -843,6 +843,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2947433,
+      "num": 239075,
+      "word": "王鹤棣",
+      "onboard_time": 1779578717,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2920436,
       "num": 308428,
       "word": "疑似严浩翔妈妈发博",
@@ -1017,14 +1025,6 @@
       "onboard_time": 1778720120,
       "rank": 0,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 2611827,
-      "num": 239075,
-      "word": "王鹤棣",
-      "onboard_time": 1779578717,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 2611196,
@@ -5964,7 +5964,7 @@
     },
     {
       "raw_hot": 832364,
-      "num": 864199,
+      "num": 1115376,
       "word": "留神峪煤矿事故82人遇难",
       "onboard_time": 1779551124,
       "rank": 4,
@@ -7083,6 +7083,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 741497,
+      "num": 717509,
+      "word": "王鹤棣对徐志胜的态度",
+      "onboard_time": 1779562936,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 741120,
       "num": 993240,
       "word": "女子闪婚闪离起诉要千万房产的99%",
@@ -7417,14 +7425,6 @@
       "onboard_time": 1777823540,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 717509,
-      "num": 717509,
-      "word": "王鹤棣对徐志胜的态度",
-      "onboard_time": 1779562936,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 716615,
@@ -9441,6 +9441,14 @@
       "onboard_time": 1779521904,
       "rank": 9,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 594140,
+      "num": 240751,
+      "word": "高迪",
+      "onboard_time": 1779579079,
+      "rank": 11,
+      "category": "网红"
     },
     {
       "raw_hot": 593620,
@@ -17515,6 +17523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 331831,
+      "num": 331831,
+      "word": "在泳池游泳一定要学会踩水",
+      "onboard_time": 1779577155,
+      "rank": 23,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 331779,
       "num": 294584,
       "word": "香港80后地产女王烧炭身亡",
@@ -22163,6 +22179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 251156,
+      "num": 235691,
+      "word": "男子回应结婚近两年从未同房",
+      "onboard_time": 1779579619,
+      "rank": 15,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 250997,
       "num": 250997,
       "word": "31岁女子从60斤增到90斤像变个人",
@@ -23505,6 +23529,14 @@
       "onboard_time": 1777823302,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 235324,
+      "num": 227975,
+      "word": "悄悄升高血糖的5个习惯",
+      "onboard_time": 1779579557,
+      "rank": 21,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 235201,
@@ -25233,6 +25265,14 @@
       "onboard_time": 1777831935,
       "rank": 31,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 214818,
+      "num": 831989,
+      "word": "香港航天员黎家盈",
+      "onboard_time": 1779562215,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 214707,
@@ -27697,6 +27737,14 @@
       "onboard_time": 1778948241,
       "rank": 19,
       "category": "演出"
+    },
+    {
+      "raw_hot": 190363,
+      "num": 226697,
+      "word": "婚后长期分居无亲密关系男方盼离婚",
+      "onboard_time": 1779579678,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 190346,
@@ -31923,6 +31971,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 153307,
+      "num": 243903,
+      "word": "大奉打更人",
+      "onboard_time": 1779580399,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 153291,
       "num": 153291,
       "word": "苏新皓盲盒",
@@ -32057,6 +32113,14 @@
       "onboard_time": 1778761881,
       "rank": 29,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 151986,
+      "num": 224328,
+      "word": "超级潮的孙颖莎",
+      "onboard_time": 1779579798,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 151880,
@@ -33161,6 +33225,14 @@
       "onboard_time": 1778812701,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 141135,
+      "num": 223132,
+      "word": "拉小群时间线",
+      "onboard_time": 1779580099,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 140988,
@@ -35691,14 +35763,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 119293,
-      "num": 742068,
-      "word": "香港航天员黎家盈",
-      "onboard_time": 1779562215,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 119197,
       "num": 132472,
       "word": "清洁海绵每磨损1克释放650万微塑料",
@@ -36601,14 +36665,6 @@
       "onboard_time": 1777594219,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 108381,
-      "num": 223842,
-      "word": "在泳池游泳一定要学会踩水",
-      "onboard_time": 1779577155,
-      "rank": 23,
-      "category": "运动健身"
     },
     {
       "raw_hot": 108181,
@@ -38659,6 +38715,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 82246,
+      "num": 233309,
+      "word": "特朗普称基本谈成美伊协议",
+      "onboard_time": 1779579979,
+      "rank": 17,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 82243,
       "num": 229861,
       "word": "冰箱的寒气被生姜给逼出来了",
@@ -38889,6 +38953,14 @@
       "onboard_time": 1779037217,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 80133,
+      "num": 216649,
+      "word": "AG老板回应不敌狼队",
+      "onboard_time": 1779579798,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 80112,
@@ -39225,6 +39297,14 @@
       "onboard_time": 1778714057,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 75847,
+      "num": 212698,
+      "word": "香港开展突击扫黄21名女子被捕",
+      "onboard_time": 1779580819,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 75794,
@@ -39851,6 +39931,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 67509,
+      "num": 207576,
+      "word": "曝郭宇欣被公司起诉",
+      "onboard_time": 1779579859,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 67347,
       "num": 252118,
       "word": "13岁男孩被教官打伤后19小时未送医",
@@ -40163,12 +40251,28 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 63324,
+      "num": 225204,
+      "word": "信钟馗FMVP皮肤",
+      "onboard_time": 1779577696,
+      "rank": 22,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 63158,
       "num": 314450,
       "word": "杨洋张予曦新剧10集才相认",
       "onboard_time": 1779179601,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 63131,
+      "num": 231712,
+      "word": "神舟二十三号出征",
+      "onboard_time": 1779570914,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 63076,
@@ -40409,14 +40513,6 @@
       "onboard_time": 1778340860,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 60292,
-      "num": 225204,
-      "word": "信钟馗FMVP皮肤",
-      "onboard_time": 1779577696,
-      "rank": 22,
-      "category": "电竞"
     },
     {
       "raw_hot": 60267,
@@ -40835,6 +40931,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 56621,
+      "num": 211693,
+      "word": "孕妻脑梗变3岁当事人3年后新变化",
+      "onboard_time": 1779558917,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 56595,
       "num": 249977,
       "word": "周深回应演唱会哭",
@@ -40955,14 +41059,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 55936,
-      "num": 231712,
-      "word": "神舟二十三号出征",
-      "onboard_time": 1779570914,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 55883,
       "num": 279566,
       "word": "聂远12岁女儿好高",
@@ -41041,14 +41137,6 @@
       "onboard_time": 1778839520,
       "rank": 47,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 55201,
-      "num": 211693,
-      "word": "孕妻脑梗变3岁当事人3年后新变化",
-      "onboard_time": 1779558917,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 55166,
@@ -41449,6 +41537,14 @@
       "onboard_time": 1778072841,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 51481,
+      "num": 198205,
+      "word": "救援队救出17人后撤到湖北休整",
+      "onboard_time": 1779580699,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 51464,
@@ -41969,6 +42065,14 @@
       "onboard_time": 1779543744,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 46930,
+      "num": 219765,
+      "word": "特朗普称美伊协议基本谈成",
+      "onboard_time": 1779580879,
+      "rank": 28,
+      "category": "国际时政"
     },
     {
       "raw_hot": 46927,
@@ -43315,6 +43419,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 35133,
+      "num": 242046,
+      "word": "黄仁勋希望内存供应商增加产能",
+      "onboard_time": 1779577337,
+      "rank": 9,
+      "category": "数码"
+    },
+    {
       "raw_hot": 35131,
       "num": 217259,
       "word": "他用最危险的方式提醒你远离危险",
@@ -43443,6 +43555,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 34087,
+      "num": 197463,
+      "word": "美国白宫附近传出枪声",
+      "onboard_time": 1779580218,
+      "rank": 47,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 34074,
       "num": 140829,
       "word": "美政府官员称敌对行动已结束",
@@ -43456,6 +43576,14 @@
       "word": "龙海杨梅协会会长回应多地下架杨梅",
       "onboard_time": 1779316336,
       "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 33877,
+      "num": 726930,
+      "word": "中国硬核实力又刷屏了",
+      "onboard_time": 1779539963,
+      "rank": 2,
       "category": "民生新闻"
     },
     {
@@ -43760,14 +43888,6 @@
       "word": "胖东来回应主动退顾客iPhone差价",
       "onboard_time": 1779054254,
       "rank": 41,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 31750,
-      "num": 726930,
-      "word": "中国硬核实力又刷屏了",
-      "onboard_time": 1779539963,
-      "rank": 2,
       "category": "民生新闻"
     },
     {

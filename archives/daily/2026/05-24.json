@@ -1,9 +1,9 @@
 {
   "startTime": 1779556240361,
-  "endTime": 1779579052751,
+  "endTime": 1779581110924,
   "band_list": [
     {
-      "raw_hot": 2611827,
+      "raw_hot": 2947433,
       "num": 239075,
       "word": "王鹤棣",
       "onboard_time": 1779578717,
@@ -36,14 +36,14 @@
     },
     {
       "raw_hot": 832364,
-      "num": 864199,
+      "num": 1115376,
       "word": "留神峪煤矿事故82人遇难",
       "onboard_time": 1779551124,
       "rank": 4,
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 717509,
+      "raw_hot": 741497,
       "num": 717509,
       "word": "王鹤棣对徐志胜的态度",
       "onboard_time": 1779562936,
@@ -57,6 +57,14 @@
       "onboard_time": 1779546085,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 594140,
+      "num": 240751,
+      "word": "高迪",
+      "onboard_time": 1779579079,
+      "rank": 11,
+      "category": "网红"
     },
     {
       "raw_hot": 581406,
@@ -73,6 +81,14 @@
       "onboard_time": 1779549204,
       "rank": 5,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 540183,
+      "num": 246339,
+      "word": "沈月工作室 你仅仅是沈月就很好",
+      "onboard_time": 1779536482,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 518933,
@@ -92,19 +108,11 @@
     },
     {
       "raw_hot": 468743,
-      "num": 238140,
+      "num": 454038,
       "word": "李登科声援沈月",
       "onboard_time": 1779549266,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 457629,
-      "num": 246339,
-      "word": "沈月工作室 你仅仅是沈月就很好",
-      "onboard_time": 1779536482,
-      "rank": 5,
-      "category": "综艺"
     },
     {
       "raw_hot": 445097,
@@ -163,6 +171,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 331831,
+      "num": 331831,
+      "word": "在泳池游泳一定要学会踩水",
+      "onboard_time": 1779577155,
+      "rank": 23,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 317156,
       "num": 240662,
       "word": "山西煤矿爆炸事故进展",
@@ -203,11 +219,35 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 251156,
+      "num": 235691,
+      "word": "男子回应结婚近两年从未同房",
+      "onboard_time": 1779579619,
+      "rank": 15,
+      "category": "议题讨论"
+    },
+    {
+      "raw_hot": 235324,
+      "num": 227975,
+      "word": "悄悄升高血糖的5个习惯",
+      "onboard_time": 1779579557,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 216186,
       "num": 420563,
       "word": "留神峪矿工说跑了2小时才出来",
       "onboard_time": 1779539844,
       "rank": 21,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 214818,
+      "num": 831989,
+      "word": "香港航天员黎家盈",
+      "onboard_time": 1779562215,
+      "rank": 34,
       "category": "民生新闻"
     },
     {
@@ -235,6 +275,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 190363,
+      "num": 226697,
+      "word": "婚后长期分居无亲密关系男方盼离婚",
+      "onboard_time": 1779579678,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 181931,
       "num": 414532,
       "word": "山西煤矿事故仍有2人失联",
@@ -257,6 +305,22 @@
       "onboard_time": 1779550284,
       "rank": 27,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 153307,
+      "num": 243903,
+      "word": "大奉打更人",
+      "onboard_time": 1779580399,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 151986,
+      "num": 224328,
+      "word": "超级潮的孙颖莎",
+      "onboard_time": 1779579798,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 150140,
@@ -283,6 +347,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 141135,
+      "num": 223132,
+      "word": "拉小群时间线",
+      "onboard_time": 1779580099,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 133138,
       "num": 406308,
       "word": "就说王源的演出少看一场会出事",
@@ -307,20 +379,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 119293,
-      "num": 742068,
-      "word": "香港航天员黎家盈",
-      "onboard_time": 1779562215,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 108381,
-      "num": 223842,
-      "word": "在泳池游泳一定要学会踩水",
-      "onboard_time": 1779577155,
-      "rank": 23,
-      "category": "运动健身"
+      "raw_hot": 121134,
+      "num": 241651,
+      "word": "F1",
+      "onboard_time": 1779578717,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 106252,
@@ -371,6 +435,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 82246,
+      "num": 233309,
+      "word": "特朗普称基本谈成美伊协议",
+      "onboard_time": 1779579979,
+      "rank": 17,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 81295,
       "num": 395463,
       "word": "留神峪煤矿事故发布会",
@@ -395,6 +467,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 80133,
+      "num": 216649,
+      "word": "AG老板回应不敌狼队",
+      "onboard_time": 1779579798,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 78251,
       "num": 391292,
       "word": "SK的BP",
@@ -403,12 +483,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 75847,
+      "num": 212698,
+      "word": "香港开展突击扫黄21名女子被捕",
+      "onboard_time": 1779580819,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 72551,
       "num": 390407,
       "word": "赵嘉敏去看一诺决赛",
       "onboard_time": 1779532102,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 70166,
+      "num": 210822,
+      "word": "棣月系超话头像变黑了",
+      "onboard_time": 1779524302,
+      "rank": 36,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 69537,
@@ -427,6 +523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 67509,
+      "num": 207576,
+      "word": "曝郭宇欣被公司起诉",
+      "onboard_time": 1779579859,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 66529,
       "num": 386549,
       "word": "东北超",
@@ -443,20 +547,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 63324,
+      "num": 225204,
+      "word": "信钟馗FMVP皮肤",
+      "onboard_time": 1779577696,
+      "rank": 22,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 63131,
+      "num": 231712,
+      "word": "神舟二十三号出征",
+      "onboard_time": 1779570914,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 62425,
       "num": 383816,
       "word": "成龙是有什么把柄在吴彤手上吗",
       "onboard_time": 1779539063,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 60292,
-      "num": 225204,
-      "word": "信钟馗FMVP皮肤",
-      "onboard_time": 1779577696,
-      "rank": 22,
-      "category": "电竞"
     },
     {
       "raw_hot": 57485,
@@ -467,15 +579,7 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 55936,
-      "num": 231712,
-      "word": "神舟二十三号出征",
-      "onboard_time": 1779570914,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 55201,
+      "raw_hot": 56621,
       "num": 211693,
       "word": "孕妻脑梗变3岁当事人3年后新变化",
       "onboard_time": 1779558917,
@@ -483,12 +587,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 51461,
-      "num": 241651,
-      "word": "F1",
-      "onboard_time": 1779578717,
-      "rank": 8,
-      "category": "体育"
+      "raw_hot": 51481,
+      "num": 198205,
+      "word": "救援队救出17人后撤到湖北休整",
+      "onboard_time": 1779580699,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 47476,
@@ -497,6 +601,14 @@
       "onboard_time": 1779570794,
       "rank": 40,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 46930,
+      "num": 219765,
+      "word": "特朗普称美伊协议基本谈成",
+      "onboard_time": 1779580879,
+      "rank": 28,
+      "category": "国际时政"
     },
     {
       "raw_hot": 46421,
@@ -515,7 +627,23 @@
       "category": "体育"
     },
     {
-      "raw_hot": 31750,
+      "raw_hot": 35133,
+      "num": 242046,
+      "word": "黄仁勋希望内存供应商增加产能",
+      "onboard_time": 1779577337,
+      "rank": 9,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 34087,
+      "num": 197463,
+      "word": "美国白宫附近传出枪声",
+      "onboard_time": 1779580218,
+      "rank": 47,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 33877,
       "num": 726930,
       "word": "中国硬核实力又刷屏了",
       "onboard_time": 1779539963,
