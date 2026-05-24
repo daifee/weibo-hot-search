@@ -1,6 +1,6 @@
 {
   "startTime": 1779556240361,
-  "endTime": 1779624389403,
+  "endTime": 1779626503530,
   "band_list": [
     {
       "raw_hot": 12767872,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 1901505,
-      "num": 416706,
+      "num": 545785,
       "word": "王鹤棣曾让沈月吸二手烟",
       "onboard_time": 1779614362,
       "rank": 20,
@@ -147,8 +147,16 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1351207,
+      "num": 1351207,
+      "word": "浪姐直播",
+      "onboard_time": 1779622042,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1306406,
-      "num": 395825,
+      "num": 492575,
       "word": "以爱为营",
       "onboard_time": 1779618022,
       "rank": 11,
@@ -160,6 +168,14 @@
       "word": "伊能静疑似力挺庾澄庆",
       "onboard_time": 1779543386,
       "rank": 10,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1281082,
+      "num": 539293,
+      "word": "浪姐 辱追",
+      "onboard_time": 1779625222,
+      "rank": 13,
       "category": "综艺"
     },
     {
@@ -195,6 +211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1193671,
+      "num": 528345,
+      "word": "迪丽热巴在我边上做头发",
+      "onboard_time": 1779624322,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1192402,
       "num": 618513,
       "word": "沈月涨粉量",
@@ -204,7 +228,7 @@
     },
     {
       "raw_hot": 1121879,
-      "num": 415043,
+      "num": 517923,
       "word": "68岁男子出轨90后生子称妻子同意",
       "onboard_time": 1779618082,
       "rank": 12,
@@ -227,6 +251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1040241,
+      "num": 543029,
+      "word": "死了么APP又改名了",
+      "onboard_time": 1779624322,
+      "rank": 46,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 990015,
       "num": 990015,
       "word": "煤矿19点半爆炸工人22点才被通知",
@@ -235,16 +267,8 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 975667,
-      "num": 975667,
-      "word": "浪姐直播",
-      "onboard_time": 1779622042,
-      "rank": 1,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 938241,
-      "num": 411157,
+      "num": 527762,
       "word": "机建燃油费",
       "onboard_time": 1779618203,
       "rank": 16,
@@ -268,7 +292,7 @@
     },
     {
       "raw_hot": 866037,
-      "num": 406808,
+      "num": 514875,
       "word": "卢昱晓线下活动被吐槽",
       "onboard_time": 1779619942,
       "rank": 21,
@@ -348,7 +372,7 @@
     },
     {
       "raw_hot": 664928,
-      "num": 398581,
+      "num": 509272,
       "word": "巴西男子强奸女儿及其所生外孙女",
       "onboard_time": 1779620783,
       "rank": 20,
@@ -360,6 +384,14 @@
       "word": "曾沛慈 踢馆歌手",
       "onboard_time": 1779546085,
       "rank": 11,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 595791,
+      "num": 595791,
+      "word": "张予曦的讨厌真的很明显",
+      "onboard_time": 1779616043,
+      "rank": 21,
       "category": "综艺"
     },
     {
@@ -403,6 +435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 550618,
+      "num": 504600,
+      "word": "假如我是王鹤棣工作室",
+      "onboard_time": 1779623482,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 540183,
       "num": 246339,
       "word": "沈月工作室 你仅仅是沈月就很好",
@@ -417,6 +457,22 @@
       "onboard_time": 1779585622,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 532307,
+      "num": 500356,
+      "word": "内娱最有名的七字真言",
+      "onboard_time": 1779625942,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 530246,
+      "num": 496753,
+      "word": "李连杰回应换年轻武僧心脏",
+      "onboard_time": 1779624744,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 518933,
@@ -443,14 +499,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 490245,
-      "num": 427736,
-      "word": "张予曦的讨厌真的很明显",
-      "onboard_time": 1779616043,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 489118,
       "num": 613953,
       "word": "惠英红 算你不对算你没用",
@@ -465,14 +513,6 @@
       "onboard_time": 1779607162,
       "rank": 20,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 471203,
-      "num": 384094,
-      "word": "假如我是王鹤棣工作室",
-      "onboard_time": 1779623482,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 468743,
@@ -500,7 +540,7 @@
     },
     {
       "raw_hot": 451791,
-      "num": 451791,
+      "num": 550410,
       "word": "姜乘澜关于贴双眼皮贴的小分享",
       "onboard_time": 1779619162,
       "rank": 30,
@@ -540,7 +580,7 @@
     },
     {
       "raw_hot": 424412,
-      "num": 425997,
+      "num": 535889,
       "word": "AG",
       "onboard_time": 1779620423,
       "rank": 6,
@@ -548,7 +588,7 @@
     },
     {
       "raw_hot": 423904,
-      "num": 389118,
+      "num": 472286,
       "word": "林一 人永远不知道谁会旺你",
       "onboard_time": 1779619582,
       "rank": 34,
@@ -587,6 +627,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 405607,
+      "num": 562475,
+      "word": "宝莲呼声",
+      "onboard_time": 1779625162,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 381513,
       "num": 650870,
       "word": "鹿晗控诉五哈P图严重",
@@ -596,7 +644,7 @@
     },
     {
       "raw_hot": 375441,
-      "num": 424812,
+      "num": 494439,
       "word": "小猫等了28年终于被收养了",
       "onboard_time": 1779615082,
       "rank": 7,
@@ -643,6 +691,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 348356,
+      "num": 489668,
+      "word": "杨紫直播",
+      "onboard_time": 1779623362,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 346518,
       "num": 424079,
       "word": "张月队长solo秀第一名",
@@ -659,14 +715,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 342413,
-      "num": 400537,
-      "word": "杨紫直播",
-      "onboard_time": 1779623362,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 342067,
       "num": 551479,
       "word": "我要的是闺女不是大学生",
@@ -675,12 +723,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 340702,
+      "num": 481526,
+      "word": "另一个天堂 视听盛宴",
+      "onboard_time": 1779626062,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 339199,
       "num": 255632,
       "word": "张凌赫这明明是个live咋不动了",
       "onboard_time": 1779584842,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 332992,
+      "num": 478442,
+      "word": "张月团萧蔷团pk",
+      "onboard_time": 1779624922,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 331831,
@@ -745,6 +809,14 @@
       "onboard_time": 1779600682,
       "rank": 31,
       "category": "演出"
+    },
+    {
+      "raw_hot": 292007,
+      "num": 559139,
+      "word": "燃油车被时代抛弃了吗",
+      "onboard_time": 1779615322,
+      "rank": 45,
+      "category": "汽车"
     },
     {
       "raw_hot": 289673,
@@ -812,7 +884,7 @@
     },
     {
       "raw_hot": 273950,
-      "num": 375421,
+      "num": 446803,
       "word": "刘诗诗旗袍簪花",
       "onboard_time": 1779620123,
       "rank": 38,
@@ -836,7 +908,7 @@
     },
     {
       "raw_hot": 262291,
-      "num": 423204,
+      "num": 533432,
       "word": "俄确认使用榛树打击乌克兰",
       "onboard_time": 1779620361,
       "rank": 8,
@@ -867,6 +939,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 253990,
+      "num": 556393,
+      "word": "武契奇到访长城",
+      "onboard_time": 1779624203,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 251156,
       "num": 247585,
       "word": "男子回应结婚近两年从未同房",
@@ -883,6 +963,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 243352,
+      "num": 458076,
+      "word": "徐洁儿高音",
+      "onboard_time": 1779625043,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 240603,
       "num": 684794,
       "word": "留神峪煤矿现场发现隐藏巷道",
@@ -897,6 +985,14 @@
       "onboard_time": 1779581540,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 238105,
+      "num": 457486,
+      "word": "主角",
+      "onboard_time": 1779621021,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 237205,
@@ -916,7 +1012,7 @@
     },
     {
       "raw_hot": 232797,
-      "num": 371292,
+      "num": 502592,
       "word": "仙逆",
       "onboard_time": 1779619523,
       "rank": 9,
@@ -924,7 +1020,7 @@
     },
     {
       "raw_hot": 231516,
-      "num": 379965,
+      "num": 446604,
       "word": "法网",
       "onboard_time": 1779616401,
       "rank": 8,
@@ -948,7 +1044,7 @@
     },
     {
       "raw_hot": 229406,
-      "num": 347803,
+      "num": 454101,
       "word": "印度高温肆虐蝙蝠从树上坠落奄奄一息",
       "onboard_time": 1779614422,
       "rank": 27,
@@ -969,22 +1065,6 @@
       "onboard_time": 1779594562,
       "rank": 16,
       "category": "体育"
-    },
-    {
-      "raw_hot": 219899,
-      "num": 367354,
-      "word": "主角",
-      "onboard_time": 1779621021,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 219636,
-      "num": 420249,
-      "word": "燃油车被时代抛弃了吗",
-      "onboard_time": 1779615322,
-      "rank": 45,
-      "category": "汽车"
     },
     {
       "raw_hot": 216186,
@@ -1132,11 +1212,19 @@
     },
     {
       "raw_hot": 186772,
-      "num": 381384,
+      "num": 449818,
       "word": "漳州杨梅果农哽咽求助",
       "onboard_time": 1779619403,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 186584,
+      "num": 485837,
+      "word": "一看就是块学数学的料",
+      "onboard_time": 1779619462,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 185967,
@@ -1195,12 +1283,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 180875,
-      "num": 350328,
-      "word": "迪丽热巴在我边上做头发",
-      "onboard_time": 1779624322,
-      "rank": 43,
-      "category": "艺人"
+      "raw_hot": 177146,
+      "num": 475113,
+      "word": "WBG对战LGD",
+      "onboard_time": 1779623662,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 176135,
@@ -1235,6 +1323,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 163231,
+      "num": 482157,
+      "word": "男子吃野生石斑鱼籽中毒尚无解药",
+      "onboard_time": 1779624623,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 160982,
+      "num": 469640,
+      "word": "母亲将有暗伤枇杷装箱男子整箱倒掉",
+      "onboard_time": 1779622943,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 159817,
       "num": 568926,
       "word": "iOS27全新功能",
@@ -1251,11 +1355,11 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 155187,
-      "num": 343847,
-      "word": "母亲将有暗伤枇杷装箱男子整箱倒掉",
-      "onboard_time": 1779622943,
-      "rank": 47,
+      "raw_hot": 154268,
+      "num": 830926,
+      "word": "14省区市大到暴雨",
+      "onboard_time": 1779606203,
+      "rank": 2,
       "category": "民生新闻"
     },
     {
@@ -1339,14 +1443,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 144354,
-      "num": 357986,
-      "word": "WBG对战LGD",
-      "onboard_time": 1779623662,
-      "rank": 40,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 144133,
       "num": 408683,
       "word": "男子回应妻子胎停后脑梗智力变3岁",
@@ -1395,28 +1491,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 133834,
-      "num": 354128,
-      "word": "一看就是块学数学的料",
-      "onboard_time": 1779619462,
-      "rank": 48,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 133138,
       "num": 406308,
       "word": "就说王源的演出少看一场会出事",
       "onboard_time": 1779550827,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 129277,
-      "num": 830926,
-      "word": "14省区市大到暴雨",
-      "onboard_time": 1779606203,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 128449,
@@ -1515,14 +1595,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 102345,
-      "num": 345606,
-      "word": "死了么APP又改名了",
-      "onboard_time": 1779624322,
-      "rank": 46,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 101813,
       "num": 645852,
       "word": "当AI有一副人的身体",
@@ -1577,6 +1649,14 @@
       "onboard_time": 1779540142,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 83724,
+      "num": 553795,
+      "word": "神23出征仪式",
+      "onboard_time": 1779625402,
+      "rank": 8,
+      "category": "国内时政"
     },
     {
       "raw_hot": 81295,
@@ -1657,6 +1737,14 @@
       "onboard_time": 1779532102,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 70824,
+      "num": 521552,
+      "word": "留神峪煤矿工人说自己是外包的",
+      "onboard_time": 1779625461,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 70287,
@@ -1875,14 +1963,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 35204,
-      "num": 377997,
-      "word": "武契奇到访长城",
-      "onboard_time": 1779624203,
-      "rank": 30,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 35133,
       "num": 242046,
       "word": "黄仁勋希望内存供应商增加产能",
@@ -1961,6 +2041,14 @@
       "onboard_time": 1779611964,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 28435,
+      "num": 522734,
+      "word": "姚冠宇转场是瑷尔博士",
+      "onboard_time": 1779625102,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 25264,
