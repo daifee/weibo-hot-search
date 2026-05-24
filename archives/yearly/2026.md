@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/05/24 20:41:43
+本榜单时间：2026/01/01 00:35:36 ~ 2026/05/24 22:30:37
 </p>
 </blockquote>
 <p>
@@ -1245,6 +1245,12 @@ JYP从JYP辞职了（热度：4682490）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E9%A3%8E%E6%B3%A2%E5%90%8E%E9%A6%96%E5%BA%A6%E5%85%AC%E5%BC%80%E4%BA%AE%E7%9B%B8%23" target="weibo">
+王鹤棣风波后首度公开亮相（热度：3868687）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%86%E5%9C%B0cp%23" target="weibo">
 陆地cp（热度：3864671）
 </a>
@@ -1805,12 +1811,6 @@ TFING全员换头像了（热度：3035952）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%83%E4%B8%83%E7%9A%84%E6%AF%95%E4%B8%9A%E4%BD%9C%E5%93%81%23" target="weibo">
 七七的毕业作品（热度：3032044）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E4%B8%80%E8%AF%BA%20%E6%B2%A1%E4%B9%89%E5%8A%A1%E6%9B%BF%E6%AA%80%E5%81%A5%E6%AC%A1%E6%89%BF%E5%8F%97%E6%8A%B9%E9%BB%91%23" target="weibo">
-刘一诺 没义务替檀健次承受抹黑（热度：3020265）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1779626503530,
+  "endTime": 1779633037193,
   "band_list": [
     {
       "raw_hot": 46860992,
@@ -1643,6 +1643,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 3868687,
+      "num": 924920,
+      "word": "王鹤棣风波后首度公开亮相",
+      "onboard_time": 1779629484,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 3864671,
       "num": 424379,
       "word": "陆地cp",
@@ -2392,14 +2400,6 @@
       "word": "七七的毕业作品",
       "onboard_time": 1779200002,
       "rank": 11,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 3020265,
-      "num": 201730,
-      "word": "刘一诺 没义务替檀健次承受抹黑",
-      "onboard_time": 1768014739,
-      "rank": 20,
       "category": "艺人"
     }
   ],
