@@ -1,0 +1,410 @@
+{
+  "runTime": 1779613653930,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1648517,
+        "num": 1648517,
+        "word": "武汉停课停业",
+        "onboard_time": 1779608362,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 940100,
+        "num": 1014952,
+        "word": "长鑫科技",
+        "onboard_time": 1779608541,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 44949,
+        "num": 862809,
+        "word": "国产600公斤推力级涡扇发动机首飞成功",
+        "onboard_time": 1779606381,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 3384626,
+        "num": 854027,
+        "word": "王鹤棣 沈月",
+        "onboard_time": 1779605483,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1172792,
+        "num": 816037,
+        "word": "两个淡人生了个浓人宝宝",
+        "onboard_time": 1779606142,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1778687,
+        "num": 791724,
+        "word": "李晨郑恺跑男停宣了",
+        "onboard_time": 1779584420,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 713591,
+        "num": 713591,
+        "word": "男子踩中蛇窝被咬10多口",
+        "onboard_time": 1779601043,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 501165,
+        "num": 712750,
+        "word": "煤矿爆炸时247人下井仅记录124人",
+        "onboard_time": 1779589342,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 380121,
+        "num": 709115,
+        "word": "盒马60元一斤网红葡萄卖断货",
+        "onboard_time": 1779602242,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 269102,
+        "num": 705148,
+        "word": "第一幕都不觉得她化妆了",
+        "onboard_time": 1779595761,
+        "rank": 9,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 5449284,
+        "num": 699588,
+        "word": "苗苗也不舒服了",
+        "onboard_time": 1779610163,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1601653,
+        "num": 698410,
+        "word": "不舒服文学下沉出圈",
+        "onboard_time": 1779605181,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 864194,
+        "num": 695639,
+        "word": "北大医学硕士提供迷奸用药建议",
+        "onboard_time": 1779610522,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1421909,
+        "num": 690872,
+        "word": "客栈官号放了王鹤棣徐志胜的切片",
+        "onboard_time": 1779604581,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1241735,
+        "num": 688708,
+        "word": "王楚然高反是睡着了还是晕了",
+        "onboard_time": 1779611844,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 240603,
+        "num": 684794,
+        "word": "留神峪煤矿现场发现隐藏巷道",
+        "onboard_time": 1779611964,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 4683865,
+        "num": 681611,
+        "word": "苗苗转发李晨郑恺跑男停宣",
+        "onboard_time": 1779609981,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109546,
+        "num": 677288,
+        "word": "李诗沣卫冕男单冠军",
+        "onboard_time": 1779610522,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 734870,
+        "num": 673628,
+        "word": "BTS成员闵玧其插队被骂",
+        "onboard_time": 1779606083,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 440762,
+        "num": 670874,
+        "word": "孙怡 女儿出名妈妈就有了名字",
+        "onboard_time": 1779593782,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 354137,
+        "num": 667517,
+        "word": "最后他的脸型居然被完全复制了",
+        "onboard_time": 1779609923,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 531979,
+        "num": 662521,
+        "word": "五月天阿信道歉",
+        "onboard_time": 1779605483,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 385404,
+        "num": 660168,
+        "word": "曝杨紫在接触女君和熹",
+        "onboard_time": 1779607162,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 235823,
+        "num": 653765,
+        "word": "霸王茶姬geelato新品爆火",
+        "onboard_time": 1779597083,
+        "rank": 23,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 381513,
+        "num": 650870,
+        "word": "鹿晗控诉五哈P图严重",
+        "onboard_time": 1779602302,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 255221,
+        "num": 649719,
+        "word": "任权前女友回怼薛小婉",
+        "onboard_time": 1779610222,
+        "rank": 25,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 188190,
+        "num": 644297,
+        "word": "2女儿溺亡父亲索赔270万判赔9.2万",
+        "onboard_time": 1779604643,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 241534,
+        "num": 639521,
+        "word": "杨紫张一山军训合照",
+        "onboard_time": 1779600322,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108523,
+        "num": 638894,
+        "word": "KPL老乡杯决赛",
+        "onboard_time": 1779612983,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 150218,
+        "num": 634311,
+        "word": "DeepSeek崩了",
+        "onboard_time": 1779607043,
+        "rank": 29,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 228720,
+        "num": 632059,
+        "word": "杜江霍思燕为妈妈庆祝70大寿",
+        "onboard_time": 1779607043,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 217080,
+        "num": 625404,
+        "word": "刘宇宁说因为粉丝和朋友产生隔阂很傻",
+        "onboard_time": 1779594803,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183329,
+        "num": 623324,
+        "word": "只要站起来会发现水其实很浅",
+        "onboard_time": 1779595941,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 213153,
+        "num": 620985,
+        "word": "郭碧婷爸爸晒与向笙向芷合照",
+        "onboard_time": 1779606862,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 209615,
+        "num": 617024,
+        "word": "EXO回忆参加快乐大本营",
+        "onboard_time": 1779600682,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 182289,
+        "num": 611149,
+        "word": "重庆永川暴雨3死17失联",
+        "onboard_time": 1779611783,
+        "rank": 35,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 181654,
+        "num": 608944,
+        "word": "田嘉瑞去参加婚礼了",
+        "onboard_time": 1779611363,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181012,
+        "num": 606722,
+        "word": "野泳男子嬉戏中将4名女孩逼向深水区",
+        "onboard_time": 1779607702,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 178440,
+        "num": 603886,
+        "word": "重庆永川特大暴雨",
+        "onboard_time": 1779610222,
+        "rank": 38,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 175730,
+        "num": 598705,
+        "word": "武契奇抵京",
+        "onboard_time": 1779597083,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 159147,
+        "num": 594937,
+        "word": "沈月涨粉量",
+        "onboard_time": 1779589882,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 18076,
+        "num": 591026,
+        "word": "男子赴泰出差失联妻子即将临产",
+        "onboard_time": 1779612803,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159014,
+        "num": 589489,
+        "word": "女子因漏放吸管辱骂砸打店员",
+        "onboard_time": 1779605842,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150338,
+        "num": 584923,
+        "word": "婚后2年未同房女方否认身体有障碍",
+        "onboard_time": 1779612922,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146377,
+        "num": 579788,
+        "word": "朴槿惠出狱后首次公开露面助选",
+        "onboard_time": 1779607224,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 144588,
+        "num": 576261,
+        "word": "广东湿到冒泡",
+        "onboard_time": 1779596841,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 126616,
+        "num": 575102,
+        "word": "张大奕怀二胎",
+        "onboard_time": 1779601283,
+        "rank": 46,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 100394,
+        "num": 568926,
+        "word": "iOS27全新功能",
+        "onboard_time": 1779611303,
+        "rank": 47,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 56061,
+        "num": 568337,
+        "word": "全球首个开源鸿蒙机器人系统",
+        "onboard_time": 1779613463,
+        "rank": 48,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 126491,
+        "num": 564150,
+        "word": "伊能静体面",
+        "onboard_time": 1779609562,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#每次事故都是一记警钟#"
+    }
+  }
+}
