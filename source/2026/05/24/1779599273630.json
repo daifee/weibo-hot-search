@@ -1,0 +1,410 @@
+{
+  "runTime": 1779599273630,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2528935,
+        "num": 2528935,
+        "word": "煤矿爆炸时247人下井仅记录124人",
+        "onboard_time": 1779589342,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1419142,
+        "num": 1554055,
+        "word": "大奉打更人",
+        "onboard_time": 1779580399,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 52055,
+        "num": 1266788,
+        "word": "神舟二十三号出征",
+        "onboard_time": 1779570914,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 5850819,
+        "num": 1201036,
+        "word": "李晨郑恺 不舒服",
+        "onboard_time": 1779591202,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 780020,
+        "num": 780020,
+        "word": "武契奇抵京",
+        "onboard_time": 1779597083,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 739173,
+        "num": 739173,
+        "word": "第一幕都不觉得她化妆了",
+        "onboard_time": 1779595761,
+        "rank": 5,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 595661,
+        "num": 595661,
+        "word": "霸王茶姬geelato新品爆火",
+        "onboard_time": 1779597083,
+        "rank": 6,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 412467,
+        "num": 412467,
+        "word": "枪击发生时特朗普正在白宫",
+        "onboard_time": 1779587662,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 358085,
+        "num": 410629,
+        "word": "广东湿到冒泡",
+        "onboard_time": 1779596841,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 2393,
+        "num": 410078,
+        "word": "主角的收视率",
+        "onboard_time": 1779598882,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 839212,
+        "num": 408192,
+        "word": "给阿嬷的情书票房破十亿",
+        "onboard_time": 1779595761,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1108134,
+        "num": 405142,
+        "word": "女子回应从未同房被要求退返72万",
+        "onboard_time": 1779594082,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 3513973,
+        "num": 402953,
+        "word": "张彬彬曾因王鹤棣脑震荡",
+        "onboard_time": 1779598762,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 3500019,
+        "num": 400675,
+        "word": "李晨郑恺跑男停宣了",
+        "onboard_time": 1779584420,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 277044,
+        "num": 399443,
+        "word": "重庆永川暴雨",
+        "onboard_time": 1779590662,
+        "rank": 14,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 1362321,
+        "num": 397530,
+        "word": "孙怡 女儿出名妈妈就有了名字",
+        "onboard_time": 1779593782,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 225947,
+        "num": 396424,
+        "word": "尼克斯3比0骑士",
+        "onboard_time": 1779594562,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 101813,
+        "num": 394225,
+        "word": "当AI有一副人的身体",
+        "onboard_time": 1779591802,
+        "rank": 17,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 370758,
+        "num": 391612,
+        "word": "德国性侵案涉多名985毕业生",
+        "onboard_time": 1779598822,
+        "rank": 18,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 3224312,
+        "num": 390181,
+        "word": "王鹤棣沈月 再见朋友",
+        "onboard_time": 1779583702,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 349599,
+        "num": 388394,
+        "word": "女儿被缰绳绕颈妈妈跑不过马好绝望",
+        "onboard_time": 1779597621,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1241142,
+        "num": 385072,
+        "word": "刘宇宁说因为粉丝和朋友产生隔阂很傻",
+        "onboard_time": 1779594803,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 561661,
+        "num": 382979,
+        "word": "张凌赫太多人的隐私就不发了",
+        "onboard_time": 1779588983,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 382251,
+        "num": 380549,
+        "word": "只要站起来会发现水其实很浅",
+        "onboard_time": 1779595941,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 227327,
+        "num": 379720,
+        "word": "123人没登记就下井了",
+        "onboard_time": 1779596543,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 226289,
+        "num": 377210,
+        "word": "重庆永川暴雨致多人失联",
+        "onboard_time": 1779590001,
+        "rank": 25,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 1192402,
+        "num": 376345,
+        "word": "沈月涨粉量",
+        "onboard_time": 1779589882,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 533892,
+        "num": 373104,
+        "word": "不舒服文学",
+        "onboard_time": 1779585622,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 372860,
+        "num": 371367,
+        "word": "每天刷手机5小时以上的人都怎么样了",
+        "onboard_time": 1779592762,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 489118,
+        "num": 369703,
+        "word": "惠英红 算你不对算你没用",
+        "onboard_time": 1779597261,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 459207,
+        "num": 368204,
+        "word": "程涛为白鹿发声",
+        "onboard_time": 1779582200,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 324639,
+        "num": 366172,
+        "word": "本周狗屎运最旺的星座",
+        "onboard_time": 1779588201,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 321350,
+        "num": 363195,
+        "word": "6岁患癌女童冻存卵巢",
+        "onboard_time": 1779584721,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 280802,
+        "num": 362516,
+        "word": "娜扎好震撼的腿",
+        "onboard_time": 1779584480,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 254649,
+        "num": 360059,
+        "word": "华为培训会是认识时代少年团",
+        "onboard_time": 1779593962,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206238,
+        "num": 358446,
+        "word": "日本订购400枚战斧交付将严重延误",
+        "onboard_time": 1779593722,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 152604,
+        "num": 355984,
+        "word": "IG道歉",
+        "onboard_time": 1779590181,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 249331,
+        "num": 352625,
+        "word": "严浩翔捡东西吓得贺峻霖摸眼睛",
+        "onboard_time": 1779595341,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134692,
+        "num": 352463,
+        "word": "手擀面的手擀竟然是商标",
+        "onboard_time": 1779593662,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 70173,
+        "num": 350463,
+        "word": "董璇上半熟恋人紧张的是张维伊",
+        "onboard_time": 1779598882,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 243260,
+        "num": 348211,
+        "word": "赵今麦流浪地球3杀青",
+        "onboard_time": 1779584542,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 186902,
+        "num": 346047,
+        "word": "宠物博主不一定要有猫",
+        "onboard_time": 1779596721,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 207411,
+        "num": 343847,
+        "word": "浪姐 初心",
+        "onboard_time": 1779594743,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185967,
+        "num": 341182,
+        "word": "一诺哭了",
+        "onboard_time": 1779582862,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 166550,
+        "num": 339154,
+        "word": "郑钦文晒法网粉红色战袍",
+        "onboard_time": 1779591802,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 55363,
+        "num": 337213,
+        "word": "AI时代最不可替代的东西",
+        "onboard_time": 1779595341,
+        "rank": 45,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 53034,
+        "num": 336230,
+        "word": "山西煤矿事故现场机器人参与搜救",
+        "onboard_time": 1779588263,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163349,
+        "num": 332846,
+        "word": "邓超问鹿晗敢回答孙俪吗",
+        "onboard_time": 1779597621,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129283,
+        "num": 331773,
+        "word": "湖南衡阳发生火灾5死1伤",
+        "onboard_time": 1779585561,
+        "rank": 48,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 107265,
+        "num": 330441,
+        "word": "留神峪煤矿事故82人遇难",
+        "onboard_time": 1779551124,
+        "rank": 49,
+        "category": "突发/灾害"
+      }
+    ],
+    "hotgov": {
+      "word": "#时刻绷紧安全生产这根弦#"
+    }
+  }
+}
