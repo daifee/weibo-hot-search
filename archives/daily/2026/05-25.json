@@ -1,6 +1,6 @@
 {
   "startTime": 1779638894290,
-  "endTime": 1779658377720,
+  "endTime": 1779660193617,
   "band_list": [
     {
       "raw_hot": 5187594,
@@ -507,6 +507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 50460,
+      "num": 50460,
+      "word": "网红主播把假一赔万当成口号",
+      "onboard_time": 1779651554,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 50148,
       "num": 864364,
       "word": "李宇春雅迪摩登之夜压轴",
@@ -537,14 +545,6 @@
       "onboard_time": 1779641840,
       "rank": 49,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 25882,
-      "num": 35877,
-      "word": "网红主播把假一赔万当成口号",
-      "onboard_time": 1779651554,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 17274,
