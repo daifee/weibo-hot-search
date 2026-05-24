@@ -1,6 +1,6 @@
 {
   "startTime": 1779638894290,
-  "endTime": 1779645888005,
+  "endTime": 1779647883351,
   "band_list": [
     {
       "raw_hot": 5187594,
@@ -459,6 +459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 97268,
+      "num": 410515,
+      "word": "窦骁演技真好",
+      "onboard_time": 1779646156,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 91501,
       "num": 547030,
       "word": "黄圣依 初代浪姐不养闲人",
@@ -513,6 +521,22 @@
       "onboard_time": 1779639380,
       "rank": 8,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 29855,
+      "num": 388542,
+      "word": "存储巨头冲刺IPO",
+      "onboard_time": 1779641840,
+      "rank": 48,
+      "category": "财经,互联网"
+    },
+    {
+      "raw_hot": 29032,
+      "num": 387488,
+      "word": "原声纯享版神23发射",
+      "onboard_time": 1779641840,
+      "rank": 49,
+      "category": "国内时政"
     }
   ],
   "hotgov_list": [
@@ -521,6 +545,9 @@
     },
     {
       "word": "#时刻绷紧安全生产这根弦#"
+    },
+    {
+      "word": "#每次事故都是一记警钟#"
     }
   ]
 }

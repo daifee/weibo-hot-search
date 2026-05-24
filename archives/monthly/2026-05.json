@@ -1,6 +1,6 @@
 {
   "startTime": 1777565126834,
-  "endTime": 1779645888005,
+  "endTime": 1779647883351,
   "band_list": [
     {
       "raw_hot": 28198949,
@@ -39107,6 +39107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 97268,
+      "num": 410515,
+      "word": "窦骁演技真好",
+      "onboard_time": 1779646156,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 97023,
       "num": 126231,
       "word": "周琦失误",
@@ -45963,6 +45971,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 29855,
+      "num": 388542,
+      "word": "存储巨头冲刺IPO",
+      "onboard_time": 1779641840,
+      "rank": 48,
+      "category": "财经,互联网"
+    },
+    {
       "raw_hot": 29734,
       "num": 129944,
       "word": "人民日报夜读",
@@ -46041,6 +46057,14 @@
       "onboard_time": 1777713800,
       "rank": 39,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 29032,
+      "num": 387488,
+      "word": "原声纯享版神23发射",
+      "onboard_time": 1779641840,
+      "rank": 49,
+      "category": "国内时政"
     },
     {
       "raw_hot": 29025,
