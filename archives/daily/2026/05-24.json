@@ -1,7 +1,15 @@
 {
   "startTime": 1779556240361,
-  "endTime": 1779613653930,
+  "endTime": 1779619694649,
   "band_list": [
+    {
+      "raw_hot": 9945194,
+      "num": 9945194,
+      "word": "苗苗也不舒服了",
+      "onboard_time": 1779610163,
+      "rank": 16,
+      "category": "艺人"
+    },
     {
       "raw_hot": 5850819,
       "num": 1201036,
@@ -9,14 +17,6 @@
       "onboard_time": 1779591202,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 5449284,
-      "num": 699588,
-      "word": "苗苗也不舒服了",
-      "onboard_time": 1779610163,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 5133867,
@@ -75,6 +75,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 2169174,
+      "num": 353924,
+      "word": "苗苗工作室回应",
+      "onboard_time": 1779615503,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1827922,
       "num": 256471,
       "word": "王鹤棣沈月疑似互删",
@@ -131,6 +139,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1306406,
+      "num": 364950,
+      "word": "以爱为营",
+      "onboard_time": 1779618022,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1292397,
       "num": 534856,
       "word": "伊能静疑似力挺庾澄庆",
@@ -163,6 +179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1204286,
+      "num": 350070,
+      "word": "王鹤棣曾让沈月吸二手烟",
+      "onboard_time": 1779614362,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1192402,
       "num": 618513,
       "word": "沈月涨粉量",
@@ -185,6 +209,22 @@
       "onboard_time": 1779594082,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1029405,
+      "num": 363292,
+      "word": "68岁男子出轨90后生子称妻子同意",
+      "onboard_time": 1779618082,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 961290,
+      "num": 961290,
+      "word": "煤矿19点半爆炸工人22点才被通知",
+      "onboard_time": 1779615742,
+      "rank": 1,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 927227,
@@ -243,12 +283,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 774363,
+      "num": 774363,
+      "word": "将门独后台词 你只是谢景行而已",
+      "onboard_time": 1779617962,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 768150,
       "num": 695052,
       "word": "霸王茶姬geelato新品爆火",
       "onboard_time": 1779597083,
       "rank": 6,
       "category": "美食"
+    },
+    {
+      "raw_hot": 767129,
+      "num": 356581,
+      "word": "机建燃油费",
+      "onboard_time": 1779618203,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 741497,
@@ -352,6 +408,22 @@
       "word": "郭本尼唯爱孙怡",
       "onboard_time": 1779553102,
       "rank": 14,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 494468,
+      "num": 354827,
+      "word": "德国性侵案主犯直播作案过程",
+      "onboard_time": 1779616342,
+      "rank": 17,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 490245,
+      "num": 347856,
+      "word": "张予曦的讨厌真的很明显",
+      "onboard_time": 1779616043,
+      "rank": 21,
       "category": "综艺"
     },
     {
@@ -473,6 +545,14 @@
       "onboard_time": 1779592762,
       "rank": 28,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 371730,
+      "num": 371730,
+      "word": "小猫等了28年终于被收养了",
+      "onboard_time": 1779615082,
+      "rank": 7,
+      "category": "情感"
     },
     {
       "raw_hot": 358085,
@@ -619,6 +699,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 285549,
+      "num": 336246,
+      "word": "刘诗诗越南活动",
+      "onboard_time": 1779613702,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 281961,
       "num": 423795,
       "word": "狼队信FMVP",
@@ -699,6 +787,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 249171,
+      "num": 331520,
+      "word": "姜乘澜关于贴双眼皮贴的小分享",
+      "onboard_time": 1779619162,
+      "rank": 30,
+      "category": "美妆,网红"
+    },
+    {
       "raw_hot": 240603,
       "num": 684794,
       "word": "留神峪煤矿现场发现隐藏巷道",
@@ -723,12 +819,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 236359,
+      "num": 330823,
+      "word": "NMIXX CORTIS",
+      "onboard_time": 1779618141,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 235324,
       "num": 236829,
       "word": "悄悄升高血糖的5个习惯",
       "onboard_time": 1779579557,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 231516,
+      "num": 371221,
+      "word": "法网",
+      "onboard_time": 1779616401,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 231068,
@@ -747,6 +859,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 229406,
+      "num": 336474,
+      "word": "印度高温肆虐蝙蝠从树上坠落奄奄一息",
+      "onboard_time": 1779614422,
+      "rank": 27,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 226289,
       "num": 607846,
       "word": "重庆永川暴雨致多人失联",
@@ -761,6 +881,14 @@
       "onboard_time": 1779594562,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 225277,
+      "num": 324130,
+      "word": "林一 人永远不知道谁会旺你",
+      "onboard_time": 1779619582,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 216186,
@@ -801,6 +929,14 @@
       "onboard_time": 1779549924,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 209661,
+      "num": 369238,
+      "word": "仙逆",
+      "onboard_time": 1779619523,
+      "rank": 9,
+      "category": "动漫"
     },
     {
       "raw_hot": 207411,
@@ -851,12 +987,36 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 199518,
+      "num": 318930,
+      "word": "宝莲妆造",
+      "onboard_time": 1779614001,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 198534,
+      "num": 314658,
+      "word": "杨紫又有一部大女主剧",
+      "onboard_time": 1779617541,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 193720,
       "num": 416189,
       "word": "家业收视率",
       "onboard_time": 1779545904,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 192160,
+      "num": 325704,
+      "word": "拒同房女子称不是因嫌弃丈夫而吐",
+      "onboard_time": 1779614902,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 190363,
@@ -931,6 +1091,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 166589,
+      "num": 307108,
+      "word": "鹿晗 五哈forever",
+      "onboard_time": 1779615262,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 166550,
       "num": 339154,
       "word": "郑钦文晒法网粉红色战袍",
@@ -945,6 +1113,14 @@
       "onboard_time": 1779597621,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 159817,
+      "num": 568926,
+      "word": "iOS27全新功能",
+      "onboard_time": 1779611303,
+      "rank": 48,
+      "category": "数码"
     },
     {
       "raw_hot": 159191,
@@ -987,6 +1163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 150980,
+      "num": 299736,
+      "word": "漳州杨梅果农哽咽求助",
+      "onboard_time": 1779619403,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 150338,
       "num": 584923,
       "word": "婚后2年未同房女方否认身体有障碍",
@@ -1001,6 +1185,14 @@
       "onboard_time": 1779546206,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 149247,
+      "num": 306150,
+      "word": "燃油车被时代抛弃了吗",
+      "onboard_time": 1779615322,
+      "rank": 45,
+      "category": "汽车"
     },
     {
       "raw_hot": 147288,
@@ -1115,6 +1307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 112334,
+      "num": 302773,
+      "word": "借账户炒股19年不赚反亏476万元",
+      "onboard_time": 1779617362,
+      "rank": 46,
+      "category": "财经"
+    },
+    {
       "raw_hot": 110830,
       "num": 539050,
       "word": "社工考试",
@@ -1169,14 +1369,6 @@
       "onboard_time": 1779591802,
       "rank": 17,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 100394,
-      "num": 568926,
-      "word": "iOS27全新功能",
-      "onboard_time": 1779611303,
-      "rank": 48,
-      "category": "数码"
     },
     {
       "raw_hot": 96488,
@@ -1363,6 +1555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 65977,
+      "num": 301900,
+      "word": "周鸿祎谈马斯克大尺度预言",
+      "onboard_time": 1779616942,
+      "rank": 47,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 65821,
       "num": 385209,
       "word": "王者荣耀",
@@ -1491,6 +1691,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 38260,
+      "num": 358830,
+      "word": "大眼音乐节现场全员开嚼",
+      "onboard_time": 1779618022,
+      "rank": 15,
+      "category": "演出"
+    },
+    {
       "raw_hot": 37551,
       "num": 229710,
       "word": "北京国安1比2不敌河南队",
@@ -1521,6 +1729,14 @@
       "onboard_time": 1779580218,
       "rank": 47,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 31776,
+      "num": 311293,
+      "word": "麦卡伦把我的梦中酒柜搬到了北京",
+      "onboard_time": 1779618682,
+      "rank": 42,
+      "category": "美食"
     },
     {
       "raw_hot": 31315,
