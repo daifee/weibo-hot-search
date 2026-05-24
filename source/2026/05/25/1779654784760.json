@@ -1,0 +1,410 @@
+{
+  "runTime": 1779654784760,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 89962,
+        "num": 107082,
+        "word": "浪姐排名",
+        "onboard_time": 1779635966,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 54295,
+        "num": 79029,
+        "word": "神23发射成功",
+        "onboard_time": 1779636864,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 12575,
+        "num": 59033,
+        "word": "直播神23发射",
+        "onboard_time": 1779630205,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 217672,
+        "num": 56459,
+        "word": "王鹤棣风波后首度公开亮相",
+        "onboard_time": 1779629484,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160907,
+        "num": 53868,
+        "word": "王濛 我们就一个群",
+        "onboard_time": 1779633804,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 46838,
+        "num": 46838,
+        "word": "官方通报小区马匹受惊致女童死亡",
+        "onboard_time": 1779634824,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 45403,
+        "num": 45403,
+        "word": "缘分一道桥拿什么输",
+        "onboard_time": 1779632186,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 37100,
+        "num": 45380,
+        "word": "武汉停课停业",
+        "onboard_time": 1779608362,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27743,
+        "num": 45196,
+        "word": "煤矿19点半爆炸工人22点才被通知",
+        "onboard_time": 1779615742,
+        "rank": 8,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 24790,
+        "num": 45108,
+        "word": "LPL登峰组变天了",
+        "onboard_time": 1779637764,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 150967,
+        "num": 45045,
+        "word": "谢娜主持能力",
+        "onboard_time": 1779640224,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 76106,
+        "num": 44950,
+        "word": "折磨三天最后还是淘汰侯宇",
+        "onboard_time": 1779639501,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 57612,
+        "num": 44771,
+        "word": "王霏霏孟佳这段好强",
+        "onboard_time": 1779639321,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 54593,
+        "num": 44700,
+        "word": "温峥嵘 可不可以我走",
+        "onboard_time": 1779630864,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 50384,
+        "num": 44590,
+        "word": "死了么APP又改名了",
+        "onboard_time": 1779624322,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 44550,
+        "num": 44550,
+        "word": "刘浩存首部破万女主剧",
+        "onboard_time": 1779641178,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 41856,
+        "num": 41856,
+        "word": "台4月大女婴伴尸2天险被饿死",
+        "onboard_time": 1779634048,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41509,
+        "num": 41509,
+        "word": "白玉兰",
+        "onboard_time": 1779628824,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 39796,
+        "num": 39796,
+        "word": "刘晓艳回应叮嘱高颜值女生视频走红",
+        "onboard_time": 1779628646,
+        "rank": 18,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 39069,
+        "num": 39069,
+        "word": "68岁男子出轨90后生子称妻子同意",
+        "onboard_time": 1779618082,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 50119,
+        "num": 38911,
+        "word": "巴西男子强奸女儿及其所生外孙女",
+        "onboard_time": 1779620783,
+        "rank": 20,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 38649,
+        "num": 38649,
+        "word": "侯宇淘汰",
+        "onboard_time": 1779635126,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 36881,
+        "num": 36881,
+        "word": "洛克主策划开水的一封信",
+        "onboard_time": 1779629003,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 35652,
+        "num": 35652,
+        "word": "窦骁演技真好",
+        "onboard_time": 1779646156,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 35258,
+        "num": 35258,
+        "word": "救救何宣林",
+        "onboard_time": 1779634704,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 34325,
+        "num": 34325,
+        "word": "李小冉翻跟头",
+        "onboard_time": 1779633804,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 33931,
+        "num": 33931,
+        "word": "青春修炼手册903票",
+        "onboard_time": 1779631704,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 31468,
+        "num": 33276,
+        "word": "7只半导体热门股拟套现近127亿",
+        "onboard_time": 1779635727,
+        "rank": 27,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 29833,
+        "num": 33017,
+        "word": "洛克王国再次补偿",
+        "onboard_time": 1779630144,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 25882,
+        "num": 33006,
+        "word": "网红主播把假一赔万当成口号",
+        "onboard_time": 1779651554,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33001,
+        "num": 33001,
+        "word": "宝莲 麦好干",
+        "onboard_time": 1779633386,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 31092,
+        "num": 32999,
+        "word": "浪姐改赛制",
+        "onboard_time": 1779628703,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 27505,
+        "num": 32998,
+        "word": "黄圣依 初代浪姐不养闲人",
+        "onboard_time": 1779627863,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 27367,
+        "num": 32995,
+        "word": "宝莲组dancebreak神了",
+        "onboard_time": 1779636925,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 25911,
+        "num": 32993,
+        "word": "何洁秒了",
+        "onboard_time": 1779626603,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 24567,
+        "num": 32991,
+        "word": "黄灿灿踩张月的裙子",
+        "onboard_time": 1779636385,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 24268,
+        "num": 32989,
+        "word": "浪姐 辱追",
+        "onboard_time": 1779625222,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 22950,
+        "num": 32985,
+        "word": "张艺上淘汰",
+        "onboard_time": 1779628224,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 22733,
+        "num": 32983,
+        "word": "曾沛慈 谁再说徐梦洁唱歌不好听",
+        "onboard_time": 1779642019,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 21986,
+        "num": 32982,
+        "word": "LGD以下克上WBG",
+        "onboard_time": 1779628344,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 21168,
+        "num": 32980,
+        "word": "翟子路发了和刘浩存合照",
+        "onboard_time": 1779635367,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 19927,
+        "num": 32979,
+        "word": "水晶宫vs阿森纳",
+        "onboard_time": 1779636565,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 19327,
+        "num": 32977,
+        "word": "中国空间站组合体已进入对接轨道",
+        "onboard_time": 1779639380,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 19094,
+        "num": 32972,
+        "word": "男子钓鱼捞起一溺水婴儿",
+        "onboard_time": 1779627742,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18252,
+        "num": 32970,
+        "word": "扁鹊原皮海报优化",
+        "onboard_time": 1779641600,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 16995,
+        "num": 32968,
+        "word": "高考第一个出来的记得喊取消机建燃油费",
+        "onboard_time": 1779631645,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16692,
+        "num": 32968,
+        "word": "央视曝光多品牌用商标擦边",
+        "onboard_time": 1779631163,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16659,
+        "num": 32965,
+        "word": "DRG新老五人组团看徐良",
+        "onboard_time": 1779648435,
+        "rank": 47,
+        "category": "电竞,电竞"
+      },
+      {
+        "raw_hot": 16457,
+        "num": 32964,
+        "word": "神23点火升空",
+        "onboard_time": 1779635787,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 15764,
+        "num": 32961,
+        "word": "神23报告航天员感觉良好",
+        "onboard_time": 1779638183,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#时刻绷紧安全生产这根弦#"
+    }
+  }
+}

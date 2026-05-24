@@ -1,6 +1,6 @@
 {
   "startTime": 1779556240361,
-  "endTime": 1779653594099,
+  "endTime": 1779654784760,
   "band_list": [
     {
       "raw_hot": 12767872,
@@ -2579,19 +2579,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 25882,
+      "num": 35877,
+      "word": "网红主播把假一赔万当成口号",
+      "onboard_time": 1779651554,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 25264,
       "num": 216076,
       "word": "租客退租后满屋垃圾留下瘦狗",
       "onboard_time": 1779577758,
       "rank": 30,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 22608,
-      "num": 35877,
-      "word": "网红主播把假一赔万当成口号",
-      "onboard_time": 1779651554,
-      "rank": 41,
       "category": "民生新闻"
     },
     {
