@@ -1,0 +1,410 @@
+{
+  "runTime": 1779601043044,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2254000,
+        "num": 2254000,
+        "word": "煤矿爆炸时247人下井仅记录124人",
+        "onboard_time": 1779589342,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1171500,
+        "num": 1282642,
+        "word": "大奉打更人",
+        "onboard_time": 1779580399,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 44194,
+        "num": 1004551,
+        "word": "神舟二十三号出征",
+        "onboard_time": 1779570914,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 4732277,
+        "num": 884845,
+        "word": "李晨郑恺 不舒服",
+        "onboard_time": 1779591202,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 700919,
+        "num": 700919,
+        "word": "武契奇抵京",
+        "onboard_time": 1779597083,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 768150,
+        "num": 695052,
+        "word": "霸王茶姬geelato新品爆火",
+        "onboard_time": 1779597083,
+        "rank": 5,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 682801,
+        "num": 682801,
+        "word": "第一幕都不觉得她化妆了",
+        "onboard_time": 1779595761,
+        "rank": 6,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 305433,
+        "num": 679963,
+        "word": "学历不是评判标准但的确影响思考能力",
+        "onboard_time": 1779600080,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 134377,
+        "num": 677672,
+        "word": "这得多甜刘宇宁都唱夹起来了",
+        "onboard_time": 1779600024,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 275574,
+        "num": 673886,
+        "word": "枪击发生时特朗普正在白宫",
+        "onboard_time": 1779587662,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 4156766,
+        "num": 670093,
+        "word": "张彬彬曾因王鹤棣脑震荡",
+        "onboard_time": 1779598762,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2963355,
+        "num": 668336,
+        "word": "李晨郑恺跑男停宣了",
+        "onboard_time": 1779584420,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 927227,
+        "num": 662899,
+        "word": "德国性侵案涉多名985毕业生",
+        "onboard_time": 1779598822,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1499049,
+        "num": 660642,
+        "word": "孙怡 女儿出名妈妈就有了名字",
+        "onboard_time": 1779593782,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1124672,
+        "num": 658879,
+        "word": "刘宇宁说因为粉丝和朋友产生隔阂很傻",
+        "onboard_time": 1779594803,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 463899,
+        "num": 653255,
+        "word": "女儿被缰绳绕颈妈妈跑不过马好绝望",
+        "onboard_time": 1779597621,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 175158,
+        "num": 649821,
+        "word": "尼克斯3比0骑士",
+        "onboard_time": 1779594562,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100803,
+        "num": 645852,
+        "word": "当AI有一副人的身体",
+        "onboard_time": 1779591802,
+        "rank": 17,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 229981,
+        "num": 642944,
+        "word": "123人没登记就下井了",
+        "onboard_time": 1779596543,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 195002,
+        "num": 640585,
+        "word": "重庆永川暴雨",
+        "onboard_time": 1779590662,
+        "rank": 19,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 2850055,
+        "num": 635827,
+        "word": "王鹤棣沈月 再见朋友",
+        "onboard_time": 1779583702,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 248345,
+        "num": 634152,
+        "word": "广东湿到冒泡",
+        "onboard_time": 1779596841,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 592718,
+        "num": 629375,
+        "word": "给阿嬷的情书票房破十亿",
+        "onboard_time": 1779595761,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 495236,
+        "num": 626265,
+        "word": "张凌赫太多人的隐私就不发了",
+        "onboard_time": 1779588983,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 405796,
+        "num": 623752,
+        "word": "只要站起来会发现水其实很浅",
+        "onboard_time": 1779595941,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1040812,
+        "num": 618513,
+        "word": "沈月涨粉量",
+        "onboard_time": 1779589882,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 485721,
+        "num": 617495,
+        "word": "不舒服文学",
+        "onboard_time": 1779585622,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 376521,
+        "num": 613953,
+        "word": "惠英红 算你不对算你没用",
+        "onboard_time": 1779597261,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 327599,
+        "num": 609777,
+        "word": "每天刷手机5小时以上的人都怎么样了",
+        "onboard_time": 1779592762,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 166587,
+        "num": 607846,
+        "word": "重庆永川暴雨致多人失联",
+        "onboard_time": 1779590001,
+        "rank": 29,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 336874,
+        "num": 604645,
+        "word": "程涛为白鹿发声",
+        "onboard_time": 1779582200,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 304053,
+        "num": 598271,
+        "word": "EXO回忆参加快乐大本营",
+        "onboard_time": 1779600682,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 245740,
+        "num": 595359,
+        "word": "本周狗屎运最旺的星座",
+        "onboard_time": 1779588201,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 289673,
+        "num": 594596,
+        "word": "严浩翔捡东西吓得贺峻霖摸眼睛",
+        "onboard_time": 1779595341,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 240761,
+        "num": 588968,
+        "word": "杨紫张一山军训合照",
+        "onboard_time": 1779600322,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 239495,
+        "num": 586226,
+        "word": "6岁患癌女童冻存卵巢",
+        "onboard_time": 1779584721,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 217413,
+        "num": 584585,
+        "word": "华为培训会是认识时代少年团",
+        "onboard_time": 1779593962,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205972,
+        "num": 578198,
+        "word": "爬行能解决大部分体态问题",
+        "onboard_time": 1779598702,
+        "rank": 37,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 117488,
+        "num": 575964,
+        "word": "手擀面的手擀竟然是商标",
+        "onboard_time": 1779593662,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 200698,
+        "num": 574256,
+        "word": "宠物博主不一定要有猫",
+        "onboard_time": 1779596721,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 31070,
+        "num": 570766,
+        "word": "针对重庆启动国家四级救灾应急响应",
+        "onboard_time": 1779600981,
+        "rank": 40,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 194645,
+        "num": 564455,
+        "word": "娜扎好震撼的腿",
+        "onboard_time": 1779584480,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174211,
+        "num": 562501,
+        "word": "赵今麦流浪地球3杀青",
+        "onboard_time": 1779584542,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 157679,
+        "num": 558140,
+        "word": "日本订购400枚战斧交付将严重延误",
+        "onboard_time": 1779593722,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 153084,
+        "num": 554819,
+        "word": "武契奇首次对华进行国事访问",
+        "onboard_time": 1779600024,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 144390,
+        "num": 552739,
+        "word": "人生中不应该执着的东西",
+        "onboard_time": 1779596903,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 139139,
+        "num": 550314,
+        "word": "一诺哭了",
+        "onboard_time": 1779582862,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 57090,
+        "num": 544517,
+        "word": "AI时代最不可替代的东西",
+        "onboard_time": 1779595341,
+        "rank": 47,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 41334,
+        "num": 540985,
+        "word": "山西煤矿事故现场机器人参与搜救",
+        "onboard_time": 1779588263,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110830,
+        "num": 539050,
+        "word": "社工考试",
+        "onboard_time": 1779598702,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#时刻绷紧安全生产这根弦#"
+    }
+  }
+}
