@@ -1,6 +1,6 @@
 {
   "startTime": 1779556240361,
-  "endTime": 1779633037193,
+  "endTime": 1779634221498,
   "band_list": [
     {
       "raw_hot": 12767872,
@@ -27,19 +27,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 4724127,
+      "num": 985895,
+      "word": "王鹤棣风波后首度公开亮相",
+      "onboard_time": 1779629484,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 4156766,
       "num": 670093,
       "word": "张彬彬曾因王鹤棣脑震荡",
       "onboard_time": 1779598762,
       "rank": 12,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 3868687,
-      "num": 924920,
-      "word": "王鹤棣风波后首度公开亮相",
-      "onboard_time": 1779629484,
-      "rank": 10,
       "category": "艺人"
     },
     {
@@ -83,6 +83,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 2251948,
+      "num": 2251948,
+      "word": "宝莲 麦好干",
+      "onboard_time": 1779633386,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2169174,
       "num": 359315,
       "word": "苗苗工作室回应",
@@ -92,11 +100,19 @@
     },
     {
       "raw_hot": 1901505,
-      "num": 899719,
+      "num": 952294,
       "word": "王鹤棣曾让沈月吸二手烟",
       "onboard_time": 1779614362,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1850162,
+      "num": 1021125,
+      "word": "温峥嵘 可不可以我走",
+      "onboard_time": 1779630864,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 1827922,
@@ -113,6 +129,14 @@
       "onboard_time": 1779608362,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1609969,
+      "num": 1013707,
+      "word": "缘分一道桥拿什么输",
+      "onboard_time": 1779632186,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 1601653,
@@ -148,7 +172,7 @@
     },
     {
       "raw_hot": 1436207,
-      "num": 914004,
+      "num": 919053,
       "word": "内娱最有名的七字真言",
       "onboard_time": 1779625942,
       "rank": 28,
@@ -163,20 +187,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1402837,
+      "num": 967037,
+      "word": "迪丽热巴在我边上做头发",
+      "onboard_time": 1779624322,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1381265,
       "num": 1381265,
       "word": "白玉兰",
       "onboard_time": 1779628824,
       "rank": 0,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1366132,
-      "num": 907471,
-      "word": "迪丽热巴在我边上做头发",
-      "onboard_time": 1779624322,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 1351207,
@@ -196,18 +220,10 @@
     },
     {
       "raw_hot": 1330216,
-      "num": 895615,
+      "num": 932967,
       "word": "何洁秒了",
       "onboard_time": 1779626603,
       "rank": 17,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 1319490,
-      "num": 889357,
-      "word": "温峥嵘 可不可以我走",
-      "onboard_time": 1779630864,
-      "rank": 18,
       "category": "综艺"
     },
     {
@@ -220,7 +236,7 @@
     },
     {
       "raw_hot": 1302182,
-      "num": 882669,
+      "num": 900237,
       "word": "李斯丹妮忘词",
       "onboard_time": 1779631045,
       "rank": 20,
@@ -283,8 +299,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1161024,
+      "num": 956711,
+      "word": "浪姐改赛制",
+      "onboard_time": 1779628703,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1121879,
-      "num": 866148,
+      "num": 906619,
       "word": "68岁男子出轨90后生子称妻子同意",
       "onboard_time": 1779618082,
       "rank": 12,
@@ -307,12 +331,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1094256,
-      "num": 956711,
-      "word": "浪姐改赛制",
-      "onboard_time": 1779628703,
-      "rank": 4,
-      "category": "综艺"
+      "raw_hot": 1087494,
+      "num": 895497,
+      "word": "小澈复出了",
+      "onboard_time": 1779630628,
+      "rank": 25,
+      "category": "网红"
     },
     {
       "raw_hot": 1042384,
@@ -324,7 +348,7 @@
     },
     {
       "raw_hot": 1040241,
-      "num": 919425,
+      "num": 973175,
       "word": "死了么APP又改名了",
       "onboard_time": 1779624322,
       "rank": 46,
@@ -332,11 +356,19 @@
     },
     {
       "raw_hot": 990015,
-      "num": 990015,
+      "num": 1003127,
       "word": "煤矿19点半爆炸工人22点才被通知",
       "onboard_time": 1779615742,
       "rank": 1,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 951754,
+      "num": 875660,
+      "word": "曾沛慈好紧张",
+      "onboard_time": 1779634048,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 938241,
@@ -353,6 +385,14 @@
       "onboard_time": 1779598822,
       "rank": 18,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 894585,
+      "num": 864750,
+      "word": "宝莲呼声",
+      "onboard_time": 1779625162,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 888913,
@@ -379,6 +419,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 862681,
+      "num": 858930,
+      "word": "李连杰回应换年轻武僧心脏",
+      "onboard_time": 1779624744,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 856075,
       "num": 576831,
       "word": "孙怡看到曾沛慈票数的表情",
@@ -395,6 +443,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 836738,
+      "num": 848021,
+      "word": "浪姐票数",
+      "onboard_time": 1779631045,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 832364,
       "num": 1115376,
       "word": "留神峪煤矿事故82人遇难",
@@ -403,8 +459,16 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 809884,
+      "num": 927748,
+      "word": "王濛 我们就一个群",
+      "onboard_time": 1779633804,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 801142,
-      "num": 872616,
+      "num": 920523,
       "word": "巴西男子强奸女儿及其所生外孙女",
       "onboard_time": 1779620783,
       "rank": 20,
@@ -443,28 +507,28 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 735846,
-      "num": 862808,
-      "word": "缘分一道桥拿什么输",
-      "onboard_time": 1779632186,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 734904,
-      "num": 856669,
-      "word": "小澈复出了",
-      "onboard_time": 1779630628,
-      "rank": 25,
-      "category": "网红"
-    },
-    {
       "raw_hot": 718732,
       "num": 718732,
       "word": "男子踩中蛇窝被咬10多口",
       "onboard_time": 1779601043,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 715353,
+      "num": 1012595,
+      "word": "男子钓鱼捞起一溺水婴儿",
+      "onboard_time": 1779627742,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 703760,
+      "num": 938054,
+      "word": "洛克主策划开水的一封信",
+      "onboard_time": 1779629003,
+      "rank": 26,
+      "category": "游戏"
     },
     {
       "raw_hot": 650431,
@@ -475,12 +539,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 608772,
-      "num": 829793,
-      "word": "李连杰回应换年轻武僧心脏",
-      "onboard_time": 1779624744,
-      "rank": 29,
-      "category": "艺人"
+      "raw_hot": 641668,
+      "num": 825319,
+      "word": "主角热度破30000",
+      "onboard_time": 1779628584,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 595791,
@@ -497,6 +561,14 @@
       "onboard_time": 1779579079,
       "rank": 11,
       "category": "网红"
+    },
+    {
+      "raw_hot": 592447,
+      "num": 811220,
+      "word": "尚雯婕萨顶顶 天神帮唱",
+      "onboard_time": 1779633445,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 583633,
@@ -531,12 +603,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 553687,
-      "num": 949990,
-      "word": "男子钓鱼捞起一溺水婴儿",
-      "onboard_time": 1779627742,
-      "rank": 5,
-      "category": "民生新闻"
+      "raw_hot": 556969,
+      "num": 950375,
+      "word": "刘晓艳回应叮嘱高颜值女生视频走红",
+      "onboard_time": 1779628646,
+      "rank": 19,
+      "category": "教育"
     },
     {
       "raw_hot": 550618,
@@ -545,14 +617,6 @@
       "onboard_time": 1779623482,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 550445,
-      "num": 814774,
-      "word": "浪姐票数",
-      "onboard_time": 1779631045,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 540183,
@@ -603,14 +667,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 489723,
-      "num": 779024,
-      "word": "主角热度破30000",
-      "onboard_time": 1779628584,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 489118,
       "num": 613953,
       "word": "惠英红 算你不对算你没用",
@@ -633,14 +689,6 @@
       "onboard_time": 1779549266,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 467020,
-      "num": 852317,
-      "word": "洛克主策划开水的一封信",
-      "onboard_time": 1779629003,
-      "rank": 26,
-      "category": "游戏"
     },
     {
       "raw_hot": 463899,
@@ -715,14 +763,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 420138,
-      "num": 883997,
-      "word": "刘晓艳回应叮嘱高颜值女生视频走红",
-      "onboard_time": 1779628646,
-      "rank": 19,
-      "category": "教育"
-    },
-    {
       "raw_hot": 419822,
       "num": 709115,
       "word": "盒马60元一斤网红葡萄卖断货",
@@ -753,14 +793,6 @@
       "onboard_time": 1779595941,
       "rank": 23,
       "category": "情感"
-    },
-    {
-      "raw_hot": 405607,
-      "num": 562475,
-      "word": "宝莲呼声",
-      "onboard_time": 1779625162,
-      "rank": 5,
-      "category": "综艺"
     },
     {
       "raw_hot": 400999,
@@ -947,8 +979,16 @@
       "category": "演出"
     },
     {
+      "raw_hot": 302744,
+      "num": 942639,
+      "word": "李小冉翻跟头",
+      "onboard_time": 1779633804,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 292007,
-      "num": 942375,
+      "num": 993012,
       "word": "燃油车被时代抛弃了吗",
       "onboard_time": 1779615322,
       "rank": 45,
@@ -995,6 +1035,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 280313,
+      "num": 886642,
+      "word": "洛克王国再次补偿",
+      "onboard_time": 1779630144,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 278125,
       "num": 649719,
       "word": "任权前女友回怼薛小婉",
@@ -1017,6 +1065,14 @@
       "onboard_time": 1779590662,
       "rank": 14,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 275384,
+      "num": 891487,
+      "word": "高考第一个出来的记得喊取消机建燃油费",
+      "onboard_time": 1779631645,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 273950,
@@ -1044,7 +1100,7 @@
     },
     {
       "raw_hot": 262291,
-      "num": 905344,
+      "num": 966372,
       "word": "俄确认使用榛树打击乌克兰",
       "onboard_time": 1779620361,
       "rank": 8,
@@ -1067,14 +1123,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 257806,
-      "num": 844755,
-      "word": "高考第一个出来的记得喊取消机建燃油费",
-      "onboard_time": 1779631645,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 254649,
       "num": 584585,
       "word": "华为培训会是认识时代少年团",
@@ -1084,7 +1132,7 @@
     },
     {
       "raw_hot": 253990,
-      "num": 771549,
+      "num": 798788,
       "word": "武契奇到访长城",
       "onboard_time": 1779624203,
       "rank": 30,
@@ -1113,6 +1161,14 @@
       "onboard_time": 1779625043,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 240927,
+      "num": 1026602,
+      "word": "直播神23发射",
+      "onboard_time": 1779630205,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 240603,
@@ -1155,12 +1211,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 233695,
+      "num": 999160,
+      "word": "神23出征仪式",
+      "onboard_time": 1779625402,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 232797,
       "num": 807619,
       "word": "仙逆",
       "onboard_time": 1779619523,
       "rank": 9,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 231821,
+      "num": 869354,
+      "word": "台4月大女婴伴尸2天险被饿死",
+      "onboard_time": 1779634048,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 231516,
@@ -1219,14 +1291,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 217485,
-      "num": 938211,
-      "word": "神23出征仪式",
-      "onboard_time": 1779625402,
-      "rank": 8,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 216186,
       "num": 420563,
       "word": "留神峪矿工说跑了2小时才出来",
@@ -1275,14 +1339,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 206499,
-      "num": 962306,
-      "word": "直播神23发射",
-      "onboard_time": 1779630205,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 206238,
       "num": 558140,
       "word": "日本订购400枚战斧交付将严重延误",
@@ -1315,20 +1371,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 201110,
+      "num": 992079,
+      "word": "LGD以下克上WBG",
+      "onboard_time": 1779628344,
+      "rank": 9,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 200698,
       "num": 574256,
       "word": "宠物博主不一定要有猫",
       "onboard_time": 1779596721,
       "rank": 41,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 199532,
-      "num": 821150,
-      "word": "洛克王国再次补偿",
-      "onboard_time": 1779630144,
-      "rank": 33,
-      "category": "游戏"
     },
     {
       "raw_hot": 199518,
@@ -1475,19 +1531,19 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 173055,
+      "num": 855295,
+      "word": "央视曝光多品牌用商标擦边",
+      "onboard_time": 1779631163,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 172528,
       "num": 413584,
       "word": "少司缘在等一个叫信的人",
       "onboard_time": 1779553043,
       "rank": 26,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 170015,
-      "num": 930533,
-      "word": "LGD以下克上WBG",
-      "onboard_time": 1779628344,
-      "rank": 9,
       "category": "电竞"
     },
     {
@@ -1508,7 +1564,7 @@
     },
     {
       "raw_hot": 160982,
-      "num": 469640,
+      "num": 794409,
       "word": "母亲将有暗伤枇杷装箱男子整箱倒掉",
       "onboard_time": 1779622943,
       "rank": 47,
@@ -1529,6 +1585,14 @@
       "onboard_time": 1779550284,
       "rank": 27,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 158385,
+      "num": 837458,
+      "word": "中国农民用无人机运西瓜走红外网",
+      "onboard_time": 1779632782,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 154268,
@@ -1635,14 +1699,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 142282,
-      "num": 787413,
-      "word": "央视曝光多品牌用商标擦边",
-      "onboard_time": 1779631163,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 141135,
       "num": 227873,
       "word": "拉小群时间线",
@@ -1697,14 +1753,6 @@
       "onboard_time": 1779601283,
       "rank": 46,
       "category": "网红"
-    },
-    {
-      "raw_hot": 124917,
-      "num": 757723,
-      "word": "中国农民用无人机运西瓜走红外网",
-      "onboard_time": 1779632782,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 121337,
@@ -1764,7 +1812,7 @@
     },
     {
       "raw_hot": 106361,
-      "num": 754322,
+      "num": 784418,
       "word": "耐高决赛",
       "onboard_time": 1779631825,
       "rank": 47,
@@ -1795,20 +1843,20 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 102146,
+      "num": 786565,
+      "word": "经销商亏本甩卖燃油车",
+      "onboard_time": 1779627264,
+      "rank": 49,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 101813,
       "num": 645852,
       "word": "当AI有一副人的身体",
       "onboard_time": 1779591802,
       "rank": 17,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 97465,
-      "num": 747230,
-      "word": "经销商亏本甩卖燃油车",
-      "onboard_time": 1779627264,
-      "rank": 49,
-      "category": "汽车"
     },
     {
       "raw_hot": 96488,
@@ -1843,6 +1891,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 89874,
+      "num": 840907,
+      "word": "雅迪把发布会开成万人演唱会",
+      "onboard_time": 1779632965,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 89615,
       "num": 278145,
       "word": "晚安奈奈",
@@ -1857,6 +1913,14 @@
       "onboard_time": 1779540142,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 85906,
+      "num": 820338,
+      "word": "马斯克放弃地面太阳能",
+      "onboard_time": 1779633086,
+      "rank": 42,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 81295,
@@ -2305,14 +2369,6 @@
       "onboard_time": 1779611844,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 7154,
-      "num": 749434,
-      "word": "雅迪把发布会开成万人演唱会",
-      "onboard_time": 1779632965,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 2393,
