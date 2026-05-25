@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/05/25 17:12:30
+本榜单时间：2026/01/01 00:35:36 ~ 2026/05/25 20:43:33
 </p>
 </blockquote>
 <p>
@@ -1245,6 +1245,12 @@ JYP从JYP辞职了（热度：4682490）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%BD%98%E7%8E%AE%E6%9F%8F%E5%BE%97%E4%BA%86%E9%9D%A2%E7%98%AB%23" target="weibo">
+潘玮柏得了面瘫（热度：3959656）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%96%B9%E5%AA%9B%E5%9B%9E%E5%BA%94%E8%A6%81%E4%BD%8F%E7%94%B7%E7%94%9F%E5%8D%95%E4%BA%BA%E9%97%B4%23" target="weibo">
 方媛回应要住男生单人间（热度：3949971）
 </a>
@@ -1805,12 +1811,6 @@ WB冠军（热度：3566119）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E6%99%A8%E8%82%87%E4%BA%8B%E9%80%83%E9%80%B8%E8%A2%AB%E7%BD%9A1500%E5%85%83%23" target="weibo">
 金晨肇事逃逸被罚1500元（热度：3050583）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%98%8C%E9%92%B0%E5%8E%BB%E4%B8%96%23" target="weibo">
-李昌钰去世（热度：3044861）
 </a>
 </li>
 

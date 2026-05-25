@@ -1,6 +1,6 @@
 {
   "startTime": 1779638894290,
-  "endTime": 1779700350279,
+  "endTime": 1779713013272,
   "band_list": [
     {
       "raw_hot": 15283499,
@@ -25,6 +25,14 @@
       "onboard_time": 1779698662,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 3959656,
+      "num": 301744,
+      "word": "潘玮柏得了面瘫",
+      "onboard_time": 1779707361,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 2627650,
@@ -163,6 +171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1150654,
+      "num": 301590,
+      "word": "虞书欣谁跟你说不用了",
+      "onboard_time": 1779708141,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1086000,
       "num": 1086000,
       "word": "不愧是老祖宗严选的地理位置",
@@ -235,6 +251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 863992,
+      "num": 1138238,
+      "word": "郑钦文止步法网首轮",
+      "onboard_time": 1779708021,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 799972,
       "num": 620679,
       "word": "吴泽林也不舒服了",
@@ -283,6 +307,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 726951,
+      "num": 301255,
+      "word": "内娱00花洗牌了",
+      "onboard_time": 1779705142,
+      "rank": 16,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 722313,
+      "num": 301636,
+      "word": "伊朗亿万豪门千金或让丈夫净身出户",
+      "onboard_time": 1779709461,
+      "rank": 12,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 714416,
       "num": 534198,
       "word": "刘琳琳玩王鹤棣的梗",
@@ -305,6 +345,22 @@
       "onboard_time": 1779695181,
       "rank": 7,
       "category": "情感"
+    },
+    {
+      "raw_hot": 657484,
+      "num": 295705,
+      "word": "王鹤棣一个人去海边坐一小时",
+      "onboard_time": 1779712702,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 642034,
+      "num": 642034,
+      "word": "张月团安崎团撞选歌",
+      "onboard_time": 1779708202,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 634408,
@@ -347,6 +403,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 605711,
+      "num": 605711,
+      "word": "食堂大锅咖啡有多离谱",
+      "onboard_time": 1779705561,
+      "rank": 4,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 602302,
       "num": 449777,
       "word": "洪涛回应歌手淘汰庾澄庆",
@@ -385,6 +449,14 @@
       "onboard_time": 1779625942,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 569332,
+      "num": 838145,
+      "word": "微信多项新功能",
+      "onboard_time": 1779699202,
+      "rank": 47,
+      "category": "互联网"
     },
     {
       "raw_hot": 552411,
@@ -433,6 +505,22 @@
       "onboard_time": 1779624322,
       "rank": 14,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 520101,
+      "num": 520101,
+      "word": "荣耀600价格",
+      "onboard_time": 1779709521,
+      "rank": 5,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 513779,
+      "num": 293956,
+      "word": "王弘毅脸被划伤",
+      "onboard_time": 1779709041,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 513614,
@@ -523,6 +611,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 451545,
+      "num": 289755,
+      "word": "林小宅黑泽疑似恋爱",
+      "onboard_time": 1779701061,
+      "rank": 24,
+      "category": "网红"
+    },
+    {
       "raw_hot": 451320,
       "num": 915908,
       "word": "王霏霏孟佳这段好强",
@@ -611,6 +707,38 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 386354,
+      "num": 386354,
+      "word": "浪姐双人舞台投票结果",
+      "onboard_time": 1779711562,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 386167,
+      "num": 291851,
+      "word": "妈妈离婚当日遇害姐妹俩惧怕婚姻",
+      "onboard_time": 1779704900,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 380969,
+      "num": 288565,
+      "word": "iPhone20原型机偷跑",
+      "onboard_time": 1779700702,
+      "rank": 25,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 380026,
+      "num": 318373,
+      "word": "张月团怪我更爱我自己第一",
+      "onboard_time": 1779711440,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 373007,
       "num": 410848,
       "word": "985博士被间谍策反偷拍航天机密",
@@ -625,6 +753,14 @@
       "onboard_time": 1779698422,
       "rank": 23,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 366934,
+      "num": 299556,
+      "word": "复旦教授谈为什么一定要考好的大学",
+      "onboard_time": 1779703162,
+      "rank": 17,
+      "category": "教育"
     },
     {
       "raw_hot": 360816,
@@ -691,6 +827,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 333917,
+      "num": 286245,
+      "word": "今年热度破三万的三部剧",
+      "onboard_time": 1779701602,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 322717,
       "num": 1375846,
       "word": "台4月大女婴伴尸2天险被饿死",
@@ -729,6 +873,14 @@
       "onboard_time": 1779673758,
       "rank": 40,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 301747,
+      "num": 301747,
+      "word": "武契奇总统访华欢迎仪式",
+      "onboard_time": 1779704300,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 298732,
@@ -819,6 +971,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 268592,
+      "num": 280053,
+      "word": "主角",
+      "onboard_time": 1779704783,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 266236,
       "num": 427205,
       "word": "这些习惯正在悄悄伤害你的甲状腺",
@@ -873,6 +1033,14 @@
       "onboard_time": 1779675261,
       "rank": 9,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 251593,
+      "num": 277330,
+      "word": "直播女选手隐私部位人太多不是理由",
+      "onboard_time": 1779710181,
+      "rank": 32,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 249498,
@@ -947,12 +1115,44 @@
       "category": "体育"
     },
     {
+      "raw_hot": 228819,
+      "num": 274633,
+      "word": "董璇张维伊婚后一年都在谈恋爱",
+      "onboard_time": 1779710121,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 227613,
+      "num": 272282,
+      "word": "杜华女儿与甜馨小酒窝同框",
+      "onboard_time": 1779706823,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 227319,
+      "num": 273459,
+      "word": "荣耀600",
+      "onboard_time": 1779712520,
+      "rank": 35,
+      "category": "数码"
+    },
+    {
       "raw_hot": 225816,
       "num": 551677,
       "word": "女子遭家暴被扔下土崖致死案将开庭",
       "onboard_time": 1779696022,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 225418,
+      "num": 296647,
+      "word": "中芯国际20cm涨停",
+      "onboard_time": 1779703222,
+      "rank": 19,
+      "category": "财经"
     },
     {
       "raw_hot": 224062,
@@ -963,12 +1163,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 216024,
+      "num": 266565,
+      "word": "时代峰峻回应时代少年团联排杂音",
+      "onboard_time": 1779700821,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 213184,
       "num": 1549311,
       "word": "直播神23发射",
       "onboard_time": 1779630205,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 206157,
+      "num": 283262,
+      "word": "福岛核区日本野猪变超级猪",
+      "onboard_time": 1779705201,
+      "rank": 28,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 205563,
@@ -985,6 +1201,14 @@
       "onboard_time": 1779684202,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 195299,
+      "num": 263169,
+      "word": "中国博主富士山下跳舞被外网辱骂",
+      "onboard_time": 1779712581,
+      "rank": 42,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 193141,
@@ -1011,10 +1235,50 @@
       "category": "财经"
     },
     {
+      "raw_hot": 190805,
+      "num": 261890,
+      "word": "何洁说苏醒太难处了",
+      "onboard_time": 1779712103,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 185001,
       "num": 1276263,
       "word": "高考第一个出来的记得喊取消机建燃油费",
       "onboard_time": 1779631645,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 182232,
+      "num": 260740,
+      "word": "肖战出道至今足迹地图",
+      "onboard_time": 1779710902,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 179848,
+      "num": 253941,
+      "word": "曝唐嫣提名白玉兰",
+      "onboard_time": 1779712222,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 179237,
+      "num": 259052,
+      "word": "盒马粉木耳标签被指低俗擦边",
+      "onboard_time": 1779712161,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 173638,
+      "num": 269175,
+      "word": "康师傅回应1瓶水蜜桃0.01克水蜜桃汁",
+      "onboard_time": 1779709461,
       "rank": 38,
       "category": "民生新闻"
     },
@@ -1033,14 +1297,6 @@
       "onboard_time": 1779631163,
       "rank": 41,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 169323,
-      "num": 513107,
-      "word": "微信多项新功能",
-      "onboard_time": 1779699202,
-      "rank": 47,
-      "category": "互联网"
     },
     {
       "raw_hot": 164858,
@@ -1097,6 +1353,14 @@
       "onboard_time": 1779679762,
       "rank": 29,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 145278,
+      "num": 257633,
+      "word": "T1晋级EWC",
+      "onboard_time": 1779708622,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 145109,
@@ -1483,6 +1747,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 44520,
+      "num": 268093,
+      "word": "荣耀600发布会起风了回忆杀",
+      "onboard_time": 1779712461,
+      "rank": 39,
+      "category": "数码"
+    },
+    {
       "raw_hot": 43694,
       "num": 1093303,
       "word": "智能机器人加速走进日常生活",
@@ -1576,6 +1848,14 @@
       "word": "央视起底宠物神药黑幕",
       "onboard_time": 1779682342,
       "rank": 8,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 16010,
+      "num": 290121,
+      "word": "稻城亚丁景区通报博主违规自驾",
+      "onboard_time": 1779712641,
+      "rank": 23,
       "category": "民生新闻"
     },
     {

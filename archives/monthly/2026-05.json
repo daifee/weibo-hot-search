@@ -1,6 +1,6 @@
 {
   "startTime": 1777565126834,
-  "endTime": 1779700350279,
+  "endTime": 1779713013272,
   "band_list": [
     {
       "raw_hot": 28198949,
@@ -561,6 +561,14 @@
       "onboard_time": 1778421684,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 3959656,
+      "num": 301744,
+      "word": "潘玮柏得了面瘫",
+      "onboard_time": 1779707361,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 3949971,
@@ -4123,6 +4131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1150654,
+      "num": 301590,
+      "word": "虞书欣谁跟你说不用了",
+      "onboard_time": 1779708141,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1149812,
       "num": 776782,
       "word": "全山东最重视山姆超市之人",
@@ -6203,6 +6219,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 863992,
+      "num": 1138238,
+      "word": "郑钦文止步法网首轮",
+      "onboard_time": 1779708021,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 863184,
       "num": 456298,
       "word": "路人上海偶遇angelababy小海绵",
@@ -7939,6 +7963,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 726951,
+      "num": 301255,
+      "word": "内娱00花洗牌了",
+      "onboard_time": 1779705142,
+      "rank": 16,
+      "category": "电影"
+    },
+    {
       "raw_hot": 726627,
       "num": 1104966,
       "word": "中国向联合国发出警告",
@@ -7985,6 +8017,14 @@
       "onboard_time": 1779004880,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 722313,
+      "num": 301636,
+      "word": "伊朗亿万豪门千金或让丈夫净身出户",
+      "onboard_time": 1779709461,
+      "rank": 12,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 722279,
@@ -9027,6 +9067,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 657484,
+      "num": 295705,
+      "word": "王鹤棣一个人去海边坐一小时",
+      "onboard_time": 1779712702,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 657333,
       "num": 564292,
       "word": "张凌赫把金靖放在C位",
@@ -9289,6 +9337,14 @@
       "onboard_time": 1779354860,
       "rank": 5,
       "category": "情感"
+    },
+    {
+      "raw_hot": 642034,
+      "num": 642034,
+      "word": "张月团安崎团撞选歌",
+      "onboard_time": 1779708202,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 641975,
@@ -9937,6 +9993,14 @@
       "onboard_time": 1778196559,
       "rank": 5,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 605711,
+      "num": 605711,
+      "word": "食堂大锅咖啡有多离谱",
+      "onboard_time": 1779705561,
+      "rank": 4,
+      "category": "幽默"
     },
     {
       "raw_hot": 605373,
@@ -10769,6 +10833,14 @@
       "onboard_time": 1777945101,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 569332,
+      "num": 838145,
+      "word": "微信多项新功能",
+      "onboard_time": 1779699202,
+      "rank": 47,
+      "category": "互联网"
     },
     {
       "raw_hot": 569197,
@@ -12067,6 +12139,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 520101,
+      "num": 520101,
+      "word": "荣耀600价格",
+      "onboard_time": 1779709521,
+      "rank": 5,
+      "category": "数码"
+    },
+    {
       "raw_hot": 519984,
       "num": 387234,
       "word": "孙颖莎祝福孙铭阳",
@@ -12256,6 +12336,14 @@
       "word": "唐艺昕张若昀 龇牙咧嘴夫妇",
       "onboard_time": 1779250825,
       "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 513779,
+      "num": 293956,
+      "word": "王弘毅脸被划伤",
+      "onboard_time": 1779709041,
+      "rank": 21,
       "category": "艺人"
     },
     {
@@ -14041,6 +14129,14 @@
       "onboard_time": 1779619162,
       "rank": 30,
       "category": "美妆,网红"
+    },
+    {
+      "raw_hot": 451545,
+      "num": 289755,
+      "word": "林小宅黑泽疑似恋爱",
+      "onboard_time": 1779701061,
+      "rank": 24,
+      "category": "网红"
     },
     {
       "raw_hot": 451321,
@@ -16267,12 +16363,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 386354,
+      "num": 386354,
+      "word": "浪姐双人舞台投票结果",
+      "onboard_time": 1779711562,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 386206,
       "num": 386206,
       "word": "拖米为清清发声",
       "onboard_time": 1778677822,
       "rank": 9,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 386167,
+      "num": 291851,
+      "word": "妈妈离婚当日遇害姐妹俩惧怕婚姻",
+      "onboard_time": 1779704900,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 386137,
@@ -16491,6 +16603,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 380969,
+      "num": 288565,
+      "word": "iPhone20原型机偷跑",
+      "onboard_time": 1779700702,
+      "rank": 25,
+      "category": "数码"
+    },
+    {
       "raw_hot": 380890,
       "num": 558217,
       "word": "尼克斯落后22分逆转骑士",
@@ -16529,6 +16649,14 @@
       "onboard_time": 1778652441,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 380026,
+      "num": 318373,
+      "word": "张月团怪我更爱我自己第一",
+      "onboard_time": 1779711440,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 379927,
@@ -17049,6 +17177,14 @@
       "onboard_time": 1777965440,
       "rank": 31,
       "category": "演出"
+    },
+    {
+      "raw_hot": 366934,
+      "num": 299556,
+      "word": "复旦教授谈为什么一定要考好的大学",
+      "onboard_time": 1779703162,
+      "rank": 17,
+      "category": "教育"
     },
     {
       "raw_hot": 366809,
@@ -18593,6 +18729,14 @@
       "onboard_time": 1778286382,
       "rank": 23,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 333917,
+      "num": 286245,
+      "word": "今年热度破三万的三部剧",
+      "onboard_time": 1779701602,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 333916,
@@ -20305,6 +20449,14 @@
       "onboard_time": 1778405481,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 301747,
+      "num": 301747,
+      "word": "武契奇总统访华欢迎仪式",
+      "onboard_time": 1779704300,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 301669,
@@ -23627,6 +23779,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 251593,
+      "num": 277330,
+      "word": "直播女选手隐私部位人太多不是理由",
+      "onboard_time": 1779710181,
+      "rank": 32,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 251417,
       "num": 251417,
       "word": "曝章若楠常驻跑男",
@@ -25779,6 +25939,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 228819,
+      "num": 274633,
+      "word": "董璇张维伊婚后一年都在谈恋爱",
+      "onboard_time": 1779710121,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 228676,
       "num": 228676,
       "word": "日本男教师对女学生水瓶做不雅动作",
@@ -25811,6 +25979,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 227613,
+      "num": 272282,
+      "word": "杜华女儿与甜馨小酒窝同框",
+      "onboard_time": 1779706823,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 227531,
       "num": 196592,
       "word": "时代少年团唱了勇气",
@@ -25833,6 +26009,14 @@
       "onboard_time": 1778657719,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 227319,
+      "num": 273459,
+      "word": "荣耀600",
+      "onboard_time": 1779119781,
+      "rank": 48,
+      "category": "数码"
     },
     {
       "raw_hot": 227143,
@@ -26040,6 +26224,14 @@
       "word": "史上最大IPO就要来了",
       "onboard_time": 1779361999,
       "rank": 17,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 225418,
+      "num": 296647,
+      "word": "中芯国际20cm涨停",
+      "onboard_time": 1779703222,
+      "rank": 19,
       "category": "财经"
     },
     {
@@ -26865,6 +27057,14 @@
       "onboard_time": 1778409560,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 216024,
+      "num": 266565,
+      "word": "时代峰峻回应时代少年团联排杂音",
+      "onboard_time": 1779700821,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 215787,
@@ -27889,6 +28089,14 @@
       "onboard_time": 1779593722,
       "rank": 35,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 206157,
+      "num": 283262,
+      "word": "福岛核区日本野猪变超级猪",
+      "onboard_time": 1779705201,
+      "rank": 28,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 205972,
@@ -28995,6 +29203,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 195299,
+      "num": 263169,
+      "word": "中国博主富士山下跳舞被外网辱骂",
+      "onboard_time": 1779712581,
+      "rank": 42,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 195289,
       "num": 195289,
       "word": "一次性雨伞用过被退写满学生姓名",
@@ -29545,6 +29761,14 @@
       "onboard_time": 1777619539,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 190805,
+      "num": 261890,
+      "word": "何洁说苏醒太难处了",
+      "onboard_time": 1779712103,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 190776,
@@ -30331,6 +30555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 182232,
+      "num": 260740,
+      "word": "肖战出道至今足迹地图",
+      "onboard_time": 1779710902,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 182212,
       "num": 182212,
       "word": "南京这下真要变徽京了",
@@ -30611,6 +30843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 179848,
+      "num": 253941,
+      "word": "曝唐嫣提名白玉兰",
+      "onboard_time": 1779712222,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 179797,
       "num": 179797,
       "word": "高市早苗给李在明讲闹鬼传闻",
@@ -30673,6 +30913,14 @@
       "onboard_time": 1778680582,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 179237,
+      "num": 259052,
+      "word": "盒马粉木耳标签被指低俗擦边",
+      "onboard_time": 1779712161,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 179140,
@@ -31475,6 +31723,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 173638,
+      "num": 269175,
+      "word": "康师傅回应1瓶水蜜桃0.01克水蜜桃汁",
+      "onboard_time": 1779709461,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 173578,
       "num": 470644,
       "word": "河南灵宝火灾致6人死亡",
@@ -32073,14 +32329,6 @@
       "onboard_time": 1777789639,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 169323,
-      "num": 513107,
-      "word": "微信多项新功能",
-      "onboard_time": 1779699202,
-      "rank": 47,
-      "category": "互联网"
     },
     {
       "raw_hot": 169319,
@@ -34849,6 +35097,14 @@
       "onboard_time": 1777899321,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 145278,
+      "num": 257633,
+      "word": "T1晋级EWC",
+      "onboard_time": 1779708622,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 145231,
@@ -45051,6 +45307,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 44520,
+      "num": 268093,
+      "word": "荣耀600发布会起风了回忆杀",
+      "onboard_time": 1779712461,
+      "rank": 39,
+      "category": "数码"
+    },
+    {
       "raw_hot": 44507,
       "num": 359391,
       "word": "中国驻美大使谈中美关系",
@@ -47859,14 +48123,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 22422,
-      "num": 71704,
-      "word": "荣耀600",
-      "onboard_time": 1779119781,
-      "rank": 48,
-      "category": "数码"
-    },
-    {
       "raw_hot": 22408,
       "num": 366056,
       "word": "泰兰尼斯多款鞋被指撞款大牌",
@@ -48656,6 +48912,14 @@
       "word": "以自强赴荣光",
       "onboard_time": 1778984839,
       "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 16010,
+      "num": 290121,
+      "word": "稻城亚丁景区通报博主违规自驾",
+      "onboard_time": 1779712641,
+      "rank": 23,
       "category": "民生新闻"
     },
     {
