@@ -1,6 +1,6 @@
 {
   "startTime": 1779725319335,
-  "endTime": 1779745485070,
+  "endTime": 1779750884059,
   "band_list": [
     {
       "raw_hot": 2657009,
@@ -115,11 +115,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 478630,
+      "num": 424596,
+      "word": "今年天气系统出现异常",
+      "onboard_time": 1779723082,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 454985,
       "num": 443668,
       "word": "西安一16岁女孩在街上遭陌生男子殴打",
       "onboard_time": 1779715882,
       "rank": 21,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 371981,
+      "num": 146944,
+      "word": "因漏放吸管辱骂打砸店员女子被行拘",
+      "onboard_time": 1779726920,
+      "rank": 27,
       "category": "民生新闻"
     },
     {
@@ -161,6 +177,14 @@
       "onboard_time": 1779705201,
       "rank": 7,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 309544,
+      "num": 309544,
+      "word": "帕梅拉去了天津都害怕",
+      "onboard_time": 1779728417,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 306864,
@@ -219,12 +243,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 196202,
-      "num": 424596,
-      "word": "今年天气系统出现异常",
-      "onboard_time": 1779723082,
-      "rank": 29,
-      "category": "民生新闻"
+      "raw_hot": 228108,
+      "num": 408826,
+      "word": "中国博主富士山下跳舞被外网辱骂",
+      "onboard_time": 1779712581,
+      "rank": 36,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 210545,
+      "num": 415810,
+      "word": "A股出现三大异象",
+      "onboard_time": 1779721942,
+      "rank": 33,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 197262,
+      "num": 127614,
+      "word": "杨汝晴回应侯卓成求婚",
+      "onboard_time": 1779725481,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 196106,
@@ -251,14 +291,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 185117,
-      "num": 415810,
-      "word": "A股出现三大异象",
-      "onboard_time": 1779721942,
-      "rank": 33,
-      "category": "财经"
-    },
-    {
       "raw_hot": 179510,
       "num": 412675,
       "word": "王弘毅缝的是美容针",
@@ -273,14 +305,6 @@
       "onboard_time": 1779716842,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 175589,
-      "num": 408826,
-      "word": "中国博主富士山下跳舞被外网辱骂",
-      "onboard_time": 1779712581,
-      "rank": 36,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 173417,
@@ -387,12 +411,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 132639,
+      "num": 146601,
+      "word": "盒马粉木耳产品已下架",
+      "onboard_time": 1779728417,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 130761,
+      "num": 146218,
+      "word": "董璇张维伊婚后一年都在谈恋爱",
+      "onboard_time": 1779710121,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 130362,
       "num": 378435,
       "word": "武契奇职业生涯中最高兴的一天",
       "onboard_time": 1779723681,
       "rank": 49,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 119989,
+      "num": 146140,
+      "word": "看得出来女孩和狗狗都紧张",
+      "onboard_time": 1779729976,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 117087,
@@ -403,20 +451,20 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 96117,
-      "num": 146944,
-      "word": "因漏放吸管辱骂打砸店员女子被行拘",
-      "onboard_time": 1779726920,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 85936,
+      "raw_hot": 102258,
       "num": 146885,
       "word": "一家人认识但不熟",
       "onboard_time": 1779728417,
       "rank": 28,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 81119,
+      "num": 126516,
+      "word": "王皓孙逊加盟吉林省乒乓球队",
+      "onboard_time": 1779750318,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 69862,
@@ -427,20 +475,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 61956,
-      "num": 146601,
-      "word": "盒马粉木耳产品已下架",
-      "onboard_time": 1779728417,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 53114,
-      "num": 146437,
-      "word": "帕梅拉去了天津都害怕",
-      "onboard_time": 1779728417,
-      "rank": 39,
-      "category": "幽默"
+      "raw_hot": 65789,
+      "num": 117962,
+      "word": "人生所有事本质都是小马过河",
+      "onboard_time": 1779742573,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 50579,
@@ -451,12 +491,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 47904,
-      "num": 146218,
-      "word": "董璇张维伊婚后一年都在谈恋爱",
-      "onboard_time": 1779710121,
-      "rank": 40,
-      "category": "综艺"
+      "raw_hot": 48590,
+      "num": 112028,
+      "word": "女子产后康复呼吸心跳骤停成植物人",
+      "onboard_time": 1779745994,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 47391,
@@ -475,12 +515,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 45890,
-      "num": 146140,
-      "word": "看得出来女孩和狗狗都紧张",
-      "onboard_time": 1779729976,
-      "rank": 45,
-      "category": "幽默"
+      "raw_hot": 47014,
+      "num": 110837,
+      "word": "杨紫给粉丝送未公开小卡",
+      "onboard_time": 1779750017,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 45168,
+      "num": 111422,
+      "word": "徐洁儿发长文",
+      "onboard_time": 1779750017,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 44359,
@@ -489,6 +537,22 @@
       "onboard_time": 1779731476,
       "rank": 41,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 43616,
+      "num": 110473,
+      "word": "运动员夺冠后捧起奖杯下一秒碎一地",
+      "onboard_time": 1779750377,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 43215,
+      "num": 110019,
+      "word": "突然意识到自己好像说太多时",
+      "onboard_time": 1779746775,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 42955,
@@ -529,14 +593,6 @@
       "onboard_time": 1779737534,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 27838,
-      "num": 38733,
-      "word": "人生所有事本质都是小马过河",
-      "onboard_time": 1779742573,
-      "rank": 34,
-      "category": "情感"
     },
     {
       "raw_hot": 16984,
