@@ -1,0 +1,410 @@
+{
+  "runTime": 1779700350279,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 626667,
+        "num": 1100266,
+        "word": "乘风四公双人合作曲限时推荐",
+        "onboard_time": 1779693441,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 346207,
+        "num": 1099547,
+        "word": "30岁男子患癌后想凭意念消除癌细胞",
+        "onboard_time": 1779682642,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 43694,
+        "num": 1093303,
+        "word": "智能机器人加速走进日常生活",
+        "onboard_time": 1779694581,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 2608282,
+        "num": 1093004,
+        "word": "华为芯片",
+        "onboard_time": 1779697522,
+        "rank": 3,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1189536,
+        "num": 1086995,
+        "word": "任敏觉得邓超不太舒服",
+        "onboard_time": 1779688280,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1086000,
+        "num": 1086000,
+        "word": "不愧是老祖宗严选的地理位置",
+        "onboard_time": 1779690682,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 879993,
+        "num": 879993,
+        "word": "被豆包忽悠花了5万元创业",
+        "onboard_time": 1779697042,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 659406,
+        "num": 659406,
+        "word": "聚酯纤维是塑料的具象化",
+        "onboard_time": 1779695181,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 634408,
+        "num": 634408,
+        "word": "曾沛慈团想唱搁浅",
+        "onboard_time": 1779695962,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143208,
+        "num": 633093,
+        "word": "郑钦文vs赫瓦林斯卡",
+        "onboard_time": 1779700281,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 4008212,
+        "num": 630388,
+        "word": "秦岚也不舒服了",
+        "onboard_time": 1779698662,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1470737,
+        "num": 626120,
+        "word": "王鹤棣经纪人朋友圈",
+        "onboard_time": 1779676519,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 572688,
+        "num": 624235,
+        "word": "男子灭蚊4年收尸记死期做标本",
+        "onboard_time": 1779697702,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 799972,
+        "num": 620679,
+        "word": "吴泽林也不舒服了",
+        "onboard_time": 1779689422,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 552411,
+        "num": 615972,
+        "word": "穿阔腿裤最害怕遇到的事",
+        "onboard_time": 1779692662,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 86620,
+        "num": 615116,
+        "word": "前北京国安球星脑梗后走路困难",
+        "onboard_time": 1779697762,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 284098,
+        "num": 611370,
+        "word": "妈妈回应米粒离世6年后迎三胎",
+        "onboard_time": 1779694161,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 260724,
+        "num": 608720,
+        "word": "幼儿园家长接力赛混入国家队",
+        "onboard_time": 1779694581,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 260070,
+        "num": 604732,
+        "word": "美伊就开放霍尔木兹海峡达成一致",
+        "onboard_time": 1779691402,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 34704,
+        "num": 600294,
+        "word": "迟宗琳与父亲名字同刻遗体捐献纪念墙",
+        "onboard_time": 1779699141,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 742975,
+        "num": 598694,
+        "word": "五哈不舒服学",
+        "onboard_time": 1779693382,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1307051,
+        "num": 595493,
+        "word": "曝朱梓骁恋情",
+        "onboard_time": 1779693742,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 624912,
+        "num": 591582,
+        "word": "李思潼 虎鲸文娱",
+        "onboard_time": 1779690443,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 368712,
+        "num": 587678,
+        "word": "钎九",
+        "onboard_time": 1779698422,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 498037,
+        "num": 586361,
+        "word": "尼格买提被杨幂人气震惊到了",
+        "onboard_time": 1779692782,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 476358,
+        "num": 584222,
+        "word": "王源起诉B站侵权",
+        "onboard_time": 1779697462,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 331924,
+        "num": 580961,
+        "word": "第一个想到用小票当壁纸的是天才",
+        "onboard_time": 1779679401,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 238339,
+        "num": 575744,
+        "word": "711创始人去世",
+        "onboard_time": 1779699921,
+        "rank": 27,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 234283,
+        "num": 572837,
+        "word": "亚朵酒店打扫后床垫残留卷曲毛发",
+        "onboard_time": 1779695122,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126151,
+        "num": 569163,
+        "word": "泡药杨梅曝光杨梅滞销果农哽咽求助",
+        "onboard_time": 1779699742,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 356773,
+        "num": 566424,
+        "word": "王楚然高反手都肿了",
+        "onboard_time": 1779688461,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 342574,
+        "num": 564650,
+        "word": "王濛团选歌",
+        "onboard_time": 1779698961,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 313972,
+        "num": 560671,
+        "word": "很多工作明明可以双休",
+        "onboard_time": 1779692121,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 313632,
+        "num": 558685,
+        "word": "神童减重37kg大变样",
+        "onboard_time": 1779686302,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 296388,
+        "num": 555101,
+        "word": "张月团想唱什么",
+        "onboard_time": 1779698181,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 225816,
+        "num": 551677,
+        "word": "女子遭家暴被扔下土崖致死案将开庭",
+        "onboard_time": 1779696022,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102617,
+        "num": 547427,
+        "word": "京东明星红包阵容",
+        "onboard_time": 1779699862,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 64717,
+        "num": 544711,
+        "word": "张慧雯喊你领618红包",
+        "onboard_time": 1779699862,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193141,
+        "num": 542143,
+        "word": "关晓彤李昀锐校服共创",
+        "onboard_time": 1779699682,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 98130,
+        "num": 539281,
+        "word": "乌兰图雅回应",
+        "onboard_time": 1779699802,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 77174,
+        "num": 537273,
+        "word": "被扔悬崖女子月子期间遭丈夫殴打",
+        "onboard_time": 1779699862,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 275231,
+        "num": 534198,
+        "word": "刘琳琳玩王鹤棣的梗",
+        "onboard_time": 1779685341,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 277155,
+        "num": 529288,
+        "word": "鹿晗工作室你让我很没面子",
+        "onboard_time": 1779692842,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 224062,
+        "num": 526007,
+        "word": "辞职前先请一周假",
+        "onboard_time": 1779690323,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 249498,
+        "num": 523551,
+        "word": "林一至今唯一对不起的只有沈腾",
+        "onboard_time": 1779697221,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 225698,
+        "num": 521108,
+        "word": "万千惠 乌兰图雅",
+        "onboard_time": 1779683602,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192055,
+        "num": 518007,
+        "word": "山西煤矿爆炸瞬间监控曝光",
+        "onboard_time": 1779678262,
+        "rank": 46,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 169323,
+        "num": 513107,
+        "word": "微信多项新功能",
+        "onboard_time": 1779699202,
+        "rank": 47,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 74302,
+        "num": 512151,
+        "word": "一名中国航天员将在太空出差一年",
+        "onboard_time": 1779691881,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 191866,
+        "num": 509070,
+        "word": "A股两大板块爆发",
+        "onboard_time": 1779697462,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#这一幕中塞铁杆友谊具象化了#"
+    }
+  }
+}
