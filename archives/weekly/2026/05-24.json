@@ -1,6 +1,6 @@
 {
   "startTime": 1779556240361,
-  "endTime": 1779713428240,
+  "endTime": 1779724656045,
   "band_list": [
     {
       "raw_hot": 15283499,
@@ -99,6 +99,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 3112502,
+      "num": 826132,
+      "word": "侯卓成求婚杨汝晴",
+      "onboard_time": 1779721162,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2947433,
       "num": 239075,
       "word": "王鹤棣",
@@ -195,6 +203,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1767944,
+      "num": 1767944,
+      "word": "盒马郑重道歉",
+      "onboard_time": 1779720084,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1719688,
+      "num": 1719688,
+      "word": "给阿嬷的情书 投资回报率",
+      "onboard_time": 1779718402,
+      "rank": 1,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1648517,
       "num": 1648517,
       "word": "武汉停课停业",
@@ -249,6 +273,22 @@
       "onboard_time": 1779604581,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1480388,
+      "num": 510548,
+      "word": "女主持就王鹤棣沈月争议发声",
+      "onboard_time": 1779720503,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1465765,
+      "num": 533076,
+      "word": "王鹤棣一个人去海边坐一小时",
+      "onboard_time": 1779712702,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 1455044,
@@ -369,14 +409,6 @@
       "onboard_time": 1779543386,
       "rank": 10,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1286752,
-      "num": 533076,
-      "word": "王鹤棣一个人去海边坐一小时",
-      "onboard_time": 1779712702,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 1286327,
@@ -531,6 +563,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 1025685,
+      "num": 500751,
+      "word": "痞幼与梅尼耶贴身热舞被指没边界感",
+      "onboard_time": 1779715882,
+      "rank": 14,
+      "category": "网红"
+    },
+    {
       "raw_hot": 998662,
       "num": 455069,
       "word": "水族馆的男美人鱼竟然是吴磊",
@@ -609,6 +649,14 @@
       "onboard_time": 1779697042,
       "rank": 6,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 875609,
+      "num": 491744,
+      "word": "叶一茜 发卖老公",
+      "onboard_time": 1779720443,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 868663,
@@ -696,6 +744,14 @@
       "word": "吴泽林也不舒服了",
       "onboard_time": 1779689422,
       "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 787099,
+      "num": 487386,
+      "word": "张凌赫田曦薇一起发vlog",
+      "onboard_time": 1779715403,
+      "rank": 19,
       "category": "艺人"
     },
     {
@@ -811,6 +867,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 687387,
+      "num": 504320,
+      "word": "割双眼皮无法闭眼女子崩溃发声",
+      "onboard_time": 1779716842,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 659406,
       "num": 659406,
       "word": "聚酯纤维是塑料的具象化",
@@ -841,6 +905,14 @@
       "onboard_time": 1779628584,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 635207,
+      "num": 497036,
+      "word": "华为 韬定律",
+      "onboard_time": 1779720023,
+      "rank": 15,
+      "category": "互联网"
     },
     {
       "raw_hot": 634408,
@@ -995,6 +1067,22 @@
       "category": "教育"
     },
     {
+      "raw_hot": 552634,
+      "num": 522563,
+      "word": "杨紫 白玉兰提名",
+      "onboard_time": 1779714982,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 552423,
+      "num": 482210,
+      "word": "女干部称耳环是几十块买的",
+      "onboard_time": 1779716963,
+      "rank": 21,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 552411,
       "num": 615972,
       "word": "穿阔腿裤最害怕遇到的事",
@@ -1049,6 +1137,14 @@
       "onboard_time": 1779640224,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 523465,
+      "num": 523465,
+      "word": "郑钦文发布会哭了",
+      "onboard_time": 1779717982,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 521743,
@@ -1169,6 +1265,14 @@
       "onboard_time": 1779680661,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 464371,
+      "num": 476784,
+      "word": "西安一16岁女孩在街上遭陌生男子殴打",
+      "onboard_time": 1779715882,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 463899,
@@ -1467,6 +1571,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 350547,
+      "num": 469732,
+      "word": "保护肝脏3要吃3别碰",
+      "onboard_time": 1779721283,
+      "rank": 26,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 348356,
       "num": 489668,
       "word": "杨紫直播",
@@ -1547,6 +1659,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 337513,
+      "num": 519595,
+      "word": "福岛核区日本野猪变超级猪",
+      "onboard_time": 1779705201,
+      "rank": 28,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 333917,
       "num": 497241,
       "word": "今年热度破三万的三部剧",
@@ -1593,6 +1713,22 @@
       "onboard_time": 1779584721,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 319347,
+      "num": 517357,
+      "word": "郑钦文排名跌出前100",
+      "onboard_time": 1779713782,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 318786,
+      "num": 478509,
+      "word": "男子炸出绿色葱油吓得不敢吃",
+      "onboard_time": 1779714683,
+      "rank": 22,
+      "category": "美食"
     },
     {
       "raw_hot": 318311,
@@ -1755,6 +1891,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 283065,
+      "num": 497005,
+      "word": "直播女选手隐私部位人太多不是理由",
+      "onboard_time": 1779710181,
+      "rank": 32,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 281961,
       "num": 423795,
       "word": "狼队信FMVP",
@@ -1785,6 +1929,14 @@
       "onboard_time": 1779630144,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 279773,
+      "num": 461306,
+      "word": "田曦薇被自己美一大跳",
+      "onboard_time": 1779719243,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 278125,
@@ -1849,6 +2001,14 @@
       "onboard_time": 1779670581,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 271505,
+      "num": 458715,
+      "word": "金价跳空高开",
+      "onboard_time": 1779713361,
+      "rank": 47,
+      "category": "财经"
     },
     {
       "raw_hot": 269907,
@@ -1945,14 +2105,6 @@
       "onboard_time": 1779675261,
       "rank": 9,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 255853,
-      "num": 497005,
-      "word": "直播女选手隐私部位人太多不是理由",
-      "onboard_time": 1779710181,
-      "rank": 32,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 255072,
@@ -2195,6 +2347,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 226532,
+      "num": 513347,
+      "word": "芯片半导体暴涨",
+      "onboard_time": 1779720625,
+      "rank": 9,
+      "category": "财经,民生新闻"
+    },
+    {
       "raw_hot": 226289,
       "num": 607846,
       "word": "重庆永川暴雨致多人失联",
@@ -2249,14 +2409,6 @@
       "onboard_time": 1779700821,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 218526,
-      "num": 489428,
-      "word": "福岛核区日本野猪变超级猪",
-      "onboard_time": 1779705201,
-      "rank": 28,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 216186,
@@ -2379,6 +2531,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 197267,
+      "num": 455466,
+      "word": "白玉兰提名预测",
+      "onboard_time": 1779723262,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 197010,
+      "num": 448895,
+      "word": "王弘毅缝的是美容针",
+      "onboard_time": 1779723141,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 193720,
       "num": 416189,
       "word": "家业收视率",
@@ -2419,6 +2587,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 191660,
+      "num": 446342,
+      "word": "张月的人气",
+      "onboard_time": 1779716842,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 191387,
       "num": 453134,
       "word": "盒马粉木耳标签被指低俗擦边",
@@ -2451,6 +2627,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 187095,
+      "num": 451582,
+      "word": "AG我们五个永远厉害",
+      "onboard_time": 1779718944,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 186772,
       "num": 449818,
       "word": "漳州杨梅果农哽咽求助",
@@ -2481,6 +2665,14 @@
       "onboard_time": 1779615262,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 185491,
+      "num": 441851,
+      "word": "主角原著 秦娥家暴刘红兵",
+      "onboard_time": 1779721283,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 184398,
@@ -2539,6 +2731,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 176915,
+      "num": 439281,
+      "word": "家业热度",
+      "onboard_time": 1779720382,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 176135,
       "num": 358431,
       "word": "九尾英伦校服帅麻了",
@@ -2563,6 +2763,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 172911,
+      "num": 428679,
+      "word": "A股出现三大异象",
+      "onboard_time": 1779721942,
+      "rank": 42,
+      "category": "财经"
+    },
+    {
       "raw_hot": 172528,
       "num": 413584,
       "word": "少司缘在等一个叫信的人",
@@ -2571,12 +2779,36 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 171978,
+      "num": 426423,
+      "word": "在德失联23岁中国留学生遗体已找到",
+      "onboard_time": 1779723023,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 171634,
       "num": 148955,
       "word": "张艺上打车走了",
       "onboard_time": 1779665539,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 171076,
+      "num": 436548,
+      "word": "今年天气系统出现异常",
+      "onboard_time": 1779723082,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 166745,
+      "num": 422152,
+      "word": "张凌赫又在报备了",
+      "onboard_time": 1779722841,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 166550,
@@ -2593,6 +2825,14 @@
       "onboard_time": 1779634945,
       "rank": 45,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 163890,
+      "num": 489765,
+      "word": "偷拍男生未在公务员体检入围名单",
+      "onboard_time": 1779723442,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 163349,
@@ -2707,6 +2947,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 150786,
+      "num": 412384,
+      "word": "Jennie一顶帽子戴七年",
+      "onboard_time": 1779717443,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 150338,
       "num": 584923,
       "word": "婚后2年未同房女方否认身体有障碍",
@@ -2737,14 +2985,6 @@
       "onboard_time": 1779585561,
       "rank": 10,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 147005,
-      "num": 441872,
-      "word": "金价跳空高开",
-      "onboard_time": 1779713361,
-      "rank": 47,
-      "category": "财经"
     },
     {
       "raw_hot": 146377,
@@ -3019,6 +3259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 110852,
+      "num": 484019,
+      "word": "武契奇职业生涯中最高兴的一天",
+      "onboard_time": 1779723681,
+      "rank": 20,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 110830,
       "num": 539050,
       "word": "社工考试",
@@ -3115,6 +3363,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 101973,
+      "num": 418790,
+      "word": "4吨的车来了路快撑不住了",
+      "onboard_time": 1779719903,
+      "rank": 46,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 101813,
       "num": 645852,
       "word": "当AI有一副人的身体",
@@ -3129,6 +3385,14 @@
       "onboard_time": 1779631704,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 99069,
+      "num": 417781,
+      "word": "钟意 我的志向是浩瀚星辰",
+      "onboard_time": 1779716542,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 98130,
@@ -3571,6 +3835,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 53088,
+      "num": 473765,
+      "word": "2名涉泡药杨梅党员干部免职",
+      "onboard_time": 1779724281,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 53034,
       "num": 540985,
       "word": "山西煤矿事故现场机器人参与搜救",
@@ -3633,6 +3905,14 @@
       "onboard_time": 1779570794,
       "rank": 40,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 47258,
+      "num": 836052,
+      "word": "强降雨天气优先选择公共交通",
+      "onboard_time": 1779714741,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 46930,
@@ -3970,6 +4250,9 @@
     },
     {
       "word": "#这一幕中塞铁杆友谊具象化了#"
+    },
+    {
+      "word": "#习近平同武契奇举行会谈#"
     }
   ]
 }
