@@ -1,6 +1,6 @@
 {
   "startTime": 1779556240361,
-  "endTime": 1779732569528,
+  "endTime": 1779738739393,
   "band_list": [
     {
       "raw_hot": 15283499,
@@ -3531,6 +3531,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 85936,
+      "num": 146885,
+      "word": "一家人认识但不熟",
+      "onboard_time": 1779728417,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 85906,
       "num": 820338,
       "word": "马斯克放弃地面太阳能",
@@ -3617,14 +3625,6 @@
       "onboard_time": 1779726920,
       "rank": 27,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 76635,
-      "num": 146885,
-      "word": "一家人认识但不熟",
-      "onboard_time": 1779728417,
-      "rank": 28,
-      "category": "幽默"
     },
     {
       "raw_hot": 75847,
@@ -4209,6 +4209,14 @@
       "onboard_time": 1779611964,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 28998,
+      "num": 28998,
+      "word": "曾沛慈 主人请投票喵",
+      "onboard_time": 1779737534,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 28435,
