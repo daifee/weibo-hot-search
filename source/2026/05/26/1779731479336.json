@@ -1,0 +1,410 @@
+{
+  "runTime": 1779731479336,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 620582,
+        "num": 620582,
+        "word": "盒马郑重道歉",
+        "onboard_time": 1779720084,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 361372,
+        "num": 361372,
+        "word": "给阿嬷的情书 投资回报率",
+        "onboard_time": 1779718402,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 16898,
+        "num": 222501,
+        "word": "强降雨天气优先选择公共交通",
+        "onboard_time": 1779714741,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 616036,
+        "num": 210350,
+        "word": "侯卓成求婚杨汝晴",
+        "onboard_time": 1779721162,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183824,
+        "num": 183824,
+        "word": "上班上久后形成的肌肉记忆",
+        "onboard_time": 1779728417,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 144966,
+        "num": 144966,
+        "word": "福岛核区日本野猪变超级猪",
+        "onboard_time": 1779705201,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 142739,
+        "num": 142739,
+        "word": "杨紫 白玉兰提名",
+        "onboard_time": 1779714982,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137883,
+        "num": 137883,
+        "word": "突然发现自己正是人生的7点半",
+        "onboard_time": 1779725840,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 114736,
+        "num": 137276,
+        "word": "芯片半导体暴涨",
+        "onboard_time": 1779720625,
+        "rank": 8,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 112187,
+        "num": 136299,
+        "word": "郑钦文发布会哭了",
+        "onboard_time": 1779717982,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 591023,
+        "num": 135465,
+        "word": "秦岚也不舒服了",
+        "onboard_time": 1779698662,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 209766,
+        "num": 135022,
+        "word": "女干部称耳环是几十块买的",
+        "onboard_time": 1779716963,
+        "rank": 11,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 423714,
+        "num": 133697,
+        "word": "王鹤棣一个人去海边坐一小时",
+        "onboard_time": 1779712702,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 192144,
+        "num": 133468,
+        "word": "割双眼皮无法闭眼女子崩溃发声",
+        "onboard_time": 1779716842,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157163,
+        "num": 132276,
+        "word": "直播女选手隐私部位人太多不是理由",
+        "onboard_time": 1779710181,
+        "rank": 14,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 156329,
+        "num": 131214,
+        "word": "西安一16岁女孩在街上遭陌生男子殴打",
+        "onboard_time": 1779715882,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130840,
+        "num": 130840,
+        "word": "内娱00花洗牌了",
+        "onboard_time": 1779705142,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 127783,
+        "num": 127783,
+        "word": "男子炸出绿色葱油吓得不敢吃",
+        "onboard_time": 1779714683,
+        "rank": 17,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 120272,
+        "num": 120272,
+        "word": "在德失联23岁中国留学生遗体已找到",
+        "onboard_time": 1779723023,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114619,
+        "num": 114619,
+        "word": "A股出现三大异象",
+        "onboard_time": 1779721942,
+        "rank": 19,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 138151,
+        "num": 114479,
+        "word": "保护肝脏3要吃3别碰",
+        "onboard_time": 1779721283,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 103485,
+        "num": 114199,
+        "word": "食堂大锅咖啡有多离谱",
+        "onboard_time": 1779705561,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 100253,
+        "num": 114022,
+        "word": "中国博主富士山下跳舞被外网辱骂",
+        "onboard_time": 1779712581,
+        "rank": 22,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 88777,
+        "num": 113628,
+        "word": "浪姐双人舞台投票结果",
+        "onboard_time": 1779711562,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 87444,
+        "num": 113560,
+        "word": "郑钦文排名跌出前100",
+        "onboard_time": 1779713782,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 86062,
+        "num": 113163,
+        "word": "今年天气系统出现异常",
+        "onboard_time": 1779723082,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77672,
+        "num": 113049,
+        "word": "荣耀600价格",
+        "onboard_time": 1779709521,
+        "rank": 26,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 75426,
+        "num": 112807,
+        "word": "因漏放吸管辱骂打砸店员女子被行拘",
+        "onboard_time": 1779726920,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 72618,
+        "num": 112506,
+        "word": "一家人认识但不熟",
+        "onboard_time": 1779728417,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 70164,
+        "num": 112101,
+        "word": "主角原著 秦娥家暴刘红兵",
+        "onboard_time": 1779721283,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 68601,
+        "num": 112024,
+        "word": "金价跳空高开",
+        "onboard_time": 1779713361,
+        "rank": 30,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 66906,
+        "num": 111600,
+        "word": "张月的人气",
+        "onboard_time": 1779716842,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 61956,
+        "num": 111377,
+        "word": "盒马粉木耳产品已下架",
+        "onboard_time": 1779728417,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 59418,
+        "num": 111157,
+        "word": "偷拍男生未在公务员体检入围名单",
+        "onboard_time": 1779723442,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 58979,
+        "num": 110938,
+        "word": "家业热度",
+        "onboard_time": 1779720382,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 57056,
+        "num": 110613,
+        "word": "白玉兰提名预测",
+        "onboard_time": 1779723262,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 53097,
+        "num": 110386,
+        "word": "伊朗亿万豪门千金或让丈夫净身出户",
+        "onboard_time": 1779709461,
+        "rank": 36,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 52793,
+        "num": 110131,
+        "word": "张月团安崎团撞选歌",
+        "onboard_time": 1779708202,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 50163,
+        "num": 109792,
+        "word": "武契奇职业生涯中最高兴的一天",
+        "onboard_time": 1779723681,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 48686,
+        "num": 109545,
+        "word": "帕梅拉去了天津都害怕",
+        "onboard_time": 1779728417,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 47904,
+        "num": 109369,
+        "word": "董璇张维伊婚后一年都在谈恋爱",
+        "onboard_time": 1779710121,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 47506,
+        "num": 109057,
+        "word": "盒马粉木耳标签被指低俗擦边",
+        "onboard_time": 1779712161,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 47391,
+        "num": 108882,
+        "word": "王濛团李心洁团都想要海屿你",
+        "onboard_time": 1779722782,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 46771,
+        "num": 108487,
+        "word": "4吨的车来了路快撑不住了",
+        "onboard_time": 1779719903,
+        "rank": 43,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 46754,
+        "num": 108410,
+        "word": "主角 书剧分离",
+        "onboard_time": 1779728417,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 45890,
+        "num": 108018,
+        "word": "看得出来女孩和狗狗都紧张",
+        "onboard_time": 1779729976,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 43642,
+        "num": 107748,
+        "word": "AG我们五个永远厉害",
+        "onboard_time": 1779718944,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 42915,
+        "num": 107576,
+        "word": "微信多项新功能",
+        "onboard_time": 1779699202,
+        "rank": 47,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 37935,
+        "num": 107263,
+        "word": "宇树科技IPO将于6月1日上会",
+        "onboard_time": 1779723321,
+        "rank": 48,
+        "category": "财经,互联网"
+      },
+      {
+        "raw_hot": 35333,
+        "num": 106947,
+        "word": "钟意 我的志向是浩瀚星辰",
+        "onboard_time": 1779716542,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见巴基斯坦总理#"
+    }
+  }
+}
