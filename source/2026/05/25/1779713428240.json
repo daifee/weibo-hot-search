@@ -1,0 +1,410 @@
+{
+  "runTime": 1779713428240,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 860302,
+        "num": 1137648,
+        "word": "郑钦文止步法网首轮",
+        "onboard_time": 1779708021,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 699097,
+        "num": 839819,
+        "word": "浪姐双人舞台投票结果",
+        "onboard_time": 1779711562,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 22418,
+        "num": 647543,
+        "word": "智能机器人加速走进日常生活",
+        "onboard_time": 1779694581,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 615859,
+        "num": 615859,
+        "word": "食堂大锅咖啡有多离谱",
+        "onboard_time": 1779705561,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 600277,
+        "num": 600277,
+        "word": "张月团安崎团撞选歌",
+        "onboard_time": 1779708202,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 584900,
+        "num": 584900,
+        "word": "微信多项新功能",
+        "onboard_time": 1779699202,
+        "rank": 5,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 550256,
+        "num": 550256,
+        "word": "荣耀600价格",
+        "onboard_time": 1779709521,
+        "rank": 6,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 336804,
+        "num": 549948,
+        "word": "不愧是老祖宗严选的地理位置",
+        "onboard_time": 1779690682,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 322248,
+        "num": 547357,
+        "word": "聚酯纤维是塑料的具象化",
+        "onboard_time": 1779695181,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 360382,
+        "num": 543999,
+        "word": "张月团怪我更爱我自己第一",
+        "onboard_time": 1779711440,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 3774823,
+        "num": 541158,
+        "word": "潘玮柏得了面瘫",
+        "onboard_time": 1779707361,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 548656,
+        "num": 537726,
+        "word": "伊朗亿万豪门千金或让丈夫净身出户",
+        "onboard_time": 1779709461,
+        "rank": 11,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1654928,
+        "num": 534546,
+        "word": "秦岚也不舒服了",
+        "onboard_time": 1779698662,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1286752,
+        "num": 533076,
+        "word": "王鹤棣一个人去海边坐一小时",
+        "onboard_time": 1779712702,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 375521,
+        "num": 529672,
+        "word": "复旦教授谈为什么一定要考好的大学",
+        "onboard_time": 1779703162,
+        "rank": 14,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1148591,
+        "num": 526745,
+        "word": "虞书欣谁跟你说不用了",
+        "onboard_time": 1779708141,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 746291,
+        "num": 523926,
+        "word": "内娱00花洗牌了",
+        "onboard_time": 1779705142,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1071572,
+        "num": 522046,
+        "word": "王鹤棣经纪人朋友圈",
+        "onboard_time": 1779676519,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 361420,
+        "num": 520343,
+        "word": "妈妈离婚当日遇害姐妹俩惧怕婚姻",
+        "onboard_time": 1779704900,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 312090,
+        "num": 516258,
+        "word": "武契奇总统访华欢迎仪式",
+        "onboard_time": 1779704300,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 24418,
+        "num": 515376,
+        "word": "稻城亚丁景区通报博主违规自驾",
+        "onboard_time": 1779712641,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 478272,
+        "num": 511043,
+        "word": "任敏觉得邓超不太舒服",
+        "onboard_time": 1779688280,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 477982,
+        "num": 508007,
+        "word": "王弘毅脸被划伤",
+        "onboard_time": 1779709041,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 365674,
+        "num": 506988,
+        "word": "iPhone20原型机偷跑",
+        "onboard_time": 1779700702,
+        "rank": 23,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 255072,
+        "num": 504787,
+        "word": "中芯国际20cm涨停",
+        "onboard_time": 1779703222,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 437679,
+        "num": 501575,
+        "word": "林小宅黑泽疑似恋爱",
+        "onboard_time": 1779701061,
+        "rank": 25,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 314100,
+        "num": 497241,
+        "word": "今年热度破三万的三部剧",
+        "onboard_time": 1779701602,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 255853,
+        "num": 497005,
+        "word": "直播女选手隐私部位人太多不是理由",
+        "onboard_time": 1779710181,
+        "rank": 27,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 255840,
+        "num": 492931,
+        "word": "主角",
+        "onboard_time": 1779704783,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 218526,
+        "num": 489428,
+        "word": "福岛核区日本野猪变超级猪",
+        "onboard_time": 1779705201,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 253666,
+        "num": 486846,
+        "word": "曾沛慈团想唱搁浅",
+        "onboard_time": 1779695962,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 253432,
+        "num": 485865,
+        "word": "董璇张维伊婚后一年都在谈恋爱",
+        "onboard_time": 1779710121,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 249722,
+        "num": 481169,
+        "word": "乘风四公双人合作曲限时推荐",
+        "onboard_time": 1779693441,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 222623,
+        "num": 479674,
+        "word": "中国博主富士山下跳舞被外网辱骂",
+        "onboard_time": 1779712581,
+        "rank": 33,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 164156,
+        "num": 477471,
+        "word": "康师傅回应1瓶水蜜桃0.01克水蜜桃汁",
+        "onboard_time": 1779709461,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 242163,
+        "num": 473948,
+        "word": "杜华女儿与甜馨小酒窝同框",
+        "onboard_time": 1779706823,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 227716,
+        "num": 471436,
+        "word": "肖战出道至今足迹地图",
+        "onboard_time": 1779710902,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 57925,
+        "num": 470202,
+        "word": "美伊就开放霍尔木兹海峡达成一致",
+        "onboard_time": 1779691402,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 226084,
+        "num": 466100,
+        "word": "主角原著 刘红兵出轨",
+        "onboard_time": 1779713183,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 42328,
+        "num": 463787,
+        "word": "荣耀600发布会起风了回忆杀",
+        "onboard_time": 1779712461,
+        "rank": 39,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 194386,
+        "num": 460494,
+        "word": "荣耀600",
+        "onboard_time": 1779712520,
+        "rank": 40,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 227681,
+        "num": 459167,
+        "word": "李思潼 虎鲸文娱",
+        "onboard_time": 1779690443,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 221393,
+        "num": 457112,
+        "word": "时代峰峻回应时代少年团联排杂音",
+        "onboard_time": 1779700821,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191387,
+        "num": 453134,
+        "word": "盒马粉木耳标签被指低俗擦边",
+        "onboard_time": 1779712161,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130443,
+        "num": 449232,
+        "word": "T1晋级EWC",
+        "onboard_time": 1779708622,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 207705,
+        "num": 447335,
+        "word": "曝朱梓骁恋情",
+        "onboard_time": 1779693742,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202556,
+        "num": 446545,
+        "word": "王源起诉B站侵权",
+        "onboard_time": 1779697462,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147005,
+        "num": 441872,
+        "word": "金价跳空高开",
+        "onboard_time": 1779713361,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 105657,
+        "num": 441118,
+        "word": "郑钦文vs赫瓦林斯卡",
+        "onboard_time": 1779700281,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 185937,
+        "num": 436995,
+        "word": "何洁说苏醒太难处了",
+        "onboard_time": 1779712103,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#这一幕中塞铁杆友谊具象化了#"
+    }
+  }
+}
