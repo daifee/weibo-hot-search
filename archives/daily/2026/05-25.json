@@ -1,6 +1,6 @@
 {
   "startTime": 1779638894290,
-  "endTime": 1779682969189,
+  "endTime": 1779685354481,
   "band_list": [
     {
       "raw_hot": 15283499,
@@ -41,6 +41,14 @@
       "onboard_time": 1779680902,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1907596,
+      "num": 1907596,
+      "word": "看不到女干部救灾累哑却盯着金耳环",
+      "onboard_time": 1779680962,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1863210,
@@ -107,11 +115,35 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1286327,
+      "num": 352380,
+      "word": "万千惠 乌兰图雅",
+      "onboard_time": 1779683602,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1162285,
+      "num": 1162285,
+      "word": "曝沙溢高反开车正片剪掉了",
+      "onboard_time": 1779682463,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1064322,
       "num": 1449896,
       "word": "王鹤棣曾让沈月吸二手烟",
       "onboard_time": 1779614362,
       "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1042401,
+      "num": 457488,
+      "word": "演员的脸到底有多小",
+      "onboard_time": 1779674240,
+      "rank": 12,
       "category": "艺人"
     },
     {
@@ -121,14 +153,6 @@
       "onboard_time": 1779630864,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1030436,
-      "num": 457488,
-      "word": "演员的脸到底有多小",
-      "onboard_time": 1779674240,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 998662,
@@ -171,14 +195,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 764060,
-      "num": 764060,
-      "word": "曝沙溢高反开车正片剪掉了",
-      "onboard_time": 1779682463,
-      "rank": 4,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 757448,
       "num": 1407979,
       "word": "缘分一道桥拿什么输",
@@ -203,6 +219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 714416,
+      "num": 342598,
+      "word": "刘琳琳玩王鹤棣的梗",
+      "onboard_time": 1779685341,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 667413,
       "num": 1387454,
       "word": "李连杰回应换年轻武僧心脏",
@@ -211,12 +235,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 628872,
-      "num": 867649,
-      "word": "看不到女干部救灾累哑却盯着金耳环",
-      "onboard_time": 1779680962,
-      "rank": 1,
-      "category": "民生新闻"
+      "raw_hot": 629182,
+      "num": 451852,
+      "word": "当你买到一个公摊面积很小的西瓜",
+      "onboard_time": 1779677841,
+      "rank": 14,
+      "category": "美食"
     },
     {
       "raw_hot": 612582,
@@ -265,14 +289,6 @@
       "onboard_time": 1779630628,
       "rank": 27,
       "category": "网红"
-    },
-    {
-      "raw_hot": 540468,
-      "num": 451852,
-      "word": "当你买到一个公摊面积很小的西瓜",
-      "onboard_time": 1779677841,
-      "rank": 14,
-      "category": "美食"
     },
     {
       "raw_hot": 531071,
@@ -328,6 +344,14 @@
       "word": "武汉停课停业",
       "onboard_time": 1779608362,
       "rank": 5,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 479166,
+      "num": 415277,
+      "word": "坠亡女童米粒妈妈怀3胎",
+      "onboard_time": 1779677000,
+      "rank": 31,
       "category": "民生新闻"
     },
     {
@@ -395,14 +419,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 438767,
-      "num": 415277,
-      "word": "坠亡女童米粒妈妈怀3胎",
-      "onboard_time": 1779677000,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 433452,
       "num": 1267047,
       "word": "张艺上淘汰",
@@ -425,6 +441,14 @@
       "onboard_time": 1779629003,
       "rank": 19,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 411562,
+      "num": 403144,
+      "word": "21岁小苹果好漂亮",
+      "onboard_time": 1779682161,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 407656,
@@ -531,6 +555,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 302314,
+      "num": 398938,
+      "word": "30岁男子患癌后想凭意念消除癌细胞",
+      "onboard_time": 1779682642,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 298732,
       "num": 392538,
       "word": "曾沛慈 受伤",
@@ -547,6 +579,38 @@
       "category": "教育"
     },
     {
+      "raw_hot": 295542,
+      "num": 327310,
+      "word": "浪7 姐姐从主体变客体",
+      "onboard_time": 1779681442,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 290770,
+      "num": 311401,
+      "word": "浪姐三公个喜前三",
+      "onboard_time": 1779684142,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 283242,
+      "num": 400671,
+      "word": "李登科说迪丽热巴没整容",
+      "onboard_time": 1779682342,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 281098,
+      "num": 299918,
+      "word": "田亮叶一茜14岁儿子颜值",
+      "onboard_time": 1779683902,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 276543,
       "num": 390097,
       "word": "于正谈给阿嬷的情书",
@@ -561,6 +625,30 @@
       "onboard_time": 1779670581,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 266236,
+      "num": 427205,
+      "word": "这些习惯正在悄悄伤害你的甲状腺",
+      "onboard_time": 1779681502,
+      "rank": 25,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 263601,
+      "num": 396612,
+      "word": "42岁最美女律师迟宗琳车祸去世",
+      "onboard_time": 1779682161,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 262131,
+      "num": 382264,
+      "word": "华为高管回应半导体领域新突破",
+      "onboard_time": 1779681562,
+      "rank": 45,
+      "category": "互联网"
     },
     {
       "raw_hot": 257786,
@@ -593,6 +681,14 @@
       "onboard_time": 1779637764,
       "rank": 9,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 235584,
+      "num": 295271,
+      "word": "体面分手有个弊端是容易造成误会",
+      "onboard_time": 1779684322,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 233138,
@@ -635,12 +731,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 200654,
-      "num": 382264,
-      "word": "华为高管回应半导体领域新突破",
-      "onboard_time": 1779681562,
-      "rank": 45,
-      "category": "互联网"
+      "raw_hot": 199942,
+      "num": 341557,
+      "word": "12岁女孩为领免费小说被诈骗15万",
+      "onboard_time": 1779684202,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 192695,
+      "num": 377472,
+      "word": "KPL运动会",
+      "onboard_time": 1779682881,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 185001,
@@ -649,14 +753,6 @@
       "onboard_time": 1779631645,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 181681,
-      "num": 377472,
-      "word": "KPL运动会",
-      "onboard_time": 1779682881,
-      "rank": 47,
-      "category": "电竞"
     },
     {
       "raw_hot": 171634,
@@ -673,22 +769,6 @@
       "onboard_time": 1779631163,
       "rank": 41,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 169930,
-      "num": 427205,
-      "word": "这些习惯正在悄悄伤害你的甲状腺",
-      "onboard_time": 1779681502,
-      "rank": 25,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 166436,
-      "num": 403144,
-      "word": "21岁小苹果好漂亮",
-      "onboard_time": 1779682161,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 164858,
@@ -723,20 +803,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 154642,
-      "num": 400671,
-      "word": "李登科说迪丽热巴没整容",
-      "onboard_time": 1779682342,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 152131,
       "num": 145880,
       "word": "神21神23航天员全家福",
       "onboard_time": 1779664637,
       "rank": 23,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 147520,
+      "num": 339820,
+      "word": "于东来直播称条件允许将建小区",
+      "onboard_time": 1779684202,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 145509,
@@ -755,12 +835,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 131535,
-      "num": 396612,
-      "word": "42岁最美女律师迟宗琳车祸去世",
-      "onboard_time": 1779682161,
-      "rank": 39,
-      "category": "民生新闻"
+      "raw_hot": 131999,
+      "num": 446029,
+      "word": "京东采销说今天买手机无敌便宜",
+      "onboard_time": 1779681803,
+      "rank": 17,
+      "category": "数码"
     },
     {
       "raw_hot": 125858,
@@ -795,12 +875,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 123685,
+      "num": 289026,
+      "word": "BLG选择WE",
+      "onboard_time": 1779683783,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 122687,
       "num": 1478719,
       "word": "神23报告航天员感觉良好",
       "onboard_time": 1779638183,
       "rank": 11,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 122004,
+      "num": 448099,
+      "word": "京东明星红包",
+      "onboard_time": 1779681803,
+      "rank": 16,
+      "category": "艺人,互联网"
     },
     {
       "raw_hot": 119648,
@@ -827,6 +923,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 112132,
+      "num": 302480,
+      "word": "爽到以为杨洋演短剧了",
+      "onboard_time": 1779684562,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 112008,
       "num": 553433,
       "word": "翟子路发了和刘浩存合照",
@@ -841,14 +945,6 @@
       "onboard_time": 1779636565,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 107724,
-      "num": 446029,
-      "word": "京东采销说今天买手机无敌便宜",
-      "onboard_time": 1779681803,
-      "rank": 17,
-      "category": "数码"
     },
     {
       "raw_hot": 107013,
@@ -891,6 +987,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 96324,
+      "num": 320941,
+      "word": "终于有人治楚嘉禾了",
+      "onboard_time": 1779685281,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 93052,
       "num": 131718,
       "word": "调换这三个学习顺序成绩名列前茅",
@@ -904,6 +1008,14 @@
       "word": "白鹿给湖南灾区捐赠100万",
       "onboard_time": 1779630563,
       "rank": 44,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 91764,
+      "num": 306010,
+      "word": "宋轶的腰有多细",
+      "onboard_time": 1779685281,
+      "rank": 39,
       "category": "艺人"
     },
     {
@@ -921,14 +1033,6 @@
       "onboard_time": 1779615322,
       "rank": 49,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 90592,
-      "num": 448099,
-      "word": "京东明星红包",
-      "onboard_time": 1779681803,
-      "rank": 16,
-      "category": "艺人,互联网"
     },
     {
       "raw_hot": 88547,
@@ -955,6 +1059,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 78796,
+      "num": 300469,
+      "word": "现在的AI产品太癫了",
+      "onboard_time": 1779685043,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 78283,
       "num": 126867,
       "word": "樊振东出战德甲半决赛",
@@ -977,14 +1089,6 @@
       "onboard_time": 1779682102,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 65924,
-      "num": 398938,
-      "word": "30岁男子患癌后想凭意念消除癌细胞",
-      "onboard_time": 1779682642,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 64768,
@@ -1068,7 +1172,7 @@
     },
     {
       "raw_hot": 31749,
-      "num": 811792,
+      "num": 1255886,
       "word": "长三角外贸交出亮眼成绩单",
       "onboard_time": 1779675740,
       "rank": 2,
@@ -1099,6 +1203,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 18035,
+      "num": 294412,
+      "word": "养殖骗局包技术包回收包你血本无归",
+      "onboard_time": 1779684142,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 17274,
       "num": 35810,
       "word": "DRG新老五人组团看徐良",
@@ -1120,6 +1232,14 @@
       "word": "重庆永川一农家乐3200多斤鱼被冲走",
       "onboard_time": 1779682942,
       "rank": 43,
+      "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 13033,
+      "num": 336447,
+      "word": "留神峪煤矿办公区摆着数十本安全规章",
+      "onboard_time": 1779684982,
+      "rank": 21,
       "category": "突发/灾害"
     },
     {
