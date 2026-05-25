@@ -1,6 +1,6 @@
 {
   "startTime": 1779556240361,
-  "endTime": 1779739820992,
+  "endTime": 1779743915676,
   "band_list": [
     {
       "raw_hot": 15283499,
@@ -3883,6 +3883,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 53114,
+      "num": 146437,
+      "word": "帕梅拉去了天津都害怕",
+      "onboard_time": 1779728417,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 53034,
       "num": 540985,
       "word": "山西煤矿事故现场机器人参与搜救",
@@ -3929,14 +3937,6 @@
       "onboard_time": 1779718643,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 50149,
-      "num": 146437,
-      "word": "帕梅拉去了天津都害怕",
-      "onboard_time": 1779728417,
-      "rank": 39,
-      "category": "幽默"
     },
     {
       "raw_hot": 50148,
@@ -4249,6 +4249,14 @@
       "onboard_time": 1779712641,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 21985,
+      "num": 27279,
+      "word": "人生所有事本质都是小马过河",
+      "onboard_time": 1779742573,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 20039,
