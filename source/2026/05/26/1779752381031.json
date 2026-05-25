@@ -1,0 +1,410 @@
+{
+  "runTime": 1779752381031,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 937039,
+        "num": 982582,
+        "word": "盒马郑重道歉",
+        "onboard_time": 1779720084,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 711301,
+        "num": 722503,
+        "word": "今年天气系统出现异常",
+        "onboard_time": 1779723082,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 49129,
+        "num": 586308,
+        "word": "强降雨天气优先选择公共交通",
+        "onboard_time": 1779714741,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1109364,
+        "num": 489654,
+        "word": "侯卓成求婚杨汝晴",
+        "onboard_time": 1779721162,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1107579,
+        "num": 476885,
+        "word": "生理性喜欢很容易对人产生误导",
+        "onboard_time": 1779751159,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 277537,
+        "num": 277537,
+        "word": "心动的信号",
+        "onboard_time": 1779751278,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 384082,
+        "num": 277315,
+        "word": "给阿嬷的情书 投资回报率",
+        "onboard_time": 1779718402,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 310533,
+        "num": 275905,
+        "word": "帕梅拉去了天津都害怕",
+        "onboard_time": 1779728417,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 282423,
+        "num": 274403,
+        "word": "A股出现三大异象",
+        "onboard_time": 1779721942,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 453301,
+        "num": 272477,
+        "word": "因漏放吸管辱骂打砸店员女子被行拘",
+        "onboard_time": 1779726920,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1008442,
+        "num": 271212,
+        "word": "王鹤棣掉粉",
+        "onboard_time": 1779751818,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 415659,
+        "num": 270319,
+        "word": "杨丞琳发文恭喜侯卓成杨汝晴",
+        "onboard_time": 1779752239,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 292731,
+        "num": 269452,
+        "word": "女干部称耳环是几十块买的",
+        "onboard_time": 1779716963,
+        "rank": 12,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 370407,
+        "num": 267983,
+        "word": "潘玮柏得了面瘫",
+        "onboard_time": 1779707361,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 353103,
+        "num": 266696,
+        "word": "秦岚也不舒服了",
+        "onboard_time": 1779698662,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 253859,
+        "num": 264686,
+        "word": "西安一16岁女孩在街上遭陌生男子殴打",
+        "onboard_time": 1779715882,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80345,
+        "num": 263642,
+        "word": "运动员夺冠后捧起奖杯下一秒碎一地",
+        "onboard_time": 1779750377,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 209863,
+        "num": 262144,
+        "word": "中国博主富士山下跳舞被外网辱骂",
+        "onboard_time": 1779712581,
+        "rank": 17,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 208767,
+        "num": 260692,
+        "word": "2026白玉兰奖",
+        "onboard_time": 1779751640,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 203095,
+        "num": 259863,
+        "word": "张凌赫田曦薇一起发vlog",
+        "onboard_time": 1779715403,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 317281,
+        "num": 258722,
+        "word": "保护肝脏3要吃3别碰",
+        "onboard_time": 1779721283,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 554741,
+        "num": 256776,
+        "word": "王鹤棣一个人去海边坐一小时",
+        "onboard_time": 1779712702,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194266,
+        "num": 254808,
+        "word": "在一家公司呆五年的真实感受",
+        "onboard_time": 1779752300,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 179505,
+        "num": 254759,
+        "word": "杨紫 白玉兰提名",
+        "onboard_time": 1779714982,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176886,
+        "num": 253218,
+        "word": "金价跳空高开",
+        "onboard_time": 1779713361,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 166827,
+        "num": 251593,
+        "word": "上班上久后形成的肌肉记忆",
+        "onboard_time": 1779728417,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 157578,
+        "num": 250631,
+        "word": "王皓孙逊加盟吉林省乒乓球队",
+        "onboard_time": 1779750318,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 140442,
+        "num": 248657,
+        "word": "芯片半导体暴涨",
+        "onboard_time": 1779720625,
+        "rank": 27,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 112625,
+        "num": 246889,
+        "word": "一家人认识但不熟",
+        "onboard_time": 1779728417,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 110186,
+        "num": 245625,
+        "word": "看得出来女孩和狗狗都紧张",
+        "onboard_time": 1779729976,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 108916,
+        "num": 244331,
+        "word": "割双眼皮无法闭眼女子崩溃发声",
+        "onboard_time": 1779716842,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108465,
+        "num": 243550,
+        "word": "直播女选手隐私部位人太多不是理由",
+        "onboard_time": 1779710181,
+        "rank": 31,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 108302,
+        "num": 242317,
+        "word": "伊朗称中国推动美伊停火谈判进程",
+        "onboard_time": 1779751459,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 108143,
+        "num": 240911,
+        "word": "郑钦文发布会哭了",
+        "onboard_time": 1779717982,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107197,
+        "num": 238810,
+        "word": "盒马粉木耳产品已下架",
+        "onboard_time": 1779728417,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104867,
+        "num": 238212,
+        "word": "张凌赫又在报备了",
+        "onboard_time": 1779722841,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98683,
+        "num": 237312,
+        "word": "伊朗亿万豪门千金或让丈夫净身出户",
+        "onboard_time": 1779709461,
+        "rank": 36,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 98642,
+        "num": 234997,
+        "word": "田曦薇被自己美一大跳",
+        "onboard_time": 1779719243,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97577,
+        "num": 234477,
+        "word": "突然发现自己正是人生的7点半",
+        "onboard_time": 1779725840,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 95047,
+        "num": 233335,
+        "word": "徐洁儿发长文",
+        "onboard_time": 1779750017,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94515,
+        "num": 231280,
+        "word": "4吨的车来了路快撑不住了",
+        "onboard_time": 1779719903,
+        "rank": 40,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 88148,
+        "num": 229687,
+        "word": "16岁女孩遭殴打父亲拒绝调解",
+        "onboard_time": 1779751218,
+        "rank": 41,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 72882,
+        "num": 228521,
+        "word": "福岛核区日本野猪变超级猪",
+        "onboard_time": 1779705201,
+        "rank": 42,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 72661,
+        "num": 227864,
+        "word": "在德失联23岁中国留学生遗体已找到",
+        "onboard_time": 1779723023,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 68919,
+        "num": 226346,
+        "word": "痞幼与梅尼耶贴身热舞被指没边界感",
+        "onboard_time": 1779715882,
+        "rank": 44,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 65267,
+        "num": 224500,
+        "word": "人生所有事本质都是小马过河",
+        "onboard_time": 1779742573,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 63129,
+        "num": 223900,
+        "word": "家业热度",
+        "onboard_time": 1779720382,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 62556,
+        "num": 221717,
+        "word": "武契奇职业生涯中最高兴的一天",
+        "onboard_time": 1779723681,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 60673,
+        "num": 220374,
+        "word": "白玉兰提名预测",
+        "onboard_time": 1779723262,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 60431,
+        "num": 219250,
+        "word": "盒马粉木耳标签被指低俗擦边",
+        "onboard_time": 1779712161,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见巴基斯坦总理#"
+    }
+  }
+}
