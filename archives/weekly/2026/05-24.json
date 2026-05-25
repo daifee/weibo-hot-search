@@ -1,6 +1,6 @@
 {
   "startTime": 1779556240361,
-  "endTime": 1779731479336,
+  "endTime": 1779732569528,
   "band_list": [
     {
       "raw_hot": 15283499,
@@ -2627,6 +2627,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 190354,
+      "num": 190354,
+      "word": "上班上久后形成的肌肉记忆",
+      "onboard_time": 1779728417,
+      "rank": 4,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 188822,
       "num": 603886,
       "word": "重庆永川特大暴雨",
@@ -2697,14 +2705,6 @@
       "onboard_time": 1779611363,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 183824,
-      "num": 183824,
-      "word": "上班上久后形成的肌肉记忆",
-      "onboard_time": 1779728417,
-      "rank": 4,
-      "category": "幽默"
     },
     {
       "raw_hot": 182660,
@@ -3084,7 +3084,7 @@
     },
     {
       "raw_hot": 137883,
-      "num": 137883,
+      "num": 182697,
       "word": "突然发现自己正是人生的7点半",
       "onboard_time": 1779725840,
       "rank": 7,
@@ -3611,19 +3611,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 76904,
+      "num": 146944,
+      "word": "因漏放吸管辱骂打砸店员女子被行拘",
+      "onboard_time": 1779726920,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 76635,
+      "num": 146885,
+      "word": "一家人认识但不熟",
+      "onboard_time": 1779728417,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 75847,
       "num": 212698,
       "word": "香港开展突击扫黄21名女子被捕",
       "onboard_time": 1779580819,
       "rank": 34,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 75426,
-      "num": 112807,
-      "word": "因漏放吸管辱骂打砸店员女子被行拘",
-      "onboard_time": 1779726920,
-      "rank": 27,
       "category": "民生新闻"
     },
     {
@@ -3657,14 +3665,6 @@
       "onboard_time": 1779610043,
       "rank": 49,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 72618,
-      "num": 112506,
-      "word": "一家人认识但不熟",
-      "onboard_time": 1779728417,
-      "rank": 28,
-      "category": "幽默"
     },
     {
       "raw_hot": 72551,
@@ -3836,7 +3836,7 @@
     },
     {
       "raw_hot": 61956,
-      "num": 111377,
+      "num": 146601,
       "word": "盒马粉木耳产品已下架",
       "onboard_time": 1779728417,
       "rank": 32,
@@ -3923,20 +3923,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 50579,
+      "num": 146463,
+      "word": "金枝剧组给王弘毅道歉",
+      "onboard_time": 1779718643,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 50149,
+      "num": 146437,
+      "word": "帕梅拉去了天津都害怕",
+      "onboard_time": 1779728417,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 50148,
       "num": 864364,
       "word": "李宇春雅迪摩登之夜压轴",
       "onboard_time": 1779639741,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 48686,
-      "num": 109545,
-      "word": "帕梅拉去了天津都害怕",
-      "onboard_time": 1779728417,
-      "rank": 39,
-      "category": "幽默"
     },
     {
       "raw_hot": 47597,
@@ -3956,7 +3964,7 @@
     },
     {
       "raw_hot": 47391,
-      "num": 108882,
+      "num": 146003,
       "word": "王濛团李心洁团都想要海屿你",
       "onboard_time": 1779722782,
       "rank": 42,
@@ -3971,20 +3979,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 47108,
+      "num": 146351,
+      "word": "主角 书剧分离",
+      "onboard_time": 1779728417,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 46930,
       "num": 219765,
       "word": "特朗普称美伊协议基本谈成",
       "onboard_time": 1779580879,
       "rank": 28,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 46754,
-      "num": 108410,
-      "word": "主角 书剧分离",
-      "onboard_time": 1779728417,
-      "rank": 44,
-      "category": "剧集"
     },
     {
       "raw_hot": 46421,
@@ -3996,7 +4004,7 @@
     },
     {
       "raw_hot": 45890,
-      "num": 108018,
+      "num": 146140,
       "word": "看得出来女孩和狗狗都紧张",
       "onboard_time": 1779729976,
       "rank": 45,
@@ -4009,6 +4017,14 @@
       "onboard_time": 1779712461,
       "rank": 39,
       "category": "数码"
+    },
+    {
+      "raw_hot": 44359,
+      "num": 146238,
+      "word": "KPL运动会神图",
+      "onboard_time": 1779731476,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 43694,
