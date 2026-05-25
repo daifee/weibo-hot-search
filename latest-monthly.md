@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/05/01 00:05:26 ~ 2026/05/25 07:37:14
+本榜单时间：2026/05/01 00:05:26 ~ 2026/05/25 12:22:49
 </p>
 </blockquote>
 <p>
@@ -71,6 +71,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E5%9B%9E%E6%97%8B%E9%95%96%23" target="weibo">
 王鹤棣回旋镖（热度：15856679）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E7%BB%8F%E7%BA%AA%E4%BA%BA%E6%9C%8B%E5%8F%8B%E5%9C%88%23" target="weibo">
+王鹤棣经纪人朋友圈（热度：15283499）
 </a>
 </li>
 
@@ -1017,6 +1023,12 @@ Deepseek分析145斤怎么瘦到100斤（热度：2583692）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E6%83%85%E7%BB%AA%E4%B8%8D%E6%98%AF%E4%B8%80%E5%A4%A9%E7%B4%AF%E7%A7%AF%E8%B5%B7%E6%9D%A5%E7%9A%84%23" target="weibo">
+王鹤棣情绪不是一天累积起来的（热度：2361797）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%B1%B3%E7%88%86%23" target="weibo">
 大米爆（热度：2361161）
 </a>
@@ -1505,6 +1517,12 @@ OPPO 文案价值观（热度：2055441）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%96%AF%E7%89%87%E9%80%8F%E6%98%8E%E5%8C%85%E8%A3%85%23" target="weibo">
 薯片透明包装（热度：1868365）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E4%B8%AA%E6%83%B3%E5%88%B0%E7%94%A8%E5%B0%8F%E7%A5%A8%E5%BD%93%E5%A3%81%E7%BA%B8%E7%9A%84%E6%98%AF%E5%A4%A9%E6%89%8D%23" target="weibo">
+第一个想到用小票当壁纸的是天才（热度：1863210）
 </a>
 </li>
 
@@ -2187,6 +2205,12 @@ AG对战狼队（热度：1516517）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E5%8D%8A%E5%AF%BC%E4%BD%93%E9%A2%86%E5%9F%9F%E6%96%B0%E7%AA%81%E7%A0%B4%23" target="weibo">
+华为半导体领域新突破（热度：1455044）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8B%E5%8D%88%E4%BC%91%E6%98%AF%E6%80%A7%E4%BB%B7%E6%AF%94%E6%9C%80%E9%AB%98%E7%9A%84%E5%8D%8A%E5%A4%A9%E5%81%87%23" target="weibo">
 下午休是性价比最高的半天假（热度：1454493）
 </a>
@@ -2303,6 +2327,12 @@ AG战胜狼队（热度：1424530）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E7%9B%B4%E6%92%AD%E4%BA%BA%E6%B0%94%23" target="weibo">
 王鹤棣直播人气（热度：1410730）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E8%A5%BF%E7%85%A4%E7%9F%BF%E7%88%86%E7%82%B8%E7%9E%AC%E9%97%B4%E7%9B%91%E6%8E%A7%E6%9B%9D%E5%85%89%23" target="weibo">
+山西煤矿爆炸瞬间监控曝光（热度：1403019）
 </a>
 </li>
 
@@ -3543,6 +3573,12 @@ EXO King（热度：1062649）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%BC%94%E5%91%98%E7%9A%84%E8%84%B8%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E5%B0%8F%23" target="weibo">
+演员的脸到底有多小（热度：1030436）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BA%93%E5%85%8B%E4%BD%A0%E7%9A%84iPhone%E5%9C%A8%E5%8C%97%E4%BA%AC%E7%83%AB%E5%90%97%23" target="weibo">
 库克你的iPhone在北京烫吗（热度：1028996）
 </a>
@@ -3671,6 +3707,12 @@ EXO King（热度：1062649）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B3%B0%E5%9B%BD%E7%BB%88%E6%AD%A260%E5%A4%A9%E5%85%8D%E7%AD%BE%23" target="weibo">
 泰国终止60天免签（热度：999724）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B0%B4%E6%97%8F%E9%A6%86%E7%9A%84%E7%94%B7%E7%BE%8E%E4%BA%BA%E9%B1%BC%E7%AB%9F%E7%84%B6%E6%98%AF%E5%90%B4%E7%A3%8A%23" target="weibo">
+水族馆的男美人鱼竟然是吴磊（热度：998662）
 </a>
 </li>
 
@@ -3851,6 +3893,12 @@ EXO King（热度：1062649）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B2%99%E6%BA%A2%E7%98%A6%E5%BE%97%E9%83%BD%E8%AE%A4%E4%B8%8D%E5%87%BA%E6%9D%A5%E4%BA%86%23" target="weibo">
 沙溢瘦得都认不出来了（热度：971996）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E5%86%8D%E8%B7%8C%E4%B9%9F%E4%B8%8D%E8%83%BD%E4%B9%B0%E4%BA%86%23" target="weibo">
+黄金再跌也不能买了（热度：971383）
 </a>
 </li>
 
@@ -5469,6 +5517,12 @@ iPhone华为同时降价（热度：790360）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9B%9D%E6%B2%99%E6%BA%A2%E9%AB%98%E5%8F%8D%E5%BC%80%E8%BD%A6%E6%AD%A3%E7%89%87%E5%89%AA%E6%8E%89%E4%BA%86%23" target="weibo">
+曝沙溢高反开车正片剪掉了（热度：764060）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%83%A7%E7%83%A4%E5%BA%97%E6%98%AF%E5%A4%A9%E4%BB%B7%E4%B8%96%E7%95%8C%E6%9D%AF%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%8F%97%E5%AE%B3%E8%80%85%23" target="weibo">
 中国烧烤店是天价世界杯第一个受害者（热度：763303）
 </a>
@@ -5957,60 +6011,6 @@ AI在偷我们的东西 我们决定毒死它（热度：738253）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%B2%81%E6%AF%94%E5%A5%A5%E7%A7%B0%E4%B8%AD%E7%BE%8E%E5%85%B3%E7%B3%BB%E9%9D%9E%E5%B8%B8%E6%9C%89%E5%BB%BA%E8%AE%BE%E6%80%A7%23" target="weibo">
 鲁比奥称中美关系非常有建设性（热度：716615）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%BE%8E%E9%A2%86%E5%AF%BC%E4%BA%BA%E5%B0%B1%E9%87%8D%E5%A4%A7%E9%97%AE%E9%A2%98%E4%BA%A4%E6%8D%A2%E6%84%8F%E8%A7%81%23" target="weibo">
-中美领导人就重大问题交换意见（热度：716015）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%99%95%E8%A5%BF11%E5%B2%81%E5%A4%B1%E8%81%94%E7%94%B7%E5%AD%A9%E9%81%97%E4%BD%93%E8%A2%AB%E5%8F%91%E7%8E%B0%23" target="weibo">
-陕西11岁失联男孩遗体被发现（热度：715963）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BA%94%E4%B8%80%E6%8E%92%E9%98%9F%E7%8E%B0%E7%8A%B6%23" target="weibo">
-五一排队现状（热度：715590）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E9%92%93%E9%B1%BC%E6%8D%9E%E8%B5%B7%E4%B8%80%E6%BA%BA%E6%B0%B4%E5%A9%B4%E5%84%BF%23" target="weibo">
-男子钓鱼捞起一溺水婴儿（热度：715353）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%98%86%E5%87%8C%E5%A4%A7%E5%A5%B3%E5%84%BF%E9%95%BF%E8%BF%99%E4%B9%88%E5%A4%A7%E4%BA%86%23" target="weibo">
-周杰伦昆凌大女儿长这么大了（热度：714970）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%96%B0%E8%A2%AB%E6%81%B6%E6%84%8F%E4%B8%BE%E6%8A%A5%23" target="weibo">
-小新被恶意举报（热度：714419）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%94%E8%B7%91%E5%90%A7%23" target="weibo">
-奔跑吧（热度：714146）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%8A%A9%E4%BA%A7%E5%A3%AB%E6%92%9E%E8%84%B8%E5%BC%A0%E5%87%8C%E8%B5%AB%E5%AD%95%E5%A6%88%E5%8F%98%E8%BF%B7%E5%A6%B9%23" target="weibo">
-男助产士撞脸张凌赫孕妈变迷妹（热度：713953）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8F%B2%E4%B8%8A%E9%A2%9C%E5%80%BC%E5%B7%85%E5%B3%B0iPhone%E8%A6%81%E6%9D%A5%E4%BA%86%23" target="weibo">
-史上颜值巅峰iPhone要来了（热度：712276）
 </a>
 </li>
 
