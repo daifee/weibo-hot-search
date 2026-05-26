@@ -1,0 +1,410 @@
+{
+  "runTime": 1779837444889,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 889292,
+        "num": 889292,
+        "word": "雷军回应武契奇说小米车漂亮但买不起",
+        "onboard_time": 1779806661,
+        "rank": 0,
+        "category": "国内时政,汽车"
+      },
+      {
+        "raw_hot": 597524,
+        "num": 597524,
+        "word": "五个女博士被投诉喝了过敏",
+        "onboard_time": 1779807682,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22631,
+        "num": 458031,
+        "word": "多地和降雨赛跑全力保粮",
+        "onboard_time": 1779801081,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 223279,
+        "num": 223279,
+        "word": "我运气好因为我一直在往前走",
+        "onboard_time": 1779814818,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 196636,
+        "num": 196636,
+        "word": "给阿嬷的情书 成本",
+        "onboard_time": 1779826874,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 178874,
+        "num": 178874,
+        "word": "入围过白玉兰的古装剧",
+        "onboard_time": 1779825194,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172955,
+        "num": 172955,
+        "word": "洗衣机长时间不清理比马桶还脏",
+        "onboard_time": 1779806002,
+        "rank": 6,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 174228,
+        "num": 169766,
+        "word": "浪姐四公小考排名",
+        "onboard_time": 1779806183,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160213,
+        "num": 160213,
+        "word": "日本正在中国家门口磨刀霍霍",
+        "onboard_time": 1779805582,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 804879,
+        "num": 159664,
+        "word": "王鹤棣父亲回应店铺遭多条差评",
+        "onboard_time": 1779798381,
+        "rank": 9,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 501321,
+        "num": 159062,
+        "word": "女子被养2年猫攻击致颅部3级损伤",
+        "onboard_time": 1779810500,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 498588,
+        "num": 158314,
+        "word": "于正回复余华",
+        "onboard_time": 1779810141,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 429009,
+        "num": 157645,
+        "word": "结婚40年发现丈夫出轨90后生双胞胎",
+        "onboard_time": 1779837257,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 316100,
+        "num": 156645,
+        "word": "网红捐1047万其中1千万由粉丝捐出",
+        "onboard_time": 1779837257,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 457168,
+        "num": 156266,
+        "word": "王鹤棣风波不该让棣爸油炸买单",
+        "onboard_time": 1779807081,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 277343,
+        "num": 155079,
+        "word": "村民违规间种小麦31.7亩被刑拘",
+        "onboard_time": 1779837257,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 212424,
+        "num": 154942,
+        "word": "小黄豆为薛小婉发声",
+        "onboard_time": 1779837257,
+        "rank": 16,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 192901,
+        "num": 153917,
+        "word": "钟铉雪莉荷拉赛纶的心理医生",
+        "onboard_time": 1779802702,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18700,
+        "num": 153039,
+        "word": "上海男篮总决赛开门红",
+        "onboard_time": 1779836477,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 147575,
+        "num": 152187,
+        "word": "青云直上 肖战",
+        "onboard_time": 1779800421,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153575,
+        "num": 151309,
+        "word": "刘亦菲 咸雪",
+        "onboard_time": 1779808882,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129042,
+        "num": 150793,
+        "word": "人真的需要不断流动的",
+        "onboard_time": 1779794600,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 139479,
+        "num": 149796,
+        "word": "内娱演员白玉兰奖首提年龄",
+        "onboard_time": 1779804263,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117610,
+        "num": 149455,
+        "word": "法拉利暴跌",
+        "onboard_time": 1779806301,
+        "rank": 23,
+        "category": "财经,汽车"
+      },
+      {
+        "raw_hot": 115121,
+        "num": 148720,
+        "word": "女干部展示不到100元的耳环",
+        "onboard_time": 1779785543,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103419,
+        "num": 147672,
+        "word": "武契奇夫人试穿旗袍直呼太喜欢了",
+        "onboard_time": 1779802942,
+        "rank": 25,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 97005,
+        "num": 147168,
+        "word": "曝刘亦菲进组咸雪",
+        "onboard_time": 1779837318,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 92337,
+        "num": 146412,
+        "word": "现发4嘉宾阵容",
+        "onboard_time": 1779797961,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 90047,
+        "num": 145725,
+        "word": "穷极一生想找到一双偏爱的眼睛",
+        "onboard_time": 1779818116,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 88550,
+        "num": 144496,
+        "word": "主播用果园背景卖货却说去开个空调",
+        "onboard_time": 1779809602,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80147,
+        "num": 143829,
+        "word": "姜太显撞脸宋威龙",
+        "onboard_time": 1779806605,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 79884,
+        "num": 143117,
+        "word": "男子吃完面加6勺辣椒酱被店主曝光",
+        "onboard_time": 1779797721,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77061,
+        "num": 142247,
+        "word": "张家界两男子钓鱼遇涨水被淹遇难",
+        "onboard_time": 1779814818,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 74828,
+        "num": 141655,
+        "word": "白玉兰的口碑",
+        "onboard_time": 1779798622,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 74023,
+        "num": 141256,
+        "word": "9岁姐姐带7岁弟弟抢盖10000斤大蒜",
+        "onboard_time": 1779798201,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 70590,
+        "num": 140446,
+        "word": "薛小婉小号",
+        "onboard_time": 1779812599,
+        "rank": 35,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 66118,
+        "num": 139268,
+        "word": "CBA总决赛",
+        "onboard_time": 1779798201,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 59660,
+        "num": 138682,
+        "word": "妻子反常男子排查家中发现藏女邻居",
+        "onboard_time": 1779801981,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 57741,
+        "num": 137747,
+        "word": "武契奇在小米工厂下单了",
+        "onboard_time": 1779811521,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 56801,
+        "num": 137395,
+        "word": "乙酰氨基酚和布洛芬的差异",
+        "onboard_time": 1779791121,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 51632,
+        "num": 136796,
+        "word": "尔康从缅甸回云南了",
+        "onboard_time": 1779807804,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 51529,
+        "num": 135612,
+        "word": "56斤冰毒渗入地毯企图蒙混过关",
+        "onboard_time": 1779814818,
+        "rank": 41,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 50812,
+        "num": 135282,
+        "word": "华为新技术 逻辑折叠非3D堆叠",
+        "onboard_time": 1779814818,
+        "rank": 42,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 50595,
+        "num": 134058,
+        "word": "印度被烤糊了",
+        "onboard_time": 1779793821,
+        "rank": 43,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 48039,
+        "num": 133378,
+        "word": "夏天用这个杯子可真是惬意",
+        "onboard_time": 1779817876,
+        "rank": 44,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 44798,
+        "num": 132459,
+        "word": "新华社评耿同学打假",
+        "onboard_time": 1779814818,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 40038,
+        "num": 132088,
+        "word": "原来蟑螂真的可能越踩越多",
+        "onboard_time": 1779806244,
+        "rank": 46,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 39896,
+        "num": 131277,
+        "word": "苏醒关注7天冷静期",
+        "onboard_time": 1779836417,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 59990,
+        "num": 130159,
+        "word": "法网",
+        "onboard_time": 1779802641,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 39686,
+        "num": 130074,
+        "word": "濮阳地震",
+        "onboard_time": 1779837199,
+        "rank": 49,
+        "category": "突发/灾害"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主席谈中塞友谊#"
+    }
+  }
+}

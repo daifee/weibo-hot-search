@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/05/01 00:05:26 ~ 2026/05/27 06:48:59
+本榜单时间：2026/05/01 00:05:26 ~ 2026/05/27 07:17:24
 </p>
 </blockquote>
 <p>
@@ -4677,6 +4677,12 @@ NPC小黄鱼互动改送簪花（热度：907018）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E5%9B%9E%E5%BA%94%E6%AD%A6%E5%A5%91%E5%A5%87%E8%AF%B4%E5%B0%8F%E7%B1%B3%E8%BD%A6%E6%BC%82%E4%BA%AE%E4%BD%86%E4%B9%B0%E4%B8%8D%E8%B5%B7%23" target="weibo">
+雷军回应武契奇说小米车漂亮但买不起（热度：889292）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23BTS%E6%88%90%E5%91%98%E9%97%B5%E7%8E%A7%E5%85%B6%E6%8F%92%E9%98%9F%E8%A2%AB%E9%AA%82%23" target="weibo">
 BTS成员闵玧其插队被骂（热度：888913）
 </a>
@@ -6005,12 +6011,6 @@ iPhone华为同时降价（热度：790360）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%9B%E7%91%9C%E9%A5%B0%E6%BC%94%E8%80%85%E8%B5%B5%E9%9C%81%E8%BF%91%E5%86%B5%23" target="weibo">
 宛瑜饰演者赵霁近况（热度：748246）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%A5%BF%E5%AE%89%E4%B8%8A%E7%A9%BA%E7%8E%B0%E4%B8%8D%E6%98%8E%E7%89%A9%E6%8C%81%E7%BB%AD%E4%B8%80%E5%B0%8F%E6%97%B6%E5%90%8E%E6%B6%88%E5%A4%B1%23" target="weibo">
-西安上空现不明物持续一小时后消失（热度：748216）
 </a>
 </li>
 

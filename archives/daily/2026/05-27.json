@@ -1,6 +1,6 @@
 {
   "startTime": 1779812247216,
-  "endTime": 1779835739185,
+  "endTime": 1779837444889,
   "band_list": [
     {
       "raw_hot": 3473737,
@@ -51,6 +51,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 889292,
+      "num": 889292,
+      "word": "雷军回应武契奇说小米车漂亮但买不起",
+      "onboard_time": 1779806661,
+      "rank": 15,
+      "category": "国内时政,汽车"
+    },
+    {
       "raw_hot": 843794,
       "num": 1006118,
       "word": "白玉兰的口碑",
@@ -75,12 +83,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 597524,
+      "num": 597524,
+      "word": "五个女博士被投诉喝了过敏",
+      "onboard_time": 1779807682,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 551457,
       "num": 297308,
       "word": "于正也不舒服",
       "onboard_time": 1779800183,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 501321,
+      "num": 228812,
+      "word": "女子被养2年猫攻击致颅部3级损伤",
+      "onboard_time": 1779810500,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 460438,
@@ -99,20 +123,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 429009,
+      "num": 157645,
+      "word": "结婚40年发现丈夫出轨90后生双胞胎",
+      "onboard_time": 1779837257,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 427151,
       "num": 530532,
       "word": "刘国正采访偏见球迷也不舒服",
       "onboard_time": 1779810381,
       "rank": 5,
       "category": "体育"
-    },
-    {
-      "raw_hot": 420932,
-      "num": 557349,
-      "word": "五个女博士被投诉喝了过敏",
-      "onboard_time": 1779807682,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 415360,
@@ -147,14 +171,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 405580,
-      "num": 415179,
-      "word": "雷军回应武契奇说小米车漂亮但买不起",
-      "onboard_time": 1779806661,
-      "rank": 15,
-      "category": "国内时政,汽车"
-    },
-    {
       "raw_hot": 404859,
       "num": 313998,
       "word": "现发4嘉宾阵容",
@@ -184,6 +200,14 @@
       "word": "男子吃完面加6勺辣椒酱被店主曝光",
       "onboard_time": 1779797721,
       "rank": 7,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 316100,
+      "num": 156645,
+      "word": "网红捐1047万其中1千万由粉丝捐出",
+      "onboard_time": 1779837257,
+      "rank": 13,
       "category": "民生新闻"
     },
     {
@@ -235,11 +259,11 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 280633,
-      "num": 228812,
-      "word": "女子被养2年猫攻击致颅部3级损伤",
-      "onboard_time": 1779810500,
-      "rank": 32,
+      "raw_hot": 277343,
+      "num": 155079,
+      "word": "村民违规间种小麦31.7亩被刑拘",
+      "onboard_time": 1779837257,
+      "rank": 15,
       "category": "民生新闻"
     },
     {
@@ -283,6 +307,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 223279,
+      "num": 223279,
+      "word": "我运气好因为我一直在往前走",
+      "onboard_time": 1779814818,
+      "rank": 6,
+      "category": "情感"
+    },
+    {
       "raw_hot": 220053,
       "num": 220053,
       "word": "欧豪粉丝五连质问工作室",
@@ -291,12 +323,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 212424,
+      "num": 154942,
+      "word": "小黄豆为薛小婉发声",
+      "onboard_time": 1779837257,
+      "rank": 16,
+      "category": "网红"
+    },
+    {
       "raw_hot": 200427,
       "num": 180988,
       "word": "内娱演员白玉兰奖首提年龄",
       "onboard_time": 1779804263,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 196636,
+      "num": 196636,
+      "word": "给阿嬷的情书 成本",
+      "onboard_time": 1779826874,
+      "rank": 7,
+      "category": "电影"
     },
     {
       "raw_hot": 181525,
@@ -313,6 +361,14 @@
       "onboard_time": 1779799881,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 178874,
+      "num": 178874,
+      "word": "入围过白玉兰的古装剧",
+      "onboard_time": 1779825194,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 177186,
@@ -355,6 +411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 160213,
+      "num": 160213,
+      "word": "日本正在中国家门口磨刀霍霍",
+      "onboard_time": 1779805582,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 159417,
       "num": 159417,
       "word": "印度被烤糊了",
@@ -369,14 +433,6 @@
       "onboard_time": 1779811521,
       "rank": 47,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 146290,
-      "num": 176844,
-      "word": "我运气好因为我一直在往前走",
-      "onboard_time": 1779814818,
-      "rank": 6,
-      "category": "情感"
     },
     {
       "raw_hot": 136590,
@@ -395,28 +451,12 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 130473,
-      "num": 130473,
-      "word": "入围过白玉兰的古装剧",
-      "onboard_time": 1779825194,
-      "rank": 3,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 119488,
       "num": 145189,
       "word": "WBG出征2026EWC电竞世俱杯",
       "onboard_time": 1779803183,
       "rank": 48,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 118510,
-      "num": 118510,
-      "word": "给阿嬷的情书 成本",
-      "onboard_time": 1779826874,
-      "rank": 7,
-      "category": "电影"
     },
     {
       "raw_hot": 100377,
@@ -427,6 +467,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 97005,
+      "num": 147168,
+      "word": "曝刘亦菲进组咸雪",
+      "onboard_time": 1779837318,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 90047,
+      "num": 145725,
+      "word": "穷极一生想找到一双偏爱的眼睛",
+      "onboard_time": 1779818116,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 88907,
       "num": 137141,
       "word": "小米一季度净利润60.72亿",
@@ -435,12 +491,12 @@
       "category": "财经,互联网"
     },
     {
-      "raw_hot": 85868,
-      "num": 85868,
-      "word": "日本正在中国家门口磨刀霍霍",
-      "onboard_time": 1779805582,
-      "rank": 38,
-      "category": "国际时政"
+      "raw_hot": 77061,
+      "num": 142247,
+      "word": "张家界两男子钓鱼遇涨水被淹遇难",
+      "onboard_time": 1779814818,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 72835,
@@ -452,19 +508,19 @@
     },
     {
       "raw_hot": 62633,
-      "num": 66747,
+      "num": 135282,
       "word": "华为新技术 逻辑折叠非3D堆叠",
       "onboard_time": 1779814818,
       "rank": 17,
       "category": "数码"
     },
     {
-      "raw_hot": 61355,
-      "num": 66737,
-      "word": "张家界两男子钓鱼遇涨水被淹遇难",
-      "onboard_time": 1779814818,
-      "rank": 30,
-      "category": "民生新闻"
+      "raw_hot": 59990,
+      "num": 130159,
+      "word": "法网",
+      "onboard_time": 1779802641,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 56751,
@@ -475,6 +531,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 51529,
+      "num": 135612,
+      "word": "56斤冰毒渗入地毯企图蒙混过关",
+      "onboard_time": 1779814818,
+      "rank": 41,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 49661,
       "num": 66732,
       "word": "毕业胸花",
@@ -483,20 +547,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 47486,
-      "num": 66723,
-      "word": "穷极一生想找到一双偏爱的眼睛",
-      "onboard_time": 1779818116,
-      "rank": 37,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 45661,
-      "num": 66760,
+      "raw_hot": 48039,
+      "num": 133378,
       "word": "夏天用这个杯子可真是惬意",
       "onboard_time": 1779817876,
       "rank": 25,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 44798,
+      "num": 132459,
+      "word": "新华社评耿同学打假",
+      "onboard_time": 1779814818,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 42597,
@@ -507,12 +571,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 39731,
-      "num": 66717,
-      "word": "新华社评耿同学打假",
-      "onboard_time": 1779814818,
-      "rank": 31,
-      "category": "民生新闻"
+      "raw_hot": 39896,
+      "num": 131277,
+      "word": "苏醒关注7天冷静期",
+      "onboard_time": 1779836417,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 39686,
+      "num": 130074,
+      "word": "濮阳地震",
+      "onboard_time": 1779837199,
+      "rank": 49,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 39209,
@@ -531,28 +603,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 33954,
-      "num": 66724,
-      "word": "法网",
-      "onboard_time": 1779802641,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 33926,
       "num": 66710,
       "word": "女子点披萨外卖吃出一堆活虫",
       "onboard_time": 1779803241,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 33719,
-      "num": 66695,
-      "word": "56斤冰毒渗入地毯企图蒙混过关",
-      "onboard_time": 1779814818,
-      "rank": 41,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 31670,
@@ -625,6 +681,14 @@
       "onboard_time": 1779822733,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 18700,
+      "num": 153039,
+      "word": "上海男篮总决赛开门红",
+      "onboard_time": 1779836477,
+      "rank": 18,
+      "category": "体育"
     }
   ],
   "hotgov_list": [
