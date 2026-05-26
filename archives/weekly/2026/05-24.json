@@ -1,6 +1,6 @@
 {
   "startTime": 1779556240361,
-  "endTime": 1779832414944,
+  "endTime": 1779835739185,
   "band_list": [
     {
       "raw_hot": 15283499,
@@ -1843,6 +1843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 420932,
+      "num": 557349,
+      "word": "五个女博士被投诉喝了过敏",
+      "onboard_time": 1779807682,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 419822,
       "num": 709115,
       "word": "盒马60元一斤网红葡萄卖断货",
@@ -1956,7 +1964,7 @@
     },
     {
       "raw_hot": 405580,
-      "num": 299992,
+      "num": 415179,
       "word": "雷军回应武契奇说小米车漂亮但买不起",
       "onboard_time": 1779806661,
       "rank": 15,
@@ -2384,14 +2392,6 @@
       "word": "台4月大女婴伴尸2天险被饿死",
       "onboard_time": 1779634048,
       "rank": 32,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 322004,
-      "num": 322004,
-      "word": "五个女博士被投诉喝了过敏",
-      "onboard_time": 1779807682,
-      "rank": 46,
       "category": "民生新闻"
     },
     {
@@ -4091,6 +4091,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 146290,
+      "num": 176844,
+      "word": "我运气好因为我一直在往前走",
+      "onboard_time": 1779814818,
+      "rank": 6,
+      "category": "情感"
+    },
+    {
       "raw_hot": 145509,
       "num": 419599,
       "word": "留神峪煤矿爆炸井口现冲击波",
@@ -4243,6 +4251,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 130473,
+      "num": 130473,
+      "word": "入围过白玉兰的古装剧",
+      "onboard_time": 1779825194,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 130362,
       "num": 484019,
       "word": "武契奇职业生涯中最高兴的一天",
@@ -4393,6 +4409,14 @@
       "onboard_time": 1779803183,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 118510,
+      "num": 118510,
+      "word": "给阿嬷的情书 成本",
+      "onboard_time": 1779826874,
+      "rank": 7,
+      "category": "电影"
     },
     {
       "raw_hot": 117087,
@@ -4667,14 +4691,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 94821,
-      "num": 176844,
-      "word": "我运气好因为我一直在往前走",
-      "onboard_time": 1779814818,
-      "rank": 6,
-      "category": "情感"
-    },
-    {
       "raw_hot": 94444,
       "num": 398138,
       "word": "雷军透露小米下一步规划",
@@ -4795,6 +4811,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 85868,
+      "num": 85868,
+      "word": "日本正在中国家门口磨刀霍霍",
+      "onboard_time": 1779805582,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 84913,
       "num": 128405,
       "word": "武汉21岁大学生卖1500元手搓蝴蝶爆火",
@@ -4849,14 +4873,6 @@
       "onboard_time": 1779579798,
       "rank": 31,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 79843,
-      "num": 79843,
-      "word": "入围过白玉兰的古装剧",
-      "onboard_time": 1779825194,
-      "rank": 3,
-      "category": "剧集"
     },
     {
       "raw_hot": 78796,
@@ -4961,14 +4977,6 @@
       "onboard_time": 1779586162,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 70243,
-      "num": 70243,
-      "word": "给阿嬷的情书 成本",
-      "onboard_time": 1779826874,
-      "rank": 7,
-      "category": "电影"
     },
     {
       "raw_hot": 70173,
@@ -5163,6 +5171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 61355,
+      "num": 66737,
+      "word": "张家界两男子钓鱼遇涨水被淹遇难",
+      "onboard_time": 1779814818,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 60741,
       "num": 416018,
       "word": "黄金iPhone1元起拍",
@@ -5315,6 +5331,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 47486,
+      "num": 66723,
+      "word": "穷极一生想找到一双偏爱的眼睛",
+      "onboard_time": 1779818116,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 47476,
       "num": 209390,
       "word": "救援人员扛水管进留神峪煤矿",
@@ -5411,20 +5435,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 42597,
+      "num": 66705,
+      "word": "封潇潇楚嘉禾结局疑似在一起了",
+      "onboard_time": 1779805283,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 41952,
       "num": 479155,
       "word": "朴槿惠参与竞选宣传女保镖贴身防卫",
       "onboard_time": 1779770063,
       "rank": 21,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 39910,
-      "num": 66737,
-      "word": "张家界两男子钓鱼遇涨水被淹遇难",
-      "onboard_time": 1779814818,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 39731,
@@ -5507,28 +5531,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 36648,
-      "num": 66723,
-      "word": "穷极一生想找到一双偏爱的眼睛",
-      "onboard_time": 1779818116,
-      "rank": 37,
-      "category": "情感"
-    },
-    {
       "raw_hot": 36485,
       "num": 726930,
       "word": "中国硬核实力又刷屏了",
       "onboard_time": 1779539963,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 36421,
-      "num": 66721,
-      "word": "日本正在中国家门口磨刀霍霍",
-      "onboard_time": 1779805582,
-      "rank": 38,
-      "category": "国际时政"
     },
     {
       "raw_hot": 35387,
@@ -5579,6 +5587,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 33719,
+      "num": 66695,
+      "word": "56斤冰毒渗入地毯企图蒙混过关",
+      "onboard_time": 1779814818,
+      "rank": 41,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 31776,
       "num": 311293,
       "word": "麦卡伦把我的梦中酒柜搬到了北京",
@@ -5593,6 +5609,14 @@
       "onboard_time": 1779675740,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 31670,
+      "num": 33685,
+      "word": "耀眼",
+      "onboard_time": 1779830233,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 31315,
@@ -5625,14 +5649,6 @@
       "onboard_time": 1779577578,
       "rank": 45,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 30866,
-      "num": 66695,
-      "word": "56斤冰毒渗入地毯企图蒙混过关",
-      "onboard_time": 1779814818,
-      "rank": 41,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 30456,
@@ -5691,20 +5707,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 28786,
+      "num": 33530,
+      "word": "母亲长期虐待亲生女儿被判7年",
+      "onboard_time": 1779824773,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 28435,
       "num": 522734,
       "word": "姚冠宇转场是瑷尔博士",
       "onboard_time": 1779625102,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 28001,
-      "num": 66705,
-      "word": "封潇潇楚嘉禾结局疑似在一起了",
-      "onboard_time": 1779805283,
-      "rank": 44,
-      "category": "剧集"
     },
     {
       "raw_hot": 27533,
@@ -5723,8 +5739,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 26511,
-      "num": 31021,
+      "raw_hot": 27054,
+      "num": 33288,
       "word": "Mango创始人坠亡案长子被捕",
       "onboard_time": 1779831914,
       "rank": 26,
@@ -5737,6 +5753,14 @@
       "onboard_time": 1779660495,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 25451,
+      "num": 58754,
+      "word": "周鸿祎谈华为韬定律刷屏",
+      "onboard_time": 1779814818,
+      "rank": 48,
+      "category": "互联网"
     },
     {
       "raw_hot": 25264,
@@ -5755,20 +5779,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 24741,
-      "num": 58754,
-      "word": "周鸿祎谈华为韬定律刷屏",
-      "onboard_time": 1779814818,
-      "rank": 48,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 24660,
       "num": 371838,
       "word": "6G试验频率正式获批",
       "onboard_time": 1779761000,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 24490,
+      "num": 66697,
+      "word": "上海男篮vs广厦男篮",
+      "onboard_time": 1779818176,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 24418,
@@ -5787,36 +5811,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 23256,
-      "num": 30987,
-      "word": "耀眼",
-      "onboard_time": 1779830233,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 22461,
-      "num": 66697,
-      "word": "上海男篮vs广厦男篮",
-      "onboard_time": 1779818176,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 21434,
       "num": 66703,
       "word": "浪姐辟谣披哥帮唱",
       "onboard_time": 1779822733,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 20943,
-      "num": 30972,
-      "word": "母亲长期虐待亲生女儿被判7年",
-      "onboard_time": 1779824773,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 20080,

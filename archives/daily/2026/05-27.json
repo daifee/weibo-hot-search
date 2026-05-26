@@ -1,6 +1,6 @@
 {
   "startTime": 1779812247216,
-  "endTime": 1779832414944,
+  "endTime": 1779835739185,
   "band_list": [
     {
       "raw_hot": 3473737,
@@ -107,6 +107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 420932,
+      "num": 557349,
+      "word": "五个女博士被投诉喝了过敏",
+      "onboard_time": 1779807682,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 415360,
       "num": 415360,
       "word": "青云直上 肖战",
@@ -140,7 +148,7 @@
     },
     {
       "raw_hot": 405580,
-      "num": 299992,
+      "num": 415179,
       "word": "雷军回应武契奇说小米车漂亮但买不起",
       "onboard_time": 1779806661,
       "rank": 15,
@@ -176,14 +184,6 @@
       "word": "男子吃完面加6勺辣椒酱被店主曝光",
       "onboard_time": 1779797721,
       "rank": 7,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 322004,
-      "num": 322004,
-      "word": "五个女博士被投诉喝了过敏",
-      "onboard_time": 1779807682,
-      "rank": 46,
       "category": "民生新闻"
     },
     {
@@ -371,6 +371,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 146290,
+      "num": 176844,
+      "word": "我运气好因为我一直在往前走",
+      "onboard_time": 1779814818,
+      "rank": 6,
+      "category": "情感"
+    },
+    {
       "raw_hot": 136590,
       "num": 136590,
       "word": "曾沛慈时尚首封",
@@ -387,12 +395,28 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 130473,
+      "num": 130473,
+      "word": "入围过白玉兰的古装剧",
+      "onboard_time": 1779825194,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 119488,
       "num": 145189,
       "word": "WBG出征2026EWC电竞世俱杯",
       "onboard_time": 1779803183,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 118510,
+      "num": 118510,
+      "word": "给阿嬷的情书 成本",
+      "onboard_time": 1779826874,
+      "rank": 7,
+      "category": "电影"
     },
     {
       "raw_hot": 100377,
@@ -403,14 +427,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 94821,
-      "num": 176844,
-      "word": "我运气好因为我一直在往前走",
-      "onboard_time": 1779814818,
-      "rank": 6,
-      "category": "情感"
-    },
-    {
       "raw_hot": 88907,
       "num": 137141,
       "word": "小米一季度净利润60.72亿",
@@ -419,12 +435,12 @@
       "category": "财经,互联网"
     },
     {
-      "raw_hot": 79843,
-      "num": 79843,
-      "word": "入围过白玉兰的古装剧",
-      "onboard_time": 1779825194,
-      "rank": 3,
-      "category": "剧集"
+      "raw_hot": 85868,
+      "num": 85868,
+      "word": "日本正在中国家门口磨刀霍霍",
+      "onboard_time": 1779805582,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 72835,
@@ -435,20 +451,20 @@
       "category": "数码"
     },
     {
-      "raw_hot": 70243,
-      "num": 70243,
-      "word": "给阿嬷的情书 成本",
-      "onboard_time": 1779826874,
-      "rank": 7,
-      "category": "电影"
-    },
-    {
       "raw_hot": 62633,
       "num": 66747,
       "word": "华为新技术 逻辑折叠非3D堆叠",
       "onboard_time": 1779814818,
       "rank": 17,
       "category": "数码"
+    },
+    {
+      "raw_hot": 61355,
+      "num": 66737,
+      "word": "张家界两男子钓鱼遇涨水被淹遇难",
+      "onboard_time": 1779814818,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 56751,
@@ -467,6 +483,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 47486,
+      "num": 66723,
+      "word": "穷极一生想找到一双偏爱的眼睛",
+      "onboard_time": 1779818116,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 45661,
       "num": 66760,
       "word": "夏天用这个杯子可真是惬意",
@@ -475,12 +499,12 @@
       "category": "休闲"
     },
     {
-      "raw_hot": 39910,
-      "num": 66737,
-      "word": "张家界两男子钓鱼遇涨水被淹遇难",
-      "onboard_time": 1779814818,
-      "rank": 30,
-      "category": "民生新闻"
+      "raw_hot": 42597,
+      "num": 66705,
+      "word": "封潇潇楚嘉禾结局疑似在一起了",
+      "onboard_time": 1779805283,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 39731,
@@ -507,22 +531,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 36648,
-      "num": 66723,
-      "word": "穷极一生想找到一双偏爱的眼睛",
-      "onboard_time": 1779818116,
-      "rank": 37,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 36421,
-      "num": 66721,
-      "word": "日本正在中国家门口磨刀霍霍",
-      "onboard_time": 1779805582,
-      "rank": 38,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 33954,
       "num": 66724,
       "word": "法网",
@@ -539,12 +547,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 30866,
+      "raw_hot": 33719,
       "num": 66695,
       "word": "56斤冰毒渗入地毯企图蒙混过关",
       "onboard_time": 1779814818,
       "rank": 41,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 31670,
+      "num": 33685,
+      "word": "耀眼",
+      "onboard_time": 1779830233,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 30212,
@@ -555,12 +571,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 28001,
-      "num": 66705,
-      "word": "封潇潇楚嘉禾结局疑似在一起了",
-      "onboard_time": 1779805283,
-      "rank": 44,
-      "category": "剧集"
+      "raw_hot": 28786,
+      "num": 33530,
+      "word": "母亲长期虐待亲生女儿被判7年",
+      "onboard_time": 1779824773,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 27533,
@@ -571,20 +587,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 26511,
-      "num": 31021,
+      "raw_hot": 27054,
+      "num": 33288,
       "word": "Mango创始人坠亡案长子被捕",
       "onboard_time": 1779831914,
       "rank": 26,
       "category": "海外新闻"
     },
     {
-      "raw_hot": 24741,
+      "raw_hot": 25451,
       "num": 58754,
       "word": "周鸿祎谈华为韬定律刷屏",
       "onboard_time": 1779814818,
       "rank": 48,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 24490,
+      "num": 66697,
+      "word": "上海男篮vs广厦男篮",
+      "onboard_time": 1779818176,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 23805,
@@ -595,36 +619,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 23256,
-      "num": 30987,
-      "word": "耀眼",
-      "onboard_time": 1779830233,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 22461,
-      "num": 66697,
-      "word": "上海男篮vs广厦男篮",
-      "onboard_time": 1779818176,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 21434,
       "num": 66703,
       "word": "浪姐辟谣披哥帮唱",
       "onboard_time": 1779822733,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 20943,
-      "num": 30972,
-      "word": "母亲长期虐待亲生女儿被判7年",
-      "onboard_time": 1779824773,
-      "rank": 33,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
