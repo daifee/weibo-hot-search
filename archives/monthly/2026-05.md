@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/05/01 00:05:26 ~ 2026/05/27 00:48:46
+本榜单时间：2026/05/01 00:05:26 ~ 2026/05/27 02:43:37
 </p>
 </blockquote>
 <p>
@@ -6515,6 +6515,12 @@ iPhone华为同时降价（热度：790360）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E8%BF%99%E6%9E%9A%E5%8B%8B%E7%AB%A0%E8%A7%81%E8%AF%81%E4%B8%AD%E5%A1%9E%E9%93%81%E6%9D%86%E5%8F%8B%E8%B0%8A%23%23" target="weibo">
 #这枚勋章见证中塞铁杆友谊#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%B8%BB%E5%B8%AD%E8%B0%88%E4%B8%AD%E5%A1%9E%E5%8F%8B%E8%B0%8A%23%23" target="weibo">
+#习近平主席谈中塞友谊#
 </a>
 </li>
 
