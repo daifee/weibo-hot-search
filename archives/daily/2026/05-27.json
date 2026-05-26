@@ -1,6 +1,6 @@
 {
   "startTime": 1779812247216,
-  "endTime": 1779829926131,
+  "endTime": 1779832414944,
   "band_list": [
     {
       "raw_hot": 3473737,
@@ -403,6 +403,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 94821,
+      "num": 176844,
+      "word": "我运气好因为我一直在往前走",
+      "onboard_time": 1779814818,
+      "rank": 6,
+      "category": "情感"
+    },
+    {
       "raw_hot": 88907,
       "num": 137141,
       "word": "小米一季度净利润60.72亿",
@@ -411,12 +419,12 @@
       "category": "财经,互联网"
     },
     {
-      "raw_hot": 81560,
-      "num": 81560,
-      "word": "我运气好因为我一直在往前走",
-      "onboard_time": 1779814818,
-      "rank": 6,
-      "category": "情感"
+      "raw_hot": 79843,
+      "num": 79843,
+      "word": "入围过白玉兰的古装剧",
+      "onboard_time": 1779825194,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 72835,
@@ -427,20 +435,20 @@
       "category": "数码"
     },
     {
+      "raw_hot": 70243,
+      "num": 70243,
+      "word": "给阿嬷的情书 成本",
+      "onboard_time": 1779826874,
+      "rank": 7,
+      "category": "电影"
+    },
+    {
       "raw_hot": 62633,
       "num": 66747,
       "word": "华为新技术 逻辑折叠非3D堆叠",
       "onboard_time": 1779814818,
       "rank": 17,
       "category": "数码"
-    },
-    {
-      "raw_hot": 61753,
-      "num": 56441,
-      "word": "入围过白玉兰的古装剧",
-      "onboard_time": 1779825194,
-      "rank": 3,
-      "category": "剧集"
     },
     {
       "raw_hot": 56751,
@@ -457,14 +465,6 @@
       "onboard_time": 1779814818,
       "rank": 9,
       "category": "情感"
-    },
-    {
-      "raw_hot": 46730,
-      "num": 46730,
-      "word": "给阿嬷的情书 成本",
-      "onboard_time": 1779826874,
-      "rank": 7,
-      "category": "电影"
     },
     {
       "raw_hot": 45661,
@@ -515,7 +515,7 @@
       "category": "情感"
     },
     {
-      "raw_hot": 34703,
+      "raw_hot": 36421,
       "num": 66721,
       "word": "日本正在中国家门口磨刀霍霍",
       "onboard_time": 1779805582,
@@ -571,6 +571,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 26511,
+      "num": 31021,
+      "word": "Mango创始人坠亡案长子被捕",
+      "onboard_time": 1779831914,
+      "rank": 26,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 24741,
       "num": 58754,
       "word": "周鸿祎谈华为韬定律刷屏",
@@ -585,6 +593,14 @@
       "onboard_time": 1779801081,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 23256,
+      "num": 30987,
+      "word": "耀眼",
+      "onboard_time": 1779830233,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 22461,
@@ -603,8 +619,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 18271,
-      "num": 21591,
+      "raw_hot": 20943,
+      "num": 30972,
       "word": "母亲长期虐待亲生女儿被判7年",
       "onboard_time": 1779824773,
       "rank": 33,

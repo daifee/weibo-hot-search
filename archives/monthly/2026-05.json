@@ -1,6 +1,6 @@
 {
   "startTime": 1777565126834,
-  "endTime": 1779829926131,
+  "endTime": 1779832414944,
   "band_list": [
     {
       "raw_hot": 28198949,
@@ -41899,6 +41899,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 94821,
+      "num": 176844,
+      "word": "我运气好因为我一直在往前走",
+      "onboard_time": 1779814818,
+      "rank": 6,
+      "category": "情感"
+    },
+    {
       "raw_hot": 94818,
       "num": 94818,
       "word": "九章四号研制成功",
@@ -43059,14 +43067,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 81560,
-      "num": 81560,
-      "word": "我运气好因为我一直在往前走",
-      "onboard_time": 1779814818,
-      "rank": 6,
-      "category": "情感"
-    },
-    {
       "raw_hot": 81509,
       "num": 81509,
       "word": "金饰价格一夜跌15元",
@@ -43241,6 +43241,14 @@
       "onboard_time": 1777905804,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 79843,
+      "num": 79843,
+      "word": "入围过白玉兰的古装剧",
+      "onboard_time": 1779825194,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 79668,
@@ -44001,6 +44009,14 @@
       "onboard_time": 1779205462,
       "rank": 20,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 70243,
+      "num": 70243,
+      "word": "给阿嬷的情书 成本",
+      "onboard_time": 1779826874,
+      "rank": 7,
+      "category": "电影"
     },
     {
       "raw_hot": 70224,
@@ -44833,14 +44849,6 @@
       "onboard_time": 1779404418,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 61753,
-      "num": 56441,
-      "word": "入围过白玉兰的古装剧",
-      "onboard_time": 1779825194,
-      "rank": 3,
-      "category": "剧集"
     },
     {
       "raw_hot": 61595,
@@ -46739,14 +46747,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 46730,
-      "num": 46730,
-      "word": "给阿嬷的情书 成本",
-      "onboard_time": 1779826874,
-      "rank": 7,
-      "category": "电影"
-    },
-    {
       "raw_hot": 46666,
       "num": 325878,
       "word": "泡药杨梅自己都不敢吃凭什么卖",
@@ -48027,6 +48027,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 36421,
+      "num": 66721,
+      "word": "日本正在中国家门口磨刀霍霍",
+      "onboard_time": 1779805582,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 36285,
       "num": 81703,
       "word": "接张局事业运",
@@ -48281,14 +48289,6 @@
       "onboard_time": 1779699141,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 34703,
-      "num": 66721,
-      "word": "日本正在中国家门口磨刀霍霍",
-      "onboard_time": 1779805582,
-      "rank": 38,
-      "category": "国际时政"
     },
     {
       "raw_hot": 34615,
@@ -49555,6 +49555,14 @@
       "category": "美妆,网红"
     },
     {
+      "raw_hot": 26511,
+      "num": 31021,
+      "word": "Mango创始人坠亡案长子被捕",
+      "onboard_time": 1779831914,
+      "rank": 26,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 26434,
       "num": 212252,
       "word": "4人赴泰国考察项目失联12天",
@@ -49971,6 +49979,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 23256,
+      "num": 30987,
+      "word": "耀眼",
+      "onboard_time": 1779830233,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 23011,
       "num": 25999,
       "word": "钟意镜MVP",
@@ -50315,6 +50331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 20943,
+      "num": 30972,
+      "word": "母亲长期虐待亲生女儿被判7年",
+      "onboard_time": 1779824773,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 20921,
       "num": 146077,
       "word": "空调哪些功能纯属冤枉钱",
@@ -50576,14 +50600,6 @@
       "word": "猫爬架透明碗养鱼变凸透镜引火灾",
       "onboard_time": 1779101121,
       "rank": 25,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 18271,
-      "num": 21591,
-      "word": "母亲长期虐待亲生女儿被判7年",
-      "onboard_time": 1779824773,
-      "rank": 33,
       "category": "民生新闻"
     },
     {

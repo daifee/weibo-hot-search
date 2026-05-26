@@ -1,0 +1,410 @@
+{
+  "runTime": 1779832414944,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 170820,
+        "num": 249015,
+        "word": "五个女博士被投诉喝了过敏",
+        "onboard_time": 1779807682,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94821,
+        "num": 176844,
+        "word": "我运气好因为我一直在往前走",
+        "onboard_time": 1779814818,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 8908,
+        "num": 146655,
+        "word": "多地和降雨赛跑全力保粮",
+        "onboard_time": 1779801081,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 79843,
+        "num": 79843,
+        "word": "入围过白玉兰的古装剧",
+        "onboard_time": 1779825194,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 70243,
+        "num": 70243,
+        "word": "给阿嬷的情书 成本",
+        "onboard_time": 1779826874,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 59651,
+        "num": 59651,
+        "word": "浪姐四公小考排名",
+        "onboard_time": 1779806183,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 58467,
+        "num": 58467,
+        "word": "人真的需要不断流动的",
+        "onboard_time": 1779794600,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 54033,
+        "num": 54033,
+        "word": "洗衣机长时间不清理比马桶还脏",
+        "onboard_time": 1779806002,
+        "rank": 7,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 51406,
+        "num": 51406,
+        "word": "青云直上 肖战",
+        "onboard_time": 1779800421,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 40214,
+        "num": 46501,
+        "word": "夏天用这个杯子可真是惬意",
+        "onboard_time": 1779817876,
+        "rank": 9,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 91803,
+        "num": 46493,
+        "word": "女子被养2年猫攻击致颅部3级损伤",
+        "onboard_time": 1779810500,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90840,
+        "num": 46479,
+        "word": "雷军回应武契奇说小米车漂亮但买不起",
+        "onboard_time": 1779806661,
+        "rank": 11,
+        "category": "国内时政,汽车"
+      },
+      {
+        "raw_hot": 46456,
+        "num": 46456,
+        "word": "法拉利暴跌",
+        "onboard_time": 1779806301,
+        "rank": 12,
+        "category": "财经,汽车"
+      },
+      {
+        "raw_hot": 46377,
+        "num": 46377,
+        "word": "内娱演员白玉兰奖首提年龄",
+        "onboard_time": 1779804263,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 45231,
+        "num": 45231,
+        "word": "武契奇夫人试穿旗袍直呼太喜欢了",
+        "onboard_time": 1779802942,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 43723,
+        "num": 43723,
+        "word": "现发4嘉宾阵容",
+        "onboard_time": 1779797961,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 43690,
+        "num": 43690,
+        "word": "武契奇在小米工厂下单了",
+        "onboard_time": 1779811521,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 40220,
+        "num": 40220,
+        "word": "主播用果园背景卖货却说去开个空调",
+        "onboard_time": 1779809602,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36618,
+        "num": 36618,
+        "word": "华为新技术 逻辑折叠非3D堆叠",
+        "onboard_time": 1779814818,
+        "rank": 18,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 36428,
+        "num": 36428,
+        "word": "白玉兰的口碑",
+        "onboard_time": 1779798622,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 38236,
+        "num": 36425,
+        "word": "妻子反常男子排查家中发现藏女邻居",
+        "onboard_time": 1779801981,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36421,
+        "num": 36421,
+        "word": "日本正在中国家门口磨刀霍霍",
+        "onboard_time": 1779805582,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 33089,
+        "num": 33089,
+        "word": "女干部展示不到100元的耳环",
+        "onboard_time": 1779785543,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31686,
+        "num": 31686,
+        "word": "张家界两男子钓鱼遇涨水被淹遇难",
+        "onboard_time": 1779814818,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31031,
+        "num": 31031,
+        "word": "男子吃完面加6勺辣椒酱被店主曝光",
+        "onboard_time": 1779797721,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26611,
+        "num": 31028,
+        "word": "CBA总决赛",
+        "onboard_time": 1779798201,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 26511,
+        "num": 31021,
+        "word": "Mango创始人坠亡案长子被捕",
+        "onboard_time": 1779831914,
+        "rank": 26,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 26372,
+        "num": 31015,
+        "word": "为什么浪姐女导演吴梦知要离职",
+        "onboard_time": 1779800661,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 24999,
+        "num": 31009,
+        "word": "穷极一生想找到一双偏爱的眼睛",
+        "onboard_time": 1779818116,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 24950,
+        "num": 31004,
+        "word": "乙酰氨基酚和布洛芬的差异",
+        "onboard_time": 1779791121,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 23753,
+        "num": 30997,
+        "word": "原来蟑螂真的可能越踩越多",
+        "onboard_time": 1779806244,
+        "rank": 30,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 23566,
+        "num": 30994,
+        "word": "印度被烤糊了",
+        "onboard_time": 1779793821,
+        "rank": 31,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 23256,
+        "num": 30987,
+        "word": "耀眼",
+        "onboard_time": 1779830233,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22101,
+        "num": 30979,
+        "word": "新华社评耿同学打假",
+        "onboard_time": 1779814818,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20943,
+        "num": 30972,
+        "word": "母亲长期虐待亲生女儿被判7年",
+        "onboard_time": 1779824773,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20904,
+        "num": 30966,
+        "word": "恋与深空",
+        "onboard_time": 1779802641,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 20862,
+        "num": 30964,
+        "word": "现在就出发",
+        "onboard_time": 1779786621,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 20562,
+        "num": 30954,
+        "word": "封潇潇楚嘉禾结局疑似在一起了",
+        "onboard_time": 1779805283,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20014,
+        "num": 30951,
+        "word": "Jennie表演了新歌",
+        "onboard_time": 1779814997,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 19887,
+        "num": 30941,
+        "word": "56斤冰毒渗入地毯企图蒙混过关",
+        "onboard_time": 1779814818,
+        "rank": 39,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 19859,
+        "num": 30941,
+        "word": "阴阳师",
+        "onboard_time": 1779814818,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 19402,
+        "num": 30932,
+        "word": "黄灿灿发了11张浪姐合照",
+        "onboard_time": 1779808642,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 18573,
+        "num": 30929,
+        "word": "毕业胸花",
+        "onboard_time": 1779814818,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 18368,
+        "num": 30921,
+        "word": "女子点披萨外卖吃出一堆活虫",
+        "onboard_time": 1779803241,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18024,
+        "num": 30913,
+        "word": "中央气象台同时发5个预警",
+        "onboard_time": 1779815117,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17653,
+        "num": 30907,
+        "word": "车行老板说油车掉价20万都没人买",
+        "onboard_time": 1779789561,
+        "rank": 45,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 17066,
+        "num": 30902,
+        "word": "9岁姐姐带7岁弟弟抢盖10000斤大蒜",
+        "onboard_time": 1779798201,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16683,
+        "num": 30898,
+        "word": "小米一季度净利润60.72亿",
+        "onboard_time": 1779791780,
+        "rank": 47,
+        "category": "财经,互联网"
+      },
+      {
+        "raw_hot": 16004,
+        "num": 30893,
+        "word": "周鸿祎谈华为韬定律刷屏",
+        "onboard_time": 1779814818,
+        "rank": 48,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 15503,
+        "num": 30888,
+        "word": "WBG出征2026EWC电竞世俱杯",
+        "onboard_time": 1779803183,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#这枚勋章见证中塞铁杆友谊#"
+    }
+  }
+}
