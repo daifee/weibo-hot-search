@@ -1,6 +1,6 @@
 {
   "startTime": 1779725319335,
-  "endTime": 1779784709230,
+  "endTime": 1779785426382,
   "band_list": [
     {
       "raw_hot": 15218194,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 1981817,
-      "num": 460697,
+      "num": 505962,
       "word": "温岚在ICU抢救了10天",
       "onboard_time": 1779774801,
       "rank": 10,
@@ -59,8 +59,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 1527892,
-      "num": 457777,
+      "raw_hot": 1535340,
+      "num": 472837,
       "word": "浪姐妆造 白幼瘦",
       "onboard_time": 1779779842,
       "rank": 11,
@@ -108,11 +108,19 @@
     },
     {
       "raw_hot": 1149658,
-      "num": 448172,
+      "num": 498466,
       "word": "粉丝给沈月送只是沈月奖",
       "onboard_time": 1779774441,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1115090,
+      "num": 823732,
+      "word": "央视新闻祝肖战此战大捷",
+      "onboard_time": 1779782961,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 1110002,
@@ -139,8 +147,16 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1021361,
+      "num": 758006,
+      "word": "曝宋亚轩回归现在就出发4",
+      "onboard_time": 1779781824,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1018913,
-      "num": 441235,
+      "num": 497213,
       "word": "利特车祸",
       "onboard_time": 1779778640,
       "rank": 19,
@@ -179,14 +195,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 995102,
-      "num": 744685,
-      "word": "央视新闻祝肖战此战大捷",
-      "onboard_time": 1779782961,
-      "rank": 3,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 958833,
       "num": 958833,
       "word": "利剑玫瑰",
@@ -203,16 +211,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 849597,
-      "num": 620815,
-      "word": "曝宋亚轩回归现在就出发4",
-      "onboard_time": 1779781824,
-      "rank": 5,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 825167,
-      "num": 827589,
+      "raw_hot": 885843,
+      "num": 885843,
       "word": "鸿蒙智行正式起诉自媒体圈内人",
       "onboard_time": 1779781700,
       "rank": 1,
@@ -227,12 +227,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 802339,
+      "num": 710737,
+      "word": "白玉兰 利剑玫瑰",
+      "onboard_time": 1779783802,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 793427,
       "num": 499298,
       "word": "刘诗诗 热红温了还在问用的什么腮红",
       "onboard_time": 1779757882,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 789359,
+      "num": 789359,
+      "word": "肯德基热干面",
+      "onboard_time": 1779779181,
+      "rank": 4,
+      "category": "美食"
     },
     {
       "raw_hot": 764111,
@@ -259,12 +275,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 726077,
-      "num": 726077,
-      "word": "肯德基热干面",
-      "onboard_time": 1779779181,
-      "rank": 4,
-      "category": "美食"
+      "raw_hot": 712687,
+      "num": 485280,
+      "word": "百万网红林思琪捐款1047万",
+      "onboard_time": 1779782421,
+      "rank": 20,
+      "category": "网红"
     },
     {
       "raw_hot": 711301,
@@ -307,20 +323,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 606932,
-      "num": 437984,
-      "word": "百万网红林思琪捐款1047万",
-      "onboard_time": 1779782421,
-      "rank": 20,
-      "category": "网红"
+      "raw_hot": 594003,
+      "num": 502025,
+      "word": "盒马粉木耳擦边别把道歉当公关",
+      "onboard_time": 1779772221,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
-      "raw_hot": 600213,
-      "num": 429674,
-      "word": "白玉兰 利剑玫瑰",
-      "onboard_time": 1779783802,
-      "rank": 24,
-      "category": "剧集"
+      "raw_hot": 572800,
+      "num": 572800,
+      "word": "大润发创始人去世",
+      "onboard_time": 1779783861,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 571965,
@@ -331,20 +347,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 569966,
-      "num": 455602,
-      "word": "盒马粉木耳擦边别把道歉当公关",
-      "onboard_time": 1779772221,
-      "rank": 12,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 519421,
       "num": 519421,
       "word": "2名外籍女子在我国频繁骗婚赚钱",
       "onboard_time": 1779759081,
       "rank": 6,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 509695,
+      "num": 509695,
+      "word": "原来很多人把阈值读成阀值",
+      "onboard_time": 1779772043,
+      "rank": 7,
+      "category": "幽默"
     },
     {
       "raw_hot": 489744,
@@ -380,7 +396,7 @@
     },
     {
       "raw_hot": 476473,
-      "num": 426426,
+      "num": 468101,
       "word": "张子墨新歌 抄袭",
       "onboard_time": 1779773781,
       "rank": 25,
@@ -403,16 +419,8 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 466200,
-      "num": 466200,
-      "word": "原来很多人把阈值读成阀值",
-      "onboard_time": 1779772043,
-      "rank": 7,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 465896,
-      "num": 435920,
+      "num": 476794,
       "word": "A股新股王19天暴涨22倍",
       "onboard_time": 1779784283,
       "rank": 21,
@@ -451,27 +459,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 443105,
-      "num": 502291,
-      "word": "老板投资400万最后亲手砸店",
-      "onboard_time": 1779769042,
-      "rank": 12,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 437635,
-      "num": 421236,
+      "raw_hot": 446194,
+      "num": 478897,
       "word": "蒋毅与妻子直播吵架",
       "onboard_time": 1779777861,
       "rank": 28,
       "category": "艺人"
     },
     {
-      "raw_hot": 415490,
-      "num": 465496,
-      "word": "大润发创始人去世",
-      "onboard_time": 1779783861,
-      "rank": 8,
+      "raw_hot": 443105,
+      "num": 502291,
+      "word": "老板投资400万最后亲手砸店",
+      "onboard_time": 1779769042,
+      "rank": 12,
       "category": "民生新闻"
     },
     {
@@ -524,7 +524,7 @@
     },
     {
       "raw_hot": 399380,
-      "num": 419088,
+      "num": 455918,
       "word": "颜凯",
       "onboard_time": 1779776721,
       "rank": 29,
@@ -540,11 +540,19 @@
     },
     {
       "raw_hot": 391519,
-      "num": 414569,
+      "num": 458997,
       "word": "李登科聊赵丽颖未入围",
       "onboard_time": 1779781521,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 385218,
+      "num": 464859,
+      "word": "颜凯 be丑学",
+      "onboard_time": 1779784521,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 379227,
@@ -579,6 +587,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 350196,
+      "num": 493007,
+      "word": "女子患红斑狼疮孕32周失去孩子",
+      "onboard_time": 1779780501,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 348254,
       "num": 477998,
       "word": "芯片半导体暴涨",
@@ -611,20 +627,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 326374,
+      "num": 482688,
+      "word": "偷拍裙底男生已取消公务员录用资格",
+      "onboard_time": 1779782121,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 319982,
       "num": 436241,
       "word": "保护肝脏3要吃3别碰",
       "onboard_time": 1779721283,
       "rank": 24,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 319155,
-      "num": 434997,
-      "word": "女子患红斑狼疮孕32周失去孩子",
-      "onboard_time": 1779780501,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 312810,
@@ -651,14 +667,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 308159,
-      "num": 416432,
-      "word": "偷拍裙底男生已取消公务员录用资格",
-      "onboard_time": 1779782121,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 306864,
       "num": 434534,
       "word": "浪姐双人舞台投票结果",
@@ -683,12 +691,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 285322,
-      "num": 405169,
-      "word": "颜凯 be丑学",
-      "onboard_time": 1779784521,
-      "rank": 35,
-      "category": "综艺"
+      "raw_hot": 293688,
+      "num": 491465,
+      "word": "印度电工往变压器上浇水",
+      "onboard_time": 1779782540,
+      "rank": 14,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 283296,
@@ -705,6 +713,14 @@
       "onboard_time": 1779721942,
       "rank": 33,
       "category": "财经"
+    },
+    {
+      "raw_hot": 279920,
+      "num": 470798,
+      "word": "武契奇到小米汽车工厂参访",
+      "onboard_time": 1779784163,
+      "rank": 17,
+      "category": "国内时政,汽车"
     },
     {
       "raw_hot": 277537,
@@ -772,7 +788,7 @@
     },
     {
       "raw_hot": 250042,
-      "num": 389803,
+      "num": 444440,
       "word": "白玉兰",
       "onboard_time": 1779782480,
       "rank": 42,
@@ -803,12 +819,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 237145,
-      "num": 452144,
-      "word": "印度电工往变压器上浇水",
-      "onboard_time": 1779782540,
-      "rank": 14,
-      "category": "海外新闻"
+      "raw_hot": 241093,
+      "num": 447469,
+      "word": "嗑cp是一个很私人的事儿",
+      "onboard_time": 1779784882,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 236659,
@@ -820,7 +836,7 @@
     },
     {
       "raw_hot": 235659,
-      "num": 408358,
+      "num": 423137,
       "word": "霸总来广东13天也支棱不起来",
       "onboard_time": 1779774622,
       "rank": 33,
@@ -828,7 +844,7 @@
     },
     {
       "raw_hot": 235606,
-      "num": 402902,
+      "num": 439159,
       "word": "问界M9官宣双品牌大使",
       "onboard_time": 1779779060,
       "rank": 36,
@@ -843,6 +859,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 228412,
+      "num": 437543,
+      "word": "30个太阳休一天",
+      "onboard_time": 1779785123,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 228108,
       "num": 408826,
       "word": "中国博主富士山下跳舞被外网辱骂",
@@ -852,11 +876,27 @@
     },
     {
       "raw_hot": 223257,
-      "num": 387602,
+      "num": 425240,
       "word": "杨幂说感谢对俺们生万物的支持",
       "onboard_time": 1779781340,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 220728,
+      "num": 435178,
+      "word": "月薪十万 信息流广告演员",
+      "onboard_time": 1779782961,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 218160,
+      "num": 432454,
+      "word": "陶喆永远不会塌房 因为早已废墟",
+      "onboard_time": 1779785302,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 216614,
@@ -867,20 +907,20 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 214259,
-      "num": 374695,
-      "word": "月薪十万 信息流广告演员",
-      "onboard_time": 1779782961,
-      "rank": 49,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 213405,
       "num": 384142,
       "word": "利特",
       "onboard_time": 1779774801,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 211364,
+      "num": 427241,
+      "word": "讨厌一个人是不用去翻脸的",
+      "onboard_time": 1779782181,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 208767,
@@ -891,12 +931,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 205959,
-      "num": 395411,
-      "word": "讨厌一个人是不用去翻脸的",
-      "onboard_time": 1779782181,
-      "rank": 39,
-      "category": "情感"
+      "raw_hot": 202743,
+      "num": 411358,
+      "word": "田柾国戒指被粉丝顺走",
+      "onboard_time": 1779783742,
+      "rank": 38,
+      "category": "演出"
     },
     {
       "raw_hot": 199842,
@@ -971,20 +1011,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 168632,
-      "num": 399316,
-      "word": "田柾国戒指被粉丝顺走",
-      "onboard_time": 1779783742,
-      "rank": 38,
-      "category": "演出"
-    },
-    {
       "raw_hot": 165595,
       "num": 403094,
       "word": "主角原著 秦娥家暴刘红兵",
       "onboard_time": 1779721283,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 164388,
+      "num": 409679,
+      "word": "71亿市值上市公司家族内斗",
+      "onboard_time": 1779783381,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 162799,
@@ -1116,7 +1156,7 @@
     },
     {
       "raw_hot": 129582,
-      "num": 463300,
+      "num": 508329,
       "word": "米切尔鼓舞士气无人回应",
       "onboard_time": 1779775702,
       "rank": 9,
@@ -1124,7 +1164,7 @@
     },
     {
       "raw_hot": 123071,
-      "num": 423539,
+      "num": 466869,
       "word": "郑钦文需要从资格赛开始打起",
       "onboard_time": 1779774202,
       "rank": 27,
@@ -1196,7 +1236,7 @@
     },
     {
       "raw_hot": 99719,
-      "num": 377394,
+      "num": 419774,
       "word": "一人之下 AI作画",
       "onboard_time": 1779777801,
       "rank": 47,
@@ -1209,6 +1249,14 @@
       "onboard_time": 1779750017,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 88514,
+      "num": 430112,
+      "word": "胡歌方回应入围白玉兰",
+      "onboard_time": 1779784642,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 88148,
@@ -1227,14 +1275,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 83564,
-      "num": 444100,
-      "word": "武契奇到小米汽车工厂参访",
-      "onboard_time": 1779784163,
-      "rank": 17,
-      "category": "国内时政,汽车"
-    },
-    {
       "raw_hot": 80345,
       "num": 263642,
       "word": "运动员夺冠后捧起奖杯下一秒碎一地",
@@ -1243,19 +1283,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 76448,
-      "num": 393191,
-      "word": "胡歌方回应入围白玉兰",
-      "onboard_time": 1779784642,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 69862,
       "num": 445326,
       "word": "2名涉泡药杨梅党员干部免职",
       "onboard_time": 1779724281,
       "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 67002,
+      "num": 827038,
+      "word": "暴雨山洪来了怎么办",
+      "onboard_time": 1779780203,
+      "rank": 2,
       "category": "民生新闻"
     },
     {
@@ -1291,6 +1331,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 60741,
+      "num": 416018,
+      "word": "黄金iPhone1元起拍",
+      "onboard_time": 1779783622,
+      "rank": 41,
+      "category": "数码"
+    },
+    {
       "raw_hot": 57788,
       "num": 376339,
       "word": "LGD DOTA2",
@@ -1299,28 +1347,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 56490,
-      "num": 744846,
-      "word": "暴雨山洪来了怎么办",
-      "onboard_time": 1779780203,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 50579,
       "num": 146463,
       "word": "金枝剧组给王弘毅道歉",
       "onboard_time": 1779718643,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 50061,
-      "num": 391307,
-      "word": "黄金iPhone1元起拍",
-      "onboard_time": 1779783622,
-      "rank": 41,
-      "category": "数码"
     },
     {
       "raw_hot": 49129,
