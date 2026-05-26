@@ -1,6 +1,6 @@
 {
   "startTime": 1779725319335,
-  "endTime": 1779770620400,
+  "endTime": 1779784709230,
   "band_list": [
     {
       "raw_hot": 15218194,
@@ -27,6 +27,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1981817,
+      "num": 460697,
+      "word": "温岚在ICU抢救了10天",
+      "onboard_time": 1779774801,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1812702,
       "num": 1812702,
       "word": "盒马郑重道歉",
@@ -49,6 +57,14 @@
       "onboard_time": 1779718402,
       "rank": 1,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1527892,
+      "num": 457777,
+      "word": "浪姐妆造 白幼瘦",
+      "onboard_time": 1779779842,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 1464231,
@@ -91,6 +107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1149658,
+      "num": 448172,
+      "word": "粉丝给沈月送只是沈月奖",
+      "onboard_time": 1779774441,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1110002,
       "num": 462141,
       "word": "潘玮柏得了面瘫",
@@ -115,6 +139,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1018913,
+      "num": 441235,
+      "word": "利特车祸",
+      "onboard_time": 1779778640,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1008442,
       "num": 474110,
       "word": "王鹤棣掉粉",
@@ -131,12 +163,28 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1000294,
+      "num": 1160047,
+      "word": "学校已报警将追究造谣者责任",
+      "onboard_time": 1779770063,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 999321,
       "num": 450346,
       "word": "叶一茜 发卖老公",
       "onboard_time": 1779720443,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 995102,
+      "num": 744685,
+      "word": "央视新闻祝肖战此战大捷",
+      "onboard_time": 1779782961,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 958833,
@@ -153,6 +201,22 @@
       "onboard_time": 1779766221,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 849597,
+      "num": 620815,
+      "word": "曝宋亚轩回归现在就出发4",
+      "onboard_time": 1779781824,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 825167,
+      "num": 827589,
+      "word": "鸿蒙智行正式起诉自媒体圈内人",
+      "onboard_time": 1779781700,
+      "rank": 1,
+      "category": "互联网"
     },
     {
       "raw_hot": 811501,
@@ -185,6 +249,22 @@
       "onboard_time": 1779764242,
       "rank": 5,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 742776,
+      "num": 613543,
+      "word": "白玉兰提名剧集数据",
+      "onboard_time": 1779781881,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 726077,
+      "num": 726077,
+      "word": "肯德基热干面",
+      "onboard_time": 1779779181,
+      "rank": 4,
+      "category": "美食"
     },
     {
       "raw_hot": 711301,
@@ -227,12 +307,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 606932,
+      "num": 437984,
+      "word": "百万网红林思琪捐款1047万",
+      "onboard_time": 1779782421,
+      "rank": 20,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 600213,
+      "num": 429674,
+      "word": "白玉兰 利剑玫瑰",
+      "onboard_time": 1779783802,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 571965,
       "num": 453488,
       "word": "哈登",
       "onboard_time": 1779763221,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 569966,
+      "num": 455602,
+      "word": "盒马粉木耳擦边别把道歉当公关",
+      "onboard_time": 1779772221,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 519421,
@@ -275,6 +379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 476473,
+      "num": 426426,
+      "word": "张子墨新歌 抄袭",
+      "onboard_time": 1779773781,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 472779,
       "num": 512211,
       "word": "尼克斯4比0横扫骑士",
@@ -289,6 +401,22 @@
       "onboard_time": 1779764121,
       "rank": 27,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 466200,
+      "num": 466200,
+      "word": "原来很多人把阈值读成阀值",
+      "onboard_time": 1779772043,
+      "rank": 7,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 465896,
+      "num": 435920,
+      "word": "A股新股王19天暴涨22倍",
+      "onboard_time": 1779784283,
+      "rank": 21,
+      "category": "财经"
     },
     {
       "raw_hot": 457282,
@@ -323,11 +451,27 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 433382,
+      "raw_hot": 443105,
       "num": 502291,
       "word": "老板投资400万最后亲手砸店",
       "onboard_time": 1779769042,
       "rank": 12,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 437635,
+      "num": 421236,
+      "word": "蒋毅与妻子直播吵架",
+      "onboard_time": 1779777861,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 415490,
+      "num": 465496,
+      "word": "大润发创始人去世",
+      "onboard_time": 1779783861,
+      "rank": 8,
       "category": "民生新闻"
     },
     {
@@ -379,12 +523,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 399380,
+      "num": 419088,
+      "word": "颜凯",
+      "onboard_time": 1779776721,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 395897,
       "num": 494648,
       "word": "印度热到接近50度",
       "onboard_time": 1779766402,
       "rank": 16,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 391519,
+      "num": 414569,
+      "word": "李登科聊赵丽颖未入围",
+      "onboard_time": 1779781521,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 379227,
@@ -427,14 +587,6 @@
       "category": "财经,民生新闻"
     },
     {
-      "raw_hot": 347539,
-      "num": 441853,
-      "word": "学校已报警将追究造谣者责任",
-      "onboard_time": 1779770063,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 332051,
       "num": 439276,
       "word": "虞书欣谁跟你说不用了",
@@ -467,6 +619,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 319155,
+      "num": 434997,
+      "word": "女子患红斑狼疮孕32周失去孩子",
+      "onboard_time": 1779780501,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 312810,
       "num": 389038,
       "word": "刘亦菲真的大大方方的",
@@ -491,6 +651,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 308159,
+      "num": 416432,
+      "word": "偷拍裙底男生已取消公务员录用资格",
+      "onboard_time": 1779782121,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 306864,
       "num": 434534,
       "word": "浪姐双人舞台投票结果",
@@ -513,6 +681,14 @@
       "onboard_time": 1779705561,
       "rank": 8,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 285322,
+      "num": 405169,
+      "word": "颜凯 be丑学",
+      "onboard_time": 1779784521,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 283296,
@@ -595,6 +771,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 250042,
+      "num": 389803,
+      "word": "白玉兰",
+      "onboard_time": 1779782480,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 249729,
       "num": 427102,
       "word": "金价跳空高开",
@@ -619,12 +803,36 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 237145,
+      "num": 452144,
+      "word": "印度电工往变压器上浇水",
+      "onboard_time": 1779782540,
+      "rank": 14,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 236659,
       "num": 381967,
       "word": "JDG运营",
       "onboard_time": 1779756740,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 235659,
+      "num": 408358,
+      "word": "霸总来广东13天也支棱不起来",
+      "onboard_time": 1779774622,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 235606,
+      "num": 402902,
+      "word": "问界M9官宣双品牌大使",
+      "onboard_time": 1779779060,
+      "rank": 36,
+      "category": "汽车"
     },
     {
       "raw_hot": 233524,
@@ -643,6 +851,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 223257,
+      "num": 387602,
+      "word": "杨幂说感谢对俺们生万物的支持",
+      "onboard_time": 1779781340,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 216614,
       "num": 419630,
       "word": "影视飓风是不是中国最酷的公司",
@@ -651,12 +867,36 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 214259,
+      "num": 374695,
+      "word": "月薪十万 信息流广告演员",
+      "onboard_time": 1779782961,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 213405,
+      "num": 384142,
+      "word": "利特",
+      "onboard_time": 1779774801,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 208767,
       "num": 260692,
       "word": "2026白玉兰奖",
       "onboard_time": 1779751640,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 205959,
+      "num": 395411,
+      "word": "讨厌一个人是不用去翻脸的",
+      "onboard_time": 1779782181,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 199842,
@@ -729,6 +969,14 @@
       "onboard_time": 1779720382,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 168632,
+      "num": 399316,
+      "word": "田柾国戒指被粉丝顺走",
+      "onboard_time": 1779783742,
+      "rank": 38,
+      "category": "演出"
     },
     {
       "raw_hot": 165595,
@@ -867,6 +1115,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 129582,
+      "num": 463300,
+      "word": "米切尔鼓舞士气无人回应",
+      "onboard_time": 1779775702,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 123071,
+      "num": 423539,
+      "word": "郑钦文需要从资格赛开始打起",
+      "onboard_time": 1779774202,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 122694,
       "num": 406830,
       "word": "尼克斯vs骑士",
@@ -931,6 +1195,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 99719,
+      "num": 377394,
+      "word": "一人之下 AI作画",
+      "onboard_time": 1779777801,
+      "rank": 47,
+      "category": "动漫,互联网"
+    },
+    {
       "raw_hot": 95047,
       "num": 233335,
       "word": "徐洁儿发长文",
@@ -955,12 +1227,28 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 83564,
+      "num": 444100,
+      "word": "武契奇到小米汽车工厂参访",
+      "onboard_time": 1779784163,
+      "rank": 17,
+      "category": "国内时政,汽车"
+    },
+    {
       "raw_hot": 80345,
       "num": 263642,
       "word": "运动员夺冠后捧起奖杯下一秒碎一地",
       "onboard_time": 1779750377,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 76448,
+      "num": 393191,
+      "word": "胡歌方回应入围白玉兰",
+      "onboard_time": 1779784642,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 69862,
@@ -979,6 +1267,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 63213,
+      "num": 379482,
+      "word": "胖东来新公司成立",
+      "onboard_time": 1779783441,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 63130,
+      "num": 443530,
+      "word": "康师傅饮品喝几千瓶才抵1个水蜜桃",
+      "onboard_time": 1779783622,
+      "rank": 18,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 62574,
       "num": 393237,
       "word": "肖战首位推荐破500万瞩目影人",
@@ -987,12 +1291,36 @@
       "category": "电影"
     },
     {
+      "raw_hot": 57788,
+      "num": 376339,
+      "word": "LGD DOTA2",
+      "onboard_time": 1779776481,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 56490,
+      "num": 744846,
+      "word": "暴雨山洪来了怎么办",
+      "onboard_time": 1779780203,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 50579,
       "num": 146463,
       "word": "金枝剧组给王弘毅道歉",
       "onboard_time": 1779718643,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 50061,
+      "num": 391307,
+      "word": "黄金iPhone1元起拍",
+      "onboard_time": 1779783622,
+      "rank": 41,
+      "category": "数码"
     },
     {
       "raw_hot": 49129,
@@ -1188,6 +1516,9 @@
     },
     {
       "word": "#近距离看武契奇获颁的友谊勋章#"
+    },
+    {
+      "word": "#这枚勋章见证中塞铁杆友谊#"
     }
   ]
 }
