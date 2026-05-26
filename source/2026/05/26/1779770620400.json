@@ -1,0 +1,410 @@
+{
+  "runTime": 1779770620400,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 10248413,
+        "num": 10248413,
+        "word": "白玉兰入围名单",
+        "onboard_time": 1779761960,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1684621,
+        "num": 2024644,
+        "word": "三体公司原CEO许垚被执行死刑",
+        "onboard_time": 1779762380,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 48016,
+        "num": 1562598,
+        "word": "网警公布5起打击整治网络谣言案例",
+        "onboard_time": 1779759380,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1029781,
+        "num": 1029781,
+        "word": "迪丽热巴白玉兰未提名",
+        "onboard_time": 1779767903,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 931147,
+        "num": 931147,
+        "word": "韩国群众要求废弃21世纪大君夫人",
+        "onboard_time": 1779766221,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 811501,
+        "num": 811501,
+        "word": "樱桃 虫子",
+        "onboard_time": 1779767603,
+        "rank": 5,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 757369,
+        "num": 757369,
+        "word": "人民日报评豆包付费",
+        "onboard_time": 1779764242,
+        "rank": 6,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 513375,
+        "num": 513375,
+        "word": "2名外籍女子在我国频繁骗婚赚钱",
+        "onboard_time": 1779759081,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 382231,
+        "num": 512211,
+        "word": "尼克斯4比0横扫骑士",
+        "onboard_time": 1779763823,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114440,
+        "num": 509787,
+        "word": "哈登生涯首次被横扫",
+        "onboard_time": 1779766701,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1342427,
+        "num": 506405,
+        "word": "王星越说有女朋友了拒加微信",
+        "onboard_time": 1779764602,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 764111,
+        "num": 503752,
+        "word": "本届白玉兰意难平",
+        "onboard_time": 1779770002,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 433382,
+        "num": 502291,
+        "word": "老板投资400万最后亲手砸店",
+        "onboard_time": 1779769042,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 719136,
+        "num": 499298,
+        "word": "刘诗诗 热红温了还在问用的什么腮红",
+        "onboard_time": 1779757882,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 660057,
+        "num": 497068,
+        "word": "朱媛媛白玉兰最佳女配提名",
+        "onboard_time": 1779766641,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 395897,
+        "num": 494648,
+        "word": "印度热到接近50度",
+        "onboard_time": 1779766402,
+        "rank": 15,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 115254,
+        "num": 491413,
+        "word": "京东AI静音口罩工位k歌神器",
+        "onboard_time": 1779768502,
+        "rank": 16,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 429343,
+        "num": 489239,
+        "word": "陈克明食品道歉",
+        "onboard_time": 1779759020,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 622621,
+        "num": 487595,
+        "word": "杨紫 每朵玉兰都有自己的花期",
+        "onboard_time": 1779769462,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 618816,
+        "num": 484996,
+        "word": "利剑玫瑰",
+        "onboard_time": 1779765200,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 25214,
+        "num": 483399,
+        "word": "偷拍男生未入围公务员为何大快人心",
+        "onboard_time": 1779769942,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41952,
+        "num": 479155,
+        "word": "朴槿惠参与竞选宣传女保镖贴身防卫",
+        "onboard_time": 1779770063,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 84659,
+        "num": 477506,
+        "word": "央视曝光果汁标签乱象",
+        "onboard_time": 1779769341,
+        "rank": 22,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 1864071,
+        "num": 475465,
+        "word": "赵丽颖未入围",
+        "onboard_time": 1779764841,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 531832,
+        "num": 474110,
+        "word": "王鹤棣掉粉",
+        "onboard_time": 1779751818,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104945,
+        "num": 470093,
+        "word": "杨幂十五年后再提白玉兰视后",
+        "onboard_time": 1779770304,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 468146,
+        "num": 467625,
+        "word": "3个部位发麻可能是脑梗先兆",
+        "onboard_time": 1779764121,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 414532,
+        "num": 464839,
+        "word": "丞磊沈羽洁新剧开机",
+        "onboard_time": 1779769703,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 413658,
+        "num": 462578,
+        "word": "杨幂85花唯一提名最佳女主角",
+        "onboard_time": 1779765742,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 39059,
+        "num": 460125,
+        "word": "武契奇到访清华大学",
+        "onboard_time": 1779770425,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 400327,
+        "num": 457971,
+        "word": "小城大事",
+        "onboard_time": 1779765921,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 405081,
+        "num": 454979,
+        "word": "女子说花生过敏饭店加花生油被抢救",
+        "onboard_time": 1779765442,
+        "rank": 31,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 401931,
+        "num": 453488,
+        "word": "哈登",
+        "onboard_time": 1779763221,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 20080,
+        "num": 451973,
+        "word": "德国华人迷奸案主犯实时直播作案",
+        "onboard_time": 1779770544,
+        "rank": 33,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 383990,
+        "num": 448358,
+        "word": "杨丞琳发文恭喜侯卓成杨汝晴",
+        "onboard_time": 1779752239,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 371465,
+        "num": 447109,
+        "word": "严浩翔答辩",
+        "onboard_time": 1779759680,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 364388,
+        "num": 443649,
+        "word": "800多克黄金被扣36年申请国赔被驳回",
+        "onboard_time": 1779764362,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 347539,
+        "num": 441853,
+        "word": "学校已报警将追究造谣者责任",
+        "onboard_time": 1779770063,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 326833,
+        "num": 437682,
+        "word": "工地大哥赊1碗面后连吃100天表谢意",
+        "onboard_time": 1779764422,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19203,
+        "num": 436422,
+        "word": "学生凌晨四点排队抢北京中职名额",
+        "onboard_time": 1779769942,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18357,
+        "num": 434096,
+        "word": "颁授仪式上武契奇喜极而泣",
+        "onboard_time": 1779770544,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 42702,
+        "num": 432154,
+        "word": "离婚被驳13天后女子遭丈夫杀害",
+        "onboard_time": 1779770242,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 366868,
+        "num": 427896,
+        "word": "杨汝晴回复杨丞琳",
+        "onboard_time": 1779759081,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 213802,
+        "num": 425123,
+        "word": "武契奇的眼泪在眼眶中打转",
+        "onboard_time": 1779753800,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1321327,
+        "num": 423658,
+        "word": "王鹤棣粉丝小作文",
+        "onboard_time": 1779767422,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 246131,
+        "num": 420274,
+        "word": "布伦森东决MVP",
+        "onboard_time": 1779767782,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 212825,
+        "num": 419630,
+        "word": "影视飓风是不是中国最酷的公司",
+        "onboard_time": 1779757102,
+        "rank": 46,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 319219,
+        "num": 415285,
+        "word": "在一家公司呆五年的真实感受",
+        "onboard_time": 1779752300,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 312826,
+        "num": 414499,
+        "word": "庾澄庆点赞吐槽歌手言论",
+        "onboard_time": 1779754460,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 302344,
+        "num": 412498,
+        "word": "徐志胜给吴泽林喂饭那一下",
+        "onboard_time": 1779764422,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#近距离看武契奇获颁的友谊勋章#"
+    }
+  }
+}
