@@ -1,6 +1,6 @@
 {
   "startTime": 1779556240361,
-  "endTime": 1779812247216,
+  "endTime": 1779814126389,
   "band_list": [
     {
       "raw_hot": 15283499,
@@ -1675,6 +1675,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 460438,
+      "num": 220778,
+      "word": "薛小婉小号",
+      "onboard_time": 1779812599,
+      "rank": 21,
+      "category": "网红"
+    },
+    {
       "raw_hot": 459207,
       "num": 604645,
       "word": "程涛为白鹿发声",
@@ -1785,6 +1793,14 @@
       "onboard_time": 1779667521,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 427151,
+      "num": 530532,
+      "word": "刘国正采访偏见球迷也不舒服",
+      "onboard_time": 1779810381,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 426196,
@@ -1899,14 +1915,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 409866,
-      "num": 409866,
-      "word": "刘国正采访偏见球迷也不舒服",
-      "onboard_time": 1779810381,
-      "rank": 5,
-      "category": "体育"
-    },
-    {
       "raw_hot": 408762,
       "num": 408762,
       "word": "人真的需要不断流动的",
@@ -1920,6 +1928,14 @@
       "word": "王橹杰高会",
       "onboard_time": 1779638183,
       "rank": 40,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 406946,
+      "num": 293385,
+      "word": "刘亦菲 咸雪",
+      "onboard_time": 1779808882,
+      "rank": 23,
       "category": "艺人"
     },
     {
@@ -1939,8 +1955,16 @@
       "category": "情感"
     },
     {
+      "raw_hot": 405580,
+      "num": 299992,
+      "word": "雷军回应武契奇说小米车漂亮但买不起",
+      "onboard_time": 1779806661,
+      "rank": 15,
+      "category": "国内时政,汽车"
+    },
+    {
       "raw_hot": 404859,
-      "num": 300875,
+      "num": 313998,
       "word": "现发4嘉宾阵容",
       "onboard_time": 1779797961,
       "rank": 10,
@@ -2017,14 +2041,6 @@
       "onboard_time": 1779704900,
       "rank": 22,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 386000,
-      "num": 299992,
-      "word": "雷军回应武契奇说小米车漂亮但买不起",
-      "onboard_time": 1779806661,
-      "rank": 15,
-      "category": "国内时政,汽车"
     },
     {
       "raw_hot": 385218,
@@ -2371,12 +2387,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 321873,
-      "num": 293385,
-      "word": "刘亦菲 咸雪",
-      "onboard_time": 1779808882,
-      "rank": 23,
-      "category": "艺人"
+      "raw_hot": 322004,
+      "num": 322004,
+      "word": "五个女博士被投诉喝了过敏",
+      "onboard_time": 1779807682,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 321350,
@@ -2683,6 +2699,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 280633,
+      "num": 228812,
+      "word": "女子被养2年猫攻击致颅部3级损伤",
+      "onboard_time": 1779810500,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 280313,
       "num": 1294232,
       "word": "洛克王国再次补偿",
@@ -2801,6 +2825,14 @@
       "onboard_time": 1779713361,
       "rank": 47,
       "category": "财经"
+    },
+    {
+      "raw_hot": 270793,
+      "num": 244305,
+      "word": "尔康从缅甸回云南了",
+      "onboard_time": 1779807804,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 269907,
@@ -2963,6 +2995,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 246529,
+      "num": 247657,
+      "word": "巴基斯坦拒绝美国",
+      "onboard_time": 1779810862,
+      "rank": 28,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 246131,
       "num": 456483,
       "word": "布伦森东决MVP",
@@ -2977,14 +3017,6 @@
       "onboard_time": 1779622102,
       "rank": 32,
       "category": "网红"
-    },
-    {
-      "raw_hot": 244305,
-      "num": 244305,
-      "word": "尔康从缅甸回云南了",
-      "onboard_time": 1779807804,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 243352,
@@ -3387,14 +3419,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 210307,
-      "num": 228812,
-      "word": "女子被养2年猫攻击致颅部3级损伤",
-      "onboard_time": 1779810500,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 208767,
       "num": 260692,
       "word": "2026白玉兰奖",
@@ -3553,14 +3577,6 @@
       "onboard_time": 1779682881,
       "rank": 47,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 192559,
-      "num": 247657,
-      "word": "巴基斯坦拒绝美国",
-      "onboard_time": 1779810862,
-      "rank": 28,
-      "category": "国际时政"
     },
     {
       "raw_hot": 192160,
@@ -3820,7 +3836,7 @@
     },
     {
       "raw_hot": 169604,
-      "num": 169604,
+      "num": 183882,
       "word": "黄灿灿发了11张浪姐合照",
       "onboard_time": 1779808642,
       "rank": 42,
@@ -3953,14 +3969,6 @@
       "onboard_time": 1779750318,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 156293,
-      "num": 156293,
-      "word": "五个女博士被投诉喝了过敏",
-      "onboard_time": 1779807682,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 155692,
@@ -4177,6 +4185,14 @@
       "onboard_time": 1779760821,
       "rank": 46,
       "category": "财经"
+    },
+    {
+      "raw_hot": 136590,
+      "num": 136590,
+      "word": "曾沛慈时尚首封",
+      "onboard_time": 1779800183,
+      "rank": 40,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 134692,
@@ -4577,6 +4593,14 @@
       "onboard_time": 1779591802,
       "rank": 17,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 100377,
+      "num": 100377,
+      "word": "小胖在陈伯直播间",
+      "onboard_time": 1779814098,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 99935,

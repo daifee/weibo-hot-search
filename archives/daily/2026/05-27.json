@@ -1,6 +1,6 @@
 {
   "startTime": 1779812247216,
-  "endTime": 1779812247216,
+  "endTime": 1779814126389,
   "band_list": [
     {
       "raw_hot": 3473737,
@@ -83,12 +83,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 460438,
+      "num": 220778,
+      "word": "薛小婉小号",
+      "onboard_time": 1779812599,
+      "rank": 21,
+      "category": "网红"
+    },
+    {
       "raw_hot": 444576,
       "num": 738720,
       "word": "武契奇夫人试穿旗袍直呼太喜欢了",
       "onboard_time": 1779802942,
       "rank": 1,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 427151,
+      "num": 530532,
+      "word": "刘国正采访偏见球迷也不舒服",
+      "onboard_time": 1779810381,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 415360,
@@ -107,14 +123,6 @@
       "category": "财经,汽车"
     },
     {
-      "raw_hot": 409866,
-      "num": 409866,
-      "word": "刘国正采访偏见球迷也不舒服",
-      "onboard_time": 1779810381,
-      "rank": 5,
-      "category": "体育"
-    },
-    {
       "raw_hot": 408762,
       "num": 408762,
       "word": "人真的需要不断流动的",
@@ -123,20 +131,28 @@
       "category": "情感"
     },
     {
-      "raw_hot": 404859,
-      "num": 300875,
-      "word": "现发4嘉宾阵容",
-      "onboard_time": 1779797961,
-      "rank": 10,
-      "category": "综艺"
+      "raw_hot": 406946,
+      "num": 293385,
+      "word": "刘亦菲 咸雪",
+      "onboard_time": 1779808882,
+      "rank": 23,
+      "category": "艺人"
     },
     {
-      "raw_hot": 386000,
+      "raw_hot": 405580,
       "num": 299992,
       "word": "雷军回应武契奇说小米车漂亮但买不起",
       "onboard_time": 1779806661,
       "rank": 15,
       "category": "国内时政,汽车"
+    },
+    {
+      "raw_hot": 404859,
+      "num": 313998,
+      "word": "现发4嘉宾阵容",
+      "onboard_time": 1779797961,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 370295,
@@ -163,12 +179,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 321873,
-      "num": 293385,
-      "word": "刘亦菲 咸雪",
-      "onboard_time": 1779808882,
-      "rank": 23,
-      "category": "艺人"
+      "raw_hot": 322004,
+      "num": 322004,
+      "word": "五个女博士被投诉喝了过敏",
+      "onboard_time": 1779807682,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 301047,
@@ -219,12 +235,28 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 244305,
+      "raw_hot": 280633,
+      "num": 228812,
+      "word": "女子被养2年猫攻击致颅部3级损伤",
+      "onboard_time": 1779810500,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 270793,
       "num": 244305,
       "word": "尔康从缅甸回云南了",
       "onboard_time": 1779807804,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 246529,
+      "num": 247657,
+      "word": "巴基斯坦拒绝美国",
+      "onboard_time": 1779810862,
+      "rank": 28,
+      "category": "国际时政"
     },
     {
       "raw_hot": 240831,
@@ -259,28 +291,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 210307,
-      "num": 228812,
-      "word": "女子被养2年猫攻击致颅部3级损伤",
-      "onboard_time": 1779810500,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 200427,
       "num": 180988,
       "word": "内娱演员白玉兰奖首提年龄",
       "onboard_time": 1779804263,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 192559,
-      "num": 247657,
-      "word": "巴基斯坦拒绝美国",
-      "onboard_time": 1779810862,
-      "rank": 28,
-      "category": "国际时政"
     },
     {
       "raw_hot": 181525,
@@ -316,7 +332,7 @@
     },
     {
       "raw_hot": 169604,
-      "num": 169604,
+      "num": 183882,
       "word": "黄灿灿发了11张浪姐合照",
       "onboard_time": 1779808642,
       "rank": 42,
@@ -347,20 +363,20 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 156293,
-      "num": 156293,
-      "word": "五个女博士被投诉喝了过敏",
-      "onboard_time": 1779807682,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 147776,
       "num": 147776,
       "word": "武契奇在小米工厂下单了",
       "onboard_time": 1779811521,
       "rank": 47,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 136590,
+      "num": 136590,
+      "word": "曾沛慈时尚首封",
+      "onboard_time": 1779800183,
+      "rank": 40,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 133915,
@@ -375,6 +391,14 @@
       "num": 145189,
       "word": "WBG出征2026EWC电竞世俱杯",
       "onboard_time": 1779803183,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 100377,
+      "num": 100377,
+      "word": "小胖在陈伯直播间",
+      "onboard_time": 1779814098,
       "rank": 48,
       "category": "电竞"
     },
@@ -406,6 +430,9 @@
   "hotgov_list": [
     {
       "word": "#这枚勋章见证中塞铁杆友谊#"
+    },
+    {
+      "word": "#近距离看武契奇获颁的友谊勋章#"
     }
   ]
 }
