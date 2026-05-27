@@ -1,0 +1,410 @@
+{
+  "runTime": 1779924509919,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 546366,
+        "num": 831324,
+        "word": "给阿嬷的情书",
+        "onboard_time": 1779914534,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 436765,
+        "num": 584481,
+        "word": "外国网红中国搭便车的视频火到国外",
+        "onboard_time": 1779896361,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 10606,
+        "num": 584247,
+        "word": "优质网络主播中国行天津行",
+        "onboard_time": 1779886521,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 729888,
+        "num": 581371,
+        "word": "男子连吃半个月香蕉补钾进了ICU",
+        "onboard_time": 1779895522,
+        "rank": 3,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 683593,
+        "num": 578359,
+        "word": "杨紫韩东君真的拍了落地签",
+        "onboard_time": 1779898220,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 606507,
+        "num": 575718,
+        "word": "王鹤棣不舒服只是迟到的自我保护",
+        "onboard_time": 1779888801,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 64719,
+        "num": 571049,
+        "word": "莱巴金娜法网爆冷出局",
+        "onboard_time": 1779902176,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 7359,
+        "num": 568129,
+        "word": "唱歌变声器",
+        "onboard_time": 1779924438,
+        "rank": 7,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 393202,
+        "num": 565026,
+        "word": "女教师打伞事件双方并非父女",
+        "onboard_time": 1779884122,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 387433,
+        "num": 562697,
+        "word": "美国伊朗开始爆发直接冲突",
+        "onboard_time": 1779924378,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 978191,
+        "num": 559623,
+        "word": "林俊杰删掉大哥大嫂合照",
+        "onboard_time": 1779896179,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 386715,
+        "num": 557915,
+        "word": "女记者暗访代孕窝点被打骨折",
+        "onboard_time": 1779892342,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 310739,
+        "num": 553217,
+        "word": "南方暴雨或最终影响所有人",
+        "onboard_time": 1779898341,
+        "rank": 12,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 274499,
+        "num": 551549,
+        "word": "失去报刊亭的故事会 一生被毁了",
+        "onboard_time": 1779910574,
+        "rank": 13,
+        "category": "读书作家,幽默"
+      },
+      {
+        "raw_hot": 259876,
+        "num": 548955,
+        "word": "刘宇宁说王玉雯跳出体弱多病的感觉",
+        "onboard_time": 1779891023,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199986,
+        "num": 545551,
+        "word": "男子拐走网红边牧180元转卖宰杀",
+        "onboard_time": 1779895222,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 195781,
+        "num": 541619,
+        "word": "南部战区回应荷兰军舰侵闯",
+        "onboard_time": 1779889761,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 185608,
+        "num": 538991,
+        "word": "两儿子非亲生案大儿子拒绝亲子鉴定",
+        "onboard_time": 1779884840,
+        "rank": 17,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 26485,
+        "num": 536150,
+        "word": "陈伯狙击赛",
+        "onboard_time": 1779923717,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 174671,
+        "num": 534147,
+        "word": "四川彩民18元中2576万元大奖",
+        "onboard_time": 1779897740,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 314427,
+        "num": 530493,
+        "word": "杭州非法代孕窝点现场曝光",
+        "onboard_time": 1779879920,
+        "rank": 20,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 193883,
+        "num": 529966,
+        "word": "25岁小伙恋32岁女老板因88万彩礼分手",
+        "onboard_time": 1779888561,
+        "rank": 21,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 174188,
+        "num": 524896,
+        "word": "全世界最容易撞衫的地方就是大学",
+        "onboard_time": 1779921856,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 166716,
+        "num": 522687,
+        "word": "肖战捂胸口受伤路透",
+        "onboard_time": 1779897561,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157193,
+        "num": 520727,
+        "word": "颜颜为李嘉凯发声",
+        "onboard_time": 1779893061,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142963,
+        "num": 516590,
+        "word": "店家是不是对小菜有什么误解",
+        "onboard_time": 1779880701,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 110058,
+        "num": 515401,
+        "word": "4分钟黄金凯格尔运动",
+        "onboard_time": 1779894562,
+        "rank": 26,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 21295,
+        "num": 510132,
+        "word": "黄晓明萧敬腾是向太干儿子",
+        "onboard_time": 1779924021,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91194,
+        "num": 509390,
+        "word": "忆秦娥给刘红兵下药",
+        "onboard_time": 1779921255,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 86445,
+        "num": 506171,
+        "word": "耀眼人物关系图",
+        "onboard_time": 1779914173,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 63471,
+        "num": 503179,
+        "word": "50万买蔚来还是买宝马",
+        "onboard_time": 1779894082,
+        "rank": 30,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 85880,
+        "num": 500325,
+        "word": "金靖有了张凌赫忘了丁程鑫",
+        "onboard_time": 1779877400,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 75695,
+        "num": 498143,
+        "word": "将门独后 综艺",
+        "onboard_time": 1779891142,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16844,
+        "num": 494545,
+        "word": "内马尔回应腿伤",
+        "onboard_time": 1779923477,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 74529,
+        "num": 491567,
+        "word": "鞠婧祎看见粉丝cos露芜衣的表情",
+        "onboard_time": 1779901217,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 71093,
+        "num": 488404,
+        "word": "戴军说跟李静差点睡一起了",
+        "onboard_time": 1779922818,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 60860,
+        "num": 485370,
+        "word": "金银油集体大跌",
+        "onboard_time": 1779883641,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 67758,
+        "num": 481523,
+        "word": "刘宇宁粉丝不舒服了",
+        "onboard_time": 1779884601,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 64841,
+        "num": 478716,
+        "word": "蔡康永 你知道TFBOYS现在有多红吗",
+        "onboard_time": 1779889341,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 60188,
+        "num": 477836,
+        "word": "打个伞 怎么了",
+        "onboard_time": 1779890002,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 59512,
+        "num": 475033,
+        "word": "张凌赫王玉雯演爽了",
+        "onboard_time": 1779883761,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 57927,
+        "num": 471090,
+        "word": "家业云包场乱成一锅粥了",
+        "onboard_time": 1779888982,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 56109,
+        "num": 467615,
+        "word": "记者曝光地下代孕实验室遭拖拽骨折",
+        "onboard_time": 1779881961,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 56656,
+        "num": 464730,
+        "word": "金高银 淡极生艳",
+        "onboard_time": 1779877639,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 54654,
+        "num": 463781,
+        "word": "林俊杰",
+        "onboard_time": 1779895881,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 51826,
+        "num": 460157,
+        "word": "蔚来ES9",
+        "onboard_time": 1779889521,
+        "rank": 45,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 50669,
+        "num": 457480,
+        "word": "男子脑梗女友想结婚被男方亲属拒绝",
+        "onboard_time": 1779892761,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 45590,
+        "num": 452969,
+        "word": "耀眼",
+        "onboard_time": 1779878539,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 43751,
+        "num": 452036,
+        "word": "女教师打伞事件男子系退休返聘教师",
+        "onboard_time": 1779913994,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 43419,
+        "num": 449384,
+        "word": "曾沛慈直播",
+        "onboard_time": 1779887721,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#中塞携手走出一条光明大道#"
+    }
+  }
+}
