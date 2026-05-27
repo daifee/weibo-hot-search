@@ -1,0 +1,410 @@
+{
+  "runTime": 1779864426529,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 880790,
+        "num": 1140926,
+        "word": "李昀锐半裸这段只有关晓彤没看到",
+        "onboard_time": 1779857301,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 710414,
+        "num": 847443,
+        "word": "金耳环 怎么了",
+        "onboard_time": 1779859040,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 67114,
+        "num": 759291,
+        "word": "暴雨强对流2预警齐发",
+        "onboard_time": 1779854842,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1394849,
+        "num": 754243,
+        "word": "张凌赫王玉雯有情人终成兄妹",
+        "onboard_time": 1779859521,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 949045,
+        "num": 750680,
+        "word": "不要在吹头的时候和别人聊天",
+        "onboard_time": 1779852981,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 746075,
+        "num": 746075,
+        "word": "外卖订书钉什么时候可以灭绝",
+        "onboard_time": 1779853640,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 462968,
+        "num": 462968,
+        "word": "空调并不是开26度最省电",
+        "onboard_time": 1779847041,
+        "rank": 6,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 353341,
+        "num": 460758,
+        "word": "亚运会",
+        "onboard_time": 1779861019,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 267684,
+        "num": 458131,
+        "word": "黄仁勋称AI时代学什么专业并不重要",
+        "onboard_time": 1779858021,
+        "rank": 8,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 166957,
+        "num": 449131,
+        "word": "多家AI回应高考期间是否禁用解题",
+        "onboard_time": 1779852799,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 3581072,
+        "num": 445234,
+        "word": "沈月曾自曝和王鹤棣打得飞起",
+        "onboard_time": 1779861321,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1140133,
+        "num": 442878,
+        "word": "Jennie新歌歌词惹争议",
+        "onboard_time": 1779854061,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 869386,
+        "num": 435903,
+        "word": "户口以后没那么重要了",
+        "onboard_time": 1779862520,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 782169,
+        "num": 434626,
+        "word": "曝崔雪莉金赛纶医生刺激患者极端选择",
+        "onboard_time": 1779854721,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 635725,
+        "num": 428559,
+        "word": "国台办回应林志玲辞去文策院职务",
+        "onboard_time": 1779854540,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 996075,
+        "num": 424688,
+        "word": "王鹤棣家炸串店现状",
+        "onboard_time": 1779860241,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 526480,
+        "num": 418480,
+        "word": "娜扎美成神仙了",
+        "onboard_time": 1779856102,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 496478,
+        "num": 411934,
+        "word": "A股",
+        "onboard_time": 1779848960,
+        "rank": 17,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 282413,
+        "num": 408703,
+        "word": "雷霆马刺裁判连续误判",
+        "onboard_time": 1779855620,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 406992,
+        "num": 406992,
+        "word": "女教师给父亲打伞为何被造谣",
+        "onboard_time": 1779842122,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 440526,
+        "num": 404256,
+        "word": "确认出席VOGUE活动的艺人",
+        "onboard_time": 1779852139,
+        "rank": 20,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 30982,
+        "num": 398209,
+        "word": "拜登起诉美国司法部",
+        "onboard_time": 1779863839,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 395487,
+        "num": 395487,
+        "word": "VOGUE九寨沟活动",
+        "onboard_time": 1779859280,
+        "rank": 22,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 394990,
+        "num": 394990,
+        "word": "沈月在桃花坞终于舒服了",
+        "onboard_time": 1779855320,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 392385,
+        "num": 392385,
+        "word": "撞脸王祖贤女孩瘦下来了",
+        "onboard_time": 1779853461,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 295179,
+        "num": 366091,
+        "word": "女孩被骗陷入花场离开需缴3万元",
+        "onboard_time": 1779859641,
+        "rank": 25,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 353529,
+        "num": 353529,
+        "word": "白玉兰最佳男主角入围作品台词切片",
+        "onboard_time": 1779859821,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 340718,
+        "num": 340718,
+        "word": "白鹿在客栈为吴泽林说话",
+        "onboard_time": 1779862639,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 282989,
+        "num": 282989,
+        "word": "VogueVacation官宣阵容",
+        "onboard_time": 1779863000,
+        "rank": 28,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 78348,
+        "num": 279361,
+        "word": "乌兰图雅望北京的含金量还在上升",
+        "onboard_time": 1779862580,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15559,
+        "num": 278917,
+        "word": "承诺买房送等额50万元黄金未兑现",
+        "onboard_time": 1779864260,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 453682,
+        "num": 278825,
+        "word": "丁程鑫叫张凌赫姐夫",
+        "onboard_time": 1779858202,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 278484,
+        "num": 278484,
+        "word": "武契奇夫人在上海买买买",
+        "onboard_time": 1779859761,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 271828,
+        "num": 271828,
+        "word": "鞠婧祎 猪塑",
+        "onboard_time": 1779857362,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 257018,
+        "num": 257018,
+        "word": "歌手",
+        "onboard_time": 1779861921,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 252720,
+        "num": 252720,
+        "word": "隐形旅游成本",
+        "onboard_time": 1779860481,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 245354,
+        "num": 245354,
+        "word": "A股新股中一签大赚近30万",
+        "onboard_time": 1779857120,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 240647,
+        "num": 240647,
+        "word": "万花世界阵容",
+        "onboard_time": 1779856942,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 235848,
+        "num": 235848,
+        "word": "近视眼中的世界太真实了",
+        "onboard_time": 1779863901,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 206423,
+        "num": 206423,
+        "word": "韩国股市涨到熔断",
+        "onboard_time": 1779848300,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 27065,
+        "num": 206003,
+        "word": "帮肖战跟十日终焉请假",
+        "onboard_time": 1779863901,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205827,
+        "num": 205827,
+        "word": "赵丽颖仅差白玉兰就大满贯",
+        "onboard_time": 1779859400,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 195626,
+        "num": 205410,
+        "word": "真正的毕业胸花",
+        "onboard_time": 1779851119,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 205306,
+        "num": 205306,
+        "word": "aespa回归预告",
+        "onboard_time": 1779864260,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203472,
+        "num": 203472,
+        "word": "云包场",
+        "onboard_time": 1779856821,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 127448,
+        "num": 202010,
+        "word": "Scout回应用中文客户端",
+        "onboard_time": 1779856640,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 120828,
+        "num": 200221,
+        "word": "姚明代言蔚来ES9",
+        "onboard_time": 1779858141,
+        "rank": 46,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 111480,
+        "num": 199585,
+        "word": "雷霆3比2马刺",
+        "onboard_time": 1779852501,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 61524,
+        "num": 198072,
+        "word": "终于知道怎么拍照没色差了",
+        "onboard_time": 1779845119,
+        "rank": 48,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 196779,
+        "num": 196779,
+        "word": "上帝到底关了李思潼哪扇窗",
+        "onboard_time": 1779855982,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主席谈中塞友谊#"
+    }
+  }
+}
