@@ -1,6 +1,6 @@
 {
   "startTime": 1779900200352,
-  "endTime": 1779919420713,
+  "endTime": 1779922691326,
   "band_list": [
     {
       "raw_hot": 2648827,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1274192,
-      "num": 420984,
+      "num": 435979,
       "word": "王鹤棣不舒服只是迟到的自我保护",
       "onboard_time": 1779888801,
       "rank": 3,
@@ -51,6 +51,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 570326,
+      "num": 437817,
+      "word": "杨紫韩东君真的拍了落地签",
+      "onboard_time": 1779898220,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 568313,
       "num": 292140,
       "word": "沈月曾自曝和王鹤棣打得飞起",
@@ -65,14 +73,6 @@
       "onboard_time": 1779883761,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 529065,
-      "num": 277788,
-      "word": "杨紫韩东君真的拍了落地签",
-      "onboard_time": 1779898220,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 499235,
@@ -99,8 +99,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 444950,
-      "num": 391960,
+      "raw_hot": 464530,
+      "num": 437674,
       "word": "男子连吃半个月香蕉补钾进了ICU",
       "onboard_time": 1779895522,
       "rank": 4,
@@ -131,6 +131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 360158,
+      "num": 601531,
+      "word": "给阿嬷的情书",
+      "onboard_time": 1779914534,
+      "rank": 0,
+      "category": "电影"
+    },
+    {
       "raw_hot": 350037,
       "num": 243959,
       "word": "关晓彤剧宣人脉",
@@ -155,8 +163,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 314392,
-      "num": 314392,
+      "raw_hot": 315847,
+      "num": 449798,
       "word": "外国网红中国搭便车的视频火到国外",
       "onboard_time": 1779896361,
       "rank": 7,
@@ -187,7 +195,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 220811,
+      "raw_hot": 225860,
       "num": 237743,
       "word": "刘宇宁说王玉雯跳出体弱多病的感觉",
       "onboard_time": 1779891023,
@@ -209,6 +217,14 @@
       "onboard_time": 1779888982,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 213394,
+      "num": 238860,
+      "word": "南方暴雨或最终影响所有人",
+      "onboard_time": 1779898341,
+      "rank": 32,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 212804,
@@ -235,12 +251,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 204923,
-      "num": 238860,
-      "word": "南方暴雨或最终影响所有人",
-      "onboard_time": 1779898341,
-      "rank": 32,
-      "category": "突发/灾害"
+      "raw_hot": 197630,
+      "num": 197630,
+      "word": "失去报刊亭的故事会 一生被毁了",
+      "onboard_time": 1779910574,
+      "rank": 5,
+      "category": "读书作家,幽默"
     },
     {
       "raw_hot": 190844,
@@ -267,14 +283,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 145165,
-      "num": 285882,
-      "word": "给阿嬷的情书",
-      "onboard_time": 1779914534,
-      "rank": 0,
-      "category": "电影"
-    },
-    {
       "raw_hot": 142901,
       "num": 235822,
       "word": "张凌赫王玉雯演爽了",
@@ -299,7 +307,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 138759,
+      "raw_hot": 140036,
       "num": 239245,
       "word": "四川彩民18元中2576万元大奖",
       "onboard_time": 1779897740,
@@ -355,20 +363,20 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 115321,
+      "num": 236004,
+      "word": "男子拐走网红边牧180元转卖宰杀",
+      "onboard_time": 1779895222,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 107264,
       "num": 233597,
       "word": "两儿子非亲生案大儿子拒绝亲子鉴定",
       "onboard_time": 1779884840,
       "rank": 44,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 98655,
-      "num": 98655,
-      "word": "失去报刊亭的故事会 一生被毁了",
-      "onboard_time": 1779910574,
-      "rank": 5,
-      "category": "读书作家,幽默"
     },
     {
       "raw_hot": 97939,
@@ -403,6 +411,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 85795,
+      "num": 236961,
+      "word": "身体这个部位莫名疼痛千万别不当回事",
+      "onboard_time": 1779901217,
+      "rank": 26,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 74957,
       "num": 240000,
       "word": "莱巴金娜法网爆冷出局",
@@ -411,12 +427,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 70495,
-      "num": 236961,
-      "word": "身体这个部位莫名疼痛千万别不当回事",
-      "onboard_time": 1779901217,
-      "rank": 26,
-      "category": "健康医疗"
+      "raw_hot": 73898,
+      "num": 234970,
+      "word": "金靖有了张凌赫忘了丁程鑫",
+      "onboard_time": 1779877400,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 69225,
@@ -427,12 +443,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 67236,
-      "num": 236004,
-      "word": "男子拐走网红边牧180元转卖宰杀",
-      "onboard_time": 1779895222,
-      "rank": 31,
-      "category": "民生新闻"
+      "raw_hot": 67688,
+      "num": 53107,
+      "word": "耀眼人物关系图",
+      "onboard_time": 1779914173,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 66601,
+      "num": 234726,
+      "word": "4分钟黄金凯格尔运动",
+      "onboard_time": 1779894562,
+      "rank": 38,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 63804,
+      "num": 234604,
+      "word": "刘宇宁粉丝不舒服了",
+      "onboard_time": 1779884601,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 55896,
@@ -451,36 +483,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 49065,
-      "num": 234970,
-      "word": "金靖有了张凌赫忘了丁程鑫",
-      "onboard_time": 1779877400,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 48781,
-      "num": 234726,
-      "word": "4分钟黄金凯格尔运动",
-      "onboard_time": 1779894562,
-      "rank": 38,
-      "category": "运动健身"
-    },
-    {
-      "raw_hot": 48527,
-      "num": 234604,
-      "word": "刘宇宁粉丝不舒服了",
-      "onboard_time": 1779884601,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 48167,
-      "num": 27093,
-      "word": "耀眼人物关系图",
-      "onboard_time": 1779914173,
-      "rank": 30,
-      "category": "剧集"
+      "raw_hot": 50713,
+      "num": 53147,
+      "word": "全世界最容易撞衫的地方就是大学",
+      "onboard_time": 1779921856,
+      "rank": 27,
+      "category": "幽默"
     },
     {
       "raw_hot": 36423,
@@ -507,6 +515,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 35268,
+      "num": 52993,
+      "word": "忆秦娥给刘红兵下药",
+      "onboard_time": 1779921255,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 34816,
       "num": 236303,
       "word": "户口以后没那么重要了",
@@ -523,8 +539,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 31163,
-      "num": 31163,
+      "raw_hot": 34013,
+      "num": 52952,
       "word": "女教师打伞事件男子系退休返聘教师",
       "onboard_time": 1779913994,
       "rank": 25,
@@ -556,7 +572,7 @@
     },
     {
       "raw_hot": 13716,
-      "num": 427709,
+      "num": 439625,
       "word": "优质网络主播中国行天津行",
       "onboard_time": 1779886521,
       "rank": 2,
