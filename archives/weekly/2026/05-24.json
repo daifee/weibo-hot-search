@@ -1,6 +1,6 @@
 {
   "startTime": 1779556240361,
-  "endTime": 1779914115226,
+  "endTime": 1779919420713,
   "band_list": [
     {
       "raw_hot": 15283499,
@@ -5643,6 +5643,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 145165,
+      "num": 285882,
+      "word": "给阿嬷的情书",
+      "onboard_time": 1779914534,
+      "rank": 0,
+      "category": "电影"
+    },
+    {
       "raw_hot": 145109,
       "num": 139876,
       "word": "网红主播把假一赔万当成口号",
@@ -6307,6 +6315,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 98655,
+      "num": 98655,
+      "word": "失去报刊亭的故事会 一生被毁了",
+      "onboard_time": 1779910574,
+      "rank": 5,
+      "category": "读书作家,幽默"
+    },
+    {
       "raw_hot": 98130,
       "num": 539281,
       "word": "乌兰图雅回应",
@@ -6537,14 +6553,6 @@
       "onboard_time": 1779890843,
       "rank": 14,
       "category": "艺人,数码"
-    },
-    {
-      "raw_hot": 81654,
-      "num": 63642,
-      "word": "失去报刊亭的故事会 一生被毁了",
-      "onboard_time": 1779910574,
-      "rank": 5,
-      "category": "读书作家,幽默"
     },
     {
       "raw_hot": 81295,
@@ -6835,6 +6843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 67236,
+      "num": 236004,
+      "word": "男子拐走网红边牧180元转卖宰杀",
+      "onboard_time": 1779895222,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 67114,
       "num": 959159,
       "word": "暴雨强对流2预警齐发",
@@ -6985,14 +7001,6 @@
       "onboard_time": 1779783622,
       "rank": 41,
       "category": "数码"
-    },
-    {
-      "raw_hot": 59500,
-      "num": 236004,
-      "word": "男子拐走网红边牧180元转卖宰杀",
-      "onboard_time": 1779895222,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 57788,
@@ -7169,6 +7177,14 @@
       "onboard_time": 1779745994,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 48167,
+      "num": 27093,
+      "word": "耀眼人物关系图",
+      "onboard_time": 1779914173,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 48039,
@@ -7563,6 +7579,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 31163,
+      "num": 31163,
+      "word": "女教师打伞事件男子系退休返聘教师",
+      "onboard_time": 1779913994,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 31070,
       "num": 570766,
       "word": "针对重庆启动国家四级救灾应急响应",
@@ -7811,6 +7835,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 18804,
+      "num": 24362,
+      "word": "国乐无双",
+      "onboard_time": 1779910994,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 18700,
       "num": 153039,
       "word": "上海男篮总决赛开门红",
@@ -7857,14 +7889,6 @@
       "onboard_time": 1779684142,
       "rank": 46,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 17964,
-      "num": 23486,
-      "word": "国乐无双",
-      "onboard_time": 1779910994,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 17309,
