@@ -1,0 +1,410 @@
+{
+  "runTime": 1779845737189,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1492038,
+        "num": 1492038,
+        "word": "网红捐1047万其中1千万由粉丝捐出",
+        "onboard_time": 1779837257,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1221868,
+        "num": 1221868,
+        "word": "张雪机车回复余华",
+        "onboard_time": 1779838518,
+        "rank": 1,
+        "category": "民生新闻,体育"
+      },
+      {
+        "raw_hot": 27269,
+        "num": 834492,
+        "word": "多地和降雨赛跑全力保粮",
+        "onboard_time": 1779801081,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 795614,
+        "num": 795614,
+        "word": "五个女博士被投诉喝了过敏",
+        "onboard_time": 1779807682,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 414178,
+        "num": 414178,
+        "word": "钎城官宣演唱会",
+        "onboard_time": 1779840201,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 381309,
+        "num": 381309,
+        "word": "对接回应肖战入围白玉兰",
+        "onboard_time": 1779840320,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 357972,
+        "num": 380745,
+        "word": "杨紫白玉兰视后三连提",
+        "onboard_time": 1779839840,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106136,
+        "num": 379012,
+        "word": "马刺雷霆天王山之战",
+        "onboard_time": 1779844940,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 687012,
+        "num": 375871,
+        "word": "雷军回应武契奇说小米车漂亮但买不起",
+        "onboard_time": 1779806661,
+        "rank": 8,
+        "category": "国内时政,汽车"
+      },
+      {
+        "raw_hot": 816221,
+        "num": 375552,
+        "word": "女教师给父亲打伞为何被造谣",
+        "onboard_time": 1779842122,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2625275,
+        "num": 372585,
+        "word": "网友去王鹤棣家炸串店玩梗我不舒服",
+        "onboard_time": 1779844281,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 44272,
+        "num": 370913,
+        "word": "间谍伪装成婚纱摄影师偷拍军港",
+        "onboard_time": 1779845000,
+        "rank": 11,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 230369,
+        "num": 368938,
+        "word": "SK海力士市值突破1万亿美元",
+        "onboard_time": 1779844701,
+        "rank": 12,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 165971,
+        "num": 368289,
+        "word": "李嘉凯 张笑颜",
+        "onboard_time": 1779844220,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117193,
+        "num": 366415,
+        "word": "小米MiMo模型API降价",
+        "onboard_time": 1779843140,
+        "rank": 14,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 1269328,
+        "num": 363213,
+        "word": "王鹤棣父亲回应店铺遭多条差评",
+        "onboard_time": 1779798381,
+        "rank": 15,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 817921,
+        "num": 361412,
+        "word": "曾沛慈急性咽喉炎和鼻炎",
+        "onboard_time": 1779841941,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105073,
+        "num": 359439,
+        "word": "花果山私宅成打卡点村干部发声",
+        "onboard_time": 1779844940,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 45139,
+        "num": 358532,
+        "word": "男子血压高辅导完作业血管堵了99%",
+        "onboard_time": 1779844940,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 78136,
+        "num": 355957,
+        "word": "教育局回应小学女生遭多名同学霸凌",
+        "onboard_time": 1779844940,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 79524,
+        "num": 353803,
+        "word": "NBA",
+        "onboard_time": 1779845480,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1199080,
+        "num": 353114,
+        "word": "任素汐爆冷提名白玉兰",
+        "onboard_time": 1779839360,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 809592,
+        "num": 351085,
+        "word": "曝郑恺缺席跑男宣传当天心事重重",
+        "onboard_time": 1779839659,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 766411,
+        "num": 349714,
+        "word": "男子自认为妻子已死怕担责扔妻下土崖",
+        "onboard_time": 1779840681,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 712684,
+        "num": 348028,
+        "word": "容易焦虑的人都有一个共性",
+        "onboard_time": 1779839360,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 590320,
+        "num": 344689,
+        "word": "JDG小北 虐猫梗",
+        "onboard_time": 1779839478,
+        "rank": 25,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 576617,
+        "num": 342971,
+        "word": "官方回应扔吸管女子被指系小学老师",
+        "onboard_time": 1779839360,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158266,
+        "num": 342001,
+        "word": "万花世界",
+        "onboard_time": 1779843382,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 75905,
+        "num": 339421,
+        "word": "美光科技大涨超19%",
+        "onboard_time": 1779843020,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 507395,
+        "num": 338122,
+        "word": "以防你不知道鹦鹉的体温有多高",
+        "onboard_time": 1779842601,
+        "rank": 29,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 466947,
+        "num": 336844,
+        "word": "女子被养2年猫攻击致颅部3级损伤",
+        "onboard_time": 1779810500,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 423939,
+        "num": 334637,
+        "word": "于正回复余华",
+        "onboard_time": 1779810141,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 411537,
+        "num": 332692,
+        "word": "联想集团涨疯了",
+        "onboard_time": 1779839840,
+        "rank": 32,
+        "category": "财经,互联网"
+      },
+      {
+        "raw_hot": 376670,
+        "num": 330689,
+        "word": "濮阳地震",
+        "onboard_time": 1779837199,
+        "rank": 33,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 355790,
+        "num": 328989,
+        "word": "聊天记录 十二生肖挑战",
+        "onboard_time": 1779843321,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 332840,
+        "num": 326304,
+        "word": "村民违规间种小麦31.7亩被刑拘",
+        "onboard_time": 1779837257,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 266790,
+        "num": 325836,
+        "word": "出轨90后生双胞胎丈夫称未想过离婚",
+        "onboard_time": 1779842601,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 249898,
+        "num": 323987,
+        "word": "老祖宗在造词这块还是太权威了",
+        "onboard_time": 1779841461,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 243913,
+        "num": 321886,
+        "word": "给阿嬷的情书 成本",
+        "onboard_time": 1779826874,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 234751,
+        "num": 319090,
+        "word": "李登科回应娜扎张云龙恋情传闻",
+        "onboard_time": 1779843621,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 223559,
+        "num": 317526,
+        "word": "我运气好因为我一直在往前走",
+        "onboard_time": 1779814818,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 232481,
+        "num": 317002,
+        "word": "刘亦菲 咸雪",
+        "onboard_time": 1779808882,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 218786,
+        "num": 313504,
+        "word": "钟铉雪莉荷拉赛纶的心理医生",
+        "onboard_time": 1779802702,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 212658,
+        "num": 312284,
+        "word": "武契奇在小米工厂下单了",
+        "onboard_time": 1779811521,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 191053,
+        "num": 310286,
+        "word": "姜太显撞脸宋威龙",
+        "onboard_time": 1779806605,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124947,
+        "num": 309092,
+        "word": "恰逢春",
+        "onboard_time": 1779840501,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 59978,
+        "num": 306905,
+        "word": "终于知道怎么拍照没色差了",
+        "onboard_time": 1779845119,
+        "rank": 46,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 72670,
+        "num": 305776,
+        "word": "曾沛慈发了3遍苦尽甘来",
+        "onboard_time": 1779845719,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 53038,
+        "num": 303947,
+        "word": "罗永浩回复余华",
+        "onboard_time": 1779844640,
+        "rank": 48,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 161893,
+        "num": 301372,
+        "word": "于正说我挺舒服的",
+        "onboard_time": 1779842181,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主席谈中塞友谊#"
+    }
+  }
+}
