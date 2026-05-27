@@ -1,6 +1,6 @@
 {
   "startTime": 1779556240361,
-  "endTime": 1779892785293,
+  "endTime": 1779900200352,
   "band_list": [
     {
       "raw_hot": 15283499,
@@ -153,6 +153,14 @@
       "onboard_time": 1779867141,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2648827,
+      "num": 252228,
+      "word": "林俊杰删掉大哥大嫂合照",
+      "onboard_time": 1779896179,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 2634907,
@@ -635,6 +643,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1274192,
+      "num": 420984,
+      "word": "王鹤棣不舒服只是迟到的自我保护",
+      "onboard_time": 1779888801,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1267199,
+      "num": 1016493,
+      "word": "杭州非法代孕窝点现场曝光",
+      "onboard_time": 1779879920,
+      "rank": 3,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 1263377,
       "num": 1263377,
       "word": "两个淡人生了个浓人宝宝",
@@ -851,6 +875,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1073140,
+      "num": 357313,
+      "word": "颜颜为李嘉凯发声",
+      "onboard_time": 1779893061,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1042401,
       "num": 457488,
       "word": "演员的脸到底有多小",
@@ -921,14 +953,6 @@
       "onboard_time": 1779778640,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1016493,
-      "num": 1016493,
-      "word": "杭州非法代孕窝点现场曝光",
-      "onboard_time": 1779879920,
-      "rank": 3,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 1016279,
@@ -1764,7 +1788,7 @@
     },
     {
       "raw_hot": 605928,
-      "num": 278437,
+      "num": 567053,
       "word": "将门独后 综艺",
       "onboard_time": 1779891142,
       "rank": 22,
@@ -2019,6 +2043,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 529065,
+      "num": 277788,
+      "word": "杨紫韩东君真的拍了落地签",
+      "onboard_time": 1779898220,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 528304,
       "num": 930524,
       "word": "谢娜主持能力",
@@ -2115,6 +2147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 499235,
+      "num": 245700,
+      "word": "林俊杰",
+      "onboard_time": 1779895881,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 498901,
       "num": 459980,
       "word": "地球online遇到史前大危机",
@@ -2145,14 +2185,6 @@
       "onboard_time": 1779616342,
       "rank": 17,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 490893,
-      "num": 269343,
-      "word": "王鹤棣不舒服只是迟到的自我保护",
-      "onboard_time": 1779888801,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 489744,
@@ -2395,6 +2427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 444950,
+      "num": 391960,
+      "word": "男子连吃半个月香蕉补钾进了ICU",
+      "onboard_time": 1779895522,
+      "rank": 4,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 444576,
       "num": 738720,
       "word": "武契奇夫人试穿旗袍直呼太喜欢了",
@@ -2417,6 +2457,14 @@
       "onboard_time": 1779628344,
       "rank": 9,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 436683,
+      "num": 264998,
+      "word": "肖战捂胸口受伤路透",
+      "onboard_time": 1779897561,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 432284,
@@ -3163,6 +3211,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 341374,
+      "num": 285491,
+      "word": "女记者暗访代孕窝点被打骨折",
+      "onboard_time": 1779892342,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 340718,
       "num": 340718,
       "word": "白鹿在客栈为吴泽林说话",
@@ -3361,6 +3417,14 @@
       "onboard_time": 1779546325,
       "rank": 9,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 314392,
+      "num": 314392,
+      "word": "外国网红中国搭便车的视频火到国外",
+      "onboard_time": 1779896361,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 313972,
@@ -4179,6 +4243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 241898,
+      "num": 241898,
+      "word": "陈都灵 翘楚",
+      "onboard_time": 1779896300,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 241093,
       "num": 447469,
       "word": "嗑cp是一个很私人的事儿",
@@ -4217,6 +4289,14 @@
       "onboard_time": 1779611964,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 239935,
+      "num": 239935,
+      "word": "张月发文回应侯宇淘汰",
+      "onboard_time": 1779897799,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 239638,
@@ -4675,14 +4755,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 209722,
-      "num": 284718,
-      "word": "女记者暗访代孕窝点被打骨折",
-      "onboard_time": 1779892342,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 208767,
       "num": 260692,
       "word": "2026白玉兰奖",
@@ -4737,6 +4809,14 @@
       "onboard_time": 1779864260,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 204923,
+      "num": 212845,
+      "word": "南方暴雨或最终影响所有人",
+      "onboard_time": 1779898341,
+      "rank": 32,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 204909,
@@ -5483,6 +5563,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 151567,
+      "num": 151567,
+      "word": "闺蜜给我出片就肖战这样",
+      "onboard_time": 1779893543,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 150786,
       "num": 412384,
       "word": "Jennie一顶帽子戴七年",
@@ -5723,6 +5811,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 129443,
+      "num": 309445,
+      "word": "王欣瑜赛后与对手争论",
+      "onboard_time": 1779893061,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 128978,
       "num": 249773,
       "word": "浪姐握手会",
@@ -5785,6 +5881,14 @@
       "onboard_time": 1779840501,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 124826,
+      "num": 146607,
+      "word": "四川彩民18元中2576万元大奖",
+      "onboard_time": 1779897740,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 124158,
@@ -5889,6 +5993,14 @@
       "onboard_time": 1779803183,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 118052,
+      "num": 118052,
+      "word": "50万买蔚来还是买宝马",
+      "onboard_time": 1779894082,
+      "rank": 41,
+      "category": "汽车"
     },
     {
       "raw_hot": 117193,
@@ -6289,6 +6401,14 @@
       "onboard_time": 1779584542,
       "rank": 43,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 91859,
+      "num": 96893,
+      "word": "莱巴金娜 失误",
+      "onboard_time": 1779897799,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 91764,
@@ -6881,6 +7001,14 @@
       "onboard_time": 1779879621,
       "rank": 38,
       "category": "电影"
+    },
+    {
+      "raw_hot": 55896,
+      "num": 96495,
+      "word": "科技股午后跳水原因",
+      "onboard_time": 1779898940,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 55214,
