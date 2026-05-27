@@ -1,6 +1,6 @@
 {
   "startTime": 1777565126834,
-  "endTime": 1779864426529,
+  "endTime": 1779871461998,
   "band_list": [
     {
       "raw_hot": 28198949,
@@ -1075,6 +1075,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2731627,
+      "num": 2731627,
+      "word": "536分捡漏上北大学生打算读博",
+      "onboard_time": 1779867141,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 2729810,
       "num": 374328,
       "word": "余意曝陈昊宇私会她男友",
@@ -1611,6 +1619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2207181,
+      "num": 383087,
+      "word": "孙俪眼睛血管破裂",
+      "onboard_time": 1779864622,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2199466,
       "num": 2199466,
       "word": "家业收视率",
@@ -1881,6 +1897,14 @@
       "onboard_time": 1777958600,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2016416,
+      "num": 379781,
+      "word": "向太曝古天乐出道前坐过牢",
+      "onboard_time": 1779867022,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 2011554,
@@ -4867,6 +4891,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1071974,
+      "num": 1071974,
+      "word": "户口以后没那么重要了",
+      "onboard_time": 1779862520,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1071060,
       "num": 652073,
       "word": "跟林依晨分手后前男友因性侵入狱",
@@ -6067,6 +6099,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 918419,
+      "num": 918419,
+      "word": "陈瑶晒和张月合照",
+      "onboard_time": 1779869301,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 914763,
       "num": 425630,
       "word": "无忧传媒发布王暖暖健康状况声明",
@@ -6545,14 +6585,6 @@
       "onboard_time": 1779358100,
       "rank": 12,
       "category": "财经"
-    },
-    {
-      "raw_hot": 869386,
-      "num": 435903,
-      "word": "户口以后没那么重要了",
-      "onboard_time": 1779862520,
-      "rank": 12,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 868663,
@@ -7377,6 +7409,14 @@
       "onboard_time": 1777788681,
       "rank": 7,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 803161,
+      "num": 803161,
+      "word": "白玉兰评选标准只有一个",
+      "onboard_time": 1779865401,
+      "rank": 4,
+      "category": "剧集"
     },
     {
       "raw_hot": 802959,
@@ -9667,6 +9707,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 656871,
+      "num": 377727,
+      "word": "迪丽热巴粉丝也不舒服了",
+      "onboard_time": 1779870620,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 656670,
       "num": 709441,
       "word": "一定要好好度过你的奥德赛时期",
@@ -10176,6 +10224,14 @@
       "word": "虞书欣全英文采访",
       "onboard_time": 1778555059,
       "rank": 14,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 632001,
+      "num": 345745,
+      "word": "网友说王鹤棣家炸串店卫生差",
+      "onboard_time": 1779871400,
+      "rank": 20,
       "category": "艺人"
     },
     {
@@ -10827,6 +10883,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 596844,
+      "num": 323016,
+      "word": "曝白鹿团队重组",
+      "onboard_time": 1779868461,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 596436,
       "num": 444402,
       "word": "特朗普家族被豁免永久禁止国税局审计",
@@ -10921,6 +10985,14 @@
       "onboard_time": 1779633445,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 591992,
+      "num": 591992,
+      "word": "阿里员工十三薪将并入年终奖",
+      "onboard_time": 1779870260,
+      "rank": 5,
+      "category": "互联网"
     },
     {
       "raw_hot": 591847,
@@ -12017,6 +12089,14 @@
       "onboard_time": 1778502141,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 549539,
+      "num": 314428,
+      "word": "一些旺自己的小方法",
+      "onboard_time": 1779864622,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 549446,
@@ -14041,6 +14121,14 @@
       "onboard_time": 1777625539,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 477704,
+      "num": 284881,
+      "word": "薛小婉回应和任权分手",
+      "onboard_time": 1779866600,
+      "rank": 25,
+      "category": "网红"
     },
     {
       "raw_hot": 477630,
@@ -17283,6 +17371,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 389374,
+      "num": 389374,
+      "word": "隐形旅游成本",
+      "onboard_time": 1779860481,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 389324,
       "num": 462408,
       "word": "买三文鱼套餐吃到虹鳟食客起诉餐厅",
@@ -17329,6 +17425,14 @@
       "onboard_time": 1779452121,
       "rank": 46,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 388645,
+      "num": 277519,
+      "word": "近视眼中的世界太真实了",
+      "onboard_time": 1779863901,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 388484,
@@ -17787,6 +17891,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 379481,
+      "num": 379481,
+      "word": "武契奇夫人在上海买买买",
+      "onboard_time": 1779859761,
+      "rank": 32,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 379448,
       "num": 461170,
       "word": "NewJeans更新Haerin近照",
@@ -18033,6 +18145,14 @@
       "onboard_time": 1777791500,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 373561,
+      "num": 373561,
+      "word": "全球存储三巨头",
+      "onboard_time": 1779868220,
+      "rank": 18,
+      "category": "财经"
     },
     {
       "raw_hot": 373206,
@@ -19331,6 +19451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 346864,
+      "num": 346864,
+      "word": "女子被大狗撞倒身亡养犬人接受调查",
+      "onboard_time": 1779865461,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 346759,
       "num": 193502,
       "word": "云南元阳车祸致7人死亡",
@@ -20217,6 +20345,14 @@
       "onboard_time": 1777959023,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 329686,
+      "num": 442546,
+      "word": "王者荣耀",
+      "onboard_time": 1777836254,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 329603,
@@ -23291,14 +23427,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 278484,
-      "num": 278484,
-      "word": "武契奇夫人在上海买买买",
-      "onboard_time": 1779859761,
-      "rank": 32,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 278400,
       "num": 388371,
       "word": "夫妻离婚均不愿抚养孩子法院不准离",
@@ -23955,6 +24083,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 269846,
+      "num": 269846,
+      "word": "金靖cue张凌赫逐玉陈皮糖吻",
+      "onboard_time": 1779864561,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 269719,
       "num": 268931,
       "word": "特朗普称基本谈成美伊协议",
@@ -24073,6 +24209,14 @@
       "onboard_time": 1779364580,
       "rank": 37,
       "category": "数码"
+    },
+    {
+      "raw_hot": 268231,
+      "num": 375760,
+      "word": "王楚钦登上数学模考卷",
+      "onboard_time": 1779865039,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 268186,
@@ -24223,6 +24367,14 @@
       "num": 265459,
       "word": "男子学猫叫认亲被处罚",
       "onboard_time": 1778037860,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 265312,
+      "num": 265312,
+      "word": "姜洪涛小儿子出生记录签字均是堂哥",
+      "onboard_time": 1779866961,
       "rank": 30,
       "category": "民生新闻"
     },
@@ -24659,6 +24811,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 259249,
+      "num": 259249,
+      "word": "严浩翔毕业花篮",
+      "onboard_time": 1779867740,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 259224,
       "num": 259224,
       "word": "TCG对战LGDNBW",
@@ -24825,14 +24985,6 @@
       "onboard_time": 1778309781,
       "rank": 25,
       "category": "议题讨论"
-    },
-    {
-      "raw_hot": 257158,
-      "num": 442546,
-      "word": "王者荣耀",
-      "onboard_time": 1777836254,
-      "rank": 42,
-      "category": "游戏"
     },
     {
       "raw_hot": 257020,
@@ -25240,14 +25392,6 @@
       "word": "强大到可怕的顶级心态",
       "onboard_time": 1777988905,
       "rank": 20,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 252720,
-      "num": 252720,
-      "word": "隐形旅游成本",
-      "onboard_time": 1779860481,
-      "rank": 35,
       "category": "情感"
     },
     {
@@ -26859,14 +27003,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 235848,
-      "num": 235848,
-      "word": "近视眼中的世界太真实了",
-      "onboard_time": 1779863901,
-      "rank": 38,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 235839,
       "num": 183743,
       "word": "千万别用塑料容器加热食物",
@@ -28337,6 +28473,14 @@
       "onboard_time": 1777951940,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 220559,
+      "num": 220559,
+      "word": "耀眼 生活化演技",
+      "onboard_time": 1779870260,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 220417,
@@ -29985,6 +30129,14 @@
       "onboard_time": 1778146759,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 204909,
+      "num": 204909,
+      "word": "刘浩存人生镜头",
+      "onboard_time": 1779867862,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 204902,
@@ -31739,6 +31891,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 188992,
+      "num": 188992,
+      "word": "已婚男子2年打赏女主播1700万",
+      "onboard_time": 1779869900,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 188825,
       "num": 234046,
       "word": "狩谎",
@@ -32177,6 +32337,14 @@
       "onboard_time": 1777735042,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 184753,
+      "num": 374603,
+      "word": "问界M9发布会",
+      "onboard_time": 1779871041,
+      "rank": 17,
+      "category": "汽车"
     },
     {
       "raw_hot": 184470,
@@ -36003,6 +36171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 155353,
+      "num": 220229,
+      "word": "TheShy终于现身了",
+      "onboard_time": 1779871281,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 155234,
       "num": 155234,
       "word": "乘风2026师姐阵容",
@@ -37251,6 +37427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 144473,
+      "num": 215918,
+      "word": "小米帮助73位车主立案",
+      "onboard_time": 1779867500,
+      "rank": 44,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 144445,
       "num": 144445,
       "word": "黄子韬巡演官宣",
@@ -37345,6 +37529,14 @@
       "onboard_time": 1779281422,
       "rank": 47,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 143391,
+      "num": 213188,
+      "word": "海诺新皮肤烬夜裁决",
+      "onboard_time": 1779869960,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 143267,
@@ -37449,6 +37641,14 @@
       "onboard_time": 1779158299,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 142662,
+      "num": 221098,
+      "word": "陈志朋被好友坑骗三分之二资产",
+      "onboard_time": 1779871161,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 142449,
@@ -40140,7 +40340,7 @@
     },
     {
       "raw_hot": 120828,
-      "num": 200221,
+      "num": 211449,
       "word": "姚明代言蔚来ES9",
       "onboard_time": 1779858141,
       "rank": 46,
@@ -45188,7 +45388,7 @@
     },
     {
       "raw_hot": 67114,
-      "num": 759291,
+      "num": 959159,
       "word": "暴雨强对流2预警齐发",
       "onboard_time": 1779854842,
       "rank": 2,
@@ -45609,6 +45809,14 @@
       "onboard_time": 1779767663,
       "rank": 38,
       "category": "电影"
+    },
+    {
+      "raw_hot": 62519,
+      "num": 270331,
+      "word": "李昀锐身上的少年感哪来的",
+      "onboard_time": 1779869120,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 62494,
@@ -46537,6 +46745,14 @@
       "onboard_time": 1779508883,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 54462,
+      "num": 333085,
+      "word": "五个女博士岂能大字宣传小字免责",
+      "onboard_time": 1779870740,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 54304,
@@ -48387,6 +48603,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 40046,
+      "num": 229193,
+      "word": "暴雨淹家夫妻俩1个玩手机1个补觉",
+      "onboard_time": 1779871400,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 40042,
       "num": 226606,
       "word": "垃圾最后一公里梗阻",
@@ -49113,6 +49337,14 @@
       "onboard_time": 1778886016,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 34956,
+      "num": 220606,
+      "word": "槟榔为一级致癌物为何还能办文化展",
+      "onboard_time": 1779870380,
+      "rank": 41,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 34935,
@@ -50137,6 +50369,14 @@
       "onboard_time": 1778666241,
       "rank": 35,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 28507,
+      "num": 220750,
+      "word": "两子非亲生男子称只有恨",
+      "onboard_time": 1779870740,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 28435,
@@ -51521,6 +51761,14 @@
       "onboard_time": 1779178820,
       "rank": 38,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 18082,
+      "num": 386390,
+      "word": "药店套取医保法人装晕对抗检查",
+      "onboard_time": 1779870380,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 18076,
@@ -53143,6 +53391,9 @@
     },
     {
       "word": "#习近平主席谈中塞友谊#"
+    },
+    {
+      "word": "#新时代中塞命运共同体#"
     }
   ]
 }

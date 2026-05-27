@@ -1,6 +1,6 @@
 {
   "startTime": 1779812247216,
-  "endTime": 1779864426529,
+  "endTime": 1779871461998,
   "band_list": [
     {
       "raw_hot": 3581072,
@@ -27,6 +27,14 @@
       "category": "艺人,作品衍生"
     },
     {
+      "raw_hot": 2731627,
+      "num": 2731627,
+      "word": "536分捡漏上北大学生打算读博",
+      "onboard_time": 1779867141,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 2625275,
       "num": 372585,
       "word": "网友去王鹤棣家炸串店玩梗我不舒服",
@@ -40,6 +48,22 @@
       "word": "王鹤棣家炸串店3日内差评不到10条",
       "onboard_time": 1779849740,
       "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2207181,
+      "num": 383087,
+      "word": "孙俪眼睛血管破裂",
+      "onboard_time": 1779864622,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2016416,
+      "num": 379781,
+      "word": "向太曝古天乐出道前坐过牢",
+      "onboard_time": 1779867022,
+      "rank": 12,
       "category": "艺人"
     },
     {
@@ -155,6 +179,14 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 1071974,
+      "num": 1071974,
+      "word": "户口以后没那么重要了",
+      "onboard_time": 1779862520,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 996075,
       "num": 424688,
       "word": "王鹤棣家炸串店现状",
@@ -169,6 +201,14 @@
       "onboard_time": 1779852981,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 918419,
+      "num": 918419,
+      "word": "陈瑶晒和张月合照",
+      "onboard_time": 1779869301,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 896416,
@@ -203,14 +243,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 869386,
-      "num": 435903,
-      "word": "户口以后没那么重要了",
-      "onboard_time": 1779862520,
-      "rank": 12,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 843794,
       "num": 1006118,
       "word": "白玉兰的口碑",
@@ -241,6 +273,14 @@
       "onboard_time": 1779802702,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 803161,
+      "num": 803161,
+      "word": "白玉兰评选标准只有一个",
+      "onboard_time": 1779865401,
+      "rank": 4,
+      "category": "剧集"
     },
     {
       "raw_hot": 795614,
@@ -299,6 +339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 656871,
+      "num": 377727,
+      "word": "迪丽热巴粉丝也不舒服了",
+      "onboard_time": 1779870620,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 635725,
       "num": 428559,
       "word": "国台办回应林志玲辞去文策院职务",
@@ -313,6 +361,30 @@
       "onboard_time": 1779849679,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 632001,
+      "num": 345745,
+      "word": "网友说王鹤棣家炸串店卫生差",
+      "onboard_time": 1779871400,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 596844,
+      "num": 323016,
+      "word": "曝白鹿团队重组",
+      "onboard_time": 1779868461,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 591992,
+      "num": 591992,
+      "word": "阿里员工十三薪将并入年终奖",
+      "onboard_time": 1779870260,
+      "rank": 5,
+      "category": "互联网"
     },
     {
       "raw_hot": 590320,
@@ -347,6 +419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 549539,
+      "num": 314428,
+      "word": "一些旺自己的小方法",
+      "onboard_time": 1779864622,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 538382,
       "num": 388915,
       "word": "李登科回应娜扎张云龙恋情传闻",
@@ -377,6 +457,14 @@
       "onboard_time": 1779810500,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 477704,
+      "num": 284881,
+      "word": "薛小婉回应和任权分手",
+      "onboard_time": 1779866600,
+      "rank": 25,
+      "category": "网红"
     },
     {
       "raw_hot": 471775,
@@ -563,6 +651,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 389374,
+      "num": 389374,
+      "word": "隐形旅游成本",
+      "onboard_time": 1779860481,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 388645,
+      "num": 277519,
+      "word": "近视眼中的世界太真实了",
+      "onboard_time": 1779863901,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 387830,
       "num": 387830,
       "word": "SNH48在万花世界重聚了",
@@ -579,12 +683,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 379481,
+      "num": 379481,
+      "word": "武契奇夫人在上海买买买",
+      "onboard_time": 1779859761,
+      "rank": 32,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 376670,
       "num": 330689,
       "word": "濮阳地震",
       "onboard_time": 1779837199,
       "rank": 49,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 373561,
+      "num": 373561,
+      "word": "全球存储三巨头",
+      "onboard_time": 1779868220,
+      "rank": 18,
+      "category": "财经"
     },
     {
       "raw_hot": 370295,
@@ -627,6 +747,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 346864,
+      "num": 346864,
+      "word": "女子被大狗撞倒身亡养犬人接受调查",
+      "onboard_time": 1779865461,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 340718,
       "num": 340718,
       "word": "白鹿在客栈为吴泽林说话",
@@ -657,6 +785,14 @@
       "onboard_time": 1779837257,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 329686,
+      "num": 387708,
+      "word": "王者荣耀",
+      "onboard_time": 1779864860,
+      "rank": 9,
+      "category": "游戏"
     },
     {
       "raw_hot": 329508,
@@ -763,14 +899,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 278484,
-      "num": 278484,
-      "word": "武契奇夫人在上海买买买",
-      "onboard_time": 1779859761,
-      "rank": 32,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 271828,
       "num": 271828,
       "word": "鞠婧祎 猪塑",
@@ -785,6 +913,22 @@
       "onboard_time": 1779807804,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 269846,
+      "num": 269846,
+      "word": "金靖cue张凌赫逐玉陈皮糖吻",
+      "onboard_time": 1779864561,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 268231,
+      "num": 375760,
+      "word": "王楚钦登上数学模考卷",
+      "onboard_time": 1779865039,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 267684,
@@ -803,20 +947,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 265312,
+      "num": 265312,
+      "word": "姜洪涛小儿子出生记录签字均是堂哥",
+      "onboard_time": 1779866961,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 259249,
+      "num": 259249,
+      "word": "严浩翔毕业花篮",
+      "onboard_time": 1779867740,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 257018,
       "num": 257018,
       "word": "歌手",
       "onboard_time": 1779861921,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 252720,
-      "num": 252720,
-      "word": "隐形旅游成本",
-      "onboard_time": 1779860481,
-      "rank": 35,
-      "category": "情感"
     },
     {
       "raw_hot": 249898,
@@ -867,14 +1019,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 235848,
-      "num": 235848,
-      "word": "近视眼中的世界太真实了",
-      "onboard_time": 1779863901,
-      "rank": 38,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 230369,
       "num": 368938,
       "word": "SK海力士市值突破1万亿美元",
@@ -905,6 +1049,14 @@
       "onboard_time": 1779814818,
       "rank": 6,
       "category": "情感"
+    },
+    {
+      "raw_hot": 220559,
+      "num": 220559,
+      "word": "耀眼 生活化演技",
+      "onboard_time": 1779870260,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 220053,
@@ -955,6 +1107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 204909,
+      "num": 204909,
+      "word": "刘浩存人生镜头",
+      "onboard_time": 1779867862,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 203472,
       "num": 203472,
       "word": "云包场",
@@ -993,6 +1153,22 @@
       "onboard_time": 1779847760,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 188992,
+      "num": 188992,
+      "word": "已婚男子2年打赏女主播1700万",
+      "onboard_time": 1779869900,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 184753,
+      "num": 374603,
+      "word": "问界M9发布会",
+      "onboard_time": 1779871041,
+      "rank": 17,
+      "category": "汽车"
     },
     {
       "raw_hot": 181525,
@@ -1107,6 +1283,38 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 155353,
+      "num": 220229,
+      "word": "TheShy终于现身了",
+      "onboard_time": 1779871281,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 144473,
+      "num": 215918,
+      "word": "小米帮助73位车主立案",
+      "onboard_time": 1779867500,
+      "rank": 44,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 143391,
+      "num": 213188,
+      "word": "海诺新皮肤烬夜裁决",
+      "onboard_time": 1779869960,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 142662,
+      "num": 221098,
+      "word": "陈志朋被好友坑骗三分之二资产",
+      "onboard_time": 1779871161,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 136590,
       "num": 136590,
       "word": "曾沛慈时尚首封",
@@ -1140,7 +1348,7 @@
     },
     {
       "raw_hot": 120828,
-      "num": 200221,
+      "num": 211449,
       "word": "姚明代言蔚来ES9",
       "onboard_time": 1779858141,
       "rank": 46,
@@ -1300,7 +1508,7 @@
     },
     {
       "raw_hot": 67114,
-      "num": 759291,
+      "num": 959159,
       "word": "暴雨强对流2预警齐发",
       "onboard_time": 1779854842,
       "rank": 2,
@@ -1313,6 +1521,14 @@
       "onboard_time": 1779814818,
       "rank": 17,
       "category": "数码"
+    },
+    {
+      "raw_hot": 62519,
+      "num": 270331,
+      "word": "李昀锐身上的少年感哪来的",
+      "onboard_time": 1779869120,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 59990,
@@ -1329,6 +1545,14 @@
       "onboard_time": 1779814997,
       "rank": 21,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 54462,
+      "num": 333085,
+      "word": "五个女博士岂能大字宣传小字免责",
+      "onboard_time": 1779870740,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 53038,
@@ -1403,6 +1627,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 40046,
+      "num": 229193,
+      "word": "暴雨淹家夫妻俩1个玩手机1个补觉",
+      "onboard_time": 1779871400,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 39896,
       "num": 131277,
       "word": "苏醒关注7天冷静期",
@@ -1433,6 +1665,14 @@
       "onboard_time": 1779854960,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 34956,
+      "num": 220606,
+      "word": "槟榔为一级致癌物为何还能办文化展",
+      "onboard_time": 1779870380,
+      "rank": 41,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 34300,
@@ -1488,6 +1728,14 @@
       "word": "母亲长期虐待亲生女儿被判7年",
       "onboard_time": 1779824773,
       "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 28507,
+      "num": 220750,
+      "word": "两子非亲生男子称只有恨",
+      "onboard_time": 1779870740,
+      "rank": 40,
       "category": "民生新闻"
     },
     {
@@ -1555,6 +1803,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 18082,
+      "num": 386390,
+      "word": "药店套取医保法人装晕对抗检查",
+      "onboard_time": 1779870380,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 15559,
       "num": 278917,
       "word": "承诺买房送等额50万元黄金未兑现",
@@ -1572,6 +1828,9 @@
     },
     {
       "word": "#习近平主席谈中塞友谊#"
+    },
+    {
+      "word": "#新时代中塞命运共同体#"
     }
   ]
 }
