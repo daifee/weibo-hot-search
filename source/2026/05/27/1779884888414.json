@@ -1,0 +1,410 @@
+{
+  "runTime": 1779884888414,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1371631,
+        "num": 1371631,
+        "word": "刘强东最新内部讲话",
+        "onboard_time": 1779881059,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1027065,
+        "num": 1027065,
+        "word": "微信通话bug",
+        "onboard_time": 1779880339,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 12372,
+        "num": 1016906,
+        "word": "高质量发展看荆楚",
+        "onboard_time": 1779874280,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1016493,
+        "num": 1016493,
+        "word": "杭州非法代孕窝点现场曝光",
+        "onboard_time": 1779879920,
+        "rank": 3,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 999671,
+        "num": 999671,
+        "word": "米兰 坐牢",
+        "onboard_time": 1779880460,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 520824,
+        "num": 520824,
+        "word": "户口以后没那么重要了",
+        "onboard_time": 1779862520,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 465270,
+        "num": 465270,
+        "word": "深圳交警通报南坪快速火情",
+        "onboard_time": 1779879439,
+        "rank": 6,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 457918,
+        "num": 457918,
+        "word": "女教师打伞事件双方并非父女",
+        "onboard_time": 1779884122,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 399721,
+        "num": 399721,
+        "word": "一诺律师声明",
+        "onboard_time": 1779884001,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 256234,
+        "num": 399062,
+        "word": "关晓彤剧宣人脉",
+        "onboard_time": 1779884480,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 2634907,
+        "num": 397901,
+        "word": "Angelababy参加小海绵学校义卖会",
+        "onboard_time": 1779881601,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1713070,
+        "num": 396358,
+        "word": "黄金",
+        "onboard_time": 1779880940,
+        "rank": 11,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1089059,
+        "num": 395525,
+        "word": "沈月曾自曝和王鹤棣打得飞起",
+        "onboard_time": 1779861321,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1003744,
+        "num": 393976,
+        "word": "古天乐曾回应入狱22个月",
+        "onboard_time": 1779883761,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 393943,
+        "num": 393943,
+        "word": "阿里员工十三薪将并入年终奖",
+        "onboard_time": 1779870260,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 940322,
+        "num": 390734,
+        "word": "戴军曝某综艺男主持欺负女主持",
+        "onboard_time": 1779882501,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 931807,
+        "num": 390607,
+        "word": "孙俪眼睛血管破裂",
+        "onboard_time": 1779864622,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 374157,
+        "num": 374157,
+        "word": "法拉利前主席怒喷首款电车",
+        "onboard_time": 1779873320,
+        "rank": 17,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 426932,
+        "num": 371911,
+        "word": "李昀锐腋下管理",
+        "onboard_time": 1779875660,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 203047,
+        "num": 368838,
+        "word": "忆秦娥和刘红兵结婚了",
+        "onboard_time": 1779883700,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 290306,
+        "num": 364604,
+        "word": "536分捡漏上北大学生打算读博",
+        "onboard_time": 1779867141,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 768372,
+        "num": 362166,
+        "word": "孙红雷气哭半个娱乐圈",
+        "onboard_time": 1779879980,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 480247,
+        "num": 360110,
+        "word": "向太曝古天乐出道前坐过牢",
+        "onboard_time": 1779867022,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 276523,
+        "num": 354832,
+        "word": "店家是不是对小菜有什么误解",
+        "onboard_time": 1779880701,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 455093,
+        "num": 353179,
+        "word": "娱乐圈三大神级公关",
+        "onboard_time": 1779873320,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 349775,
+        "num": 349775,
+        "word": "Jennie舞蹈动作",
+        "onboard_time": 1779871700,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 237327,
+        "num": 348404,
+        "word": "富士山已处于随时可能喷发状态",
+        "onboard_time": 1779875360,
+        "rank": 26,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 171874,
+        "num": 348259,
+        "word": "清融直播澄清谣言",
+        "onboard_time": 1779883041,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 348238,
+        "num": 348238,
+        "word": "刘宇宁粉丝不舒服了",
+        "onboard_time": 1779884601,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 227520,
+        "num": 325427,
+        "word": "记者曝光地下代孕实验室遭拖拽骨折",
+        "onboard_time": 1779881961,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 321201,
+        "num": 321201,
+        "word": "吴磊晒黑后的身材好火辣",
+        "onboard_time": 1779874399,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 301108,
+        "num": 301108,
+        "word": "雨霖铃 配冥婚",
+        "onboard_time": 1779881601,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 218066,
+        "num": 262550,
+        "word": "张真源帮丁程鑫说句公道话",
+        "onboard_time": 1779874761,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 252463,
+        "num": 252463,
+        "word": "巴西患癌男子通过CART疗法一个月缓解",
+        "onboard_time": 1779877340,
+        "rank": 33,
+        "category": "海外新闻,健康医疗"
+      },
+      {
+        "raw_hot": 310573,
+        "num": 246952,
+        "word": "肖战王一博刘宇宁 权威",
+        "onboard_time": 1779874520,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 236061,
+        "num": 236061,
+        "word": "网友说王鹤棣家炸串店卫生差",
+        "onboard_time": 1779871400,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204193,
+        "num": 232947,
+        "word": "一些旺自己的小方法",
+        "onboard_time": 1779864622,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 103915,
+        "num": 231110,
+        "word": "腾讯游戏发布会",
+        "onboard_time": 1779884360,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 63976,
+        "num": 225906,
+        "word": "李晨 红裙美腿",
+        "onboard_time": 1779884181,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 105100,
+        "num": 225109,
+        "word": "两儿子非亲生案大儿子拒绝亲子鉴定",
+        "onboard_time": 1779884840,
+        "rank": 39,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 222077,
+        "num": 222077,
+        "word": "迪丽热巴粉丝也不舒服了",
+        "onboard_time": 1779870620,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 219510,
+        "num": 219510,
+        "word": "张凌赫王玉雯演爽了",
+        "onboard_time": 1779883761,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175129,
+        "num": 208394,
+        "word": "暴雨淹家夫妻俩1个玩手机1个补觉",
+        "onboard_time": 1779871400,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 200468,
+        "num": 200468,
+        "word": "耀眼",
+        "onboard_time": 1779878539,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 192551,
+        "num": 192551,
+        "word": "薛小婉回应和任权分手",
+        "onboard_time": 1779866600,
+        "rank": 44,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 169123,
+        "num": 187281,
+        "word": "耳朵总是痒可能暗示5种问题",
+        "onboard_time": 1779875600,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 185613,
+        "num": 185613,
+        "word": "白玉兰评选标准只有一个",
+        "onboard_time": 1779865401,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155456,
+        "num": 183263,
+        "word": "问界M9售价47.98至65.98万元",
+        "onboard_time": 1779874040,
+        "rank": 47,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 44359,
+        "num": 182190,
+        "word": "封潇潇和龚丽丽放弃唱戏都去了南方",
+        "onboard_time": 1779883280,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 110225,
+        "num": 181848,
+        "word": "长鑫科技科创板IPO过会",
+        "onboard_time": 1779878421,
+        "rank": 49,
+        "category": "财经,互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#新时代中塞命运共同体#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1777565126834,
-  "endTime": 1779879936826,
+  "endTime": 1779884888414,
   "band_list": [
     {
       "raw_hot": 28198949,
@@ -1163,6 +1163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2634907,
+      "num": 397901,
+      "word": "Angelababy参加小海绵学校义卖会",
+      "onboard_time": 1779881601,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2627650,
       "num": 1543961,
       "word": "侯宇淘汰",
@@ -1620,7 +1628,7 @@
     },
     {
       "raw_hot": 2207181,
-      "num": 383087,
+      "num": 390607,
       "word": "孙俪眼睛血管破裂",
       "onboard_time": 1779864622,
       "rank": 11,
@@ -2433,6 +2441,14 @@
       "onboard_time": 1778749702,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1713070,
+      "num": 501305,
+      "word": "黄金",
+      "onboard_time": 1778811440,
+      "rank": 20,
+      "category": "财经"
     },
     {
       "raw_hot": 1712791,
@@ -3425,6 +3441,14 @@
       "onboard_time": 1777646121,
       "rank": 3,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1371631,
+      "num": 1371631,
+      "word": "刘强东最新内部讲话",
+      "onboard_time": 1779881059,
+      "rank": 0,
+      "category": "互联网"
     },
     {
       "raw_hot": 1369336,
@@ -4812,7 +4836,7 @@
     },
     {
       "raw_hot": 1080207,
-      "num": 298986,
+      "num": 353179,
       "word": "娱乐圈三大神级公关",
       "onboard_time": 1779873320,
       "rank": 13,
@@ -5163,6 +5187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1027065,
+      "num": 1027065,
+      "word": "微信通话bug",
+      "onboard_time": 1779880339,
+      "rank": 1,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1025685,
       "num": 500751,
       "word": "痞幼与梅尼耶贴身热舞被指没边界感",
@@ -5251,6 +5283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1016493,
+      "num": 1016493,
+      "word": "杭州非法代孕窝点现场曝光",
+      "onboard_time": 1779879920,
+      "rank": 3,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 1013879,
       "num": 378348,
       "word": "张真源严浩翔初现印象排名",
@@ -5323,6 +5363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1003744,
+      "num": 393976,
+      "word": "古天乐曾回应入狱22个月",
+      "onboard_time": 1779883761,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1003049,
       "num": 714045,
       "word": "湘西赶尸舞",
@@ -5361,6 +5409,14 @@
       "onboard_time": 1779194540,
       "rank": 3,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 999671,
+      "num": 999671,
+      "word": "米兰 坐牢",
+      "onboard_time": 1779880460,
+      "rank": 4,
+      "category": "剧集"
     },
     {
       "raw_hot": 999321,
@@ -5929,6 +5985,14 @@
       "onboard_time": 1779766221,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 940322,
+      "num": 390734,
+      "word": "戴军曝某综艺男主持欺负女主持",
+      "onboard_time": 1779882501,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 938241,
@@ -7603,14 +7667,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 792947,
-      "num": 501305,
-      "word": "黄金",
-      "onboard_time": 1778811440,
-      "rank": 20,
-      "category": "财经"
-    },
-    {
       "raw_hot": 792447,
       "num": 1126791,
       "word": "山西一研学车辆侧翻已致2人死亡",
@@ -7977,6 +8033,14 @@
       "onboard_time": 1779037878,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 768372,
+      "num": 362166,
+      "word": "孙红雷气哭半个娱乐圈",
+      "onboard_time": 1779879980,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 768150,
@@ -9468,7 +9532,7 @@
     },
     {
       "raw_hot": 673824,
-      "num": 286806,
+      "num": 321201,
       "word": "吴磊晒黑后的身材好火辣",
       "onboard_time": 1779874399,
       "rank": 24,
@@ -9668,7 +9732,7 @@
     },
     {
       "raw_hot": 661074,
-      "num": 298704,
+      "num": 371911,
       "word": "李昀锐腋下管理",
       "onboard_time": 1779875660,
       "rank": 14,
@@ -14260,7 +14324,7 @@
     },
     {
       "raw_hot": 475668,
-      "num": 294606,
+      "num": 349775,
       "word": "Jennie舞蹈动作",
       "onboard_time": 1779871700,
       "rank": 17,
@@ -14953,6 +15017,14 @@
       "onboard_time": 1778663241,
       "rank": 7,
       "category": "数码"
+    },
+    {
+      "raw_hot": 457918,
+      "num": 457918,
+      "word": "女教师打伞事件双方并非父女",
+      "onboard_time": 1779884122,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 457876,
@@ -17009,6 +17081,14 @@
       "onboard_time": 1777852338,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 399721,
+      "num": 399721,
+      "word": "一诺律师声明",
+      "onboard_time": 1779884001,
+      "rank": 8,
+      "category": "电竞"
     },
     {
       "raw_hot": 399683,
@@ -19473,6 +19553,14 @@
       "onboard_time": 1779720625,
       "rank": 9,
       "category": "财经,民生新闻"
+    },
+    {
+      "raw_hot": 348238,
+      "num": 348238,
+      "word": "刘宇宁粉丝不舒服了",
+      "onboard_time": 1779884601,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 348173,
@@ -22059,6 +22147,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 301108,
+      "num": 301108,
+      "word": "雨霖铃 配冥婚",
+      "onboard_time": 1779881601,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 301095,
       "num": 333844,
       "word": "警方回应博主取样河水后被半夜敲门",
@@ -23747,6 +23843,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 276523,
+      "num": 354832,
+      "word": "店家是不是对小菜有什么误解",
+      "onboard_time": 1779880701,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 276326,
       "num": 276326,
       "word": "中国地铁被谬认为日本还在发生",
@@ -25176,6 +25280,14 @@
       "word": "从红月开始官宣",
       "onboard_time": 1778211980,
       "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 256234,
+      "num": 399062,
+      "word": "关晓彤剧宣人脉",
+      "onboard_time": 1779884480,
+      "rank": 9,
       "category": "剧集"
     },
     {
@@ -27939,6 +28051,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 227520,
+      "num": 325427,
+      "word": "记者曝光地下代孕实验室遭拖拽骨折",
+      "onboard_time": 1779881961,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 227495,
       "num": 274178,
       "word": "中国女子在西班牙被刺身亡",
@@ -28713,6 +28833,14 @@
       "onboard_time": 1779367940,
       "rank": 36,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 219510,
+      "num": 219510,
+      "word": "张凌赫王玉雯演爽了",
+      "onboard_time": 1779883761,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 219429,
@@ -30521,6 +30649,14 @@
       "onboard_time": 1777798400,
       "rank": 19,
       "category": "互联网,幽默"
+    },
+    {
+      "raw_hot": 203047,
+      "num": 368838,
+      "word": "忆秦娥和刘红兵结婚了",
+      "onboard_time": 1779883700,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 202873,
@@ -34233,6 +34369,14 @@
       "onboard_time": 1779191241,
       "rank": 42,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 171874,
+      "num": 348259,
+      "word": "清融直播澄清谣言",
+      "onboard_time": 1779883041,
+      "rank": 27,
+      "category": "电竞"
     },
     {
       "raw_hot": 171841,
@@ -41667,6 +41811,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 110225,
+      "num": 181848,
+      "word": "长鑫科技科创板IPO过会",
+      "onboard_time": 1779878421,
+      "rank": 49,
+      "category": "财经,互联网"
+    },
+    {
       "raw_hot": 110183,
       "num": 323470,
       "word": "盗用他人作品获奖学生被开除学籍",
@@ -42035,6 +42187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 105100,
+      "num": 225109,
+      "word": "两儿子非亲生案大儿子拒绝亲子鉴定",
+      "onboard_time": 1779884840,
+      "rank": 39,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 105099,
       "num": 90876,
       "word": "曝冰湖重生有庆功宴",
@@ -42161,6 +42321,14 @@
       "onboard_time": 1778658860,
       "rank": 46,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 103915,
+      "num": 231110,
+      "word": "腾讯游戏发布会",
+      "onboard_time": 1779884360,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 103818,
@@ -45859,6 +46027,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 63976,
+      "num": 225906,
+      "word": "李晨 红裙美腿",
+      "onboard_time": 1779884181,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 63892,
       "num": 357762,
       "word": "宾利车主高速救助被弃新人系摆拍",
@@ -48337,6 +48513,14 @@
       "onboard_time": 1779731476,
       "rank": 41,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 44359,
+      "num": 182190,
+      "word": "封潇潇和龚丽丽放弃唱戏都去了南方",
+      "onboard_time": 1779883280,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 44335,
@@ -52667,20 +52851,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 12372,
+      "num": 1016906,
+      "word": "高质量发展看荆楚",
+      "onboard_time": 1779874280,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 12362,
       "num": 396216,
       "word": "57岁男子吵架猝死邻居被判赔近12万",
       "onboard_time": 1778670020,
       "rank": 20,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 12280,
-      "num": 676097,
-      "word": "高质量发展看荆楚",
-      "onboard_time": 1779874280,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 12190,
