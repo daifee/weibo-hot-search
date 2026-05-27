@@ -1,6 +1,6 @@
 {
   "startTime": 1777565126834,
-  "endTime": 1779871461998,
+  "endTime": 1779879936826,
   "band_list": [
     {
       "raw_hot": 28198949,
@@ -4635,6 +4635,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 1100538,
+      "num": 1176086,
+      "word": "户口以后没那么重要了",
+      "onboard_time": 1779862520,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1100319,
       "num": 963581,
       "word": "98岁奶奶拿出了她当年的嫁妆",
@@ -4803,6 +4811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1080207,
+      "num": 298986,
+      "word": "娱乐圈三大神级公关",
+      "onboard_time": 1779873320,
+      "rank": 13,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1079486,
       "num": 563413,
       "word": "李一桐评论去世粉丝博文",
@@ -4889,14 +4905,6 @@
       "onboard_time": 1778410821,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1071974,
-      "num": 1071974,
-      "word": "户口以后没那么重要了",
-      "onboard_time": 1779862520,
-      "rank": 12,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1071060,
@@ -7099,6 +7107,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 825291,
+      "num": 288403,
+      "word": "金高银 淡极生艳",
+      "onboard_time": 1779877639,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 824427,
       "num": 824427,
       "word": "中南大学帅出圈男生已保研同济大学",
@@ -7681,6 +7697,14 @@
       "onboard_time": 1779715403,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 785965,
+      "num": 827605,
+      "word": "阿里员工十三薪将并入年终奖",
+      "onboard_time": 1779870260,
+      "rank": 5,
+      "category": "互联网"
     },
     {
       "raw_hot": 783349,
@@ -9115,6 +9139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 691106,
+      "num": 675550,
+      "word": "深圳交警通报南坪快速火情",
+      "onboard_time": 1779879439,
+      "rank": 3,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 689980,
       "num": 689980,
       "word": "烫牛奶是善良的食物",
@@ -9225,6 +9257,14 @@
       "onboard_time": 1778852723,
       "rank": 7,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 684081,
+      "num": 300594,
+      "word": "黄仁勋为插队买烤玉米给全场买单",
+      "onboard_time": 1779878661,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 684061,
@@ -9427,6 +9467,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 673824,
+      "num": 286806,
+      "word": "吴磊晒黑后的身材好火辣",
+      "onboard_time": 1779874399,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 673083,
       "num": 435300,
       "word": "蔡文静经纪人打电话让蔡文静下播",
@@ -9473,6 +9521,14 @@
       "onboard_time": 1779260300,
       "rank": 13,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 669820,
+      "num": 669820,
+      "word": "法拉利前主席怒喷首款电车",
+      "onboard_time": 1779873320,
+      "rank": 4,
+      "category": "汽车"
     },
     {
       "raw_hot": 669612,
@@ -9609,6 +9665,14 @@
       "onboard_time": 1778997981,
       "rank": 6,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 661074,
+      "num": 298704,
+      "word": "李昀锐腋下管理",
+      "onboard_time": 1779875660,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 660752,
@@ -10987,14 +11051,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 591992,
-      "num": 591992,
-      "word": "阿里员工十三薪将并入年终奖",
-      "onboard_time": 1779870260,
-      "rank": 5,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 591847,
       "num": 591847,
       "word": "浪姐票数 等差数列",
@@ -11177,6 +11233,14 @@
       "onboard_time": 1777988963,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 583661,
+      "num": 583661,
+      "word": "富士山已处于随时可能喷发状态",
+      "onboard_time": 1779875360,
+      "rank": 5,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 583633,
@@ -14195,6 +14259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 475668,
+      "num": 294606,
+      "word": "Jennie舞蹈动作",
+      "onboard_time": 1779871700,
+      "rank": 17,
+      "category": "演出"
+    },
+    {
       "raw_hot": 475136,
       "num": 660168,
       "word": "曝杨紫在接触女君和熹",
@@ -16337,6 +16409,14 @@
       "onboard_time": 1778413580,
       "rank": 20,
       "category": "体育"
+    },
+    {
+      "raw_hot": 412194,
+      "num": 412194,
+      "word": "女子被大狗撞倒身亡养犬人接受调查",
+      "onboard_time": 1779865461,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 412033,
@@ -19451,14 +19531,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 346864,
-      "num": 346864,
-      "word": "女子被大狗撞倒身亡养犬人接受调查",
-      "onboard_time": 1779865461,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 346759,
       "num": 193502,
       "word": "云南元阳车祸致7人死亡",
@@ -19723,6 +19795,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 342197,
+      "num": 342197,
+      "word": "官方回应深圳南坪快速大火",
+      "onboard_time": 1779877041,
+      "rank": 7,
+      "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 342151,
+      "num": 275501,
+      "word": "肖战王一博刘宇宁 权威",
+      "onboard_time": 1779874520,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 342057,
       "num": 493777,
       "word": "现在记住了你又不高兴",
@@ -19849,6 +19937,14 @@
       "onboard_time": 1779809661,
       "rank": 22,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 339886,
+      "num": 285842,
+      "word": "暴雨淹家夫妻俩1个玩手机1个补觉",
+      "onboard_time": 1779871400,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 339541,
@@ -20721,6 +20817,14 @@
       "onboard_time": 1778044820,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 324991,
+      "num": 280908,
+      "word": "巴西患癌男子通过CART疗法一个月缓解",
+      "onboard_time": 1779877340,
+      "rank": 30,
+      "category": "海外新闻,健康医疗"
     },
     {
       "raw_hot": 324864,
@@ -23715,6 +23819,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 275003,
+      "num": 274043,
+      "word": "张真源帮丁程鑫说句公道话",
+      "onboard_time": 1779874761,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 274883,
       "num": 301401,
       "word": "郭涛15岁女儿身高",
@@ -23865,6 +23977,14 @@
       "onboard_time": 1778572339,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 272858,
+      "num": 272858,
+      "word": "耳朵总是痒可能暗示5种问题",
+      "onboard_time": 1779875600,
+      "rank": 40,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 272855,
@@ -27019,6 +27139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 235708,
+      "num": 235708,
+      "word": "耀眼",
+      "onboard_time": 1779830233,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 235663,
       "num": 212805,
       "word": "aespa权志龙合作曲",
@@ -27561,6 +27689,14 @@
       "onboard_time": 1777866679,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 230929,
+      "num": 303755,
+      "word": "问界M9售价47.98至65.98万元",
+      "onboard_time": 1779874040,
+      "rank": 9,
+      "category": "汽车"
     },
     {
       "raw_hot": 230600,
@@ -28476,7 +28612,7 @@
     },
     {
       "raw_hot": 220559,
-      "num": 220559,
+      "num": 278064,
       "word": "耀眼 生活化演技",
       "onboard_time": 1779870260,
       "rank": 42,
@@ -29107,6 +29243,14 @@
       "category": "综艺,体育"
     },
     {
+      "raw_hot": 214496,
+      "num": 297215,
+      "word": "TheShy终于现身了",
+      "onboard_time": 1779871281,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 214418,
       "num": 214418,
       "word": "穆祉丞戛纳人气",
@@ -29433,6 +29577,14 @@
       "onboard_time": 1779782181,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 211362,
+      "num": 211362,
+      "word": "张凌赫知道和王玉雯是兄妹的反应",
+      "onboard_time": 1779872541,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 211358,
@@ -29915,6 +30067,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 207379,
+      "num": 207379,
+      "word": "蛋蛋回应与朱梓骁恋情",
+      "onboard_time": 1779872300,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 207237,
       "num": 207237,
       "word": "中美经贸磋商初步成果",
@@ -30233,6 +30393,14 @@
       "onboard_time": 1778546902,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 204338,
+      "num": 170080,
+      "word": "浪姐X秀张月孙怡合唱指纹",
+      "onboard_time": 1779875299,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 204131,
@@ -33595,6 +33763,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 174894,
+      "num": 219492,
+      "word": "王欣瑜vs科帕奇",
+      "onboard_time": 1779878840,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 174688,
       "num": 376834,
       "word": "孙颖莎穿上羽绒服了",
@@ -34313,6 +34489,14 @@
       "onboard_time": 1777654221,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 170126,
+      "num": 170126,
+      "word": "LBK 朋友圈",
+      "onboard_time": 1779877822,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 170111,
@@ -36169,14 +36353,6 @@
       "onboard_time": 1777568418,
       "rank": 9,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 155353,
-      "num": 220229,
-      "word": "TheShy终于现身了",
-      "onboard_time": 1779871281,
-      "rank": 43,
-      "category": "电竞"
     },
     {
       "raw_hot": 155234,
@@ -39291,6 +39467,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 128978,
+      "num": 249773,
+      "word": "浪姐握手会",
+      "onboard_time": 1779878661,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 128968,
       "num": 128968,
       "word": "让袁隆平挠头的学生在沙漠种小麦",
@@ -41563,6 +41747,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 108742,
+      "num": 296348,
+      "word": "俞飞鸿和窦文涛同台问道",
+      "onboard_time": 1779878241,
+      "rank": 16,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 108696,
       "num": 108696,
       "word": "美光科技大涨7%",
@@ -42313,6 +42505,14 @@
       "onboard_time": 1777815202,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 100475,
+      "num": 291019,
+      "word": "陈丽君一眼好戏开场",
+      "onboard_time": 1779876440,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 100438,
@@ -46595,6 +46795,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 55941,
+      "num": 272953,
+      "word": "王一博人鱼年度期待影片",
+      "onboard_time": 1779879621,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 55883,
       "num": 279566,
       "word": "聂远12岁女儿好高",
@@ -48603,14 +48811,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 40046,
-      "num": 229193,
-      "word": "暴雨淹家夫妻俩1个玩手机1个补觉",
-      "onboard_time": 1779871400,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 40042,
       "num": 226606,
       "word": "垃圾最后一公里梗阻",
@@ -48665,6 +48865,14 @@
       "onboard_time": 1777559061,
       "rank": 45,
       "category": "财经"
+    },
+    {
+      "raw_hot": 39743,
+      "num": 292674,
+      "word": "武契奇夫人买了3套西服1条旗袍",
+      "onboard_time": 1779879022,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 39707,
@@ -48825,6 +49033,14 @@
       "onboard_time": 1779618022,
       "rank": 15,
       "category": "演出"
+    },
+    {
+      "raw_hot": 38206,
+      "num": 272902,
+      "word": "新郎被强塞葱和生鸡蛋放嘴里搅拌",
+      "onboard_time": 1779878780,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 38137,
@@ -49833,14 +50049,6 @@
       "onboard_time": 1778059341,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 31670,
-      "num": 33685,
-      "word": "耀眼",
-      "onboard_time": 1779830233,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 31407,
@@ -51539,6 +51747,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 19943,
+      "num": 284284,
+      "word": "女子因姥姥去世申请退机票被拒",
+      "onboard_time": 1779879681,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 19933,
       "num": 79673,
       "word": "刘诗雯回顾伦敦行",
@@ -52459,6 +52675,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 12280,
+      "num": 676097,
+      "word": "高质量发展看荆楚",
+      "onboard_time": 1779874280,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 12190,
       "num": 148623,
       "word": "女孩当服务员自卑被近8万人鼓励",
@@ -52609,6 +52833,14 @@
       "onboard_time": 1777782140,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 10638,
+      "num": 276545,
+      "word": "首位本科在读女大学生登顶珠峰",
+      "onboard_time": 1779879740,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 10610,
