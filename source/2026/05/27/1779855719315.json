@@ -1,0 +1,410 @@
+{
+  "runTime": 1779855719315,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1262850,
+        "num": 1262850,
+        "word": "女教师给父亲打伞为何被造谣",
+        "onboard_time": 1779842122,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 896261,
+        "num": 896261,
+        "word": "韩国股市涨到熔断",
+        "onboard_time": 1779848300,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 56034,
+        "num": 689020,
+        "word": "暴雨强对流2预警齐发",
+        "onboard_time": 1779854842,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1449086,
+        "num": 666635,
+        "word": "空调并不是开26度最省电",
+        "onboard_time": 1779847041,
+        "rank": 3,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 1126987,
+        "num": 664788,
+        "word": "确认出席VOGUE活动的艺人",
+        "onboard_time": 1779852139,
+        "rank": 4,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 634765,
+        "num": 634765,
+        "word": "曝杨紫获奖可能性最大",
+        "onboard_time": 1779849679,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 471775,
+        "num": 471775,
+        "word": "曝刘亦菲陈晓二搭",
+        "onboard_time": 1779853701,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 460077,
+        "num": 460077,
+        "word": "雷霆3比2马刺",
+        "onboard_time": 1779852501,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 421814,
+        "num": 421814,
+        "word": "终于知道怎么拍照没色差了",
+        "onboard_time": 1779845119,
+        "rank": 8,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 392004,
+        "num": 392004,
+        "word": "多家AI回应高考期间是否禁用解题",
+        "onboard_time": 1779852799,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2224403,
+        "num": 391935,
+        "word": "王鹤棣家炸串店3日内差评不到10条",
+        "onboard_time": 1779849740,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133441,
+        "num": 391807,
+        "word": "国台办回应林志玲辞去文策院职务",
+        "onboard_time": 1779854540,
+        "rank": 11,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1243300,
+        "num": 391501,
+        "word": "A股",
+        "onboard_time": 1779848960,
+        "rank": 12,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1169820,
+        "num": 391346,
+        "word": "杨紫手指甲黑的原因找到了",
+        "onboard_time": 1779851780,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1137568,
+        "num": 391202,
+        "word": "Jennie新歌歌词惹争议",
+        "onboard_time": 1779854061,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 413060,
+        "num": 390914,
+        "word": "马刺vs雷霆",
+        "onboard_time": 1779847699,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 101810,
+        "num": 390806,
+        "word": "田荣华其实是清鹤仙人的通房丫头",
+        "onboard_time": 1779846440,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 31750,
+        "num": 390626,
+        "word": "拆完红包还有周边",
+        "onboard_time": 1779854661,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 36066,
+        "num": 390400,
+        "word": "五个女博士公开检测报告",
+        "onboard_time": 1779854960,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104325,
+        "num": 390269,
+        "word": "蒋奇明把电影院搬进家里",
+        "onboard_time": 1779854661,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1758619,
+        "num": 390087,
+        "word": "王鹤棣把沈月拖着走",
+        "onboard_time": 1779847220,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166588,
+        "num": 389873,
+        "word": "网剧宝珠杀青",
+        "onboard_time": 1779854842,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 778119,
+        "num": 389650,
+        "word": "不要在吹头的时候和别人聊天",
+        "onboard_time": 1779852981,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 768528,
+        "num": 389478,
+        "word": "男子自认为妻子已死怕担责扔妻下土崖",
+        "onboard_time": 1779840681,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 686332,
+        "num": 389214,
+        "word": "曝崔雪莉金赛纶医生刺激患者极端选择",
+        "onboard_time": 1779854721,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 585517,
+        "num": 388992,
+        "word": "两子非亲生案女方觉得自己没有错",
+        "onboard_time": 1779851299,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 538382,
+        "num": 388915,
+        "word": "李登科回应娜扎张云龙恋情传闻",
+        "onboard_time": 1779843621,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 313948,
+        "num": 388767,
+        "word": "耀眼开播",
+        "onboard_time": 1779853761,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 432199,
+        "num": 388512,
+        "word": "真正的毕业胸花",
+        "onboard_time": 1779851119,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 196557,
+        "num": 388246,
+        "word": "垃圾不够烧真相调查",
+        "onboard_time": 1779847760,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 403572,
+        "num": 388067,
+        "word": "外卖订书钉什么时候可以灭绝",
+        "onboard_time": 1779853640,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 392704,
+        "num": 387875,
+        "word": "穆祉丞官宣个人巡演",
+        "onboard_time": 1779855620,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 387830,
+        "num": 387830,
+        "word": "SNH48在万花世界重聚了",
+        "onboard_time": 1779854361,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 311093,
+        "num": 377145,
+        "word": "13岁身高185的儿子跟妈妈要1块钱",
+        "onboard_time": 1779846200,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 375615,
+        "num": 375615,
+        "word": "曝郑恺缺席跑男宣传当天心事重重",
+        "onboard_time": 1779839659,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 371376,
+        "num": 371376,
+        "word": "撞脸王祖贤女孩瘦下来了",
+        "onboard_time": 1779853461,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 297302,
+        "num": 297302,
+        "word": "聊天记录 十二生肖挑战",
+        "onboard_time": 1779843321,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 71470,
+        "num": 286904,
+        "word": "雷霆马刺裁判连续误判",
+        "onboard_time": 1779855620,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 321567,
+        "num": 277772,
+        "word": "陈奕恒去拍毕业照了",
+        "onboard_time": 1779854842,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 34300,
+        "num": 268017,
+        "word": "杜华说小酒窝是娱乐圈天降紫微星",
+        "onboard_time": 1779854900,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 76762,
+        "num": 262457,
+        "word": "宋妍霏 干什么都会骂不如干就好",
+        "onboard_time": 1779855620,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93767,
+        "num": 248109,
+        "word": "程晓玥晒二胎月子照",
+        "onboard_time": 1779854900,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 241623,
+        "num": 241623,
+        "word": "容易焦虑的人都有一个共性",
+        "onboard_time": 1779839360,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 339265,
+        "num": 236701,
+        "word": "鞠婧祎开机请粉丝吃早餐",
+        "onboard_time": 1779852021,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 414895,
+        "num": 233990,
+        "word": "因为我弟改过两次名字",
+        "onboard_time": 1779847699,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 279355,
+        "num": 224472,
+        "word": "曾沛慈急性咽喉炎和鼻炎",
+        "onboard_time": 1779841941,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 213475,
+        "num": 213475,
+        "word": "亚洲第三家市值突破1万亿美元企业",
+        "onboard_time": 1779854721,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 201991,
+        "num": 201991,
+        "word": "世界杯伊朗男足仅比赛日跨境赴美",
+        "onboard_time": 1779844701,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 46644,
+        "num": 201263,
+        "word": "主流AI工具哪款更好用",
+        "onboard_time": 1779855562,
+        "rank": 48,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 24651,
+        "num": 199724,
+        "word": "小米MiMo模型API降价",
+        "onboard_time": 1779843140,
+        "rank": 49,
+        "category": "数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#这枚勋章见证中塞铁杆友谊#"
+    }
+  }
+}
