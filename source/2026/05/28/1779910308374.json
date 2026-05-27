@@ -1,0 +1,410 @@
+{
+  "runTime": 1779910308374,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 109785,
+        "num": 109785,
+        "word": "外国网红中国搭便车的视频火到国外",
+        "onboard_time": 1779896361,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80866,
+        "num": 80866,
+        "word": "店家是不是对小菜有什么误解",
+        "onboard_time": 1779880701,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 6027,
+        "num": 80846,
+        "word": "优质网络主播中国行天津行",
+        "onboard_time": 1779886521,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 192987,
+        "num": 80191,
+        "word": "王鹤棣不舒服只是迟到的自我保护",
+        "onboard_time": 1779888801,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139621,
+        "num": 79911,
+        "word": "男子连吃半个月香蕉补钾进了ICU",
+        "onboard_time": 1779895522,
+        "rank": 4,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 110557,
+        "num": 79534,
+        "word": "杨紫韩东君真的拍了落地签",
+        "onboard_time": 1779898220,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 59853,
+        "num": 79330,
+        "word": "南部战区回应荷兰军舰侵闯",
+        "onboard_time": 1779889761,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 55926,
+        "num": 78857,
+        "word": "将门独后 综艺",
+        "onboard_time": 1779891142,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 42168,
+        "num": 78609,
+        "word": "莱巴金娜法网爆冷出局",
+        "onboard_time": 1779902176,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 32763,
+        "num": 78118,
+        "word": "蔚来ES9",
+        "onboard_time": 1779889521,
+        "rank": 9,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 107647,
+        "num": 77717,
+        "word": "颜颜为李嘉凯发声",
+        "onboard_time": 1779893061,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 90859,
+        "num": 77131,
+        "word": "女教师打伞事件双方并非父女",
+        "onboard_time": 1779884122,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87556,
+        "num": 76818,
+        "word": "肖战捂胸口受伤路透",
+        "onboard_time": 1779897561,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 76728,
+        "num": 76728,
+        "word": "南方暴雨或最终影响所有人",
+        "onboard_time": 1779898341,
+        "rank": 13,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 73075,
+        "num": 73075,
+        "word": "女记者暗访代孕窝点被打骨折",
+        "onboard_time": 1779892342,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 67772,
+        "num": 67772,
+        "word": "四川彩民18元中2576万元大奖",
+        "onboard_time": 1779897740,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 67463,
+        "num": 67463,
+        "word": "小雪 无言",
+        "onboard_time": 1779886821,
+        "rank": 16,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 58378,
+        "num": 58378,
+        "word": "张月发文回应侯宇淘汰",
+        "onboard_time": 1779897799,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 54412,
+        "num": 54412,
+        "word": "关晓彤剧宣人脉",
+        "onboard_time": 1779884480,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 44024,
+        "num": 44024,
+        "word": "刘宇宁说王玉雯跳出体弱多病的感觉",
+        "onboard_time": 1779891023,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110171,
+        "num": 43757,
+        "word": "杭州非法代孕窝点现场曝光",
+        "onboard_time": 1779879920,
+        "rank": 20,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 50509,
+        "num": 43719,
+        "word": "25岁小伙恋32岁女老板因88万彩礼分手",
+        "onboard_time": 1779888561,
+        "rank": 21,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 43436,
+        "num": 43436,
+        "word": "男子脑梗女友想结婚被男方亲属拒绝",
+        "onboard_time": 1779892761,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 40497,
+        "num": 40497,
+        "word": "男子拐走网红边牧180元转卖宰杀",
+        "onboard_time": 1779895222,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35263,
+        "num": 35263,
+        "word": "耀眼",
+        "onboard_time": 1779878539,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 34545,
+        "num": 34545,
+        "word": "刘强东最新内部讲话",
+        "onboard_time": 1779881059,
+        "rank": 25,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 34279,
+        "num": 34279,
+        "word": "张凌赫王玉雯演爽了",
+        "onboard_time": 1779883761,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 34215,
+        "num": 34215,
+        "word": "鞠婧祎看见粉丝cos露芜衣的表情",
+        "onboard_time": 1779901217,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 32825,
+        "num": 34212,
+        "word": "陈都灵 翘楚",
+        "onboard_time": 1779896300,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 23382,
+        "num": 34204,
+        "word": "户口以后没那么重要了",
+        "onboard_time": 1779862520,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29895,
+        "num": 34198,
+        "word": "家业云包场乱成一锅粥了",
+        "onboard_time": 1779888982,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 29863,
+        "num": 34194,
+        "word": "身体这个部位莫名疼痛千万别不当回事",
+        "onboard_time": 1779901217,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 27636,
+        "num": 34189,
+        "word": "米兰 坐牢",
+        "onboard_time": 1779880460,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 27500,
+        "num": 34185,
+        "word": "马王杯",
+        "onboard_time": 1779891682,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 27232,
+        "num": 34175,
+        "word": "刘宇宁粉丝不舒服了",
+        "onboard_time": 1779884601,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 26365,
+        "num": 34171,
+        "word": "记者曝光地下代孕实验室遭拖拽骨折",
+        "onboard_time": 1779881961,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25943,
+        "num": 34164,
+        "word": "曾沛慈直播",
+        "onboard_time": 1779887721,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 25869,
+        "num": 34162,
+        "word": "两儿子非亲生案大儿子拒绝亲子鉴定",
+        "onboard_time": 1779884840,
+        "rank": 37,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 25663,
+        "num": 34152,
+        "word": "打个伞 怎么了",
+        "onboard_time": 1779890002,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24738,
+        "num": 34151,
+        "word": "莱巴金娜 失误",
+        "onboard_time": 1779897799,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 23633,
+        "num": 34144,
+        "word": "一诺律师声明",
+        "onboard_time": 1779884001,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 23547,
+        "num": 34133,
+        "word": "张月三公赛后千字长文",
+        "onboard_time": 1779889761,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 22986,
+        "num": 34128,
+        "word": "金银油集体大跌",
+        "onboard_time": 1779883641,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 22529,
+        "num": 34127,
+        "word": "50万买蔚来还是买宝马",
+        "onboard_time": 1779894082,
+        "rank": 43,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 22490,
+        "num": 34118,
+        "word": "李昀锐腋下管理",
+        "onboard_time": 1779875660,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20896,
+        "num": 34110,
+        "word": "4分钟黄金凯格尔运动",
+        "onboard_time": 1779894562,
+        "rank": 45,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 19966,
+        "num": 34107,
+        "word": "广州热到非洲狮都顶不住",
+        "onboard_time": 1779894681,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19392,
+        "num": 34101,
+        "word": "忆秦娥和刘红兵结婚了",
+        "onboard_time": 1779883700,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17409,
+        "num": 34097,
+        "word": "美军事力量将撤出伊朗周边",
+        "onboard_time": 1779890302,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 17309,
+        "num": 34092,
+        "word": "狼队 三板斧",
+        "onboard_time": 1779901278,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#中塞携手走出一条光明大道#"
+    }
+  }
+}

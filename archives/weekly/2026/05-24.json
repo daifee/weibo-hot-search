@@ -1,6 +1,6 @@
 {
   "startTime": 1779556240361,
-  "endTime": 1779905526975,
+  "endTime": 1779910308374,
   "band_list": [
     {
       "raw_hot": 15283499,
@@ -7841,6 +7841,14 @@
       "onboard_time": 1779684142,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 17309,
+      "num": 34092,
+      "word": "狼队 三板斧",
+      "onboard_time": 1779901278,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 17274,
