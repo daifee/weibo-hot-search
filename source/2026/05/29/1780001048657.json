@@ -1,0 +1,410 @@
+{
+  "runTime": 1780001048657,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 105565,
+        "num": 105565,
+        "word": "推特自动翻译 巴别塔",
+        "onboard_time": 1779987617,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 74154,
+        "num": 74154,
+        "word": "同一个人的早上和晚上区别有多大",
+        "onboard_time": 1779968181,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 5498,
+        "num": 68233,
+        "word": "三夏大规模小麦机收全面展开",
+        "onboard_time": 1779971841,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 65997,
+        "num": 65997,
+        "word": "姜乘澜眼镜妆",
+        "onboard_time": 1779979102,
+        "rank": 3,
+        "category": "美妆,网红"
+      },
+      {
+        "raw_hot": 59772,
+        "num": 59772,
+        "word": "甘孜通报稻城亚丁景区违规封堵省道",
+        "onboard_time": 1779978501,
+        "rank": 4,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 57699,
+        "num": 57699,
+        "word": "解放军驱离荷兰军机现场画面",
+        "onboard_time": 1779983240,
+        "rank": 5,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 55696,
+        "num": 55696,
+        "word": "法拉利史上首款电动车亮相",
+        "onboard_time": 1779994933,
+        "rank": 6,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 51517,
+        "num": 51517,
+        "word": "吴彤你别念了宋亚轩要笑晕了",
+        "onboard_time": 1779975141,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 45398,
+        "num": 45398,
+        "word": "小巷人家2剧情",
+        "onboard_time": 1779971121,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 26413,
+        "num": 45107,
+        "word": "古德温绝杀",
+        "onboard_time": 1779975682,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 87364,
+        "num": 44815,
+        "word": "女子微信辱骂他人被多人围殴成脑震荡",
+        "onboard_time": 1779974721,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 64082,
+        "num": 44091,
+        "word": "双汇的傲慢比抗生素超标更可怕",
+        "onboard_time": 1779979942,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 58650,
+        "num": 43840,
+        "word": "清华女博士称孩子像小狗一样被拴着",
+        "onboard_time": 1779985399,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 58492,
+        "num": 42991,
+        "word": "追尾致13死3伤车主已被控制",
+        "onboard_time": 1779986957,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 47416,
+        "num": 42324,
+        "word": "第一次对宋亚轩的身高有了实感",
+        "onboard_time": 1779974421,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 42319,
+        "num": 42319,
+        "word": "算力价格",
+        "onboard_time": 1779992595,
+        "rank": 15,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 35984,
+        "num": 35984,
+        "word": "赵今麦王安宇 一念江南",
+        "onboard_time": 1779966679,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 34109,
+        "num": 34109,
+        "word": "男子遭妻子家暴跳楼身亡细节公开",
+        "onboard_time": 1779964280,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23329,
+        "num": 33267,
+        "word": "中国自研高算力芯片突破4纳米",
+        "onboard_time": 1779975682,
+        "rank": 18,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 33197,
+        "num": 33197,
+        "word": "金饰价格集体大跌",
+        "onboard_time": 1779979523,
+        "rank": 19,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 37318,
+        "num": 33123,
+        "word": "25岁vs55岁肌肉的真实差别",
+        "onboard_time": 1779987617,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 30756,
+        "num": 30756,
+        "word": "杨紫白玉兰切片换了",
+        "onboard_time": 1779965480,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 30321,
+        "num": 30321,
+        "word": "稻城亚丁整改",
+        "onboard_time": 1779995414,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29649,
+        "num": 29649,
+        "word": "终于有人把自卑和敏感形容出来了",
+        "onboard_time": 1779963139,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 26930,
+        "num": 26930,
+        "word": "丁程鑫cue嫁人就嫁刘宇宁",
+        "onboard_time": 1779995294,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 26907,
+        "num": 26907,
+        "word": "法网",
+        "onboard_time": 1779991396,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 26091,
+        "num": 26091,
+        "word": "黄磊我也不舒服了",
+        "onboard_time": 1779965360,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 25356,
+        "num": 25356,
+        "word": "肖战藏海传白玉兰高光切片",
+        "onboard_time": 1779976822,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 23994,
+        "num": 23994,
+        "word": "高校教职工生日蛋糕预算66万",
+        "onboard_time": 1779978862,
+        "rank": 28,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 23989,
+        "num": 23989,
+        "word": "耀眼",
+        "onboard_time": 1779979224,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 23220,
+        "num": 23984,
+        "word": "广东90后女生用AI接了400万大单",
+        "onboard_time": 1779972080,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22188,
+        "num": 23980,
+        "word": "会说话在工作中很重要",
+        "onboard_time": 1779965839,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 21991,
+        "num": 23972,
+        "word": "印度 空调外机",
+        "onboard_time": 1779960621,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 21486,
+        "num": 23970,
+        "word": "游客吐槽九寨沟照镜子被索要2元",
+        "onboard_time": 1779987798,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21131,
+        "num": 23963,
+        "word": "翘楚定档",
+        "onboard_time": 1779974841,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20617,
+        "num": 23960,
+        "word": "比亚迪自研首款4纳米辅助驾驶芯片",
+        "onboard_time": 1779975682,
+        "rank": 35,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 19941,
+        "num": 23952,
+        "word": "辛纳法网爆冷出局",
+        "onboard_time": 1779977360,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 19451,
+        "num": 23944,
+        "word": "胡歌李沁吻戏",
+        "onboard_time": 1779970461,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 18714,
+        "num": 23939,
+        "word": "后车司机笑了半小时才敢开车上路",
+        "onboard_time": 1779961460,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 17908,
+        "num": 23932,
+        "word": "医生总结防胃癌的方法",
+        "onboard_time": 1779977360,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 17901,
+        "num": 23927,
+        "word": "披哥 荒岛求生",
+        "onboard_time": 1779987617,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 17670,
+        "num": 23922,
+        "word": "银行人员让村会计找单身穷的办贷款",
+        "onboard_time": 1779978081,
+        "rank": 41,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 17325,
+        "num": 23917,
+        "word": "A股集体大涨原因",
+        "onboard_time": 1779970280,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 16706,
+        "num": 23909,
+        "word": "贵州大学招聘要求配偶为本校博士",
+        "onboard_time": 1779974721,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15868,
+        "num": 23904,
+        "word": "深大送孙颖莎毕业祝福",
+        "onboard_time": 1779987617,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 15838,
+        "num": 23898,
+        "word": "秦娥下乡演出发生舞台事故后崩溃",
+        "onboard_time": 1779980722,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 15756,
+        "num": 23896,
+        "word": "日本再军事化的代价来了",
+        "onboard_time": 1779982520,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 15611,
+        "num": 23892,
+        "word": "撒贝宁cue樊振东",
+        "onboard_time": 1779977722,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 15442,
+        "num": 23882,
+        "word": "小巷人家2",
+        "onboard_time": 1779960500,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 15122,
+        "num": 23879,
+        "word": "主角好虐",
+        "onboard_time": 1779976883,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#国旗伴成长#"
+    }
+  }
+}
