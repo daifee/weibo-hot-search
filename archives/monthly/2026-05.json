@@ -1,6 +1,6 @@
 {
   "startTime": 1777565126834,
-  "endTime": 1779992687548,
+  "endTime": 1779997398503,
   "band_list": [
     {
       "raw_hot": 28198949,
@@ -52051,6 +52051,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 33898,
+      "num": 44194,
+      "word": "稻城亚丁整改",
+      "onboard_time": 1779995414,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 33865,
       "num": 192384,
       "word": "被残障人士领去超市花6块5买可乐",
@@ -53481,6 +53489,14 @@
       "onboard_time": 1777603698,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 25780,
+      "num": 43836,
+      "word": "丁程鑫cue嫁人就嫁刘宇宁",
+      "onboard_time": 1779995294,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 25568,

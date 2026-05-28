@@ -1,0 +1,410 @@
+{
+  "runTime": 1779997398503,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 107087,
+        "num": 107087,
+        "word": "姜乘澜眼镜妆",
+        "onboard_time": 1779979102,
+        "rank": 0,
+        "category": "美妆,网红"
+      },
+      {
+        "raw_hot": 102061,
+        "num": 102061,
+        "word": "推特自动翻译 巴别塔",
+        "onboard_time": 1779987617,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 5624,
+        "num": 88613,
+        "word": "三夏大规模小麦机收全面展开",
+        "onboard_time": 1779971841,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88068,
+        "num": 88068,
+        "word": "同一个人的早上和晚上区别有多大",
+        "onboard_time": 1779968181,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 77316,
+        "num": 77316,
+        "word": "甘孜通报稻城亚丁景区违规封堵省道",
+        "onboard_time": 1779978501,
+        "rank": 4,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 74259,
+        "num": 74259,
+        "word": "解放军驱离荷兰军机现场画面",
+        "onboard_time": 1779983240,
+        "rank": 5,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 63670,
+        "num": 63670,
+        "word": "吴彤你别念了宋亚轩要笑晕了",
+        "onboard_time": 1779975141,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 63193,
+        "num": 63193,
+        "word": "小巷人家2剧情",
+        "onboard_time": 1779971121,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 36040,
+        "num": 63083,
+        "word": "翘楚定档",
+        "onboard_time": 1779974841,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 33761,
+        "num": 62906,
+        "word": "中国自研高算力芯片突破4纳米",
+        "onboard_time": 1779975682,
+        "rank": 9,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 87507,
+        "num": 62712,
+        "word": "追尾致13死3伤车主已被控制",
+        "onboard_time": 1779986957,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 73141,
+        "num": 62603,
+        "word": "双汇的傲慢比抗生素超标更可怕",
+        "onboard_time": 1779979942,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 69608,
+        "num": 62335,
+        "word": "女子微信辱骂他人被多人围殴成脑震荡",
+        "onboard_time": 1779974721,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 67728,
+        "num": 62283,
+        "word": "算力价格",
+        "onboard_time": 1779992595,
+        "rank": 13,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 62135,
+        "num": 62135,
+        "word": "第一次对宋亚轩的身高有了实感",
+        "onboard_time": 1779974421,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 62121,
+        "num": 62121,
+        "word": "清华女博士称孩子像小狗一样被拴着",
+        "onboard_time": 1779985399,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 55356,
+        "num": 55356,
+        "word": "赵今麦王安宇 一念江南",
+        "onboard_time": 1779966679,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 47624,
+        "num": 47624,
+        "word": "杨紫白玉兰切片换了",
+        "onboard_time": 1779965480,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 44449,
+        "num": 44449,
+        "word": "男子遭妻子家暴跳楼身亡细节公开",
+        "onboard_time": 1779964280,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 38431,
+        "num": 44428,
+        "word": "印度 空调外机",
+        "onboard_time": 1779960621,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 45748,
+        "num": 44402,
+        "word": "25岁vs55岁肌肉的真实差别",
+        "onboard_time": 1779987617,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 36511,
+        "num": 44365,
+        "word": "耀眼",
+        "onboard_time": 1779979224,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 36216,
+        "num": 44332,
+        "word": "金饰价格集体大跌",
+        "onboard_time": 1779979523,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 34611,
+        "num": 44272,
+        "word": "终于有人把自卑和敏感形容出来了",
+        "onboard_time": 1779963139,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 34528,
+        "num": 44225,
+        "word": "黄磊我也不舒服了",
+        "onboard_time": 1779965360,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 33898,
+        "num": 44194,
+        "word": "稻城亚丁整改",
+        "onboard_time": 1779995414,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33765,
+        "num": 44166,
+        "word": "高校教职工生日蛋糕预算66万",
+        "onboard_time": 1779978862,
+        "rank": 26,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 32182,
+        "num": 44126,
+        "word": "古德温绝杀",
+        "onboard_time": 1779975682,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 28665,
+        "num": 44104,
+        "word": "辛纳法网爆冷出局",
+        "onboard_time": 1779977360,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 28477,
+        "num": 44052,
+        "word": "法网",
+        "onboard_time": 1779991396,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 27575,
+        "num": 44023,
+        "word": "广东90后女生用AI接了400万大单",
+        "onboard_time": 1779972080,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26796,
+        "num": 43994,
+        "word": "会说话在工作中很重要",
+        "onboard_time": 1779965839,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 26293,
+        "num": 43938,
+        "word": "肖战藏海传白玉兰高光切片",
+        "onboard_time": 1779976822,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 26225,
+        "num": 43907,
+        "word": "6月只有三个愿望",
+        "onboard_time": 1779990855,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 25808,
+        "num": 43861,
+        "word": "游客吐槽九寨沟照镜子被索要2元",
+        "onboard_time": 1779987798,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25780,
+        "num": 43836,
+        "word": "丁程鑫cue嫁人就嫁刘宇宁",
+        "onboard_time": 1779995294,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23862,
+        "num": 43789,
+        "word": "披哥 荒岛求生",
+        "onboard_time": 1779987617,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 22438,
+        "num": 43751,
+        "word": "A股集体大涨原因",
+        "onboard_time": 1779970280,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 22365,
+        "num": 43723,
+        "word": "比亚迪自研首款4纳米辅助驾驶芯片",
+        "onboard_time": 1779975682,
+        "rank": 38,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 22030,
+        "num": 43666,
+        "word": "上海男篮2比0广厦男篮",
+        "onboard_time": 1779989297,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 21496,
+        "num": 43628,
+        "word": "贵州大学招聘要求配偶为本校博士",
+        "onboard_time": 1779974721,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21162,
+        "num": 43611,
+        "word": "胡歌李沁吻戏",
+        "onboard_time": 1779970461,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20456,
+        "num": 43560,
+        "word": "后车司机笑了半小时才敢开车上路",
+        "onboard_time": 1779961460,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 20136,
+        "num": 43538,
+        "word": "主角好虐",
+        "onboard_time": 1779976883,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20109,
+        "num": 43472,
+        "word": "医生总结防胃癌的方法",
+        "onboard_time": 1779977360,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 19284,
+        "num": 43464,
+        "word": "秦娥下乡演出发生舞台事故后崩溃",
+        "onboard_time": 1779980722,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 18890,
+        "num": 43411,
+        "word": "法拉利史上首款电动车亮相",
+        "onboard_time": 1779994933,
+        "rank": 46,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 18652,
+        "num": 43355,
+        "word": "深大送孙颖莎毕业祝福",
+        "onboard_time": 1779987617,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 18397,
+        "num": 43314,
+        "word": "小巷人家2",
+        "onboard_time": 1779960500,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 18344,
+        "num": 43287,
+        "word": "银行人员让村会计找单身穷的办贷款",
+        "onboard_time": 1779978081,
+        "rank": 49,
+        "category": "舆论监督"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平复信中美两国学生#"
+    }
+  }
+}
