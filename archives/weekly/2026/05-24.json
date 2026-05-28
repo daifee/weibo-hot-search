@@ -1,6 +1,6 @@
 {
   "startTime": 1779556240361,
-  "endTime": 1780008867669,
+  "endTime": 1780011603463,
   "band_list": [
     {
       "raw_hot": 15283499,
@@ -849,6 +849,14 @@
       "onboard_time": 1779962180,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1214730,
+      "num": 1214730,
+      "word": "甘孜通报稻城亚丁景区违规封堵省道",
+      "onboard_time": 1779978501,
+      "rank": 18,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 1202358,
@@ -1979,6 +1987,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 675051,
+      "num": 355080,
+      "word": "双汇的傲慢比抗生素超标更可怕",
+      "onboard_time": 1779979942,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 673824,
       "num": 321201,
       "word": "吴磊晒黑后的身材好火辣",
@@ -2145,14 +2161,6 @@
       "onboard_time": 1779974421,
       "rank": 14,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 615914,
-      "num": 641560,
-      "word": "甘孜通报稻城亚丁景区违规封堵省道",
-      "onboard_time": 1779978501,
-      "rank": 18,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 615859,
@@ -2691,6 +2699,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 495626,
+      "num": 733292,
+      "word": "解放军驱离荷兰军机现场画面",
+      "onboard_time": 1779983240,
+      "rank": 5,
+      "category": "军事"
+    },
+    {
       "raw_hot": 494468,
       "num": 358663,
       "word": "德国性侵案主犯直播作案过程",
@@ -2793,6 +2809,14 @@
       "onboard_time": 1779763823,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 472097,
+      "num": 472097,
+      "word": "吴彤你别念了宋亚轩要笑晕了",
+      "onboard_time": 1779975141,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 471775,
@@ -3017,14 +3041,6 @@
       "onboard_time": 1779802942,
       "rank": 1,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 444422,
-      "num": 444422,
-      "word": "吴彤你别念了宋亚轩要笑晕了",
-      "onboard_time": 1779975141,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 443105,
@@ -3667,19 +3683,19 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 364269,
-      "num": 266488,
-      "word": "双汇的傲慢比抗生素超标更可怕",
-      "onboard_time": 1779979942,
-      "rank": 12,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 364245,
       "num": 594051,
       "word": "两儿子非亲生案大儿子拒绝亲子鉴定",
       "onboard_time": 1779884840,
       "rank": 39,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 362067,
+      "num": 362067,
+      "word": "银行人员让村会计找单身穷的办贷款",
+      "onboard_time": 1779978081,
+      "rank": 33,
       "category": "舆论监督"
     },
     {
@@ -4051,14 +4067,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 330809,
-      "num": 330809,
-      "word": "解放军驱离荷兰军机现场画面",
-      "onboard_time": 1779983240,
-      "rank": 5,
-      "category": "军事"
-    },
-    {
       "raw_hot": 329686,
       "num": 387708,
       "word": "王者荣耀",
@@ -4227,6 +4235,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 315100,
+      "num": 353193,
+      "word": "女子微信辱骂他人被多人围殴成脑震荡",
+      "onboard_time": 1779974721,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 313972,
       "num": 560671,
       "word": "很多工作明明可以双休",
@@ -4321,6 +4337,14 @@
       "onboard_time": 1779600080,
       "rank": 7,
       "category": "情感"
+    },
+    {
+      "raw_hot": 304952,
+      "num": 351242,
+      "word": "山东问题鸡蛋已封存",
+      "onboard_time": 1780005675,
+      "rank": 49,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 304736,
@@ -5083,6 +5107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 252714,
+      "num": 437622,
+      "word": "法拉利史上首款电动车亮相",
+      "onboard_time": 1779756201,
+      "rank": 17,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 251342,
       "num": 452969,
       "word": "耀眼",
@@ -5137,6 +5169,14 @@
       "onboard_time": 1779963139,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 247901,
+      "num": 348661,
+      "word": "金饰价格集体大跌",
+      "onboard_time": 1779979523,
+      "rank": 18,
+      "category": "财经"
     },
     {
       "raw_hot": 247379,
@@ -5788,7 +5828,7 @@
     },
     {
       "raw_hot": 212490,
-      "num": 212490,
+      "num": 357328,
       "word": "推特自动翻译 巴别塔",
       "onboard_time": 1779987617,
       "rank": 1,
@@ -5825,14 +5865,6 @@
       "onboard_time": 1779872541,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 211022,
-      "num": 338943,
-      "word": "银行人员让村会计找单身穷的办贷款",
-      "onboard_time": 1779978081,
-      "rank": 33,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 210734,
@@ -5905,14 +5937,6 @@
       "onboard_time": 1779945800,
       "rank": 28,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 206342,
-      "num": 91190,
-      "word": "山东问题鸡蛋已封存",
-      "onboard_time": 1780005675,
-      "rank": 49,
-      "category": "议题讨论"
     },
     {
       "raw_hot": 206238,
@@ -6057,14 +6081,6 @@
       "onboard_time": 1779753380,
       "rank": 28,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 199800,
-      "num": 143959,
-      "word": "女子微信辱骂他人被多人围殴成脑震荡",
-      "onboard_time": 1779974721,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 199518,
@@ -6321,14 +6337,6 @@
       "onboard_time": 1779582862,
       "rank": 41,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 185864,
-      "num": 437622,
-      "word": "法拉利史上首款电动车亮相",
-      "onboard_time": 1779756201,
-      "rank": 17,
-      "category": "汽车"
     },
     {
       "raw_hot": 185796,
@@ -6723,6 +6731,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 163547,
+      "num": 342716,
+      "word": "清华女博士称孩子像小狗一样被拴着",
+      "onboard_time": 1779985399,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 163349,
       "num": 332846,
       "word": "邓超问鹿晗敢回答孙俪吗",
@@ -6827,12 +6843,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 157163,
+      "num": 339448,
+      "word": "算力价格",
+      "onboard_time": 1779992595,
+      "rank": 41,
+      "category": "财经"
+    },
+    {
       "raw_hot": 155692,
       "num": 155692,
       "word": "阿森纳捧起英超冠军奖杯",
       "onboard_time": 1779664278,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 154592,
+      "num": 337752,
+      "word": "货车小区内超速奶奶保护孙子身亡",
+      "onboard_time": 1780011137,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 154268,
@@ -6849,6 +6881,14 @@
       "onboard_time": 1779767422,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 153468,
+      "num": 336934,
+      "word": "25岁vs55岁肌肉的真实差别",
+      "onboard_time": 1779987617,
+      "rank": 20,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 153084,
@@ -6873,14 +6913,6 @@
       "onboard_time": 1779590181,
       "rank": 36,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 152513,
-      "num": 206756,
-      "word": "金饰价格集体大跌",
-      "onboard_time": 1779979523,
-      "rank": 18,
-      "category": "财经"
     },
     {
       "raw_hot": 152131,
@@ -7147,14 +7179,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 137561,
-      "num": 194246,
-      "word": "清华女博士称孩子像小狗一样被拴着",
-      "onboard_time": 1779985399,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 136590,
       "num": 136590,
       "word": "曾沛慈时尚首封",
@@ -7179,12 +7203,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 134232,
+      "num": 333658,
+      "word": "追尾致13死3伤车主已被控制",
+      "onboard_time": 1779986957,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 133915,
       "num": 299499,
       "word": "车行老板说油车掉价20万都没人买",
       "onboard_time": 1779789561,
       "rank": 18,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 133915,
+      "num": 332206,
+      "word": "肖战这手臂线条",
+      "onboard_time": 1780009216,
+      "rank": 23,
+      "category": "艺人,作品衍生"
     },
     {
       "raw_hot": 133138,
@@ -7217,6 +7257,14 @@
       "onboard_time": 1779928520,
       "rank": 44,
       "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 131768,
+      "num": 329955,
+      "word": "网传浪姐三公个喜前十",
+      "onboard_time": 1780011137,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 131550,
@@ -7299,14 +7347,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 126252,
-      "num": 126252,
-      "word": "追尾致13死3伤车主已被控制",
-      "onboard_time": 1779986957,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 126151,
       "num": 569163,
       "word": "泡药杨梅曝光杨梅滞销果农哽咽求助",
@@ -7321,6 +7361,14 @@
       "onboard_time": 1779675440,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 125392,
+      "num": 324672,
+      "word": "刘宇宁 谁上星光大赏敢要钱",
+      "onboard_time": 1780009698,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 125196,
@@ -7619,14 +7667,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 108948,
-      "num": 98419,
-      "word": "算力价格",
-      "onboard_time": 1779992595,
-      "rank": 41,
-      "category": "财经"
-    },
-    {
       "raw_hot": 108742,
       "num": 296348,
       "word": "俞飞鸿和窦文涛同台问道",
@@ -7641,6 +7681,14 @@
       "onboard_time": 1779612983,
       "rank": 28,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 108352,
+      "num": 321166,
+      "word": "孙杨一天给张豆豆发100多条消息",
+      "onboard_time": 1780009037,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 108302,
@@ -7716,7 +7764,7 @@
     },
     {
       "raw_hot": 104399,
-      "num": 104399,
+      "num": 287123,
       "word": "撒贝宁cue樊振东",
       "onboard_time": 1779977722,
       "rank": 44,
@@ -7729,6 +7777,22 @@
       "onboard_time": 1779854661,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 104010,
+      "num": 318424,
+      "word": "农妇袭警案当事人已无法正常讲话",
+      "onboard_time": 1780011439,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 104005,
+      "num": 316852,
+      "word": "33岁环卫女工一边扫地一边考研",
+      "onboard_time": 1780011439,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 103716,
@@ -7849,6 +7913,14 @@
       "onboard_time": 1779887841,
       "rank": 48,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 97471,
+      "num": 313754,
+      "word": "张凌赫丁程鑫第一案赢了",
+      "onboard_time": 1780009338,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 97268,
@@ -8131,14 +8203,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 84040,
-      "num": 100109,
-      "word": "25岁vs55岁肌肉的真实差别",
-      "onboard_time": 1779987617,
-      "rank": 20,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 83670,
       "num": 372799,
       "word": "管泽元TheShy晒合照",
@@ -8241,6 +8305,14 @@
       "onboard_time": 1779933021,
       "rank": 46,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 78356,
+      "num": 308943,
+      "word": "豆包辟谣建议婴儿每顿喂60ml奶",
+      "onboard_time": 1780007836,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 78348,
@@ -8404,7 +8476,7 @@
     },
     {
       "raw_hot": 72400,
-      "num": 98580,
+      "num": 290908,
       "word": "日本再军事化的代价来了",
       "onboard_time": 1779982520,
       "rank": 49,
@@ -8747,6 +8819,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 58328,
+      "num": 293385,
+      "word": "中国车市要变天了吗",
+      "onboard_time": 1780011021,
+      "rank": 45,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 57788,
       "num": 376339,
       "word": "LGD DOTA2",
@@ -8769,6 +8849,14 @@
       "onboard_time": 1779942982,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 57037,
+      "num": 288413,
+      "word": "稻城亚丁整改",
+      "onboard_time": 1779995414,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 56751,
@@ -8849,14 +8937,6 @@
       "onboard_time": 1779641840,
       "rank": 48,
       "category": "财经,互联网"
-    },
-    {
-      "raw_hot": 52146,
-      "num": 52146,
-      "word": "豆包辟谣建议婴儿每顿喂60ml奶",
-      "onboard_time": 1780007836,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 52121,
@@ -9089,14 +9169,6 @@
       "onboard_time": 1779883280,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 44309,
-      "num": 48217,
-      "word": "稻城亚丁整改",
-      "onboard_time": 1779995414,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 44272,

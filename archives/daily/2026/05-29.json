@@ -1,6 +1,6 @@
 {
   "startTime": 1779987630369,
-  "endTime": 1780008867669,
+  "endTime": 1780011603463,
   "band_list": [
     {
       "raw_hot": 2485680,
@@ -12,15 +12,23 @@
     },
     {
       "raw_hot": 1706670,
-      "num": 273644,
+      "num": 345409,
       "word": "张子枫是严浩翔答辩老师",
       "onboard_time": 1779969859,
       "rank": 10,
       "category": "艺人"
     },
     {
+      "raw_hot": 1214730,
+      "num": 1214730,
+      "word": "甘孜通报稻城亚丁景区违规封堵省道",
+      "onboard_time": 1779978501,
+      "rank": 0,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 863522,
-      "num": 266740,
+      "num": 294757,
       "word": "陈妍希晒断掉的骨头",
       "onboard_time": 1779962180,
       "rank": 11,
@@ -28,35 +36,51 @@
     },
     {
       "raw_hot": 700116,
-      "num": 199468,
+      "num": 322980,
       "word": "曝景甜降价出售上海豪宅",
       "onboard_time": 1779956660,
       "rank": 22,
       "category": "艺人"
     },
     {
-      "raw_hot": 615914,
-      "num": 641560,
-      "word": "甘孜通报稻城亚丁景区违规封堵省道",
-      "onboard_time": 1779978501,
-      "rank": 0,
-      "category": "辟谣/通报"
+      "raw_hot": 675051,
+      "num": 355080,
+      "word": "双汇的傲慢比抗生素超标更可怕",
+      "onboard_time": 1779979942,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 524419,
-      "num": 262034,
+      "num": 296320,
       "word": "柳智敏腿型",
       "onboard_time": 1779978201,
       "rank": 13,
       "category": "艺人"
     },
     {
+      "raw_hot": 495626,
+      "num": 733292,
+      "word": "解放军驱离荷兰军机现场画面",
+      "onboard_time": 1779983240,
+      "rank": 5,
+      "category": "军事"
+    },
+    {
       "raw_hot": 490494,
-      "num": 230888,
+      "num": 354029,
       "word": "欧阳娣娣晒与严浩翔合照",
       "onboard_time": 1779967999,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 472097,
+      "num": 472097,
+      "word": "吴彤你别念了宋亚轩要笑晕了",
+      "onboard_time": 1779975141,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 470579,
@@ -91,28 +115,36 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 364269,
-      "num": 266488,
-      "word": "双汇的傲慢比抗生素超标更可怕",
-      "onboard_time": 1779979942,
-      "rank": 12,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 330809,
-      "num": 330809,
-      "word": "解放军驱离荷兰军机现场画面",
-      "onboard_time": 1779983240,
-      "rank": 5,
-      "category": "军事"
+      "raw_hot": 362067,
+      "num": 362067,
+      "word": "银行人员让村会计找单身穷的办贷款",
+      "onboard_time": 1779978081,
+      "rank": 49,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 316780,
-      "num": 316780,
+      "num": 325667,
       "word": "小巷人家2剧情",
       "onboard_time": 1779971121,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 315100,
+      "num": 353193,
+      "word": "女子微信辱骂他人被多人围殴成脑震荡",
+      "onboard_time": 1779974721,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 304952,
+      "num": 351242,
+      "word": "山东问题鸡蛋已封存",
+      "onboard_time": 1780005675,
+      "rank": 49,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 294315,
@@ -124,7 +156,7 @@
     },
     {
       "raw_hot": 285945,
-      "num": 219604,
+      "num": 346820,
       "word": "第一次对宋亚轩的身高有了实感",
       "onboard_time": 1779974421,
       "rank": 17,
@@ -132,15 +164,31 @@
     },
     {
       "raw_hot": 283140,
-      "num": 283140,
+      "num": 310098,
       "word": "杨紫白玉兰切片换了",
       "onboard_time": 1779965480,
       "rank": 7,
       "category": "剧集"
     },
     {
+      "raw_hot": 252714,
+      "num": 359733,
+      "word": "法拉利史上首款电动车亮相",
+      "onboard_time": 1779994933,
+      "rank": 46,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 247901,
+      "num": 348661,
+      "word": "金饰价格集体大跌",
+      "onboard_time": 1779979523,
+      "rank": 18,
+      "category": "财经"
+    },
+    {
       "raw_hot": 234152,
-      "num": 196007,
+      "num": 303320,
       "word": "Angelababy 马甲线",
       "onboard_time": 1779972440,
       "rank": 25,
@@ -155,16 +203,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 229967,
-      "num": 229967,
-      "word": "吴彤你别念了宋亚轩要笑晕了",
-      "onboard_time": 1779975141,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 219101,
-      "num": 194264,
+      "num": 299860,
       "word": "田曦薇看张凌赫穿大深V的表情",
       "onboard_time": 1779966620,
       "rank": 28,
@@ -172,7 +212,7 @@
     },
     {
       "raw_hot": 217315,
-      "num": 199167,
+      "num": 342777,
       "word": "男子遭妻子家暴跳楼身亡细节公开",
       "onboard_time": 1779964280,
       "rank": 23,
@@ -180,35 +220,19 @@
     },
     {
       "raw_hot": 212490,
-      "num": 212490,
+      "num": 357328,
       "word": "推特自动翻译 巴别塔",
       "onboard_time": 1779987617,
       "rank": 1,
       "category": "互联网"
     },
     {
-      "raw_hot": 206342,
-      "num": 91190,
-      "word": "山东问题鸡蛋已封存",
-      "onboard_time": 1780005675,
-      "rank": 49,
-      "category": "议题讨论"
-    },
-    {
       "raw_hot": 203223,
-      "num": 203223,
+      "num": 327424,
       "word": "高校教职工生日蛋糕预算66万",
       "onboard_time": 1779978862,
       "rank": 19,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 199800,
-      "num": 143959,
-      "word": "女子微信辱骂他人被多人围殴成脑震荡",
-      "onboard_time": 1779974721,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 194244,
@@ -219,20 +243,36 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 185864,
-      "num": 185864,
-      "word": "法拉利史上首款电动车亮相",
-      "onboard_time": 1779994933,
-      "rank": 46,
-      "category": "汽车"
+      "raw_hot": 163547,
+      "num": 342716,
+      "word": "清华女博士称孩子像小狗一样被拴着",
+      "onboard_time": 1779985399,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
-      "raw_hot": 152513,
-      "num": 206756,
-      "word": "金饰价格集体大跌",
-      "onboard_time": 1779979523,
-      "rank": 18,
+      "raw_hot": 157163,
+      "num": 339448,
+      "word": "算力价格",
+      "onboard_time": 1779992595,
+      "rank": 41,
       "category": "财经"
+    },
+    {
+      "raw_hot": 154592,
+      "num": 337752,
+      "word": "货车小区内超速奶奶保护孙子身亡",
+      "onboard_time": 1780011137,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 153468,
+      "num": 336934,
+      "word": "25岁vs55岁肌肉的真实差别",
+      "onboard_time": 1779987617,
+      "rank": 20,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 144641,
@@ -260,7 +300,7 @@
     },
     {
       "raw_hot": 142425,
-      "num": 194988,
+      "num": 311388,
       "word": "贵州大学招聘要求配偶为本校博士",
       "onboard_time": 1779974721,
       "rank": 26,
@@ -268,11 +308,19 @@
     },
     {
       "raw_hot": 141495,
-      "num": 281840,
+      "num": 306048,
       "word": "中国自研高算力芯片突破4纳米",
       "onboard_time": 1779975682,
       "rank": 8,
       "category": "数码"
+    },
+    {
+      "raw_hot": 141484,
+      "num": 334429,
+      "word": "黄磊我也不舒服了",
+      "onboard_time": 1779965360,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 138008,
@@ -283,28 +331,36 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 137561,
-      "num": 194246,
-      "word": "清华女博士称孩子像小狗一样被拴着",
-      "onboard_time": 1779985399,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 131555,
-      "num": 131555,
-      "word": "银行人员让村会计找单身穷的办贷款",
-      "onboard_time": 1779978081,
-      "rank": 49,
-      "category": "舆论监督"
-    },
-    {
-      "raw_hot": 126252,
-      "num": 126252,
+      "raw_hot": 134232,
+      "num": 333658,
       "word": "追尾致13死3伤车主已被控制",
       "onboard_time": 1779986957,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 133915,
+      "num": 332206,
+      "word": "肖战这手臂线条",
+      "onboard_time": 1780009216,
+      "rank": 23,
+      "category": "艺人,作品衍生"
+    },
+    {
+      "raw_hot": 131768,
+      "num": 329955,
+      "word": "网传浪姐三公个喜前十",
+      "onboard_time": 1780011137,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 125392,
+      "num": 324672,
+      "word": "刘宇宁 谁上星光大赏敢要钱",
+      "onboard_time": 1780009698,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 122173,
@@ -315,16 +371,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 118084,
-      "num": 118084,
-      "word": "黄磊我也不舒服了",
-      "onboard_time": 1779965360,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 116464,
-      "num": 277154,
+      "num": 301936,
       "word": "古德温绝杀",
       "onboard_time": 1779975682,
       "rank": 9,
@@ -340,7 +388,7 @@
     },
     {
       "raw_hot": 114845,
-      "num": 114845,
+      "num": 297345,
       "word": "会说话在工作中很重要",
       "onboard_time": 1779965839,
       "rank": 40,
@@ -363,12 +411,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 108948,
-      "num": 98419,
-      "word": "算力价格",
-      "onboard_time": 1779992595,
-      "rank": 41,
-      "category": "财经"
+      "raw_hot": 108352,
+      "num": 321166,
+      "word": "孙杨一天给张豆豆发100多条消息",
+      "onboard_time": 1780009037,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 108061,
@@ -380,11 +428,27 @@
     },
     {
       "raw_hot": 104399,
-      "num": 104399,
+      "num": 287123,
       "word": "撒贝宁cue樊振东",
       "onboard_time": 1779977722,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 104010,
+      "num": 318424,
+      "word": "农妇袭警案当事人已无法正常讲话",
+      "onboard_time": 1780011439,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 104005,
+      "num": 316852,
+      "word": "33岁环卫女工一边扫地一边考研",
+      "onboard_time": 1780011439,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 103467,
@@ -395,6 +459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 102522,
+      "num": 315310,
+      "word": "肖战藏海传白玉兰高光切片",
+      "onboard_time": 1779976822,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 101004,
       "num": 101004,
       "word": "卢昱晓晒与檀健次合照",
@@ -403,16 +475,16 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 95725,
-      "num": 98906,
-      "word": "肖战藏海传白玉兰高光切片",
-      "onboard_time": 1779976822,
-      "rank": 35,
-      "category": "剧集"
+      "raw_hot": 97471,
+      "num": 313754,
+      "word": "张凌赫丁程鑫第一案赢了",
+      "onboard_time": 1780009338,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 93667,
-      "num": 98840,
+      "num": 304887,
       "word": "A股集体大涨原因",
       "onboard_time": 1779970280,
       "rank": 46,
@@ -435,16 +507,16 @@
       "category": "体育"
     },
     {
-      "raw_hot": 84040,
-      "num": 100109,
-      "word": "25岁vs55岁肌肉的真实差别",
-      "onboard_time": 1779987617,
-      "rank": 20,
-      "category": "健康医疗"
+      "raw_hot": 78356,
+      "num": 308943,
+      "word": "豆包辟谣建议婴儿每顿喂60ml奶",
+      "onboard_time": 1780007836,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 72400,
-      "num": 98580,
+      "num": 290908,
       "word": "日本再军事化的代价来了",
       "onboard_time": 1779982520,
       "rank": 49,
@@ -459,11 +531,19 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 52146,
-      "num": 52146,
-      "word": "豆包辟谣建议婴儿每顿喂60ml奶",
-      "onboard_time": 1780007836,
-      "rank": 27,
+      "raw_hot": 58328,
+      "num": 293385,
+      "word": "中国车市要变天了吗",
+      "onboard_time": 1780011021,
+      "rank": 45,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 57037,
+      "num": 288413,
+      "word": "稻城亚丁整改",
+      "onboard_time": 1779995414,
+      "rank": 25,
       "category": "民生新闻"
     },
     {
@@ -505,14 +585,6 @@
       "onboard_time": 1779961460,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 44309,
-      "num": 48217,
-      "word": "稻城亚丁整改",
-      "onboard_time": 1779995414,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 35840,
@@ -595,8 +667,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 10133,
-      "num": 472157,
+      "raw_hot": 15234,
+      "num": 584964,
       "word": "三夏大规模小麦机收全面展开",
       "onboard_time": 1779971841,
       "rank": 2,
