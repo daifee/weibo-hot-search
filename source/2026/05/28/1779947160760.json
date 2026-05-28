@@ -1,0 +1,410 @@
+{
+  "runTime": 1779947160760,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1492227,
+        "num": 1492227,
+        "word": "711雪糕 劣爆了",
+        "onboard_time": 1779927260,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1202358,
+        "num": 1202358,
+        "word": "小巷人家2是原班人马",
+        "onboard_time": 1779941963,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 58478,
+        "num": 926188,
+        "word": "神21航天员要返回地球了",
+        "onboard_time": 1779938361,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1327133,
+        "num": 918530,
+        "word": "周一请假和周五请假是不一样的",
+        "onboard_time": 1779940041,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 870556,
+        "num": 870556,
+        "word": "奔跑吧路透",
+        "onboard_time": 1779942802,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 828985,
+        "num": 828985,
+        "word": "孙杨被张豆豆拉黑后用监控喊话",
+        "onboard_time": 1779944722,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 453383,
+        "num": 453383,
+        "word": "VOGUE直播间两位明星不出镜",
+        "onboard_time": 1779934879,
+        "rank": 6,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 272225,
+        "num": 453277,
+        "word": "詹姆斯阵营立场正式曝光",
+        "onboard_time": 1779938420,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 805202,
+        "num": 449499,
+        "word": "印度留学生称感觉内脏在沸腾",
+        "onboard_time": 1779941963,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 2156737,
+        "num": 449463,
+        "word": "陆毅17岁女儿不会剥虾",
+        "onboard_time": 1779939562,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 985766,
+        "num": 446415,
+        "word": "陈小希爸妈为沈月发声",
+        "onboard_time": 1779927739,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 727194,
+        "num": 444437,
+        "word": "23岁女孩意外离世生前称被贷款",
+        "onboard_time": 1779944481,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 874385,
+        "num": 442904,
+        "word": "浪姐宿舍 甲醛",
+        "onboard_time": 1779925219,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 761018,
+        "num": 439775,
+        "word": "芒果一口气宣了89部大剧",
+        "onboard_time": 1779932179,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 607737,
+        "num": 439108,
+        "word": "现在的鞋底越做越窄了",
+        "onboard_time": 1779945082,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 703187,
+        "num": 435963,
+        "word": "Liz鼻部疑似整形",
+        "onboard_time": 1779945022,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 535234,
+        "num": 434815,
+        "word": "司机将被丢弃娃娃洗净挂满垃圾车",
+        "onboard_time": 1779942262,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 433848,
+        "num": 433848,
+        "word": "杭州非法试管婴儿事件情况通报",
+        "onboard_time": 1779938661,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 403415,
+        "num": 403415,
+        "word": "李嘉凯被封号",
+        "onboard_time": 1779938661,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 78623,
+        "num": 403063,
+        "word": "微型电脑主机全球卖爆了",
+        "onboard_time": 1779933021,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 368834,
+        "num": 401366,
+        "word": "会玩是一种很稀缺的能力",
+        "onboard_time": 1779943762,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 353406,
+        "num": 399233,
+        "word": "叶舒华瘦了好多",
+        "onboard_time": 1779944122,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 344491,
+        "num": 396930,
+        "word": "王鹤棣李沁咸鱼飞升预告",
+        "onboard_time": 1779946700,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 326650,
+        "num": 394750,
+        "word": "公安部派工作组赴河南南阳",
+        "onboard_time": 1779931699,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 325804,
+        "num": 393314,
+        "word": "孕检一切正常孩子一岁多确诊SMA",
+        "onboard_time": 1779942081,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 313977,
+        "num": 390073,
+        "word": "严浩翔没拍上毕业合照",
+        "onboard_time": 1779935359,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 277595,
+        "num": 387779,
+        "word": "曝何宝生放弃3亿家产出家真正原因",
+        "onboard_time": 1779936861,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 316082,
+        "num": 387482,
+        "word": "年会不能停2定档",
+        "onboard_time": 1779936622,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 206805,
+        "num": 383723,
+        "word": "伊朗对美空军基地进行打击",
+        "onboard_time": 1779945800,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 314352,
+        "num": 382344,
+        "word": "王鹤棣咸鱼飞升",
+        "onboard_time": 1779924679,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 49564,
+        "num": 380365,
+        "word": "记者曝光非法试管婴儿押送转运内幕",
+        "onboard_time": 1779945741,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 320819,
+        "num": 378168,
+        "word": "浪姐有人嗓子痛有人流鼻血",
+        "onboard_time": 1779934160,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 319327,
+        "num": 377255,
+        "word": "双汇发布致歉声明",
+        "onboard_time": 1779940881,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 303776,
+        "num": 374683,
+        "word": "歌手第二期歌单",
+        "onboard_time": 1779936920,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 83670,
+        "num": 372799,
+        "word": "管泽元TheShy晒合照",
+        "onboard_time": 1779944181,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 288487,
+        "num": 371492,
+        "word": "杨紫白玉兰提名高光片段",
+        "onboard_time": 1779942081,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 282886,
+        "num": 367960,
+        "word": "LV包长毛了",
+        "onboard_time": 1779945980,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 274428,
+        "num": 367362,
+        "word": "女教师打伞事件拍摄者发声",
+        "onboard_time": 1779943161,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 269622,
+        "num": 364486,
+        "word": "林俊杰妈妈疑似取关大嫂",
+        "onboard_time": 1779934941,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 70835,
+        "num": 363696,
+        "word": "秦昊长针眼了",
+        "onboard_time": 1779946041,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 234102,
+        "num": 360753,
+        "word": "国际月经日",
+        "onboard_time": 1779943282,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 269395,
+        "num": 357940,
+        "word": "李佳琦焦虑自己怎么老成这样",
+        "onboard_time": 1779947001,
+        "rank": 41,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 180391,
+        "num": 357266,
+        "word": "A股唯一韬股价3天涨了21.8%",
+        "onboard_time": 1779944961,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 77311,
+        "num": 354376,
+        "word": "NBA官方追加升级普拉姆利犯规",
+        "onboard_time": 1779934100,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 63457,
+        "num": 352330,
+        "word": "小红书官宣获得世界杯版权",
+        "onboard_time": 1779946941,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 16683,
+        "num": 350155,
+        "word": "唱歌变声器",
+        "onboard_time": 1779924438,
+        "rank": 45,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 240134,
+        "num": 349734,
+        "word": "李沁咸鱼飞升神女镜头",
+        "onboard_time": 1779942501,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 232064,
+        "num": 346815,
+        "word": "香港女星自曝在中山买房不到200万港币",
+        "onboard_time": 1779930860,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 57324,
+        "num": 345701,
+        "word": "nova和时代少年团一起冲向盛夏",
+        "onboard_time": 1779942982,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 216962,
+        "num": 342857,
+        "word": "5类人要少吃香蕉",
+        "onboard_time": 1779947059,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#国旗伴成长#"
+    }
+  }
+}
