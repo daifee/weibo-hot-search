@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1779964795543,
+  "endTime": 1779971795668,
   "band_list": [
     {
       "raw_hot": 46860992,
@@ -2171,6 +2171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 3327055,
+      "num": 356762,
+      "word": "欧阳娣娣晒与严浩翔合照",
+      "onboard_time": 1779967999,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 3306102,
       "num": 3306102,
       "word": "伊朗首都发生爆炸",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1776234680,
       "rank": 47,
       "category": "演出"
-    },
-    {
-      "raw_hot": 3076202,
-      "num": 516135,
-      "word": "王亚飞 迪丽热巴",
-      "onboard_time": 1777359501,
-      "rank": 10,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [
