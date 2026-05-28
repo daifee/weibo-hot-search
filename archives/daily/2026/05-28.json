@@ -1,6 +1,6 @@
 {
   "startTime": 1779900200352,
-  "endTime": 1779947160760,
+  "endTime": 1779958185953,
   "band_list": [
     {
       "raw_hot": 4977531,
@@ -16,6 +16,22 @@
       "word": "林俊杰删掉大哥大嫂合照",
       "onboard_time": 1779896179,
       "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2328831,
+      "num": 298242,
+      "word": "曝景甜降价出售上海豪宅",
+      "onboard_time": 1779956660,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2157872,
+      "num": 174995,
+      "word": "曝刘恺威新恋情",
+      "onboard_time": 1779952521,
+      "rank": 45,
       "category": "艺人"
     },
     {
@@ -51,12 +67,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1367924,
+      "num": 650254,
+      "word": "活荔枝 死荔枝",
+      "onboard_time": 1779952581,
+      "rank": 3,
+      "category": "美食"
+    },
+    {
       "raw_hot": 1327133,
       "num": 1047220,
       "word": "周一请假和周五请假是不一样的",
       "onboard_time": 1779940041,
       "rank": 3,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1307744,
+      "num": 1307744,
+      "word": "主角 泄漏",
+      "onboard_time": 1779953000,
+      "rank": 0,
+      "category": "剧集"
     },
     {
       "raw_hot": 1274192,
@@ -97,6 +129,14 @@
       "onboard_time": 1779924378,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 1174758,
+      "num": 634603,
+      "word": "浪姐节目组发甲醛检测报告",
+      "onboard_time": 1779954080,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 1073140,
@@ -244,7 +284,7 @@
     },
     {
       "raw_hot": 607737,
-      "num": 439108,
+      "num": 577671,
       "word": "现在的鞋底越做越窄了",
       "onboard_time": 1779945082,
       "rank": 14,
@@ -265,6 +305,14 @@
       "onboard_time": 1779884122,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 590799,
+      "num": 590799,
+      "word": "主角刘红兵疑似车祸去世",
+      "onboard_time": 1779956781,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 580667,
@@ -371,12 +419,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 473955,
+      "num": 473955,
+      "word": "张凌赫第一个发现王玉雯不见了",
+      "onboard_time": 1779951860,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 449403,
       "num": 512033,
       "word": "詹姆斯阵营立场正式曝光",
       "onboard_time": 1779938420,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 448058,
+      "num": 415729,
+      "word": "秦昊说被伊能静删习惯了",
+      "onboard_time": 1779950720,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 436683,
@@ -409,6 +473,14 @@
       "onboard_time": 1779894082,
       "rank": 41,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 382224,
+      "num": 382224,
+      "word": "孙怡长文告别三公",
+      "onboard_time": 1779952281,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 368834,
@@ -451,6 +523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 348723,
+      "num": 322609,
+      "word": "曝肖战被团队保护得很好",
+      "onboard_time": 1779953841,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 344491,
       "num": 396930,
       "word": "王鹤棣李沁咸鱼飞升预告",
@@ -473,6 +553,14 @@
       "onboard_time": 1779927860,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 327417,
+      "num": 327417,
+      "word": "美国年轻人街头围攻外卖机器人",
+      "onboard_time": 1779952881,
+      "rank": 16,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 325804,
@@ -505,6 +593,14 @@
       "onboard_time": 1779938119,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 313511,
+      "num": 313511,
+      "word": "LV太子妃怀孕",
+      "onboard_time": 1779957801,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 310739,
@@ -595,12 +691,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 259761,
+      "num": 259761,
+      "word": "刘恺威 李晓峰",
+      "onboard_time": 1779958042,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 259405,
       "num": 533125,
       "word": "DeepSeek崩了",
       "onboard_time": 1779935840,
       "rank": 14,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 256046,
+      "num": 256046,
+      "word": "父母会好奇你的生活痕迹",
+      "onboard_time": 1779952160,
+      "rank": 26,
+      "category": "情感"
     },
     {
       "raw_hot": 254587,
@@ -627,6 +739,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 240640,
+      "num": 590226,
+      "word": "AG赵腾 赛训团队无任何变动",
+      "onboard_time": 1779956240,
+      "rank": 6,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 240134,
       "num": 349734,
       "word": "李沁咸鱼飞升神女镜头",
@@ -649,6 +769,14 @@
       "onboard_time": 1779936499,
       "rank": 43,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 236227,
+      "num": 236227,
+      "word": "漳州泡药杨梅已损失超1.2亿",
+      "onboard_time": 1779956000,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 234532,
@@ -723,6 +851,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 210734,
+      "num": 210734,
+      "word": "养狗后正式确诊为子涵妈",
+      "onboard_time": 1779955222,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 209285,
+      "num": 587382,
+      "word": "李斌回应50万买宝马还是买蔚来",
+      "onboard_time": 1779949399,
+      "rank": 7,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 208685,
       "num": 507145,
       "word": "长鑫科技日赚2.75亿元",
@@ -779,6 +923,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 193424,
+      "num": 193424,
+      "word": "iPhoneUltra保护壳曝光",
+      "onboard_time": 1779952760,
+      "rank": 33,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 191761,
+      "num": 191761,
+      "word": "男子疑遭妻子家暴后跳楼警方不立案",
+      "onboard_time": 1779955280,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 190844,
       "num": 313261,
       "word": "刘强东最新内部讲话",
@@ -793,6 +953,14 @@
       "onboard_time": 1779930561,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 186437,
+      "num": 579539,
+      "word": "小米超大众丰田成全球新能源第七",
+      "onboard_time": 1779951680,
+      "rank": 9,
+      "category": "汽车"
     },
     {
       "raw_hot": 185608,
@@ -827,6 +995,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 178493,
+      "num": 178493,
+      "word": "孟加拉国酷似特朗普水牛宰杀前得救",
+      "onboard_time": 1779956720,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 177571,
       "num": 452085,
       "word": "NBA官方追加升级普拉姆利犯规",
@@ -843,6 +1019,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 174715,
+      "num": 174715,
+      "word": "给阿嬷的情书票房破12亿",
+      "onboard_time": 1779957922,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
       "raw_hot": 174671,
       "num": 584949,
       "word": "四川彩民18元中2576万元大奖",
@@ -857,6 +1041,30 @@
       "onboard_time": 1779934100,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 174037,
+      "num": 174037,
+      "word": "严浩翔和老师合影",
+      "onboard_time": 1779953781,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 171344,
+      "num": 171344,
+      "word": "差点给近视眼吓哭了",
+      "onboard_time": 1779957981,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 160227,
+      "num": 239529,
+      "word": "BLG五人全员一阵",
+      "onboard_time": 1779951381,
+      "rank": 28,
+      "category": "电竞"
     },
     {
       "raw_hot": 151567,
@@ -1011,6 +1219,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 104664,
+      "num": 176460,
+      "word": "iG仁川人只剩JackeyLove",
+      "onboard_time": 1779949280,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 97939,
       "num": 460157,
       "word": "蔚来ES9",
@@ -1025,6 +1241,14 @@
       "onboard_time": 1779891682,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 96360,
+      "num": 177591,
+      "word": "周深发了一块电路板",
+      "onboard_time": 1779957381,
+      "rank": 41,
+      "category": "音乐"
     },
     {
       "raw_hot": 91859,
@@ -1147,6 +1371,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 72982,
+      "num": 295759,
+      "word": "王安宇随手一拍都是大片",
+      "onboard_time": 1779955641,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 72269,
       "num": 525765,
       "word": "耀眼热度走势",
@@ -1195,6 +1427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 66505,
+      "num": 176989,
+      "word": "领克10+刷新百万跑车圈速记录",
+      "onboard_time": 1779954741,
+      "rank": 42,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 64839,
       "num": 520199,
       "word": "经期需要更高标准卫生巾",
@@ -1209,6 +1449,14 @@
       "onboard_time": 1779946941,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 62599,
+      "num": 689013,
+      "word": "神21神23交接空间站钥匙",
+      "onboard_time": 1779953900,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 57324,
@@ -1259,6 +1507,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 41838,
+      "num": 179480,
+      "word": "伊朗革命卫队据报向美油轮开火",
+      "onboard_time": 1779956781,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 38915,
+      "num": 583164,
+      "word": "拖拽致女记者骨折男子被刑事立案",
+      "onboard_time": 1779957080,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 36423,
       "num": 233243,
       "word": "张月三公赛后千字长文",
@@ -1304,6 +1568,14 @@
       "word": "3岁男孩被体育中心足球门砸中身亡",
       "onboard_time": 1779940881,
       "rank": 40,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 30690,
+      "num": 300928,
+      "word": "济南一医院招人捐粪便300元一次",
+      "onboard_time": 1779957681,
+      "rank": 20,
       "category": "民生新闻"
     },
     {
@@ -1361,6 +1633,14 @@
       "onboard_time": 1779923477,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 15395,
+      "num": 178323,
+      "word": "乌鲁木齐医保通报药房卖回流药",
+      "onboard_time": 1779957681,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 13716,

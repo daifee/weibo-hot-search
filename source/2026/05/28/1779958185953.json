@@ -1,0 +1,410 @@
+{
+  "runTime": 1779958185953,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1307744,
+        "num": 1307744,
+        "word": "主角 泄漏",
+        "onboard_time": 1779953000,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 564644,
+        "num": 852162,
+        "word": "711雪糕 劣爆了",
+        "onboard_time": 1779927260,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 62599,
+        "num": 689013,
+        "word": "神21神23交接空间站钥匙",
+        "onboard_time": 1779953900,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1367924,
+        "num": 650254,
+        "word": "活荔枝 死荔枝",
+        "onboard_time": 1779952581,
+        "rank": 3,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 1174758,
+        "num": 634603,
+        "word": "浪姐节目组发甲醛检测报告",
+        "onboard_time": 1779954080,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 590799,
+        "num": 590799,
+        "word": "主角刘红兵疑似车祸去世",
+        "onboard_time": 1779956781,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 240640,
+        "num": 590226,
+        "word": "AG赵腾 赛训团队无任何变动",
+        "onboard_time": 1779956240,
+        "rank": 6,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 209285,
+        "num": 587382,
+        "word": "李斌回应50万买宝马还是买蔚来",
+        "onboard_time": 1779949399,
+        "rank": 7,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 38915,
+        "num": 583164,
+        "word": "拖拽致女记者骨折男子被刑事立案",
+        "onboard_time": 1779957080,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 186437,
+        "num": 579539,
+        "word": "小米超大众丰田成全球新能源第七",
+        "onboard_time": 1779951680,
+        "rank": 9,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 577671,
+        "num": 577671,
+        "word": "现在的鞋底越做越窄了",
+        "onboard_time": 1779945082,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 473955,
+        "num": 473955,
+        "word": "张凌赫第一个发现王玉雯不见了",
+        "onboard_time": 1779951860,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 472753,
+        "num": 472753,
+        "word": "小巷人家2是原班人马",
+        "onboard_time": 1779941963,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 430138,
+        "num": 430138,
+        "word": "印度留学生称感觉内脏在沸腾",
+        "onboard_time": 1779941963,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 448058,
+        "num": 415729,
+        "word": "秦昊说被伊能静删习惯了",
+        "onboard_time": 1779950720,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 382224,
+        "num": 382224,
+        "word": "孙怡长文告别三公",
+        "onboard_time": 1779952281,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 327417,
+        "num": 327417,
+        "word": "美国年轻人街头围攻外卖机器人",
+        "onboard_time": 1779952881,
+        "rank": 16,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 348723,
+        "num": 322609,
+        "word": "曝肖战被团队保护得很好",
+        "onboard_time": 1779953841,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 316593,
+        "num": 316593,
+        "word": "孕检一切正常孩子一岁多确诊SMA",
+        "onboard_time": 1779942081,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 313511,
+        "num": 313511,
+        "word": "LV太子妃怀孕",
+        "onboard_time": 1779957801,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30690,
+        "num": 300928,
+        "word": "济南一医院招人捐粪便300元一次",
+        "onboard_time": 1779957681,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2328831,
+        "num": 298242,
+        "word": "曝景甜降价出售上海豪宅",
+        "onboard_time": 1779956660,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 72982,
+        "num": 295759,
+        "word": "王安宇随手一拍都是大片",
+        "onboard_time": 1779955641,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 295452,
+        "num": 295452,
+        "word": "周一请假和周五请假是不一样的",
+        "onboard_time": 1779940041,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 260648,
+        "num": 260648,
+        "word": "Liz鼻部疑似整形",
+        "onboard_time": 1779945022,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 259761,
+        "num": 259761,
+        "word": "刘恺威 李晓峰",
+        "onboard_time": 1779958042,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 256046,
+        "num": 256046,
+        "word": "父母会好奇你的生活痕迹",
+        "onboard_time": 1779952160,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 249735,
+        "num": 249735,
+        "word": "会玩是一种很稀缺的能力",
+        "onboard_time": 1779943762,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 160227,
+        "num": 239529,
+        "word": "BLG五人全员一阵",
+        "onboard_time": 1779951381,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 236227,
+        "num": 236227,
+        "word": "漳州泡药杨梅已损失超1.2亿",
+        "onboard_time": 1779956000,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 216877,
+        "num": 216877,
+        "word": "5类人要少吃香蕉",
+        "onboard_time": 1779947059,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 211820,
+        "num": 211820,
+        "word": "孙杨被张豆豆拉黑后用监控喊话",
+        "onboard_time": 1779944722,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 210734,
+        "num": 210734,
+        "word": "养狗后正式确诊为子涵妈",
+        "onboard_time": 1779955222,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 193424,
+        "num": 193424,
+        "word": "iPhoneUltra保护壳曝光",
+        "onboard_time": 1779952760,
+        "rank": 33,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 125763,
+        "num": 191961,
+        "word": "杭州非法试管婴儿事件情况通报",
+        "onboard_time": 1779938661,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 191761,
+        "num": 191761,
+        "word": "男子疑遭妻子家暴后跳楼警方不立案",
+        "onboard_time": 1779955280,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 187696,
+        "num": 187696,
+        "word": "司机将被丢弃娃娃洗净挂满垃圾车",
+        "onboard_time": 1779942262,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 181580,
+        "num": 181580,
+        "word": "陈小希爸妈为沈月发声",
+        "onboard_time": 1779927739,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 41838,
+        "num": 179480,
+        "word": "伊朗革命卫队据报向美油轮开火",
+        "onboard_time": 1779956781,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 178493,
+        "num": 178493,
+        "word": "孟加拉国酷似特朗普水牛宰杀前得救",
+        "onboard_time": 1779956720,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 15395,
+        "num": 178323,
+        "word": "乌鲁木齐医保通报药房卖回流药",
+        "onboard_time": 1779957681,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96360,
+        "num": 177591,
+        "word": "周深发了一块电路板",
+        "onboard_time": 1779957381,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 66505,
+        "num": 176989,
+        "word": "领克10+刷新百万跑车圈速记录",
+        "onboard_time": 1779954741,
+        "rank": 42,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 104664,
+        "num": 176460,
+        "word": "iG仁川人只剩JackeyLove",
+        "onboard_time": 1779949280,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 69013,
+        "num": 175615,
+        "word": "詹姆斯阵营立场正式曝光",
+        "onboard_time": 1779938420,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2157872,
+        "num": 174995,
+        "word": "曝刘恺威新恋情",
+        "onboard_time": 1779952521,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174715,
+        "num": 174715,
+        "word": "给阿嬷的情书票房破12亿",
+        "onboard_time": 1779957922,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 168213,
+        "num": 174235,
+        "word": "国际月经日",
+        "onboard_time": 1779943282,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 174037,
+        "num": 174037,
+        "word": "严浩翔和老师合影",
+        "onboard_time": 1779953781,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171344,
+        "num": 171344,
+        "word": "差点给近视眼吓哭了",
+        "onboard_time": 1779957981,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#国旗伴成长#"
+    }
+  }
+}
