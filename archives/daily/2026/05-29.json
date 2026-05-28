@@ -1,0 +1,411 @@
+{
+  "startTime": 1779987630369,
+  "endTime": 1779987630369,
+  "band_list": [
+    {
+      "raw_hot": 2485680,
+      "num": 200708,
+      "word": "曝Jennie和内娱顶流谈过恋爱",
+      "onboard_time": 1779978442,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1706670,
+      "num": 273644,
+      "word": "张子枫是严浩翔答辩老师",
+      "onboard_time": 1779969859,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 863522,
+      "num": 266740,
+      "word": "陈妍希晒断掉的骨头",
+      "onboard_time": 1779962180,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 700116,
+      "num": 199468,
+      "word": "曝景甜降价出售上海豪宅",
+      "onboard_time": 1779956660,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 524419,
+      "num": 262034,
+      "word": "柳智敏腿型",
+      "onboard_time": 1779978201,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 490494,
+      "num": 230888,
+      "word": "欧阳娣娣晒与严浩翔合照",
+      "onboard_time": 1779967999,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 470579,
+      "num": 470579,
+      "word": "姜乘澜眼镜妆",
+      "onboard_time": 1779979102,
+      "rank": 3,
+      "category": "美妆,网红"
+    },
+    {
+      "raw_hot": 464108,
+      "num": 197841,
+      "word": "刘恺威 李晓峰",
+      "onboard_time": 1779958042,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 454955,
+      "num": 641560,
+      "word": "甘孜通报稻城亚丁景区违规封堵省道",
+      "onboard_time": 1779978501,
+      "rank": 0,
+      "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 428907,
+      "num": 428907,
+      "word": "同一个人的早上和晚上区别有多大",
+      "onboard_time": 1779968181,
+      "rank": 4,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 383586,
+      "num": 477407,
+      "word": "翘楚定档",
+      "onboard_time": 1779974841,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 330809,
+      "num": 330809,
+      "word": "解放军驱离荷兰军机现场画面",
+      "onboard_time": 1779983240,
+      "rank": 5,
+      "category": "军事"
+    },
+    {
+      "raw_hot": 316780,
+      "num": 316780,
+      "word": "小巷人家2剧情",
+      "onboard_time": 1779971121,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 294315,
+      "num": 248294,
+      "word": "91岁演员罗兰回应被TVB除名",
+      "onboard_time": 1779984978,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 285945,
+      "num": 219604,
+      "word": "第一次对宋亚轩的身高有了实感",
+      "onboard_time": 1779974421,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 283140,
+      "num": 283140,
+      "word": "杨紫白玉兰切片换了",
+      "onboard_time": 1779965480,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 266488,
+      "num": 266488,
+      "word": "双汇的傲慢比抗生素超标更可怕",
+      "onboard_time": 1779979942,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 234152,
+      "num": 196007,
+      "word": "Angelababy 马甲线",
+      "onboard_time": 1779972440,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 231549,
+      "num": 231549,
+      "word": "印度 空调外机",
+      "onboard_time": 1779960621,
+      "rank": 15,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 219101,
+      "num": 194264,
+      "word": "田曦薇看张凌赫穿大深V的表情",
+      "onboard_time": 1779966620,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 217315,
+      "num": 199167,
+      "word": "男子遭妻子家暴跳楼身亡细节公开",
+      "onboard_time": 1779964280,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 203223,
+      "num": 203223,
+      "word": "高校教职工生日蛋糕预算66万",
+      "onboard_time": 1779978862,
+      "rank": 19,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 194270,
+      "num": 194270,
+      "word": "吴彤你别念了宋亚轩要笑晕了",
+      "onboard_time": 1779975141,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 194244,
+      "num": 194244,
+      "word": "张函瑞明明cha被下架",
+      "onboard_time": 1779984080,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 152513,
+      "num": 206756,
+      "word": "金饰价格集体大跌",
+      "onboard_time": 1779979523,
+      "rank": 18,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 144641,
+      "num": 144641,
+      "word": "戚薇李承铉儿子都这么大了",
+      "onboard_time": 1779963801,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 143937,
+      "num": 143937,
+      "word": "赵今麦王安宇 一念江南",
+      "onboard_time": 1779966679,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 143168,
+      "num": 143168,
+      "word": "吴世勋一天来两次微博",
+      "onboard_time": 1779977541,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 142425,
+      "num": 194988,
+      "word": "贵州大学招聘要求配偶为本校博士",
+      "onboard_time": 1779974721,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 141495,
+      "num": 281840,
+      "word": "中国自研高算力芯片突破4纳米",
+      "onboard_time": 1779975682,
+      "rank": 8,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 138008,
+      "num": 124418,
+      "word": "主角好虐",
+      "onboard_time": 1779976883,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 137561,
+      "num": 194246,
+      "word": "清华女博士称孩子像小狗一样被拴着",
+      "onboard_time": 1779985399,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 127822,
+      "num": 143959,
+      "word": "女子微信辱骂他人被多人围殴成脑震荡",
+      "onboard_time": 1779974721,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 126252,
+      "num": 126252,
+      "word": "追尾致13死3伤车主已被控制",
+      "onboard_time": 1779986957,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 122173,
+      "num": 122173,
+      "word": "终于有人把自卑和敏感形容出来了",
+      "onboard_time": 1779963139,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 118084,
+      "num": 118084,
+      "word": "黄磊我也不舒服了",
+      "onboard_time": 1779965360,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 116464,
+      "num": 277154,
+      "word": "古德温绝杀",
+      "onboard_time": 1779975682,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 115669,
+      "num": 115669,
+      "word": "耀眼",
+      "onboard_time": 1779979224,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 114845,
+      "num": 114845,
+      "word": "会说话在工作中很重要",
+      "onboard_time": 1779965839,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 110297,
+      "num": 110297,
+      "word": "广东90后女生用AI接了400万大单",
+      "onboard_time": 1779972080,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 109763,
+      "num": 109763,
+      "word": "周也恋情风波后首更博",
+      "onboard_time": 1779963980,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 108061,
+      "num": 108061,
+      "word": "胡歌李沁吻戏",
+      "onboard_time": 1779970461,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 104399,
+      "num": 104399,
+      "word": "撒贝宁cue樊振东",
+      "onboard_time": 1779977722,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 103467,
+      "num": 202519,
+      "word": "辛纳法网爆冷出局",
+      "onboard_time": 1779977360,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 101004,
+      "num": 101004,
+      "word": "卢昱晓晒与檀健次合照",
+      "onboard_time": 1779968301,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 93667,
+      "num": 93667,
+      "word": "A股集体大涨原因",
+      "onboard_time": 1779970280,
+      "rank": 46,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 93151,
+      "num": 93151,
+      "word": "Keria太夸张了",
+      "onboard_time": 1779979402,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 89400,
+      "num": 89400,
+      "word": "布朗空砍50分",
+      "onboard_time": 1779982761,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 72400,
+      "num": 82557,
+      "word": "日本再军事化的代价来了",
+      "onboard_time": 1779982520,
+      "rank": 49,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 10133,
+      "num": 472157,
+      "word": "三夏大规模小麦机收全面展开",
+      "onboard_time": 1779971841,
+      "rank": 2,
+      "category": "民生新闻"
+    }
+  ],
+  "hotgov_list": [
+    {
+      "word": "#国旗伴成长#"
+    }
+  ]
+}
