@@ -1,6 +1,6 @@
 {
   "startTime": 1779987630369,
-  "endTime": 1780001048657,
+  "endTime": 1780005774972,
   "band_list": [
     {
       "raw_hot": 2485680,
@@ -211,6 +211,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 147425,
+      "num": 143959,
+      "word": "女子微信辱骂他人被多人围殴成脑震荡",
+      "onboard_time": 1779974721,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 144641,
       "num": 144641,
       "word": "戚薇李承铉儿子都这么大了",
@@ -264,14 +272,6 @@
       "word": "清华女博士称孩子像小狗一样被拴着",
       "onboard_time": 1779985399,
       "rank": 29,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 127822,
-      "num": 143959,
-      "word": "女子微信辱骂他人被多人围殴成脑震荡",
-      "onboard_time": 1779974721,
-      "rank": 32,
       "category": "民生新闻"
     },
     {
@@ -411,20 +411,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 68523,
+      "num": 68523,
+      "word": "法拉利史上首款电动车亮相",
+      "onboard_time": 1779994933,
+      "rank": 46,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 67728,
       "num": 98419,
       "word": "算力价格",
       "onboard_time": 1779992595,
       "rank": 41,
       "category": "财经"
-    },
-    {
-      "raw_hot": 55696,
-      "num": 55696,
-      "word": "法拉利史上首款电动车亮相",
-      "onboard_time": 1779994933,
-      "rank": 46,
-      "category": "汽车"
     },
     {
       "raw_hot": 52121,
@@ -443,12 +443,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 40682,
+      "raw_hot": 45583,
       "num": 98906,
       "word": "肖战藏海传白玉兰高光切片",
       "onboard_time": 1779976822,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 45019,
+      "num": 52691,
+      "word": "银行人员让村会计找单身穷的办贷款",
+      "onboard_time": 1779978081,
+      "rank": 49,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 38560,
@@ -481,6 +489,14 @@
       "onboard_time": 1779995414,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 31522,
+      "num": 43836,
+      "word": "丁程鑫cue嫁人就嫁刘宇宁",
+      "onboard_time": 1779995294,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 30630,
@@ -539,12 +555,20 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 26930,
-      "num": 43836,
-      "word": "丁程鑫cue嫁人就嫁刘宇宁",
-      "onboard_time": 1779995294,
-      "rank": 35,
-      "category": "综艺"
+      "raw_hot": 25871,
+      "num": 28602,
+      "word": "蔡徐坤马来西亚音乐节",
+      "onboard_time": 1780003935,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 22030,
+      "num": 28592,
+      "word": "美国年轻人爱上中国三线城市",
+      "onboard_time": 1779979282,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 18397,
@@ -555,12 +579,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 18344,
-      "num": 43287,
-      "word": "银行人员让村会计找单身穷的办贷款",
-      "onboard_time": 1779978081,
+      "raw_hot": 16289,
+      "num": 28587,
+      "word": "山东问题鸡蛋已封存",
+      "onboard_time": 1780005675,
       "rank": 49,
-      "category": "舆论监督"
+      "category": "议题讨论"
     },
     {
       "raw_hot": 10133,

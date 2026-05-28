@@ -1,6 +1,6 @@
 {
   "startTime": 1779556240361,
-  "endTime": 1780001048657,
+  "endTime": 1780005774972,
   "band_list": [
     {
       "raw_hot": 15283499,
@@ -6939,6 +6939,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 147425,
+      "num": 143959,
+      "word": "女子微信辱骂他人被多人围殴成脑震荡",
+      "onboard_time": 1779974721,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 147288,
       "num": 331773,
       "word": "湖南衡阳发生火灾5死1伤",
@@ -7257,14 +7265,6 @@
       "onboard_time": 1779554241,
       "rank": 36,
       "category": "演出"
-    },
-    {
-      "raw_hot": 127822,
-      "num": 143959,
-      "word": "女子微信辱骂他人被多人围殴成脑震荡",
-      "onboard_time": 1779974721,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 127448,
@@ -8499,6 +8499,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 68523,
+      "num": 437622,
+      "word": "法拉利史上首款电动车亮相",
+      "onboard_time": 1779756201,
+      "rank": 17,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 68191,
       "num": 387664,
       "word": "张杰唱的是天下也是归途",
@@ -8785,14 +8793,6 @@
       "onboard_time": 1779898940,
       "rank": 49,
       "category": "财经"
-    },
-    {
-      "raw_hot": 55696,
-      "num": 437622,
-      "word": "法拉利史上首款电动车亮相",
-      "onboard_time": 1779756201,
-      "rank": 17,
-      "category": "汽车"
     },
     {
       "raw_hot": 55214,
@@ -9355,6 +9355,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 31522,
+      "num": 43836,
+      "word": "丁程鑫cue嫁人就嫁刘宇宁",
+      "onboard_time": 1779995294,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 31315,
       "num": 91755,
       "word": "重庆狼队十一冠",
@@ -9595,14 +9603,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 26930,
-      "num": 43836,
-      "word": "丁程鑫cue嫁人就嫁刘宇宁",
-      "onboard_time": 1779995294,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 26485,
       "num": 536150,
       "word": "陈伯狙击赛",
@@ -9625,6 +9625,14 @@
       "onboard_time": 1779979703,
       "rank": 34,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 25871,
+      "num": 28602,
+      "word": "蔡徐坤马来西亚音乐节",
+      "onboard_time": 1780003935,
+      "rank": 32,
+      "category": "演出"
     },
     {
       "raw_hot": 25451,
@@ -9849,6 +9857,14 @@
       "onboard_time": 1779886521,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 16289,
+      "num": 28587,
+      "word": "山东问题鸡蛋已封存",
+      "onboard_time": 1780005675,
+      "rank": 49,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 16123,
