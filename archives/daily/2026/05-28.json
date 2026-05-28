@@ -1,6 +1,6 @@
 {
   "startTime": 1779900200352,
-  "endTime": 1779958185953,
+  "endTime": 1779964795543,
   "band_list": [
     {
       "raw_hot": 4977531,
@@ -19,7 +19,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 2328831,
+      "raw_hot": 2540250,
       "num": 298242,
       "word": "曝景甜降价出售上海豪宅",
       "onboard_time": 1779956660,
@@ -59,6 +59,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1800360,
+      "num": 1800360,
+      "word": "小巷人家2",
+      "onboard_time": 1779960500,
+      "rank": 0,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1685458,
       "num": 1492227,
       "word": "711雪糕 劣爆了",
@@ -73,6 +81,14 @@
       "onboard_time": 1779952581,
       "rank": 3,
       "category": "美食"
+    },
+    {
+      "raw_hot": 1341743,
+      "num": 281650,
+      "word": "刘恺威 李晓峰",
+      "onboard_time": 1779958042,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 1327133,
@@ -105,6 +121,14 @@
       "onboard_time": 1779879920,
       "rank": 20,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 1220343,
+      "num": 419991,
+      "word": "陈妍希晒断掉的骨头",
+      "onboard_time": 1779962180,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1202358,
@@ -145,6 +169,14 @@
       "onboard_time": 1779893061,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 933843,
+      "num": 731347,
+      "word": "后车司机笑了半小时才敢开车上路",
+      "onboard_time": 1779961460,
+      "rank": 3,
+      "category": "幽默"
     },
     {
       "raw_hot": 905685,
@@ -211,6 +243,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 764972,
+      "num": 419955,
+      "word": "德云社处罚杨鹤通",
+      "onboard_time": 1779960562,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 727194,
       "num": 444437,
       "word": "23岁女孩意外离世生前称被贷款",
@@ -259,6 +299,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 668110,
+      "num": 914645,
+      "word": "吉利星愿价格",
+      "onboard_time": 1779959481,
+      "rank": 1,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 655918,
+      "num": 655918,
+      "word": "印度 空调外机",
+      "onboard_time": 1779960621,
+      "rank": 5,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 626284,
       "num": 626284,
       "word": "孙颖莎王曼昱毕业照",
@@ -272,6 +328,14 @@
       "word": "外国网红中国搭便车的视频火到国外",
       "onboard_time": 1779896361,
       "rank": 7,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 609369,
+      "num": 609369,
+      "word": "县委书记将打火机藏鞋底考验矿企安检",
+      "onboard_time": 1779959841,
+      "rank": 6,
       "category": "民生新闻"
     },
     {
@@ -427,6 +491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 459126,
+      "num": 419855,
+      "word": "23岁女孩意外离世给男友留30万欠条",
+      "onboard_time": 1779960140,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 449403,
       "num": 512033,
       "word": "詹姆斯阵营立场正式曝光",
@@ -449,6 +521,14 @@
       "onboard_time": 1779897561,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 420050,
+      "num": 420050,
+      "word": "JDG北北调查结果",
+      "onboard_time": 1779960800,
+      "rank": 7,
+      "category": "电竞"
     },
     {
       "raw_hot": 394240,
@@ -489,6 +569,14 @@
       "onboard_time": 1779943762,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 362445,
+      "num": 274793,
+      "word": "戚薇李承铉儿子都这么大了",
+      "onboard_time": 1779963801,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 354003,
@@ -683,20 +771,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 266241,
+      "num": 255090,
+      "word": "周也恋情风波后首更博",
+      "onboard_time": 1779963980,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 259876,
       "num": 611462,
       "word": "刘宇宁说王玉雯跳出体弱多病的感觉",
       "onboard_time": 1779891023,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 259761,
-      "num": 259761,
-      "word": "刘恺威 李晓峰",
-      "onboard_time": 1779958042,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 259405,
@@ -721,6 +809,30 @@
       "onboard_time": 1779931400,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 254357,
+      "num": 254357,
+      "word": "宁艺卓Gucci广告",
+      "onboard_time": 1779964161,
+      "rank": 32,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 248598,
+      "num": 301344,
+      "word": "金价跌了反而不敢买了",
+      "onboard_time": 1779963560,
+      "rank": 16,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 248554,
+      "num": 248554,
+      "word": "终于有人把自卑和敏感形容出来了",
+      "onboard_time": 1779963139,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 247379,
@@ -843,6 +955,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 215061,
+      "num": 215061,
+      "word": "杨鹤通 曹云金",
+      "onboard_time": 1779964519,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 212804,
       "num": 467615,
       "word": "记者曝光地下代孕实验室遭拖拽骨折",
@@ -857,6 +977,14 @@
       "onboard_time": 1779955222,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 210134,
+      "num": 204343,
+      "word": "迪丽热巴嘉人预热",
+      "onboard_time": 1779959060,
+      "rank": 37,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 209285,
@@ -1051,12 +1179,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 173046,
+      "num": 173046,
+      "word": "男子遭妻子家暴跳楼身亡细节公开",
+      "onboard_time": 1779964280,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 171344,
       "num": 171344,
       "word": "差点给近视眼吓哭了",
       "onboard_time": 1779957981,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 168339,
+      "num": 168339,
+      "word": "曾沛慈对自己的人气一无所知",
+      "onboard_time": 1779960381,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 160227,
@@ -1107,12 +1251,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 143333,
+      "num": 277231,
+      "word": "每分钟卖一台的全新吉利星愿上市",
+      "onboard_time": 1779960261,
+      "rank": 26,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 142901,
       "num": 475033,
       "word": "张凌赫王玉雯演爽了",
       "onboard_time": 1779883761,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 142370,
+      "num": 142370,
+      "word": "内娱男频六巨头",
+      "onboard_time": 1779959539,
+      "rank": 45,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 141484,
@@ -1129,6 +1289,14 @@
       "onboard_time": 1779892761,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 138420,
+      "num": 138420,
+      "word": "41岁孙骁骁状态",
+      "onboard_time": 1779953661,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 132105,
@@ -1331,6 +1499,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 82546,
+      "num": 268395,
+      "word": "中国军队外逼驱离侵闯荷兰直升机",
+      "onboard_time": 1779960920,
+      "rank": 28,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 79134,
       "num": 571835,
       "word": "小胖 陈伯狙击赛",
@@ -1385,6 +1561,14 @@
       "onboard_time": 1779940881,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 72153,
+      "num": 283583,
+      "word": "在拼多多一副好墨镜是这样炼成的",
+      "onboard_time": 1779962960,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 71093,
@@ -1457,6 +1641,14 @@
       "onboard_time": 1779953900,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 60276,
+      "num": 282942,
+      "word": "阿尔金无人区迎来首位纯电闯关者",
+      "onboard_time": 1779962841,
+      "rank": 18,
+      "category": "汽车"
     },
     {
       "raw_hot": 57324,
@@ -1579,12 +1771,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 30681,
+      "num": 282841,
+      "word": "父母付费把孩子给有犯罪前科者管教",
+      "onboard_time": 1779964340,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 28572,
       "num": 514127,
       "word": "父亲当街踹女儿男子制止致其轻伤",
       "onboard_time": 1779941121,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 27196,
+      "num": 282402,
+      "word": "代孕产业链的底色不是黑色是血色",
+      "onboard_time": 1779963920,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 27193,
+      "num": 170125,
+      "word": "武契奇在一大纪念馆看到自己照片",
+      "onboard_time": 1779963861,
+      "rank": 39,
+      "category": "国内时政"
     },
     {
       "raw_hot": 26485,
@@ -1601,6 +1817,14 @@
       "onboard_time": 1779924021,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 20734,
+      "num": 420049,
+      "word": "起底盲道摆拍产业链",
+      "onboard_time": 1779964040,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 19281,
@@ -1640,6 +1864,14 @@
       "word": "乌鲁木齐医保通报药房卖回流药",
       "onboard_time": 1779957681,
       "rank": 40,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 13958,
+      "num": 766020,
+      "word": "高质量发展民企行",
+      "onboard_time": 1779953422,
+      "rank": 2,
       "category": "民生新闻"
     },
     {

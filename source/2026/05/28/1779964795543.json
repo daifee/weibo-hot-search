@@ -1,0 +1,410 @@
+{
+  "runTime": 1779964795543,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1800360,
+        "num": 1800360,
+        "word": "小巷人家2",
+        "onboard_time": 1779960500,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 668110,
+        "num": 914645,
+        "word": "吉利星愿价格",
+        "onboard_time": 1779959481,
+        "rank": 1,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 13958,
+        "num": 766020,
+        "word": "高质量发展民企行",
+        "onboard_time": 1779953422,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 933843,
+        "num": 731347,
+        "word": "后车司机笑了半小时才敢开车上路",
+        "onboard_time": 1779961460,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 820472,
+        "num": 727869,
+        "word": "主角 泄漏",
+        "onboard_time": 1779953000,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 655918,
+        "num": 655918,
+        "word": "印度 空调外机",
+        "onboard_time": 1779960621,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 609369,
+        "num": 609369,
+        "word": "县委书记将打火机藏鞋底考验矿企安检",
+        "onboard_time": 1779959841,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 420050,
+        "num": 420050,
+        "word": "JDG北北调查结果",
+        "onboard_time": 1779960800,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 20734,
+        "num": 420049,
+        "word": "起底盲道摆拍产业链",
+        "onboard_time": 1779964040,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131729,
+        "num": 420005,
+        "word": "小米超大众丰田成全球新能源第七",
+        "onboard_time": 1779951680,
+        "rank": 9,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 1220343,
+        "num": 419991,
+        "word": "陈妍希晒断掉的骨头",
+        "onboard_time": 1779962180,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 764972,
+        "num": 419955,
+        "word": "德云社处罚杨鹤通",
+        "onboard_time": 1779960562,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 525914,
+        "num": 419934,
+        "word": "活荔枝 死荔枝",
+        "onboard_time": 1779952581,
+        "rank": 12,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 534381,
+        "num": 419889,
+        "word": "浪姐节目组发甲醛检测报告",
+        "onboard_time": 1779954080,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 459126,
+        "num": 419855,
+        "word": "23岁女孩意外离世给男友留30万欠条",
+        "onboard_time": 1779960140,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 419853,
+        "num": 419853,
+        "word": "主角刘红兵疑似车祸去世",
+        "onboard_time": 1779956781,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 248598,
+        "num": 301344,
+        "word": "金价跌了反而不敢买了",
+        "onboard_time": 1779963560,
+        "rank": 16,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 72153,
+        "num": 283583,
+        "word": "在拼多多一副好墨镜是这样炼成的",
+        "onboard_time": 1779962960,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 60276,
+        "num": 282942,
+        "word": "阿尔金无人区迎来首位纯电闯关者",
+        "onboard_time": 1779962841,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 282872,
+        "num": 282872,
+        "word": "曝肖战被团队保护得很好",
+        "onboard_time": 1779953841,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30681,
+        "num": 282841,
+        "word": "父母付费把孩子给有犯罪前科者管教",
+        "onboard_time": 1779964340,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27196,
+        "num": 282402,
+        "word": "代孕产业链的底色不是黑色是血色",
+        "onboard_time": 1779963920,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2540250,
+        "num": 282040,
+        "word": "曝景甜降价出售上海豪宅",
+        "onboard_time": 1779956660,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1341743,
+        "num": 281650,
+        "word": "刘恺威 李晓峰",
+        "onboard_time": 1779958042,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131944,
+        "num": 281525,
+        "word": "AG赵腾 赛训团队无任何变动",
+        "onboard_time": 1779956240,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 281328,
+        "num": 281328,
+        "word": "秦昊说被伊能静删习惯了",
+        "onboard_time": 1779950720,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143333,
+        "num": 277231,
+        "word": "每分钟卖一台的全新吉利星愿上市",
+        "onboard_time": 1779960261,
+        "rank": 26,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 362445,
+        "num": 274793,
+        "word": "戚薇李承铉儿子都这么大了",
+        "onboard_time": 1779963801,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 82546,
+        "num": 268395,
+        "word": "中国军队外逼驱离侵闯荷兰直升机",
+        "onboard_time": 1779960920,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 56612,
+        "num": 256789,
+        "word": "杭州非法试管婴儿事件情况通报",
+        "onboard_time": 1779938661,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 255787,
+        "num": 255787,
+        "word": "现在的鞋底越做越窄了",
+        "onboard_time": 1779945082,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 266241,
+        "num": 255090,
+        "word": "周也恋情风波后首更博",
+        "onboard_time": 1779963980,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 254357,
+        "num": 254357,
+        "word": "宁艺卓Gucci广告",
+        "onboard_time": 1779964161,
+        "rank": 32,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 248554,
+        "num": 248554,
+        "word": "终于有人把自卑和敏感形容出来了",
+        "onboard_time": 1779963139,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 230461,
+        "num": 230461,
+        "word": "张凌赫第一个发现王玉雯不见了",
+        "onboard_time": 1779951860,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 215061,
+        "num": 215061,
+        "word": "杨鹤通 曹云金",
+        "onboard_time": 1779964519,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205576,
+        "num": 205576,
+        "word": "印度留学生称感觉内脏在沸腾",
+        "onboard_time": 1779941963,
+        "rank": 36,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 210134,
+        "num": 204343,
+        "word": "迪丽热巴嘉人预热",
+        "onboard_time": 1779959060,
+        "rank": 37,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 173046,
+        "num": 173046,
+        "word": "男子遭妻子家暴跳楼身亡细节公开",
+        "onboard_time": 1779964280,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27193,
+        "num": 170125,
+        "word": "武契奇在一大纪念馆看到自己照片",
+        "onboard_time": 1779963861,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 169122,
+        "num": 169122,
+        "word": "美国年轻人街头围攻外卖机器人",
+        "onboard_time": 1779952881,
+        "rank": 40,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 168339,
+        "num": 168339,
+        "word": "曾沛慈对自己的人气一无所知",
+        "onboard_time": 1779960381,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166923,
+        "num": 166923,
+        "word": "孙怡长文告别三公",
+        "onboard_time": 1779952281,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146772,
+        "num": 146772,
+        "word": "男子疑遭妻子家暴后跳楼警方不立案",
+        "onboard_time": 1779955280,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162842,
+        "num": 146713,
+        "word": "严浩翔和老师合影",
+        "onboard_time": 1779953781,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142370,
+        "num": 142370,
+        "word": "内娱男频六巨头",
+        "onboard_time": 1779959539,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 139774,
+        "num": 139774,
+        "word": "养狗后正式确诊为子涵妈",
+        "onboard_time": 1779955222,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 64381,
+        "num": 138602,
+        "word": "BLG五人全员一阵",
+        "onboard_time": 1779951381,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 48112,
+        "num": 138503,
+        "word": "iG仁川人只剩JackeyLove",
+        "onboard_time": 1779949280,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 138420,
+        "num": 138420,
+        "word": "41岁孙骁骁状态",
+        "onboard_time": 1779953661,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#国旗伴成长#"
+    }
+  }
+}
