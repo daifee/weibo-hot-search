@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1779971795668,
+  "endTime": 1779979811368,
   "band_list": [
     {
       "raw_hot": 46860992,
@@ -1507,6 +1507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 4204563,
+      "num": 555173,
+      "word": "张子枫是严浩翔答辩老师",
+      "onboard_time": 1779969859,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 4193868,
       "num": 583390,
       "word": "李金铭全平台停更",
@@ -2172,7 +2180,7 @@
     },
     {
       "raw_hot": 3327055,
-      "num": 356762,
+      "num": 504993,
       "word": "欧阳娣娣晒与严浩翔合照",
       "onboard_time": 1779967999,
       "rank": 10,
@@ -2193,6 +2201,14 @@
       "onboard_time": 1776346821,
       "rank": 5,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 3275550,
+      "num": 493296,
+      "word": "曝Jennie和内娱顶流谈过恋爱",
+      "onboard_time": 1779978442,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 3266916,
@@ -2385,22 +2401,6 @@
       "onboard_time": 1771257273,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 3086614,
-      "num": 3086614,
-      "word": "家业 磨皮",
-      "onboard_time": 1779028162,
-      "rank": 3,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 3081696,
-      "num": 1049145,
-      "word": "谢娜演唱会",
-      "onboard_time": 1776234680,
-      "rank": 47,
-      "category": "演出"
     }
   ],
   "hotgov_list": [
