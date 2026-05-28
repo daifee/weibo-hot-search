@@ -1,0 +1,410 @@
+{
+  "runTime": 1779941445396,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1862952,
+        "num": 1862952,
+        "word": "芒果一口气宣了89部大剧",
+        "onboard_time": 1779932179,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1374464,
+        "num": 1374464,
+        "word": "711雪糕 劣爆了",
+        "onboard_time": 1779927260,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 83265,
+        "num": 1144648,
+        "word": "神21航天员要返回地球了",
+        "onboard_time": 1779938361,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1047220,
+        "num": 1047220,
+        "word": "周一请假和周五请假是不一样的",
+        "onboard_time": 1779940041,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 900053,
+        "num": 900053,
+        "word": "王鹤棣咸鱼飞升",
+        "onboard_time": 1779924679,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 869928,
+        "num": 869928,
+        "word": "年会不能停2定档",
+        "onboard_time": 1779936622,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 626284,
+        "num": 626284,
+        "word": "孙颖莎王曼昱毕业照",
+        "onboard_time": 1779939021,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 608795,
+        "num": 608795,
+        "word": "VOGUE直播间两位明星不出镜",
+        "onboard_time": 1779934879,
+        "rank": 7,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 225542,
+        "num": 597175,
+        "word": "黄仁勋加入清华大学顾问委员会",
+        "onboard_time": 1779940460,
+        "rank": 8,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 841178,
+        "num": 592439,
+        "word": "杭州非法试管婴儿事件情况通报",
+        "onboard_time": 1779938661,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1293353,
+        "num": 570960,
+        "word": "陈小希爸妈为沈月发声",
+        "onboard_time": 1779927739,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 83893,
+        "num": 561016,
+        "word": "双汇发布致歉声明",
+        "onboard_time": 1779940881,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1020880,
+        "num": 549066,
+        "word": "陆毅17岁女儿不会剥虾",
+        "onboard_time": 1779939562,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 534927,
+        "num": 534927,
+        "word": "李嘉凯被封号",
+        "onboard_time": 1779938661,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 259405,
+        "num": 533125,
+        "word": "DeepSeek崩了",
+        "onboard_time": 1779935840,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1514545,
+        "num": 529792,
+        "word": "浪姐宿舍 甲醛",
+        "onboard_time": 1779925219,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174158,
+        "num": 528233,
+        "word": "杨紫机车服造型",
+        "onboard_time": 1779934100,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 72269,
+        "num": 525765,
+        "word": "耀眼热度走势",
+        "onboard_time": 1779940881,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 91531,
+        "num": 521786,
+        "word": "19岁男子带狗送外卖日跑单10小时",
+        "onboard_time": 1779940881,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 64839,
+        "num": 520199,
+        "word": "经期需要更高标准卫生巾",
+        "onboard_time": 1779940101,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 802060,
+        "num": 518215,
+        "word": "公安部派工作组赴河南南阳",
+        "onboard_time": 1779931699,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28572,
+        "num": 514127,
+        "word": "父亲当街踹女儿男子制止致其轻伤",
+        "onboard_time": 1779941121,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 449403,
+        "num": 512033,
+        "word": "詹姆斯阵营立场正式曝光",
+        "onboard_time": 1779938420,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 13051,
+        "num": 509332,
+        "word": "深圳南坪快速大火路段恢复通行",
+        "onboard_time": 1779941181,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 208685,
+        "num": 507145,
+        "word": "长鑫科技日赚2.75亿元",
+        "onboard_time": 1779937039,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1199103,
+        "num": 504219,
+        "word": "金价",
+        "onboard_time": 1779937880,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 518217,
+        "num": 502659,
+        "word": "严浩翔没拍上毕业合照",
+        "onboard_time": 1779935359,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 470736,
+        "num": 497809,
+        "word": "香港女星自曝在中山买房不到200万港币",
+        "onboard_time": 1779930860,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 597832,
+        "num": 496653,
+        "word": "浪姐有人嗓子痛有人流鼻血",
+        "onboard_time": 1779934160,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 580667,
+        "num": 493344,
+        "word": "歌手第二期歌单",
+        "onboard_time": 1779936920,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 354003,
+        "num": 489627,
+        "word": "员工隐瞒肺结核致多名同事被传染",
+        "onboard_time": 1779935960,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 494770,
+        "num": 488149,
+        "word": "林俊杰删掉大哥大嫂合照",
+        "onboard_time": 1779896179,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 349189,
+        "num": 484057,
+        "word": "林俊杰妈妈疑似取关大嫂",
+        "onboard_time": 1779934941,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 321586,
+        "num": 482672,
+        "word": "美国伊朗开始爆发直接冲突",
+        "onboard_time": 1779924378,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 342208,
+        "num": 480459,
+        "word": "华为 时代少年团",
+        "onboard_time": 1779936139,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 315181,
+        "num": 477507,
+        "word": "开盘全阵容官宣",
+        "onboard_time": 1779938119,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 265962,
+        "num": 475384,
+        "word": "男子连吃半个月香蕉补钾进了ICU",
+        "onboard_time": 1779895522,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 306929,
+        "num": 472861,
+        "word": "凯凯道歉",
+        "onboard_time": 1779929780,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 286056,
+        "num": 469213,
+        "word": "黄灿灿 张月哪里不舒服要跟我讲",
+        "onboard_time": 1779927860,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 226924,
+        "num": 466280,
+        "word": "官方通报小区有代孕窝点",
+        "onboard_time": 1779936979,
+        "rank": 39,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 31869,
+        "num": 463603,
+        "word": "3岁男孩被体育中心足球门砸中身亡",
+        "onboard_time": 1779940881,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 267873,
+        "num": 461701,
+        "word": "粉丝全在喊浪姐取消线下握手见面会",
+        "onboard_time": 1779931279,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 68572,
+        "num": 458367,
+        "word": "卫生巾应该分坐用跟躺用",
+        "onboard_time": 1779940521,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 238295,
+        "num": 457002,
+        "word": "云旗郝熠然 不出镜",
+        "onboard_time": 1779936499,
+        "rank": 43,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 177571,
+        "num": 452085,
+        "word": "NBA官方追加升级普拉姆利犯规",
+        "onboard_time": 1779934100,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 148200,
+        "num": 449572,
+        "word": "孙颖莎下一站清华",
+        "onboard_time": 1779941360,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 74103,
+        "num": 448024,
+        "word": "微型电脑主机全球卖爆了",
+        "onboard_time": 1779933021,
+        "rank": 46,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 70049,
+        "num": 445409,
+        "word": "政企官网强制跳转黄网黑客初中学历",
+        "onboard_time": 1779939980,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 234532,
+        "num": 442446,
+        "word": "野狗骨头新预告",
+        "onboard_time": 1779937221,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 220982,
+        "num": 439716,
+        "word": "白玉兰提名高光片段",
+        "onboard_time": 1779927860,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#国旗伴成长#"
+    }
+  }
+}
