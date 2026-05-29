@@ -1,6 +1,6 @@
 {
   "startTime": 1780073379989,
-  "endTime": 1780095027994,
+  "endTime": 1780096926706,
   "band_list": [
     {
       "raw_hot": 5755002,
@@ -59,6 +59,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 747662,
+      "num": 114888,
+      "word": "林沐然中戏转入湖南艺术职业学院",
+      "onboard_time": 1780096456,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 583749,
       "num": 395655,
       "word": "石蕊曝和肖旭谈了13年恋爱",
@@ -115,6 +123,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 415775,
+      "num": 114291,
+      "word": "刘亦菲彭冠英同款",
+      "onboard_time": 1780095617,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 405970,
       "num": 405970,
       "word": "饿着入睡对胃肠更好吗",
@@ -129,6 +145,14 @@
       "onboard_time": 1780070601,
       "rank": 14,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 389223,
+      "num": 108975,
+      "word": "心脉受损的人一眼就可以看出来",
+      "onboard_time": 1780096819,
+      "rank": 20,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 387026,
@@ -155,6 +179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 309311,
+      "num": 398294,
+      "word": "广东不愧是祖宗严选发配地",
+      "onboard_time": 1780060884,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 304016,
       "num": 304016,
       "word": "杨幂直播差点滑倒",
@@ -163,12 +195,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 289671,
-      "num": 398294,
-      "word": "广东不愧是祖宗严选发配地",
-      "onboard_time": 1780060884,
-      "rank": 16,
-      "category": "民生新闻"
+      "raw_hot": 303597,
+      "num": 405191,
+      "word": "一家四口有限责任公司",
+      "onboard_time": 1780057101,
+      "rank": 7,
+      "category": "幽默"
     },
     {
       "raw_hot": 280915,
@@ -193,14 +225,6 @@
       "onboard_time": 1780056981,
       "rank": 37,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 251418,
-      "num": 405191,
-      "word": "一家四口有限责任公司",
-      "onboard_time": 1780057101,
-      "rank": 7,
-      "category": "幽默"
     },
     {
       "raw_hot": 243990,
@@ -233,6 +257,14 @@
       "onboard_time": 1780053680,
       "rank": 8,
       "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 220280,
+      "num": 111612,
+      "word": "31岁离异带4娃妈妈因自信走红",
+      "onboard_time": 1780096877,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 211373,
@@ -283,6 +315,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 160898,
+      "num": 106353,
+      "word": "秦昊说就过呗还能离咋地",
+      "onboard_time": 1780094235,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 143453,
       "num": 245266,
       "word": "情侣相约自杀1人身亡1人获刑",
@@ -299,6 +339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 140109,
+      "num": 150142,
+      "word": "人在做坏事的时候真的不觉得累",
+      "onboard_time": 1780074258,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 134534,
       "num": 399543,
       "word": "印度政府警告宝莱坞",
@@ -307,8 +355,16 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 130519,
+      "num": 103015,
+      "word": "上海同济专家提醒4个症状尽早做肠镜",
+      "onboard_time": 1780096877,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 128025,
-      "num": 396613,
+      "num": 548777,
       "word": "父母姐姐身亡12岁孩子被叔侵占140万",
       "onboard_time": 1780064486,
       "rank": 18,
@@ -355,20 +411,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 73689,
-      "num": 150142,
-      "word": "人在做坏事的时候真的不觉得累",
-      "onboard_time": 1780074258,
-      "rank": 36,
-      "category": "情感"
-    },
-    {
       "raw_hot": 73461,
       "num": 150133,
       "word": "李小冉去歌手了",
       "onboard_time": 1780056502,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 73085,
+      "num": 100845,
+      "word": "德约科维奇无缘法网16强",
+      "onboard_time": 1780096819,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 71111,
@@ -412,7 +468,7 @@
     },
     {
       "raw_hot": 57606,
-      "num": 57606,
+      "num": 94011,
       "word": "难听",
       "onboard_time": 1780088234,
       "rank": 16,
@@ -425,14 +481,6 @@
       "onboard_time": 1780057402,
       "rank": 28,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 53913,
-      "num": 53913,
-      "word": "秦昊说就过呗还能离咋地",
-      "onboard_time": 1780094235,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 53308,
@@ -489,6 +537,22 @@
       "onboard_time": 1780050622,
       "rank": 49,
       "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 44664,
+      "num": 93727,
+      "word": "欧阳娜娜拿风筝光脚走红毯",
+      "onboard_time": 1780096096,
+      "rank": 47,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 41635,
+      "num": 92160,
+      "word": "59岁TVB男星回应继承15亿港元遗产",
+      "onboard_time": 1780095617,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 38792,
@@ -553,6 +617,14 @@
       "onboard_time": 1780054701,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 11146,
+      "num": 103320,
+      "word": "纸嫁衣9罗浮梦",
+      "onboard_time": 1780096698,
+      "rank": 30,
+      "category": "游戏"
     }
   ],
   "hotgov_list": [
