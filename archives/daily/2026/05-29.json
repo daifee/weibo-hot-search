@@ -1,6 +1,6 @@
 {
   "startTime": 1779987630369,
-  "endTime": 1780027956199,
+  "endTime": 1780034065367,
   "band_list": [
     {
       "raw_hot": 2485680,
@@ -11,11 +11,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2358903,
+      "num": 940382,
+      "word": "李晨转发宣传白鹿莫离",
+      "onboard_time": 1780031421,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1810965,
       "num": 503089,
       "word": "潘宥诚曝虞书欣整容",
       "onboard_time": 1780026861,
       "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1807912,
+      "num": 367340,
+      "word": "奚梦瑶何猷君6月1日举行婚礼",
+      "onboard_time": 1780029382,
+      "rank": 10,
       "category": "艺人"
     },
     {
@@ -51,6 +67,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1498874,
+      "num": 366867,
+      "word": "上海政法学院女厕所发现萤石摄像头",
+      "onboard_time": 1780031061,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1425767,
       "num": 491316,
       "word": "金价又跌麻了",
@@ -75,6 +99,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 1109698,
+      "num": 363008,
+      "word": "奚梦瑶何猷君婚礼伴手礼",
+      "onboard_time": 1780029621,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1086642,
       "num": 1086642,
       "word": "14人被骗地铁上班每天敬礼打卡",
@@ -84,11 +116,27 @@
     },
     {
       "raw_hot": 1071090,
-      "num": 881788,
+      "num": 914582,
       "word": "创业最快的方式是寄生",
       "onboard_time": 1780024760,
       "rank": 3,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1041200,
+      "num": 1041200,
+      "word": "日本转移12万居民",
+      "onboard_time": 1780029022,
+      "rank": 1,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 1036092,
+      "num": 366006,
+      "word": "虞书欣在一年级被弄到脸",
+      "onboard_time": 1780032681,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 944853,
@@ -105,6 +153,14 @@
       "onboard_time": 1779962180,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 848951,
+      "num": 848951,
+      "word": "十日终焉穆祉丞进组",
+      "onboard_time": 1780030640,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 839793,
@@ -136,6 +192,14 @@
       "word": "唐嫣参加女儿幼儿园艺术节",
       "onboard_time": 1780026501,
       "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 757412,
+      "num": 465251,
+      "word": "孙怡的裙子不会打结吗",
+      "onboard_time": 1780026561,
+      "rank": 21,
       "category": "艺人"
     },
     {
@@ -187,14 +251,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 562378,
-      "num": 465251,
-      "word": "孙怡的裙子不会打结吗",
-      "onboard_time": 1780026561,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 524419,
       "num": 296320,
       "word": "柳智敏腿型",
@@ -217,6 +273,14 @@
       "onboard_time": 1780013659,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 504309,
+      "num": 504309,
+      "word": "豆包豆包帮我把这群智障删掉",
+      "onboard_time": 1780020439,
+      "rank": 16,
+      "category": "幽默"
     },
     {
       "raw_hot": 495626,
@@ -251,20 +315,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 471128,
+      "num": 465604,
+      "word": "9键26键别吵快看这2键",
+      "onboard_time": 1780025422,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 470579,
       "num": 470579,
       "word": "姜乘澜眼镜妆",
       "onboard_time": 1779979102,
       "rank": 3,
       "category": "美妆,网红"
-    },
-    {
-      "raw_hot": 467367,
-      "num": 467367,
-      "word": "豆包豆包帮我把这群智障删掉",
-      "onboard_time": 1780020439,
-      "rank": 16,
-      "category": "幽默"
     },
     {
       "raw_hot": 465164,
@@ -283,14 +347,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 464169,
-      "num": 465604,
-      "word": "9键26键别吵快看这2键",
-      "onboard_time": 1780025422,
-      "rank": 20,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 464108,
       "num": 197841,
       "word": "刘恺威 李晓峰",
@@ -299,12 +355,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 462840,
+      "num": 362585,
+      "word": "范玮琪四公没人选哭了",
+      "onboard_time": 1780033041,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 457114,
       "num": 457114,
       "word": "上海政法学院通报女厕疑现摄像头",
       "onboard_time": 1780026081,
       "rank": 25,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 443387,
+      "num": 359385,
+      "word": "日本预演台湾有事清空战场",
+      "onboard_time": 1780026861,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 431203,
@@ -339,6 +411,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 411409,
+      "num": 466239,
+      "word": "电车是时候交养路费了",
+      "onboard_time": 1780026861,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 409989,
       "num": 409989,
       "word": "货车小区内超速奶奶保护孙子身亡",
@@ -355,6 +435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 368617,
+      "num": 368617,
+      "word": "雷霆马刺抢七",
+      "onboard_time": 1780029922,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 362067,
       "num": 362067,
       "word": "银行人员让村会计找单身穷的办贷款",
@@ -363,12 +451,28 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 335447,
-      "num": 335447,
+      "raw_hot": 351855,
+      "num": 351855,
       "word": "白鹿丞磊莫离定档",
       "onboard_time": 1780027820,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 347667,
+      "num": 347667,
+      "word": "陈瑶排名",
+      "onboard_time": 1780033461,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 326659,
+      "num": 326659,
+      "word": "两广人夏天越吃越瘦的原因",
+      "onboard_time": 1780029741,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 316780,
@@ -400,6 +504,14 @@
       "word": "91岁演员罗兰回应被TVB除名",
       "onboard_time": 1779984978,
       "rank": 14,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 291969,
+      "num": 291969,
+      "word": "aespa空降",
+      "onboard_time": 1780032442,
+      "rank": 32,
       "category": "艺人"
     },
     {
@@ -443,6 +555,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 269564,
+      "num": 269564,
+      "word": "热依扎休息前最后一次露面",
+      "onboard_time": 1780023800,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 268139,
       "num": 268139,
       "word": "从息肉到肠癌仅4步",
@@ -457,6 +577,22 @@
       "onboard_time": 1780017200,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 256653,
+      "num": 256653,
+      "word": "十日终焉",
+      "onboard_time": 1780031421,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 255417,
+      "num": 347784,
+      "word": "老小孩凭借自律吃饭在全网圈粉百万",
+      "onboard_time": 1780029862,
+      "rank": 28,
+      "category": "正能量"
     },
     {
       "raw_hot": 252714,
@@ -513,14 +649,6 @@
       "onboard_time": 1780026023,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 234778,
-      "num": 234778,
-      "word": "日本预演台湾有事清空战场",
-      "onboard_time": 1780026861,
-      "rank": 39,
-      "category": "国际时政"
     },
     {
       "raw_hot": 234152,
@@ -587,20 +715,44 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 201549,
+      "num": 198572,
+      "word": "浪姐三公乘风值排名",
+      "onboard_time": 1780030761,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 200474,
+      "num": 262235,
+      "word": "让自己不舒服的事情尽量往轻了用词",
+      "onboard_time": 1780030701,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 198699,
+      "num": 198699,
+      "word": "33岁环卫女工考研上岸只用了1年",
+      "onboard_time": 1780028661,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 198372,
+      "num": 198372,
+      "word": "查出幽门螺杆菌阳性到底要不要治",
+      "onboard_time": 1780033581,
+      "rank": 41,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 194244,
       "num": 194244,
       "word": "张函瑞明明cha被下架",
       "onboard_time": 1779984080,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 193999,
-      "num": 466239,
-      "word": "电车是时候交养路费了",
-      "onboard_time": 1780026861,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 192917,
@@ -625,6 +777,14 @@
       "onboard_time": 1780009037,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 189046,
+      "num": 189046,
+      "word": "赵今麦说话秒被刘冲拆穿",
+      "onboard_time": 1780033401,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 181251,
@@ -875,6 +1035,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 114290,
+      "num": 200754,
+      "word": "莫离色调",
+      "onboard_time": 1780033341,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 112246,
       "num": 408629,
       "word": "NBA公布反摆烂选秀改革方案",
@@ -905,6 +1073,14 @@
       "onboard_time": 1779970461,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 106601,
+      "num": 182488,
+      "word": "恋与深空",
+      "onboard_time": 1780030823,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 104399,
@@ -985,6 +1161,22 @@
       "onboard_time": 1779982761,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 83583,
+      "num": 182453,
+      "word": "王楚钦胜者留名",
+      "onboard_time": 1780020499,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 80035,
+      "num": 191989,
+      "word": "公路之王奥迪E7X上市26.98万元起",
+      "onboard_time": 1780033941,
+      "rank": 43,
+      "category": "汽车"
     },
     {
       "raw_hot": 78356,
@@ -1107,6 +1299,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 34315,
+      "num": 361000,
+      "word": "日本人口减少超300万人",
+      "onboard_time": 1780032861,
+      "rank": 18,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 34030,
       "num": 98500,
       "word": "法网",
@@ -1139,8 +1339,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 30649,
-      "num": 886813,
+      "raw_hot": 31235,
+      "num": 953411,
       "word": "未来五年我们生活的城市如何更新",
       "onboard_time": 1780025539,
       "rank": 2,
@@ -1217,6 +1417,14 @@
       "onboard_time": 1780016661,
       "rank": 48,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 10119,
+      "num": 217281,
+      "word": "酒店上厕所收30元实为退房清洁费",
+      "onboard_time": 1780034001,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 2938,
