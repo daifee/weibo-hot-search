@@ -1,0 +1,410 @@
+{
+  "runTime": 1780062299936,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2155641,
+        "num": 2155641,
+        "word": "歌手直播",
+        "onboard_time": 1780054701,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1878626,
+        "num": 1878626,
+        "word": "释永信被判24年",
+        "onboard_time": 1780054521,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36732,
+        "num": 1736325,
+        "word": "又一大国重器硬核刷屏",
+        "onboard_time": 1780055602,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1680723,
+        "num": 1680723,
+        "word": "VOGUE审美",
+        "onboard_time": 1780053680,
+        "rank": 3,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 1338745,
+        "num": 1338745,
+        "word": "结石姐袭榜张碧晨尤长靖",
+        "onboard_time": 1780057281,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 985897,
+        "num": 985897,
+        "word": "曾沛慈 我觉得不是恶剪",
+        "onboard_time": 1780057224,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 882507,
+        "num": 882507,
+        "word": "亚运会电竞项目名单",
+        "onboard_time": 1780057760,
+        "rank": 6,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 700436,
+        "num": 700436,
+        "word": "LOL亚运预选赛名单公布",
+        "onboard_time": 1780058001,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 566954,
+        "num": 566954,
+        "word": "VOGUE红毯直播",
+        "onboard_time": 1780050622,
+        "rank": 8,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 548456,
+        "num": 548456,
+        "word": "一家四口有限责任公司",
+        "onboard_time": 1780057101,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 2807140,
+        "num": 544755,
+        "word": "许我耀眼 现实版",
+        "onboard_time": 1780049300,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1649659,
+        "num": 540525,
+        "word": "白鹿回复于正于老师",
+        "onboard_time": 1780052481,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1150507,
+        "num": 539937,
+        "word": "39岁博主被虫咬后感染离世",
+        "onboard_time": 1780052661,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1206111,
+        "num": 535369,
+        "word": "林允杀死比赛",
+        "onboard_time": 1780056981,
+        "rank": 13,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 227900,
+        "num": 528265,
+        "word": "芯片股集体暴跌",
+        "onboard_time": 1780054761,
+        "rank": 14,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 349725,
+        "num": 527138,
+        "word": "广东不愧是祖宗严选发配地",
+        "onboard_time": 1780060884,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 256753,
+        "num": 522954,
+        "word": "神22飞船返回舱着陆",
+        "onboard_time": 1780057402,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159003,
+        "num": 518186,
+        "word": "接到了田曦薇的星星",
+        "onboard_time": 1780060103,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 54253,
+        "num": 515911,
+        "word": "直播间擦边MiuMiu卖MiMi发卡",
+        "onboard_time": 1780061362,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 929867,
+        "num": 511579,
+        "word": "张碧晨 紧张",
+        "onboard_time": 1780057882,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175190,
+        "num": 504593,
+        "word": "老人开空调一晚高烧3天肺白大半",
+        "onboard_time": 1780061362,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 777370,
+        "num": 500956,
+        "word": "刘诗诗掀头纱",
+        "onboard_time": 1780058540,
+        "rank": 21,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 774558,
+        "num": 499740,
+        "word": "李小冉去歌手了",
+        "onboard_time": 1780056502,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 495741,
+        "num": 495741,
+        "word": "车手张秀军不幸离世",
+        "onboard_time": 1780053020,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 731291,
+        "num": 493862,
+        "word": "演员刘红梅去世",
+        "onboard_time": 1780042340,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 660719,
+        "num": 491561,
+        "word": "王鹤棣称没有焦虑但会反思",
+        "onboard_time": 1780038262,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 485570,
+        "num": 485570,
+        "word": "性格好是稀缺资源",
+        "onboard_time": 1780045941,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 615237,
+        "num": 485142,
+        "word": "白鹿李晨郑恺复宣跑男",
+        "onboard_time": 1780061723,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170883,
+        "num": 475416,
+        "word": "A股老登股爆发",
+        "onboard_time": 1780056260,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 249365,
+        "num": 466846,
+        "word": "广东高温天热死几千只鸡",
+        "onboard_time": 1780049241,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 551430,
+        "num": 457542,
+        "word": "赵今麦 绿野仙踪",
+        "onboard_time": 1780057342,
+        "rank": 30,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 449808,
+        "num": 449808,
+        "word": "情侣相约自杀1人身亡1人获刑",
+        "onboard_time": 1780053080,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 389962,
+        "num": 389962,
+        "word": "胡一天被打码的陷害了",
+        "onboard_time": 1780051161,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 350140,
+        "num": 350140,
+        "word": "歌手 倒数第一竞争激烈",
+        "onboard_time": 1780062263,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 347826,
+        "num": 347826,
+        "word": "重新定义一户一梯",
+        "onboard_time": 1780060522,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 67017,
+        "num": 343923,
+        "word": "被vivo的4KLive功能惊艳到了",
+        "onboard_time": 1780058782,
+        "rank": 35,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 341045,
+        "num": 341045,
+        "word": "尤长靖又把我唱哭了",
+        "onboard_time": 1780059922,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 332612,
+        "num": 332612,
+        "word": "上上谦 闭店",
+        "onboard_time": 1780045460,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178279,
+        "num": 321250,
+        "word": "神21乘组出舱",
+        "onboard_time": 1780060582,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 317558,
+        "num": 317558,
+        "word": "魏如萱几乎清唱",
+        "onboard_time": 1780061182,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 305838,
+        "num": 305838,
+        "word": "胡彦斌窦靖童守榜",
+        "onboard_time": 1780059863,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 283077,
+        "num": 283077,
+        "word": "虾已经被晒熟了",
+        "onboard_time": 1780056081,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 286789,
+        "num": 282482,
+        "word": "周洁琼糊图即神图",
+        "onboard_time": 1780061723,
+        "rank": 42,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 42847,
+        "num": 274702,
+        "word": "张陆从太空带回一个苹果",
+        "onboard_time": 1780062263,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 274591,
+        "num": 274591,
+        "word": "英雄联盟CN缺席亚运会",
+        "onboard_time": 1780060942,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 96865,
+        "num": 269361,
+        "word": "返回舱直立状态落地",
+        "onboard_time": 1780059863,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 268551,
+        "num": 268551,
+        "word": "孙怡回应植发",
+        "onboard_time": 1780055481,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 264618,
+        "num": 264618,
+        "word": "歌手顺序",
+        "onboard_time": 1780061061,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 59787,
+        "num": 264187,
+        "word": "泡泡玛特涨疯了",
+        "onboard_time": 1780047740,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 263851,
+        "num": 263851,
+        "word": "结石姐唱心愿便利贴",
+        "onboard_time": 1780061483,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记引领科技强国建设#"
+    }
+  }
+}

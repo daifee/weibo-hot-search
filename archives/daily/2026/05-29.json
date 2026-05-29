@@ -1,10 +1,10 @@
 {
   "startTime": 1779987630369,
-  "endTime": 1780057372478,
+  "endTime": 1780062299936,
   "band_list": [
     {
       "raw_hot": 3492534,
-      "num": 464628,
+      "num": 544755,
       "word": "许我耀眼 现实版",
       "onboard_time": 1780049300,
       "rank": 10,
@@ -41,6 +41,14 @@
       "onboard_time": 1780038262,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2155641,
+      "num": 2155641,
+      "word": "歌手直播",
+      "onboard_time": 1780054701,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 2117606,
@@ -92,7 +100,7 @@
     },
     {
       "raw_hot": 1765393,
-      "num": 451785,
+      "num": 540525,
       "word": "白鹿回复于正于老师",
       "onboard_time": 1780052481,
       "rank": 11,
@@ -139,14 +147,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1551715,
-      "num": 1551715,
-      "word": "歌手直播",
-      "onboard_time": 1780054701,
-      "rank": 4,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1498874,
       "num": 366867,
       "word": "上海政法学院女厕所发现萤石摄像头",
@@ -179,6 +179,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 1338745,
+      "num": 1338745,
+      "word": "结石姐袭榜张碧晨尤长靖",
+      "onboard_time": 1780057281,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1257982,
       "num": 615495,
       "word": "VOGUE出发图",
@@ -201,6 +209,22 @@
       "onboard_time": 1779978501,
       "rank": 0,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 1206111,
+      "num": 535369,
+      "word": "林允杀死比赛",
+      "onboard_time": 1780056981,
+      "rank": 28,
+      "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 1150507,
+      "num": 717690,
+      "word": "39岁博主被虫咬后感染离世",
+      "onboard_time": 1780052661,
+      "rank": 6,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1124629,
@@ -259,6 +283,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 985897,
+      "num": 985897,
+      "word": "曾沛慈 我觉得不是恶剪",
+      "onboard_time": 1780057224,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 944853,
       "num": 546705,
       "word": "A股",
@@ -267,12 +299,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 929867,
+      "num": 511579,
+      "word": "张碧晨 紧张",
+      "onboard_time": 1780057882,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 887019,
       "num": 621717,
       "word": "儿子去世母亲在高铁静音车厢失声痛哭",
       "onboard_time": 1780043961,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 882507,
+      "num": 882507,
+      "word": "亚运会电竞项目名单",
+      "onboard_time": 1780057760,
+      "rank": 6,
+      "category": "电竞"
     },
     {
       "raw_hot": 878630,
@@ -355,6 +403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 777370,
+      "num": 500956,
+      "word": "刘诗诗掀头纱",
+      "onboard_time": 1780058540,
+      "rank": 21,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 757412,
       "num": 465251,
       "word": "孙怡的裙子不会打结吗",
@@ -379,20 +435,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 717690,
-      "num": 717690,
-      "word": "39岁博主被虫咬后感染离世",
-      "onboard_time": 1780052661,
-      "rank": 6,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 716852,
       "num": 716852,
       "word": "车手张秀军不幸离世",
       "onboard_time": 1780053020,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 700436,
+      "num": 700436,
+      "word": "LOL亚运预选赛名单公布",
+      "onboard_time": 1780058001,
+      "rank": 7,
+      "category": "电竞"
     },
     {
       "raw_hot": 700116,
@@ -467,12 +523,36 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 615237,
+      "num": 485142,
+      "word": "白鹿李晨郑恺复宣跑男",
+      "onboard_time": 1780061723,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 578191,
       "num": 578191,
       "word": "中国车市要变天了吗",
       "onboard_time": 1780011021,
       "rank": 45,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 551430,
+      "num": 457542,
+      "word": "赵今麦 绿野仙踪",
+      "onboard_time": 1780057342,
+      "rank": 37,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 548456,
+      "num": 548456,
+      "word": "一家四口有限责任公司",
+      "onboard_time": 1780057101,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 524419,
@@ -505,14 +585,6 @@
       "onboard_time": 1780020439,
       "rank": 16,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 500583,
-      "num": 500583,
-      "word": "结石姐袭榜张碧晨尤长靖",
-      "onboard_time": 1780057281,
-      "rank": 8,
-      "category": "综艺"
     },
     {
       "raw_hot": 495626,
@@ -611,6 +683,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 449808,
+      "num": 449808,
+      "word": "情侣相约自杀1人身亡1人获刑",
+      "onboard_time": 1780053080,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 443387,
       "num": 359385,
       "word": "日本预演台湾有事清空战场",
@@ -691,8 +771,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 389962,
+      "num": 389962,
+      "word": "胡一天被打码的陷害了",
+      "onboard_time": 1780051161,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 385973,
-      "num": 385973,
+      "num": 466846,
       "word": "广东高温天热死几千只鸡",
       "onboard_time": 1780049241,
       "rank": 38,
@@ -721,14 +809,6 @@
       "onboard_time": 1780029922,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 365383,
-      "num": 341039,
-      "word": "林允杀死比赛",
-      "onboard_time": 1780056981,
-      "rank": 28,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 362067,
@@ -763,11 +843,43 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 350140,
+      "num": 350140,
+      "word": "歌手 倒数第一竞争激烈",
+      "onboard_time": 1780062263,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 349725,
+      "num": 527138,
+      "word": "广东不愧是祖宗严选发配地",
+      "onboard_time": 1780060884,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 347826,
+      "num": 347826,
+      "word": "重新定义一户一梯",
+      "onboard_time": 1780060522,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 347667,
       "num": 347667,
       "word": "陈瑶排名",
       "onboard_time": 1780033461,
       "rank": 29,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 341045,
+      "num": 341045,
+      "word": "尤长靖又把我唱哭了",
+      "onboard_time": 1780059922,
+      "rank": 36,
       "category": "综艺"
     },
     {
@@ -785,6 +897,14 @@
       "onboard_time": 1780029741,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 317558,
+      "num": 317558,
+      "word": "魏如萱几乎清唱",
+      "onboard_time": 1780061182,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 316780,
@@ -811,20 +931,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 305838,
+      "num": 305838,
+      "word": "胡彦斌窦靖童守榜",
+      "onboard_time": 1780059863,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 304952,
       "num": 351242,
       "word": "山东问题鸡蛋已封存",
       "onboard_time": 1780005675,
       "rank": 49,
       "category": "议题讨论"
-    },
-    {
-      "raw_hot": 294501,
-      "num": 294501,
-      "word": "胡一天被打码的陷害了",
-      "onboard_time": 1780051161,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 294315,
@@ -841,6 +961,14 @@
       "onboard_time": 1780032442,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 286789,
+      "num": 282482,
+      "word": "周洁琼糊图即神图",
+      "onboard_time": 1780061723,
+      "rank": 42,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 285945,
@@ -883,12 +1011,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 283077,
+      "num": 283077,
+      "word": "虾已经被晒熟了",
+      "onboard_time": 1780056081,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 280634,
       "num": 280634,
       "word": "浪姐个喜TOP15",
       "onboard_time": 1780027340,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 274591,
+      "num": 274591,
+      "word": "英雄联盟CN缺席亚运会",
+      "onboard_time": 1780060942,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 270730,
@@ -923,14 +1067,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 267100,
-      "num": 267100,
-      "word": "赵今麦 绿野仙踪",
-      "onboard_time": 1780057342,
-      "rank": 37,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 265854,
       "num": 265854,
       "word": "林允VOGUE礼服是裤子",
@@ -939,12 +1075,28 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 264618,
+      "num": 264618,
+      "word": "歌手顺序",
+      "onboard_time": 1780061061,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 263908,
       "num": 263908,
       "word": "曝岳雨婷巴黎时装周蹭秀内幕",
       "onboard_time": 1780055843,
       "rank": 42,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 263851,
+      "num": 263851,
+      "word": "结石姐唱心愿便利贴",
+      "onboard_time": 1780061483,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 262845,
@@ -961,6 +1113,14 @@
       "onboard_time": 1780017200,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 256753,
+      "num": 522954,
+      "word": "神22飞船返回舱着陆",
+      "onboard_time": 1780057402,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 256653,
@@ -1004,19 +1164,11 @@
     },
     {
       "raw_hot": 252362,
-      "num": 380902,
+      "num": 528265,
       "word": "芯片股集体暴跌",
       "onboard_time": 1780054761,
       "rank": 15,
       "category": "财经,民生新闻"
-    },
-    {
-      "raw_hot": 252155,
-      "num": 252155,
-      "word": "曾沛慈 我觉得不是恶剪",
-      "onboard_time": 1780057224,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 247901,
@@ -1153,14 +1305,6 @@
       "onboard_time": 1779964280,
       "rank": 23,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 216156,
-      "num": 237420,
-      "word": "虾已经被晒熟了",
-      "onboard_time": 1780056081,
-      "rank": 44,
-      "category": "幽默"
     },
     {
       "raw_hot": 213084,
@@ -1307,12 +1451,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 178279,
+      "num": 321250,
+      "word": "神21乘组出舱",
+      "onboard_time": 1780060582,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 177939,
       "num": 161153,
       "word": "全员加速中没有停播",
       "onboard_time": 1780027221,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 175190,
+      "num": 504593,
+      "word": "老人开空调一晚高烧3天肺白大半",
+      "onboard_time": 1780061362,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 174710,
@@ -1329,6 +1489,14 @@
       "onboard_time": 1780013239,
       "rank": 35,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 170883,
+      "num": 475416,
+      "word": "A股老登股爆发",
+      "onboard_time": 1780056260,
+      "rank": 27,
+      "category": "财经"
     },
     {
       "raw_hot": 169657,
@@ -1387,20 +1555,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 159003,
+      "num": 518186,
+      "word": "接到了田曦薇的星星",
+      "onboard_time": 1780060103,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 157163,
       "num": 339448,
       "word": "算力价格",
       "onboard_time": 1779992595,
       "rank": 41,
       "category": "财经"
-    },
-    {
-      "raw_hot": 154523,
-      "num": 219558,
-      "word": "情侣相约自杀1人身亡1人获刑",
-      "onboard_time": 1780053080,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 153468,
@@ -1417,14 +1585,6 @@
       "onboard_time": 1780014621,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 149566,
-      "num": 218301,
-      "word": "一家四口有限责任公司",
-      "onboard_time": 1780057101,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 144641,
@@ -1489,14 +1649,6 @@
       "onboard_time": 1779965360,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 138848,
-      "num": 341146,
-      "word": "A股老登股爆发",
-      "onboard_time": 1780056260,
-      "rank": 27,
-      "category": "财经"
     },
     {
       "raw_hot": 138555,
@@ -1771,6 +1923,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 96865,
+      "num": 269361,
+      "word": "返回舱直立状态落地",
+      "onboard_time": 1780059863,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 93667,
       "num": 304887,
       "word": "A股集体大涨原因",
@@ -1867,6 +2027,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 67017,
+      "num": 343923,
+      "word": "被vivo的4KLive功能惊艳到了",
+      "onboard_time": 1780058782,
+      "rank": 35,
+      "category": "数码"
+    },
+    {
       "raw_hot": 59613,
       "num": 213526,
       "word": "六一被华莱士小马硬控了",
@@ -1880,6 +2048,14 @@
       "word": "稻城亚丁整改",
       "onboard_time": 1779995414,
       "rank": 25,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 54253,
+      "num": 515911,
+      "word": "直播间擦边MiuMiu卖MiMi发卡",
+      "onboard_time": 1780061362,
+      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -1955,6 +2131,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 42847,
+      "num": 274702,
+      "word": "张陆从太空带回一个苹果",
+      "onboard_time": 1780062263,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 42092,
       "num": 1051001,
       "word": "6月这些新规将影响你我生活",
@@ -1985,6 +2169,14 @@
       "onboard_time": 1780026441,
       "rank": 44,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 36732,
+      "num": 1935474,
+      "word": "又一大国重器硬核刷屏",
+      "onboard_time": 1780055602,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 35840,
@@ -2073,14 +2265,6 @@
       "onboard_time": 1779990855,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 27882,
-      "num": 1935474,
-      "word": "又一大国重器硬核刷屏",
-      "onboard_time": 1780055602,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 27428,
@@ -2199,6 +2383,9 @@
     },
     {
       "word": "#国旗在我心#"
+    },
+    {
+      "word": "#总书记引领科技强国建设#"
     }
   ]
 }
