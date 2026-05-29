@@ -1,6 +1,6 @@
 {
   "startTime": 1779987630369,
-  "endTime": 1780011603463,
+  "endTime": 1780018406350,
   "band_list": [
     {
       "raw_hot": 2485680,
@@ -12,11 +12,43 @@
     },
     {
       "raw_hot": 1706670,
-      "num": 345409,
+      "num": 371715,
       "word": "张子枫是严浩翔答辩老师",
       "onboard_time": 1779969859,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1641494,
+      "num": 407132,
+      "word": "疑似官俊臣和女生聊天记录",
+      "onboard_time": 1780018338,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1590518,
+      "num": 405103,
+      "word": "林俊杰母亲回应是否喜欢七七",
+      "onboard_time": 1780015399,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1425767,
+      "num": 403396,
+      "word": "金价又跌麻了",
+      "onboard_time": 1780012579,
+      "rank": 12,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 1414941,
+      "num": 1414941,
+      "word": "曝小巷人家2长辈组退居辅线",
+      "onboard_time": 1780012639,
+      "rank": 0,
+      "category": "剧集"
     },
     {
       "raw_hot": 1214730,
@@ -27,11 +59,35 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 1086642,
+      "num": 1086642,
+      "word": "14人被骗地铁上班每天敬礼打卡",
+      "onboard_time": 1780014861,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 863522,
       "num": 294757,
       "word": "陈妍希晒断掉的骨头",
       "onboard_time": 1779962180,
       "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 830951,
+      "num": 830951,
+      "word": "孙杨送张豆豆的三句话",
+      "onboard_time": 1780013900,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 812062,
+      "num": 401882,
+      "word": "刘耀文 别熬夜等我发东西",
+      "onboard_time": 1780013779,
+      "rank": 13,
       "category": "艺人"
     },
     {
@@ -43,6 +99,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 696168,
+      "num": 696168,
+      "word": "阿根廷队世界杯26人名单",
+      "onboard_time": 1780012159,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 675051,
       "num": 355080,
       "word": "双汇的傲慢比抗生素超标更可怕",
@@ -51,12 +115,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 578191,
+      "num": 578191,
+      "word": "中国车市要变天了吗",
+      "onboard_time": 1780011021,
+      "rank": 45,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 524419,
       "num": 296320,
       "word": "柳智敏腿型",
       "onboard_time": 1779978201,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 520321,
+      "num": 520321,
+      "word": "全员加速中2026停播的一封信",
+      "onboard_time": 1780011619,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 511634,
+      "num": 398749,
+      "word": "丈夫抢走孩子爷爷放话拘留也不还",
+      "onboard_time": 1780013659,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 495626,
@@ -68,10 +156,18 @@
     },
     {
       "raw_hot": 490494,
-      "num": 354029,
+      "num": 386338,
       "word": "欧阳娣娣晒与严浩翔合照",
       "onboard_time": 1779967999,
       "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 487359,
+      "num": 397266,
+      "word": "王一博上榜福布斯杰出人物",
+      "onboard_time": 1780013361,
+      "rank": 15,
       "category": "艺人"
     },
     {
@@ -107,6 +203,30 @@
       "category": "情感"
     },
     {
+      "raw_hot": 422073,
+      "num": 394735,
+      "word": "女子婚内与他人同居12年生育3子女",
+      "onboard_time": 1780014861,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 416030,
+      "num": 416030,
+      "word": "百万粉丝网红边牧疑被偷宰杀",
+      "onboard_time": 1780016180,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 409989,
+      "num": 409989,
+      "word": "货车小区内超速奶奶保护孙子身亡",
+      "onboard_time": 1780011137,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 383586,
       "num": 477407,
       "word": "翘楚定档",
@@ -132,7 +252,7 @@
     },
     {
       "raw_hot": 315100,
-      "num": 353193,
+      "num": 367730,
       "word": "女子微信辱骂他人被多人围殴成脑震荡",
       "onboard_time": 1779974721,
       "rank": 32,
@@ -148,7 +268,7 @@
     },
     {
       "raw_hot": 294315,
-      "num": 248294,
+      "num": 375588,
       "word": "91岁演员罗兰回应被TVB除名",
       "onboard_time": 1779984978,
       "rank": 14,
@@ -180,11 +300,35 @@
     },
     {
       "raw_hot": 247901,
-      "num": 348661,
+      "num": 353915,
       "word": "金饰价格集体大跌",
       "onboard_time": 1779979523,
       "rank": 18,
       "category": "财经"
+    },
+    {
+      "raw_hot": 247317,
+      "num": 382306,
+      "word": "宋茜竟然是李佳琦超粉",
+      "onboard_time": 1780015821,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 246400,
+      "num": 381810,
+      "word": "所有的小黄人都是男性",
+      "onboard_time": 1780017559,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 244342,
+      "num": 376270,
+      "word": "网传浪姐三公个喜前十",
+      "onboard_time": 1780011137,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 234152,
@@ -201,6 +345,14 @@
       "onboard_time": 1779960621,
       "rank": 15,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 224462,
+      "num": 372631,
+      "word": "印度民众爬上楼顶睡觉",
+      "onboard_time": 1780015041,
+      "rank": 27,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 219101,
@@ -235,6 +387,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 198923,
+      "num": 365637,
+      "word": "莫离",
+      "onboard_time": 1780017200,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 194244,
       "num": 194244,
       "word": "张函瑞明明cha被下架",
@@ -243,11 +403,59 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 163547,
-      "num": 342716,
+      "raw_hot": 189379,
+      "num": 362659,
+      "word": "孙杨一天给张豆豆发100多条消息",
+      "onboard_time": 1780009037,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 174710,
+      "num": 358884,
+      "word": "福布斯回应王一博入选杰出人物",
+      "onboard_time": 1780017740,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 172982,
+      "num": 355896,
+      "word": "迪丽热巴即将五大女刊满贯",
+      "onboard_time": 1780013239,
+      "rank": 35,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 165993,
+      "num": 361185,
+      "word": "儿子跳楼父母提刑事自诉告儿媳",
+      "onboard_time": 1780013959,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 164772,
+      "num": 352569,
       "word": "清华女博士称孩子像小狗一样被拴着",
       "onboard_time": 1779985399,
       "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 161576,
+      "num": 350911,
+      "word": "湖南卫视官宣首档AI歌手音综",
+      "onboard_time": 1780016480,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 161522,
+      "num": 349691,
+      "word": "谁杀死了600年古树",
+      "onboard_time": 1780016180,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -259,20 +467,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 154592,
-      "num": 337752,
-      "word": "货车小区内超速奶奶保护孙子身亡",
-      "onboard_time": 1780011137,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 153468,
       "num": 336934,
       "word": "25岁vs55岁肌肉的真实差别",
       "onboard_time": 1779987617,
       "rank": 20,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 150231,
+      "num": 345395,
+      "word": "奔跑吧重复镜头",
+      "onboard_time": 1780014621,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 144641,
@@ -291,6 +499,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 143882,
+      "num": 339088,
+      "word": "王传君王子奇吃瓜差点亲上",
+      "onboard_time": 1780012400,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 143168,
       "num": 143168,
       "word": "吴世勋一天来两次微博",
@@ -305,6 +521,14 @@
       "onboard_time": 1779974721,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 141978,
+      "num": 336408,
+      "word": "秦娥偷偷举荐楚嘉禾当角",
+      "onboard_time": 1780015279,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 141495,
@@ -347,12 +571,28 @@
       "category": "艺人,作品衍生"
     },
     {
-      "raw_hot": 131768,
-      "num": 329955,
-      "word": "网传浪姐三公个喜前十",
-      "onboard_time": 1780011137,
-      "rank": 24,
-      "category": "综艺"
+      "raw_hot": 133045,
+      "num": 388953,
+      "word": "全职高手",
+      "onboard_time": 1780012159,
+      "rank": 19,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 131337,
+      "num": 340733,
+      "word": "33岁环卫女工一边扫地一边考研",
+      "onboard_time": 1780011439,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 128289,
+      "num": 329361,
+      "word": "刘晓艳老师儿子认为她好吃懒做",
+      "onboard_time": 1780018219,
+      "rank": 49,
+      "category": "网红"
     },
     {
       "raw_hot": 125392,
@@ -395,6 +635,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 112246,
+      "num": 408629,
+      "word": "NBA公布反摆烂选秀改革方案",
+      "onboard_time": 1780018040,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 110297,
       "num": 110297,
       "word": "广东90后女生用AI接了400万大单",
@@ -409,14 +657,6 @@
       "onboard_time": 1779963980,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 108352,
-      "num": 321166,
-      "word": "孙杨一天给张豆豆发100多条消息",
-      "onboard_time": 1780009037,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 108061,
@@ -443,14 +683,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 104005,
-      "num": 316852,
-      "word": "33岁环卫女工一边扫地一边考研",
-      "onboard_time": 1780011439,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 103467,
       "num": 202519,
       "word": "辛纳法网爆冷出局",
@@ -473,6 +705,14 @@
       "onboard_time": 1779968301,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 98694,
+      "num": 333323,
+      "word": "ClaudeOpus4.8发布",
+      "onboard_time": 1780017200,
+      "rank": 47,
+      "category": "互联网"
     },
     {
       "raw_hot": 97471,
@@ -529,14 +769,6 @@
       "onboard_time": 1779980722,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 58328,
-      "num": 293385,
-      "word": "中国车市要变天了吗",
-      "onboard_time": 1780011021,
-      "rank": 45,
-      "category": "汽车"
     },
     {
       "raw_hot": 57037,
@@ -668,11 +900,19 @@
     },
     {
       "raw_hot": 15234,
-      "num": 584964,
+      "num": 841725,
       "word": "三夏大规模小麦机收全面展开",
       "onboard_time": 1779971841,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 11434,
+      "num": 331242,
+      "word": "新款问界M9上市后多地门店爆单",
+      "onboard_time": 1780016661,
+      "rank": 48,
+      "category": "汽车"
     }
   ],
   "hotgov_list": [
