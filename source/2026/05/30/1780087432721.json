@@ -1,0 +1,410 @@
+{
+  "runTime": 1780087432721,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 183923,
+        "num": 183923,
+        "word": "歌手第三期帮唱嘉宾信息",
+        "onboard_time": 1780070961,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 67536,
+        "num": 67536,
+        "word": "饿着入睡对胃肠更好吗",
+        "onboard_time": 1780069162,
+        "rank": 1,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 8029,
+        "num": 65036,
+        "word": "又一大国重器硬核刷屏",
+        "onboard_time": 1780055602,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 105256,
+        "num": 65003,
+        "word": "耳帝 歌手第二期非常糟糕",
+        "onboard_time": 1780069402,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 89166,
+        "num": 64700,
+        "word": "单依纯含金量",
+        "onboard_time": 1780066463,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 64214,
+        "num": 64214,
+        "word": "重新定义一户一梯",
+        "onboard_time": 1780060522,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 63622,
+        "num": 63622,
+        "word": "一家四口有限责任公司",
+        "onboard_time": 1780057101,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 56268,
+        "num": 56268,
+        "word": "歌手 倒数第一竞争激烈",
+        "onboard_time": 1780062263,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 50392,
+        "num": 50392,
+        "word": "VOGUE晚宴",
+        "onboard_time": 1780062684,
+        "rank": 8,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 45899,
+        "num": 49663,
+        "word": "德约科维奇vs丰塞卡",
+        "onboard_time": 1780072158,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 89086,
+        "num": 48943,
+        "word": "范丞丞问第三名怎么你了",
+        "onboard_time": 1780073299,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 71496,
+        "num": 48344,
+        "word": "广东不愧是祖宗严选发配地",
+        "onboard_time": 1780060884,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 58650,
+        "num": 48058,
+        "word": "白鹿李晨郑恺复宣跑男",
+        "onboard_time": 1780061723,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 47356,
+        "num": 47356,
+        "word": "曾沛慈 我觉得不是恶剪",
+        "onboard_time": 1780057224,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 46208,
+        "num": 46208,
+        "word": "窦靖童完全王菲",
+        "onboard_time": 1780072520,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 45734,
+        "num": 45734,
+        "word": "刘红兵为了忆秦娥跳楼",
+        "onboard_time": 1780071499,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 45723,
+        "num": 45723,
+        "word": "歌手排名",
+        "onboard_time": 1780065385,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 44727,
+        "num": 44727,
+        "word": "39岁博主被虫咬后感染离世",
+        "onboard_time": 1780052661,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33160,
+        "num": 41616,
+        "word": "江浙沪的雨都快把人逼成大文豪了",
+        "onboard_time": 1780061122,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28909,
+        "num": 41511,
+        "word": "老人开空调一晚高烧3天肺白大半",
+        "onboard_time": 1780061362,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 56388,
+        "num": 41509,
+        "word": "白鹿回复于正于老师",
+        "onboard_time": 1780052481,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 41504,
+        "num": 41504,
+        "word": "VOGUE审美",
+        "onboard_time": 1780053680,
+        "rank": 21,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 40638,
+        "num": 40638,
+        "word": "情侣相约自杀1人身亡1人获刑",
+        "onboard_time": 1780053080,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37191,
+        "num": 37191,
+        "word": "英雄联盟CN缺席亚运会",
+        "onboard_time": 1780060942,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 32076,
+        "num": 32076,
+        "word": "魏如萱淘汰",
+        "onboard_time": 1780065805,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 32010,
+        "num": 32010,
+        "word": "王濛刘雨昕大师课续费了",
+        "onboard_time": 1780073239,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 25359,
+        "num": 31587,
+        "word": "父母姐姐身亡12岁孩子被叔侵占140万",
+        "onboard_time": 1780064486,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20499,
+        "num": 31063,
+        "word": "张雪机车回应排位赛第二",
+        "onboard_time": 1780067243,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 11208,
+        "num": 30784,
+        "word": "神22飞船返回舱着陆",
+        "onboard_time": 1780057402,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 8932,
+        "num": 30001,
+        "word": "神21乘组出舱",
+        "onboard_time": 1780060582,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29992,
+        "num": 29992,
+        "word": "有没有体面一点的防盗方式",
+        "onboard_time": 1780080255,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 29630,
+        "num": 29630,
+        "word": "人在做坏事的时候真的不觉得累",
+        "onboard_time": 1780074258,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 27584,
+        "num": 27584,
+        "word": "RW 归期",
+        "onboard_time": 1780070601,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 26966,
+        "num": 26966,
+        "word": "歌手和声",
+        "onboard_time": 1780074019,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 25497,
+        "num": 26960,
+        "word": "LOL亚运预选赛名单公布",
+        "onboard_time": 1780058001,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 25362,
+        "num": 26960,
+        "word": "爱上窦靖童是人之常情",
+        "onboard_time": 1780064486,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 22714,
+        "num": 26951,
+        "word": "斗罗2唐三回归",
+        "onboard_time": 1780072460,
+        "rank": 36,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 22470,
+        "num": 26945,
+        "word": "魏如萱回应淘汰",
+        "onboard_time": 1780072280,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 21499,
+        "num": 26940,
+        "word": "齐豫高音太顶了",
+        "onboard_time": 1780086674,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 20724,
+        "num": 26934,
+        "word": "李小冉去歌手能进前三",
+        "onboard_time": 1780074738,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 20612,
+        "num": 26925,
+        "word": "印度政府警告宝莱坞",
+        "onboard_time": 1780066764,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 20419,
+        "num": 26920,
+        "word": "结石姐袭榜张碧晨尤长靖",
+        "onboard_time": 1780057281,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 20366,
+        "num": 26917,
+        "word": "VOGUE红毯直播",
+        "onboard_time": 1780050622,
+        "rank": 42,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 19169,
+        "num": 26911,
+        "word": "王力宏演唱会",
+        "onboard_time": 1780084574,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 18918,
+        "num": 26907,
+        "word": "亚运会电竞项目名单",
+        "onboard_time": 1780057760,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 18664,
+        "num": 26900,
+        "word": "胡彦斌改编修炼爱情",
+        "onboard_time": 1780062863,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 17975,
+        "num": 26894,
+        "word": "李小冉去歌手了",
+        "onboard_time": 1780056502,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 17694,
+        "num": 26888,
+        "word": "AG 陈穿",
+        "onboard_time": 1780066524,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 16992,
+        "num": 26881,
+        "word": "歌手第三期联名赛",
+        "onboard_time": 1780066584,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 11640,
+        "num": 26873,
+        "word": "发货YES到手YSL",
+        "onboard_time": 1780068082,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记引领科技强国建设#"
+    }
+  }
+}

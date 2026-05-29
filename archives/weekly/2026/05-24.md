@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/05/24 01:10:40 ~ 2026/05/30 03:37:13
+本榜单时间：2026/05/24 01:10:40 ~ 2026/05/30 04:43:52
 </p>
 </blockquote>
 <p>
@@ -8781,6 +8781,12 @@ Mango创始人坠亡案长子被捕（热度：27054）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%BD%90%E8%B1%AB%E9%AB%98%E9%9F%B3%E5%A4%AA%E9%A1%B6%E4%BA%86%23" target="weibo">
+齐豫高音太顶了（热度：21499）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B5%AA%E5%A7%90%E8%BE%9F%E8%B0%A3%E6%8A%AB%E5%93%A5%E5%B8%AE%E5%94%B1%23" target="weibo">
 浪姐辟谣披哥帮唱（热度：21434）
 </a>
@@ -8843,6 +8849,12 @@ Mango创始人坠亡案长子被捕（热度：27054）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%A6%E7%94%9F%E5%87%8C%E6%99%A8%E5%9B%9B%E7%82%B9%E6%8E%92%E9%98%9F%E6%8A%A2%E5%8C%97%E4%BA%AC%E4%B8%AD%E8%81%8C%E5%90%8D%E9%A2%9D%23" target="weibo">
 学生凌晨四点排队抢北京中职名额（热度：19203）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%8A%9B%E5%AE%8F%E6%BC%94%E5%94%B1%E4%BC%9A%23" target="weibo">
+王力宏演唱会（热度：19169）
 </a>
 </li>
 

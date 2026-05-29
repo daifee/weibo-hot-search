@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/05/30 00:49:39 ~ 2026/05/30 03:37:13
+本榜单时间：2026/05/30 00:49:39 ~ 2026/05/30 04:43:52
 </p>
 </blockquote>
 <p>
@@ -389,6 +389,18 @@ VOGUE红毯直播（热度：46188）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%88%E4%B8%80%E5%A4%A7%E5%9B%BD%E9%87%8D%E5%99%A8%E7%A1%AC%E6%A0%B8%E5%88%B7%E5%B1%8F%23" target="weibo">
 又一大国重器硬核刷屏（热度：25477）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%BD%90%E8%B1%AB%E9%AB%98%E9%9F%B3%E5%A4%AA%E9%A1%B6%E4%BA%86%23" target="weibo">
+齐豫高音太顶了（热度：21499）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%8A%9B%E5%AE%8F%E6%BC%94%E5%94%B1%E4%BC%9A%23" target="weibo">
+王力宏演唱会（热度：19169）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1777565126834,
-  "endTime": 1780083433949,
+  "endTime": 1780087432721,
   "band_list": [
     {
       "raw_hot": 28198949,
@@ -55995,6 +55995,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 21499,
+      "num": 26940,
+      "word": "齐豫高音太顶了",
+      "onboard_time": 1780086674,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 21434,
       "num": 66703,
       "word": "浪姐辟谣披哥帮唱",
@@ -56345,6 +56353,14 @@
       "onboard_time": 1779537684,
       "rank": 18,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 19169,
+      "num": 26911,
+      "word": "王力宏演唱会",
+      "onboard_time": 1780084574,
+      "rank": 43,
+      "category": "演出"
     },
     {
       "raw_hot": 19024,
