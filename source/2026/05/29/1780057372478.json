@@ -1,0 +1,410 @@
+{
+  "runTime": 1780057372478,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3306806,
+        "num": 3306806,
+        "word": "释永信被判24年",
+        "onboard_time": 1780054521,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1952553,
+        "num": 1952553,
+        "word": "VOGUE红毯直播",
+        "onboard_time": 1780050622,
+        "rank": 1,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 27882,
+        "num": 1935474,
+        "word": "又一大国重器硬核刷屏",
+        "onboard_time": 1780055602,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1926676,
+        "num": 1926676,
+        "word": "VOGUE审美",
+        "onboard_time": 1780053680,
+        "rank": 3,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 1551715,
+        "num": 1551715,
+        "word": "歌手直播",
+        "onboard_time": 1780054701,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 802608,
+        "num": 802608,
+        "word": "李小冉去歌手了",
+        "onboard_time": 1780056502,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 717690,
+        "num": 717690,
+        "word": "39岁博主被虫咬后感染离世",
+        "onboard_time": 1780052661,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 716852,
+        "num": 716852,
+        "word": "车手张秀军不幸离世",
+        "onboard_time": 1780053020,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 500583,
+        "num": 500583,
+        "word": "结石姐袭榜张碧晨尤长靖",
+        "onboard_time": 1780057281,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 482664,
+        "num": 482664,
+        "word": "性格好是稀缺资源",
+        "onboard_time": 1780045941,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 3492534,
+        "num": 464628,
+        "word": "许我耀眼 现实版",
+        "onboard_time": 1780049300,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1765393,
+        "num": 451785,
+        "word": "白鹿回复于正于老师",
+        "onboard_time": 1780052481,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 385973,
+        "num": 385973,
+        "word": "广东高温天热死几千只鸡",
+        "onboard_time": 1780049241,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 884814,
+        "num": 385000,
+        "word": "演员刘红梅去世",
+        "onboard_time": 1780042340,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 255035,
+        "num": 382181,
+        "word": "王曦雨首进法网16强",
+        "onboard_time": 1780053921,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 252362,
+        "num": 380902,
+        "word": "芯片股集体暴跌",
+        "onboard_time": 1780054761,
+        "rank": 15,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 215042,
+        "num": 379521,
+        "word": "雷军称被何小鹏李斌骗了",
+        "onboard_time": 1780041381,
+        "rank": 16,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 817112,
+        "num": 377058,
+        "word": "王鹤棣称没有焦虑但会反思",
+        "onboard_time": 1780038262,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110088,
+        "num": 374602,
+        "word": "时尚圈镜头下的星星海好高级",
+        "onboard_time": 1780056321,
+        "rank": 18,
+        "category": "时尚,数码"
+      },
+      {
+        "raw_hot": 117707,
+        "num": 373350,
+        "word": "范丞丞当天猫店长了",
+        "onboard_time": 1780056321,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 450286,
+        "num": 370144,
+        "word": "亲爱的客栈全员夸王鹤棣",
+        "onboard_time": 1780042041,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121402,
+        "num": 368567,
+        "word": "拉夫劳伦北京马球赛",
+        "onboard_time": 1780056442,
+        "rank": 21,
+        "category": "时尚,体育"
+      },
+      {
+        "raw_hot": 367067,
+        "num": 367067,
+        "word": "同事每天下班带走公司五斤水",
+        "onboard_time": 1780036761,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 745159,
+        "num": 364811,
+        "word": "上上谦 闭店",
+        "onboard_time": 1780045460,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 422621,
+        "num": 363956,
+        "word": "孙怡回应植发",
+        "onboard_time": 1780055481,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 299513,
+        "num": 362093,
+        "word": "患者曝名医让儿子代诊致其流产",
+        "onboard_time": 1780042401,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 360429,
+        "num": 360429,
+        "word": "檀健次回应片场摔马",
+        "onboard_time": 1780052541,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138848,
+        "num": 341146,
+        "word": "A股老登股爆发",
+        "onboard_time": 1780056260,
+        "rank": 27,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 365383,
+        "num": 341039,
+        "word": "林允杀死比赛",
+        "onboard_time": 1780056981,
+        "rank": 28,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 233065,
+        "num": 338661,
+        "word": "上海警方通报高校偷拍事件",
+        "onboard_time": 1780053200,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 338516,
+        "num": 338516,
+        "word": "素颜赵今麦",
+        "onboard_time": 1780045401,
+        "rank": 30,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 330250,
+        "num": 330250,
+        "word": "VOGUE出发图",
+        "onboard_time": 1780041740,
+        "rank": 31,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 252564,
+        "num": 326703,
+        "word": "小寒恋爱聊天记录",
+        "onboard_time": 1780050023,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 325572,
+        "num": 325572,
+        "word": "李晨涨粉近百万",
+        "onboard_time": 1780034480,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 294501,
+        "num": 294501,
+        "word": "胡一天被打码的陷害了",
+        "onboard_time": 1780051161,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119212,
+        "num": 279764,
+        "word": "手机里的星星海",
+        "onboard_time": 1780056741,
+        "rank": 35,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 237031,
+        "num": 267157,
+        "word": "曝肖战下一部剧重庆号",
+        "onboard_time": 1780050321,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 267100,
+        "num": 267100,
+        "word": "赵今麦 绿野仙踪",
+        "onboard_time": 1780057342,
+        "rank": 37,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 199874,
+        "num": 266154,
+        "word": "神21航天员乘组回家",
+        "onboard_time": 1780046541,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 49607,
+        "num": 266004,
+        "word": "周涛说我都困了怎么方媛还不走",
+        "onboard_time": 1780056621,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 265854,
+        "num": 265854,
+        "word": "林允VOGUE礼服是裤子",
+        "onboard_time": 1780055721,
+        "rank": 40,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 218288,
+        "num": 264175,
+        "word": "一女子怀孕被误诊为闭经服药后流产",
+        "onboard_time": 1780048341,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 263908,
+        "num": 263908,
+        "word": "曝岳雨婷巴黎时装周蹭秀内幕",
+        "onboard_time": 1780055843,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 252155,
+        "num": 252155,
+        "word": "曾沛慈 我觉得不是恶剪",
+        "onboard_time": 1780057224,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 216156,
+        "num": 237420,
+        "word": "虾已经被晒熟了",
+        "onboard_time": 1780056081,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 262845,
+        "num": 235383,
+        "word": "刘诗诗 森中精灵",
+        "onboard_time": 1780050860,
+        "rank": 45,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 224169,
+        "num": 224169,
+        "word": "易烊千玺4提导协",
+        "onboard_time": 1780054823,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 154523,
+        "num": 219558,
+        "word": "情侣相约自杀1人身亡1人获刑",
+        "onboard_time": 1780053080,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130495,
+        "num": 218587,
+        "word": "不加一滴水鲜奶雪糕配料表首位是水",
+        "onboard_time": 1780055121,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149566,
+        "num": 218301,
+        "word": "一家四口有限责任公司",
+        "onboard_time": 1780057101,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#国旗在我心#"
+    }
+  }
+}
