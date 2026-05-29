@@ -1,6 +1,6 @@
 {
   "startTime": 1779556240361,
-  "endTime": 1780077041824,
+  "endTime": 1780083433949,
   "band_list": [
     {
       "raw_hot": 15283499,
@@ -11123,6 +11123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 38400,
+      "num": 42761,
+      "word": "有没有体面一点的防盗方式",
+      "onboard_time": 1780080255,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 38260,
       "num": 361162,
       "word": "大眼音乐节现场全员开嚼",
@@ -11497,6 +11505,14 @@
       "onboard_time": 1779824773,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 28626,
+      "num": 42592,
+      "word": "齐豫连续两周第一",
+      "onboard_time": 1780082415,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 28572,
