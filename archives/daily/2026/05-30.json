@@ -1,6 +1,6 @@
 {
   "startTime": 1780073379989,
-  "endTime": 1780073379989,
+  "endTime": 1780077041824,
   "band_list": [
     {
       "raw_hot": 5755002,
@@ -147,6 +147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 335200,
+      "num": 219699,
+      "word": "范丞丞问第三名怎么你了",
+      "onboard_time": 1780073299,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 304016,
       "num": 304016,
       "word": "杨幂直播差点滑倒",
@@ -241,14 +249,6 @@
       "onboard_time": 1780060522,
       "rank": 9,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 207608,
-      "num": 207608,
-      "word": "范丞丞问第三名怎么你了",
-      "onboard_time": 1780073299,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 173451,
@@ -355,12 +355,60 @@
       "category": "体育"
     },
     {
+      "raw_hot": 73689,
+      "num": 150142,
+      "word": "人在做坏事的时候真的不觉得累",
+      "onboard_time": 1780074258,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 73461,
+      "num": 150133,
+      "word": "李小冉去歌手了",
+      "onboard_time": 1780056502,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 71111,
-      "num": 139793,
+      "num": 151450,
       "word": "张雪机车回应排位赛第二",
       "onboard_time": 1780067243,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 68749,
+      "num": 150091,
+      "word": "挂电",
+      "onboard_time": 1780067002,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 66083,
+      "num": 150064,
+      "word": "歌手和声",
+      "onboard_time": 1780074019,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 59736,
+      "num": 150026,
+      "word": "李小冉去歌手能进前三",
+      "onboard_time": 1780074738,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 57687,
+      "num": 150014,
+      "word": "胡彦斌改编修炼爱情",
+      "onboard_time": 1780062863,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 56510,
@@ -371,6 +419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 53308,
+      "num": 149964,
+      "word": "结石姐袭榜张碧晨尤长靖",
+      "onboard_time": 1780057281,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 53299,
       "num": 391500,
       "word": "A股老登股爆发",
@@ -379,12 +435,44 @@
       "category": "财经"
     },
     {
+      "raw_hot": 52311,
+      "num": 149937,
+      "word": "领克10",
+      "onboard_time": 1780076117,
+      "rank": 46,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 51235,
+      "num": 149922,
+      "word": "JDG签下北北",
+      "onboard_time": 1780074019,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 50678,
       "num": 149975,
       "word": "芯片股集体暴跌",
       "onboard_time": 1780054761,
       "rank": 47,
       "category": "财经,民生新闻"
+    },
+    {
+      "raw_hot": 49921,
+      "num": 149891,
+      "word": "亚运会电竞项目名单",
+      "onboard_time": 1780057760,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 46188,
+      "num": 149882,
+      "word": "VOGUE红毯直播",
+      "onboard_time": 1780050622,
+      "rank": 49,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 37237,
@@ -406,6 +494,9 @@
   "hotgov_list": [
     {
       "word": "#习近平以白菜心比喻首都发展#"
+    },
+    {
+      "word": "#总书记引领科技强国建设#"
     }
   ]
 }

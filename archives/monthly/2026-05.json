@@ -1,6 +1,6 @@
 {
   "startTime": 1777565126834,
-  "endTime": 1780073379989,
+  "endTime": 1780077041824,
   "band_list": [
     {
       "raw_hot": 28198949,
@@ -21963,6 +21963,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 335200,
+      "num": 219699,
+      "word": "范丞丞问第三名怎么你了",
+      "onboard_time": 1780073299,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 335176,
       "num": 278371,
       "word": "陈翔六点半吴妈因病去世",
@@ -32793,14 +32801,6 @@
       "onboard_time": 1778000418,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 207608,
-      "num": 207608,
-      "word": "范丞丞问第三名怎么你了",
-      "onboard_time": 1780073299,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 207411,
@@ -48827,6 +48827,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 73689,
+      "num": 150142,
+      "word": "人在做坏事的时候真的不觉得累",
+      "onboard_time": 1780074258,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 73589,
       "num": 1266788,
       "word": "神舟二十三号出征",
@@ -49036,7 +49044,7 @@
     },
     {
       "raw_hot": 71111,
-      "num": 139793,
+      "num": 151450,
       "word": "张雪机车回应排位赛第二",
       "onboard_time": 1780067243,
       "rank": 49,
@@ -49363,6 +49371,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 68749,
+      "num": 150091,
+      "word": "挂电",
+      "onboard_time": 1780067002,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 68740,
       "num": 322407,
       "word": "杨洋章若楠方逸伦换头像",
@@ -49625,6 +49641,14 @@
       "onboard_time": 1779954741,
       "rank": 42,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 66083,
+      "num": 150064,
+      "word": "歌手和声",
+      "onboard_time": 1780074019,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 65789,
@@ -50347,6 +50371,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 59736,
+      "num": 150026,
+      "word": "李小冉去歌手能进前三",
+      "onboard_time": 1780074738,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 59712,
       "num": 446513,
       "word": "沈腾喊你记得加个蛋",
@@ -50561,6 +50593,14 @@
       "onboard_time": 1779776481,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 57687,
+      "num": 150014,
+      "word": "胡彦斌改编修炼爱情",
+      "onboard_time": 1780062863,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 57579,
@@ -51307,6 +51347,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 52311,
+      "num": 149937,
+      "word": "领克10",
+      "onboard_time": 1780076117,
+      "rank": 46,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 52289,
       "num": 320628,
       "word": "14岁男生杀女同学案无期判决已生效",
@@ -51465,6 +51513,14 @@
       "onboard_time": 1778427561,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 51235,
+      "num": 149922,
+      "word": "JDG签下北北",
+      "onboard_time": 1780074019,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 51207,

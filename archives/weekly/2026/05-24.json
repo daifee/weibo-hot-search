@@ -1,6 +1,6 @@
 {
   "startTime": 1779556240361,
-  "endTime": 1780073379989,
+  "endTime": 1780077041824,
   "band_list": [
     {
       "raw_hot": 15283499,
@@ -4899,6 +4899,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 335200,
+      "num": 219699,
+      "word": "范丞丞问第三名怎么你了",
+      "onboard_time": 1780073299,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 334344,
       "num": 334344,
       "word": "曝肖战下一部剧重庆号",
@@ -7153,14 +7161,6 @@
       "onboard_time": 1779937039,
       "rank": 24,
       "category": "财经"
-    },
-    {
-      "raw_hot": 207608,
-      "num": 207608,
-      "word": "范丞丞问第三名怎么你了",
-      "onboard_time": 1780073299,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 207411,
@@ -10107,6 +10107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 73689,
+      "num": 150142,
+      "word": "人在做坏事的时候真的不觉得累",
+      "onboard_time": 1780074258,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 73589,
       "num": 1266788,
       "word": "神舟二十三号出征",
@@ -10180,7 +10188,7 @@
     },
     {
       "raw_hot": 71111,
-      "num": 139793,
+      "num": 151450,
       "word": "张雪机车回应排位赛第二",
       "onboard_time": 1780067243,
       "rank": 49,
@@ -10273,6 +10281,14 @@
       "onboard_time": 1779682102,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 68749,
+      "num": 150091,
+      "word": "挂电",
+      "onboard_time": 1780067002,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 68681,
@@ -10369,6 +10385,14 @@
       "onboard_time": 1779954741,
       "rank": 42,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 66083,
+      "num": 150064,
+      "word": "歌手和声",
+      "onboard_time": 1780074019,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 65789,
@@ -10531,6 +10555,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 59736,
+      "num": 150026,
+      "word": "李小冉去歌手能进前三",
+      "onboard_time": 1780074738,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 59613,
       "num": 213526,
       "word": "六一被华莱士小马硬控了",
@@ -10545,6 +10577,14 @@
       "onboard_time": 1779776481,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 57687,
+      "num": 150014,
+      "word": "胡彦斌改编修炼爱情",
+      "onboard_time": 1780062863,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 57485,
@@ -10659,6 +10699,14 @@
       "category": "财经,互联网"
     },
     {
+      "raw_hot": 52311,
+      "num": 149937,
+      "word": "领克10",
+      "onboard_time": 1780076117,
+      "rank": 46,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 52121,
       "num": 99443,
       "word": "游客吐槽九寨沟照镜子被索要2元",
@@ -10697,6 +10745,14 @@
       "onboard_time": 1779580699,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 51235,
+      "num": 149922,
+      "word": "JDG签下北北",
+      "onboard_time": 1780074019,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 50579,
