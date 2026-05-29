@@ -1,6 +1,6 @@
 {
   "startTime": 1779556240361,
-  "endTime": 1780018406350,
+  "endTime": 1780027956199,
   "band_list": [
     {
       "raw_hot": 15283499,
@@ -387,6 +387,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1810965,
+      "num": 503089,
+      "word": "潘宥诚曝虞书欣整容",
+      "onboard_time": 1780026861,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1808827,
       "num": 1472654,
       "word": "王濛 我们就一个群",
@@ -427,6 +435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1737913,
+      "num": 1737913,
+      "word": "日本迎来坏消息",
+      "onboard_time": 1780019422,
+      "rank": 0,
+      "category": "财经"
+    },
+    {
       "raw_hot": 1719688,
       "num": 1719688,
       "word": "给阿嬷的情书 投资回报率",
@@ -460,7 +476,7 @@
     },
     {
       "raw_hot": 1641494,
-      "num": 407132,
+      "num": 467249,
       "word": "疑似官俊臣和女生聊天记录",
       "onboard_time": 1780018338,
       "rank": 10,
@@ -484,7 +500,7 @@
     },
     {
       "raw_hot": 1590518,
-      "num": 405103,
+      "num": 478974,
       "word": "林俊杰母亲回应是否喜欢七七",
       "onboard_time": 1780015399,
       "rank": 11,
@@ -580,7 +596,7 @@
     },
     {
       "raw_hot": 1425767,
-      "num": 403396,
+      "num": 491316,
       "word": "金价又跌麻了",
       "onboard_time": 1780012579,
       "rank": 12,
@@ -844,7 +860,7 @@
     },
     {
       "raw_hot": 1243300,
-      "num": 437173,
+      "num": 484650,
       "word": "A股",
       "onboard_time": 1779677481,
       "rank": 21,
@@ -1105,6 +1121,14 @@
       "onboard_time": 1779893061,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1071090,
+      "num": 881788,
+      "word": "创业最快的方式是寄生",
+      "onboard_time": 1780024760,
+      "rank": 3,
+      "category": "情感"
     },
     {
       "raw_hot": 1042401,
@@ -1523,6 +1547,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 839793,
+      "num": 839793,
+      "word": "曝魏如萱问吴泽林你今天舒服吗",
+      "onboard_time": 1780022839,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 839212,
       "num": 629375,
       "word": "给阿嬷的情书票房破十亿",
@@ -1664,6 +1696,14 @@
       "word": "吴泽林也不舒服了",
       "onboard_time": 1779689422,
       "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 796235,
+      "num": 471458,
+      "word": "唐嫣参加女儿幼儿园艺术节",
+      "onboard_time": 1780026501,
+      "rank": 15,
       "category": "艺人"
     },
     {
@@ -1995,6 +2035,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 698363,
+      "num": 698363,
+      "word": "雷霆vs马刺",
+      "onboard_time": 1780019298,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 696168,
       "num": 696168,
       "word": "阿根廷队世界杯26人名单",
@@ -2137,6 +2185,14 @@
       "onboard_time": 1779628584,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 639301,
+      "num": 639301,
+      "word": "莫叔回应莫氏鸡煲倒闭",
+      "onboard_time": 1780020859,
+      "rank": 6,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 635725,
@@ -2465,6 +2521,14 @@
       "onboard_time": 1779763221,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 562378,
+      "num": 465251,
+      "word": "孙怡的裙子不会打结吗",
+      "onboard_time": 1780026561,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 561661,
@@ -2955,6 +3019,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 467367,
+      "num": 467367,
+      "word": "豆包豆包帮我把这群智障删掉",
+      "onboard_time": 1780020439,
+      "rank": 16,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 467205,
       "num": 467205,
       "word": "马刺2比2雷霆",
@@ -2971,12 +3043,36 @@
       "category": "财经"
     },
     {
+      "raw_hot": 465164,
+      "num": 465164,
+      "word": "演员安云武去世",
+      "onboard_time": 1780024399,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 464371,
       "num": 476784,
       "word": "西安一16岁女孩在街上遭陌生男子殴打",
       "onboard_time": 1779715882,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 464351,
+      "num": 464351,
+      "word": "aespa挑染",
+      "onboard_time": 1780018040,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 464169,
+      "num": 465604,
+      "word": "9键26键别吵快看这2键",
+      "onboard_time": 1780025422,
+      "rank": 20,
+      "category": "幽默"
     },
     {
       "raw_hot": 463899,
@@ -3041,6 +3137,14 @@
       "onboard_time": 1779759020,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 457114,
+      "num": 457114,
+      "word": "上海政法学院通报女厕疑现摄像头",
+      "onboard_time": 1780026081,
+      "rank": 25,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 456927,
@@ -3177,6 +3281,14 @@
       "onboard_time": 1779851119,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 431203,
+      "num": 431203,
+      "word": "孙杨对张豆豆说你慢的话就骂你",
+      "onboard_time": 1780020919,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 429009,
@@ -4155,6 +4267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 335447,
+      "num": 335447,
+      "word": "白鹿丞磊莫离定档",
+      "onboard_time": 1780027820,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 333917,
       "num": 497241,
       "word": "今年热度破三万的三部剧",
@@ -4667,6 +4787,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 283389,
+      "num": 283389,
+      "word": "花18元中了2576万",
+      "onboard_time": 1780021879,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 283346,
+      "num": 464630,
+      "word": "樊振东喊话美团闪购",
+      "onboard_time": 1780023981,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 283296,
       "num": 385875,
       "word": "生命树获得白玉兰8项提名",
@@ -4753,6 +4889,14 @@
       "onboard_time": 1779584480,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 280634,
+      "num": 280634,
+      "word": "浪姐个喜TOP15",
+      "onboard_time": 1780027340,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 280313,
@@ -4995,6 +5139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 268139,
+      "num": 268139,
+      "word": "从息肉到肠癌仅4步",
+      "onboard_time": 1780018399,
+      "rank": 34,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 267873,
       "num": 625436,
       "word": "粉丝全在喊浪姐取消线下握手见面会",
@@ -5049,6 +5201,14 @@
       "onboard_time": 1779682161,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 262400,
+      "num": 365637,
+      "word": "莫离",
+      "onboard_time": 1780017200,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 262291,
@@ -5371,6 +5531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 244141,
+      "num": 244141,
+      "word": "四川成立省级调查指导组",
+      "onboard_time": 1780019479,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 243913,
       "num": 321886,
       "word": "给阿嬷的情书 成本",
@@ -5457,6 +5625,14 @@
       "onboard_time": 1779611964,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 240528,
+      "num": 227627,
+      "word": "孙杨发10条信息张豆豆仅回末条",
+      "onboard_time": 1780026023,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 240134,
@@ -5561,6 +5737,14 @@
       "onboard_time": 1779579557,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 234778,
+      "num": 234778,
+      "word": "日本预演台湾有事清空战场",
+      "onboard_time": 1780026861,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 234532,
@@ -5963,6 +6147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 213084,
+      "num": 213084,
+      "word": "卢伟冰宣布小米17T系列国内即将发布",
+      "onboard_time": 1780020499,
+      "rank": 43,
+      "category": "数码"
+    },
+    {
       "raw_hot": 212658,
       "num": 312284,
       "word": "武契奇在小米工厂下单了",
@@ -6243,14 +6435,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 198923,
-      "num": 365637,
-      "word": "莫离",
-      "onboard_time": 1780017200,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 198738,
       "num": 385595,
       "word": "明天周一我也不舒服了",
@@ -6323,6 +6507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 193999,
+      "num": 466239,
+      "word": "电车是时候交养路费了",
+      "onboard_time": 1780026861,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 193720,
       "num": 416189,
       "word": "家业收视率",
@@ -6345,6 +6537,14 @@
       "onboard_time": 1779699682,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 192917,
+      "num": 192917,
+      "word": "金鹤龙给白鹿化的青提雀斑妆",
+      "onboard_time": 1780018698,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 192695,
@@ -6385,6 +6585,14 @@
       "onboard_time": 1779955280,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 191761,
+      "num": 191761,
+      "word": "肖战藏海传白玉兰投票",
+      "onboard_time": 1780024700,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 191660,
@@ -6579,6 +6787,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 181251,
+      "num": 466845,
+      "word": "周深实体专辑销售额破5000万",
+      "onboard_time": 1780027521,
+      "rank": 18,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 181012,
       "num": 606722,
       "word": "野泳男子嬉戏中将4名女孩逼向深水区",
@@ -6633,6 +6849,14 @@
       "onboard_time": 1779956720,
       "rank": 39,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 177939,
+      "num": 161153,
+      "word": "全员加速中没有停播",
+      "onboard_time": 1780027221,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 177933,
@@ -7473,6 +7697,14 @@
       "onboard_time": 1779728417,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 132257,
+      "num": 235010,
+      "word": "家业爷爷落地签机车照",
+      "onboard_time": 1780027280,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 131999,
@@ -9059,6 +9291,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 59613,
+      "num": 213526,
+      "word": "六一被华莱士小马硬控了",
+      "onboard_time": 1780027882,
+      "rank": 42,
+      "category": "美食"
+    },
+    {
       "raw_hot": 57788,
       "num": 376339,
       "word": "LGD DOTA2",
@@ -9241,6 +9481,14 @@
       "onboard_time": 1779945741,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 49512,
+      "num": 236281,
+      "word": "昆凌提前给儿子女儿准备六一礼物",
+      "onboard_time": 1780026861,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 49129,
@@ -9467,6 +9715,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 41563,
+      "num": 508506,
+      "word": "64名被菲方羁押中国公民获释",
+      "onboard_time": 1780027280,
+      "rank": 10,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 40977,
+      "num": 281333,
+      "word": "美火箭点火测试发生爆炸",
+      "onboard_time": 1780027641,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 39896,
       "num": 131277,
       "word": "苏醒关注7天冷静期",
@@ -9545,6 +9809,14 @@
       "onboard_time": 1779663678,
       "rank": 18,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 37650,
+      "num": 205029,
+      "word": "美司法部调查指控特朗普性侵的女作家",
+      "onboard_time": 1780026441,
+      "rank": 44,
+      "category": "国际时政"
     },
     {
       "raw_hot": 37551,
@@ -9667,6 +9939,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 33007,
+      "num": 214456,
+      "word": "中学不开空调学生躲老师办公室避暑",
+      "onboard_time": 1780027882,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 31869,
       "num": 463603,
       "word": "3岁男孩被体育中心足球门砸中身亡",
@@ -9761,6 +10041,14 @@
       "onboard_time": 1779964340,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 30649,
+      "num": 886813,
+      "word": "未来五年我们生活的城市如何更新",
+      "onboard_time": 1780025539,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 30456,
@@ -10099,6 +10387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 18514,
+      "num": 280663,
+      "word": "600年古树被毁上级部门一问三不知",
+      "onboard_time": 1780027641,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 18357,
       "num": 434096,
       "word": "颁授仪式上武契奇喜极而泣",
@@ -10291,12 +10587,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 2938,
+      "num": 524540,
+      "word": "AI公司为何更值钱",
+      "onboard_time": 1780027280,
+      "rank": 8,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 2393,
       "num": 410078,
       "word": "主角的收视率",
       "onboard_time": 1779598882,
       "rank": 9,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1280,
+      "num": 521783,
+      "word": "勇士队该如何补强阵容",
+      "onboard_time": 1780027280,
+      "rank": 9,
+      "category": "体育"
     }
   ],
   "hotgov_list": [
@@ -10341,6 +10653,9 @@
     },
     {
       "word": "#习近平复信中美两国学生#"
+    },
+    {
+      "word": "#自觉同人民想在一起干在一起#"
     }
   ]
 }

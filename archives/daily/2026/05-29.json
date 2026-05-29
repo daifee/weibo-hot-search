@@ -1,6 +1,6 @@
 {
   "startTime": 1779987630369,
-  "endTime": 1780018406350,
+  "endTime": 1780027956199,
   "band_list": [
     {
       "raw_hot": 2485680,
@@ -9,6 +9,22 @@
       "onboard_time": 1779978442,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1810965,
+      "num": 503089,
+      "word": "潘宥诚曝虞书欣整容",
+      "onboard_time": 1780026861,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1737913,
+      "num": 1737913,
+      "word": "日本迎来坏消息",
+      "onboard_time": 1780019422,
+      "rank": 0,
+      "category": "财经"
     },
     {
       "raw_hot": 1706670,
@@ -20,7 +36,7 @@
     },
     {
       "raw_hot": 1641494,
-      "num": 407132,
+      "num": 467249,
       "word": "疑似官俊臣和女生聊天记录",
       "onboard_time": 1780018338,
       "rank": 10,
@@ -28,7 +44,7 @@
     },
     {
       "raw_hot": 1590518,
-      "num": 405103,
+      "num": 478974,
       "word": "林俊杰母亲回应是否喜欢七七",
       "onboard_time": 1780015399,
       "rank": 11,
@@ -36,7 +52,7 @@
     },
     {
       "raw_hot": 1425767,
-      "num": 403396,
+      "num": 491316,
       "word": "金价又跌麻了",
       "onboard_time": 1780012579,
       "rank": 12,
@@ -67,12 +83,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1071090,
+      "num": 881788,
+      "word": "创业最快的方式是寄生",
+      "onboard_time": 1780024760,
+      "rank": 3,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 944853,
+      "num": 484650,
+      "word": "A股",
+      "onboard_time": 1780021939,
+      "rank": 13,
+      "category": "财经"
+    },
+    {
       "raw_hot": 863522,
       "num": 294757,
       "word": "陈妍希晒断掉的骨头",
       "onboard_time": 1779962180,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 839793,
+      "num": 839793,
+      "word": "曝魏如萱问吴泽林你今天舒服吗",
+      "onboard_time": 1780022839,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 830951,
@@ -91,12 +131,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 796235,
+      "num": 471458,
+      "word": "唐嫣参加女儿幼儿园艺术节",
+      "onboard_time": 1780026501,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 700116,
       "num": 322980,
       "word": "曝景甜降价出售上海豪宅",
       "onboard_time": 1779956660,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 698363,
+      "num": 698363,
+      "word": "雷霆vs马刺",
+      "onboard_time": 1780019298,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 696168,
@@ -115,12 +171,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 639301,
+      "num": 639301,
+      "word": "莫叔回应莫氏鸡煲倒闭",
+      "onboard_time": 1780020859,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 578191,
       "num": 578191,
       "word": "中国车市要变天了吗",
       "onboard_time": 1780011021,
       "rank": 45,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 562378,
+      "num": 465251,
+      "word": "孙怡的裙子不会打结吗",
+      "onboard_time": 1780026561,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 524419,
@@ -187,12 +259,60 @@
       "category": "美妆,网红"
     },
     {
+      "raw_hot": 467367,
+      "num": 467367,
+      "word": "豆包豆包帮我把这群智障删掉",
+      "onboard_time": 1780020439,
+      "rank": 16,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 465164,
+      "num": 465164,
+      "word": "演员安云武去世",
+      "onboard_time": 1780024399,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 464351,
+      "num": 464351,
+      "word": "aespa挑染",
+      "onboard_time": 1780018040,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 464169,
+      "num": 465604,
+      "word": "9键26键别吵快看这2键",
+      "onboard_time": 1780025422,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 464108,
       "num": 197841,
       "word": "刘恺威 李晓峰",
       "onboard_time": 1779958042,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 457114,
+      "num": 457114,
+      "word": "上海政法学院通报女厕疑现摄像头",
+      "onboard_time": 1780026081,
+      "rank": 25,
+      "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 431203,
+      "num": 431203,
+      "word": "孙杨对张豆豆说你慢的话就骂你",
+      "onboard_time": 1780020919,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 428907,
@@ -243,6 +363,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 335447,
+      "num": 335447,
+      "word": "白鹿丞磊莫离定档",
+      "onboard_time": 1780027820,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 316780,
       "num": 325667,
       "word": "小巷人家2剧情",
@@ -283,11 +411,51 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 283389,
+      "num": 283389,
+      "word": "花18元中了2576万",
+      "onboard_time": 1780021879,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 283346,
+      "num": 464630,
+      "word": "樊振东喊话美团闪购",
+      "onboard_time": 1780023981,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 283140,
       "num": 310098,
       "word": "杨紫白玉兰切片换了",
       "onboard_time": 1779965480,
       "rank": 7,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 280634,
+      "num": 280634,
+      "word": "浪姐个喜TOP15",
+      "onboard_time": 1780027340,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 268139,
+      "num": 268139,
+      "word": "从息肉到肠癌仅4步",
+      "onboard_time": 1780018399,
+      "rank": 34,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 262400,
+      "num": 365637,
+      "word": "莫离",
+      "onboard_time": 1780017200,
+      "rank": 31,
       "category": "剧集"
     },
     {
@@ -331,6 +499,30 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 244141,
+      "num": 244141,
+      "word": "四川成立省级调查指导组",
+      "onboard_time": 1780019479,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 240528,
+      "num": 227627,
+      "word": "孙杨发10条信息张豆豆仅回末条",
+      "onboard_time": 1780026023,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 234778,
+      "num": 234778,
+      "word": "日本预演台湾有事清空战场",
+      "onboard_time": 1780026861,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 234152,
       "num": 303320,
       "word": "Angelababy 马甲线",
@@ -371,6 +563,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 213084,
+      "num": 213084,
+      "word": "卢伟冰宣布小米17T系列国内即将发布",
+      "onboard_time": 1780020499,
+      "rank": 43,
+      "category": "数码"
+    },
+    {
       "raw_hot": 212490,
       "num": 357328,
       "word": "推特自动翻译 巴别塔",
@@ -387,14 +587,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 198923,
-      "num": 365637,
-      "word": "莫离",
-      "onboard_time": 1780017200,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 194244,
       "num": 194244,
       "word": "张函瑞明明cha被下架",
@@ -403,11 +595,51 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 193999,
+      "num": 466239,
+      "word": "电车是时候交养路费了",
+      "onboard_time": 1780026861,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 192917,
+      "num": 192917,
+      "word": "金鹤龙给白鹿化的青提雀斑妆",
+      "onboard_time": 1780018698,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 191761,
+      "num": 191761,
+      "word": "肖战藏海传白玉兰投票",
+      "onboard_time": 1780024700,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 189379,
       "num": 362659,
       "word": "孙杨一天给张豆豆发100多条消息",
       "onboard_time": 1780009037,
       "rank": 29,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 181251,
+      "num": 466845,
+      "word": "周深实体专辑销售额破5000万",
+      "onboard_time": 1780027521,
+      "rank": 18,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 177939,
+      "num": 161153,
+      "word": "全员加速中没有停播",
+      "onboard_time": 1780027221,
+      "rank": 49,
       "category": "综艺"
     },
     {
@@ -577,6 +809,14 @@
       "onboard_time": 1780012159,
       "rank": 19,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 132257,
+      "num": 235010,
+      "word": "家业爷爷落地签机车照",
+      "onboard_time": 1780027280,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 131337,
@@ -771,6 +1011,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 59613,
+      "num": 213526,
+      "word": "六一被华莱士小马硬控了",
+      "onboard_time": 1780027882,
+      "rank": 42,
+      "category": "美食"
+    },
+    {
       "raw_hot": 57037,
       "num": 288413,
       "word": "稻城亚丁整改",
@@ -793,6 +1041,14 @@
       "onboard_time": 1779977360,
       "rank": 38,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 49512,
+      "num": 236281,
+      "word": "昆凌提前给儿子女儿准备六一礼物",
+      "onboard_time": 1780026861,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 47919,
@@ -819,6 +1075,30 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 41563,
+      "num": 508506,
+      "word": "64名被菲方羁押中国公民获释",
+      "onboard_time": 1780027280,
+      "rank": 10,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 40977,
+      "num": 281333,
+      "word": "美火箭点火测试发生爆炸",
+      "onboard_time": 1780027641,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 37650,
+      "num": 205029,
+      "word": "美司法部调查指控特朗普性侵的女作家",
+      "onboard_time": 1780026441,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 35840,
       "num": 47388,
       "word": "蔡徐坤马来西亚音乐节",
@@ -843,12 +1123,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 33007,
+      "num": 214456,
+      "word": "中学不开空调学生躲老师办公室避暑",
+      "onboard_time": 1780027882,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 31603,
       "num": 98058,
       "word": "上海男篮2比0广厦男篮",
       "onboard_time": 1779989297,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 30649,
+      "num": 886813,
+      "word": "未来五年我们生活的城市如何更新",
+      "onboard_time": 1780025539,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 30630,
@@ -891,6 +1187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 18514,
+      "num": 280663,
+      "word": "600年古树被毁上级部门一问三不知",
+      "onboard_time": 1780027641,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 18397,
       "num": 43314,
       "word": "小巷人家2",
@@ -913,6 +1217,22 @@
       "onboard_time": 1780016661,
       "rank": 48,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 2938,
+      "num": 524540,
+      "word": "AI公司为何更值钱",
+      "onboard_time": 1780027280,
+      "rank": 8,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 1280,
+      "num": 521783,
+      "word": "勇士队该如何补强阵容",
+      "onboard_time": 1780027280,
+      "rank": 9,
+      "category": "体育"
     }
   ],
   "hotgov_list": [
@@ -921,6 +1241,9 @@
     },
     {
       "word": "#习近平复信中美两国学生#"
+    },
+    {
+      "word": "#自觉同人民想在一起干在一起#"
     }
   ]
 }
