@@ -1,6 +1,6 @@
 {
   "startTime": 1779556240361,
-  "endTime": 1780087432721,
+  "endTime": 1780091921980,
   "band_list": [
     {
       "raw_hot": 15283499,
@@ -10603,6 +10603,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 57196,
+      "num": 57196,
+      "word": "难听",
+      "onboard_time": 1780088234,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 57037,
       "num": 288413,
       "word": "稻城亚丁整改",
@@ -11123,7 +11131,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 38400,
+      "raw_hot": 38792,
       "num": 42761,
       "word": "有没有体面一点的防盗方式",
       "onboard_time": 1780080255,
@@ -11691,8 +11699,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 23791,
+      "num": 28827,
+      "word": "王力宏演唱会",
+      "onboard_time": 1780084574,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
       "raw_hot": 21499,
-      "num": 26940,
+      "num": 28745,
       "word": "齐豫高音太顶了",
       "onboard_time": 1780086674,
       "rank": 38,
@@ -11787,14 +11803,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 19169,
-      "num": 26911,
-      "word": "王力宏演唱会",
-      "onboard_time": 1780084574,
-      "rank": 43,
-      "category": "演出"
-    },
-    {
       "raw_hot": 18804,
       "num": 24362,
       "word": "国乐无双",
@@ -11857,6 +11865,14 @@
       "onboard_time": 1779684142,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 17794,
+      "num": 28752,
+      "word": "樊振东德甲半决赛时间",
+      "onboard_time": 1780088594,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 17309,

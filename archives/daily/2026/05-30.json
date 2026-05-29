@@ -1,6 +1,6 @@
 {
   "startTime": 1780073379989,
-  "endTime": 1780087432721,
+  "endTime": 1780091921980,
   "band_list": [
     {
       "raw_hot": 5755002,
@@ -411,6 +411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 57196,
+      "num": 57196,
+      "word": "难听",
+      "onboard_time": 1780088234,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 56510,
       "num": 389191,
       "word": "神22飞船返回舱着陆",
@@ -475,7 +483,7 @@
       "category": "时尚,作品衍生"
     },
     {
-      "raw_hot": 38400,
+      "raw_hot": 38792,
       "num": 42761,
       "word": "有没有体面一点的防盗方式",
       "onboard_time": 1780080255,
@@ -507,20 +515,36 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 23791,
+      "num": 28827,
+      "word": "王力宏演唱会",
+      "onboard_time": 1780084574,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
       "raw_hot": 21499,
-      "num": 26940,
+      "num": 28745,
       "word": "齐豫高音太顶了",
       "onboard_time": 1780086674,
       "rank": 38,
       "category": "综艺"
     },
     {
-      "raw_hot": 19169,
-      "num": 26911,
-      "word": "王力宏演唱会",
-      "onboard_time": 1780084574,
-      "rank": 43,
-      "category": "演出"
+      "raw_hot": 19798,
+      "num": 28772,
+      "word": "歌手直播",
+      "onboard_time": 1780054701,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 17794,
+      "num": 28752,
+      "word": "樊振东德甲半决赛时间",
+      "onboard_time": 1780088594,
+      "rank": 44,
+      "category": "体育"
     }
   ],
   "hotgov_list": [
