@@ -1,0 +1,410 @@
+{
+  "runTime": 1780050675426,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1733100,
+        "num": 1733100,
+        "word": "iPhone18Pro四色实锤了",
+        "onboard_time": 1780048161,
+        "rank": 0,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 738760,
+        "num": 922071,
+        "word": "患者曝名医让儿子代诊致其流产",
+        "onboard_time": 1780042401,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 42092,
+        "num": 842948,
+        "word": "6月这些新规将影响你我生活",
+        "onboard_time": 1780037781,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1099256,
+        "num": 840673,
+        "word": "性格好是稀缺资源",
+        "onboard_time": 1780045941,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 772642,
+        "num": 772642,
+        "word": "亲爱的客栈全员夸王鹤棣",
+        "onboard_time": 1780042041,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 729825,
+        "num": 729825,
+        "word": "同事每天下班带走公司五斤水",
+        "onboard_time": 1780036761,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 390375,
+        "num": 390375,
+        "word": "关晓彤震惊丁程鑫24岁了",
+        "onboard_time": 1780039100,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 378754,
+        "num": 378754,
+        "word": "雷军称被何小鹏李斌骗了",
+        "onboard_time": 1780041381,
+        "rank": 7,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 353075,
+        "num": 353075,
+        "word": "日本转移12万居民",
+        "onboard_time": 1780029022,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 80237,
+        "num": 353071,
+        "word": "梅西伤情",
+        "onboard_time": 1780036101,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2404307,
+        "num": 352461,
+        "word": "许我耀眼 现实版",
+        "onboard_time": 1780049300,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1470503,
+        "num": 351957,
+        "word": "演员刘红梅去世",
+        "onboard_time": 1780042340,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1825480,
+        "num": 351745,
+        "word": "奚梦瑶何猷君婚礼伴手礼",
+        "onboard_time": 1780029621,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1345201,
+        "num": 351443,
+        "word": "英伟达黄仁勋评价韬定律",
+        "onboard_time": 1780046240,
+        "rank": 13,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1344730,
+        "num": 351136,
+        "word": "王鹤棣称没有焦虑但会反思",
+        "onboard_time": 1780038262,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1124629,
+        "num": 350448,
+        "word": "上上谦 闭店",
+        "onboard_time": 1780045460,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 697611,
+        "num": 350293,
+        "word": "海口一老师赛课时猝死",
+        "onboard_time": 1780046362,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27428,
+        "num": 349830,
+        "word": "王嘉尔阿信两种渴望一种答案",
+        "onboard_time": 1780049121,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 312335,
+        "num": 349451,
+        "word": "男童误食磁铁珠妈妈隔肚皮找到",
+        "onboard_time": 1780045282,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 235792,
+        "num": 349124,
+        "word": "A股5月收官",
+        "onboard_time": 1780041560,
+        "rank": 19,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 811487,
+        "num": 348793,
+        "word": "VOGUE出发图",
+        "onboard_time": 1780041740,
+        "rank": 20,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 691977,
+        "num": 348243,
+        "word": "素颜赵今麦",
+        "onboard_time": 1780045401,
+        "rank": 21,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 214187,
+        "num": 347977,
+        "word": "对一个人好感倍增的小细节",
+        "onboard_time": 1780039640,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 347820,
+        "num": 347820,
+        "word": "李晨转发宣传白鹿莫离",
+        "onboard_time": 1780031421,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 334344,
+        "num": 334344,
+        "word": "曝肖战下一部剧重庆号",
+        "onboard_time": 1780050321,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163210,
+        "num": 334326,
+        "word": "泡泡玛特涨疯了",
+        "onboard_time": 1780047740,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 139741,
+        "num": 334264,
+        "word": "神21航天员乘组回家",
+        "onboard_time": 1780046541,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 82299,
+        "num": 334237,
+        "word": "外交部回应加拿大军舰派至台湾海峡",
+        "onboard_time": 1780044980,
+        "rank": 27,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 49381,
+        "num": 334200,
+        "word": "启境GT7华系驾控王",
+        "onboard_time": 1780048161,
+        "rank": 28,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 422762,
+        "num": 334149,
+        "word": "李晨涨粉近百万",
+        "onboard_time": 1780034480,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 417022,
+        "num": 334104,
+        "word": "虞书欣在一年级被弄到脸",
+        "onboard_time": 1780032681,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 211710,
+        "num": 334057,
+        "word": "衣服洗完不香搓一下",
+        "onboard_time": 1780046720,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 334043,
+        "num": 334043,
+        "word": "白鹿到底做错了啥",
+        "onboard_time": 1780035200,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27006,
+        "num": 301291,
+        "word": "女童被幼儿园老师用热熔胶烫嘴虐待",
+        "onboard_time": 1780050500,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 283472,
+        "num": 283472,
+        "word": "只要对象选的好 结婚照都是VOGUE拍的",
+        "onboard_time": 1780045341,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 220803,
+        "num": 220803,
+        "word": "薛之谦北京站官宣12场",
+        "onboard_time": 1780047440,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 200055,
+        "num": 218515,
+        "word": "折叠屏iPhone外观实锤了",
+        "onboard_time": 1780037660,
+        "rank": 36,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 217213,
+        "num": 217213,
+        "word": "范玮琪四公没人选哭了",
+        "onboard_time": 1780033041,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 97202,
+        "num": 210064,
+        "word": "广东高温天热死几千只鸡",
+        "onboard_time": 1780049241,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 209127,
+        "num": 209127,
+        "word": "阚清子瘦了十斤",
+        "onboard_time": 1780036761,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200702,
+        "num": 200702,
+        "word": "李小冉回应唐艺昕忘了自己",
+        "onboard_time": 1780046240,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197839,
+        "num": 197839,
+        "word": "一女子怀孕被误诊为闭经服药后流产",
+        "onboard_time": 1780048341,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 183866,
+        "num": 183866,
+        "word": "刘冲问张峻豪和贺峻霖认识吗",
+        "onboard_time": 1780044503,
+        "rank": 42,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 183496,
+        "num": 183496,
+        "word": "VOGUE红毯直播",
+        "onboard_time": 1780050622,
+        "rank": 43,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 177928,
+        "num": 177928,
+        "word": "关晓彤说紧点显得你臀翘",
+        "onboard_time": 1780040480,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163400,
+        "num": 163400,
+        "word": "杨紫李祯观音造型来了",
+        "onboard_time": 1780039882,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 138555,
+        "num": 138555,
+        "word": "女子免疫系统攻击胚胎15年8次流产",
+        "onboard_time": 1780048100,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 69062,
+        "num": 137971,
+        "word": "如果阿嬷的故事有另一个结局",
+        "onboard_time": 1780049899,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 128026,
+        "num": 136939,
+        "word": "小寒恋爱聊天记录",
+        "onboard_time": 1780050023,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 65848,
+        "num": 134960,
+        "word": "TT打爆了JDG",
+        "onboard_time": 1780043360,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#国旗在我心#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1779987630369,
-  "endTime": 1780044485530,
+  "endTime": 1780050675426,
   "band_list": [
     {
       "raw_hot": 2485680,
@@ -9,6 +9,14 @@
       "onboard_time": 1779978442,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2404307,
+      "num": 352461,
+      "word": "许我耀眼 现实版",
+      "onboard_time": 1780049300,
+      "rank": 10,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 2358903,
@@ -67,6 +75,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 1733100,
+      "num": 1733100,
+      "word": "iPhone18Pro四色实锤了",
+      "onboard_time": 1780048161,
+      "rank": 0,
+      "category": "数码"
+    },
+    {
       "raw_hot": 1706670,
       "num": 371715,
       "word": "张子枫是严浩翔答辩老师",
@@ -115,6 +131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1345201,
+      "num": 351443,
+      "word": "英伟达黄仁勋评价韬定律",
+      "onboard_time": 1780046240,
+      "rank": 13,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1257982,
       "num": 615495,
       "word": "VOGUE出发图",
@@ -137,6 +161,22 @@
       "onboard_time": 1779978501,
       "rank": 0,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 1124629,
+      "num": 350448,
+      "word": "上上谦 闭店",
+      "onboard_time": 1780045460,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1099256,
+      "num": 840673,
+      "word": "性格好是稀缺资源",
+      "onboard_time": 1780045941,
+      "rank": 3,
+      "category": "情感"
     },
     {
       "raw_hot": 1088660,
@@ -283,6 +323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 738760,
+      "num": 1078393,
+      "word": "患者曝名医让儿子代诊致其流产",
+      "onboard_time": 1780042401,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 700116,
       "num": 322980,
       "word": "曝景甜降价出售上海豪宅",
@@ -299,6 +347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 697611,
+      "num": 350293,
+      "word": "海口一老师赛课时猝死",
+      "onboard_time": 1780046362,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 696168,
       "num": 696168,
       "word": "阿根廷队世界杯26人名单",
@@ -307,19 +363,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 691977,
+      "num": 348243,
+      "word": "素颜赵今麦",
+      "onboard_time": 1780045401,
+      "rank": 21,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 675051,
       "num": 355080,
       "word": "双汇的傲慢比抗生素超标更可怕",
       "onboard_time": 1779979942,
       "rank": 12,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 646813,
-      "num": 1078393,
-      "word": "患者曝名医让儿子代诊致其流产",
-      "onboard_time": 1780042401,
-      "rank": 1,
       "category": "民生新闻"
     },
     {
@@ -611,6 +667,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 334344,
+      "num": 334344,
+      "word": "曝肖战下一部剧重庆号",
+      "onboard_time": 1780050321,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 326659,
       "num": 557098,
       "word": "两广人夏天越吃越瘦的原因",
@@ -632,6 +696,14 @@
       "word": "女子微信辱骂他人被多人围殴成脑震荡",
       "onboard_time": 1779974721,
       "rank": 32,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 312335,
+      "num": 349451,
+      "word": "男童误食磁铁珠妈妈隔肚皮找到",
+      "onboard_time": 1780045282,
+      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -665,6 +737,14 @@
       "onboard_time": 1779974421,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 283472,
+      "num": 283472,
+      "word": "只要对象选的好 结婚照都是VOGUE拍的",
+      "onboard_time": 1780045341,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 283389,
@@ -851,6 +931,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 220803,
+      "num": 220803,
+      "word": "薛之谦北京站官宣12场",
+      "onboard_time": 1780047440,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
       "raw_hot": 219101,
       "num": 299860,
       "word": "田曦薇看张凌赫穿大深V的表情",
@@ -883,6 +971,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 211710,
+      "num": 334057,
+      "word": "衣服洗完不香搓一下",
+      "onboard_time": 1780046720,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 203223,
       "num": 327424,
       "word": "高校教职工生日蛋糕预算66万",
@@ -895,6 +991,14 @@
       "num": 198572,
       "word": "浪姐三公乘风值排名",
       "onboard_time": 1780030761,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 200702,
+      "num": 200702,
+      "word": "李小冉回应唐艺昕忘了自己",
+      "onboard_time": 1780046240,
       "rank": 40,
       "category": "综艺"
     },
@@ -921,6 +1025,14 @@
       "onboard_time": 1780033581,
       "rank": 41,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 197839,
+      "num": 197839,
+      "word": "一女子怀孕被误诊为闭经服药后流产",
+      "onboard_time": 1780048341,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 194244,
@@ -969,6 +1081,22 @@
       "onboard_time": 1780036340,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 183866,
+      "num": 183866,
+      "word": "刘冲问张峻豪和贺峻霖认识吗",
+      "onboard_time": 1780044503,
+      "rank": 42,
+      "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 183496,
+      "num": 183496,
+      "word": "VOGUE红毯直播",
+      "onboard_time": 1780050622,
+      "rank": 43,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 181251,
@@ -1033,6 +1161,14 @@
       "onboard_time": 1780041680,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 163210,
+      "num": 334326,
+      "word": "泡泡玛特涨疯了",
+      "onboard_time": 1780047740,
+      "rank": 25,
+      "category": "财经"
     },
     {
       "raw_hot": 161576,
@@ -1139,6 +1275,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 139741,
+      "num": 334264,
+      "word": "神21航天员乘组回家",
+      "onboard_time": 1780046541,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 138555,
+      "num": 138555,
+      "word": "女子免疫系统攻击胚胎15年8次流产",
+      "onboard_time": 1780048100,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 138008,
       "num": 124418,
       "word": "主角好虐",
@@ -1193,6 +1345,14 @@
       "onboard_time": 1780018219,
       "rank": 49,
       "category": "网红"
+    },
+    {
+      "raw_hot": 128026,
+      "num": 136939,
+      "word": "小寒恋爱聊天记录",
+      "onboard_time": 1780050023,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 125392,
@@ -1363,6 +1523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 97202,
+      "num": 210064,
+      "word": "广东高温天热死几千只鸡",
+      "onboard_time": 1780049241,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 93667,
       "num": 304887,
       "word": "A股集体大涨原因",
@@ -1395,6 +1563,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 82299,
+      "num": 334237,
+      "word": "外交部回应加拿大军舰派至台湾海峡",
+      "onboard_time": 1780044980,
+      "rank": 27,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 80035,
       "num": 191989,
       "word": "公路之王奥迪E7X上市26.98万元起",
@@ -1425,6 +1601,14 @@
       "onboard_time": 1779982520,
       "rank": 49,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 69062,
+      "num": 137971,
+      "word": "如果阿嬷的故事有另一个结局",
+      "onboard_time": 1780049899,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 68526,
@@ -1483,6 +1667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 49381,
+      "num": 334200,
+      "word": "启境GT7华系驾控王",
+      "onboard_time": 1780048161,
+      "rank": 28,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 48336,
       "num": 511789,
       "word": "JDG对战TT",
@@ -1513,6 +1705,14 @@
       "onboard_time": 1779961460,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 42092,
+      "num": 1051001,
+      "word": "6月这些新规将影响你我生活",
+      "onboard_time": 1780037781,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 41563,
@@ -1627,12 +1827,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 27428,
+      "num": 349830,
+      "word": "王嘉尔阿信两种渴望一种答案",
+      "onboard_time": 1780049121,
+      "rank": 17,
+      "category": "演出"
+    },
+    {
       "raw_hot": 27059,
       "num": 97793,
       "word": "王传福说敢兜底才是真安全",
       "onboard_time": 1779973641,
       "rank": 49,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 27006,
+      "num": 301291,
+      "word": "女童被幼儿园老师用热熔胶烫嘴虐待",
+      "onboard_time": 1780050500,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 22030,
@@ -1665,14 +1881,6 @@
       "onboard_time": 1779960500,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 15786,
-      "num": 1051001,
-      "word": "6月这些新规将影响你我生活",
-      "onboard_time": 1780037781,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 15234,
