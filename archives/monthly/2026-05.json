@@ -1,6 +1,6 @@
 {
   "startTime": 1777565126834,
-  "endTime": 1780156057288,
+  "endTime": 1780161470105,
   "band_list": [
     {
       "raw_hot": 28198949,
@@ -1651,6 +1651,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2279358,
+      "num": 2279358,
+      "word": "欧冠决赛",
+      "onboard_time": 1779025283,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2269909,
       "num": 444470,
       "word": "虞书欣G社生图",
@@ -2297,14 +2305,6 @@
       "onboard_time": 1779419421,
       "rank": 0,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1893593,
-      "num": 1893593,
-      "word": "欧冠决赛",
-      "onboard_time": 1779025283,
-      "rank": 21,
-      "category": "体育"
     },
     {
       "raw_hot": 1890709,
@@ -11803,6 +11803,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 626843,
+      "num": 626843,
+      "word": "巴黎圣日耳曼vs阿森纳",
+      "onboard_time": 1780113498,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 626667,
       "num": 1100266,
       "word": "乘风四公双人合作曲限时推荐",
@@ -20907,6 +20915,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 366376,
+      "num": 366376,
+      "word": "阿森纳进球",
+      "onboard_time": 1780159279,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 366127,
       "num": 817944,
       "word": "中美元首合影",
@@ -25379,6 +25395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 292984,
+      "num": 292984,
+      "word": "欧冠直播",
+      "onboard_time": 1780159458,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 292471,
       "num": 649055,
       "word": "央视追踪四川大摆荡坠亡事件",
@@ -26059,6 +26083,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 283979,
+      "num": 283979,
+      "word": "哈弗茨单刀破门",
+      "onboard_time": 1780159339,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 283909,
       "num": 315900,
       "word": "男子单手抱婴儿致重摔头着地",
@@ -26129,14 +26161,6 @@
       "onboard_time": 1779682342,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 283162,
-      "num": 283162,
-      "word": "巴黎圣日耳曼vs阿森纳",
-      "onboard_time": 1780113498,
-      "rank": 16,
-      "category": "体育"
     },
     {
       "raw_hot": 283113,
@@ -34987,6 +35011,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 198303,
+      "num": 198303,
+      "word": "用AI整理会议记录导致泄密",
+      "onboard_time": 1780155439,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 198293,
       "num": 510608,
       "word": "樊振东被莫雷加德又搂又抱",
@@ -41339,6 +41371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 151275,
+      "num": 147715,
+      "word": "这个时间点入睡才是真早睡",
+      "onboard_time": 1780156580,
+      "rank": 25,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 151111,
       "num": 246492,
       "word": "裴总和月亮谈恋爱了",
@@ -41689,6 +41729,14 @@
       "onboard_time": 1778923520,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 148390,
+      "num": 148390,
+      "word": "阿森纳上半场领先",
+      "onboard_time": 1780160718,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 148379,
@@ -43555,6 +43603,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 133389,
+      "num": 136517,
+      "word": "用豆包免费学英语的两个方法",
+      "onboard_time": 1780146560,
+      "rank": 47,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 133371,
       "num": 469902,
       "word": "刘诗诗张柏芝同框",
@@ -43729,14 +43785,6 @@
       "onboard_time": 1778844380,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 132199,
-      "num": 136517,
-      "word": "用豆包免费学英语的两个方法",
-      "onboard_time": 1780146560,
-      "rank": 47,
-      "category": "互联网"
     },
     {
       "raw_hot": 132119,
@@ -46491,6 +46539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 111776,
+      "num": 111776,
+      "word": "中山大学2人被免职",
+      "onboard_time": 1780158560,
+      "rank": 31,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 111742,
       "num": 265788,
       "word": "美军事力量将撤出伊朗周边",
@@ -47241,6 +47297,14 @@
       "onboard_time": 1778137280,
       "rank": 38,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 104086,
+      "num": 104086,
+      "word": "邓超一开口梦回初代跑男",
+      "onboard_time": 1780156880,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 104010,
@@ -48267,6 +48331,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 94641,
+      "num": 166867,
+      "word": "谢霆锋鸟巢顶级号召力",
+      "onboard_time": 1780155500,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
       "raw_hot": 94112,
       "num": 275962,
       "word": "DeepSeek思考过程好萌",
@@ -48409,6 +48481,14 @@
       "onboard_time": 1777638981,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 92682,
+      "num": 92682,
+      "word": "程潇沙一汀内娱cp必吃榜上新了",
+      "onboard_time": 1780154661,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 92625,
@@ -49801,6 +49881,14 @@
       "onboard_time": 1778666241,
       "rank": 36,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 79534,
+      "num": 79534,
+      "word": "哈弗茨真是大场面先生",
+      "onboard_time": 1780160958,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 79500,
@@ -51459,14 +51547,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 64431,
-      "num": 166867,
-      "word": "谢霆锋鸟巢顶级号召力",
-      "onboard_time": 1780155500,
-      "rank": 38,
-      "category": "演出"
-    },
-    {
       "raw_hot": 64282,
       "num": 124132,
       "word": "已证实安第斯病毒具备人际传播能力",
@@ -51921,6 +52001,14 @@
       "onboard_time": 1778440875,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 60201,
+      "num": 72108,
+      "word": "李宇春给我唱回彩铃时代了",
+      "onboard_time": 1780160418,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 60161,
@@ -54265,14 +54353,6 @@
       "onboard_time": 1778087716,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 44059,
-      "num": 108181,
-      "word": "用AI整理会议记录导致泄密",
-      "onboard_time": 1780155439,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 44028,
