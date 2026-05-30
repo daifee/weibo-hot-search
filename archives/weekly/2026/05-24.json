@@ -1,6 +1,6 @@
 {
   "startTime": 1779556240361,
-  "endTime": 1780154217430,
+  "endTime": 1780156057288,
   "band_list": [
     {
       "raw_hot": 15283499,
@@ -721,6 +721,14 @@
       "onboard_time": 1780141399,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1504215,
+      "num": 1504215,
+      "word": "欧冠决赛",
+      "onboard_time": 1780154661,
+      "rank": 0,
+      "category": "体育"
     },
     {
       "raw_hot": 1499049,
@@ -4307,6 +4315,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 444430,
+      "num": 386650,
+      "word": "夫妻上班途中突遇2米长眼镜王蛇",
+      "onboard_time": 1780151060,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 443387,
       "num": 359385,
       "word": "日本预演台湾有事清空战场",
@@ -4923,14 +4939,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 386650,
-      "num": 386650,
-      "word": "夫妻上班途中突遇2米长眼镜王蛇",
-      "onboard_time": 1780151060,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 386167,
       "num": 520343,
       "word": "妈妈离婚当日遇害姐妹俩惧怕婚姻",
@@ -5401,6 +5409,14 @@
       "onboard_time": 1779970940,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 348843,
+      "num": 282754,
+      "word": "石蕊 肖旭",
+      "onboard_time": 1780155201,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 348723,
@@ -6363,6 +6379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 283162,
+      "num": 283162,
+      "word": "巴黎圣日耳曼vs阿森纳",
+      "onboard_time": 1780113498,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 283077,
       "num": 283077,
       "word": "虾已经被晒熟了",
@@ -6473,6 +6497,14 @@
       "onboard_time": 1779630144,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 280226,
+      "num": 280226,
+      "word": "李昀锐一把就把关晓彤抱起来了",
+      "onboard_time": 1780154600,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 279920,
@@ -6777,6 +6809,14 @@
       "onboard_time": 1779858021,
       "rank": 8,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 266833,
+      "num": 266833,
+      "word": "陈小春发言宋亚轩又笑晕了",
+      "onboard_time": 1780155080,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 266790,
@@ -7475,6 +7515,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 237139,
+      "num": 214128,
+      "word": "刘耀文高会",
+      "onboard_time": 1780153761,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 236929,
       "num": 500325,
       "word": "金靖有了张凌赫忘了丁程鑫",
@@ -8009,14 +8057,6 @@
       "onboard_time": 1779871281,
       "rank": 43,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 214128,
-      "num": 214128,
-      "word": "刘耀文高会",
-      "onboard_time": 1780153761,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 213475,
@@ -9275,6 +9315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 168565,
+      "num": 168565,
+      "word": "阿森纳首发",
+      "onboard_time": 1780154183,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 168339,
       "num": 168339,
       "word": "曾沛慈对自己的人气一无所知",
@@ -9417,6 +9465,14 @@
       "onboard_time": 1779723442,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 163870,
+      "num": 163870,
+      "word": "shanks评论cube",
+      "onboard_time": 1780154362,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 163349,
@@ -10019,14 +10075,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 136466,
-      "num": 136466,
-      "word": "阿森纳首发",
-      "onboard_time": 1780154183,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 135346,
       "num": 218792,
       "word": "上海同济专家提醒4个症状尽早做肠镜",
@@ -10121,6 +10169,14 @@
       "onboard_time": 1780027280,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 132199,
+      "num": 136517,
+      "word": "用豆包免费学英语的两个方法",
+      "onboard_time": 1780146560,
+      "rank": 47,
+      "category": "互联网"
     },
     {
       "raw_hot": 131999,
@@ -10801,14 +10857,6 @@
       "onboard_time": 1779751459,
       "rank": 32,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 108155,
-      "num": 240539,
-      "word": "巴黎圣日耳曼vs阿森纳",
-      "onboard_time": 1780113498,
-      "rank": 16,
-      "category": "体育"
     },
     {
       "raw_hot": 107013,
@@ -11667,14 +11715,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 75281,
-      "num": 136517,
-      "word": "用豆包免费学英语的两个方法",
-      "onboard_time": 1780146560,
-      "rank": 47,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 74957,
       "num": 571049,
       "word": "莱巴金娜法网爆冷出局",
@@ -11796,7 +11836,7 @@
     },
     {
       "raw_hot": 71384,
-      "num": 136484,
+      "num": 261442,
       "word": "菲防长绕后厨躲避中方记者",
       "onboard_time": 1780150701,
       "rank": 48,
@@ -12073,6 +12113,14 @@
       "onboard_time": 1779699862,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 64431,
+      "num": 166867,
+      "word": "谢霆锋鸟巢顶级号召力",
+      "onboard_time": 1780155500,
+      "rank": 38,
+      "category": "演出"
     },
     {
       "raw_hot": 63976,
@@ -12713,6 +12761,14 @@
       "onboard_time": 1779845000,
       "rank": 11,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 44059,
+      "num": 108181,
+      "word": "用AI整理会议记录导致泄密",
+      "onboard_time": 1780155439,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 43751,

@@ -1,6 +1,6 @@
 {
   "startTime": 1780073379989,
-  "endTime": 1780154217430,
+  "endTime": 1780156057288,
   "band_list": [
     {
       "raw_hot": 5755002,
@@ -105,6 +105,14 @@
       "onboard_time": 1780141399,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1504215,
+      "num": 1504215,
+      "word": "欧冠决赛",
+      "onboard_time": 1780154661,
+      "rank": 0,
+      "category": "体育"
     },
     {
       "raw_hot": 1463759,
@@ -707,6 +715,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 444430,
+      "num": 386650,
+      "word": "夫妻上班途中突遇2米长眼镜王蛇",
+      "onboard_time": 1780151060,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 437892,
       "num": 331207,
       "word": "钱学森儿子回应钱学森热梗",
@@ -803,14 +819,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 386650,
-      "num": 386650,
-      "word": "夫妻上班途中突遇2米长眼镜王蛇",
-      "onboard_time": 1780151060,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 385621,
       "num": 222993,
       "word": "用热熔枪烫女孩嘴唇老师辩称失误",
@@ -864,6 +872,14 @@
       "word": "王橹杰第一条泡泡聊天",
       "onboard_time": 1780122560,
       "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 348843,
+      "num": 282754,
+      "word": "石蕊 肖旭",
+      "onboard_time": 1780155201,
+      "rank": 21,
       "category": "艺人"
     },
     {
@@ -1019,6 +1035,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 283162,
+      "num": 283162,
+      "word": "巴黎圣日耳曼vs阿森纳",
+      "onboard_time": 1780113498,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 282243,
       "num": 253522,
       "word": "洪潇为虞书欣发声",
@@ -1032,6 +1056,14 @@
       "word": "王濛刘雨昕大师课续费了",
       "onboard_time": 1780073239,
       "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 280226,
+      "num": 280226,
+      "word": "李昀锐一把就把关晓彤抱起来了",
+      "onboard_time": 1780154600,
+      "rank": 24,
       "category": "综艺"
     },
     {
@@ -1056,6 +1088,14 @@
       "word": "秦昊说就过呗还能离咋地",
       "onboard_time": 1780094235,
       "rank": 23,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 266833,
+      "num": 266833,
+      "word": "陈小春发言宋亚轩又笑晕了",
+      "onboard_time": 1780155080,
+      "rank": 26,
       "category": "综艺"
     },
     {
@@ -1155,6 +1195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 237139,
+      "num": 214128,
+      "word": "刘耀文高会",
+      "onboard_time": 1780153761,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 236175,
       "num": 394052,
       "word": "39岁博主被虫咬后感染离世",
@@ -1249,14 +1297,6 @@
       "onboard_time": 1780115658,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 214128,
-      "num": 214128,
-      "word": "刘耀文高会",
-      "onboard_time": 1780153761,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 213239,
@@ -1491,6 +1531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 168565,
+      "num": 168565,
+      "word": "阿森纳首发",
+      "onboard_time": 1780154183,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 167613,
       "num": 167613,
       "word": "很多人都不知道的生活知识",
@@ -1529,6 +1577,14 @@
       "onboard_time": 1780113918,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 163870,
+      "num": 163870,
+      "word": "shanks评论cube",
+      "onboard_time": 1780154362,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 163025,
@@ -1659,14 +1715,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 136466,
-      "num": 136466,
-      "word": "阿森纳首发",
-      "onboard_time": 1780154183,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 135346,
       "num": 218792,
       "word": "上海同济专家提醒4个症状尽早做肠镜",
@@ -1697,6 +1745,14 @@
       "onboard_time": 1780131859,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 132199,
+      "num": 136517,
+      "word": "用豆包免费学英语的两个方法",
+      "onboard_time": 1780146560,
+      "rank": 47,
+      "category": "互联网"
     },
     {
       "raw_hot": 130959,
@@ -1843,14 +1899,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 108155,
-      "num": 240539,
-      "word": "巴黎圣日耳曼vs阿森纳",
-      "onboard_time": 1780113498,
-      "rank": 16,
-      "category": "体育"
-    },
-    {
       "raw_hot": 105608,
       "num": 208882,
       "word": "LOL亚运预选赛名单公布",
@@ -1979,14 +2027,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 75281,
-      "num": 136517,
-      "word": "用豆包免费学英语的两个方法",
-      "onboard_time": 1780146560,
-      "rank": 47,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 73461,
       "num": 150133,
       "word": "李小冉去歌手了",
@@ -2012,7 +2052,7 @@
     },
     {
       "raw_hot": 71384,
-      "num": 136484,
+      "num": 261442,
       "word": "菲防长绕后厨躲避中方记者",
       "onboard_time": 1780150701,
       "rank": 48,
@@ -2073,6 +2113,14 @@
       "onboard_time": 1780139178,
       "rank": 24,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 64431,
+      "num": 166867,
+      "word": "谢霆锋鸟巢顶级号召力",
+      "onboard_time": 1780155500,
+      "rank": 38,
+      "category": "演出"
     },
     {
       "raw_hot": 59736,
@@ -2233,6 +2281,14 @@
       "onboard_time": 1780096096,
       "rank": 47,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 44059,
+      "num": 108181,
+      "word": "用AI整理会议记录导致泄密",
+      "onboard_time": 1780155439,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 42485,
