@@ -1,6 +1,6 @@
 {
   "startTime": 1780073379989,
-  "endTime": 1780136665634,
+  "endTime": 1780140499009,
   "band_list": [
     {
       "raw_hot": 5755002,
@@ -75,6 +75,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1571934,
+      "num": 327816,
+      "word": "麦当劳汉堡缩小比例",
+      "onboard_time": 1780137559,
+      "rank": 5,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1532854,
       "num": 322730,
       "word": "万花世界原主换了一个人演",
@@ -89,6 +97,14 @@
       "onboard_time": 1780133421,
       "rank": 4,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1419784,
+      "num": 1419784,
+      "word": "网友阻止印度游客在水源区洗澡",
+      "onboard_time": 1780135040,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1383979,
@@ -315,6 +331,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 696712,
+      "num": 325225,
+      "word": "神仙肉",
+      "onboard_time": 1780136299,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 666472,
       "num": 328000,
       "word": "减肥第一名冬瓜苹果煮水",
@@ -443,6 +467,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 528788,
+      "num": 317078,
+      "word": "徐志胜在桃花坞聊沈月王鹤棣",
+      "onboard_time": 1780138880,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 510456,
       "num": 229037,
       "word": "iPhone18Pro无缘钛金属",
@@ -457,6 +489,22 @@
       "onboard_time": 1780100299,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 503581,
+      "num": 315065,
+      "word": "鞠婧祎敖瑞鹏万花世界路透",
+      "onboard_time": 1780138099,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 497408,
+      "num": 321200,
+      "word": "高志凯预测全球将爆发的危机",
+      "onboard_time": 1780132100,
+      "rank": 16,
+      "category": "财经"
     },
     {
       "raw_hot": 494973,
@@ -507,6 +555,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 451214,
+      "num": 304246,
+      "word": "鹿晗不让节目组说",
+      "onboard_time": 1780134859,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 450610,
       "num": 450610,
       "word": "新疆 祛湿气",
@@ -524,7 +580,7 @@
     },
     {
       "raw_hot": 437892,
-      "num": 322259,
+      "num": 331207,
       "word": "钱学森儿子回应钱学森热梗",
       "onboard_time": 1780135399,
       "rank": 12,
@@ -592,14 +648,6 @@
       "word": "用热熔枪烫女孩嘴唇老师辩称失误",
       "onboard_time": 1780098919,
       "rank": 26,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 382507,
-      "num": 321547,
-      "word": "网友阻止印度游客在水源区洗澡",
-      "onboard_time": 1780135040,
-      "rank": 15,
       "category": "民生新闻"
     },
     {
@@ -707,6 +755,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 301437,
+      "num": 301437,
+      "word": "她家长真去找你你又不敢见",
+      "onboard_time": 1780136660,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 300958,
       "num": 230063,
       "word": "杨紫回应网友开始理解邱莹莹了",
@@ -729,6 +785,14 @@
       "onboard_time": 1780123220,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 291390,
+      "num": 291390,
+      "word": "致13人遇难客车车厢里有电动车",
+      "onboard_time": 1780138399,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 288160,
@@ -763,6 +827,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 273182,
+      "num": 273182,
+      "word": "虞书欣侯明昊念相思",
+      "onboard_time": 1780140320,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 268993,
       "num": 210999,
       "word": "秦昊说就过呗还能离咋地",
@@ -779,12 +851,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 265096,
-      "num": 265096,
-      "word": "鹿晗不让节目组说",
-      "onboard_time": 1780134859,
-      "rank": 27,
-      "category": "综艺"
+      "raw_hot": 264995,
+      "num": 264995,
+      "word": "鞠婧祎对接回应万花世界争议",
+      "onboard_time": 1780136720,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 264376,
@@ -817,6 +889,14 @@
       "onboard_time": 1780056981,
       "rank": 37,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 248599,
+      "num": 330977,
+      "word": "广东已经从红烧鸡腿变成大紫薯了",
+      "onboard_time": 1780132759,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 247153,
@@ -857,14 +937,6 @@
       "onboard_time": 1780117220,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 231179,
-      "num": 231179,
-      "word": "广东已经从红烧鸡腿变成大紫薯了",
-      "onboard_time": 1780132759,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 231096,
@@ -995,14 +1067,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 199624,
-      "num": 199624,
-      "word": "神仙肉",
-      "onboard_time": 1780136299,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 196602,
       "num": 196602,
       "word": "被呵斥幼童仅在飞机刚降落时不适哭泣",
@@ -1019,6 +1083,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 188669,
+      "num": 308455,
+      "word": "爷爷不泡茶樱桃小丸子",
+      "onboard_time": 1780139178,
+      "rank": 16,
+      "category": "美食"
+    },
+    {
       "raw_hot": 186661,
       "num": 186661,
       "word": "四公小考改规则",
@@ -1033,6 +1105,14 @@
       "onboard_time": 1780115298,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 180962,
+      "num": 180962,
+      "word": "孙怡说唐艺昕保输",
+      "onboard_time": 1780137440,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 177376,
@@ -1083,20 +1163,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 170039,
-      "num": 321200,
-      "word": "高志凯预测全球将爆发的危机",
-      "onboard_time": 1780132100,
-      "rank": 16,
-      "category": "财经"
-    },
-    {
       "raw_hot": 169226,
       "num": 161154,
       "word": "你好星期六没有不出片的义务",
       "onboard_time": 1780113320,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 167613,
+      "num": 167613,
+      "word": "很多人都不知道的生活知识",
+      "onboard_time": 1780136780,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 166716,
@@ -1323,6 +1403,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 121108,
+      "num": 121108,
+      "word": "陈都灵化着妆睡着了",
+      "onboard_time": 1780140320,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 117173,
       "num": 320371,
       "word": "AL战胜EDG",
@@ -1388,7 +1476,7 @@
     },
     {
       "raw_hot": 105129,
-      "num": 240158,
+      "num": 272915,
       "word": "两千亿巨头高管减持套现超4.3亿",
       "onboard_time": 1780135940,
       "rank": 28,
@@ -1435,6 +1523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 91679,
+      "num": 269530,
+      "word": "王曼昱防守反攻速度有多快",
+      "onboard_time": 1780140200,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 90102,
       "num": 123826,
       "word": "第五人格",
@@ -1451,6 +1547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 82838,
+      "num": 273294,
+      "word": "组合购薅京东羊毛10万减5.2万",
+      "onboard_time": 1780139178,
+      "rank": 25,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 82482,
       "num": 311751,
       "word": "12345回应市民要求干预闷热天气",
@@ -1465,6 +1569,14 @@
       "onboard_time": 1780072158,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 76813,
+      "num": 304977,
+      "word": "BLG对战WE",
+      "onboard_time": 1780137979,
+      "rank": 18,
+      "category": "电竞"
     },
     {
       "raw_hot": 73461,
@@ -1529,6 +1641,14 @@
       "onboard_time": 1780074019,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 65887,
+      "num": 273656,
+      "word": "京东这波红包给到夯",
+      "onboard_time": 1780139178,
+      "rank": 24,
+      "category": "互联网"
     },
     {
       "raw_hot": 59736,
@@ -1659,6 +1779,14 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 45265,
+      "num": 121958,
+      "word": "美防长香会演讲未主动提台湾",
+      "onboard_time": 1780138880,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 44693,
       "num": 179317,
       "word": "陈雨菲止步新加坡赛四强",
@@ -1673,6 +1801,14 @@
       "onboard_time": 1780096096,
       "rank": 47,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 42485,
+      "num": 828746,
+      "word": "神21航天员210天出差名场面",
+      "onboard_time": 1780134079,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 41635,
@@ -1747,15 +1883,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 34527,
-      "num": 828746,
-      "word": "神21航天员210天出差名场面",
-      "onboard_time": 1780134079,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 33218,
+      "raw_hot": 34792,
       "num": 176468,
       "word": "具身智能最强大脑在中国",
       "onboard_time": 1780130960,
@@ -1785,6 +1913,14 @@
       "onboard_time": 1780082415,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 26640,
+      "num": 307263,
+      "word": "我妈让我蹲京东超市花生油降价",
+      "onboard_time": 1780139178,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 26313,
@@ -1881,6 +2017,14 @@
       "onboard_time": 1780124899,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 9440,
+      "num": 317976,
+      "word": "拨打戒网瘾学校多个电话无人接通",
+      "onboard_time": 1780140080,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 8107,
