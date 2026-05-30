@@ -1,6 +1,6 @@
 {
   "startTime": 1780161470105,
-  "endTime": 1780170599253,
+  "endTime": 1780175316288,
   "band_list": [
     {
       "raw_hot": 2279358,
@@ -67,20 +67,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 525347,
+      "num": 525347,
+      "word": "姆巴佩",
+      "onboard_time": 1780170134,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 500945,
       "num": 283852,
       "word": "微信几乎把每个人捆绑在线上",
       "onboard_time": 1780126579,
       "rank": 10,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 382107,
-      "num": 382107,
-      "word": "姆巴佩",
-      "onboard_time": 1780170134,
-      "rank": 7,
-      "category": "体育"
     },
     {
       "raw_hot": 366376,
@@ -395,6 +395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 88085,
+      "num": 88085,
+      "word": "巴黎圣日耳曼5比4阿森纳",
+      "onboard_time": 1780169774,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 87786,
       "num": 87786,
       "word": "主角",
@@ -483,20 +491,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 50639,
-      "num": 50639,
-      "word": "巴黎圣日耳曼5比4阿森纳",
-      "onboard_time": 1780169774,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
       "raw_hot": 30794,
       "num": 32818,
       "word": "LPL",
       "onboard_time": 1780169294,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 21510,
+      "num": 27036,
+      "word": "万花世界预约",
+      "onboard_time": 1780152621,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 20913,
+      "num": 27034,
+      "word": "蔡徐坤马来西亚音乐节压轴",
+      "onboard_time": 1780174453,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 10347,

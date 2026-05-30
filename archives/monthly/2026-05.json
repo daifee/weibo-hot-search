@@ -1,6 +1,6 @@
 {
   "startTime": 1777565126834,
-  "endTime": 1780170599253,
+  "endTime": 1780175316288,
   "band_list": [
     {
       "raw_hot": 28198949,
@@ -14539,6 +14539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 525347,
+      "num": 525347,
+      "word": "姆巴佩",
+      "onboard_time": 1780170134,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 525068,
       "num": 507358,
       "word": "成年的大熊猫在野外几乎没有天敌",
@@ -20153,14 +20161,6 @@
       "onboard_time": 1779952281,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 382107,
-      "num": 382107,
-      "word": "姆巴佩",
-      "onboard_time": 1780170134,
-      "rank": 7,
-      "category": "体育"
     },
     {
       "raw_hot": 382073,
@@ -48987,6 +48987,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 88085,
+      "num": 88085,
+      "word": "巴黎圣日耳曼5比4阿森纳",
+      "onboard_time": 1780169774,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 87986,
       "num": 233578,
       "word": "crocs实体店被曝售假",
@@ -53409,14 +53417,6 @@
       "onboard_time": 1778754920,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 50639,
-      "num": 50639,
-      "word": "巴黎圣日耳曼5比4阿森纳",
-      "onboard_time": 1780169774,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 50583,
@@ -58019,6 +58019,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 21510,
+      "num": 27036,
+      "word": "万花世界预约",
+      "onboard_time": 1780152621,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 21499,
       "num": 28745,
       "word": "齐豫高音太顶了",
@@ -58169,6 +58177,14 @@
       "onboard_time": 1779358100,
       "rank": 47,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 20913,
+      "num": 27034,
+      "word": "蔡徐坤马来西亚音乐节压轴",
+      "onboard_time": 1780174453,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 20734,
