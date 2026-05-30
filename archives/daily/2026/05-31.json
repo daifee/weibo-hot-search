@@ -1,6 +1,6 @@
 {
   "startTime": 1780161470105,
-  "endTime": 1780169304968,
+  "endTime": 1780170599253,
   "band_list": [
     {
       "raw_hot": 2279358,
@@ -16,6 +16,14 @@
       "word": "点球大战",
       "onboard_time": 1780167494,
       "rank": 1,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 972587,
+      "num": 972587,
+      "word": "巴黎卫冕欧冠冠军",
+      "onboard_time": 1780169474,
+      "rank": 0,
       "category": "体育"
     },
     {
@@ -51,12 +59,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 546600,
+      "num": 546600,
+      "word": "阿森纳",
+      "onboard_time": 1780169774,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 500945,
       "num": 283852,
       "word": "微信几乎把每个人捆绑在线上",
       "onboard_time": 1780126579,
       "rank": 10,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 382107,
+      "num": 382107,
+      "word": "姆巴佩",
+      "onboard_time": 1780170134,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 366376,
@@ -457,6 +481,22 @@
       "onboard_time": 1780165696,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 50639,
+      "num": 50639,
+      "word": "巴黎圣日耳曼5比4阿森纳",
+      "onboard_time": 1780169774,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 30794,
+      "num": 32818,
+      "word": "LPL",
+      "onboard_time": 1780169294,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 10347,

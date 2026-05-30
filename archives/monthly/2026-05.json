@@ -1,6 +1,6 @@
 {
   "startTime": 1777565126834,
-  "endTime": 1780169304968,
+  "endTime": 1780170599253,
   "band_list": [
     {
       "raw_hot": 28198949,
@@ -6401,6 +6401,14 @@
       "onboard_time": 1778805380,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 972587,
+      "num": 972587,
+      "word": "巴黎卫冕欧冠冠军",
+      "onboard_time": 1780169474,
+      "rank": 0,
+      "category": "体育"
     },
     {
       "raw_hot": 972272,
@@ -20145,6 +20153,14 @@
       "onboard_time": 1779952281,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 382107,
+      "num": 382107,
+      "word": "姆巴佩",
+      "onboard_time": 1780170134,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 382073,
@@ -53395,6 +53411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 50639,
+      "num": 50639,
+      "word": "巴黎圣日耳曼5比4阿森纳",
+      "onboard_time": 1780169774,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 50583,
       "num": 203600,
       "word": "xAI更名SpaceXAI",
@@ -56481,6 +56505,14 @@
       "onboard_time": 1779210018,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 30794,
+      "num": 32818,
+      "word": "LPL",
+      "onboard_time": 1780169294,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 30777,
