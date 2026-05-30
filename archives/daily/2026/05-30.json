@@ -1,6 +1,6 @@
 {
   "startTime": 1780073379989,
-  "endTime": 1780150471778,
+  "endTime": 1780154217430,
   "band_list": [
     {
       "raw_hot": 5755002,
@@ -57,6 +57,14 @@
       "onboard_time": 1780110439,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1817228,
+      "num": 1036230,
+      "word": "鸟巢偶遇王菲看谢霆锋演唱会",
+      "onboard_time": 1780148780,
+      "rank": 13,
+      "category": "演出"
     },
     {
       "raw_hot": 1689595,
@@ -129,14 +137,6 @@
       "onboard_time": 1780098077,
       "rank": 12,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1285694,
-      "num": 1036230,
-      "word": "鸟巢偶遇王菲看谢霆锋演唱会",
-      "onboard_time": 1780148780,
-      "rank": 13,
-      "category": "演出"
     },
     {
       "raw_hot": 1240989,
@@ -249,6 +249,14 @@
       "onboard_time": 1780070961,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 966724,
+      "num": 1154675,
+      "word": "万花世界回应",
+      "onboard_time": 1780150582,
+      "rank": 0,
+      "category": "剧集"
     },
     {
       "raw_hot": 953999,
@@ -435,6 +443,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 644333,
+      "num": 387574,
+      "word": "潘宥诚主页里都是虞书欣在帮他宣传",
+      "onboard_time": 1780150040,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 638505,
       "num": 248626,
       "word": "虞书欣仍未取关潘宥诚",
@@ -523,6 +539,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 557197,
+      "num": 387381,
+      "word": "宋亚轩又输给了李宇春",
+      "onboard_time": 1780153101,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 551808,
       "num": 392820,
       "word": "古天乐回应向太曝其曾坐牢",
@@ -548,7 +572,7 @@
     },
     {
       "raw_hot": 544995,
-      "num": 360407,
+      "num": 384149,
       "word": "花间令2.0",
       "onboard_time": 1780149502,
       "rank": 22,
@@ -609,6 +633,14 @@
       "onboard_time": 1780103481,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 479169,
+      "num": 479169,
+      "word": "十二星座6月月运",
+      "onboard_time": 1780148362,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 473310,
@@ -755,6 +787,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 398851,
+      "num": 386791,
+      "word": "严浩翔rap",
+      "onboard_time": 1780152383,
+      "rank": 21,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 387026,
       "num": 387026,
       "word": "刘红兵为了忆秦娥跳楼",
@@ -763,11 +803,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 386650,
+      "num": 386650,
+      "word": "夫妻上班途中突遇2米长眼镜王蛇",
+      "onboard_time": 1780151060,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 385621,
       "num": 222993,
       "word": "用热熔枪烫女孩嘴唇老师辩称失误",
       "onboard_time": 1780098919,
       "rank": 26,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 381452,
+      "num": 381452,
+      "word": "10月大婴儿喝稀粥吃肉末3个月瘦3斤",
+      "onboard_time": 1780151662,
+      "rank": 25,
       "category": "民生新闻"
     },
     {
@@ -843,12 +899,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 323271,
+      "num": 323271,
+      "word": "大爷协议娶小24岁女子2年便闹离婚",
+      "onboard_time": 1780144940,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 320867,
       "num": 476681,
       "word": "豆包压缩证件照有多离谱",
       "onboard_time": 1780119080,
       "rank": 32,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 313920,
+      "num": 313920,
+      "word": "王安宇见面会",
+      "onboard_time": 1780153520,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 312202,
@@ -915,14 +987,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 294537,
-      "num": 361212,
-      "word": "十二星座6月月运",
-      "onboard_time": 1780148362,
-      "rank": 32,
-      "category": "情感"
-    },
-    {
       "raw_hot": 288160,
       "num": 230941,
       "word": "李晨说白鹿是开心果担当",
@@ -969,6 +1033,14 @@
       "onboard_time": 1780073239,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 279455,
+      "num": 387284,
+      "word": "中俄等6国投弃权票",
+      "onboard_time": 1780150822,
+      "rank": 15,
+      "category": "国际时政"
     },
     {
       "raw_hot": 273182,
@@ -1043,14 +1115,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 258543,
-      "num": 258543,
-      "word": "潘宥诚主页里都是虞书欣在帮他宣传",
-      "onboard_time": 1780150040,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 258441,
       "num": 258441,
       "word": "台湾网红馆长撞脸三星堆文物",
@@ -1089,14 +1153,6 @@
       "onboard_time": 1780057224,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 237415,
-      "num": 311997,
-      "word": "大爷协议娶小24岁女子2年便闹离婚",
-      "onboard_time": 1780144940,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 236175,
@@ -1171,6 +1227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 218002,
+      "num": 218002,
+      "word": "这样的衣服才配预售",
+      "onboard_time": 1780141222,
+      "rank": 37,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 216812,
       "num": 249449,
       "word": "果农称一些荔枝刚摘下果肉就是白色",
@@ -1185,6 +1249,14 @@
       "onboard_time": 1780115658,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 214128,
+      "num": 214128,
+      "word": "刘耀文高会",
+      "onboard_time": 1780153761,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 213239,
@@ -1275,20 +1347,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 190427,
+      "num": 190427,
+      "word": "Cube下一个al",
+      "onboard_time": 1780153882,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 189835,
+      "num": 387210,
+      "word": "BLG跌入败者组",
+      "onboard_time": 1780152141,
+      "rank": 16,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 188725,
       "num": 231223,
       "word": "官方通报博物馆青铜剑疑似拼接",
       "onboard_time": 1780134560,
       "rank": 29,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 187049,
-      "num": 205119,
-      "word": "这样的衣服才配预售",
-      "onboard_time": 1780141222,
-      "rank": 37,
-      "category": "时尚"
     },
     {
       "raw_hot": 186661,
@@ -1507,6 +1587,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 150022,
+      "num": 156729,
+      "word": "Monki偷家",
+      "onboard_time": 1780150222,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 145940,
       "num": 145940,
       "word": "丁太升说张碧晨从头到尾哭腔",
@@ -1563,20 +1651,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 142199,
-      "num": 142199,
-      "word": "Monki偷家",
-      "onboard_time": 1780150222,
-      "rank": 43,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 140584,
       "num": 140584,
       "word": "王鹤棣称没有焦虑但会反思",
       "onboard_time": 1780038262,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 136466,
+      "num": 136466,
+      "word": "阿森纳首发",
+      "onboard_time": 1780154183,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 135346,
@@ -1732,7 +1820,7 @@
     },
     {
       "raw_hot": 112691,
-      "num": 272915,
+      "num": 296472,
       "word": "两千亿巨头高管减持套现超4.3亿",
       "onboard_time": 1780135940,
       "rank": 28,
@@ -1851,6 +1939,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 87978,
+      "num": 191735,
+      "word": "刘宇宁工体唱苍兰诀主题曲",
+      "onboard_time": 1780154119,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 84856,
       "num": 471034,
       "word": "灵隐寺门口没人围堵推销了",
@@ -1883,6 +1979,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 75281,
+      "num": 136517,
+      "word": "用豆包免费学英语的两个方法",
+      "onboard_time": 1780146560,
+      "rank": 47,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 73461,
       "num": 150133,
       "word": "李小冉去歌手了",
@@ -1905,6 +2009,14 @@
       "onboard_time": 1780145360,
       "rank": 46,
       "category": "财经,互联网"
+    },
+    {
+      "raw_hot": 71384,
+      "num": 136484,
+      "word": "菲防长绕后厨躲避中方记者",
+      "onboard_time": 1780150701,
+      "rank": 48,
+      "category": "国际时政"
     },
     {
       "raw_hot": 71111,
@@ -2211,6 +2323,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 32895,
+      "num": 387134,
+      "word": "给阿嬷的情书取景地遭私人乱收费",
+      "onboard_time": 1780153281,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 30763,
       "num": 51238,
       "word": "王力宏演唱会",
@@ -2337,6 +2457,14 @@
       "onboard_time": 1780133719,
       "rank": 48,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 16885,
+      "num": 386916,
+      "word": "外卖挂门把手女子嫌忌讳投诉骑手",
+      "onboard_time": 1780153822,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 12159,

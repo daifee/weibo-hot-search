@@ -1,0 +1,410 @@
+{
+  "runTime": 1780154217430,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 966724,
+        "num": 1154675,
+        "word": "万花世界回应",
+        "onboard_time": 1780150582,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 479927,
+        "num": 815022,
+        "word": "中山大学通报论文学术不端",
+        "onboard_time": 1780143981,
+        "rank": 1,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 12782,
+        "num": 720034,
+        "word": "在上海找到创作主场",
+        "onboard_time": 1780143260,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1817228,
+        "num": 716410,
+        "word": "鸟巢偶遇王菲看谢霆锋演唱会",
+        "onboard_time": 1780148780,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 828315,
+        "num": 711388,
+        "word": "牙齿和情绪的关系",
+        "onboard_time": 1780146981,
+        "rank": 4,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 706203,
+        "num": 706203,
+        "word": "徐志胜在桃花坞聊沈月王鹤棣",
+        "onboard_time": 1780138880,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 687158,
+        "num": 687158,
+        "word": "网友阻止印度游客在水源区洗澡",
+        "onboard_time": 1780135040,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 686175,
+        "num": 686175,
+        "word": "麦当劳汉堡缩小比例",
+        "onboard_time": 1780137559,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 479169,
+        "num": 479169,
+        "word": "十二星座6月月运",
+        "onboard_time": 1780148362,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 387754,
+        "num": 387754,
+        "word": "WE以下克上BLG",
+        "onboard_time": 1780149862,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 1202205,
+        "num": 387752,
+        "word": "微信几乎把每个人捆绑在线上",
+        "onboard_time": 1780126579,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1135485,
+        "num": 387643,
+        "word": "刘诗诗 从此不敢见观音",
+        "onboard_time": 1780141399,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 644333,
+        "num": 387574,
+        "word": "潘宥诚主页里都是虞书欣在帮他宣传",
+        "onboard_time": 1780150040,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 464876,
+        "num": 387462,
+        "word": "对早睡起了敬意",
+        "onboard_time": 1780131079,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 557197,
+        "num": 387381,
+        "word": "宋亚轩又输给了李宇春",
+        "onboard_time": 1780153101,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 279455,
+        "num": 387284,
+        "word": "中俄等6国投弃权票",
+        "onboard_time": 1780150822,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 189835,
+        "num": 387210,
+        "word": "BLG跌入败者组",
+        "onboard_time": 1780152141,
+        "rank": 16,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 32895,
+        "num": 387134,
+        "word": "给阿嬷的情书取景地遭私人乱收费",
+        "onboard_time": 1780153281,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 436931,
+        "num": 387041,
+        "word": "她家长真去找你你又不敢见",
+        "onboard_time": 1780136660,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 16885,
+        "num": 386916,
+        "word": "外卖挂门把手女子嫌忌讳投诉骑手",
+        "onboard_time": 1780153822,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 776639,
+        "num": 386833,
+        "word": "王嘉尔出发参加何猷君奚梦瑶婚礼",
+        "onboard_time": 1780145721,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 398851,
+        "num": 386791,
+        "word": "严浩翔rap",
+        "onboard_time": 1780152383,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 187343,
+        "num": 386701,
+        "word": "BLG对战WE",
+        "onboard_time": 1780137979,
+        "rank": 22,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 386650,
+        "num": 386650,
+        "word": "夫妻上班途中突遇2米长眼镜王蛇",
+        "onboard_time": 1780151060,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 392456,
+        "num": 384149,
+        "word": "花间令2.0",
+        "onboard_time": 1780149502,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 381452,
+        "num": 381452,
+        "word": "10月大婴儿喝稀粥吃肉末3个月瘦3斤",
+        "onboard_time": 1780151662,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 323271,
+        "num": 323271,
+        "word": "大爷协议娶小24岁女子2年便闹离婚",
+        "onboard_time": 1780144940,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 313920,
+        "num": 313920,
+        "word": "王安宇见面会",
+        "onboard_time": 1780153520,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 92229,
+        "num": 296472,
+        "word": "两千亿巨头高管减持套现超4.3亿",
+        "onboard_time": 1780135940,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 226293,
+        "num": 286365,
+        "word": "南开大学通报论文数据存疑问题",
+        "onboard_time": 1780142240,
+        "rank": 29,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 283734,
+        "num": 283734,
+        "word": "万花世界原主换了一个人演",
+        "onboard_time": 1780134318,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 280500,
+        "num": 280500,
+        "word": "念相思开机",
+        "onboard_time": 1780141458,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 218002,
+        "num": 218002,
+        "word": "这样的衣服才配预售",
+        "onboard_time": 1780141222,
+        "rank": 32,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 228576,
+        "num": 216535,
+        "word": "攻玉",
+        "onboard_time": 1780142360,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 214128,
+        "num": 214128,
+        "word": "刘耀文高会",
+        "onboard_time": 1780153761,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 213729,
+        "num": 213729,
+        "word": "台湾网红馆长撞脸三星堆文物",
+        "onboard_time": 1780145840,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 200997,
+        "num": 200997,
+        "word": "你好星期六",
+        "onboard_time": 1780143740,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194546,
+        "num": 194546,
+        "word": "张维威回应隐瞒肖旭恋情",
+        "onboard_time": 1780134140,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 87978,
+        "num": 191735,
+        "word": "刘宇宁工体唱苍兰诀主题曲",
+        "onboard_time": 1780154119,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190427,
+        "num": 190427,
+        "word": "Cube下一个al",
+        "onboard_time": 1780153882,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 161099,
+        "num": 161099,
+        "word": "宋亚轩智性恋要被迷晕了",
+        "onboard_time": 1780148240,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157136,
+        "num": 157136,
+        "word": "主角",
+        "onboard_time": 1780143260,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150022,
+        "num": 156729,
+        "word": "Monki偷家",
+        "onboard_time": 1780152262,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 156620,
+        "num": 156620,
+        "word": "曝唐嫣罗晋经常一起参加女儿活动",
+        "onboard_time": 1780121482,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150326,
+        "num": 150326,
+        "word": "河智苑打歌舞台",
+        "onboard_time": 1780148121,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 148566,
+        "num": 148566,
+        "word": "张雪机车阿拉贡站第8",
+        "onboard_time": 1780140800,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104822,
+        "num": 140477,
+        "word": "在京东买新手机省了2000",
+        "onboard_time": 1780146321,
+        "rank": 46,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 75281,
+        "num": 136517,
+        "word": "用豆包免费学英语的两个方法",
+        "onboard_time": 1780146560,
+        "rank": 47,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 71384,
+        "num": 136484,
+        "word": "菲防长绕后厨躲避中方记者",
+        "onboard_time": 1780150701,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 136466,
+        "num": 136466,
+        "word": "阿森纳首发",
+        "onboard_time": 1780154183,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#我国广大科技工作者是大有作为的#"
+    }
+  }
+}
