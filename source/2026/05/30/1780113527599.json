@@ -1,0 +1,410 @@
+{
+  "runTime": 1780113527599,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1071477,
+        "num": 1171436,
+        "word": "榴莲仅退款事件商家已报警",
+        "onboard_time": 1780104620,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 484439,
+        "num": 877305,
+        "word": "多方回应女大学生被骗进戒网瘾学校",
+        "onboard_time": 1780103481,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21606,
+        "num": 700051,
+        "word": "科技工作者一生坚守的赤诚心声",
+        "onboard_time": 1780108460,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2171846,
+        "num": 684750,
+        "word": "王老吉给陈丽君打码",
+        "onboard_time": 1780110439,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 418409,
+        "num": 418409,
+        "word": "性格软才是最大的bug",
+        "onboard_time": 1780108938,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1040343,
+        "num": 356735,
+        "word": "孟子义cue了李昀锐",
+        "onboard_time": 1780110799,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 287141,
+        "num": 287141,
+        "word": "关志鸥任湖北省委书记",
+        "onboard_time": 1780107740,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 247153,
+        "num": 247153,
+        "word": "周六福足银手镯事件",
+        "onboard_time": 1780110679,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134253,
+        "num": 246792,
+        "word": "欧冠",
+        "onboard_time": 1780099097,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128903,
+        "num": 245716,
+        "word": "黄仁勋谈华为新突破",
+        "onboard_time": 1780103899,
+        "rank": 9,
+        "category": "财经,互联网"
+      },
+      {
+        "raw_hot": 3670035,
+        "num": 245295,
+        "word": "林沐然 本升专",
+        "onboard_time": 1780107379,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 785730,
+        "num": 244599,
+        "word": "白鹿替薛凯琪落水",
+        "onboard_time": 1780110079,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 729412,
+        "num": 243289,
+        "word": "宾利车内藏3千万财物小偷盗走30万",
+        "onboard_time": 1780108999,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 580447,
+        "num": 242936,
+        "word": "下周天考数学 可下周天是高考",
+        "onboard_time": 1780103179,
+        "rank": 13,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 564631,
+        "num": 241695,
+        "word": "魏如萱发长文",
+        "onboard_time": 1780102221,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116253,
+        "num": 241450,
+        "word": "iPhone18Pro可变光圈镜头确认",
+        "onboard_time": 1780099519,
+        "rank": 15,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 108155,
+        "num": 240539,
+        "word": "巴黎圣日耳曼vs阿森纳",
+        "onboard_time": 1780113498,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 95329,
+        "num": 239625,
+        "word": "神21航天员回地球最想洗头",
+        "onboard_time": 1780109959,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85712,
+        "num": 238940,
+        "word": "保时捷为避奥迪猛打方向盘撞向路人",
+        "onboard_time": 1780113140,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37501,
+        "num": 238482,
+        "word": "店主回应曝光男子剩汤里加6勺辣酱",
+        "onboard_time": 1780113140,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 835725,
+        "num": 237550,
+        "word": "林沐然转学全面停止",
+        "onboard_time": 1780101859,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 29337,
+        "num": 236489,
+        "word": "误诊致流产女子大出血才知怀孕",
+        "onboard_time": 1780113260,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108670,
+        "num": 235473,
+        "word": "谁懂在复旦偶遇马龙的含金量",
+        "onboard_time": 1780110439,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 835690,
+        "num": 234862,
+        "word": "VOGUE晚宴大合影",
+        "onboard_time": 1780108159,
+        "rank": 23,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 364583,
+        "num": 234412,
+        "word": "刘亦菲彭冠英同款",
+        "onboard_time": 1780095617,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201689,
+        "num": 233739,
+        "word": "湖南衡阳发生氢氟酸罐车泄漏事件",
+        "onboard_time": 1780112179,
+        "rank": 25,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 291692,
+        "num": 232313,
+        "word": "心脉受损的人一眼就可以看出来",
+        "onboard_time": 1780096819,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 103765,
+        "num": 231916,
+        "word": "法网将诞生新科冠军",
+        "onboard_time": 1780101739,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 288160,
+        "num": 230941,
+        "word": "李晨说白鹿是开心果担当",
+        "onboard_time": 1780113078,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 70320,
+        "num": 229964,
+        "word": "中东战火可能正烧向你的餐桌",
+        "onboard_time": 1780107740,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 272034,
+        "num": 229727,
+        "word": "虞书欣仍未取关潘宥诚",
+        "onboard_time": 1780096937,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 229050,
+        "num": 229050,
+        "word": "梁文峰对华为的态度",
+        "onboard_time": 1780112540,
+        "rank": 31,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 207180,
+        "num": 207180,
+        "word": "当人在狗咖里摔倒的瞬间",
+        "onboard_time": 1780107799,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 202963,
+        "num": 202963,
+        "word": "饿着入睡对胃肠更好吗",
+        "onboard_time": 1780069162,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 223974,
+        "num": 199060,
+        "word": "用热熔枪烫女孩嘴唇老师辩称失误",
+        "onboard_time": 1780098919,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 194510,
+        "num": 194510,
+        "word": "31岁离异带4娃妈妈因自信走红",
+        "onboard_time": 1780096877,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188116,
+        "num": 188116,
+        "word": "歌手第三期帮唱嘉宾信息",
+        "onboard_time": 1780070961,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180822,
+        "num": 180822,
+        "word": "苏新皓疑似做了个网站",
+        "onboard_time": 1780102098,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172340,
+        "num": 172340,
+        "word": "网红边牧被偷宰杀涉事男子称是捡的",
+        "onboard_time": 1780112299,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 177376,
+        "num": 172240,
+        "word": "结石姐cue华晨宇",
+        "onboard_time": 1780110259,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171574,
+        "num": 171574,
+        "word": "淡淡穿不上的礼服黄灿灿穿上了",
+        "onboard_time": 1780097298,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164985,
+        "num": 164985,
+        "word": "iPhone18Pro无缘钛金属",
+        "onboard_time": 1780098978,
+        "rank": 41,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 169226,
+        "num": 161154,
+        "word": "你好星期六没有不出片的义务",
+        "onboard_time": 1780113320,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157163,
+        "num": 157163,
+        "word": "丁太升替魏如萱感到不公",
+        "onboard_time": 1780111639,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136213,
+        "num": 146296,
+        "word": "人在做坏事的时候真的不觉得累",
+        "onboard_time": 1780074258,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 142933,
+        "num": 142933,
+        "word": "奔跑吧直播",
+        "onboard_time": 1780111700,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142441,
+        "num": 142441,
+        "word": "歌手 倒数第一竞争激烈",
+        "onboard_time": 1780062263,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130801,
+        "num": 139008,
+        "word": "狗狗比死神来得更快的是主人",
+        "onboard_time": 1780113498,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 137203,
+        "num": 137203,
+        "word": "古天乐回应向太曝其曾坐牢",
+        "onboard_time": 1780063583,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 69052,
+        "num": 134898,
+        "word": "科技股调整原因",
+        "onboard_time": 1780112299,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#创新之道唯在得人#"
+    }
+  }
+}
