@@ -1,6 +1,6 @@
 {
   "startTime": 1780073379989,
-  "endTime": 1780096926706,
+  "endTime": 1780104548609,
   "band_list": [
     {
       "raw_hot": 5755002,
@@ -9,6 +9,38 @@
       "onboard_time": 1780065385,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2660716,
+      "num": 204829,
+      "word": "林沐然中戏转入湖南艺术职业学院",
+      "onboard_time": 1780096456,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2518432,
+      "num": 297889,
+      "word": "林沐然转学全面停止",
+      "onboard_time": 1780101859,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1374797,
+      "num": 267868,
+      "word": "飞机上男子不满2岁幼童哭闹大声呵斥",
+      "onboard_time": 1780098077,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1194733,
+      "num": 257612,
+      "word": "刘亦菲彭冠英同款",
+      "onboard_time": 1780095617,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 1140760,
@@ -32,6 +64,14 @@
       "word": "歌手第三期帮唱嘉宾信息",
       "onboard_time": 1780070961,
       "rank": 1,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 907851,
+      "num": 620056,
+      "word": "魏如萱发长文",
+      "onboard_time": 1780102221,
+      "rank": 3,
       "category": "综艺"
     },
     {
@@ -59,11 +99,11 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 747662,
-      "num": 114888,
-      "word": "林沐然中戏转入湖南艺术职业学院",
-      "onboard_time": 1780096456,
-      "rank": 10,
+      "raw_hot": 638505,
+      "num": 248626,
+      "word": "虞书欣仍未取关潘宥诚",
+      "onboard_time": 1780096937,
+      "rank": 14,
       "category": "艺人"
     },
     {
@@ -75,6 +115,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 582100,
+      "num": 244130,
+      "word": "31岁离异带4娃妈妈因自信走红",
+      "onboard_time": 1780096877,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 581762,
+      "num": 360795,
+      "word": "李晨扛着白鹿踩指压板",
+      "onboard_time": 1780097118,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 579892,
       "num": 579892,
       "word": "VOGUE晚宴",
@@ -84,7 +140,7 @@
     },
     {
       "raw_hot": 563960,
-      "num": 394219,
+      "num": 812878,
       "word": "歌手 倒数第一竞争激烈",
       "onboard_time": 1780062263,
       "rank": 21,
@@ -107,12 +163,44 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 551155,
+      "num": 1088184,
+      "word": "上交所重要公告",
+      "onboard_time": 1780098077,
+      "rank": 0,
+      "category": "财经"
+    },
+    {
       "raw_hot": 531798,
       "num": 392223,
       "word": "魏如萱淘汰",
       "onboard_time": 1780065805,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 510456,
+      "num": 229037,
+      "word": "iPhone18Pro无缘钛金属",
+      "onboard_time": 1780098978,
+      "rank": 20,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 505351,
+      "num": 226979,
+      "word": "11岁女孩被32岁男子侵犯感染性病",
+      "onboard_time": 1780100299,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 494099,
+      "num": 226349,
+      "word": "心脉受损的人一眼就可以看出来",
+      "onboard_time": 1780096819,
+      "rank": 20,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 462008,
@@ -123,12 +211,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 415775,
-      "num": 114291,
-      "word": "刘亦菲彭冠英同款",
-      "onboard_time": 1780095617,
-      "rank": 11,
-      "category": "艺人"
+      "raw_hot": 433740,
+      "num": 548777,
+      "word": "父母姐姐身亡12岁孩子被叔侵占140万",
+      "onboard_time": 1780064486,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 405970,
@@ -147,14 +235,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 389223,
-      "num": 108975,
-      "word": "心脉受损的人一眼就可以看出来",
-      "onboard_time": 1780096819,
-      "rank": 20,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 387026,
       "num": 387026,
       "word": "刘红兵为了忆秦娥跳楼",
@@ -163,12 +243,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 385621,
+      "num": 222993,
+      "word": "用热熔枪烫女孩嘴唇老师辩称失误",
+      "onboard_time": 1780098919,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 379424,
+      "num": 379424,
+      "word": "人在做坏事的时候真的不觉得累",
+      "onboard_time": 1780074258,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 356149,
       "num": 356149,
       "word": "窦靖童完全王菲",
       "onboard_time": 1780072520,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 341357,
+      "num": 405191,
+      "word": "一家四口有限责任公司",
+      "onboard_time": 1780057101,
+      "rank": 7,
+      "category": "幽默"
     },
     {
       "raw_hot": 335200,
@@ -195,12 +299,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 303597,
-      "num": 405191,
-      "word": "一家四口有限责任公司",
-      "onboard_time": 1780057101,
-      "rank": 7,
-      "category": "幽默"
+      "raw_hot": 298937,
+      "num": 298937,
+      "word": "欧冠",
+      "onboard_time": 1780099097,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 280915,
@@ -211,12 +315,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 268993,
+      "num": 210999,
+      "word": "秦昊说就过呗还能离咋地",
+      "onboard_time": 1780094235,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 260769,
       "num": 244935,
       "word": "爱上窦靖童是人之常情",
       "onboard_time": 1780064486,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 259632,
+      "num": 209935,
+      "word": "苏新皓疑似做了个网站",
+      "onboard_time": 1780102098,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 253295,
@@ -243,6 +363,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 233297,
+      "num": 233297,
+      "word": "张雪成于东来榜一",
+      "onboard_time": 1780100118,
+      "rank": 16,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 231096,
       "num": 231096,
       "word": "刘诗诗掀头纱",
@@ -259,12 +387,12 @@
       "category": "时尚,作品衍生"
     },
     {
-      "raw_hot": 220280,
-      "num": 111612,
-      "word": "31岁离异带4娃妈妈因自信走红",
-      "onboard_time": 1780096877,
-      "rank": 16,
-      "category": "民生新闻"
+      "raw_hot": 213239,
+      "num": 206767,
+      "word": "淡淡穿不上的礼服黄灿灿穿上了",
+      "onboard_time": 1780097298,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 211373,
@@ -281,6 +409,22 @@
       "onboard_time": 1780060522,
       "rank": 9,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 206314,
+      "num": 223241,
+      "word": "曾沛慈体面",
+      "onboard_time": 1780101978,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 198479,
+      "num": 215290,
+      "word": "下周天考数学 可下周天是高考",
+      "onboard_time": 1780103179,
+      "rank": 32,
+      "category": "教育"
     },
     {
       "raw_hot": 173451,
@@ -315,12 +459,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 160898,
-      "num": 106353,
-      "word": "秦昊说就过呗还能离咋地",
-      "onboard_time": 1780094235,
-      "rank": 23,
-      "category": "综艺"
+      "raw_hot": 161010,
+      "num": 232455,
+      "word": "法网将诞生新科冠军",
+      "onboard_time": 1780101739,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 143453,
@@ -339,12 +483,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 140109,
-      "num": 150142,
-      "word": "人在做坏事的时候真的不觉得累",
-      "onboard_time": 1780074258,
-      "rank": 36,
-      "category": "情感"
+      "raw_hot": 135346,
+      "num": 218792,
+      "word": "上海同济专家提醒4个症状尽早做肠镜",
+      "onboard_time": 1780096877,
+      "rank": 31,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 134534,
@@ -355,20 +499,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 130519,
-      "num": 103015,
-      "word": "上海同济专家提醒4个症状尽早做肠镜",
-      "onboard_time": 1780096877,
-      "rank": 31,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 128025,
-      "num": 548777,
-      "word": "父母姐姐身亡12岁孩子被叔侵占140万",
-      "onboard_time": 1780064486,
-      "rank": 18,
-      "category": "民生新闻"
+      "raw_hot": 128282,
+      "num": 209149,
+      "word": "德约科维奇无缘法网16强",
+      "onboard_time": 1780096819,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 124625,
@@ -379,11 +515,27 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 124623,
+      "num": 203550,
+      "word": "卫健委回应名医让儿子代诊致人流产",
+      "onboard_time": 1780098138,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 122681,
       "num": 396399,
       "word": "江浙沪的雨都快把人逼成大文豪了",
       "onboard_time": 1780061122,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 115125,
+      "num": 200668,
+      "word": "女大学生被骗进戒网瘾学校多部门介入",
+      "onboard_time": 1780103599,
+      "rank": 45,
       "category": "民生新闻"
     },
     {
@@ -395,11 +547,35 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 105271,
+      "num": 197116,
+      "word": "2岁娃舔一口公园叶子中毒入院",
+      "onboard_time": 1780102880,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 95822,
+      "num": 196597,
+      "word": "黄仁勋谈华为新突破",
+      "onboard_time": 1780103899,
+      "rank": 49,
+      "category": "财经,互联网"
+    },
+    {
       "raw_hot": 91884,
       "num": 390203,
       "word": "发货YES到手YSL",
       "onboard_time": 1780068082,
       "rank": 26,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 82482,
+      "num": 311751,
+      "word": "12345回应市民要求干预闷热天气",
+      "onboard_time": 1780103719,
+      "rank": 8,
       "category": "民生新闻"
     },
     {
@@ -411,20 +587,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 76658,
+      "num": 284191,
+      "word": "多方回应女大学生被骗进戒网瘾学校",
+      "onboard_time": 1780103481,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 73461,
       "num": 150133,
       "word": "李小冉去歌手了",
       "onboard_time": 1780056502,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 73085,
-      "num": 100845,
-      "word": "德约科维奇无缘法网16强",
-      "onboard_time": 1780096819,
-      "rank": 34,
-      "category": "体育"
     },
     {
       "raw_hot": 71111,
@@ -499,6 +675,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 52485,
+      "num": 230326,
+      "word": "西安一企业公开采购高档香烟引质疑",
+      "onboard_time": 1780103719,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 52311,
       "num": 149937,
       "word": "领克10",
@@ -563,6 +747,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 37870,
+      "num": 231801,
+      "word": "Anthropic融资650亿",
+      "onboard_time": 1780103899,
+      "rank": 18,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 37237,
       "num": 388126,
       "word": "神21乘组出舱",
@@ -601,6 +793,14 @@
       "onboard_time": 1780055602,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 22598,
+      "num": 227862,
+      "word": "美对伊实施新制裁",
+      "onboard_time": 1780104019,
+      "rank": 21,
+      "category": "国际时政"
     },
     {
       "raw_hot": 21499,
