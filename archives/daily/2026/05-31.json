@@ -1,6 +1,6 @@
 {
   "startTime": 1780161470105,
-  "endTime": 1780175316288,
+  "endTime": 1780176843046,
   "band_list": [
     {
       "raw_hot": 2279358,
@@ -59,19 +59,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 583973,
+      "num": 583973,
+      "word": "姆巴佩",
+      "onboard_time": 1780170134,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 546600,
       "num": 546600,
       "word": "阿森纳",
       "onboard_time": 1780169774,
       "rank": 5,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 525347,
-      "num": 525347,
-      "word": "姆巴佩",
-      "onboard_time": 1780170134,
-      "rank": 7,
       "category": "体育"
     },
     {
@@ -315,6 +315,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 113270,
+      "num": 113270,
+      "word": "巴黎圣日耳曼5比4阿森纳",
+      "onboard_time": 1780169774,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 111776,
       "num": 111776,
       "word": "中山大学2人被免职",
@@ -393,14 +401,6 @@
       "onboard_time": 1780136299,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 88085,
-      "num": 88085,
-      "word": "巴黎圣日耳曼5比4阿森纳",
-      "onboard_time": 1780169774,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 87786,
@@ -499,6 +499,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 23389,
+      "num": 26243,
+      "word": "念相思",
+      "onboard_time": 1780138160,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 21510,
       "num": 27036,
       "word": "万花世界预约",
@@ -507,7 +515,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 20913,
+      "raw_hot": 21264,
       "num": 27034,
       "word": "蔡徐坤马来西亚音乐节压轴",
       "onboard_time": 1780174453,
