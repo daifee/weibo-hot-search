@@ -1,0 +1,410 @@
+{
+  "runTime": 1780162660549,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2033004,
+        "num": 2033004,
+        "word": "欧冠决赛",
+        "onboard_time": 1780154661,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 744829,
+        "num": 744829,
+        "word": "巴黎圣日耳曼vs阿森纳",
+        "onboard_time": 1780154661,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 9676,
+        "num": 377613,
+        "word": "在上海找到创作主场",
+        "onboard_time": 1780143260,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 285923,
+        "num": 285923,
+        "word": "徐志胜在桃花坞聊沈月王鹤棣",
+        "onboard_time": 1780138880,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 277113,
+        "num": 277113,
+        "word": "麦当劳汉堡缩小比例",
+        "onboard_time": 1780137559,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 262489,
+        "num": 262489,
+        "word": "欧冠直播",
+        "onboard_time": 1780159458,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 260151,
+        "num": 260151,
+        "word": "鸟巢偶遇王菲看谢霆锋演唱会",
+        "onboard_time": 1780148780,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 256798,
+        "num": 256798,
+        "word": "阿森纳进球",
+        "onboard_time": 1780159279,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 255461,
+        "num": 255461,
+        "word": "网友阻止印度游客在水源区洗澡",
+        "onboard_time": 1780135040,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 202615,
+        "num": 202615,
+        "word": "牙齿和情绪的关系",
+        "onboard_time": 1780146981,
+        "rank": 9,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 408365,
+        "num": 200631,
+        "word": "微信几乎把每个人捆绑在线上",
+        "onboard_time": 1780126579,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 197656,
+        "num": 197656,
+        "word": "中俄等6国投弃权票",
+        "onboard_time": 1780150822,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 157984,
+        "num": 157984,
+        "word": "对早睡起了敬意",
+        "onboard_time": 1780131079,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 157553,
+        "num": 157553,
+        "word": "欧冠裁判",
+        "onboard_time": 1780162635,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 156144,
+        "num": 156144,
+        "word": "十二星座6月月运",
+        "onboard_time": 1780148362,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 155721,
+        "num": 155721,
+        "word": "宋亚轩又输给了李宇春",
+        "onboard_time": 1780153101,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147434,
+        "num": 147434,
+        "word": "用AI整理会议记录导致泄密",
+        "onboard_time": 1780155439,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137835,
+        "num": 137835,
+        "word": "哈弗茨单刀破门",
+        "onboard_time": 1780159339,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 130880,
+        "num": 130880,
+        "word": "这样的衣服才配预售",
+        "onboard_time": 1780141222,
+        "rank": 18,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 121891,
+        "num": 121891,
+        "word": "王安宇见面会",
+        "onboard_time": 1780153520,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 889328,
+        "num": 121051,
+        "word": "欧冠",
+        "onboard_time": 1780159279,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 203458,
+        "num": 121033,
+        "word": "10月大婴儿喝稀粥吃肉末3个月瘦3斤",
+        "onboard_time": 1780151662,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170751,
+        "num": 120962,
+        "word": "李昀锐一把就把关晓彤抱起来了",
+        "onboard_time": 1780154600,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119873,
+        "num": 119873,
+        "word": "念相思开机",
+        "onboard_time": 1780141458,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127383,
+        "num": 119170,
+        "word": "这个时间点入睡才是真早睡",
+        "onboard_time": 1780156580,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 127272,
+        "num": 118765,
+        "word": "陈小春发言宋亚轩又笑晕了",
+        "onboard_time": 1780155080,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118274,
+        "num": 118274,
+        "word": "用豆包免费学英语的两个方法",
+        "onboard_time": 1780146560,
+        "rank": 26,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 116323,
+        "num": 116323,
+        "word": "花间令2.0",
+        "onboard_time": 1780149502,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108534,
+        "num": 108534,
+        "word": "大爷协议娶小24岁女子2年便闹离婚",
+        "onboard_time": 1780144940,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101718,
+        "num": 101718,
+        "word": "邓超一开口梦回初代跑男",
+        "onboard_time": 1780156880,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 97986,
+        "num": 97986,
+        "word": "万花世界回应",
+        "onboard_time": 1780150582,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 95514,
+        "num": 95514,
+        "word": "阿森纳上半场领先",
+        "onboard_time": 1780160718,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 92242,
+        "num": 92242,
+        "word": "阿森纳首发",
+        "onboard_time": 1780154183,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 88873,
+        "num": 88873,
+        "word": "WE以下克上BLG",
+        "onboard_time": 1780149862,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 88102,
+        "num": 88102,
+        "word": "攻玉",
+        "onboard_time": 1780142360,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 87153,
+        "num": 87153,
+        "word": "程潇沙一汀内娱cp必吃榜上新了",
+        "onboard_time": 1780154661,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 81678,
+        "num": 81678,
+        "word": "BLG跌入败者组",
+        "onboard_time": 1780152141,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 80948,
+        "num": 80948,
+        "word": "神仙肉",
+        "onboard_time": 1780136299,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 79630,
+        "num": 79630,
+        "word": "万花世界原主换了一个人演",
+        "onboard_time": 1780134318,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 75873,
+        "num": 75873,
+        "word": "主角",
+        "onboard_time": 1780143260,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 74171,
+        "num": 74171,
+        "word": "shanks评论cube",
+        "onboard_time": 1780154362,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 71515,
+        "num": 71515,
+        "word": "谢霆锋鸟巢顶级号召力",
+        "onboard_time": 1780155500,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 69030,
+        "num": 69030,
+        "word": "李宇春给我唱回彩铃时代了",
+        "onboard_time": 1780160418,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 68527,
+        "num": 68527,
+        "word": "耀眼",
+        "onboard_time": 1780143501,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 65634,
+        "num": 65634,
+        "word": "陈小春连怼导演四次",
+        "onboard_time": 1780142300,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 65069,
+        "num": 65069,
+        "word": "解放军代表回应美防长香会表态",
+        "onboard_time": 1780156400,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 64101,
+        "num": 64101,
+        "word": "严浩翔rap",
+        "onboard_time": 1780152383,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 60513,
+        "num": 64101,
+        "word": "台湾网红馆长撞脸三星堆文物",
+        "onboard_time": 1780145840,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 60094,
+        "num": 64100,
+        "word": "刘宇宁工体唱苍兰诀主题曲",
+        "onboard_time": 1780154119,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 50785,
+        "num": 64097,
+        "word": "河智苑打歌舞台",
+        "onboard_time": 1780148121,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#我国广大科技工作者是大有作为的#"
+    }
+  }
+}

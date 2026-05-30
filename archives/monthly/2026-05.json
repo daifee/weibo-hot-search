@@ -1,6 +1,6 @@
 {
   "startTime": 1777565126834,
-  "endTime": 1780161470105,
+  "endTime": 1780162660549,
   "band_list": [
     {
       "raw_hot": 28198949,
@@ -9483,6 +9483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 744829,
+      "num": 744829,
+      "word": "巴黎圣日耳曼vs阿森纳",
+      "onboard_time": 1780113498,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 743783,
       "num": 592578,
       "word": "歌手2026首发阵容新版本",
@@ -11801,14 +11809,6 @@
       "onboard_time": 1779452480,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 626843,
-      "num": 626843,
-      "word": "巴黎圣日耳曼vs阿森纳",
-      "onboard_time": 1780113498,
-      "rank": 16,
-      "category": "体育"
     },
     {
       "raw_hot": 626667,
@@ -40555,6 +40555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 157553,
+      "num": 157553,
+      "word": "欧冠裁判",
+      "onboard_time": 1780162635,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 157518,
       "num": 151845,
       "word": "要当心韩餐店里的这种凳子",
@@ -51043,6 +51051,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 69030,
+      "num": 72108,
+      "word": "李宇春给我唱回彩铃时代了",
+      "onboard_time": 1780160418,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 69026,
       "num": 81637,
       "word": "伊能静神吐槽孙杨",
@@ -51425,6 +51441,14 @@
       "onboard_time": 1778564841,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 65069,
+      "num": 65069,
+      "word": "解放军代表回应美防长香会表态",
+      "onboard_time": 1780156400,
+      "rank": 45,
+      "category": "国际时政"
     },
     {
       "raw_hot": 65055,
@@ -52001,14 +52025,6 @@
       "onboard_time": 1778440875,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 60201,
-      "num": 72108,
-      "word": "李宇春给我唱回彩铃时代了",
-      "onboard_time": 1780160418,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 60161,

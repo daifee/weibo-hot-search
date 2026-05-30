@@ -1,6 +1,6 @@
 {
   "startTime": 1780161470105,
-  "endTime": 1780161470105,
+  "endTime": 1780162660549,
   "band_list": [
     {
       "raw_hot": 2279358,
@@ -11,19 +11,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 626843,
-      "num": 626843,
-      "word": "巴黎圣日耳曼vs阿森纳",
-      "onboard_time": 1780154661,
-      "rank": 1,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 587940,
+      "raw_hot": 889328,
       "num": 150787,
       "word": "欧冠",
       "onboard_time": 1780159279,
       "rank": 20,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 744829,
+      "num": 744829,
+      "word": "巴黎圣日耳曼vs阿森纳",
+      "onboard_time": 1780154661,
+      "rank": 1,
       "category": "体育"
     },
     {
@@ -169,6 +169,14 @@
       "onboard_time": 1780153520,
       "rank": 17,
       "category": "演出"
+    },
+    {
+      "raw_hot": 157553,
+      "num": 157553,
+      "word": "欧冠裁判",
+      "onboard_time": 1780162635,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 155072,
@@ -379,20 +387,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 69030,
+      "num": 72108,
+      "word": "李宇春给我唱回彩铃时代了",
+      "onboard_time": 1780160418,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 65069,
+      "num": 65069,
+      "word": "解放军代表回应美防长香会表态",
+      "onboard_time": 1780156400,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 62302,
       "num": 72127,
       "word": "河智苑打歌舞台",
       "onboard_time": 1780148121,
       "rank": 48,
       "category": "演出"
-    },
-    {
-      "raw_hot": 60201,
-      "num": 72108,
-      "word": "李宇春给我唱回彩铃时代了",
-      "onboard_time": 1780160418,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 10347,
