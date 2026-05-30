@@ -1,6 +1,6 @@
 {
   "startTime": 1777565126834,
-  "endTime": 1780162660549,
+  "endTime": 1780169304968,
   "band_list": [
     {
       "raw_hot": 28198949,
@@ -3417,6 +3417,14 @@
       "onboard_time": 1779720503,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1479667,
+      "num": 1479667,
+      "word": "点球大战",
+      "onboard_time": 1780167494,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 1472287,
@@ -7361,6 +7369,14 @@
       "onboard_time": 1780043961,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 886360,
+      "num": 886360,
+      "word": "欧冠裁判",
+      "onboard_time": 1780162635,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 885888,
@@ -12673,6 +12689,14 @@
       "onboard_time": 1778730263,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 586218,
+      "num": 586218,
+      "word": "欧冠决赛 难看",
+      "onboard_time": 1780167796,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 586209,
@@ -23953,6 +23977,14 @@
       "onboard_time": 1777942760,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 315934,
+      "num": 315934,
+      "word": "欧冠加时赛",
+      "onboard_time": 1780165515,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 315800,
@@ -40555,14 +40587,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 157553,
-      "num": 157553,
-      "word": "欧冠裁判",
-      "onboard_time": 1780162635,
-      "rank": 13,
-      "category": "体育"
-    },
-    {
       "raw_hot": 157518,
       "num": 151845,
       "word": "要当心韩餐店里的这种凳子",
@@ -42200,6 +42224,14 @@
       "word": "巴黎连续两年晋级欧冠决赛",
       "onboard_time": 1778112139,
       "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 144582,
+      "num": 144582,
+      "word": "爱奇艺解说",
+      "onboard_time": 1780167674,
+      "rank": 9,
       "category": "体育"
     },
     {
@@ -46177,6 +46209,14 @@
       "onboard_time": 1779768502,
       "rank": 16,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 115245,
+      "num": 115245,
+      "word": "阿森纳黄牌",
+      "onboard_time": 1780163117,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 115152,
@@ -52707,6 +52747,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 55551,
+      "num": 55551,
+      "word": "角球",
+      "onboard_time": 1780165696,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 55514,
       "num": 129340,
       "word": "智界V9行业首次110时速高速碰撞",
@@ -58260,7 +58308,7 @@
     },
     {
       "raw_hot": 19414,
-      "num": 1036787,
+      "num": 1166329,
       "word": "在上海找到创作主场",
       "onboard_time": 1780143260,
       "rank": 2,
