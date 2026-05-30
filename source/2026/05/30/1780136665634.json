@@ -1,0 +1,410 @@
+{
+  "runTime": 1780136665634,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2407071,
+        "num": 2407071,
+        "word": "微信几乎把每个人捆绑在线上",
+        "onboard_time": 1780126579,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 799674,
+        "num": 983122,
+        "word": "D1804次列车被困隧道内超2小时",
+        "onboard_time": 1780127719,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34527,
+        "num": 828746,
+        "word": "神21航天员210天出差名场面",
+        "onboard_time": 1780134079,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1581207,
+        "num": 763514,
+        "word": "对早睡起了敬意",
+        "onboard_time": 1780131079,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1463759,
+        "num": 694502,
+        "word": "山姆会员是什么梗",
+        "onboard_time": 1780133421,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 596959,
+        "num": 596959,
+        "word": "住东北就别熬夜了",
+        "onboard_time": 1780124959,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 375531,
+        "num": 375531,
+        "word": "六一表演小朋友失误却意外出彩",
+        "onboard_time": 1780123220,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 341685,
+        "num": 341685,
+        "word": "再见朋友综艺真要来了",
+        "onboard_time": 1780116859,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 323149,
+        "num": 323149,
+        "word": "生命树被标注白玉兰奖",
+        "onboard_time": 1780120941,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183625,
+        "num": 323072,
+        "word": "豆包压缩证件照有多离谱",
+        "onboard_time": 1780119080,
+        "rank": 9,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1532854,
+        "num": 322730,
+        "word": "万花世界原主换了一个人演",
+        "onboard_time": 1780134318,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 743184,
+        "num": 322523,
+        "word": "曝唐嫣罗晋经常一起参加女儿活动",
+        "onboard_time": 1780121482,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 437892,
+        "num": 322259,
+        "word": "钱学森儿子回应钱学森热梗",
+        "onboard_time": 1780135399,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 424861,
+        "num": 321874,
+        "word": "时代峰峻高会泡泡工作人员代聊",
+        "onboard_time": 1780122920,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 403451,
+        "num": 321728,
+        "word": "女子想买1斤荔枝一个操作收到100斤",
+        "onboard_time": 1780116199,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 382507,
+        "num": 321547,
+        "word": "网友阻止印度游客在水源区洗澡",
+        "onboard_time": 1780135040,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170039,
+        "num": 321200,
+        "word": "高志凯预测全球将爆发的危机",
+        "onboard_time": 1780132100,
+        "rank": 16,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 132432,
+        "num": 321091,
+        "word": "雷霆双标球风引众怒",
+        "onboard_time": 1780131859,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 69992,
+        "num": 320843,
+        "word": "58岁大爷花3万买的脑梗药是糖果",
+        "onboard_time": 1780136179,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117173,
+        "num": 320371,
+        "word": "AL战胜EDG",
+        "onboard_time": 1780135821,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 35269,
+        "num": 320112,
+        "word": "谁给杨洋喂防腐剂了",
+        "onboard_time": 1780135999,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 339226,
+        "num": 319933,
+        "word": "泡鲁达",
+        "onboard_time": 1780131560,
+        "rank": 21,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 58347,
+        "num": 319623,
+        "word": "不敢想当她的孩子有多幸福",
+        "onboard_time": 1780134499,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 494973,
+        "num": 319543,
+        "word": "张维威回应隐瞒肖旭恋情",
+        "onboard_time": 1780134140,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 319306,
+        "num": 319306,
+        "word": "获Offer后辞职入职前岗位被取消",
+        "onboard_time": 1780124119,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 282823,
+        "num": 282823,
+        "word": "判断饿的最好方法",
+        "onboard_time": 1780124599,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 279079,
+        "num": 279079,
+        "word": "会所老板诈骗7亿潜逃奢靡生活曝光",
+        "onboard_time": 1780127239,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 265096,
+        "num": 265096,
+        "word": "鹿晗不让节目组说",
+        "onboard_time": 1780134859,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105129,
+        "num": 240158,
+        "word": "两千亿巨头高管减持套现超4.3亿",
+        "onboard_time": 1780135940,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 188725,
+        "num": 231223,
+        "word": "官方通报博物馆青铜剑疑似拼接",
+        "onboard_time": 1780134560,
+        "rank": 29,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 231179,
+        "num": 231179,
+        "word": "广东已经从红烧鸡腿变成大紫薯了",
+        "onboard_time": 1780132759,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 209472,
+        "num": 209472,
+        "word": "白鹿孟子义说今天穿长裤太开心了",
+        "onboard_time": 1780117999,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 247821,
+        "num": 209293,
+        "word": "鹿晗被张雨霏公主抱",
+        "onboard_time": 1780119439,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 205483,
+        "num": 205483,
+        "word": "一个人的执行力怎么可以这么强",
+        "onboard_time": 1780131619,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 206307,
+        "num": 205058,
+        "word": "Jasper要去英国读书了",
+        "onboard_time": 1780120581,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204607,
+        "num": 204607,
+        "word": "6月狗屎运最旺的星座",
+        "onboard_time": 1780117640,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 201678,
+        "num": 201678,
+        "word": "李晨提醒白鹿看粉丝饭撒",
+        "onboard_time": 1780133840,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200654,
+        "num": 200654,
+        "word": "肖战香槟丝带西装",
+        "onboard_time": 1780134621,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19765,
+        "num": 199726,
+        "word": "关晓彤好会演醉醺醺但盛满爱意的样子",
+        "onboard_time": 1780135999,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 37382,
+        "num": 199665,
+        "word": "给阿嬷的情书为什么淑柔看着年轻",
+        "onboard_time": 1780136539,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 199624,
+        "num": 199624,
+        "word": "神仙肉",
+        "onboard_time": 1780136299,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171228,
+        "num": 190686,
+        "word": "女子仅退款70次称最多算占小便宜",
+        "onboard_time": 1780129940,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 211009,
+        "num": 190414,
+        "word": "万花世界",
+        "onboard_time": 1780127958,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 187340,
+        "num": 187340,
+        "word": "高会泡泡违禁词",
+        "onboard_time": 1780132699,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 66569,
+        "num": 185242,
+        "word": "宁德时代钠电池将规模量产",
+        "onboard_time": 1780125260,
+        "rank": 44,
+        "category": "财经,互联网"
+      },
+      {
+        "raw_hot": 63238,
+        "num": 184425,
+        "word": "体坛周报一员工发表不当言论被停职",
+        "onboard_time": 1780125858,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 22481,
+        "num": 181044,
+        "word": "奥迪E7X上市火爆ta们都入手了",
+        "onboard_time": 1780132040,
+        "rank": 46,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 44693,
+        "num": 179317,
+        "word": "陈雨菲止步新加坡赛四强",
+        "onboard_time": 1780129999,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 33218,
+        "num": 176468,
+        "word": "具身智能最强大脑在中国",
+        "onboard_time": 1780130960,
+        "rank": 48,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 175296,
+        "num": 175296,
+        "word": "窦靖童曾自曝从没和王菲吵过架",
+        "onboard_time": 1780133659,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#创新中国的硬核底气#"
+    }
+  }
+}
