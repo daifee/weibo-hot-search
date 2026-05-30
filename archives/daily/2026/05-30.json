@@ -1,6 +1,6 @@
 {
   "startTime": 1780073379989,
-  "endTime": 1780140499009,
+  "endTime": 1780142013096,
   "band_list": [
     {
       "raw_hot": 5755002,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 1571934,
-      "num": 327816,
+      "num": 594927,
       "word": "麦当劳汉堡缩小比例",
       "onboard_time": 1780137559,
       "rank": 5,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 1532854,
-      "num": 322730,
+      "num": 495392,
       "word": "万花世界原主换了一个人演",
       "onboard_time": 1780134318,
       "rank": 10,
@@ -212,7 +212,7 @@
     },
     {
       "raw_hot": 953999,
-      "num": 348370,
+      "num": 484183,
       "word": "曝唐嫣罗晋经常一起参加女儿活动",
       "onboard_time": 1780121482,
       "rank": 12,
@@ -240,6 +240,14 @@
       "word": "魏如萱发长文",
       "onboard_time": 1780102221,
       "rank": 3,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 839248,
+      "num": 494888,
+      "word": "徐志胜在桃花坞聊沈月王鹤棣",
+      "onboard_time": 1780138880,
+      "rank": 12,
       "category": "综艺"
     },
     {
@@ -332,7 +340,7 @@
     },
     {
       "raw_hot": 696712,
-      "num": 325225,
+      "num": 527592,
       "word": "神仙肉",
       "onboard_time": 1780136299,
       "rank": 40,
@@ -459,19 +467,19 @@
       "category": "财经"
     },
     {
+      "raw_hot": 547706,
+      "num": 315065,
+      "word": "鞠婧祎敖瑞鹏万花世界路透",
+      "onboard_time": 1780138099,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 531798,
       "num": 392223,
       "word": "魏如萱淘汰",
       "onboard_time": 1780065805,
       "rank": 24,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 528788,
-      "num": 317078,
-      "word": "徐志胜在桃花坞聊沈月王鹤棣",
-      "onboard_time": 1780138880,
-      "rank": 12,
       "category": "综艺"
     },
     {
@@ -491,24 +499,24 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 503581,
-      "num": 315065,
-      "word": "鞠婧祎敖瑞鹏万花世界路透",
-      "onboard_time": 1780138099,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 497408,
-      "num": 321200,
+      "num": 494270,
       "word": "高志凯预测全球将爆发的危机",
       "onboard_time": 1780132100,
       "rank": 16,
       "category": "财经"
     },
     {
+      "raw_hot": 496747,
+      "num": 496747,
+      "word": "她家长真去找你你又不敢见",
+      "onboard_time": 1780136660,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 494973,
-      "num": 319543,
+      "num": 455414,
       "word": "张维威回应隐瞒肖旭恋情",
       "onboard_time": 1780134140,
       "rank": 23,
@@ -539,6 +547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 465161,
+      "num": 465161,
+      "word": "致13人遇难客车车厢里有电动车",
+      "onboard_time": 1780138399,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 462008,
       "num": 387362,
       "word": "白鹿回复于正于老师",
@@ -556,7 +572,7 @@
     },
     {
       "raw_hot": 451214,
-      "num": 304246,
+      "num": 346957,
       "word": "鹿晗不让节目组说",
       "onboard_time": 1780134859,
       "rank": 27,
@@ -612,7 +628,7 @@
     },
     {
       "raw_hot": 411550,
-      "num": 278447,
+      "num": 595324,
       "word": "演员刘洵去世",
       "onboard_time": 1780104739,
       "rank": 22,
@@ -715,8 +731,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 324265,
+      "num": 1051882,
+      "word": "广东已经从红烧鸡腿变成大紫薯了",
+      "onboard_time": 1780132759,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 320867,
-      "num": 323072,
+      "num": 476681,
       "word": "豆包压缩证件照有多离谱",
       "onboard_time": 1780119080,
       "rank": 32,
@@ -747,20 +771,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 305676,
+      "num": 305676,
+      "word": "陈都灵化着妆睡着了",
+      "onboard_time": 1780140320,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 304016,
       "num": 304016,
       "word": "杨幂直播差点滑倒",
       "onboard_time": 1780064424,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 301437,
-      "num": 301437,
-      "word": "她家长真去找你你又不敢见",
-      "onboard_time": 1780136660,
-      "rank": 21,
-      "category": "幽默"
     },
     {
       "raw_hot": 300958,
@@ -785,14 +809,6 @@
       "onboard_time": 1780123220,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 291390,
-      "num": 291390,
-      "word": "致13人遇难客车车厢里有电动车",
-      "onboard_time": 1780138399,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 288160,
@@ -867,6 +883,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 262242,
+      "num": 262242,
+      "word": "念相思开机",
+      "onboard_time": 1780141458,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 260769,
       "num": 244935,
       "word": "爱上窦靖童是人之常情",
@@ -891,20 +915,20 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 248599,
-      "num": 330977,
-      "word": "广东已经从红烧鸡腿变成大紫薯了",
-      "onboard_time": 1780132759,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 247153,
       "num": 247153,
       "word": "周六福足银手镯事件",
       "onboard_time": 1780110679,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 246667,
+      "num": 473212,
+      "word": "爷爷不泡茶樱桃小丸子",
+      "onboard_time": 1780139178,
+      "rank": 16,
+      "category": "美食"
     },
     {
       "raw_hot": 243990,
@@ -921,6 +945,14 @@
       "onboard_time": 1780052661,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 235678,
+      "num": 780838,
+      "word": "张雪机车阿拉贡站第8",
+      "onboard_time": 1780140800,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 233297,
@@ -1083,14 +1115,6 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 188669,
-      "num": 308455,
-      "word": "爷爷不泡茶樱桃小丸子",
-      "onboard_time": 1780139178,
-      "rank": 16,
-      "category": "美食"
-    },
-    {
       "raw_hot": 186661,
       "num": 186661,
       "word": "四公小考改规则",
@@ -1105,6 +1129,14 @@
       "onboard_time": 1780115298,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 181494,
+      "num": 181494,
+      "word": "刘诗诗 从此不敢见观音",
+      "onboard_time": 1780141399,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 180962,
@@ -1403,14 +1435,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 121108,
-      "num": 121108,
-      "word": "陈都灵化着妆睡着了",
-      "onboard_time": 1780140320,
-      "rank": 49,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 117173,
       "num": 320371,
       "word": "AL战胜EDG",
@@ -1433,6 +1457,14 @@
       "onboard_time": 1780103599,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 112691,
+      "num": 272915,
+      "word": "两千亿巨头高管减持套现超4.3亿",
+      "onboard_time": 1780135940,
+      "rank": 28,
+      "category": "财经"
     },
     {
       "raw_hot": 108885,
@@ -1459,6 +1491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 105936,
+      "num": 480633,
+      "word": "BLG对战WE",
+      "onboard_time": 1780137979,
+      "rank": 18,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 105608,
       "num": 208882,
       "word": "LOL亚运预选赛名单公布",
@@ -1473,14 +1513,6 @@
       "onboard_time": 1780102880,
       "rank": 48,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 105129,
-      "num": 272915,
-      "word": "两千亿巨头高管减持套现超4.3亿",
-      "onboard_time": 1780135940,
-      "rank": 28,
-      "category": "财经"
     },
     {
       "raw_hot": 101517,
@@ -1507,6 +1539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 93540,
+      "num": 269530,
+      "word": "王曼昱防守反攻速度有多快",
+      "onboard_time": 1780140200,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 91957,
       "num": 281828,
       "word": "特朗普名字被判从肯尼迪中心移除",
@@ -1523,12 +1563,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 91679,
-      "num": 269530,
-      "word": "王曼昱防守反攻速度有多快",
-      "onboard_time": 1780140200,
-      "rank": 28,
-      "category": "体育"
+      "raw_hot": 91038,
+      "num": 273294,
+      "word": "组合购薅京东羊毛10万减5.2万",
+      "onboard_time": 1780139178,
+      "rank": 25,
+      "category": "互联网"
     },
     {
       "raw_hot": 90102,
@@ -1547,12 +1587,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 82838,
-      "num": 273294,
-      "word": "组合购薅京东羊毛10万减5.2万",
-      "onboard_time": 1780139178,
-      "rank": 25,
-      "category": "互联网"
+      "raw_hot": 84856,
+      "num": 471034,
+      "word": "灵隐寺门口没人围堵推销了",
+      "onboard_time": 1780141399,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 82482,
@@ -1569,14 +1609,6 @@
       "onboard_time": 1780072158,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 76813,
-      "num": 304977,
-      "word": "BLG对战WE",
-      "onboard_time": 1780137979,
-      "rank": 18,
-      "category": "电竞"
     },
     {
       "raw_hot": 73461,
@@ -1771,6 +1803,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 47634,
+      "num": 458540,
+      "word": "广州洛溪大桥被吐槽热得像烤炉",
+      "onboard_time": 1780141458,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 46188,
       "num": 149882,
       "word": "VOGUE红毯直播",
@@ -1923,6 +1963,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 26333,
+      "num": 466409,
+      "word": "法国高温天气已造成7人死亡",
+      "onboard_time": 1780141399,
+      "rank": 18,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 26313,
       "num": 313856,
       "word": "京东直播神仙水真便宜",
@@ -1985,6 +2033,14 @@
       "onboard_time": 1780131680,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 19095,
+      "num": 131228,
+      "word": "推特自动翻译",
+      "onboard_time": 1780133719,
+      "rank": 48,
+      "category": "互联网"
     },
     {
       "raw_hot": 12159,
