@@ -1,6 +1,6 @@
 {
   "startTime": 1780161470105,
-  "endTime": 1780182390810,
+  "endTime": 1780184110013,
   "band_list": [
     {
       "raw_hot": 2279358,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 686968,
-      "num": 583973,
+      "num": 875875,
       "word": "姆巴佩",
       "onboard_time": 1780170134,
       "rank": 7,
@@ -75,7 +75,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 500945,
+      "raw_hot": 507404,
       "num": 283852,
       "word": "微信几乎把每个人捆绑在线上",
       "onboard_time": 1780126579,
@@ -83,12 +83,28 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 395911,
+      "raw_hot": 458503,
       "num": 498973,
       "word": "巴黎圣日耳曼5比4阿森纳",
       "onboard_time": 1780169774,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 429743,
+      "num": 120332,
+      "word": "王嘉尔出发参加何猷君奚梦瑶婚礼",
+      "onboard_time": 1780145721,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 418787,
+      "num": 120088,
+      "word": "薛小婉任权复合了",
+      "onboard_time": 1780183157,
+      "rank": 21,
+      "category": "网红"
     },
     {
       "raw_hot": 366376,
@@ -107,12 +123,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 363690,
+      "num": 125449,
+      "word": "刘诗诗 从此不敢见观音",
+      "onboard_time": 1780141399,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 344660,
       "num": 344660,
       "word": "鸟巢偶遇王菲看谢霆锋演唱会",
       "onboard_time": 1780148780,
       "rank": 5,
       "category": "演出"
+    },
+    {
+      "raw_hot": 340257,
+      "num": 118733,
+      "word": "石蕊 肖旭",
+      "onboard_time": 1780155201,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 315940,
@@ -147,6 +179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 292186,
+      "num": 124912,
+      "word": "樊振东vs格拉斯门科",
+      "onboard_time": 1780183276,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 283979,
       "num": 283979,
       "word": "哈弗茨单刀破门",
@@ -155,20 +195,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 268263,
+      "num": 268263,
+      "word": "这样的衣服才配预售",
+      "onboard_time": 1780141222,
+      "rank": 18,
+      "category": "时尚"
+    },
+    {
+      "raw_hot": 262354,
+      "num": 119460,
+      "word": "大爷回应娶小24岁女子2年便闹离婚",
+      "onboard_time": 1780183337,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 259764,
       "num": 259764,
       "word": "牙齿和情绪的关系",
       "onboard_time": 1780146981,
       "rank": 11,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 239457,
-      "num": 107664,
-      "word": "石蕊 肖旭",
-      "onboard_time": 1780155201,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 231164,
@@ -187,14 +235,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 207500,
-      "num": 110419,
-      "word": "刘诗诗 从此不敢见观音",
-      "onboard_time": 1780141399,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 201743,
       "num": 201743,
       "word": "宋亚轩又输给了李宇春",
@@ -209,14 +249,6 @@
       "onboard_time": 1780154600,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 198815,
-      "num": 198815,
-      "word": "这样的衣服才配预售",
-      "onboard_time": 1780141222,
-      "rank": 18,
-      "category": "时尚"
     },
     {
       "raw_hot": 198303,
@@ -243,12 +275,36 @@
       "category": "情感"
     },
     {
+      "raw_hot": 183448,
+      "num": 147715,
+      "word": "这个时间点入睡才是真早睡",
+      "onboard_time": 1780156580,
+      "rank": 25,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 178685,
+      "num": 147021,
+      "word": "大爷协议娶小24岁女子2年便闹离婚",
+      "onboard_time": 1780144940,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 167358,
       "num": 148016,
       "word": "陈小春发言宋亚轩又笑晕了",
       "onboard_time": 1780155080,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 160949,
+      "num": 116460,
+      "word": "特别适合喝咖啡的4类人",
+      "onboard_time": 1780183337,
+      "rank": 27,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 158223,
@@ -267,12 +323,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 151275,
-      "num": 147715,
-      "word": "这个时间点入睡才是真早睡",
-      "onboard_time": 1780156580,
-      "rank": 25,
-      "category": "健康医疗"
+      "raw_hot": 149378,
+      "num": 133389,
+      "word": "用豆包免费学英语的两个方法",
+      "onboard_time": 1780146560,
+      "rank": 28,
+      "category": "互联网"
     },
     {
       "raw_hot": 148390,
@@ -281,14 +337,6 @@
       "onboard_time": 1780160718,
       "rank": 22,
       "category": "体育"
-    },
-    {
-      "raw_hot": 147021,
-      "num": 147021,
-      "word": "大爷协议娶小24岁女子2年便闹离婚",
-      "onboard_time": 1780144940,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 144582,
@@ -307,12 +355,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 133389,
-      "num": 133389,
-      "word": "用豆包免费学英语的两个方法",
-      "onboard_time": 1780146560,
-      "rank": 28,
-      "category": "互联网"
+      "raw_hot": 133407,
+      "num": 123331,
+      "word": "宋霄瑛子辟谣恋情",
+      "onboard_time": 1780159399,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 132293,
+      "num": 122488,
+      "word": "潘宥诚主页里都是虞书欣在帮他宣传",
+      "onboard_time": 1780150040,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 131679,
@@ -321,6 +377,14 @@
       "onboard_time": 1780150582,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 126134,
+      "num": 126134,
+      "word": "成龙求张杰以后别唱他的歌",
+      "onboard_time": 1780183396,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 115245,
@@ -355,6 +419,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 108792,
+      "num": 116153,
+      "word": "主角",
+      "onboard_time": 1780143260,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 104086,
       "num": 104086,
       "word": "邓超一开口梦回初代跑男",
@@ -387,6 +459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 97608,
+      "num": 121348,
+      "word": "窦靖童和李宇春撞歌",
+      "onboard_time": 1780183517,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 94641,
       "num": 113561,
       "word": "谢霆锋鸟巢顶级号召力",
@@ -411,14 +491,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 91806,
-      "num": 108136,
-      "word": "主角",
-      "onboard_time": 1780143260,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 88555,
       "num": 95951,
       "word": "神仙肉",
@@ -433,6 +505,22 @@
       "onboard_time": 1780152383,
       "rank": 42,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 81051,
+      "num": 112567,
+      "word": "鞠婧祎万花世界戏份超700场",
+      "onboard_time": 1780180817,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 79893,
+      "num": 111949,
+      "word": "世界杯",
+      "onboard_time": 1780182977,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 79534,
@@ -460,7 +548,7 @@
     },
     {
       "raw_hot": 76438,
-      "num": 99019,
+      "num": 104757,
       "word": "陈小春连怼导演四次",
       "onboard_time": 1780142300,
       "rank": 46,
@@ -481,6 +569,14 @@
       "onboard_time": 1780160418,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 67266,
+      "num": 109473,
+      "word": "时代峰峻否认穆祉丞恋情",
+      "onboard_time": 1780156760,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 65876,
@@ -507,12 +603,28 @@
       "category": "演出"
     },
     {
-      "raw_hot": 59046,
-      "num": 103514,
-      "word": "鞠婧祎万花世界戏份超700场",
-      "onboard_time": 1780180817,
-      "rank": 28,
-      "category": "剧集"
+      "raw_hot": 60971,
+      "num": 108799,
+      "word": "向太回应给阿嬷的情书爆火",
+      "onboard_time": 1780183036,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 60374,
+      "num": 108410,
+      "word": "列车因故障停隧道内3小时车内漆黑",
+      "onboard_time": 1780182555,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 59317,
+      "num": 121918,
+      "word": "14岁以下小朋友喜提3天小长假",
+      "onboard_time": 1780183877,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 55551,
@@ -523,12 +635,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 54937,
-      "num": 103336,
-      "word": "时代峰峻否认穆祉丞恋情",
-      "onboard_time": 1780156760,
-      "rank": 29,
-      "category": "艺人"
+      "raw_hot": 45256,
+      "num": 105278,
+      "word": "BIGBANG二十周年第一个纪念舞台",
+      "onboard_time": 1780182736,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 37874,
