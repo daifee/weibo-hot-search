@@ -1,0 +1,410 @@
+{
+  "runTime": 1780117744436,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1240989,
+        "num": 1240989,
+        "word": "宾利车内藏3千万财物小偷盗走30万",
+        "onboard_time": 1780108999,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 980324,
+        "num": 980324,
+        "word": "梁文峰对华为的态度",
+        "onboard_time": 1780112540,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 16411,
+        "num": 897564,
+        "word": "科技工作者一生坚守的赤诚心声",
+        "onboard_time": 1780108460,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1313160,
+        "num": 893680,
+        "word": "新加坡街头印度人多的吓人",
+        "onboard_time": 1780115780,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1072254,
+        "num": 881171,
+        "word": "白鹿背着李晨送的包",
+        "onboard_time": 1780115059,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 856323,
+        "num": 856323,
+        "word": "孟子义cue了李昀锐",
+        "onboard_time": 1780110799,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 664103,
+        "num": 664103,
+        "word": "榴莲仅退款事件商家已报警",
+        "onboard_time": 1780104620,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 628081,
+        "num": 628081,
+        "word": "性格软才是最大的bug",
+        "onboard_time": 1780108938,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 607244,
+        "num": 607244,
+        "word": "女子想买1斤荔枝一个操作收到100斤",
+        "onboard_time": 1780116199,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 450610,
+        "num": 450610,
+        "word": "新疆 祛湿气",
+        "onboard_time": 1780114940,
+        "rank": 9,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 2337672,
+        "num": 434078,
+        "word": "林沐然 本升专",
+        "onboard_time": 1780107379,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 940793,
+        "num": 414076,
+        "word": "高会泡泡",
+        "onboard_time": 1780116500,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 702267,
+        "num": 401454,
+        "word": "下周天考数学 可下周天是高考",
+        "onboard_time": 1780103179,
+        "rank": 12,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 665774,
+        "num": 393377,
+        "word": "窦靖童紧张到喊妈妈救命",
+        "onboard_time": 1780115780,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 510782,
+        "num": 357031,
+        "word": "白鹿替薛凯琪落水",
+        "onboard_time": 1780110079,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 355926,
+        "num": 355926,
+        "word": "湖南衡阳发生氢氟酸罐车泄漏事件",
+        "onboard_time": 1780112179,
+        "rank": 15,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 184658,
+        "num": 352973,
+        "word": "至今无人能破内马尔转会费",
+        "onboard_time": 1780115298,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 108885,
+        "num": 345577,
+        "word": "第五人格赛事",
+        "onboard_time": 1780115901,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 12159,
+        "num": 338666,
+        "word": "过户7年仍接到前机主欠款催收电话",
+        "onboard_time": 1780117341,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130027,
+        "num": 331335,
+        "word": "京东黄金手链92折",
+        "onboard_time": 1780114038,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 666472,
+        "num": 328000,
+        "word": "减肥第一名冬瓜苹果煮水",
+        "onboard_time": 1780113980,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 510433,
+        "num": 319860,
+        "word": "林沐然转学全面停止",
+        "onboard_time": 1780101859,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 370550,
+        "num": 311180,
+        "word": "浪姐四公小考",
+        "onboard_time": 1780116020,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 309152,
+        "num": 309152,
+        "word": "保时捷为避奥迪猛打方向盘撞向路人",
+        "onboard_time": 1780113140,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 290194,
+        "num": 290194,
+        "word": "魏如萱发长文",
+        "onboard_time": 1780102221,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 288003,
+        "num": 288003,
+        "word": "曾沛慈唐艺昕团危险团",
+        "onboard_time": 1780117099,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 254163,
+        "num": 254163,
+        "word": "多方回应女大学生被骗进戒网瘾学校",
+        "onboard_time": 1780103481,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 282243,
+        "num": 253522,
+        "word": "洪潇为虞书欣发声",
+        "onboard_time": 1780116319,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 233067,
+        "num": 233067,
+        "word": "浪姐",
+        "onboard_time": 1780117220,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121365,
+        "num": 222091,
+        "word": "黄仁勋谈华为新突破",
+        "onboard_time": 1780103899,
+        "rank": 29,
+        "category": "财经,互联网"
+      },
+      {
+        "raw_hot": 213135,
+        "num": 213135,
+        "word": "特斯拉满血版FSD体验",
+        "onboard_time": 1780114279,
+        "rank": 30,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 200264,
+        "num": 200264,
+        "word": "再见朋友综艺真要来了",
+        "onboard_time": 1780116859,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196602,
+        "num": 196602,
+        "word": "被呵斥幼童仅在飞机刚降落时不适哭泣",
+        "onboard_time": 1780114038,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 191486,
+        "num": 191486,
+        "word": "周六福足银手镯事件",
+        "onboard_time": 1780110679,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 180701,
+        "num": 180701,
+        "word": "饿着入睡对胃肠更好吗",
+        "onboard_time": 1780069162,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 174735,
+        "num": 174735,
+        "word": "虞书欣仍未取关潘宥诚",
+        "onboard_time": 1780096937,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167541,
+        "num": 167541,
+        "word": "6月狗屎运最旺的星座",
+        "onboard_time": 1780117640,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 164527,
+        "num": 164527,
+        "word": "男子当街殴打女子孩子交警果断出手",
+        "onboard_time": 1780113918,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 12119,
+        "num": 163886,
+        "word": "多方回应商丘一限高杆安装次日倒塌",
+        "onboard_time": 1780117280,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163319,
+        "num": 163319,
+        "word": "结石姐cue华晨宇",
+        "onboard_time": 1780110259,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160826,
+        "num": 160826,
+        "word": "刘亦菲彭冠英同款",
+        "onboard_time": 1780095617,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158392,
+        "num": 158392,
+        "word": "心脉受损的人一眼就可以看出来",
+        "onboard_time": 1780096819,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 141166,
+        "num": 141166,
+        "word": "当人在狗咖里摔倒的瞬间",
+        "onboard_time": 1780107799,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 132546,
+        "num": 132546,
+        "word": "歌手",
+        "onboard_time": 1780113800,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132099,
+        "num": 132099,
+        "word": "苏新皓疑似做了个网站",
+        "onboard_time": 1780102098,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37245,
+        "num": 131699,
+        "word": "工体15米装置",
+        "onboard_time": 1780117520,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131688,
+        "num": 131688,
+        "word": "误诊致流产女子大出血才知怀孕",
+        "onboard_time": 1780113260,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97050,
+        "num": 127875,
+        "word": "欧冠",
+        "onboard_time": 1780099097,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127323,
+        "num": 127323,
+        "word": "耀眼",
+        "onboard_time": 1780115658,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 90102,
+        "num": 123826,
+        "word": "第五人格",
+        "onboard_time": 1780114221,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#创新之道唯在得人#"
+    }
+  }
+}
