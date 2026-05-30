@@ -1,6 +1,6 @@
 {
   "startTime": 1779556240361,
-  "endTime": 1780149278062,
+  "endTime": 1780150471778,
   "band_list": [
     {
       "raw_hot": 15283499,
@@ -676,7 +676,7 @@
     },
     {
       "raw_hot": 1571934,
-      "num": 653427,
+      "num": 836696,
       "word": "麦当劳汉堡缩小比例",
       "onboard_time": 1780137559,
       "rank": 5,
@@ -708,7 +708,7 @@
     },
     {
       "raw_hot": 1514040,
-      "num": 487015,
+      "num": 645372,
       "word": "刘诗诗 从此不敢见观音",
       "onboard_time": 1780141399,
       "rank": 35,
@@ -1049,6 +1049,14 @@
       "onboard_time": 1779683602,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1285694,
+      "num": 1036230,
+      "word": "鸟巢偶遇王菲看谢霆锋演唱会",
+      "onboard_time": 1780148780,
+      "rank": 13,
+      "category": "演出"
     },
     {
       "raw_hot": 1281082,
@@ -1508,7 +1516,7 @@
     },
     {
       "raw_hot": 1069470,
-      "num": 666020,
+      "num": 1031435,
       "word": "牙齿和情绪的关系",
       "onboard_time": 1780146981,
       "rank": 3,
@@ -1771,6 +1779,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 945844,
+      "num": 945844,
+      "word": "徐志胜在桃花坞聊沈月王鹤棣",
+      "onboard_time": 1780138880,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 940793,
       "num": 414076,
       "word": "高会泡泡",
@@ -1828,7 +1844,7 @@
     },
     {
       "raw_hot": 922358,
-      "num": 603584,
+      "num": 650259,
       "word": "她家长真去找你你又不敢见",
       "onboard_time": 1780136660,
       "rank": 21,
@@ -1896,14 +1912,6 @@
       "word": "宝莲呼声",
       "onboard_time": 1779625162,
       "rank": 5,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 892411,
-      "num": 551178,
-      "word": "徐志胜在桃花坞聊沈月王鹤棣",
-      "onboard_time": 1780138880,
-      "rank": 12,
       "category": "综艺"
     },
     {
@@ -2180,7 +2188,7 @@
     },
     {
       "raw_hot": 818183,
-      "num": 480633,
+      "num": 798037,
       "word": "BLG对战WE",
       "onboard_time": 1780137979,
       "rank": 18,
@@ -3307,6 +3315,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 576134,
+      "num": 576134,
+      "word": "WE以下克上BLG",
+      "onboard_time": 1780149862,
+      "rank": 12,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 574977,
       "num": 1383904,
       "word": "李小冉翻跟头",
@@ -3481,6 +3497,14 @@
       "onboard_time": 1779914534,
       "rank": 0,
       "category": "电影"
+    },
+    {
+      "raw_hot": 544995,
+      "num": 360407,
+      "word": "花间令2.0",
+      "onboard_time": 1780149502,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 540183,
@@ -4075,14 +4099,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 458681,
-      "num": 458681,
-      "word": "鸟巢偶遇王菲看谢霆锋演唱会",
-      "onboard_time": 1780148780,
-      "rank": 13,
-      "category": "演出"
-    },
-    {
       "raw_hot": 458364,
       "num": 334170,
       "word": "戚薇李承铉儿子都这么大了",
@@ -4092,7 +4108,7 @@
     },
     {
       "raw_hot": 458214,
-      "num": 458214,
+      "num": 1059771,
       "word": "南开大学通报论文数据存疑问题",
       "onboard_time": 1780142240,
       "rank": 16,
@@ -6067,6 +6083,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 294537,
+      "num": 361212,
+      "word": "十二星座6月月运",
+      "onboard_time": 1780148362,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 294315,
       "num": 375588,
       "word": "91岁演员罗兰回应被TVB除名",
@@ -6787,6 +6811,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 263303,
+      "num": 406678,
+      "word": "苏超",
+      "onboard_time": 1780142240,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 262845,
       "num": 235383,
       "word": "刘诗诗 森中精灵",
@@ -6897,6 +6929,22 @@
       "onboard_time": 1779763460,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 258543,
+      "num": 258543,
+      "word": "潘宥诚主页里都是虞书欣在帮他宣传",
+      "onboard_time": 1780150040,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 258441,
+      "num": 258441,
+      "word": "台湾网红馆长撞脸三星堆文物",
+      "onboard_time": 1780145840,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 258059,
@@ -7251,14 +7299,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 241914,
-      "num": 406678,
-      "word": "苏超",
-      "onboard_time": 1780142240,
-      "rank": 21,
-      "category": "体育"
-    },
-    {
       "raw_hot": 241898,
       "num": 241898,
       "word": "陈都灵 翘楚",
@@ -7369,6 +7409,14 @@
       "onboard_time": 1779936499,
       "rank": 43,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 237415,
+      "num": 311997,
+      "word": "大爷协议娶小24岁女子2年便闹离婚",
+      "onboard_time": 1780144940,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 236929,
@@ -7513,6 +7561,14 @@
       "onboard_time": 1779619523,
       "rank": 9,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 232258,
+      "num": 458226,
+      "word": "朱一龙做瑜伽",
+      "onboard_time": 1780146321,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 231516,
@@ -7672,14 +7728,6 @@
       "word": "女子遭家暴被扔下土崖致死案将开庭",
       "onboard_time": 1779696022,
       "rank": 35,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 225755,
-      "num": 311997,
-      "word": "大爷协议娶小24岁女子2年便闹离婚",
-      "onboard_time": 1780144940,
-      "rank": 24,
       "category": "民生新闻"
     },
     {
@@ -7883,14 +7931,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 215798,
-      "num": 215798,
-      "word": "台湾网红馆长撞脸三星堆文物",
-      "onboard_time": 1780145840,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 214818,
       "num": 831989,
       "word": "香港航天员黎家盈",
@@ -8049,22 +8089,6 @@
       "onboard_time": 1779959060,
       "rank": 37,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 209978,
-      "num": 458226,
-      "word": "朱一龙做瑜伽",
-      "onboard_time": 1780146321,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 209427,
-      "num": 209427,
-      "word": "十二星座6月月运",
-      "onboard_time": 1780148362,
-      "rank": 32,
-      "category": "情感"
     },
     {
       "raw_hot": 209285,
@@ -8627,6 +8651,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 187049,
+      "num": 205119,
+      "word": "这样的衣服才配预售",
+      "onboard_time": 1780141222,
+      "rank": 37,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 186772,
       "num": 449818,
       "word": "漳州杨梅果农哽咽求助",
@@ -8827,6 +8859,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 178499,
+      "num": 178499,
+      "word": "14岁女孩和同学吵架后吞下3枚刀片",
+      "onboard_time": 1780147941,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 178493,
       "num": 178493,
       "word": "孟加拉国酷似特朗普水牛宰杀前得救",
@@ -8971,6 +9011,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 174324,
+      "num": 174324,
+      "word": "河智苑打歌舞台",
+      "onboard_time": 1780148121,
+      "rank": 39,
+      "category": "演出"
+    },
+    {
       "raw_hot": 174158,
       "num": 528233,
       "word": "杨紫机车服造型",
@@ -9075,14 +9123,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 171612,
-      "num": 171612,
-      "word": "这样的衣服才配预售",
-      "onboard_time": 1780141222,
-      "rank": 37,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 171344,
       "num": 171344,
       "word": "差点给近视眼吓哭了",
@@ -9153,14 +9193,6 @@
       "onboard_time": 1779910994,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 168356,
-      "num": 171855,
-      "word": "14岁女孩和同学吵架后吞下3枚刀片",
-      "onboard_time": 1780147941,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 168339,
@@ -9249,6 +9281,14 @@
       "onboard_time": 1780126878,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 165127,
+      "num": 165127,
+      "word": "家业",
+      "onboard_time": 1780147580,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 164858,
@@ -9345,14 +9385,6 @@
       "onboard_time": 1780016180,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 161411,
-      "num": 161411,
-      "word": "河智苑打歌舞台",
-      "onboard_time": 1780148121,
-      "rank": 39,
-      "category": "演出"
     },
     {
       "raw_hot": 161409,
@@ -9563,6 +9595,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 150822,
+      "num": 458219,
+      "word": "在京东买新手机省了2000",
+      "onboard_time": 1780146321,
+      "rank": 15,
+      "category": "数码"
+    },
+    {
       "raw_hot": 150786,
       "num": 412384,
       "word": "Jennie一顶帽子戴七年",
@@ -9601,14 +9641,6 @@
       "onboard_time": 1779930741,
       "rank": 42,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 148530,
-      "num": 458219,
-      "word": "在京东买新手机省了2000",
-      "onboard_time": 1780146321,
-      "rank": 15,
-      "category": "数码"
     },
     {
       "raw_hot": 148200,
@@ -9657,6 +9689,14 @@
       "onboard_time": 1780122320,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 145537,
+      "num": 167768,
+      "word": "毛毛 我不是管泽元",
+      "onboard_time": 1780149382,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 145509,
@@ -9819,6 +9859,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 142199,
+      "num": 142199,
+      "word": "Monki偷家",
+      "onboard_time": 1780150222,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 141978,
       "num": 336408,
       "word": "秦娥偷偷举荐楚嘉禾当角",
@@ -9897,14 +9945,6 @@
       "onboard_time": 1780096877,
       "rank": 31,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 135343,
-      "num": 135343,
-      "word": "家业",
-      "onboard_time": 1780147580,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 134692,
@@ -10099,6 +10139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 129062,
+      "num": 129062,
+      "word": "WE战胜BLG",
+      "onboard_time": 1780149862,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 128978,
       "num": 249773,
       "word": "浪姐握手会",
@@ -10275,12 +10323,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 122603,
+      "num": 133186,
+      "word": "买重疾险确诊脑瘤没钱做手术遭拒赔",
+      "onboard_time": 1780142480,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 122004,
       "num": 448099,
       "word": "京东明星红包",
       "onboard_time": 1779681803,
       "rank": 16,
       "category": "艺人,互联网"
+    },
+    {
+      "raw_hot": 121530,
+      "num": 129388,
+      "word": "多所高校撤销外语学院",
+      "onboard_time": 1780149920,
+      "rank": 48,
+      "category": "教育"
     },
     {
       "raw_hot": 121402,
@@ -11385,6 +11449,14 @@
       "onboard_time": 1779685043,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 78698,
+      "num": 137876,
+      "word": "光模块一哥中际旭创严正声明",
+      "onboard_time": 1780149321,
+      "rank": 45,
+      "category": "财经,互联网"
     },
     {
       "raw_hot": 78623,
@@ -13459,6 +13531,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 19414,
+      "num": 1036787,
+      "word": "在上海找到创作主场",
+      "onboard_time": 1780143260,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 19316,
       "num": 171291,
       "word": "外卖新规带来餐饮业合规大洗牌",
@@ -13657,14 +13737,6 @@
       "onboard_time": 1779684982,
       "rank": 21,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 12941,
-      "num": 691657,
-      "word": "在上海找到创作主场",
-      "onboard_time": 1780143260,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 12869,
