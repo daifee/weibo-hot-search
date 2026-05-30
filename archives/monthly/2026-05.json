@@ -1,6 +1,6 @@
 {
   "startTime": 1777565126834,
-  "endTime": 1780142013096,
+  "endTime": 1780149278062,
   "band_list": [
     {
       "raw_hot": 28198949,
@@ -3100,7 +3100,7 @@
     },
     {
       "raw_hot": 1571934,
-      "num": 594927,
+      "num": 653427,
       "word": "麦当劳汉堡缩小比例",
       "onboard_time": 1780137559,
       "rank": 5,
@@ -3289,6 +3289,14 @@
       "onboard_time": 1778395401,
       "rank": 11,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1514040,
+      "num": 487015,
+      "word": "刘诗诗 从此不敢见观音",
+      "onboard_time": 1780141399,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 1504723,
@@ -5091,6 +5099,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1120759,
+      "num": 1179321,
+      "word": "中山大学通报论文学术不端",
+      "onboard_time": 1780143981,
+      "rank": 0,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 1119707,
       "num": 1119707,
       "word": "王暖暖控诉无忧传媒",
@@ -5579,12 +5595,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1070161,
+      "num": 421375,
+      "word": "王嘉尔出发参加何猷君奚梦瑶婚礼",
+      "onboard_time": 1780145721,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1069871,
       "num": 406314,
       "word": "起个日本名一听就是天津人",
       "onboard_time": 1779003742,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1069470,
+      "num": 666020,
+      "word": "牙齿和情绪的关系",
+      "onboard_time": 1780146981,
+      "rank": 3,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 1069047,
@@ -6867,6 +6899,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 922358,
+      "num": 603584,
+      "word": "她家长真去找你你又不敢见",
+      "onboard_time": 1780136660,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 921815,
       "num": 2263947,
       "word": "女子搭网约车强抢方向盘酿车祸",
@@ -7161,6 +7201,14 @@
       "onboard_time": 1777701022,
       "rank": 1,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 892411,
+      "num": 551178,
+      "word": "徐志胜在桃花坞聊沈月王鹤棣",
+      "onboard_time": 1780138880,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 892225,
@@ -7481,6 +7529,14 @@
       "onboard_time": 1778043142,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 869695,
+      "num": 881978,
+      "word": "你好星期六",
+      "onboard_time": 1777726882,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 869647,
@@ -7835,14 +7891,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 839248,
-      "num": 494888,
-      "word": "徐志胜在桃花坞聊沈月王鹤棣",
-      "onboard_time": 1780138880,
-      "rank": 12,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 839212,
       "num": 629375,
       "word": "给阿嬷的情书票房破十亿",
@@ -8177,6 +8225,14 @@
       "onboard_time": 1778920640,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 818183,
+      "num": 480633,
+      "word": "BLG对战WE",
+      "onboard_time": 1780137979,
+      "rank": 18,
+      "category": "电竞"
     },
     {
       "raw_hot": 818005,
@@ -15307,14 +15363,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 496747,
-      "num": 496747,
-      "word": "她家长真去找你你又不敢见",
-      "onboard_time": 1780136660,
-      "rank": 21,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 496615,
       "num": 511705,
       "word": "曾沛慈非常不满意自己的表现",
@@ -16755,6 +16803,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 458681,
+      "num": 458681,
+      "word": "鸟巢偶遇王菲看谢霆锋演唱会",
+      "onboard_time": 1780148780,
+      "rank": 13,
+      "category": "演出"
+    },
+    {
       "raw_hot": 458389,
       "num": 254841,
       "word": "监狱来的妈妈女主多平台账号被禁",
@@ -16769,6 +16825,14 @@
       "onboard_time": 1779963801,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 458214,
+      "num": 458214,
+      "word": "南开大学通报论文数据存疑问题",
+      "onboard_time": 1780142240,
+      "rank": 16,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 458198,
@@ -17915,6 +17979,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 426494,
+      "num": 426494,
+      "word": "攻玉",
+      "onboard_time": 1780142360,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 426196,
       "num": 262341,
       "word": "丈夫抱了一下妻子抗拒到呕吐",
@@ -18811,6 +18883,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 404743,
+      "num": 404743,
+      "word": "念相思开机",
+      "onboard_time": 1780141458,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 404730,
       "num": 404730,
       "word": "顶车救人女司机获赠现场捐新车",
@@ -18889,6 +18969,14 @@
       "onboard_time": 1778730563,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 402786,
+      "num": 402786,
+      "word": "谢霆锋演唱会",
+      "onboard_time": 1780145479,
+      "rank": 23,
+      "category": "演出"
     },
     {
       "raw_hot": 402678,
@@ -25619,6 +25707,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 287521,
+      "num": 287521,
+      "word": "宋亚轩智性恋要被迷晕了",
+      "onboard_time": 1780148240,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 287494,
       "num": 287494,
       "word": "嫁金钗预告",
@@ -27435,6 +27531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 265071,
+      "num": 780838,
+      "word": "张雪机车阿拉贡站第8",
+      "onboard_time": 1780140800,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 265057,
       "num": 288375,
       "word": "626聊天记录",
@@ -27681,14 +27785,6 @@
       "onboard_time": 1779620361,
       "rank": 8,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 262242,
-      "num": 262242,
-      "word": "念相思开机",
-      "onboard_time": 1780141458,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 262131,
@@ -29835,14 +29931,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 240281,
-      "num": 396529,
-      "word": "你好星期六",
-      "onboard_time": 1777726882,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 240251,
       "num": 346137,
       "word": "英伟达Q1净利润583亿美元",
@@ -30401,14 +30489,6 @@
       "onboard_time": 1777814361,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 235678,
-      "num": 780838,
-      "word": "张雪机车阿拉贡站第8",
-      "onboard_time": 1780140800,
-      "rank": 1,
-      "category": "体育"
     },
     {
       "raw_hot": 235663,
@@ -31457,6 +31537,14 @@
       "onboard_time": 1778982500,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 225755,
+      "num": 311997,
+      "word": "大爷协议娶小24岁女子2年便闹离婚",
+      "onboard_time": 1780144940,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 225728,
@@ -32515,6 +32603,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 215798,
+      "num": 215798,
+      "word": "台湾网红馆长撞脸三星堆文物",
+      "onboard_time": 1780145840,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 215787,
       "num": 241069,
       "word": "此狗睡商极高",
@@ -33227,6 +33323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 209978,
+      "num": 458226,
+      "word": "朱一龙做瑜伽",
+      "onboard_time": 1780146321,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 209932,
       "num": 209932,
       "word": "刘晓庆感谢卓伟",
@@ -33281,6 +33385,14 @@
       "onboard_time": 1778219780,
       "rank": 36,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 209427,
+      "num": 209427,
+      "word": "十二星座6月月运",
+      "onboard_time": 1780148362,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 209370,
@@ -36699,14 +36811,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 181494,
-      "num": 181494,
-      "word": "刘诗诗 从此不敢见观音",
-      "onboard_time": 1780141399,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 181478,
       "num": 445615,
       "word": "浪姐歌手对打",
@@ -37288,6 +37392,14 @@
       "word": "张凌赫穿上田曦薇同款了",
       "onboard_time": 1777982121,
       "rank": 46,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 177311,
+      "num": 177311,
+      "word": "刘宇宁粉丝今天将住在微博",
+      "onboard_time": 1780147700,
+      "rank": 35,
       "category": "艺人"
     },
     {
@@ -38291,6 +38403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 171612,
+      "num": 171612,
+      "word": "这样的衣服才配预售",
+      "onboard_time": 1780141222,
+      "rank": 37,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 171533,
       "num": 171533,
       "word": "不少车主感叹停车位缩水",
@@ -38627,6 +38747,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 169441,
+      "num": 169441,
+      "word": "陈小春连怼导演四次",
+      "onboard_time": 1780142300,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 169381,
       "num": 435025,
       "word": "姆巴佩曝自己在皇马被排成第四前锋",
@@ -38745,6 +38873,14 @@
       "onboard_time": 1778556502,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 168356,
+      "num": 171855,
+      "word": "14岁女孩和同学吵架后吞下3枚刀片",
+      "onboard_time": 1780147941,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 168345,
@@ -39657,6 +39793,14 @@
       "onboard_time": 1777634839,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 161411,
+      "num": 161411,
+      "word": "河智苑打歌舞台",
+      "onboard_time": 1780148121,
+      "rank": 39,
+      "category": "演出"
     },
     {
       "raw_hot": 161409,
@@ -41371,6 +41515,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 148530,
+      "num": 458219,
+      "word": "在京东买新手机省了2000",
+      "onboard_time": 1780146321,
+      "rank": 15,
+      "category": "数码"
+    },
+    {
       "raw_hot": 148406,
       "num": 148406,
       "word": "刘雨昕个人捐款100万",
@@ -41937,6 +42089,14 @@
       "onboard_time": 1778832921,
       "rank": 45,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 143440,
+      "num": 143440,
+      "word": "外甥一声吼舅舅直接CPU烧了",
+      "onboard_time": 1780142900,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 143412,
@@ -44113,6 +44273,14 @@
       "onboard_time": 1777826299,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 127650,
+      "num": 136209,
+      "word": "T1对战BFX",
+      "onboard_time": 1780149024,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 127646,
@@ -46697,14 +46865,6 @@
       "onboard_time": 1778628319,
       "rank": 42,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 105936,
-      "num": 480633,
-      "word": "BLG对战WE",
-      "onboard_time": 1780137979,
-      "rank": 18,
-      "category": "电竞"
     },
     {
       "raw_hot": 105764,
@@ -50225,6 +50385,14 @@
       "onboard_time": 1779371540,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 71764,
+      "num": 135740,
+      "word": "美芯片股再度爆发",
+      "onboard_time": 1780145360,
+      "rank": 46,
+      "category": "财经,互联网"
     },
     {
       "raw_hot": 71483,
@@ -56907,6 +57075,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 25660,
+      "num": 179120,
+      "word": "拍Live图到底哪家最清楚",
+      "onboard_time": 1780146260,
+      "rank": 34,
+      "category": "数码"
+    },
+    {
       "raw_hot": 25568,
       "num": 71714,
       "word": "克罗地亚世界杯33人名单",
@@ -58659,6 +58835,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 12941,
+      "num": 691657,
+      "word": "在上海找到创作主场",
+      "onboard_time": 1780143260,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 12869,
       "num": 101999,
       "word": "LGD确认晋级淘汰赛",
@@ -59797,6 +59981,9 @@
     },
     {
       "word": "#创新中国的硬核底气#"
+    },
+    {
+      "word": "#我国广大科技工作者是大有作为的#"
     }
   ]
 }

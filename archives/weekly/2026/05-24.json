@@ -1,6 +1,6 @@
 {
   "startTime": 1779556240361,
-  "endTime": 1780142013096,
+  "endTime": 1780149278062,
   "band_list": [
     {
       "raw_hot": 15283499,
@@ -676,7 +676,7 @@
     },
     {
       "raw_hot": 1571934,
-      "num": 594927,
+      "num": 653427,
       "word": "麦当劳汉堡缩小比例",
       "onboard_time": 1780137559,
       "rank": 5,
@@ -705,6 +705,14 @@
       "onboard_time": 1780134318,
       "rank": 10,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1514040,
+      "num": 487015,
+      "word": "刘诗诗 从此不敢见观音",
+      "onboard_time": 1780141399,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 1499049,
@@ -1347,6 +1355,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1120759,
+      "num": 1179321,
+      "word": "中山大学通报论文学术不端",
+      "onboard_time": 1780143981,
+      "rank": 0,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 1115090,
       "num": 823732,
       "word": "央视新闻祝肖战此战大捷",
@@ -1481,6 +1497,22 @@
       "onboard_time": 1780024760,
       "rank": 3,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1070161,
+      "num": 421375,
+      "word": "王嘉尔出发参加何猷君奚梦瑶婚礼",
+      "onboard_time": 1780145721,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1069470,
+      "num": 666020,
+      "word": "牙齿和情绪的关系",
+      "onboard_time": 1780146981,
+      "rank": 3,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 1046367,
@@ -1795,6 +1827,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 922358,
+      "num": 603584,
+      "word": "她家长真去找你你又不敢见",
+      "onboard_time": 1780136660,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 918419,
       "num": 918419,
       "word": "陈瑶晒和张月合照",
@@ -1856,6 +1896,14 @@
       "word": "宝莲呼声",
       "onboard_time": 1779625162,
       "rank": 5,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 892411,
+      "num": 551178,
+      "word": "徐志胜在桃花坞聊沈月王鹤棣",
+      "onboard_time": 1780138880,
+      "rank": 12,
       "category": "综艺"
     },
     {
@@ -1963,6 +2011,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 869695,
+      "num": 881978,
+      "word": "你好星期六",
+      "onboard_time": 1780143740,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 868663,
       "num": 948986,
       "word": "中国航天员第8次太空会师",
@@ -2040,14 +2096,6 @@
       "word": "曝魏如萱问吴泽林你今天舒服吗",
       "onboard_time": 1780022839,
       "rank": 4,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 839248,
-      "num": 494888,
-      "word": "徐志胜在桃花坞聊沈月王鹤棣",
-      "onboard_time": 1780138880,
-      "rank": 12,
       "category": "综艺"
     },
     {
@@ -2129,6 +2177,14 @@
       "onboard_time": 1780041680,
       "rank": 8,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 818183,
+      "num": 480633,
+      "word": "BLG对战WE",
+      "onboard_time": 1780137979,
+      "rank": 18,
+      "category": "电竞"
     },
     {
       "raw_hot": 817921,
@@ -3699,14 +3755,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 496747,
-      "num": 496747,
-      "word": "她家长真去找你你又不敢见",
-      "onboard_time": 1780136660,
-      "rank": 21,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 496400,
       "num": 655482,
       "word": "25岁小伙恋32岁女老板因88万彩礼分手",
@@ -4027,12 +4075,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 458681,
+      "num": 458681,
+      "word": "鸟巢偶遇王菲看谢霆锋演唱会",
+      "onboard_time": 1780148780,
+      "rank": 13,
+      "category": "演出"
+    },
+    {
       "raw_hot": 458364,
       "num": 334170,
       "word": "戚薇李承铉儿子都这么大了",
       "onboard_time": 1779963801,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 458214,
+      "num": 458214,
+      "word": "南开大学通报论文数据存疑问题",
+      "onboard_time": 1780142240,
+      "rank": 16,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 457923,
@@ -4297,6 +4361,14 @@
       "onboard_time": 1779810381,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 426494,
+      "num": 426494,
+      "word": "攻玉",
+      "onboard_time": 1780142360,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 426196,
@@ -4593,6 +4665,22 @@
       "onboard_time": 1779797961,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 404743,
+      "num": 404743,
+      "word": "念相思开机",
+      "onboard_time": 1780141458,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 402786,
+      "num": 402786,
+      "word": "谢霆锋演唱会",
+      "onboard_time": 1780145479,
+      "rank": 23,
+      "category": "演出"
     },
     {
       "raw_hot": 402678,
@@ -6083,6 +6171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 287521,
+      "num": 287521,
+      "word": "宋亚轩智性恋要被迷晕了",
+      "onboard_time": 1780148240,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 287141,
       "num": 287141,
       "word": "关志鸥任湖北省委书记",
@@ -6129,6 +6225,14 @@
       "onboard_time": 1779967641,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 283561,
+      "num": 492931,
+      "word": "主角",
+      "onboard_time": 1779621021,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 283472,
@@ -6539,14 +6643,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 268592,
-      "num": 492931,
-      "word": "主角",
-      "onboard_time": 1779621021,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 268293,
       "num": 554481,
       "word": "杨紫李祯观音造型来了",
@@ -6635,6 +6731,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 265071,
+      "num": 780838,
+      "word": "张雪机车阿拉贡站第8",
+      "onboard_time": 1780140800,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 264995,
       "num": 264995,
       "word": "鞠婧祎对接回应万花世界争议",
@@ -6705,14 +6809,6 @@
       "onboard_time": 1779620361,
       "rank": 8,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 262242,
-      "num": 262242,
-      "word": "念相思开机",
-      "onboard_time": 1780141458,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 262131,
@@ -7155,6 +7251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 241914,
+      "num": 406678,
+      "word": "苏超",
+      "onboard_time": 1780142240,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 241898,
       "num": 241898,
       "word": "陈都灵 翘楚",
@@ -7297,14 +7401,6 @@
       "onboard_time": 1779956000,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 235678,
-      "num": 780838,
-      "word": "张雪机车阿拉贡站第8",
-      "onboard_time": 1780140800,
-      "rank": 1,
-      "category": "体育"
     },
     {
       "raw_hot": 235659,
@@ -7579,6 +7675,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 225755,
+      "num": 311997,
+      "word": "大爷协议娶小24岁女子2年便闹离婚",
+      "onboard_time": 1780144940,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 225542,
       "num": 597175,
       "word": "黄仁勋加入清华大学顾问委员会",
@@ -7779,6 +7883,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 215798,
+      "num": 215798,
+      "word": "台湾网红馆长撞脸三星堆文物",
+      "onboard_time": 1780145840,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 214818,
       "num": 831989,
       "word": "香港航天员黎家盈",
@@ -7937,6 +8049,22 @@
       "onboard_time": 1779959060,
       "rank": 37,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 209978,
+      "num": 458226,
+      "word": "朱一龙做瑜伽",
+      "onboard_time": 1780146321,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 209427,
+      "num": 209427,
+      "word": "十二星座6月月运",
+      "onboard_time": 1780148362,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 209285,
@@ -8635,14 +8763,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 181494,
-      "num": 181494,
-      "word": "刘诗诗 从此不敢见观音",
-      "onboard_time": 1780141399,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 181251,
       "num": 466845,
       "word": "周深实体专辑销售额破5000万",
@@ -8753,6 +8873,14 @@
       "onboard_time": 1780110259,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 177311,
+      "num": 177311,
+      "word": "刘宇宁粉丝今天将住在微博",
+      "onboard_time": 1780147700,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 177186,
@@ -8947,6 +9075,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 171612,
+      "num": 171612,
+      "word": "这样的衣服才配预售",
+      "onboard_time": 1780141222,
+      "rank": 37,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 171344,
       "num": 171344,
       "word": "差点给近视眼吓哭了",
@@ -8995,12 +9131,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 169441,
+      "num": 169441,
+      "word": "陈小春连怼导演四次",
+      "onboard_time": 1780142300,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 169226,
       "num": 161154,
       "word": "你好星期六没有不出片的义务",
       "onboard_time": 1780113320,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 168605,
+      "num": 142840,
+      "word": "国乐无双",
+      "onboard_time": 1779910994,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 168356,
+      "num": 171855,
+      "word": "14岁女孩和同学吵架后吞下3枚刀片",
+      "onboard_time": 1780147941,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 168339,
@@ -9185,6 +9345,14 @@
       "onboard_time": 1780016180,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 161411,
+      "num": 161411,
+      "word": "河智苑打歌舞台",
+      "onboard_time": 1780148121,
+      "rank": 39,
+      "category": "演出"
     },
     {
       "raw_hot": 161409,
@@ -9435,6 +9603,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 148530,
+      "num": 458219,
+      "word": "在京东买新手机省了2000",
+      "onboard_time": 1780146321,
+      "rank": 15,
+      "category": "数码"
+    },
+    {
       "raw_hot": 148200,
       "num": 449572,
       "word": "孙颖莎下一站清华",
@@ -9553,6 +9729,14 @@
       "onboard_time": 1780012400,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 143440,
+      "num": 143440,
+      "word": "外甥一声吼舅舅直接CPU烧了",
+      "onboard_time": 1780142900,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 143412,
@@ -9713,6 +9897,14 @@
       "onboard_time": 1780096877,
       "rank": 31,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 135343,
+      "num": 135343,
+      "word": "家业",
+      "onboard_time": 1780147580,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 134692,
@@ -9945,6 +10137,14 @@
       "onboard_time": 1780096819,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 127650,
+      "num": 136209,
+      "word": "T1对战BFX",
+      "onboard_time": 1780149024,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 127448,
@@ -10489,14 +10689,6 @@
       "onboard_time": 1779844940,
       "rank": 7,
       "category": "体育"
-    },
-    {
-      "raw_hot": 105936,
-      "num": 480633,
-      "word": "BLG对战WE",
-      "onboard_time": 1780137979,
-      "rank": 18,
-      "category": "电竞"
     },
     {
       "raw_hot": 105384,
@@ -11417,6 +11609,14 @@
       "onboard_time": 1780132580,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 71764,
+      "num": 135740,
+      "word": "美芯片股再度爆发",
+      "onboard_time": 1780145360,
+      "rank": 46,
+      "category": "财经,互联网"
     },
     {
       "raw_hot": 71111,
@@ -13099,6 +13299,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 25660,
+      "num": 179120,
+      "word": "拍Live图到底哪家最清楚",
+      "onboard_time": 1780146260,
+      "rank": 34,
+      "category": "数码"
+    },
+    {
       "raw_hot": 25451,
       "num": 58754,
       "word": "周鸿祎谈华为韬定律刷屏",
@@ -13283,14 +13491,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 18804,
-      "num": 24362,
-      "word": "国乐无双",
-      "onboard_time": 1779910994,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 18700,
       "num": 153039,
       "word": "上海男篮总决赛开门红",
@@ -13457,6 +13657,14 @@
       "onboard_time": 1779684982,
       "rank": 21,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 12941,
+      "num": 691657,
+      "word": "在上海找到创作主场",
+      "onboard_time": 1780143260,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 12869,
@@ -13671,6 +13879,9 @@
     },
     {
       "word": "#创新中国的硬核底气#"
+    },
+    {
+      "word": "#我国广大科技工作者是大有作为的#"
     }
   ]
 }
