@@ -1,6 +1,6 @@
 {
   "startTime": 1780073379989,
-  "endTime": 1780124057026,
+  "endTime": 1780128240304,
   "band_list": [
     {
       "raw_hot": 5755002,
@@ -51,6 +51,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1689595,
+      "num": 780252,
+      "word": "住东北就别熬夜了",
+      "onboard_time": 1780124959,
+      "rank": 3,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1383979,
       "num": 382350,
       "word": "多名幼儿园小朋友被老师用热熔胶烫伤",
@@ -81,6 +89,14 @@
       "onboard_time": 1780095617,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1145933,
+      "num": 1183349,
+      "word": "生命树被标注白玉兰奖",
+      "onboard_time": 1780120941,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 1140760,
@@ -147,19 +163,19 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 965962,
-      "num": 965962,
-      "word": "生命树被标注白玉兰奖",
-      "onboard_time": 1780120941,
-      "rank": 3,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 940793,
       "num": 414076,
       "word": "高会泡泡",
       "onboard_time": 1780116500,
       "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 908714,
+      "num": 348370,
+      "word": "曝唐嫣罗晋经常一起参加女儿活动",
+      "onboard_time": 1780121482,
+      "rank": 12,
       "category": "艺人"
     },
     {
@@ -171,12 +187,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 853188,
-      "num": 348370,
-      "word": "曝唐嫣罗晋经常一起参加女儿活动",
-      "onboard_time": 1780121482,
-      "rank": 12,
-      "category": "艺人"
+      "raw_hot": 873269,
+      "num": 779358,
+      "word": "微信几乎把每个人捆绑在线上",
+      "onboard_time": 1780126579,
+      "rank": 4,
+      "category": "互联网"
     },
     {
       "raw_hot": 835690,
@@ -211,6 +227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 778005,
+      "num": 778005,
+      "word": "六一表演小朋友失误却意外出彩",
+      "onboard_time": 1780123220,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 775663,
       "num": 400522,
       "word": "许我耀眼 现实版",
@@ -243,6 +267,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 706296,
+      "num": 706296,
+      "word": "再见朋友综艺真要来了",
+      "onboard_time": 1780116859,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 702267,
       "num": 401454,
       "word": "下周天考数学 可下周天是高考",
@@ -267,6 +299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 659737,
+      "num": 659737,
+      "word": "新加坡街头印度人多得吓人",
+      "onboard_time": 1780115780,
+      "rank": 7,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 638505,
       "num": 248626,
       "word": "虞书欣仍未取关潘宥诚",
@@ -289,14 +329,6 @@
       "onboard_time": 1780108938,
       "rank": 4,
       "category": "情感"
-    },
-    {
-      "raw_hot": 619260,
-      "num": 267646,
-      "word": "再见朋友综艺真要来了",
-      "onboard_time": 1780116859,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 583749,
@@ -411,6 +443,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 473310,
+      "num": 252178,
+      "word": "时代峰峻高会泡泡工作人员代聊",
+      "onboard_time": 1780122920,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 462008,
       "num": 387362,
       "word": "白鹿回复于正于老师",
@@ -433,6 +473,14 @@
       "onboard_time": 1780064486,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 432342,
+      "num": 250972,
+      "word": "判断饿的最好方法",
+      "onboard_time": 1780124599,
+      "rank": 15,
+      "category": "情感"
     },
     {
       "raw_hot": 411550,
@@ -556,7 +604,7 @@
     },
     {
       "raw_hot": 300958,
-      "num": 229503,
+      "num": 230063,
       "word": "杨紫回应网友开始理解邱莹莹了",
       "onboard_time": 1780118900,
       "rank": 30,
@@ -572,7 +620,7 @@
     },
     {
       "raw_hot": 297512,
-      "num": 229219,
+      "num": 249435,
       "word": "Jasper要去英国读书了",
       "onboard_time": 1780120581,
       "rank": 31,
@@ -627,6 +675,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 264376,
+      "num": 249438,
+      "word": "鹿晗名字被用鹿角代替",
+      "onboard_time": 1780126160,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 260769,
       "num": 244935,
       "word": "爱上窦靖童是人之常情",
@@ -657,6 +713,14 @@
       "onboard_time": 1780110679,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 245308,
+      "num": 245308,
+      "word": "万花世界",
+      "onboard_time": 1780127958,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 243990,
@@ -699,6 +763,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 230439,
+      "num": 249456,
+      "word": "获Offer后辞职入职前岗位被取消",
+      "onboard_time": 1780124119,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 228044,
       "num": 404468,
       "word": "VOGUE审美",
@@ -708,7 +780,7 @@
     },
     {
       "raw_hot": 226601,
-      "num": 226601,
+      "num": 249440,
       "word": "豆包压缩证件照有多离谱",
       "onboard_time": 1780119080,
       "rank": 32,
@@ -721,6 +793,14 @@
       "onboard_time": 1780122199,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 216812,
+      "num": 249449,
+      "word": "果农称一些荔枝刚摘下果肉就是白色",
+      "onboard_time": 1780126340,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 213239,
@@ -835,14 +915,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 170769,
-      "num": 219966,
-      "word": "六一表演小朋友失误却意外出彩",
-      "onboard_time": 1780123220,
-      "rank": 35,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 169226,
       "num": 161154,
       "word": "你好星期六没有不出片的义务",
@@ -857,6 +929,14 @@
       "onboard_time": 1780060942,
       "rank": 32,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 165325,
+      "num": 165325,
+      "word": "TF四代泡泡回复",
+      "onboard_time": 1780126878,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 164527,
@@ -899,12 +979,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 154878,
-      "num": 154878,
-      "word": "时代峰峻高会泡泡工作人员代聊",
-      "onboard_time": 1780122920,
-      "rank": 45,
-      "category": "艺人"
+      "raw_hot": 155651,
+      "num": 155651,
+      "word": "林宥嘉感谢魏如萱唱心酸",
+      "onboard_time": 1780128200,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 145940,
@@ -929,6 +1009,14 @@
       "onboard_time": 1780111700,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 142766,
+      "num": 232942,
+      "word": "张雪拿下宁德时代大单",
+      "onboard_time": 1780125858,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 142638,
@@ -963,12 +1051,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 133550,
+      "num": 170698,
+      "word": "会所老板诈骗7亿潜逃奢靡生活曝光",
+      "onboard_time": 1780127239,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 132546,
       "num": 132546,
       "word": "歌手",
       "onboard_time": 1780113800,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 130959,
+      "num": 154530,
+      "word": "一位高中班主任说补课的内幕",
+      "onboard_time": 1780127838,
+      "rank": 48,
+      "category": "教育"
     },
     {
       "raw_hot": 130801,
@@ -1099,6 +1203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 91957,
+      "num": 249452,
+      "word": "特朗普名字被判从肯尼迪中心移除",
+      "onboard_time": 1780123940,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 91884,
       "num": 390203,
       "word": "发货YES到手YSL",
@@ -1115,6 +1227,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 89736,
+      "num": 251694,
+      "word": "王源夏日歌会连唱5首",
+      "onboard_time": 1780125439,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 82482,
       "num": 311751,
       "word": "12345回应市民要求干预闷热天气",
@@ -1129,14 +1249,6 @@
       "onboard_time": 1780072158,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 74834,
-      "num": 144189,
-      "word": "特朗普名字被判从肯尼迪中心移除",
-      "onboard_time": 1780123940,
-      "rank": 47,
-      "category": "国际时政"
     },
     {
       "raw_hot": 73461,
@@ -1187,6 +1299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 62768,
+      "num": 249450,
+      "word": "体坛周报一员工发表不当言论被停职",
+      "onboard_time": 1780125858,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 59736,
       "num": 150026,
       "word": "李小冉去歌手能进前三",
@@ -1216,6 +1336,14 @@
       "word": "神22飞船返回舱着陆",
       "onboard_time": 1780057402,
       "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 56307,
+      "num": 249470,
+      "word": "D1804次列车被困隧道内超2小时",
+      "onboard_time": 1780127719,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -1283,6 +1411,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 49507,
+      "num": 249441,
+      "word": "遭仅退款榴莲商家起诉买家获立案",
+      "onboard_time": 1780128140,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 46188,
       "num": 149882,
       "word": "VOGUE红毯直播",
@@ -1345,6 +1481,14 @@
       "onboard_time": 1780060582,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 36545,
+      "num": 154515,
+      "word": "张雪机车继续冲击冠军",
+      "onboard_time": 1780118478,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 30763,
@@ -1435,12 +1579,36 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 9947,
+      "num": 154585,
+      "word": "王天辰红包惊喜空降",
+      "onboard_time": 1780124899,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 8107,
       "num": 179521,
       "word": "海南一医院多台空调外机装室内引争议",
       "onboard_time": 1780123940,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2625,
+      "num": 239751,
+      "word": "李昀锐向此沙介绍关晓彤",
+      "onboard_time": 1780128079,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 2224,
+      "num": 234569,
+      "word": "陈靖可直播男友视角选口红",
+      "onboard_time": 1780127780,
+      "rank": 40,
+      "category": "艺人"
     }
   ],
   "hotgov_list": [
