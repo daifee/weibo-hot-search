@@ -1,0 +1,410 @@
+{
+  "runTime": 1780263207760,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 443448,
+        "num": 443448,
+        "word": "天涯神帖",
+        "onboard_time": 1780234221,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 133056,
+        "num": 159093,
+        "word": "日本拥抱印度",
+        "onboard_time": 1780232540,
+        "rank": 1,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 5379,
+        "num": 124592,
+        "word": "城事日记津彩有你",
+        "onboard_time": 1780232241,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 75756,
+        "num": 75756,
+        "word": "窦骁 咱娥今天可太美啦",
+        "onboard_time": 1780244719,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 66436,
+        "num": 66436,
+        "word": "央视曝光劣质驱蚊产品",
+        "onboard_time": 1780239681,
+        "rank": 4,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 66365,
+        "num": 66365,
+        "word": "樊振东德甲夺冠",
+        "onboard_time": 1780237342,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 66147,
+        "num": 66147,
+        "word": "天涯社区曾2次重启失败",
+        "onboard_time": 1780246818,
+        "rank": 6,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 54415,
+        "num": 54415,
+        "word": "电视剧耀眼",
+        "onboard_time": 1780257433,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 45365,
+        "num": 45365,
+        "word": "新疆人未来一个月菜品",
+        "onboard_time": 1780229600,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 37517,
+        "num": 37517,
+        "word": "天涯社区将正式恢复访问",
+        "onboard_time": 1780227741,
+        "rank": 9,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 96034,
+        "num": 37461,
+        "word": "网红边牧锄头主人拒绝和解",
+        "onboard_time": 1780246818,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89736,
+        "num": 37039,
+        "word": "哈尔滨沙尘暴黑墙2分钟吞没居民楼",
+        "onboard_time": 1780238360,
+        "rank": 11,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 66065,
+        "num": 36172,
+        "word": "多名艺人辞演后特朗普决定自己上台",
+        "onboard_time": 1780242261,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 61906,
+        "num": 35751,
+        "word": "二次元不是软色情遮羞布",
+        "onboard_time": 1780226960,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 61741,
+        "num": 35361,
+        "word": "女子住酒店半夜遭陌生男子站床头",
+        "onboard_time": 1780235121,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 61080,
+        "num": 34727,
+        "word": "泥人村干部被卷走监控曝光",
+        "onboard_time": 1780245021,
+        "rank": 15,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 50869,
+        "num": 34350,
+        "word": "孙杨 下沉市场口碑反转",
+        "onboard_time": 1780221021,
+        "rank": 16,
+        "category": "体育,作品衍生"
+      },
+      {
+        "raw_hot": 46201,
+        "num": 33793,
+        "word": "被女主播开播前的调试震惊到了",
+        "onboard_time": 1780232361,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 33793,
+        "num": 33792,
+        "word": "拉丁舞爆火裁判一个月跳瘦8斤",
+        "onboard_time": 1780240761,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29000,
+        "num": 29000,
+        "word": "报告称孩子越多平均养育成本越低",
+        "onboard_time": 1780248618,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41631,
+        "num": 28999,
+        "word": "其实补气血真的很简单",
+        "onboard_time": 1780223660,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 26999,
+        "num": 28948,
+        "word": "忆秦娥婚后",
+        "onboard_time": 1780234700,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 39647,
+        "num": 28948,
+        "word": "天天吃鸡蛋和很少吃鸡蛋谁更健康",
+        "onboard_time": 1780242023,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 28942,
+        "num": 28942,
+        "word": "南京大学首位没有毕业论文博士答辩",
+        "onboard_time": 1780235182,
+        "rank": 23,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 28629,
+        "num": 28629,
+        "word": "在柬遇害中国地产商妻子发声",
+        "onboard_time": 1780246818,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28294,
+        "num": 28294,
+        "word": "关晓彤李昀锐耀眼冰箱吻",
+        "onboard_time": 1780243160,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 28002,
+        "num": 28002,
+        "word": "日系车溃败",
+        "onboard_time": 1780239024,
+        "rank": 26,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 27661,
+        "num": 27661,
+        "word": "万花世界 鞠婧祎戏份",
+        "onboard_time": 1780242380,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 26985,
+        "num": 26985,
+        "word": "Faker奶奶被死亡威胁",
+        "onboard_time": 1780231341,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 25463,
+        "num": 25463,
+        "word": "刘宇宁给工作人员鞠躬",
+        "onboard_time": 1780258573,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 27767,
+        "num": 25401,
+        "word": "关晓彤演技",
+        "onboard_time": 1780232180,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 25082,
+        "num": 25082,
+        "word": "中方必将反制日菲所谓划界谈判",
+        "onboard_time": 1780228581,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 25062,
+        "num": 25062,
+        "word": "耀眼",
+        "onboard_time": 1780251555,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 24516,
+        "num": 24516,
+        "word": "曾沛慈音乐节人气",
+        "onboard_time": 1780246219,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 24383,
+        "num": 24383,
+        "word": "樊振东已集齐德国杯欧冠德甲冠军",
+        "onboard_time": 1780239081,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 23458,
+        "num": 23458,
+        "word": "哈尔滨沙尘暴",
+        "onboard_time": 1780221320,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22705,
+        "num": 22705,
+        "word": "这才是六一该办的活动",
+        "onboard_time": 1780247237,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 21104,
+        "num": 21104,
+        "word": "王源 好听",
+        "onboard_time": 1780238843,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 19740,
+        "num": 21067,
+        "word": "哈尔滨突发沙尘暴市民称有点像世界末日",
+        "onboard_time": 1780252755,
+        "rank": 38,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 19659,
+        "num": 20953,
+        "word": "万花世界剧组声明",
+        "onboard_time": 1780242919,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 19421,
+        "num": 20908,
+        "word": "部分驱蚊产品用的是农药标的是化妆品",
+        "onboard_time": 1780254434,
+        "rank": 40,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 19287,
+        "num": 20807,
+        "word": "上海男篮3比0广厦男篮",
+        "onboard_time": 1780237821,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 19237,
+        "num": 20678,
+        "word": "邓超没做腋下管理",
+        "onboard_time": 1780241180,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 19197,
+        "num": 20640,
+        "word": "陶喆世巡百场收官",
+        "onboard_time": 1780258513,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 18893,
+        "num": 20544,
+        "word": "周深又被攻击了",
+        "onboard_time": 1780243400,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 17617,
+        "num": 20471,
+        "word": "王源完全青春男大来的",
+        "onboard_time": 1780244599,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 16969,
+        "num": 20390,
+        "word": "9岁女童因怕挨打离家失联22年终团圆",
+        "onboard_time": 1780228999,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16793,
+        "num": 20248,
+        "word": "柬埔寨一中国地产商遇害",
+        "onboard_time": 1780230080,
+        "rank": 47,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 17618,
+        "num": 20205,
+        "word": "陶喆演唱会",
+        "onboard_time": 1780250836,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 14766,
+        "num": 20120,
+        "word": "薛之谦演唱会",
+        "onboard_time": 1780258934,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平祝小朋友们儿童节快乐#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1780161470105,
-  "endTime": 1780261763338,
+  "endTime": 1780263207760,
   "band_list": [
     {
       "raw_hot": 4274003,
@@ -2243,6 +2243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 54415,
+      "num": 54415,
+      "word": "电视剧耀眼",
+      "onboard_time": 1780257433,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 54305,
       "num": 381446,
       "word": "张家口一风电项目付了1.98亿事没干成",
@@ -2385,14 +2393,6 @@
       "onboard_time": 1780200080,
       "rank": 27,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 29702,
-      "num": 50613,
-      "word": "电视剧耀眼",
-      "onboard_time": 1780257433,
-      "rank": 9,
-      "category": "剧集"
     },
     {
       "raw_hot": 29170,

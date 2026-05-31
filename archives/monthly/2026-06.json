@@ -1,6 +1,6 @@
 {
   "startTime": 1780247827631,
-  "endTime": 1780261763338,
+  "endTime": 1780263207760,
   "band_list": [
     {
       "raw_hot": 1790335,
@@ -387,6 +387,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 54415,
+      "num": 54415,
+      "word": "电视剧耀眼",
+      "onboard_time": 1780257433,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 54117,
       "num": 100342,
       "word": "王源完全青春男大来的",
@@ -424,14 +432,6 @@
       "word": "耀眼",
       "onboard_time": 1780251555,
       "rank": 31,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 29702,
-      "num": 50613,
-      "word": "电视剧耀眼",
-      "onboard_time": 1780257433,
-      "rank": 9,
       "category": "剧集"
     },
     {
