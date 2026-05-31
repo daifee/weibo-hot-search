@@ -1,6 +1,6 @@
 {
   "startTime": 1777565126834,
-  "endTime": 1780203649681,
+  "endTime": 1780215652262,
   "band_list": [
     {
       "raw_hot": 28198949,
@@ -1593,6 +1593,14 @@
       "onboard_time": 1780115780,
       "rank": 3,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 2324125,
+      "num": 417168,
+      "word": "李小冉秒删博",
+      "onboard_time": 1780209560,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 2322754,
@@ -3411,6 +3419,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1489301,
+      "num": 1489301,
+      "word": "法国高温致7人死亡中国留学生发声",
+      "onboard_time": 1780208299,
+      "rank": 0,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 1487736,
       "num": 1487736,
       "word": "中方宣布特朗普访华日期",
@@ -3748,7 +3764,7 @@
     },
     {
       "raw_hot": 1394891,
-      "num": 326892,
+      "num": 351957,
       "word": "李小冉怎么了",
       "onboard_time": 1780202361,
       "rank": 10,
@@ -4451,6 +4467,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1264929,
+      "num": 416193,
+      "word": "刘德华妻子60岁状态",
+      "onboard_time": 1780204160,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1263377,
       "num": 1263377,
       "word": "两个淡人生了个浓人宝宝",
@@ -4625,6 +4649,14 @@
       "onboard_time": 1778081542,
       "rank": 1,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 1224374,
+      "num": 860882,
+      "word": "停止自嬷",
+      "onboard_time": 1780210579,
+      "rank": 3,
+      "category": "情感"
     },
     {
       "raw_hot": 1222014,
@@ -4889,6 +4921,14 @@
       "onboard_time": 1779153440,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1175765,
+      "num": 1175765,
+      "word": "华为感谢美国制裁",
+      "onboard_time": 1780204822,
+      "rank": 1,
+      "category": "互联网"
     },
     {
       "raw_hot": 1175316,
@@ -7819,6 +7859,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 853397,
+      "num": 410123,
+      "word": "白鹿求粉丝别喊了",
+      "onboard_time": 1780212919,
+      "rank": 14,
+      "category": "艺人,作品衍生"
+    },
+    {
       "raw_hot": 853139,
       "num": 853139,
       "word": "刘浩存穿十厘米高跟鞋定点转圈",
@@ -8297,6 +8345,14 @@
       "onboard_time": 1778730441,
       "rank": 15,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 818467,
+      "num": 818467,
+      "word": "考的越难 手在面部的位置越高",
+      "onboard_time": 1780202480,
+      "rank": 17,
+      "category": "幽默"
     },
     {
       "raw_hot": 818413,
@@ -9617,6 +9673,14 @@
       "onboard_time": 1779562936,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 741274,
+      "num": 430768,
+      "word": "王菲 演唱会真嫂子定律",
+      "onboard_time": 1780212981,
+      "rank": 7,
+      "category": "演出"
     },
     {
       "raw_hot": 741120,
@@ -11740,7 +11804,7 @@
     },
     {
       "raw_hot": 635545,
-      "num": 364769,
+      "num": 397045,
       "word": "姆巴佩遭巴黎球迷辱骂",
       "onboard_time": 1780197799,
       "rank": 11,
@@ -15331,6 +15395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 504678,
+      "num": 409783,
+      "word": "岳雨婷曝短剧行业有很多捷径",
+      "onboard_time": 1780212861,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 504309,
       "num": 504309,
       "word": "豆包豆包帮我把这群智障删掉",
@@ -16739,6 +16811,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 465649,
+      "num": 465649,
+      "word": "黄仁勋在英伟达台北总部调侃居家办公",
+      "onboard_time": 1780214059,
+      "rank": 5,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 465588,
       "num": 465588,
       "word": "田曦薇西装露额头",
@@ -17777,6 +17857,14 @@
       "onboard_time": 1778243361,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 439353,
+      "num": 439353,
+      "word": "南天门计划最新进展曝光",
+      "onboard_time": 1780212919,
+      "rank": 6,
+      "category": "军事"
     },
     {
       "raw_hot": 438969,
@@ -19241,6 +19329,14 @@
       "onboard_time": 1778730563,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 403306,
+      "num": 403306,
+      "word": "韩庚鹿晗SM师兄弟合体",
+      "onboard_time": 1780208480,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 402786,
@@ -22203,6 +22299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 348772,
+      "num": 348772,
+      "word": "终于知道结婚的意义是什么了",
+      "onboard_time": 1780203080,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 348723,
       "num": 322609,
       "word": "曝肖战被团队保护得很好",
@@ -22849,14 +22953,6 @@
       "onboard_time": 1777616899,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 338277,
-      "num": 293869,
-      "word": "终于知道结婚的意义是什么了",
-      "onboard_time": 1780203080,
-      "rank": 23,
-      "category": "情感"
     },
     {
       "raw_hot": 338061,
@@ -23577,6 +23673,14 @@
       "onboard_time": 1779237682,
       "rank": 21,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 326724,
+      "num": 326724,
+      "word": "谢霆锋曾回应与王菲世纪牵手",
+      "onboard_time": 1780207279,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 326708,
@@ -25267,14 +25371,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 299901,
-      "num": 299901,
-      "word": "考的越难 手在面部的位置越高",
-      "onboard_time": 1780202480,
-      "rank": 17,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 299738,
       "num": 638331,
       "word": "2名中国游客日本登山食物耗尽",
@@ -25361,6 +25457,14 @@
       "onboard_time": 1779668602,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 298702,
+      "num": 298702,
+      "word": "张凌赫直播",
+      "onboard_time": 1778333721,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 298619,
@@ -25673,6 +25777,14 @@
       "onboard_time": 1777594700,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 293389,
+      "num": 293389,
+      "word": "时代峰峻辟谣王橹杰恋情",
+      "onboard_time": 1780204822,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 293341,
@@ -27667,6 +27779,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 269118,
+      "num": 406347,
+      "word": "北大退学苏畅称接纳自己是普通人",
+      "onboard_time": 1780205901,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 268993,
       "num": 210999,
       "word": "秦昊说就过呗还能离咋地",
@@ -28449,6 +28569,14 @@
       "onboard_time": 1778510843,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 260308,
+      "num": 361227,
+      "word": "新娘墓前拜别母亲红盖头飘落",
+      "onboard_time": 1780210459,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 260106,
@@ -29529,6 +29657,14 @@
       "onboard_time": 1777910481,
       "rank": 25,
       "category": "演出"
+    },
+    {
+      "raw_hot": 249343,
+      "num": 249343,
+      "word": "第一次被一只猫的长相攻击到了",
+      "onboard_time": 1780207999,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 249342,
@@ -31273,14 +31409,6 @@
       "onboard_time": 1777733543,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 232952,
-      "num": 230009,
-      "word": "张凌赫直播",
-      "onboard_time": 1778333721,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 232927,
@@ -33147,6 +33275,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 216005,
+      "num": 419160,
+      "word": "王濛浪姐淘汰感言都想好了",
+      "onboard_time": 1780212140,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 215970,
       "num": 215970,
       "word": "吴世勋一天来两次微博",
@@ -33217,6 +33353,14 @@
       "onboard_time": 1778072182,
       "rank": 42,
       "category": "网红"
+    },
+    {
+      "raw_hot": 215060,
+      "num": 321155,
+      "word": "宋亚轩超快反应拉手刹",
+      "onboard_time": 1780213280,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 214978,
@@ -35057,6 +35201,14 @@
       "onboard_time": 1778147781,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 200817,
+      "num": 200817,
+      "word": "刘冲模仿刘诗诗 白化摄魂怪",
+      "onboard_time": 1780205778,
+      "rank": 34,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 200732,
@@ -42235,6 +42387,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 148260,
+      "num": 135598,
+      "word": "孟子义连录5天桃花坞",
+      "onboard_time": 1780210459,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 148255,
       "num": 148255,
       "word": "马伊琍短发波点裙",
@@ -42257,6 +42417,14 @@
       "onboard_time": 1779941360,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 148122,
+      "num": 312201,
+      "word": "印度老人悬挂在高层窗外偷拍邻居",
+      "onboard_time": 1780214420,
+      "rank": 28,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 147754,
@@ -42747,6 +42915,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 143758,
+      "num": 135319,
+      "word": "马頔又缺装修经费了吗",
+      "onboard_time": 1780212140,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 143616,
       "num": 323033,
       "word": "小米17Max本月发布",
@@ -43177,6 +43353,14 @@
       "onboard_time": 1779428362,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 140910,
+      "num": 314837,
+      "word": "京东618夏日歌会",
+      "onboard_time": 1780211120,
+      "rank": 27,
+      "category": "综艺,互联网"
     },
     {
       "raw_hot": 140876,
@@ -43873,6 +44057,14 @@
       "onboard_time": 1778468659,
       "rank": 29,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 134650,
+      "num": 134650,
+      "word": "孟子义李昀锐合体奔跑吧收官录制",
+      "onboard_time": 1780207519,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 134627,
@@ -46179,6 +46371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 119555,
+      "num": 301169,
+      "word": "台特种部队格斗表演被嘲没吃早饭",
+      "onboard_time": 1780203681,
+      "rank": 29,
+      "category": "军事"
+    },
+    {
       "raw_hot": 119488,
       "num": 145189,
       "word": "WBG出征2026EWC电竞世俱杯",
@@ -47779,6 +47979,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 104191,
+      "num": 418373,
+      "word": "央视起底娜塔莎暴力解压玩具",
+      "onboard_time": 1780214479,
+      "rank": 10,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 104167,
       "num": 530077,
       "word": "特朗普称疏导霍尔木兹海峡行动暂停",
@@ -48025,6 +48233,14 @@
       "onboard_time": 1779627264,
       "rank": 49,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 101994,
+      "num": 135111,
+      "word": "文班亚马想给波波维奇打电话",
+      "onboard_time": 1780214059,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 101929,
@@ -50579,6 +50795,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 77989,
+      "num": 298163,
+      "word": "马斯克展示Cybercab自动驶出工厂",
+      "onboard_time": 1780203021,
+      "rank": 19,
+      "category": "互联网,汽车"
+    },
+    {
       "raw_hot": 77974,
       "num": 562600,
       "word": "水晶宫夺得欧协联冠军",
@@ -50945,6 +51169,14 @@
       "onboard_time": 1779616942,
       "rank": 47,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 74447,
+      "num": 122773,
+      "word": "618夏日续命神器大盘点",
+      "onboard_time": 1780215200,
+      "rank": 42,
+      "category": "美妆"
     },
     {
       "raw_hot": 74375,
@@ -51416,6 +51648,14 @@
       "word": "58岁大爷花3万买的脑梗药是糖果",
       "onboard_time": 1780136179,
       "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 69912,
+      "num": 390730,
+      "word": "重庆一凶宅39万余元起拍",
+      "onboard_time": 1780214540,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -52891,6 +53131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 57630,
+      "num": 373862,
+      "word": "618家装开始卷服务了",
+      "onboard_time": 1780214719,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 57579,
       "num": 268862,
       "word": "狼队对战Hero",
@@ -52953,6 +53201,14 @@
       "onboard_time": 1777764077,
       "rank": 38,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 57109,
+      "num": 121678,
+      "word": "618最适合囤的东西",
+      "onboard_time": 1780214119,
+      "rank": 43,
+      "category": "美妆"
     },
     {
       "raw_hot": 57053,
@@ -57243,14 +57499,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 30007,
-      "num": 298163,
-      "word": "马斯克展示Cybercab自动驶出工厂",
-      "onboard_time": 1780203021,
-      "rank": 19,
-      "category": "互联网,汽车"
-    },
-    {
       "raw_hot": 29972,
       "num": 73181,
       "word": "伊朗已递交与美谈判最新方案",
@@ -57593,6 +57841,14 @@
       "onboard_time": 1778030540,
       "rank": 46,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 27959,
+      "num": 381839,
+      "word": "老人担保贷款110万去世家属才知情",
+      "onboard_time": 1780215081,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 27932,
@@ -58803,6 +59059,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 20187,
+      "num": 121395,
+      "word": "618开场的诚意藏在优惠券里",
+      "onboard_time": 1780211120,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 20102,
       "num": 401045,
       "word": "走路看手机被劝退任性校规咋出台的",
@@ -58920,6 +59184,14 @@
       "word": "在上海找到创作主场",
       "onboard_time": 1780143260,
       "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 19390,
+      "num": 120494,
+      "word": "谁是618消暑品类的定海神针",
+      "onboard_time": 1780211120,
+      "rank": 48,
       "category": "民生新闻"
     },
     {
@@ -59608,6 +59880,14 @@
       "word": "北漂独居青年每月花5000给猫续命",
       "onboard_time": 1778771303,
       "rank": 40,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 14772,
+      "num": 872581,
+      "word": "智博会发布200余项创新成果",
+      "onboard_time": 1780214179,
+      "rank": 2,
       "category": "民生新闻"
     },
     {
