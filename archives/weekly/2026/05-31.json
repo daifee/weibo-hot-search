@@ -1,6 +1,6 @@
 {
   "startTime": 1780161470105,
-  "endTime": 1780267005347,
+  "endTime": 1780268936657,
   "band_list": [
     {
       "raw_hot": 4274003,
@@ -291,6 +291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 774042,
+      "num": 774042,
+      "word": "日本拥抱印度",
+      "onboard_time": 1780232540,
+      "rank": 43,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 770244,
       "num": 292320,
       "word": "半导体韬定律",
@@ -521,14 +529,6 @@
       "onboard_time": 1780235961,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 471564,
-      "num": 471564,
-      "word": "日本拥抱印度",
-      "onboard_time": 1780232540,
-      "rank": 43,
-      "category": "汽车"
     },
     {
       "raw_hot": 459908,
@@ -1203,6 +1203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 233455,
+      "num": 134040,
+      "word": "天涯社区曾2次重启失败",
+      "onboard_time": 1780246818,
+      "rank": 36,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 231164,
       "num": 231164,
       "word": "中俄等6国投弃权票",
@@ -1249,6 +1257,22 @@
       "onboard_time": 1780227320,
       "rank": 33,
       "category": "艺人,作品衍生"
+    },
+    {
+      "raw_hot": 219954,
+      "num": 219954,
+      "word": "日系车溃败",
+      "onboard_time": 1780239024,
+      "rank": 46,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 217804,
+      "num": 217804,
+      "word": "多名艺人辞演后特朗普决定自己上台",
+      "onboard_time": 1780242261,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 217698,
@@ -1363,6 +1387,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 203863,
+      "num": 203863,
+      "word": "这才是六一该办的活动",
+      "onboard_time": 1780247237,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 203306,
       "num": 182899,
       "word": "哈尔滨你怎么了",
@@ -1443,14 +1475,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 192112,
-      "num": 178293,
-      "word": "多名艺人辞演后特朗普决定自己上台",
-      "onboard_time": 1780242261,
-      "rank": 49,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 192026,
       "num": 192026,
       "word": "十二星座6月月运",
@@ -1497,14 +1521,6 @@
       "onboard_time": 1780144940,
       "rank": 26,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 178410,
-      "num": 197782,
-      "word": "日系车溃败",
-      "onboard_time": 1780239024,
-      "rank": 46,
-      "category": "汽车"
     },
     {
       "raw_hot": 177222,
@@ -1715,6 +1731,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 144994,
+      "num": 103874,
+      "word": "网红边牧锄头主人拒绝和解",
+      "onboard_time": 1780246818,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 144808,
       "num": 354528,
       "word": "刘宇宁再唱平凡的日子借一点光",
@@ -1745,14 +1769,6 @@
       "onboard_time": 1780243160,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 139027,
-      "num": 134040,
-      "word": "天涯社区曾2次重启失败",
-      "onboard_time": 1780246818,
-      "rank": 36,
-      "category": "互联网"
     },
     {
       "raw_hot": 138779,
@@ -1811,6 +1827,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 128909,
+      "num": 88579,
+      "word": "报告称孩子越多平均养育成本越低",
+      "onboard_time": 1780248618,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 128603,
       "num": 225897,
       "word": "咖啡减肥这样喝才有效",
@@ -1841,14 +1865,6 @@
       "onboard_time": 1780203141,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 123271,
-      "num": 103874,
-      "word": "网红边牧锄头主人拒绝和解",
-      "onboard_time": 1780246818,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 121258,
@@ -2003,12 +2019,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 89145,
-      "num": 100425,
-      "word": "这才是六一该办的活动",
-      "onboard_time": 1780247237,
-      "rank": 41,
-      "category": "幽默"
+      "raw_hot": 88889,
+      "num": 88889,
+      "word": "电视剧耀眼",
+      "onboard_time": 1780257433,
+      "rank": 9,
+      "category": "剧集"
     },
     {
       "raw_hot": 88555,
@@ -2017,6 +2033,14 @@
       "onboard_time": 1780136299,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 88351,
+      "num": 88351,
+      "word": "智商决定收入在这一刻具象化了",
+      "onboard_time": 1780267036,
+      "rank": 19,
+      "category": "科学科普"
     },
     {
       "raw_hot": 87965,
@@ -2043,6 +2067,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 81308,
+      "num": 81308,
+      "word": "哈尔滨突发沙尘暴市民称有点像世界末日",
+      "onboard_time": 1780252755,
+      "rank": 45,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 81051,
       "num": 112567,
       "word": "鞠婧祎万花世界戏份超700场",
@@ -2065,14 +2097,6 @@
       "onboard_time": 1780154119,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 78117,
-      "num": 78117,
-      "word": "电视剧耀眼",
-      "onboard_time": 1780257433,
-      "rank": 9,
-      "category": "剧集"
     },
     {
       "raw_hot": 78066,
@@ -2147,14 +2171,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 70779,
-      "num": 84215,
-      "word": "报告称孩子越多平均养育成本越低",
-      "onboard_time": 1780248618,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 69030,
       "num": 72108,
       "word": "李宇春给我唱回彩铃时代了",
@@ -2195,20 +2211,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 63685,
+      "num": 72845,
+      "word": "丞磊给白鹿拍照没开镜头盖",
+      "onboard_time": 1780268417,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 62302,
       "num": 72127,
       "word": "河智苑打歌舞台",
       "onboard_time": 1780148121,
       "rank": 48,
       "category": "演出"
-    },
-    {
-      "raw_hot": 61005,
-      "num": 61005,
-      "word": "哈尔滨突发沙尘暴市民称有点像世界末日",
-      "onboard_time": 1780252755,
-      "rank": 45,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 60971,
@@ -2267,6 +2283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 55540,
+      "num": 72043,
+      "word": "校方回应小学生汇演爆火遭质疑假唱",
+      "onboard_time": 1780265596,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 54305,
       "num": 381446,
       "word": "张家口一风电项目付了1.98亿事没干成",
@@ -2299,6 +2323,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 50536,
+      "num": 71135,
+      "word": "成毅沉迷下象棋",
+      "onboard_time": 1780268417,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 47783,
       "num": 233310,
       "word": "邓超夏日歌会工体撒饭",
@@ -2323,12 +2355,20 @@
       "category": "动漫,互联网"
     },
     {
-      "raw_hot": 40812,
-      "num": 40812,
-      "word": "校方回应小学生汇演爆火遭质疑假唱",
-      "onboard_time": 1780265596,
-      "rank": 30,
-      "category": "民生新闻"
+      "raw_hot": 41721,
+      "num": 69531,
+      "word": "刘宇宁给工作人员鞠躬",
+      "onboard_time": 1780258573,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 39283,
+      "num": 69106,
+      "word": "迎接杨博文的十六岁",
+      "onboard_time": 1780268417,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 39205,
@@ -2363,14 +2403,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 36055,
-      "num": 36055,
-      "word": "刘宇宁给工作人员鞠躬",
-      "onboard_time": 1780258573,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 36037,
       "num": 381839,
       "word": "老人担保贷款110万去世家属才知情",
@@ -2403,6 +2435,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 31403,
+      "num": 67943,
+      "word": "部分驱蚊产品用的是农药标的是化妆品",
+      "onboard_time": 1780254434,
+      "rank": 40,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 30794,
       "num": 95368,
       "word": "LPL",
@@ -2424,6 +2464,14 @@
       "word": "朱一龙做瑜伽",
       "onboard_time": 1780146321,
       "rank": 47,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 28508,
+      "num": 66332,
+      "word": "傅菁直播太敢说了",
+      "onboard_time": 1780268836,
+      "rank": 49,
       "category": "艺人"
     },
     {
@@ -2449,14 +2497,6 @@
       "onboard_time": 1780236560,
       "rank": 40,
       "category": "电影"
-    },
-    {
-      "raw_hot": 25473,
-      "num": 31902,
-      "word": "部分驱蚊产品用的是农药标的是化妆品",
-      "onboard_time": 1780254434,
-      "rank": 40,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 24246,
