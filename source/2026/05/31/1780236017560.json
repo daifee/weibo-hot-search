@@ -1,0 +1,410 @@
+{
+  "runTime": 1780236017560,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2172030,
+        "num": 2172030,
+        "word": "天涯社区将正式恢复访问",
+        "onboard_time": 1780227741,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1341719,
+        "num": 1341719,
+        "word": "天涯神帖",
+        "onboard_time": 1780234221,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 9887,
+        "num": 805290,
+        "word": "城事日记津彩有你",
+        "onboard_time": 1780232241,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 594198,
+        "num": 594198,
+        "word": "新疆人未来一个月菜品",
+        "onboard_time": 1780229600,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 482992,
+        "num": 482992,
+        "word": "主角编剧",
+        "onboard_time": 1780233259,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 444055,
+        "num": 444055,
+        "word": "过度防晒",
+        "onboard_time": 1780216940,
+        "rank": 5,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 441595,
+        "num": 441595,
+        "word": "王一栩给鞠婧祎推的资源",
+        "onboard_time": 1780230860,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 428132,
+        "num": 428132,
+        "word": "樊振东3比1邱党",
+        "onboard_time": 1780229299,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 398186,
+        "num": 398186,
+        "word": "哈尔滨沙尘暴",
+        "onboard_time": 1780221320,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 265928,
+        "num": 396471,
+        "word": "窦唯妹妹去谢霆锋演唱会",
+        "onboard_time": 1780221320,
+        "rank": 9,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 2237378,
+        "num": 394758,
+        "word": "张凌赫全额补偿粉丝",
+        "onboard_time": 1780230200,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1084693,
+        "num": 392335,
+        "word": "孙杨 下沉市场口碑反转",
+        "onboard_time": 1780221021,
+        "rank": 11,
+        "category": "体育,作品衍生"
+      },
+      {
+        "raw_hot": 903803,
+        "num": 388669,
+        "word": "Faker奶奶被死亡威胁",
+        "onboard_time": 1780231341,
+        "rank": 12,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 776064,
+        "num": 387591,
+        "word": "王灿因病切了一片肺",
+        "onboard_time": 1780226299,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 726920,
+        "num": 384429,
+        "word": "曝沐言头被砸到",
+        "onboard_time": 1780233140,
+        "rank": 14,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 646490,
+        "num": 382857,
+        "word": "二次元不是软色情遮羞布",
+        "onboard_time": 1780226960,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 313786,
+        "num": 379202,
+        "word": "柬埔寨一中国地产商遇害",
+        "onboard_time": 1780230080,
+        "rank": 16,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 786656,
+        "num": 377396,
+        "word": "张凌赫活动商场玻璃破碎致5擦伤",
+        "onboard_time": 1780226660,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153635,
+        "num": 373756,
+        "word": "南京大学首位没有毕业论文博士答辩",
+        "onboard_time": 1780235182,
+        "rank": 18,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 373030,
+        "num": 373030,
+        "word": "中方必将反制日菲所谓划界谈判",
+        "onboard_time": 1780228581,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 689163,
+        "num": 358042,
+        "word": "其实补气血真的很简单",
+        "onboard_time": 1780223660,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 166901,
+        "num": 336488,
+        "word": "女子住酒店半夜遭陌生男子站床头",
+        "onboard_time": 1780235121,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 323998,
+        "num": 323998,
+        "word": "刘诗诗下沉市场",
+        "onboard_time": 1780223420,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 298668,
+        "num": 298668,
+        "word": "小英晒病例",
+        "onboard_time": 1780231101,
+        "rank": 23,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 295949,
+        "num": 295949,
+        "word": "被女主播开播前的调试震惊到了",
+        "onboard_time": 1780232361,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 276179,
+        "num": 276179,
+        "word": "德甲",
+        "onboard_time": 1780233561,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 268633,
+        "num": 268633,
+        "word": "曾沛慈长文告别三公",
+        "onboard_time": 1780217780,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 245604,
+        "num": 245604,
+        "word": "关晓彤演技",
+        "onboard_time": 1780232180,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 273268,
+        "num": 245568,
+        "word": "vogue红毯 疲惫",
+        "onboard_time": 1780215920,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 96580,
+        "num": 243411,
+        "word": "智利缉毒犬典礼上扑咬海军中将口袋",
+        "onboard_time": 1780227741,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 266192,
+        "num": 242905,
+        "word": "曝短剧演员陈添祥延毕2年",
+        "onboard_time": 1780218381,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37547,
+        "num": 241917,
+        "word": "京东十二姬合作十个勤天",
+        "onboard_time": 1780232841,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 250609,
+        "num": 239711,
+        "word": "9岁女童因怕挨打离家失联22年终团圆",
+        "onboard_time": 1780228999,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 246241,
+        "num": 238848,
+        "word": "东北超",
+        "onboard_time": 1780235841,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 236261,
+        "num": 238334,
+        "word": "央视起底娜塔莎暴力解压玩具",
+        "onboard_time": 1780214479,
+        "rank": 34,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 229999,
+        "num": 236937,
+        "word": "小城良方排播",
+        "onboard_time": 1780225401,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 229805,
+        "num": 235411,
+        "word": "618夏日歌会",
+        "onboard_time": 1780230200,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 211437,
+        "num": 234405,
+        "word": "张雪机车第8名",
+        "onboard_time": 1780235781,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 205192,
+        "num": 232775,
+        "word": "周翊然钓鱼摔进河里了",
+        "onboard_time": 1780231400,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23221,
+        "num": 232078,
+        "word": "京东直播比价抽出十万元现金大奖",
+        "onboard_time": 1780232781,
+        "rank": 39,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 21196,
+        "num": 231068,
+        "word": "追剧迷上了这款撩弟神器",
+        "onboard_time": 1780232841,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 203571,
+        "num": 229044,
+        "word": "忆秦娥婚后",
+        "onboard_time": 1780234700,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 191338,
+        "num": 227672,
+        "word": "办公室阴招可以不用一定要会",
+        "onboard_time": 1780217900,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 186760,
+        "num": 226735,
+        "word": "日本拥抱印度",
+        "onboard_time": 1780232540,
+        "rank": 43,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 186138,
+        "num": 225394,
+        "word": "法国高温致7人死亡中国留学生发声",
+        "onboard_time": 1780208299,
+        "rank": 44,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 182181,
+        "num": 224368,
+        "word": "广厦男篮vs上海男篮",
+        "onboard_time": 1780233381,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 177738,
+        "num": 223607,
+        "word": "德甲决赛",
+        "onboard_time": 1780235961,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 176496,
+        "num": 222577,
+        "word": "CBA",
+        "onboard_time": 1780233500,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 176345,
+        "num": 220606,
+        "word": "51岁工地大叔9年考13证月薪过万",
+        "onboard_time": 1780233561,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168008,
+        "num": 219453,
+        "word": "白鹿求粉丝别喊了",
+        "onboard_time": 1780212919,
+        "rank": 49,
+        "category": "艺人,作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平祝小朋友们儿童节快乐#"
+    }
+  }
+}

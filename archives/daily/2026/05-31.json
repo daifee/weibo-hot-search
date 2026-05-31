@@ -1,6 +1,6 @@
 {
   "startTime": 1780161470105,
-  "endTime": 1780228793838,
+  "endTime": 1780236017560,
   "band_list": [
     {
       "raw_hot": 2409117,
@@ -25,6 +25,22 @@
       "onboard_time": 1780154661,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 2237378,
+      "num": 394758,
+      "word": "张凌赫全额补偿粉丝",
+      "onboard_time": 1780230200,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2172030,
+      "num": 2172030,
+      "word": "天涯社区将正式恢复访问",
+      "onboard_time": 1780227741,
+      "rank": 4,
+      "category": "互联网"
     },
     {
       "raw_hot": 1831564,
@@ -99,6 +115,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1341719,
+      "num": 1341719,
+      "word": "天涯神帖",
+      "onboard_time": 1780234221,
+      "rank": 1,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1254735,
       "num": 1254735,
       "word": "马刺4比3雷霆",
@@ -108,7 +132,7 @@
     },
     {
       "raw_hot": 1253650,
-      "num": 304165,
+      "num": 387591,
       "word": "王灿因病切了一片肺",
       "onboard_time": 1780226299,
       "rank": 12,
@@ -132,7 +156,7 @@
     },
     {
       "raw_hot": 1077030,
-      "num": 301165,
+      "num": 323998,
       "word": "刘诗诗下沉市场",
       "onboard_time": 1780223420,
       "rank": 26,
@@ -187,6 +211,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 903803,
+      "num": 388669,
+      "word": "Faker奶奶被死亡威胁",
+      "onboard_time": 1780231341,
+      "rank": 12,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 889328,
       "num": 150787,
       "word": "欧冠",
@@ -235,6 +267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 786656,
+      "num": 377396,
+      "word": "张凌赫活动商场玻璃破碎致5擦伤",
+      "onboard_time": 1780226660,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 770244,
       "num": 292320,
       "word": "半导体韬定律",
@@ -251,6 +291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 726920,
+      "num": 384429,
+      "word": "曝沐言头被砸到",
+      "onboard_time": 1780233140,
+      "rank": 14,
+      "category": "网红"
+    },
+    {
       "raw_hot": 705877,
       "num": 495917,
       "word": "王菲无名指疑似戴了钻戒",
@@ -265,6 +313,14 @@
       "onboard_time": 1780198340,
       "rank": 14,
       "category": "情感"
+    },
+    {
+      "raw_hot": 689163,
+      "num": 358042,
+      "word": "其实补气血真的很简单",
+      "onboard_time": 1780223660,
+      "rank": 20,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 686968,
@@ -299,6 +355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 646490,
+      "num": 382857,
+      "word": "二次元不是软色情遮羞布",
+      "onboard_time": 1780226960,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 643062,
       "num": 643062,
       "word": "曾沛慈长文告别三公",
@@ -331,12 +395,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 590451,
-      "num": 275737,
-      "word": "其实补气血真的很简单",
-      "onboard_time": 1780223660,
-      "rank": 20,
-      "category": "健康医疗"
+      "raw_hot": 594198,
+      "num": 594198,
+      "word": "新疆人未来一个月菜品",
+      "onboard_time": 1780229600,
+      "rank": 3,
+      "category": "幽默"
     },
     {
       "raw_hot": 586218,
@@ -395,6 +459,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 482992,
+      "num": 482992,
+      "word": "主角编剧",
+      "onboard_time": 1780233259,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 459908,
       "num": 459908,
       "word": "文班亚马哭了",
@@ -443,6 +515,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 441595,
+      "num": 441595,
+      "word": "王一栩给鞠婧祎推的资源",
+      "onboard_time": 1780230860,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 429743,
       "num": 120332,
       "word": "王嘉尔出发参加何猷君奚梦瑶婚礼",
@@ -451,8 +531,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 428132,
+      "num": 428132,
+      "word": "樊振东3比1邱党",
+      "onboard_time": 1780229299,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 422232,
-      "num": 290093,
+      "num": 396471,
       "word": "窦唯妹妹去谢霆锋演唱会",
       "onboard_time": 1780221320,
       "rank": 18,
@@ -515,14 +603,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 378768,
-      "num": 378768,
-      "word": "天涯社区将正式恢复访问",
-      "onboard_time": 1780227741,
-      "rank": 4,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 374329,
       "num": 277620,
       "word": "张峻豪泡泡更新",
@@ -539,12 +619,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 369900,
-      "num": 270076,
-      "word": "张凌赫活动商场玻璃破碎致5擦伤",
-      "onboard_time": 1780226660,
-      "rank": 21,
-      "category": "艺人"
+      "raw_hot": 373030,
+      "num": 373030,
+      "word": "中方必将反制日菲所谓划界谈判",
+      "onboard_time": 1780228581,
+      "rank": 43,
+      "category": "国内时政"
     },
     {
       "raw_hot": 367812,
@@ -707,6 +787,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 313786,
+      "num": 379202,
+      "word": "柬埔寨一中国地产商遇害",
+      "onboard_time": 1780230080,
+      "rank": 16,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 310062,
       "num": 310062,
       "word": "司机开辅助驾驶40秒后追尾致3死",
@@ -731,14 +819,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 298870,
-      "num": 298870,
-      "word": "二次元不是软色情遮羞布",
-      "onboard_time": 1780226960,
-      "rank": 16,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 298702,
       "num": 298702,
       "word": "张凌赫直播",
@@ -747,12 +827,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 298668,
+      "num": 298668,
+      "word": "小英晒病例",
+      "onboard_time": 1780231101,
+      "rank": 23,
+      "category": "网红"
+    },
+    {
       "raw_hot": 296473,
       "num": 278807,
       "word": "接机张月时接到了浪姐节目组电话",
       "onboard_time": 1780216458,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 295949,
+      "num": 295949,
+      "word": "被女主播开播前的调试震惊到了",
+      "onboard_time": 1780232361,
+      "rank": 24,
+      "category": "幽默"
     },
     {
       "raw_hot": 293389,
@@ -803,6 +899,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 276179,
+      "num": 276179,
+      "word": "德甲",
+      "onboard_time": 1780233561,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 274198,
       "num": 320496,
       "word": "办公室阴招可以不用一定要会",
@@ -851,12 +955,36 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 250609,
+      "num": 239711,
+      "word": "9岁女童因怕挨打离家失联22年终团圆",
+      "onboard_time": 1780228999,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 249343,
       "num": 249343,
       "word": "第一次被一只猫的长相攻击到了",
       "onboard_time": 1780207999,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 246241,
+      "num": 238848,
+      "word": "东北超",
+      "onboard_time": 1780235841,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 245604,
+      "num": 245604,
+      "word": "关晓彤演技",
+      "onboard_time": 1780232180,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 231164,
@@ -881,6 +1009,14 @@
       "onboard_time": 1780151662,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 229805,
+      "num": 235411,
+      "word": "618夏日歌会",
+      "onboard_time": 1780230200,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 224721,
@@ -939,6 +1075,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 211437,
+      "num": 234405,
+      "word": "张雪机车第8名",
+      "onboard_time": 1780235781,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 209279,
       "num": 209279,
       "word": "王曦雨vs科斯蒂亚",
@@ -971,12 +1115,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 205192,
+      "num": 232775,
+      "word": "周翊然钓鱼摔进河里了",
+      "onboard_time": 1780231400,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 204681,
       "num": 204681,
       "word": "服务员争了半天谁去送这个包间",
       "onboard_time": 1780215800,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 203571,
+      "num": 229044,
+      "word": "忆秦娥婚后",
+      "onboard_time": 1780234700,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 203306,
@@ -1059,12 +1219,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 186760,
+      "num": 226735,
+      "word": "日本拥抱印度",
+      "onboard_time": 1780232540,
+      "rank": 43,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 183448,
       "num": 147715,
       "word": "这个时间点入睡才是真早睡",
       "onboard_time": 1780156580,
       "rank": 25,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 182181,
+      "num": 224368,
+      "word": "广厦男篮vs上海男篮",
+      "onboard_time": 1780233381,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 180459,
@@ -1099,12 +1275,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 177738,
+      "num": 223607,
+      "word": "德甲决赛",
+      "onboard_time": 1780235961,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 177222,
       "num": 177222,
       "word": "主角",
       "onboard_time": 1780143260,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 176496,
+      "num": 222577,
+      "word": "CBA",
+      "onboard_time": 1780233500,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 176345,
+      "num": 220606,
+      "word": "51岁工地大叔9年考13证月薪过万",
+      "onboard_time": 1780233561,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 175471,
@@ -1147,6 +1347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 166901,
+      "num": 336488,
+      "word": "女子住酒店半夜遭陌生男子站床头",
+      "onboard_time": 1780235121,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 166877,
       "num": 166877,
       "word": "世界杯",
@@ -1161,14 +1369,6 @@
       "onboard_time": 1780221320,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 161414,
-      "num": 161414,
-      "word": "中方必将反制日菲所谓划界谈判",
-      "onboard_time": 1780228581,
-      "rank": 43,
-      "category": "国内时政"
     },
     {
       "raw_hot": 161382,
@@ -1201,6 +1401,14 @@
       "onboard_time": 1780153520,
       "rank": 17,
       "category": "演出"
+    },
+    {
+      "raw_hot": 153635,
+      "num": 373756,
+      "word": "南京大学首位没有毕业论文博士答辩",
+      "onboard_time": 1780235182,
+      "rank": 18,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 153407,
@@ -1444,7 +1652,7 @@
     },
     {
       "raw_hot": 102495,
-      "num": 134652,
+      "num": 243411,
       "word": "智利缉毒犬典礼上扑咬海军中将口袋",
       "onboard_time": 1780227741,
       "rank": 46,
@@ -1731,6 +1939,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 37547,
+      "num": 241917,
+      "word": "京东十二姬合作十个勤天",
+      "onboard_time": 1780232841,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 36544,
       "num": 179616,
       "word": "手把手教你领国补优惠券",
@@ -1827,11 +2043,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 23221,
+      "num": 232078,
+      "word": "京东直播比价抽出十万元现金大奖",
+      "onboard_time": 1780232781,
+      "rank": 39,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 21510,
       "num": 27036,
       "word": "万花世界预约",
       "onboard_time": 1780152621,
       "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 21196,
+      "num": 231068,
+      "word": "追剧迷上了这款撩弟神器",
+      "onboard_time": 1780232841,
+      "rank": 40,
       "category": "剧集"
     },
     {
@@ -1881,6 +2113,14 @@
       "onboard_time": 1780143260,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 9887,
+      "num": 805290,
+      "word": "城事日记津彩有你",
+      "onboard_time": 1780232241,
+      "rank": 2,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
@@ -1895,6 +2135,9 @@
     },
     {
       "word": "#习近平回信勉励少先队红领巾讲解员#"
+    },
+    {
+      "word": "#习近平祝小朋友们儿童节快乐#"
     }
   ]
 }
