@@ -1,6 +1,6 @@
 {
   "startTime": 1780161470105,
-  "endTime": 1780249120728,
+  "endTime": 1780255674372,
   "band_list": [
     {
       "raw_hot": 4274003,
@@ -1827,6 +1827,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 123317,
+      "num": 134040,
+      "word": "天涯社区曾2次重启失败",
+      "onboard_time": 1780246818,
+      "rank": 36,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 123289,
       "num": 219237,
       "word": "国乐无双把音乐还给音综",
@@ -1953,14 +1961,6 @@
       "onboard_time": 1780183517,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 96713,
-      "num": 100508,
-      "word": "天涯社区曾2次重启失败",
-      "onboard_time": 1780246818,
-      "rank": 36,
-      "category": "互联网"
     },
     {
       "raw_hot": 94641,
@@ -2451,6 +2451,22 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 22936,
+      "num": 31902,
+      "word": "部分驱蚊产品用的是农药标的是化妆品",
+      "onboard_time": 1780254434,
+      "rank": 40,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 22049,
+      "num": 31898,
+      "word": "陶喆演唱会",
+      "onboard_time": 1780250836,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
       "raw_hot": 21510,
       "num": 27036,
       "word": "万花世界预约",
@@ -2459,12 +2475,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 21386,
+      "num": 31893,
+      "word": "17战队PGS5冠军",
+      "onboard_time": 1780253895,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 21196,
       "num": 326449,
       "word": "追剧迷上了这款撩弟神器",
       "onboard_time": 1780232841,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 20393,
+      "num": 31891,
+      "word": "哈尔滨突发沙尘暴市民称有点像世界末日",
+      "onboard_time": 1780252755,
+      "rank": 45,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 20187,
