@@ -1,0 +1,410 @@
+{
+  "runTime": 1780225519780,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1345515,
+        "num": 1345515,
+        "word": "哈尔滨沙尘暴",
+        "onboard_time": 1780221320,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 611755,
+        "num": 868778,
+        "word": "法国高温致7人死亡中国留学生发声",
+        "onboard_time": 1780208299,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 10036,
+        "num": 695627,
+        "word": "智博会发布200余项创新成果",
+        "onboard_time": 1780214179,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 384768,
+        "num": 384768,
+        "word": "华为感谢美国制裁",
+        "onboard_time": 1780204822,
+        "rank": 3,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 331696,
+        "num": 331696,
+        "word": "央视起底娜塔莎暴力解压玩具",
+        "onboard_time": 1780214479,
+        "rank": 4,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 1391011,
+        "num": 291352,
+        "word": "孙杨 下沉市场口碑反转",
+        "onboard_time": 1780221021,
+        "rank": 5,
+        "category": "体育,作品衍生"
+      },
+      {
+        "raw_hot": 633810,
+        "num": 269363,
+        "word": "过度防晒",
+        "onboard_time": 1780216940,
+        "rank": 6,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 234246,
+        "num": 234246,
+        "word": "南天门计划最新进展曝光",
+        "onboard_time": 1780212919,
+        "rank": 7,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 224363,
+        "num": 224363,
+        "word": "考的越难 手在面部的位置越高",
+        "onboard_time": 1780202480,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 209279,
+        "num": 209279,
+        "word": "王曦雨vs科斯蒂亚",
+        "onboard_time": 1780220179,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1077030,
+        "num": 209244,
+        "word": "刘诗诗下沉市场",
+        "onboard_time": 1780223420,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 753191,
+        "num": 206244,
+        "word": "曝短剧演员陈添祥延毕2年",
+        "onboard_time": 1780218381,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 346653,
+        "num": 203718,
+        "word": "高学历迷奸案醒来后一无所知的她们",
+        "onboard_time": 1780222640,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 643947,
+        "num": 201206,
+        "word": "vogue红毯 疲惫",
+        "onboard_time": 1780215920,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 540618,
+        "num": 200805,
+        "word": "张凌赫线下活动取消目击者发声",
+        "onboard_time": 1780224559,
+        "rank": 14,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 199005,
+        "num": 199005,
+        "word": "重庆一凶宅39万余元起拍",
+        "onboard_time": 1780214540,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 471744,
+        "num": 198925,
+        "word": "曾沛慈长文告别三公",
+        "onboard_time": 1780217780,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 73311,
+        "num": 198788,
+        "word": "高温来袭的自救穿搭公式",
+        "onboard_time": 1780224261,
+        "rank": 17,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 237001,
+        "num": 198635,
+        "word": "窦唯妹妹去谢霆锋演唱会",
+        "onboard_time": 1780221320,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 231535,
+        "num": 198483,
+        "word": "接机张月时接到了浪姐节目组电话",
+        "onboard_time": 1780216458,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 411224,
+        "num": 198332,
+        "word": "其实补气血真的很简单",
+        "onboard_time": 1780223660,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 433178,
+        "num": 198183,
+        "word": "白鹿求粉丝别喊了",
+        "onboard_time": 1780212919,
+        "rank": 21,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 374329,
+        "num": 198054,
+        "word": "张峻豪泡泡更新",
+        "onboard_time": 1780222099,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198007,
+        "num": 198007,
+        "word": "法网",
+        "onboard_time": 1780222519,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 335156,
+        "num": 197915,
+        "word": "刘德华妻子60岁状态",
+        "onboard_time": 1780204160,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 301086,
+        "num": 197861,
+        "word": "白百何参加儿子毕业典礼",
+        "onboard_time": 1780220420,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146251,
+        "num": 197784,
+        "word": "中际旭创股价暴涨",
+        "onboard_time": 1780222760,
+        "rank": 26,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 177154,
+        "num": 197577,
+        "word": "李昀锐衣服李晨脱完丁程鑫脱",
+        "onboard_time": 1780220540,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156369,
+        "num": 197522,
+        "word": "江山大同",
+        "onboard_time": 1780217839,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107986,
+        "num": 197419,
+        "word": "咖啡减肥这样喝才有效",
+        "onboard_time": 1780216100,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 197337,
+        "num": 197337,
+        "word": "服务员争了半天谁去送这个包间",
+        "onboard_time": 1780215800,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 182407,
+        "num": 182407,
+        "word": "郭晓婷只有她出场时没用运镜",
+        "onboard_time": 1780218742,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161382,
+        "num": 161382,
+        "word": "JDG对战TES",
+        "onboard_time": 1780225219,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 155681,
+        "num": 155681,
+        "word": "办公室阴招可以不用一定要会",
+        "onboard_time": 1780217900,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 153262,
+        "num": 153262,
+        "word": "第一次理解精神损失费",
+        "onboard_time": 1780218680,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 151515,
+        "num": 151515,
+        "word": "斯瓦泰克vs科斯秋克",
+        "onboard_time": 1780223901,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 150521,
+        "num": 150521,
+        "word": "不读书的人生有多么的残酷",
+        "onboard_time": 1780221021,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 143704,
+        "num": 143704,
+        "word": "内娱明星眼里的杨幂",
+        "onboard_time": 1780221320,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138992,
+        "num": 138992,
+        "word": "岳雨婷曝短剧行业有很多捷径",
+        "onboard_time": 1780212861,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136579,
+        "num": 136579,
+        "word": "樊振东vs邱党",
+        "onboard_time": 1780225401,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100544,
+        "num": 127457,
+        "word": "小城良方排播",
+        "onboard_time": 1780225401,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 24240,
+        "num": 124609,
+        "word": "明星红包我接到了",
+        "onboard_time": 1780221920,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122331,
+        "num": 122331,
+        "word": "清华硕士从事纹眉1年最高月入10万",
+        "onboard_time": 1780200859,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135224,
+        "num": 121624,
+        "word": "李小冉怎么了",
+        "onboard_time": 1780202361,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132644,
+        "num": 121592,
+        "word": "TF泡泡",
+        "onboard_time": 1780224139,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120901,
+        "num": 120901,
+        "word": "新娘墓前拜别母亲红盖头飘落",
+        "onboard_time": 1780210459,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118787,
+        "num": 118787,
+        "word": "哈尔滨你怎么了",
+        "onboard_time": 1780224500,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114779,
+        "num": 114779,
+        "word": "韩庚鹿晗SM师兄弟合体",
+        "onboard_time": 1780208480,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 85610,
+        "num": 109702,
+        "word": "宋亚轩超快反应拉手刹",
+        "onboard_time": 1780213280,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 78723,
+        "num": 106950,
+        "word": "印度老人悬挂在高层窗外偷拍邻居",
+        "onboard_time": 1780214420,
+        "rank": 49,
+        "category": "海外新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平回信勉励少先队红领巾讲解员#"
+    }
+  }
+}
