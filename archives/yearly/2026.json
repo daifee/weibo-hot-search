@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1780241090376,
+  "endTime": 1780242538494,
   "band_list": [
     {
       "raw_hot": 46860992,
@@ -1483,6 +1483,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 4274003,
+      "num": 4274003,
+      "word": "天涯神帖",
+      "onboard_time": 1780234221,
+      "rank": 1,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 4270695,
       "num": 1120252,
       "word": "陈丽华逝世",
@@ -1497,14 +1505,6 @@
       "onboard_time": 1779543386,
       "rank": 10,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 4222025,
-      "num": 4222025,
-      "word": "天涯神帖",
-      "onboard_time": 1780234221,
-      "rank": 1,
-      "category": "互联网"
     },
     {
       "raw_hot": 4221098,

@@ -1,6 +1,6 @@
 {
   "startTime": 1777565126834,
-  "endTime": 1780241090376,
+  "endTime": 1780242538494,
   "band_list": [
     {
       "raw_hot": 28198949,
@@ -483,20 +483,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 4274003,
+      "num": 4274003,
+      "word": "天涯神帖",
+      "onboard_time": 1780234221,
+      "rank": 1,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 4254390,
       "num": 549330,
       "word": "伊能静疑似力挺庾澄庆",
       "onboard_time": 1779543386,
       "rank": 10,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 4222025,
-      "num": 4222025,
-      "word": "天涯神帖",
-      "onboard_time": 1780234221,
-      "rank": 1,
-      "category": "互联网"
     },
     {
       "raw_hot": 4221098,
@@ -16227,6 +16227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 487704,
+      "num": 487704,
+      "word": "哈尔滨沙尘暴黑墙2分钟吞没居民楼",
+      "onboard_time": 1780238360,
+      "rank": 5,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 487401,
       "num": 487401,
       "word": "樊振东0比3小勒布伦",
@@ -18003,14 +18011,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 441947,
-      "num": 441947,
-      "word": "哈尔滨沙尘暴黑墙2分钟吞没居民楼",
-      "onboard_time": 1780238360,
-      "rank": 5,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 441896,
       "num": 362964,
       "word": "小米大涨超8%",
@@ -18585,6 +18585,14 @@
       "onboard_time": 1780142360,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 426432,
+      "num": 426432,
+      "word": "樊振东已集齐德国杯欧冠德甲冠军",
+      "onboard_time": 1780239081,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 426196,
@@ -20153,14 +20161,6 @@
       "onboard_time": 1778943322,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 392218,
-      "num": 392218,
-      "word": "樊振东已集齐德国杯欧冠德甲冠军",
-      "onboard_time": 1780239081,
-      "rank": 7,
-      "category": "体育"
     },
     {
       "raw_hot": 392004,
@@ -25347,6 +25347,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 305992,
+      "num": 305992,
+      "word": "王源 好听",
+      "onboard_time": 1780238843,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 305860,
       "num": 305860,
       "word": "主角OST请来了王菲",
@@ -29603,20 +29611,20 @@
       "category": "财经"
     },
     {
+      "raw_hot": 254426,
+      "num": 275260,
+      "word": "央视曝光劣质驱蚊产品",
+      "onboard_time": 1780239681,
+      "rank": 32,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 254418,
       "num": 254418,
       "word": "景甜还有3部待播剧",
       "onboard_time": 1779427824,
       "rank": 25,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 254363,
-      "num": 295650,
-      "word": "王源 好听",
-      "onboard_time": 1780238843,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 254357,
@@ -30075,6 +30083,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 249764,
+      "num": 249764,
+      "word": "万花世界 鞠婧祎戏份",
+      "onboard_time": 1780242380,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 249717,
       "num": 367779,
       "word": "新加坡将鞭刑加入校园反霸凌新规",
@@ -30193,6 +30209,14 @@
       "onboard_time": 1779249381,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 248692,
+      "num": 248692,
+      "word": "王源压轴",
+      "onboard_time": 1780241780,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 248677,
@@ -32915,6 +32939,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 223771,
+      "num": 223771,
+      "word": "天天吃鸡蛋和很少吃鸡蛋谁更健康",
+      "onboard_time": 1780242023,
+      "rank": 34,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 223743,
       "num": 223743,
       "word": "21世纪大君夫人大结局",
@@ -34331,6 +34363,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 211835,
+      "num": 211835,
+      "word": "医学生网购美工刀拆袋被裸装刀割伤",
+      "onboard_time": 1780237642,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 211710,
       "num": 334057,
       "word": "衣服洗完不香搓一下",
@@ -34385,6 +34425,14 @@
       "onboard_time": 1778234481,
       "rank": 32,
       "category": "民生新闻,健康医疗"
+    },
+    {
+      "raw_hot": 211314,
+      "num": 211314,
+      "word": "邓超没做腋下管理",
+      "onboard_time": 1780241180,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 211096,
@@ -35016,14 +35064,6 @@
       "word": "非洲大蜗牛",
       "onboard_time": 1779509242,
       "rank": 41,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 206428,
-      "num": 206428,
-      "word": "医学生网购美工刀拆袋被裸装刀割伤",
-      "onboard_time": 1780237642,
-      "rank": 44,
       "category": "民生新闻"
     },
     {
@@ -40643,6 +40683,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 165809,
+      "num": 290133,
+      "word": "拉丁舞爆火裁判一个月跳瘦8斤",
+      "onboard_time": 1780240761,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 165793,
       "num": 561494,
       "word": "贺峻霖宋亚轩十年前就住一起",
@@ -42283,6 +42331,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 154062,
+      "num": 154062,
+      "word": "宋亚轩视频进度条是小时候的自己",
+      "onboard_time": 1780239441,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 154055,
       "num": 154055,
       "word": "贺峻霖唱了爱情讯息",
@@ -43913,14 +43969,6 @@
       "onboard_time": 1777604479,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 142015,
-      "num": 275260,
-      "word": "央视曝光劣质驱蚊产品",
-      "onboard_time": 1780239681,
-      "rank": 32,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 141997,
@@ -47923,14 +47971,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 112053,
-      "num": 290133,
-      "word": "拉丁舞爆火裁判一个月跳瘦8斤",
-      "onboard_time": 1780240761,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 112040,
       "num": 340265,
       "word": "EDG战胜NIP",
@@ -51345,6 +51385,14 @@
       "onboard_time": 1780033941,
       "rank": 43,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 79806,
+      "num": 141769,
+      "word": "多名艺人辞演后特朗普决定自己上台",
+      "onboard_time": 1780242261,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 79668,
@@ -58643,6 +58691,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 28055,
+      "num": 162499,
+      "word": "欧阳娜娜秀场生图杀手",
+      "onboard_time": 1780242501,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 27995,
       "num": 61192,
       "word": "四川泸定地震",
@@ -61171,6 +61227,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 11062,
+      "num": 982305,
+      "word": "城事日记津彩有你",
+      "onboard_time": 1780232241,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 11038,
       "num": 177092,
       "word": "全民担当苏超守门员",
@@ -61281,14 +61345,6 @@
       "onboard_time": 1780124899,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 9934,
-      "num": 982305,
-      "word": "城事日记津彩有你",
-      "onboard_time": 1780232241,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 9740,

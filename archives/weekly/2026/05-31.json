@@ -1,10 +1,10 @@
 {
   "startTime": 1780161470105,
-  "endTime": 1780241090376,
+  "endTime": 1780242538494,
   "band_list": [
     {
-      "raw_hot": 4222025,
-      "num": 4222025,
+      "raw_hot": 4274003,
+      "num": 4274003,
       "word": "天涯神帖",
       "onboard_time": 1780234221,
       "rank": 1,
@@ -491,6 +491,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 487704,
+      "num": 487704,
+      "word": "哈尔滨沙尘暴黑墙2分钟吞没居民楼",
+      "onboard_time": 1780238360,
+      "rank": 5,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 482701,
       "num": 373756,
       "word": "南京大学首位没有毕业论文博士答辩",
@@ -563,14 +571,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 441947,
-      "num": 441947,
-      "word": "哈尔滨沙尘暴黑墙2分钟吞没居民楼",
-      "onboard_time": 1780238360,
-      "rank": 5,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 441595,
       "num": 441595,
       "word": "王一栩给鞠婧祎推的资源",
@@ -585,6 +585,14 @@
       "onboard_time": 1780145721,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 426432,
+      "num": 426432,
+      "word": "樊振东已集齐德国杯欧冠德甲冠军",
+      "onboard_time": 1780239081,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 422232,
@@ -633,14 +641,6 @@
       "onboard_time": 1780234700,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 392218,
-      "num": 392218,
-      "word": "樊振东已集齐德国杯欧冠德甲冠军",
-      "onboard_time": 1780239081,
-      "rank": 7,
-      "category": "体育"
     },
     {
       "raw_hot": 388860,
@@ -907,6 +907,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 305992,
+      "num": 305992,
+      "word": "王源 好听",
+      "onboard_time": 1780238843,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 303414,
       "num": 303414,
       "word": "月亮",
@@ -1075,12 +1083,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 254363,
-      "num": 295650,
-      "word": "王源 好听",
-      "onboard_time": 1780238843,
-      "rank": 26,
-      "category": "综艺"
+      "raw_hot": 254426,
+      "num": 275260,
+      "word": "央视曝光劣质驱蚊产品",
+      "onboard_time": 1780239681,
+      "rank": 32,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 250609,
@@ -1091,12 +1099,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 249764,
+      "num": 249764,
+      "word": "万花世界 鞠婧祎戏份",
+      "onboard_time": 1780242380,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 249343,
       "num": 249343,
       "word": "第一次被一只猫的长相攻击到了",
       "onboard_time": 1780207999,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 248692,
+      "num": 248692,
+      "word": "王源压轴",
+      "onboard_time": 1780241780,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 246241,
@@ -1179,6 +1203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 223771,
+      "num": 223771,
+      "word": "天天吃鸡蛋和很少吃鸡蛋谁更健康",
+      "onboard_time": 1780242023,
+      "rank": 34,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 223172,
       "num": 185637,
       "word": "周翊然脚滑摔倒",
@@ -1227,6 +1259,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 211835,
+      "num": 211835,
+      "word": "医学生网购美工刀拆袋被裸装刀割伤",
+      "onboard_time": 1780237642,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 211314,
+      "num": 211314,
+      "word": "邓超没做腋下管理",
+      "onboard_time": 1780241180,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 209738,
       "num": 209738,
       "word": "白鹿换头像过六一",
@@ -1264,14 +1312,6 @@
       "word": "重庆一凶宅39万余元起拍",
       "onboard_time": 1780214540,
       "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 206428,
-      "num": 206428,
-      "word": "医学生网购美工刀拆袋被裸装刀割伤",
-      "onboard_time": 1780237642,
-      "rank": 44,
       "category": "民生新闻"
     },
     {
@@ -1507,6 +1547,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 165809,
+      "num": 290133,
+      "word": "拉丁舞爆火裁判一个月跳瘦8斤",
+      "onboard_time": 1780240761,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 162154,
       "num": 162154,
       "word": "内娱明星眼里的杨幂",
@@ -1553,6 +1601,14 @@
       "onboard_time": 1780153520,
       "rank": 17,
       "category": "演出"
+    },
+    {
+      "raw_hot": 154062,
+      "num": 154062,
+      "word": "宋亚轩视频进度条是小时候的自己",
+      "onboard_time": 1780239441,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 153407,
@@ -1649,14 +1705,6 @@
       "onboard_time": 1780212140,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 142015,
-      "num": 275260,
-      "word": "央视曝光劣质驱蚊产品",
-      "onboard_time": 1780239681,
-      "rank": 32,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 138779,
@@ -1777,14 +1825,6 @@
       "onboard_time": 1780149862,
       "rank": 30,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 112053,
-      "num": 290133,
-      "word": "拉丁舞爆火裁判一个月跳瘦8斤",
-      "onboard_time": 1780240761,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 111776,
@@ -1929,6 +1969,14 @@
       "onboard_time": 1780180817,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 79806,
+      "num": 141769,
+      "word": "多名艺人辞演后特朗普决定自己上台",
+      "onboard_time": 1780242261,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 79534,
@@ -2219,6 +2267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 28055,
+      "num": 162499,
+      "word": "欧阳娜娜秀场生图杀手",
+      "onboard_time": 1780242501,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 27488,
       "num": 780477,
       "word": "27部门出手对这两类儿童全力守护",
@@ -2323,18 +2379,18 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 10347,
-      "num": 1166329,
-      "word": "在上海找到创作主场",
-      "onboard_time": 1780143260,
+      "raw_hot": 11062,
+      "num": 982305,
+      "word": "城事日记津彩有你",
+      "onboard_time": 1780232241,
       "rank": 2,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 9934,
-      "num": 982305,
-      "word": "城事日记津彩有你",
-      "onboard_time": 1780232241,
+      "raw_hot": 10347,
+      "num": 1166329,
+      "word": "在上海找到创作主场",
+      "onboard_time": 1780143260,
       "rank": 2,
       "category": "民生新闻"
     }
