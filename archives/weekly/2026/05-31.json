@@ -1,6 +1,6 @@
 {
   "startTime": 1780161470105,
-  "endTime": 1780242538494,
+  "endTime": 1780247827631,
   "band_list": [
     {
       "raw_hot": 4274003,
@@ -675,6 +675,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 378957,
+      "num": 378957,
+      "word": "窦骁 咱娥今天可太美啦",
+      "onboard_time": 1780244719,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 374329,
       "num": 277620,
       "word": "张峻豪泡泡更新",
@@ -963,6 +971,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 289786,
+      "num": 534982,
+      "word": "央视曝光劣质驱蚊产品",
+      "onboard_time": 1780239681,
+      "rank": 32,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 289419,
       "num": 362330,
       "word": "樊振东VS卡纳克贾哈",
@@ -977,6 +993,14 @@
       "onboard_time": 1780235121,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 284703,
+      "num": 284703,
+      "word": "曾沛慈音乐节人气",
+      "onboard_time": 1780246219,
+      "rank": 4,
+      "category": "演出"
     },
     {
       "raw_hot": 283979,
@@ -1083,14 +1107,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 254426,
-      "num": 275260,
-      "word": "央视曝光劣质驱蚊产品",
-      "onboard_time": 1780239681,
-      "rank": 32,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 250609,
       "num": 332461,
       "word": "9岁女童因怕挨打离家失联22年终团圆",
@@ -1123,6 +1139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 246957,
+      "num": 246957,
+      "word": "泥人村干部被卷走监控曝光",
+      "onboard_time": 1780245021,
+      "rank": 7,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 246241,
       "num": 238848,
       "word": "东北超",
@@ -1153,6 +1177,14 @@
       "onboard_time": 1780236983,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 242677,
+      "num": 223771,
+      "word": "天天吃鸡蛋和很少吃鸡蛋谁更健康",
+      "onboard_time": 1780242023,
+      "rank": 34,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 233872,
@@ -1201,14 +1233,6 @@
       "onboard_time": 1780218742,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 223771,
-      "num": 223771,
-      "word": "天天吃鸡蛋和很少吃鸡蛋谁更健康",
-      "onboard_time": 1780242023,
-      "rank": 34,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 223172,
@@ -1420,7 +1444,7 @@
     },
     {
       "raw_hot": 186760,
-      "num": 226735,
+      "num": 242264,
       "word": "日本拥抱印度",
       "onboard_time": 1780232540,
       "rank": 43,
@@ -1473,6 +1497,14 @@
       "onboard_time": 1780239024,
       "rank": 46,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 178293,
+      "num": 178293,
+      "word": "多名艺人辞演后特朗普决定自己上台",
+      "onboard_time": 1780242261,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 177222,
@@ -1707,6 +1739,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 143120,
+      "num": 143120,
+      "word": "关晓彤李昀锐耀眼冰箱吻",
+      "onboard_time": 1780243160,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 138779,
       "num": 138779,
       "word": "花间令2.0",
@@ -1795,6 +1835,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 121258,
+      "num": 121258,
+      "word": "刘浩存回复秦海璐",
+      "onboard_time": 1780246576,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 121100,
       "num": 121100,
       "word": "阿迪达斯 在城里办事",
@@ -1865,6 +1913,14 @@
       "onboard_time": 1780156880,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 100583,
+      "num": 100583,
+      "word": "网红边牧锄头主人拒绝和解",
+      "onboard_time": 1780246818,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 100114,
@@ -1947,6 +2003,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 87965,
+      "num": 100556,
+      "word": "万花世界剧组声明",
+      "onboard_time": 1780242919,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 84431,
       "num": 93657,
       "word": "严浩翔rap",
@@ -1969,14 +2033,6 @@
       "onboard_time": 1780180817,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 79806,
-      "num": 141769,
-      "word": "多名艺人辞演后特朗普决定自己上台",
-      "onboard_time": 1780242261,
-      "rank": 49,
-      "category": "国际时政"
     },
     {
       "raw_hot": 79534,
@@ -2027,6 +2083,22 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 74322,
+      "num": 100508,
+      "word": "天涯社区曾2次重启失败",
+      "onboard_time": 1780246818,
+      "rank": 36,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 74006,
+      "num": 100495,
+      "word": "周深又被攻击了",
+      "onboard_time": 1780243400,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
       "raw_hot": 73794,
       "num": 221269,
       "word": "客服回应刀具裸装割伤医学生手神经",
@@ -2051,6 +2123,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 69128,
+      "num": 100425,
+      "word": "这才是六一该办的活动",
+      "onboard_time": 1780247237,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 69030,
       "num": 72108,
       "word": "李宇春给我唱回彩铃时代了",
@@ -2065,6 +2145,14 @@
       "onboard_time": 1780156760,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 66462,
+      "num": 100420,
+      "word": "汪苏泷疑似失去所有力气和手段",
+      "onboard_time": 1780246818,
+      "rank": 42,
+      "category": "演出"
     },
     {
       "raw_hot": 65876,
@@ -2123,6 +2211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 57073,
+      "num": 100366,
+      "word": "土伦杯",
+      "onboard_time": 1780241240,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 55551,
       "num": 55551,
       "word": "角球",
@@ -2131,12 +2227,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 55372,
+      "num": 100354,
+      "word": "在柬遇害中国地产商妻子发声",
+      "onboard_time": 1780246818,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 54305,
       "num": 381446,
       "word": "张家口一风电项目付了1.98亿事没干成",
       "onboard_time": 1780236082,
       "rank": 18,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 54117,
+      "num": 100342,
+      "word": "王源完全青春男大来的",
+      "onboard_time": 1780244599,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 53465,
