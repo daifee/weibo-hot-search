@@ -1,6 +1,6 @@
 {
   "startTime": 1780161470105,
-  "endTime": 1780225519780,
+  "endTime": 1780228793838,
   "band_list": [
     {
       "raw_hot": 2409117,
@@ -27,12 +27,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1831564,
+      "num": 591017,
+      "word": "孙杨 下沉市场口碑反转",
+      "onboard_time": 1780221021,
+      "rank": 5,
+      "category": "体育,作品衍生"
+    },
+    {
       "raw_hot": 1762192,
       "num": 293550,
       "word": "孙俪的痣没了",
       "onboard_time": 1780218800,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1669422,
+      "num": 309897,
+      "word": "张凌赫线下活动取消目击者发声",
+      "onboard_time": 1780224559,
+      "rank": 14,
+      "category": "艺人,民生新闻"
     },
     {
       "raw_hot": 1586442,
@@ -75,14 +91,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1391011,
-      "num": 591017,
-      "word": "孙杨 下沉市场口碑反转",
-      "onboard_time": 1780221021,
-      "rank": 5,
-      "category": "体育,作品衍生"
-    },
-    {
       "raw_hot": 1345515,
       "num": 1345515,
       "word": "哈尔滨沙尘暴",
@@ -97,6 +105,14 @@
       "onboard_time": 1780196420,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1253650,
+      "num": 304165,
+      "word": "王灿因病切了一片肺",
+      "onboard_time": 1780226299,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 1242856,
@@ -116,7 +132,7 @@
     },
     {
       "raw_hot": 1077030,
-      "num": 266636,
+      "num": 301165,
       "word": "刘诗诗下沉市场",
       "onboard_time": 1780223420,
       "rank": 26,
@@ -148,7 +164,7 @@
     },
     {
       "raw_hot": 950091,
-      "num": 290063,
+      "num": 300559,
       "word": "曝短剧演员陈添祥延毕2年",
       "onboard_time": 1780218381,
       "rank": 13,
@@ -259,6 +275,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 678832,
+      "num": 855975,
+      "word": "樊振东vs邱党",
+      "onboard_time": 1780225401,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 658025,
+      "num": 378708,
+      "word": "反派脊柱侧弯",
+      "onboard_time": 1780226779,
+      "rank": 5,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 650767,
       "num": 369422,
       "word": "伊能静第一次看到儿子恩利化妆",
@@ -299,6 +331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 590451,
+      "num": 275737,
+      "word": "其实补气血真的很简单",
+      "onboard_time": 1780223660,
+      "rank": 20,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 586218,
       "num": 586218,
       "word": "欧冠决赛 难看",
@@ -313,14 +353,6 @@
       "onboard_time": 1780169774,
       "rank": 5,
       "category": "体育"
-    },
-    {
-      "raw_hot": 540618,
-      "num": 200805,
-      "word": "张凌赫线下活动取消目击者发声",
-      "onboard_time": 1780224559,
-      "rank": 14,
-      "category": "艺人,民生新闻"
     },
     {
       "raw_hot": 534972,
@@ -419,20 +451,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 422232,
+      "num": 290093,
+      "word": "窦唯妹妹去谢霆锋演唱会",
+      "onboard_time": 1780221320,
+      "rank": 18,
+      "category": "演出"
+    },
+    {
       "raw_hot": 418787,
       "num": 193904,
       "word": "薛小婉任权复合了",
       "onboard_time": 1780183157,
       "rank": 21,
       "category": "网红"
-    },
-    {
-      "raw_hot": 411224,
-      "num": 198332,
-      "word": "其实补气血真的很简单",
-      "onboard_time": 1780223660,
-      "rank": 20,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 405506,
@@ -449,14 +481,6 @@
       "onboard_time": 1780208480,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 401336,
-      "num": 284668,
-      "word": "窦唯妹妹去谢霆锋演唱会",
-      "onboard_time": 1780221320,
-      "rank": 18,
-      "category": "演出"
     },
     {
       "raw_hot": 397488,
@@ -491,6 +515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 378768,
+      "num": 378768,
+      "word": "天涯社区将正式恢复访问",
+      "onboard_time": 1780227741,
+      "rank": 4,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 374329,
       "num": 277620,
       "word": "张峻豪泡泡更新",
@@ -507,12 +539,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 369900,
+      "num": 270076,
+      "word": "张凌赫活动商场玻璃破碎致5擦伤",
+      "onboard_time": 1780226660,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 367812,
       "num": 279887,
       "word": "白百何参加儿子毕业典礼",
       "onboard_time": 1780220420,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 367602,
+      "num": 367602,
+      "word": "小城良方排播",
+      "onboard_time": 1780225401,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 366376,
@@ -675,6 +723,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 303414,
+      "num": 303414,
+      "word": "月亮",
+      "onboard_time": 1780227860,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 298870,
+      "num": 298870,
+      "word": "二次元不是软色情遮羞布",
+      "onboard_time": 1780226960,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 298702,
       "num": 298702,
       "word": "张凌赫直播",
@@ -723,12 +787,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 281584,
+      "num": 281584,
+      "word": "法网",
+      "onboard_time": 1780222519,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 280798,
       "num": 206504,
       "word": "时代峰峻公关文案",
       "onboard_time": 1780187837,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 274198,
+      "num": 320496,
+      "word": "办公室阴招可以不用一定要会",
+      "onboard_time": 1780217900,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 269118,
@@ -811,6 +891,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 223172,
+      "num": 185637,
+      "word": "周翊然脚滑摔倒",
+      "onboard_time": 1780227320,
+      "rank": 33,
+      "category": "艺人,作品衍生"
+    },
+    {
       "raw_hot": 217698,
       "num": 217698,
       "word": "阚清子小考脱胎换骨",
@@ -867,6 +955,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 206740,
+      "num": 206740,
+      "word": "家业",
+      "onboard_time": 1780228340,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 206699,
       "num": 390730,
       "word": "重庆一凶宅39万余元起拍",
@@ -881,6 +977,14 @@
       "onboard_time": 1780215800,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 203306,
+      "num": 182899,
+      "word": "哈尔滨你怎么了",
+      "onboard_time": 1780224500,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 201743,
@@ -913,14 +1017,6 @@
       "onboard_time": 1780155439,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 198007,
-      "num": 198007,
-      "word": "法网",
-      "onboard_time": 1780222519,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 197873,
@@ -971,6 +1067,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 180459,
+      "num": 180459,
+      "word": "京东红包",
+      "onboard_time": 1780228519,
+      "rank": 35,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 179690,
       "num": 179690,
       "word": "Viper道歉",
@@ -993,6 +1097,14 @@
       "onboard_time": 1780144940,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 177222,
+      "num": 177222,
+      "word": "主角",
+      "onboard_time": 1780143260,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 175471,
@@ -1043,6 +1155,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 162154,
+      "num": 162154,
+      "word": "内娱明星眼里的杨幂",
+      "onboard_time": 1780221320,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 161414,
+      "num": 161414,
+      "word": "中方必将反制日菲所谓划界谈判",
+      "onboard_time": 1780228581,
+      "rank": 43,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 161382,
       "num": 161382,
       "word": "JDG对战TES",
@@ -1073,14 +1201,6 @@
       "onboard_time": 1780153520,
       "rank": 17,
       "category": "演出"
-    },
-    {
-      "raw_hot": 155681,
-      "num": 155681,
-      "word": "办公室阴招可以不用一定要会",
-      "onboard_time": 1780217900,
-      "rank": 33,
-      "category": "情感"
     },
     {
       "raw_hot": 153407,
@@ -1147,8 +1267,8 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 146251,
-      "num": 197784,
+      "raw_hot": 146694,
+      "num": 204061,
       "word": "中际旭创股价暴涨",
       "onboard_time": 1780222760,
       "rank": 45,
@@ -1179,14 +1299,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 143704,
-      "num": 143704,
-      "word": "内娱明星眼里的杨幂",
-      "onboard_time": 1780221320,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 138779,
       "num": 138779,
       "word": "花间令2.0",
@@ -1201,14 +1313,6 @@
       "onboard_time": 1780206920,
       "rank": 38,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 136579,
-      "num": 136579,
-      "word": "樊振东vs邱党",
-      "onboard_time": 1780225401,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 134650,
@@ -1291,14 +1395,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 118787,
-      "num": 118787,
-      "word": "哈尔滨你怎么了",
-      "onboard_time": 1780224500,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 115245,
       "num": 115245,
       "word": "阿森纳黄牌",
@@ -1339,14 +1435,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 108792,
-      "num": 116153,
-      "word": "主角",
-      "onboard_time": 1780143260,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 104086,
       "num": 104086,
       "word": "邓超一开口梦回初代跑男",
@@ -1355,12 +1443,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 100544,
-      "num": 127457,
-      "word": "小城良方排播",
-      "onboard_time": 1780225401,
-      "rank": 40,
-      "category": "剧集"
+      "raw_hot": 102495,
+      "num": 134652,
+      "word": "智利缉毒犬典礼上扑咬海军中将口袋",
+      "onboard_time": 1780227741,
+      "rank": 46,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 100114,
@@ -1643,11 +1731,27 @@
       "category": "演出"
     },
     {
+      "raw_hot": 36544,
+      "num": 179616,
+      "word": "手把手教你领国补优惠券",
+      "onboard_time": 1780225519,
+      "rank": 36,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 36037,
       "num": 381839,
       "word": "老人担保贷款110万去世家属才知情",
       "onboard_time": 1780215081,
       "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 35052,
+      "num": 161703,
+      "word": "今年618的第一个锦鲤诞生了",
+      "onboard_time": 1780225519,
+      "rank": 42,
       "category": "民生新闻"
     },
     {
@@ -1657,6 +1761,14 @@
       "onboard_time": 1780221920,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 32273,
+      "num": 191526,
+      "word": "618真的能让懒人变得更快乐",
+      "onboard_time": 1780225519,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 30794,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1780228793838,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 973534,
+        "num": 1155765,
+        "word": "哈尔滨沙尘暴",
+        "onboard_time": 1780221320,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 678832,
+        "num": 855975,
+        "word": "樊振东vs邱党",
+        "onboard_time": 1780225401,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 9249,
+        "num": 664854,
+        "word": "智博会发布200余项创新成果",
+        "onboard_time": 1780214179,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 392812,
+        "num": 392812,
+        "word": "法国高温致7人死亡中国留学生发声",
+        "onboard_time": 1780208299,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 378768,
+        "num": 378768,
+        "word": "天涯社区将正式恢复访问",
+        "onboard_time": 1780227741,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 658025,
+        "num": 378708,
+        "word": "反派脊柱侧弯",
+        "onboard_time": 1780226779,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 526977,
+        "num": 377028,
+        "word": "过度防晒",
+        "onboard_time": 1780216940,
+        "rank": 6,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 367602,
+        "num": 367602,
+        "word": "小城良方排播",
+        "onboard_time": 1780225401,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 323406,
+        "num": 323406,
+        "word": "央视起底娜塔莎暴力解压玩具",
+        "onboard_time": 1780214479,
+        "rank": 8,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 274198,
+        "num": 320496,
+        "word": "办公室阴招可以不用一定要会",
+        "onboard_time": 1780217900,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1831564,
+        "num": 316455,
+        "word": "孙杨 下沉市场口碑反转",
+        "onboard_time": 1780221021,
+        "rank": 10,
+        "category": "体育,作品衍生"
+      },
+      {
+        "raw_hot": 1669422,
+        "num": 309897,
+        "word": "张凌赫线下活动取消目击者发声",
+        "onboard_time": 1780224559,
+        "rank": 11,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 1253650,
+        "num": 304165,
+        "word": "王灿因病切了一片肺",
+        "onboard_time": 1780226299,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 303414,
+        "num": 303414,
+        "word": "月亮",
+        "onboard_time": 1780227860,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 600062,
+        "num": 301165,
+        "word": "刘诗诗下沉市场",
+        "onboard_time": 1780223420,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 531379,
+        "num": 300559,
+        "word": "曝短剧演员陈添祥延毕2年",
+        "onboard_time": 1780218381,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 298870,
+        "num": 298870,
+        "word": "二次元不是软色情遮羞布",
+        "onboard_time": 1780226960,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 529571,
+        "num": 294569,
+        "word": "曾沛慈长文告别三公",
+        "onboard_time": 1780217780,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 422232,
+        "num": 290093,
+        "word": "窦唯妹妹去谢霆锋演唱会",
+        "onboard_time": 1780221320,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 281584,
+        "num": 281584,
+        "word": "法网",
+        "onboard_time": 1780222519,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 590451,
+        "num": 275737,
+        "word": "其实补气血真的很简单",
+        "onboard_time": 1780223660,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 369900,
+        "num": 270076,
+        "word": "张凌赫活动商场玻璃破碎致5擦伤",
+        "onboard_time": 1780226660,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 361532,
+        "num": 266089,
+        "word": "vogue红毯 疲惫",
+        "onboard_time": 1780215920,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 244737,
+        "num": 244737,
+        "word": "华为感谢美国制裁",
+        "onboard_time": 1780204822,
+        "rank": 23,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 320595,
+        "num": 230601,
+        "word": "白百何参加儿子毕业典礼",
+        "onboard_time": 1780220420,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206740,
+        "num": 206740,
+        "word": "家业",
+        "onboard_time": 1780228340,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146694,
+        "num": 204061,
+        "word": "中际旭创股价暴涨",
+        "onboard_time": 1780222760,
+        "rank": 26,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 203006,
+        "num": 203006,
+        "word": "接机张月时接到了浪姐节目组电话",
+        "onboard_time": 1780216458,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149324,
+        "num": 201944,
+        "word": "南天门计划最新进展曝光",
+        "onboard_time": 1780212919,
+        "rank": 28,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 111140,
+        "num": 198359,
+        "word": "咖啡减肥这样喝才有效",
+        "onboard_time": 1780216100,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 313107,
+        "num": 194609,
+        "word": "张峻豪泡泡更新",
+        "onboard_time": 1780222099,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32273,
+        "num": 191526,
+        "word": "618真的能让懒人变得更快乐",
+        "onboard_time": 1780225519,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 261216,
+        "num": 189686,
+        "word": "白鹿求粉丝别喊了",
+        "onboard_time": 1780212919,
+        "rank": 32,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 223172,
+        "num": 185637,
+        "word": "周翊然脚滑摔倒",
+        "onboard_time": 1780227320,
+        "rank": 33,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 203306,
+        "num": 182899,
+        "word": "哈尔滨你怎么了",
+        "onboard_time": 1780224500,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 180459,
+        "num": 180459,
+        "word": "京东红包",
+        "onboard_time": 1780228519,
+        "rank": 35,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 36544,
+        "num": 179616,
+        "word": "手把手教你领国补优惠券",
+        "onboard_time": 1780225519,
+        "rank": 36,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 179260,
+        "num": 179260,
+        "word": "郭晓婷只有她出场时没用运镜",
+        "onboard_time": 1780218742,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177222,
+        "num": 177222,
+        "word": "主角",
+        "onboard_time": 1780228100,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163538,
+        "num": 163538,
+        "word": "服务员争了半天谁去送这个包间",
+        "onboard_time": 1780215800,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 167008,
+        "num": 163354,
+        "word": "刘德华妻子60岁状态",
+        "onboard_time": 1780204160,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162154,
+        "num": 162154,
+        "word": "内娱明星眼里的杨幂",
+        "onboard_time": 1780221320,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 35052,
+        "num": 161703,
+        "word": "今年618的第一个锦鲤诞生了",
+        "onboard_time": 1780225519,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161414,
+        "num": 161414,
+        "word": "中方必将反制日菲所谓划界谈判",
+        "onboard_time": 1780228581,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 62292,
+        "num": 146500,
+        "word": "高温来袭的自救穿搭公式",
+        "onboard_time": 1780224261,
+        "rank": 44,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 139487,
+        "num": 139487,
+        "word": "李昀锐衣服李晨脱完丁程鑫脱",
+        "onboard_time": 1780220540,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102495,
+        "num": 134652,
+        "word": "智利缉毒犬典礼上扑咬海军中将口袋",
+        "onboard_time": 1780227741,
+        "rank": 46,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 81779,
+        "num": 133999,
+        "word": "京东618夏日歌会",
+        "onboard_time": 1780211120,
+        "rank": 47,
+        "category": "综艺,互联网"
+      },
+      {
+        "raw_hot": 133749,
+        "num": 133749,
+        "word": "不读书的人生有多么的残酷",
+        "onboard_time": 1780221021,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 78252,
+        "num": 126041,
+        "word": "江山大同",
+        "onboard_time": 1780217839,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#请收下总书记的成长寄语#"
+    }
+  }
+}
