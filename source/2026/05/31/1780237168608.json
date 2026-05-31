@@ -1,0 +1,410 @@
+{
+  "runTime": 1780237168608,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2893836,
+        "num": 2893836,
+        "word": "天涯神帖",
+        "onboard_time": 1780234221,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1323772,
+        "num": 1323772,
+        "word": "天涯社区将正式恢复访问",
+        "onboard_time": 1780227741,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 8151,
+        "num": 849738,
+        "word": "城事日记津彩有你",
+        "onboard_time": 1780232241,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 583838,
+        "num": 583838,
+        "word": "主角编剧",
+        "onboard_time": 1780233259,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 575496,
+        "num": 575496,
+        "word": "新疆人未来一个月菜品",
+        "onboard_time": 1780229600,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 480613,
+        "num": 480613,
+        "word": "樊振东3比1邱党",
+        "onboard_time": 1780229299,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 437515,
+        "num": 437515,
+        "word": "过度防晒",
+        "onboard_time": 1780216940,
+        "rank": 6,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 401515,
+        "num": 401515,
+        "word": "关晓彤演技",
+        "onboard_time": 1780232180,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 245354,
+        "num": 399728,
+        "word": "刘宇宁上场哇声一片",
+        "onboard_time": 1780236082,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 472237,
+        "num": 398626,
+        "word": "德甲决赛",
+        "onboard_time": 1780235961,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1995277,
+        "num": 397384,
+        "word": "张凌赫全额补偿粉丝",
+        "onboard_time": 1780230200,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 961497,
+        "num": 395294,
+        "word": "孙杨 下沉市场口碑反转",
+        "onboard_time": 1780221021,
+        "rank": 11,
+        "category": "体育,作品衍生"
+      },
+      {
+        "raw_hot": 801229,
+        "num": 392907,
+        "word": "Faker奶奶被死亡威胁",
+        "onboard_time": 1780231341,
+        "rank": 12,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 794782,
+        "num": 390372,
+        "word": "王灿因病切了一片肺",
+        "onboard_time": 1780226299,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 707088,
+        "num": 388900,
+        "word": "二次元不是软色情遮羞布",
+        "onboard_time": 1780226960,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 586107,
+        "num": 387904,
+        "word": "张凌赫活动商场玻璃破碎致5擦伤",
+        "onboard_time": 1780226660,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 452346,
+        "num": 385035,
+        "word": "哈尔滨沙尘暴",
+        "onboard_time": 1780221320,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 246106,
+        "num": 384242,
+        "word": "柬埔寨一中国地产商遇害",
+        "onboard_time": 1780230080,
+        "rank": 17,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 54305,
+        "num": 381446,
+        "word": "张家口一风电项目付了1.98亿事没干成",
+        "onboard_time": 1780236082,
+        "rank": 18,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 415741,
+        "num": 379290,
+        "word": "曝沐言头被砸到",
+        "onboard_time": 1780233140,
+        "rank": 19,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 657689,
+        "num": 378222,
+        "word": "其实补气血真的很简单",
+        "onboard_time": 1780223660,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 390840,
+        "num": 376364,
+        "word": "王一栩给鞠婧祎推的资源",
+        "onboard_time": 1780230860,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 385528,
+        "num": 374497,
+        "word": "马嘉祺拍立得废片",
+        "onboard_time": 1780236983,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 358117,
+        "num": 371977,
+        "word": "被女主播开播前的调试震惊到了",
+        "onboard_time": 1780232361,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 363036,
+        "num": 370771,
+        "word": "穆祉丞第一条泡泡",
+        "onboard_time": 1780236082,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 242552,
+        "num": 367807,
+        "word": "曾沛慈长文告别三公",
+        "onboard_time": 1780217780,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 342892,
+        "num": 366276,
+        "word": "中方必将反制日菲所谓划界谈判",
+        "onboard_time": 1780228581,
+        "rank": 26,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 194619,
+        "num": 363475,
+        "word": "忆秦娥婚后",
+        "onboard_time": 1780234700,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 289419,
+        "num": 362330,
+        "word": "樊振东VS卡纳克贾哈",
+        "onboard_time": 1780236141,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107540,
+        "num": 361002,
+        "word": "智利缉毒犬典礼上扑咬海军中将口袋",
+        "onboard_time": 1780227741,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 321815,
+        "num": 357891,
+        "word": "小英晒病例",
+        "onboard_time": 1780231101,
+        "rank": 30,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 285391,
+        "num": 357535,
+        "word": "南京大学首位没有毕业论文博士答辩",
+        "onboard_time": 1780235182,
+        "rank": 31,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 192021,
+        "num": 354414,
+        "word": "小城良方排播",
+        "onboard_time": 1780225401,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 273156,
+        "num": 352760,
+        "word": "张雪机车第8名",
+        "onboard_time": 1780235781,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 267564,
+        "num": 351557,
+        "word": "vogue红毯 疲惫",
+        "onboard_time": 1780215920,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 267333,
+        "num": 349841,
+        "word": "TES战胜JDG",
+        "onboard_time": 1780236082,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 267216,
+        "num": 346831,
+        "word": "刘诗诗下沉市场",
+        "onboard_time": 1780223420,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 244443,
+        "num": 345510,
+        "word": "女子住酒店半夜遭陌生男子站床头",
+        "onboard_time": 1780235121,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 84236,
+        "num": 343359,
+        "word": "王安宇直播把我看馋了",
+        "onboard_time": 1780236323,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 227163,
+        "num": 342064,
+        "word": "曝短剧演员陈添祥延毕2年",
+        "onboard_time": 1780218381,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25654,
+        "num": 340120,
+        "word": "疑似王安宇自己找的路演观众",
+        "onboard_time": 1780236560,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 211370,
+        "num": 338356,
+        "word": "德甲",
+        "onboard_time": 1780233561,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 212506,
+        "num": 336769,
+        "word": "文严文 刘文祥",
+        "onboard_time": 1780236983,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194659,
+        "num": 333959,
+        "word": "广厦男篮vs上海男篮",
+        "onboard_time": 1780233381,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 186288,
+        "num": 332461,
+        "word": "9岁女童因怕挨打离家失联22年终团圆",
+        "onboard_time": 1780228999,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87161,
+        "num": 329836,
+        "word": "中际旭创股价暴涨",
+        "onboard_time": 1780222760,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 21282,
+        "num": 327664,
+        "word": "京东直播比价抽出十万元现金大奖",
+        "onboard_time": 1780232781,
+        "rank": 46,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 17351,
+        "num": 326449,
+        "word": "追剧迷上了这款撩弟神器",
+        "onboard_time": 1780232841,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 31154,
+        "num": 324674,
+        "word": "京东十二姬合作十个勤天",
+        "onboard_time": 1780232841,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 178408,
+        "num": 321604,
+        "word": "法国高温致7人死亡中国留学生发声",
+        "onboard_time": 1780208299,
+        "rank": 49,
+        "category": "海外新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平祝小朋友们儿童节快乐#"
+    }
+  }
+}
