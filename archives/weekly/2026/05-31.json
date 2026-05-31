@@ -1,6 +1,6 @@
 {
   "startTime": 1780161470105,
-  "endTime": 1780263207760,
+  "endTime": 1780267005347,
   "band_list": [
     {
       "raw_hot": 4274003,
@@ -521,6 +521,14 @@
       "onboard_time": 1780235961,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 471564,
+      "num": 471564,
+      "word": "日本拥抱印度",
+      "onboard_time": 1780232540,
+      "rank": 43,
+      "category": "汽车"
     },
     {
       "raw_hot": 459908,
@@ -1451,14 +1459,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 186760,
-      "num": 242264,
-      "word": "日本拥抱印度",
-      "onboard_time": 1780232540,
-      "rank": 43,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 183448,
       "num": 147715,
       "word": "这个时间点入睡才是真早睡",
@@ -1747,6 +1747,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 139027,
+      "num": 134040,
+      "word": "天涯社区曾2次重启失败",
+      "onboard_time": 1780246818,
+      "rank": 36,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 138779,
       "num": 138779,
       "word": "花间令2.0",
@@ -1827,20 +1835,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 123317,
-      "num": 134040,
-      "word": "天涯社区曾2次重启失败",
-      "onboard_time": 1780246818,
-      "rank": 36,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 123289,
       "num": 219237,
       "word": "国乐无双把音乐还给音综",
       "onboard_time": 1780203141,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 123271,
+      "num": 103874,
+      "word": "网红边牧锄头主人拒绝和解",
+      "onboard_time": 1780246818,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 121258,
@@ -1921,14 +1929,6 @@
       "onboard_time": 1780156880,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 103874,
-      "num": 103874,
-      "word": "网红边牧锄头主人拒绝和解",
-      "onboard_time": 1780246818,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 100114,
@@ -2067,6 +2067,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 78117,
+      "num": 78117,
+      "word": "电视剧耀眼",
+      "onboard_time": 1780257433,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 78066,
       "num": 78066,
       "word": "台湾网红馆长撞脸三星堆文物",
@@ -2139,6 +2147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 70779,
+      "num": 84215,
+      "word": "报告称孩子越多平均养育成本越低",
+      "onboard_time": 1780248618,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 69030,
       "num": 72108,
       "word": "李宇春给我唱回彩铃时代了",
@@ -2185,6 +2201,14 @@
       "onboard_time": 1780148121,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 61005,
+      "num": 61005,
+      "word": "哈尔滨突发沙尘暴市民称有点像世界末日",
+      "onboard_time": 1780252755,
+      "rank": 45,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 60971,
@@ -2243,14 +2267,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 54415,
-      "num": 54415,
-      "word": "电视剧耀眼",
-      "onboard_time": 1780257433,
-      "rank": 9,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 54305,
       "num": 381446,
       "word": "张家口一风电项目付了1.98亿事没干成",
@@ -2283,14 +2299,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 48013,
-      "num": 84215,
-      "word": "报告称孩子越多平均养育成本越低",
-      "onboard_time": 1780248618,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 47783,
       "num": 233310,
       "word": "邓超夏日歌会工体撒饭",
@@ -2313,6 +2321,14 @@
       "onboard_time": 1780200259,
       "rank": 26,
       "category": "动漫,互联网"
+    },
+    {
+      "raw_hot": 40812,
+      "num": 40812,
+      "word": "校方回应小学生汇演爆火遭质疑假唱",
+      "onboard_time": 1780265596,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 39205,
@@ -2345,6 +2361,14 @@
       "onboard_time": 1780225519,
       "rank": 36,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 36055,
+      "num": 36055,
+      "word": "刘宇宁给工作人员鞠躬",
+      "onboard_time": 1780258573,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 36037,
@@ -2419,20 +2443,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 25761,
-      "num": 25761,
-      "word": "刘宇宁给工作人员鞠躬",
-      "onboard_time": 1780258573,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 25654,
       "num": 340120,
       "word": "疑似王安宇自己找的路演观众",
       "onboard_time": 1780236560,
       "rank": 40,
       "category": "电影"
+    },
+    {
+      "raw_hot": 25473,
+      "num": 31902,
+      "word": "部分驱蚊产品用的是农药标的是化妆品",
+      "onboard_time": 1780254434,
+      "rank": 40,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 24246,
@@ -2475,14 +2499,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 22936,
-      "num": 31902,
-      "word": "部分驱蚊产品用的是农药标的是化妆品",
-      "onboard_time": 1780254434,
-      "rank": 40,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 21510,
       "num": 27036,
       "word": "万花世界预约",
@@ -2505,14 +2521,6 @@
       "onboard_time": 1780232841,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 20707,
-      "num": 31891,
-      "word": "哈尔滨突发沙尘暴市民称有点像世界末日",
-      "onboard_time": 1780252755,
-      "rank": 45,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 20650,
