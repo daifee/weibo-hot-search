@@ -1,7 +1,15 @@
 {
   "startTime": 1780161470105,
-  "endTime": 1780184110013,
+  "endTime": 1780201436274,
   "band_list": [
+    {
+      "raw_hot": 2409117,
+      "num": 684443,
+      "word": "姜乘澜 眼线膏",
+      "onboard_time": 1780194979,
+      "rank": 3,
+      "category": "美妆,网红"
+    },
     {
       "raw_hot": 2279358,
       "num": 2279358,
@@ -9,6 +17,14 @@
       "onboard_time": 1780154661,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1513433,
+      "num": 1513433,
+      "word": "中国留学生因印度高温提前回国",
+      "onboard_time": 1780192639,
+      "rank": 0,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 1479667,
@@ -19,12 +35,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1254735,
+      "num": 1254735,
+      "word": "马刺4比3雷霆",
+      "onboard_time": 1780196420,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 972587,
       "num": 972587,
       "word": "巴黎卫冕欧冠冠军",
       "onboard_time": 1780169474,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 948802,
+      "num": 274296,
+      "word": "谢霆锋王菲跨越25年的爱情",
+      "onboard_time": 1780195880,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 889328,
@@ -51,12 +83,52 @@
       "category": "体育"
     },
     {
+      "raw_hot": 705877,
+      "num": 493493,
+      "word": "王菲无名指疑似戴了钻戒",
+      "onboard_time": 1780189218,
+      "rank": 5,
+      "category": "演出"
+    },
+    {
       "raw_hot": 686968,
       "num": 875875,
       "word": "姆巴佩",
       "onboard_time": 1780170134,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 650767,
+      "num": 369422,
+      "word": "伊能静第一次看到儿子恩利化妆",
+      "onboard_time": 1780192520,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 635545,
+      "num": 364769,
+      "word": "姆巴佩遭巴黎球迷辱骂",
+      "onboard_time": 1780197799,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 628303,
+      "num": 363692,
+      "word": "陈星旭王玉雯一起去看欧冠了",
+      "onboard_time": 1780190300,
+      "rank": 12,
+      "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 622100,
+      "num": 355884,
+      "word": "成龙求张杰以后别唱他的歌",
+      "onboard_time": 1780183396,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 586218,
@@ -75,6 +147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 519203,
+      "num": 519203,
+      "word": "老人买基金亏70多万银行承担70%",
+      "onboard_time": 1780188378,
+      "rank": 4,
+      "category": "财经"
+    },
+    {
       "raw_hot": 507404,
       "num": 283852,
       "word": "微信几乎把每个人捆绑在线上",
@@ -83,12 +163,36 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 459908,
+      "num": 459908,
+      "word": "文班亚马哭了",
+      "onboard_time": 1780196480,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 458503,
       "num": 498973,
       "word": "巴黎圣日耳曼5比4阿森纳",
       "onboard_time": 1780169774,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 454714,
+      "num": 354500,
+      "word": "刘诗诗把头纱给刘冲披上了",
+      "onboard_time": 1780192878,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 451543,
+      "num": 300368,
+      "word": "白鹿行程图",
+      "onboard_time": 1780194918,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 429743,
@@ -100,11 +204,43 @@
     },
     {
       "raw_hot": 418787,
-      "num": 120088,
+      "num": 193904,
       "word": "薛小婉任权复合了",
       "onboard_time": 1780183157,
       "rank": 21,
       "category": "网红"
+    },
+    {
+      "raw_hot": 405506,
+      "num": 217322,
+      "word": "意大利建筑师在一座庙里哭了10分钟",
+      "onboard_time": 1780199421,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 383258,
+      "num": 383258,
+      "word": "马刺vs雷霆",
+      "onboard_time": 1780187899,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 382051,
+      "num": 382051,
+      "word": "下周你好星期六快本味",
+      "onboard_time": 1780189218,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 373657,
+      "num": 373657,
+      "word": "文班亚马踮脚隔扣切特",
+      "onboard_time": 1780197260,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 366376,
@@ -131,6 +267,38 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 356115,
+      "num": 272656,
+      "word": "陈丽君被打码品牌道歉为何难平众怒",
+      "onboard_time": 1780187538,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 355221,
+      "num": 355221,
+      "word": "别要求我体面地老去",
+      "onboard_time": 1780198340,
+      "rank": 14,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 354188,
+      "num": 354188,
+      "word": "姆巴佩欧冠金靴",
+      "onboard_time": 1780189158,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 346302,
+      "num": 258166,
+      "word": "普京称已将残骸交给美国鉴定",
+      "onboard_time": 1780188739,
+      "rank": 24,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 344660,
       "num": 344660,
       "word": "鸟巢偶遇王菲看谢霆锋演唱会",
@@ -139,11 +307,43 @@
       "category": "演出"
     },
     {
+      "raw_hot": 340285,
+      "num": 285852,
+      "word": "谁是白月光一眼就看出来了",
+      "onboard_time": 1780184657,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 340257,
-      "num": 118733,
+      "num": 158135,
       "word": "石蕊 肖旭",
       "onboard_time": 1780155201,
       "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 336948,
+      "num": 217857,
+      "word": "杨洋一袅楚宫腰",
+      "onboard_time": 1780199539,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 334209,
+      "num": 215048,
+      "word": "文班亚马西决MVP",
+      "onboard_time": 1780197499,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 333889,
+      "num": 214677,
+      "word": "虞书欣让李登科保护好自己",
+      "onboard_time": 1780200439,
+      "rank": 33,
       "category": "艺人"
     },
     {
@@ -163,12 +363,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 315206,
+      "num": 213856,
+      "word": "李现到了广东都变好追了",
+      "onboard_time": 1780200020,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 314853,
       "num": 314853,
       "word": "麦当劳汉堡缩小比例",
       "onboard_time": 1780137559,
       "rank": 7,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 310062,
+      "num": 310062,
+      "word": "司机开辅助驾驶40秒后追尾致3死",
+      "onboard_time": 1780195280,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 308884,
+      "num": 211008,
+      "word": "侯明昊六月行程图",
+      "onboard_time": 1780197859,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 292984,
@@ -193,6 +417,14 @@
       "onboard_time": 1780159339,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 280798,
+      "num": 206504,
+      "word": "时代峰峻公关文案",
+      "onboard_time": 1780187837,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 268263,
@@ -235,6 +467,30 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 217698,
+      "num": 217698,
+      "word": "阚清子小考脱胎换骨",
+      "onboard_time": 1780196180,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 216672,
+      "num": 216672,
+      "word": "神仙肉男主人设",
+      "onboard_time": 1780187358,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 212207,
+      "num": 212207,
+      "word": "14岁以下小朋友喜提3天小长假",
+      "onboard_time": 1780183877,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 201743,
       "num": 201743,
       "word": "宋亚轩又输给了李宇春",
@@ -267,6 +523,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 192481,
+      "num": 192481,
+      "word": "行程图",
+      "onboard_time": 1780191620,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 192026,
       "num": 192026,
       "word": "十二星座6月月运",
@@ -283,6 +547,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 179580,
+      "num": 179580,
+      "word": "孙千去看欧冠了",
+      "onboard_time": 1780194319,
+      "rank": 42,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 178685,
       "num": 147021,
       "word": "大爷协议娶小24岁女子2年便闹离婚",
@@ -291,12 +563,44 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 175471,
+      "num": 175471,
+      "word": "一生一世是谢霆锋唯一一部爱情片",
+      "onboard_time": 1780196060,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 172721,
+      "num": 181470,
+      "word": "巴黎欧冠夺冠后多地爆发骚乱",
+      "onboard_time": 1780194680,
+      "rank": 41,
+      "category": "海外新闻,体育"
+    },
+    {
+      "raw_hot": 172526,
+      "num": 162810,
+      "word": "敖瑞鹏新剧演鞠婧祎哥哥",
+      "onboard_time": 1780194918,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 167358,
       "num": 148016,
       "word": "陈小春发言宋亚轩又笑晕了",
       "onboard_time": 1780155080,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 166877,
+      "num": 166877,
+      "word": "世界杯",
+      "onboard_time": 1780182977,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 160949,
@@ -313,6 +617,14 @@
       "onboard_time": 1780153520,
       "rank": 17,
       "category": "演出"
+    },
+    {
+      "raw_hot": 153407,
+      "num": 153407,
+      "word": "长期不吃晚饭会变成什么样",
+      "onboard_time": 1780187718,
+      "rank": 47,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 151920,
@@ -337,6 +649,14 @@
       "onboard_time": 1780160718,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 144808,
+      "num": 354528,
+      "word": "刘宇宁再唱平凡的日子借一点光",
+      "onboard_time": 1780200259,
+      "rank": 15,
+      "category": "音乐"
     },
     {
       "raw_hot": 144582,
@@ -377,14 +697,6 @@
       "onboard_time": 1780150582,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 126134,
-      "num": 126134,
-      "word": "成龙求张杰以后别唱他的歌",
-      "onboard_time": 1780183396,
-      "rank": 9,
-      "category": "综艺"
     },
     {
       "raw_hot": 115245,
@@ -515,14 +827,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 79893,
-      "num": 111949,
-      "word": "世界杯",
-      "onboard_time": 1780182977,
-      "rank": 35,
-      "category": "体育"
-    },
-    {
       "raw_hot": 79534,
       "num": 79534,
       "word": "哈弗茨真是大场面先生",
@@ -619,19 +923,19 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 59317,
-      "num": 121918,
-      "word": "14岁以下小朋友喜提3天小长假",
-      "onboard_time": 1780183877,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 55551,
       "num": 55551,
       "word": "角球",
       "onboard_time": 1780165696,
       "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 53465,
+      "num": 198471,
+      "word": "文班亚马回应成为西部决赛MVP",
+      "onboard_time": 1780200859,
+      "rank": 38,
       "category": "体育"
     },
     {
@@ -641,6 +945,22 @@
       "onboard_time": 1780182736,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 41897,
+      "num": 238492,
+      "word": "欧气喵在我手上",
+      "onboard_time": 1780200259,
+      "rank": 26,
+      "category": "动漫,互联网"
+    },
+    {
+      "raw_hot": 39205,
+      "num": 252226,
+      "word": "统帅超省电六年省出一台空调钱",
+      "onboard_time": 1780200200,
+      "rank": 25,
+      "category": "民生新闻,数码"
     },
     {
       "raw_hot": 37874,
@@ -659,6 +979,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 30377,
+      "num": 232032,
+      "word": "这些孩子没有儿童节",
+      "onboard_time": 1780200080,
+      "rank": 27,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 30234,
+      "num": 306544,
+      "word": "清华硕士从事纹眉1年最高月入10万",
+      "onboard_time": 1780200859,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 29170,
       "num": 94028,
       "word": "朱一龙做瑜伽",
@@ -667,12 +1003,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 27488,
+      "num": 722555,
+      "word": "27部门出手对这两类儿童全力守护",
+      "onboard_time": 1780192158,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 23389,
       "num": 26243,
       "word": "念相思",
       "onboard_time": 1780138160,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 21615,
+      "num": 144421,
+      "word": "卫星互联网技术试验卫星发射圆满成功",
+      "onboard_time": 1780192039,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 21510,
@@ -694,6 +1046,9 @@
   "hotgov_list": [
     {
       "word": "#我国广大科技工作者是大有作为的#"
+    },
+    {
+      "word": "#大朋友习近平对小树苗的暖暖牵挂#"
     }
   ]
 }
