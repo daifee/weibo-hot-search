@@ -1,6 +1,6 @@
 {
   "startTime": 1777565126834,
-  "endTime": 1780216049934,
+  "endTime": 1780223504121,
   "band_list": [
     {
       "raw_hot": 28198949,
@@ -2587,6 +2587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1762192,
+      "num": 293550,
+      "word": "孙俪的痣没了",
+      "onboard_time": 1780218800,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1761791,
       "num": 399732,
       "word": "徐璐陪小5岁男友日本度假",
@@ -4907,6 +4915,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1182894,
+      "num": 591017,
+      "word": "孙杨 下沉市场口碑反转",
+      "onboard_time": 1780221021,
+      "rank": 5,
+      "category": "体育,作品衍生"
+    },
+    {
       "raw_hot": 1180634,
       "num": 437758,
       "word": "曝何炅要开演唱会",
@@ -5729,6 +5745,14 @@
       "onboard_time": 1777703240,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1066906,
+      "num": 290859,
+      "word": "vogue红毯 疲惫",
+      "onboard_time": 1780215920,
+      "rank": 39,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1065621,
@@ -6755,6 +6779,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 950091,
+      "num": 290063,
+      "word": "曝短剧演员陈添祥延毕2年",
+      "onboard_time": 1780218381,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 949909,
       "num": 949909,
       "word": "吴彤直播道歉",
@@ -7169,6 +7201,14 @@
       "onboard_time": 1778037260,
       "rank": 21,
       "category": "演出"
+    },
+    {
+      "raw_hot": 906725,
+      "num": 648654,
+      "word": "过度防晒",
+      "onboard_time": 1780216940,
+      "rank": 3,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 905685,
@@ -9203,6 +9243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 770244,
+      "num": 292320,
+      "word": "半导体韬定律",
+      "onboard_time": 1780218680,
+      "rank": 11,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 769903,
       "num": 769903,
       "word": "原来这么多人拒绝过浪姐",
@@ -9881,6 +9929,14 @@
       "onboard_time": 1778828961,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 729880,
+      "num": 831895,
+      "word": "哈尔滨沙尘暴",
+      "onboard_time": 1780221320,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 728380,
@@ -11577,6 +11633,14 @@
       "onboard_time": 1780150040,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 643062,
+      "num": 643062,
+      "word": "曾沛慈长文告别三公",
+      "onboard_time": 1780217780,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 643057,
@@ -17451,6 +17515,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 449843,
+      "num": 449843,
+      "word": "央视起底娜塔莎暴力解压玩具",
+      "onboard_time": 1780214479,
+      "rank": 10,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 449808,
       "num": 449808,
       "word": "情侣相约自杀1人身亡1人获刑",
@@ -19411,6 +19483,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 401336,
+      "num": 284668,
+      "word": "窦唯妹妹去谢霆锋演唱会",
+      "onboard_time": 1780221320,
+      "rank": 18,
+      "category": "演出"
+    },
+    {
       "raw_hot": 401158,
       "num": 250857,
       "word": "曝时代少年团新企划",
@@ -19617,6 +19697,14 @@
       "onboard_time": 1777720581,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 397488,
+      "num": 280975,
+      "word": "不读书的人生有多么的残酷",
+      "onboard_time": 1780221021,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 396964,
@@ -21169,6 +21257,14 @@
       "onboard_time": 1779089359,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 367812,
+      "num": 279887,
+      "word": "白百何参加儿子毕业典礼",
+      "onboard_time": 1780220420,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 367610,
@@ -25563,6 +25659,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 296473,
+      "num": 278807,
+      "word": "接机张月时接到了浪姐节目组电话",
+      "onboard_time": 1780216458,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 296388,
       "num": 555101,
       "word": "张月团想唱什么",
@@ -27051,6 +27155,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 277620,
+      "num": 277620,
+      "word": "张峻豪泡泡更新",
+      "onboard_time": 1780222099,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 277595,
       "num": 387779,
       "word": "曝何宝生放弃3亿家产出家真正原因",
@@ -28017,6 +28129,14 @@
       "onboard_time": 1779207319,
       "rank": 42,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 266636,
+      "num": 266636,
+      "word": "刘诗诗下沉市场",
+      "onboard_time": 1780223420,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 266312,
@@ -32315,6 +32435,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 224721,
+      "num": 224721,
+      "word": "郭晓婷只有她出场时没用运镜",
+      "onboard_time": 1780218742,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 224623,
       "num": 576406,
       "word": "当我在DeepSeek输入think",
@@ -34467,6 +34595,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 206699,
+      "num": 390730,
+      "word": "重庆一凶宅39万余元起拍",
+      "onboard_time": 1780214540,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 206566,
       "num": 206566,
       "word": "张凌赫被保镖大哥淹没了",
@@ -34713,6 +34849,14 @@
       "onboard_time": 1778152640,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 204681,
+      "num": 204681,
+      "word": "服务员争了半天谁去送这个包间",
+      "onboard_time": 1780215800,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 204667,
@@ -36219,12 +36363,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 192777,
+      "num": 192777,
+      "word": "李昀锐衣服李晨脱完丁程鑫脱",
+      "onboard_time": 1780220540,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 192695,
       "num": 377472,
       "word": "KPL运动会",
       "onboard_time": 1779682881,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 192686,
+      "num": 294010,
+      "word": "江山大同",
+      "onboard_time": 1780217839,
+      "rank": 9,
+      "category": "剧集"
     },
     {
       "raw_hot": 192612,
@@ -37297,14 +37457,6 @@
       "onboard_time": 1780156580,
       "rank": 25,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 183256,
-      "num": 418373,
-      "word": "央视起底娜塔莎暴力解压玩具",
-      "onboard_time": 1780214479,
-      "rank": 10,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 183031,
@@ -39793,6 +39945,14 @@
       "onboard_time": 1779434841,
       "rank": 34,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 167375,
+      "num": 167375,
+      "word": "第一次理解精神损失费",
+      "onboard_time": 1780218680,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 167364,
@@ -44475,6 +44635,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 132221,
+      "num": 132221,
+      "word": "王曦雨vs科斯蒂亚",
+      "onboard_time": 1780220179,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 132215,
       "num": 132215,
       "word": "王橹杰黑白变装",
@@ -45043,6 +45211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 128603,
+      "num": 225897,
+      "word": "咖啡减肥这样喝才有效",
+      "onboard_time": 1780216100,
+      "rank": 29,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 128494,
       "num": 366233,
       "word": "多位国乒名将祝福刘炜珊",
@@ -45249,6 +45425,14 @@
       "onboard_time": 1779437601,
       "rank": 46,
       "category": "教育"
+    },
+    {
+      "raw_hot": 127396,
+      "num": 127396,
+      "word": "年轻人按摩足疗比喝奶茶还疯狂",
+      "onboard_time": 1780221680,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 127359,
@@ -45552,6 +45736,14 @@
       "word": "导演张中臣患白血病",
       "onboard_time": 1778202080,
       "rank": 45,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 124954,
+      "num": 124954,
+      "word": "内娱明星眼里的杨幂",
+      "onboard_time": 1780221320,
+      "rank": 44,
       "category": "艺人"
     },
     {
@@ -46771,14 +46963,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 116584,
-      "num": 109479,
-      "word": "服务员争了半天谁去送这个包间",
-      "onboard_time": 1780215800,
-      "rank": 48,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 116494,
       "num": 134282,
       "word": "中美元首会晤在即",
@@ -47257,6 +47441,14 @@
       "onboard_time": 1779412039,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 111852,
+      "num": 124939,
+      "word": "中际旭创股价暴涨",
+      "onboard_time": 1780222760,
+      "rank": 45,
+      "category": "财经"
     },
     {
       "raw_hot": 111824,
@@ -49089,14 +49281,6 @@
       "onboard_time": 1780155500,
       "rank": 38,
       "category": "演出"
-    },
-    {
-      "raw_hot": 94231,
-      "num": 390730,
-      "word": "重庆一凶宅39万余元起拍",
-      "onboard_time": 1780214540,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 94112,
@@ -52131,14 +52315,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 66759,
-      "num": 126031,
-      "word": "vogue红毯 疲惫",
-      "onboard_time": 1780215920,
-      "rank": 39,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 66711,
       "num": 488671,
       "word": "Gemini挑杯决赛预测",
@@ -53328,6 +53504,14 @@
       "word": "孕妻脑梗变3岁当事人3年后新变化",
       "onboard_time": 1779558917,
       "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 56618,
+      "num": 283841,
+      "word": "高学历迷奸案醒来后一无所知的她们",
+      "onboard_time": 1780222640,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -56923,6 +57107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 33011,
+      "num": 136955,
+      "word": "明星红包我接到了",
+      "onboard_time": 1780221920,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 33007,
       "num": 214456,
       "word": "中学不开空调学生躲老师办公室避暑",
@@ -58531,6 +58723,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 24246,
+      "num": 135727,
+      "word": "半个名人圈都在领克玩赛车",
+      "onboard_time": 1780220001,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 24236,
       "num": 26630,
       "word": "构建中美建设性战略稳定关系",
@@ -59793,6 +59993,14 @@
       "onboard_time": 1777878980,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 15662,
+      "num": 124859,
+      "word": "凑单买的东西最后都怎么样了",
+      "onboard_time": 1780222160,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 15647,
@@ -61307,6 +61515,9 @@
     },
     {
       "word": "#大朋友习近平对小树苗的暖暖牵挂#"
+    },
+    {
+      "word": "#请收下总书记的成长寄语#"
     }
   ]
 }
