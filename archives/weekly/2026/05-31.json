@@ -1,6 +1,6 @@
 {
   "startTime": 1780161470105,
-  "endTime": 1780257035855,
+  "endTime": 1780261763338,
   "band_list": [
     {
       "raw_hot": 4274003,
@@ -2387,6 +2387,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 29702,
+      "num": 50613,
+      "word": "电视剧耀眼",
+      "onboard_time": 1780257433,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 29170,
       "num": 94028,
       "word": "朱一龙做瑜伽",
@@ -2409,6 +2417,14 @@
       "onboard_time": 1780192158,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 25761,
+      "num": 25761,
+      "word": "刘宇宁给工作人员鞠躬",
+      "onboard_time": 1780258573,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 25654,
@@ -2499,6 +2515,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 20650,
+      "num": 22854,
+      "word": "陶喆世巡百场收官",
+      "onboard_time": 1780258513,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
       "raw_hot": 20187,
       "num": 121395,
       "word": "618开场的诚意藏在优惠券里",
@@ -2521,6 +2545,14 @@
       "onboard_time": 1780190358,
       "rank": 48,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 18099,
+      "num": 22852,
+      "word": "薛之谦演唱会",
+      "onboard_time": 1780258934,
+      "rank": 43,
+      "category": "演出"
     },
     {
       "raw_hot": 16070,
