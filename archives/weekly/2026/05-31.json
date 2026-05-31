@@ -1,6 +1,6 @@
 {
   "startTime": 1780161470105,
-  "endTime": 1780247827631,
+  "endTime": 1780249120728,
   "band_list": [
     {
       "raw_hot": 4274003,
@@ -963,6 +963,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 292208,
+      "num": 292208,
+      "word": "泥人村干部被卷走监控曝光",
+      "onboard_time": 1780245021,
+      "rank": 7,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 292186,
       "num": 124912,
       "word": "樊振东vs格拉斯门科",
@@ -1137,14 +1145,6 @@
       "onboard_time": 1780241780,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 246957,
-      "num": 246957,
-      "word": "泥人村干部被卷走监控曝光",
-      "onboard_time": 1780245021,
-      "rank": 7,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 246241,
@@ -1435,6 +1435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 192112,
+      "num": 178293,
+      "word": "多名艺人辞演后特朗普决定自己上台",
+      "onboard_time": 1780242261,
+      "rank": 49,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 192026,
       "num": 192026,
       "word": "十二星座6月月运",
@@ -1497,14 +1505,6 @@
       "onboard_time": 1780239024,
       "rank": 46,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 178293,
-      "num": 178293,
-      "word": "多名艺人辞演后特朗普决定自己上台",
-      "onboard_time": 1780242261,
-      "rank": 49,
-      "category": "国际时政"
     },
     {
       "raw_hot": 177222,
@@ -1915,8 +1915,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 100583,
-      "num": 100583,
+      "raw_hot": 103874,
+      "num": 103874,
       "word": "网红边牧锄头主人拒绝和解",
       "onboard_time": 1780246818,
       "rank": 30,
@@ -1953,6 +1953,14 @@
       "onboard_time": 1780183517,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 96713,
+      "num": 100508,
+      "word": "天涯社区曾2次重启失败",
+      "onboard_time": 1780246818,
+      "rank": 36,
+      "category": "互联网"
     },
     {
       "raw_hot": 94641,
@@ -1993,6 +2001,14 @@
       "onboard_time": 1780154661,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 89145,
+      "num": 100425,
+      "word": "这才是六一该办的活动",
+      "onboard_time": 1780247237,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 88555,
@@ -2083,14 +2099,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 74322,
-      "num": 100508,
-      "word": "天涯社区曾2次重启失败",
-      "onboard_time": 1780246818,
-      "rank": 36,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 74006,
       "num": 100495,
       "word": "周深又被攻击了",
@@ -2105,6 +2113,14 @@
       "onboard_time": 1780239681,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 73461,
+      "num": 100420,
+      "word": "汪苏泷疑似失去所有力气和手段",
+      "onboard_time": 1780246818,
+      "rank": 42,
+      "category": "演出"
     },
     {
       "raw_hot": 73311,
@@ -2123,14 +2139,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 69128,
-      "num": 100425,
-      "word": "这才是六一该办的活动",
-      "onboard_time": 1780247237,
-      "rank": 41,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 69030,
       "num": 72108,
       "word": "李宇春给我唱回彩铃时代了",
@@ -2139,20 +2147,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 68557,
+      "num": 100354,
+      "word": "在柬遇害中国地产商妻子发声",
+      "onboard_time": 1780246818,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 67266,
       "num": 109473,
       "word": "时代峰峻否认穆祉丞恋情",
       "onboard_time": 1780156760,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 66462,
-      "num": 100420,
-      "word": "汪苏泷疑似失去所有力气和手段",
-      "onboard_time": 1780246818,
-      "rank": 42,
-      "category": "演出"
     },
     {
       "raw_hot": 65876,
@@ -2203,6 +2211,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 57815,
+      "num": 85698,
+      "word": "乘风普通disco全民健身",
+      "onboard_time": 1780247836,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 57630,
       "num": 373862,
       "word": "618家装开始卷服务了",
@@ -2225,14 +2241,6 @@
       "onboard_time": 1780165696,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 55372,
-      "num": 100354,
-      "word": "在柬遇害中国地产商妻子发声",
-      "onboard_time": 1780246818,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 54305,
@@ -2264,6 +2272,14 @@
       "word": "保时捷被扎胎路面发现多个修车广告",
       "onboard_time": 1780239681,
       "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 48013,
+      "num": 84215,
+      "word": "报告称孩子越多平均养育成本越低",
+      "onboard_time": 1780248618,
+      "rank": 46,
       "category": "民生新闻"
     },
     {
