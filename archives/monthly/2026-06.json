@@ -1,6 +1,6 @@
 {
   "startTime": 1780247827631,
-  "endTime": 1780332315159,
+  "endTime": 1780340864285,
   "band_list": [
     {
       "raw_hot": 6730138,
@@ -1715,6 +1715,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 92418,
+      "num": 40223,
+      "word": "把伞放冰箱里",
+      "onboard_time": 1780333218,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 89454,
       "num": 159825,
       "word": "管泽元 我错过了什么",
@@ -1843,6 +1851,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 70915,
+      "num": 70915,
+      "word": "黄仁勋称无所不能的电脑来了",
+      "onboard_time": 1780331898,
+      "rank": 6,
+      "category": "数码"
+    },
+    {
       "raw_hot": 70411,
       "num": 100452,
       "word": "过度防晒",
@@ -1929,6 +1945,14 @@
       "onboard_time": 1780241240,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 56377,
+      "num": 56377,
+      "word": "当努力型遇上天赋型",
+      "onboard_time": 1780333218,
+      "rank": 8,
+      "category": "情感"
     },
     {
       "raw_hot": 55552,
@@ -2059,6 +2083,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 33978,
+      "num": 40226,
+      "word": "人糊涂起来就这样莫名其妙",
+      "onboard_time": 1780335618,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 33777,
       "num": 798865,
       "word": "郑丽文今晚启程访美",
@@ -2107,6 +2139,30 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 27159,
+      "num": 40219,
+      "word": "主角 现实主义",
+      "onboard_time": 1780320442,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 26716,
+      "num": 40217,
+      "word": "恋与制作人野火燎心",
+      "onboard_time": 1780339335,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 25353,
+      "num": 40215,
+      "word": "日本菲律宾想联手偷",
+      "onboard_time": 1780333218,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 23390,
       "num": 1101439,
       "word": "全国少先队员共1.12亿名",
@@ -2123,12 +2179,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 23302,
+      "num": 40212,
+      "word": "WE王朝了",
+      "onboard_time": 1780336095,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 23135,
       "num": 31898,
       "word": "陶喆演唱会",
       "onboard_time": 1780250836,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 22683,
+      "num": 40210,
+      "word": "哈根达斯为什么卖不动了",
+      "onboard_time": 1780323803,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 21386,
@@ -2139,6 +2211,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 21145,
+      "num": 40208,
+      "word": "王兴兴身家飙升至140亿元",
+      "onboard_time": 1780333218,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 20650,
       "num": 22854,
       "word": "陶喆世巡百场收官",
@@ -2147,12 +2227,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 20182,
+      "num": 40208,
+      "word": "英伟达发布PC端超级芯片",
+      "onboard_time": 1780333218,
+      "rank": 43,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 18329,
       "num": 714682,
       "word": "守护平安与你童行",
       "onboard_time": 1780289002,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 18257,
+      "num": 40205,
+      "word": "53岁脑死亡患者移植猪肝猪肾",
+      "onboard_time": 1780326081,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 18099,
@@ -2171,6 +2267,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 17315,
+      "num": 40204,
+      "word": "苏新皓被粉丝投稿上爸爸当家了",
+      "onboard_time": 1780319721,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 17299,
+      "num": 40202,
+      "word": "世界杯英格兰队驻地安保堪比军事堡垒",
+      "onboard_time": 1780333218,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 16305,
       "num": 192118,
       "word": "小伙打卡领手机打满300天发现被骗",
@@ -2179,10 +2291,26 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 16147,
+      "num": 40202,
+      "word": "男子举报出租车后遭咒骂女儿得癌症",
+      "onboard_time": 1780327221,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 16070,
       "num": 23751,
       "word": "伞兵三连问",
       "onboard_time": 1780253594,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 15498,
+      "num": 40201,
+      "word": "WE天下谁人不识君",
+      "onboard_time": 1780340833,
       "rank": 49,
       "category": "电竞"
     },
@@ -2220,6 +2348,9 @@
     },
     {
       "word": "#总书记始终牵挂孩子们的成长#"
+    },
+    {
+      "word": "#习近平深情寄语小树苗#"
     }
   ]
 }
