@@ -1,0 +1,410 @@
+{
+  "runTime": 1780357914887,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 683826,
+        "num": 1035818,
+        "word": "豆包免费部分",
+        "onboard_time": 1780321342,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 569409,
+        "num": 733445,
+        "word": "台湾岛内统一声浪持续高涨",
+        "onboard_time": 1780324942,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 27830,
+        "num": 612964,
+        "word": "长征十二号乙运载火箭首飞成功",
+        "onboard_time": 1780316001,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 510699,
+        "num": 510699,
+        "word": "主角变恐怖故事了",
+        "onboard_time": 1780356557,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 414197,
+        "num": 414197,
+        "word": "长鑫科技",
+        "onboard_time": 1780356498,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 383109,
+        "num": 383109,
+        "word": "坦桑尼亚被绑架中国人被勒索1.4亿元",
+        "onboard_time": 1780356498,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 144104,
+        "num": 355965,
+        "word": "王嘉尔转场张杰演唱会视频",
+        "onboard_time": 1780357757,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 129685,
+        "num": 349364,
+        "word": "刘红兵强迫秦娥穿着戏服时和他亲热",
+        "onboard_time": 1780357579,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 349081,
+        "num": 349081,
+        "word": "豆包将正式付费",
+        "onboard_time": 1780317321,
+        "rank": 8,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 791915,
+        "num": 339127,
+        "word": "奚梦瑶婚礼",
+        "onboard_time": 1780316480,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 323867,
+        "num": 323867,
+        "word": "向太说真正有钱人不会给小孩买名牌",
+        "onboard_time": 1780324403,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 293687,
+        "num": 322895,
+        "word": "人糊涂起来就这样莫名其妙",
+        "onboard_time": 1780335618,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 316803,
+        "num": 320719,
+        "word": "杨紫 豆包",
+        "onboard_time": 1780318160,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 301577,
+        "num": 319565,
+        "word": "张凌赫与名媛合影",
+        "onboard_time": 1780305801,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 264937,
+        "num": 317877,
+        "word": "伊朗暂停通过中间人同美国对话",
+        "onboard_time": 1780327401,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 243022,
+        "num": 316516,
+        "word": "记者卧底500人群聊揭秘崩老头内幕",
+        "onboard_time": 1780311680,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100246,
+        "num": 314424,
+        "word": "终于等到孟子义现代剧",
+        "onboard_time": 1780357339,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 232666,
+        "num": 314040,
+        "word": "黄仁勋称无所不能的电脑来了",
+        "onboard_time": 1780331898,
+        "rank": 17,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 218150,
+        "num": 311215,
+        "word": "白云机场一航班落地滑行58分钟",
+        "onboard_time": 1780317500,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 211817,
+        "num": 310685,
+        "word": "英伟达市值一夜大增3190亿美元",
+        "onboard_time": 1780356198,
+        "rank": 19,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1178464,
+        "num": 308791,
+        "word": "于正 晚晚",
+        "onboard_time": 1780325663,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 551361,
+        "num": 306094,
+        "word": "大部分人都对尺寸没有概念",
+        "onboard_time": 1780325901,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 247238,
+        "num": 305372,
+        "word": "何超欣与何猷君奚梦瑶婚礼合照",
+        "onboard_time": 1780354818,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205039,
+        "num": 303294,
+        "word": "网友晒田曦薇初中毕业照",
+        "onboard_time": 1780325723,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200079,
+        "num": 302040,
+        "word": "丈夫当街抢娃反怼清华女博士不要脸",
+        "onboard_time": 1780320501,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179501,
+        "num": 299611,
+        "word": "TOP 新疆",
+        "onboard_time": 1780318642,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167066,
+        "num": 299356,
+        "word": "虞书欣演长剧导短剧",
+        "onboard_time": 1780328900,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155144,
+        "num": 297802,
+        "word": "瑞幸把HelloKitty写成HeeloKitty",
+        "onboard_time": 1780325842,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151730,
+        "num": 295985,
+        "word": "熬夜加班天天外卖女子全身瘙痒变黄",
+        "onboard_time": 1780357339,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141476,
+        "num": 294025,
+        "word": "嫌潮汕火锅太淡欲写5000字差评",
+        "onboard_time": 1780327521,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130021,
+        "num": 291794,
+        "word": "梁靖崑说张本智和瞎忙活",
+        "onboard_time": 1780330040,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124487,
+        "num": 290394,
+        "word": "黄仁勋官宣联手宇树造参考人形机器人",
+        "onboard_time": 1780353375,
+        "rank": 31,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 112016,
+        "num": 288893,
+        "word": "樊振东和三个冠军奖杯同框",
+        "onboard_time": 1780356498,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 110059,
+        "num": 288056,
+        "word": "路边加微信KTV女孩可能是崩老头",
+        "onboard_time": 1780324522,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107512,
+        "num": 285971,
+        "word": "当努力型遇上天赋型",
+        "onboard_time": 1780333218,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 106889,
+        "num": 284436,
+        "word": "张凌赫小时候是学校合唱团的",
+        "onboard_time": 1780354818,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99599,
+        "num": 283389,
+        "word": "法国情侣夸中餐日本网民破防",
+        "onboard_time": 1780318460,
+        "rank": 36,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 94736,
+        "num": 280586,
+        "word": "田本昌看杨紫韩东君吻戏不舒服了",
+        "onboard_time": 1780323321,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 94732,
+        "num": 279534,
+        "word": "夏美",
+        "onboard_time": 1780329439,
+        "rank": 38,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 89671,
+        "num": 278246,
+        "word": "也就老虎换小猫早挠你了",
+        "onboard_time": 1780345693,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 92344,
+        "num": 275906,
+        "word": "晚晚疑似怀孕了",
+        "onboard_time": 1780301419,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 88568,
+        "num": 273728,
+        "word": "俄5岁女童被男邻居强行抱走",
+        "onboard_time": 1780323623,
+        "rank": 41,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 87728,
+        "num": 272924,
+        "word": "一个普通人的最大幸运",
+        "onboard_time": 1780327341,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 87549,
+        "num": 271192,
+        "word": "何超莲罕晒三房全家福",
+        "onboard_time": 1780320982,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 84396,
+        "num": 268884,
+        "word": "虞书欣晒小小欣",
+        "onboard_time": 1780321163,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 81786,
+        "num": 268046,
+        "word": "现货黄金跌下4500美元",
+        "onboard_time": 1780355959,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 76966,
+        "num": 265775,
+        "word": "马嘉祺P的风火",
+        "onboard_time": 1780328660,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 76847,
+        "num": 264637,
+        "word": "管泽元 我错过了什么",
+        "onboard_time": 1780322902,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 78776,
+        "num": 263545,
+        "word": "邓紫棋何超莲合照",
+        "onboard_time": 1780354818,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 75731,
+        "num": 261508,
+        "word": "产检发现性病丈夫认为妻子故意隐瞒",
+        "onboard_time": 1780313238,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平深情寄语小树苗#"
+    }
+  }
+}
