@@ -1,6 +1,6 @@
 {
   "startTime": 1780161470105,
-  "endTime": 1780268936657,
+  "endTime": 1780278042561,
   "band_list": [
     {
       "raw_hot": 4274003,
@@ -9,6 +9,14 @@
       "onboard_time": 1780234221,
       "rank": 1,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 2661374,
+      "num": 246249,
+      "word": "何猷君奚梦瑶婚礼欢迎晚宴",
+      "onboard_time": 1780270156,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 2409117,
@@ -115,6 +123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1471886,
+      "num": 1471886,
+      "word": "天涯社区",
+      "onboard_time": 1780274479,
+      "rank": 1,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1394891,
       "num": 351957,
       "word": "李小冉怎么了",
@@ -163,6 +179,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 1158161,
+      "num": 245508,
+      "word": "白鹿喝中药调理身体和睡眠",
+      "onboard_time": 1780273880,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1154504,
       "num": 320873,
       "word": "曝85花七折捡漏代言",
@@ -171,11 +195,35 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1150900,
+      "num": 241150,
+      "word": "刘亦菲刘诗诗 代言",
+      "onboard_time": 1780276758,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1079749,
+      "num": 1079749,
+      "word": "边牧被偷后宰杀主人痛哭拒绝和解",
+      "onboard_time": 1780275319,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1077030,
       "num": 346831,
       "word": "刘诗诗下沉市场",
       "onboard_time": 1780223420,
       "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1071766,
+      "num": 237603,
+      "word": "张峻豪在二手平台卖衣服",
+      "onboard_time": 1780272679,
+      "rank": 20,
       "category": "艺人"
     },
     {
@@ -307,6 +355,22 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 767991,
+      "num": 767991,
+      "word": "好多明星去看了谢霆锋演唱会",
+      "onboard_time": 1780273759,
+      "rank": 4,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 759527,
+      "num": 236889,
+      "word": "谷爱凌奚梦瑶婚礼晚宴合照",
+      "onboard_time": 1780272679,
+      "rank": 21,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 744829,
       "num": 744829,
       "word": "巴黎圣日耳曼vs阿森纳",
@@ -361,6 +425,14 @@
       "onboard_time": 1780170134,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 678957,
+      "num": 234038,
+      "word": "爱情公寓2026迎来了NPC宣发期",
+      "onboard_time": 1780271598,
+      "rank": 23,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 678832,
@@ -441,6 +513,14 @@
       "onboard_time": 1780233259,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 577876,
+      "num": 577876,
+      "word": "这才是六一该办的活动",
+      "onboard_time": 1780247237,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 546600,
@@ -531,6 +611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 464319,
+      "num": 236287,
+      "word": "天天吃鸡蛋和很少吃鸡蛋谁更健康",
+      "onboard_time": 1780242023,
+      "rank": 34,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 459908,
       "num": 459908,
       "word": "文班亚马哭了",
@@ -577,6 +665,22 @@
       "onboard_time": 1780214479,
       "rank": 10,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 449836,
+      "num": 449836,
+      "word": "天涯社区曾2次重启失败",
+      "onboard_time": 1780246818,
+      "rank": 36,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 446853,
+      "num": 378957,
+      "word": "窦骁 咱娥今天可太美啦",
+      "onboard_time": 1780244719,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 441595,
@@ -683,12 +787,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 378957,
-      "num": 378957,
-      "word": "窦骁 咱娥今天可太美啦",
-      "onboard_time": 1780244719,
-      "rank": 3,
-      "category": "剧集"
+      "raw_hot": 374526,
+      "num": 250627,
+      "word": "58岁走红拉丁裁判紧绷了45年",
+      "onboard_time": 1780275319,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 374329,
@@ -947,6 +1051,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 296731,
+      "num": 228729,
+      "word": "陈妍希开放自家给谢楠当舞蹈室",
+      "onboard_time": 1780244299,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 296473,
       "num": 278807,
       "word": "接机张月时接到了浪姐节目组电话",
@@ -961,6 +1073,14 @@
       "onboard_time": 1780204822,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 293126,
+      "num": 240107,
+      "word": "儿童节",
+      "onboard_time": 1780269857,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 292984,
@@ -1001,6 +1121,14 @@
       "onboard_time": 1780236141,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 287507,
+      "num": 226290,
+      "word": "王鹤棣直播感谢粉丝",
+      "onboard_time": 1780243820,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 286681,
@@ -1123,6 +1251,22 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 253035,
+      "num": 253035,
+      "word": "樊振东回应三冠王",
+      "onboard_time": 1780275021,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 252193,
+      "num": 244114,
+      "word": "存储器价格暴涨近1000%原因",
+      "onboard_time": 1780272200,
+      "rank": 15,
+      "category": "财经"
+    },
+    {
       "raw_hot": 250609,
       "num": 332461,
       "word": "9岁女童因怕挨打离家失联22年终团圆",
@@ -1187,12 +1331,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 242677,
-      "num": 223771,
-      "word": "天天吃鸡蛋和很少吃鸡蛋谁更健康",
-      "onboard_time": 1780242023,
-      "rank": 34,
-      "category": "健康医疗"
+      "raw_hot": 242458,
+      "num": 231633,
+      "word": "中学生一出校门就点上烟了",
+      "onboard_time": 1780272440,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 237240,
+      "num": 225494,
+      "word": "王橹杰生周",
+      "onboard_time": 1780275199,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 233872,
@@ -1201,14 +1353,6 @@
       "onboard_time": 1780237821,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 233455,
-      "num": 134040,
-      "word": "天涯社区曾2次重启失败",
-      "onboard_time": 1780246818,
-      "rank": 36,
-      "category": "互联网"
     },
     {
       "raw_hot": 231164,
@@ -1260,11 +1404,19 @@
     },
     {
       "raw_hot": 219954,
-      "num": 219954,
+      "num": 224342,
       "word": "日系车溃败",
       "onboard_time": 1780239024,
       "rank": 46,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 219583,
+      "num": 290133,
+      "word": "拉丁舞爆火裁判一个月跳瘦8斤",
+      "onboard_time": 1780240761,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 217804,
@@ -1387,14 +1539,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 203863,
-      "num": 203863,
-      "word": "这才是六一该办的活动",
-      "onboard_time": 1780247237,
-      "rank": 41,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 203306,
       "num": 182899,
       "word": "哈尔滨你怎么了",
@@ -1441,6 +1585,14 @@
       "onboard_time": 1780131079,
       "rank": 15,
       "category": "情感"
+    },
+    {
+      "raw_hot": 195110,
+      "num": 219418,
+      "word": "啪姐卡哥登记结婚",
+      "onboard_time": 1780276518,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 194659,
@@ -1491,6 +1643,30 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 183405,
+      "num": 217941,
+      "word": "王源工体上座率",
+      "onboard_time": 1780272200,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 182617,
+      "num": 210214,
+      "word": "网红边牧锄头主人拒绝和解",
+      "onboard_time": 1780246818,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 181499,
+      "num": 217223,
+      "word": "哈尔滨大风过山车停摆倒挂半空",
+      "onboard_time": 1780273157,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 180459,
       "num": 180459,
       "word": "京东红包",
@@ -1521,6 +1697,14 @@
       "onboard_time": 1780144940,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 178220,
+      "num": 252915,
+      "word": "万花世界4个原主每人不超过3分钟",
+      "onboard_time": 1780272440,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 177222,
@@ -1595,14 +1779,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 165809,
-      "num": 290133,
-      "word": "拉丁舞爆火裁判一个月跳瘦8斤",
-      "onboard_time": 1780240761,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 162154,
       "num": 162154,
       "word": "内娱明星眼里的杨幂",
@@ -1675,6 +1851,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 151910,
+      "num": 214097,
+      "word": "医生谈5岁男孩半夜咳嗽像小狗叫",
+      "onboard_time": 1780275261,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 151515,
       "num": 151515,
       "word": "斯瓦泰克vs科斯秋克",
@@ -1731,14 +1915,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 144994,
-      "num": 103874,
-      "word": "网红边牧锄头主人拒绝和解",
-      "onboard_time": 1780246818,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 144808,
       "num": 354528,
       "word": "刘宇宁再唱平凡的日子借一点光",
@@ -1769,6 +1945,14 @@
       "onboard_time": 1780243160,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 139417,
+      "num": 213662,
+      "word": "宋雨琦短发马甲线",
+      "onboard_time": 1780271238,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 138779,
@@ -1803,6 +1987,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 132854,
+      "num": 211875,
+      "word": "天涯社区发长文",
+      "onboard_time": 1780275440,
+      "rank": 42,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 132644,
       "num": 121592,
       "word": "TF泡泡",
@@ -1819,6 +2011,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 131917,
+      "num": 210932,
+      "word": "樊振东身穿三冠T恤",
+      "onboard_time": 1780277000,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 131679,
       "num": 131679,
       "word": "万花世界回应",
@@ -1827,8 +2027,16 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 129517,
+      "num": 220673,
+      "word": "男子手机丢失献血时顺走护士手机",
+      "onboard_time": 1780277898,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 128909,
-      "num": 88579,
+      "num": 208508,
       "word": "报告称孩子越多平均养育成本越低",
       "onboard_time": 1780248618,
       "rank": 46,
@@ -1883,12 +2091,28 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 119816,
+      "num": 242678,
+      "word": "萨尔布吕肯回应三冠王",
+      "onboard_time": 1780270878,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 119555,
       "num": 301169,
       "word": "台特种部队格斗表演被嘲没吃早饭",
       "onboard_time": 1780203681,
       "rank": 29,
       "category": "军事"
+    },
+    {
+      "raw_hot": 116328,
+      "num": 205787,
+      "word": "夏美 王洋洋",
+      "onboard_time": 1780246098,
+      "rank": 47,
+      "category": "网红"
     },
     {
       "raw_hot": 115245,
@@ -1905,6 +2129,14 @@
       "onboard_time": 1780149862,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 111973,
+      "num": 251712,
+      "word": "ARASHI解散演唱会",
+      "onboard_time": 1780273578,
+      "rank": 9,
+      "category": "演出"
     },
     {
       "raw_hot": 111776,
@@ -1937,6 +2169,14 @@
       "onboard_time": 1780227741,
       "rank": 46,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 106725,
+      "num": 205141,
+      "word": "中国团队发布无人机作战团灭算法",
+      "onboard_time": 1780278019,
+      "rank": 48,
+      "category": "军事"
     },
     {
       "raw_hot": 104086,
@@ -1985,6 +2225,14 @@
       "onboard_time": 1780155500,
       "rank": 37,
       "category": "演出"
+    },
+    {
+      "raw_hot": 94342,
+      "num": 231143,
+      "word": "关晓彤李昀锐这个搂肩对视",
+      "onboard_time": 1780275440,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 93938,
@@ -2113,6 +2361,14 @@
       "onboard_time": 1780203021,
       "rank": 19,
       "category": "互联网,汽车"
+    },
+    {
+      "raw_hot": 77599,
+      "num": 230001,
+      "word": "6月金股",
+      "onboard_time": 1780276339,
+      "rank": 27,
+      "category": "财经"
     },
     {
       "raw_hot": 76438,
@@ -2337,6 +2593,14 @@
       "onboard_time": 1780237342,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 46117,
+      "num": 223253,
+      "word": "汪苏泷一直指我是什么意思",
+      "onboard_time": 1780272259,
+      "rank": 33,
+      "category": "演出"
     },
     {
       "raw_hot": 45256,
@@ -2628,7 +2892,7 @@
     },
     {
       "raw_hot": 11062,
-      "num": 982305,
+      "num": 1130347,
       "word": "城事日记津彩有你",
       "onboard_time": 1780232241,
       "rank": 2,

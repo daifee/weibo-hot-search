@@ -1,14 +1,62 @@
 {
   "startTime": 1780247827631,
-  "endTime": 1780268936657,
+  "endTime": 1780278042561,
   "band_list": [
     {
-      "raw_hot": 1956106,
-      "num": 1956106,
+      "raw_hot": 2822945,
+      "num": 2822945,
       "word": "天涯神帖",
       "onboard_time": 1780234221,
       "rank": 0,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 2661374,
+      "num": 246249,
+      "word": "何猷君奚梦瑶婚礼欢迎晚宴",
+      "onboard_time": 1780270156,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1471886,
+      "num": 1471886,
+      "word": "天涯社区",
+      "onboard_time": 1780274479,
+      "rank": 1,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 1158161,
+      "num": 245508,
+      "word": "白鹿喝中药调理身体和睡眠",
+      "onboard_time": 1780273880,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1150900,
+      "num": 241150,
+      "word": "刘亦菲刘诗诗 代言",
+      "onboard_time": 1780276758,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1079749,
+      "num": 1079749,
+      "word": "边牧被偷后宰杀主人痛哭拒绝和解",
+      "onboard_time": 1780275319,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1071766,
+      "num": 237603,
+      "word": "张峻豪在二手平台卖衣服",
+      "onboard_time": 1780272679,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 774042,
@@ -19,6 +67,46 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 767991,
+      "num": 767991,
+      "word": "好多明星去看了谢霆锋演唱会",
+      "onboard_time": 1780273759,
+      "rank": 4,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 759527,
+      "num": 236889,
+      "word": "谷爱凌奚梦瑶婚礼晚宴合照",
+      "onboard_time": 1780272679,
+      "rank": 21,
+      "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 678957,
+      "num": 234038,
+      "word": "爱情公寓2026迎来了NPC宣发期",
+      "onboard_time": 1780271598,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 577876,
+      "num": 577876,
+      "word": "这才是六一该办的活动",
+      "onboard_time": 1780247237,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 464319,
+      "num": 236287,
+      "word": "天天吃鸡蛋和很少吃鸡蛋谁更健康",
+      "onboard_time": 1780242023,
+      "rank": 20,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 459275,
       "num": 240224,
       "word": "二次元不是软色情遮羞布",
@@ -27,12 +115,52 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 378957,
+      "raw_hot": 449836,
+      "num": 449836,
+      "word": "天涯社区曾2次重启失败",
+      "onboard_time": 1780246818,
+      "rank": 36,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 446853,
       "num": 378957,
       "word": "窦骁 咱娥今天可太美啦",
       "onboard_time": 1780244719,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 374526,
+      "num": 250627,
+      "word": "58岁走红拉丁裁判紧绷了45年",
+      "onboard_time": 1780275319,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 314476,
+      "num": 233408,
+      "word": "曝85花七折捡漏代言",
+      "onboard_time": 1780239502,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 296731,
+      "num": 228729,
+      "word": "陈妍希开放自家给谢楠当舞蹈室",
+      "onboard_time": 1780244299,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 293126,
+      "num": 240107,
+      "word": "儿童节",
+      "onboard_time": 1780269857,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 292208,
@@ -49,6 +177,14 @@
       "onboard_time": 1780239681,
       "rank": 1,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 287507,
+      "num": 226290,
+      "word": "王鹤棣直播感谢粉丝",
+      "onboard_time": 1780243820,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 284703,
@@ -75,6 +211,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 253035,
+      "num": 253035,
+      "word": "樊振东回应三冠王",
+      "onboard_time": 1780275021,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 252193,
+      "num": 244114,
+      "word": "存储器价格暴涨近1000%原因",
+      "onboard_time": 1780272200,
+      "rank": 15,
+      "category": "财经"
+    },
+    {
       "raw_hot": 250921,
       "num": 250921,
       "word": "新疆人未来一个月菜品",
@@ -83,12 +235,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 242677,
-      "num": 163056,
-      "word": "天天吃鸡蛋和很少吃鸡蛋谁更健康",
-      "onboard_time": 1780242023,
-      "rank": 20,
-      "category": "健康医疗"
+      "raw_hot": 242458,
+      "num": 231633,
+      "word": "中学生一出校门就点上烟了",
+      "onboard_time": 1780272440,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 237240,
+      "num": 225494,
+      "word": "王橹杰生周",
+      "onboard_time": 1780275199,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 234937,
@@ -97,14 +257,6 @@
       "onboard_time": 1780238360,
       "rank": 12,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 233455,
-      "num": 134040,
-      "word": "天涯社区曾2次重启失败",
-      "onboard_time": 1780246818,
-      "rank": 36,
-      "category": "互联网"
     },
     {
       "raw_hot": 226388,
@@ -116,11 +268,19 @@
     },
     {
       "raw_hot": 219954,
-      "num": 219954,
+      "num": 224342,
       "word": "日系车溃败",
       "onboard_time": 1780239024,
       "rank": 28,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 219583,
+      "num": 228040,
+      "word": "拉丁舞爆火裁判一个月跳瘦8斤",
+      "onboard_time": 1780240761,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 217804,
@@ -129,14 +289,6 @@
       "onboard_time": 1780242261,
       "rank": 17,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 203863,
-      "num": 203863,
-      "word": "这才是六一该办的活动",
-      "onboard_time": 1780247237,
-      "rank": 41,
-      "category": "幽默"
     },
     {
       "raw_hot": 197209,
@@ -148,11 +300,43 @@
     },
     {
       "raw_hot": 196860,
-      "num": 196860,
+      "num": 203482,
       "word": "南京大学首位没有毕业论文博士答辩",
       "onboard_time": 1780235182,
       "rank": 15,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 195110,
+      "num": 219418,
+      "word": "啪姐卡哥登记结婚",
+      "onboard_time": 1780276518,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 183405,
+      "num": 217941,
+      "word": "王源工体上座率",
+      "onboard_time": 1780272200,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 182617,
+      "num": 210214,
+      "word": "网红边牧锄头主人拒绝和解",
+      "onboard_time": 1780246818,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 181499,
+      "num": 217223,
+      "word": "哈尔滨大风过山车停摆倒挂半空",
+      "onboard_time": 1780273157,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 180591,
@@ -160,6 +344,14 @@
       "word": "关晓彤演技",
       "onboard_time": 1780232180,
       "rank": 16,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 178220,
+      "num": 252915,
+      "word": "万花世界4个原主每人不超过3分钟",
+      "onboard_time": 1780272440,
+      "rank": 8,
       "category": "剧集"
     },
     {
@@ -195,11 +387,11 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 144994,
-      "num": 103874,
-      "word": "网红边牧锄头主人拒绝和解",
-      "onboard_time": 1780246818,
-      "rank": 30,
+      "raw_hot": 151910,
+      "num": 214097,
+      "word": "医生谈5岁男孩半夜咳嗽像小狗叫",
+      "onboard_time": 1780275261,
+      "rank": 40,
       "category": "民生新闻"
     },
     {
@@ -219,12 +411,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 139417,
+      "num": 213662,
+      "word": "宋雨琦短发马甲线",
+      "onboard_time": 1780271238,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 134358,
-      "num": 134358,
+      "num": 207650,
       "word": "女子住酒店半夜遭陌生男子站床头",
       "onboard_time": 1780235121,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 132854,
+      "num": 211875,
+      "word": "天涯社区发长文",
+      "onboard_time": 1780275440,
+      "rank": 42,
+      "category": "互联网"
     },
     {
       "raw_hot": 132279,
@@ -235,8 +443,24 @@
       "category": "体育"
     },
     {
+      "raw_hot": 131917,
+      "num": 210932,
+      "word": "樊振东身穿三冠T恤",
+      "onboard_time": 1780277000,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 129517,
+      "num": 220673,
+      "word": "男子手机丢失献血时顺走护士手机",
+      "onboard_time": 1780277898,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 128909,
-      "num": 88579,
+      "num": 208508,
       "word": "报告称孩子越多平均养育成本越低",
       "onboard_time": 1780248618,
       "rank": 46,
@@ -251,12 +475,36 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 121184,
-      "num": 121184,
-      "word": "拉丁舞爆火裁判一个月跳瘦8斤",
-      "onboard_time": 1780240761,
-      "rank": 27,
-      "category": "民生新闻"
+      "raw_hot": 119816,
+      "num": 242678,
+      "word": "萨尔布吕肯回应三冠王",
+      "onboard_time": 1780270878,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 116328,
+      "num": 205787,
+      "word": "夏美 王洋洋",
+      "onboard_time": 1780246098,
+      "rank": 47,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 111973,
+      "num": 251712,
+      "word": "ARASHI解散演唱会",
+      "onboard_time": 1780273578,
+      "rank": 9,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 106725,
+      "num": 205141,
+      "word": "中国团队发布无人机作战团灭算法",
+      "onboard_time": 1780278019,
+      "rank": 48,
+      "category": "军事"
     },
     {
       "raw_hot": 106537,
@@ -265,6 +513,14 @@
       "onboard_time": 1780238843,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 94342,
+      "num": 231143,
+      "word": "关晓彤李昀锐这个搂肩对视",
+      "onboard_time": 1780275440,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 93343,
@@ -329,6 +585,14 @@
       "onboard_time": 1780233259,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 77599,
+      "num": 230001,
+      "word": "6月金股",
+      "onboard_time": 1780276339,
+      "rank": 27,
+      "category": "财经"
     },
     {
       "raw_hot": 74006,
@@ -467,6 +731,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 46117,
+      "num": 223253,
+      "word": "汪苏泷一直指我是什么意思",
+      "onboard_time": 1780272259,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
       "raw_hot": 41721,
       "num": 69531,
       "word": "刘宇宁给工作人员鞠躬",
@@ -548,7 +820,7 @@
     },
     {
       "raw_hot": 7494,
-      "num": 537612,
+      "num": 1130347,
       "word": "城事日记津彩有你",
       "onboard_time": 1780232241,
       "rank": 2,
