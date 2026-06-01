@@ -1,0 +1,410 @@
+{
+  "runTime": 1780355325594,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1138845,
+        "num": 1138845,
+        "word": "豆包将正式付费",
+        "onboard_time": 1780317321,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 345307,
+        "num": 563736,
+        "word": "豆包免费部分",
+        "onboard_time": 1780321342,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 21498,
+        "num": 473855,
+        "word": "长征十二号乙运载火箭首飞成功",
+        "onboard_time": 1780316001,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 327502,
+        "num": 327502,
+        "word": "台湾岛内统一声浪持续高涨",
+        "onboard_time": 1780324942,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 237087,
+        "num": 237087,
+        "word": "伊朗暂停通过中间人同美国对话",
+        "onboard_time": 1780327401,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 187927,
+        "num": 187927,
+        "word": "人糊涂起来就这样莫名其妙",
+        "onboard_time": 1780335618,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 167696,
+        "num": 167696,
+        "word": "黄仁勋称无所不能的电脑来了",
+        "onboard_time": 1780331898,
+        "rank": 6,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 158790,
+        "num": 158790,
+        "word": "记者卧底500人群聊揭秘崩老头内幕",
+        "onboard_time": 1780311680,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152060,
+        "num": 158181,
+        "word": "虞书欣演长剧导短剧",
+        "onboard_time": 1780328900,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153991,
+        "num": 158006,
+        "word": "梁靖崑说张本智和瞎忙活",
+        "onboard_time": 1780330040,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 149065,
+        "num": 156722,
+        "word": "白云机场一航班落地滑行58分钟",
+        "onboard_time": 1780317500,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113524,
+        "num": 156058,
+        "word": "当努力型遇上天赋型",
+        "onboard_time": 1780333218,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 111874,
+        "num": 155515,
+        "word": "TOP 新疆",
+        "onboard_time": 1780318642,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 104397,
+        "num": 154635,
+        "word": "瑞幸把HelloKitty写成HeeloKitty",
+        "onboard_time": 1780325842,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92407,
+        "num": 153831,
+        "word": "路边加微信KTV女孩可能是崩老头",
+        "onboard_time": 1780324522,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86370,
+        "num": 152871,
+        "word": "嫌潮汕火锅太淡欲写5000字差评",
+        "onboard_time": 1780327521,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77290,
+        "num": 152203,
+        "word": "田本昌看杨紫韩东君吻戏不舒服了",
+        "onboard_time": 1780323321,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 77174,
+        "num": 151482,
+        "word": "俄5岁女童被男邻居强行抱走",
+        "onboard_time": 1780323623,
+        "rank": 17,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 63455,
+        "num": 150683,
+        "word": "日本菲律宾想联手偷",
+        "onboard_time": 1780333218,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 58583,
+        "num": 150591,
+        "word": "张凌赫小时候是学校合唱团的",
+        "onboard_time": 1780354818,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 301738,
+        "num": 149356,
+        "word": "大部分人都对尺寸没有概念",
+        "onboard_time": 1780325901,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 109058,
+        "num": 148941,
+        "word": "何超欣与何猷君奚梦瑶婚礼合照",
+        "onboard_time": 1780354818,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86521,
+        "num": 147791,
+        "word": "这段话彻底杀死了我的钝感力",
+        "onboard_time": 1780315040,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 73935,
+        "num": 147151,
+        "word": "产检发现性病丈夫认为妻子故意隐瞒",
+        "onboard_time": 1780313238,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 58181,
+        "num": 146855,
+        "word": "这个卖给黄仁勋2800不过分吧",
+        "onboard_time": 1780349533,
+        "rank": 24,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 65687,
+        "num": 145803,
+        "word": "一个普通人的最大幸运",
+        "onboard_time": 1780327341,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 106344,
+        "num": 145276,
+        "word": "晚晚这回有理由不去奚梦瑶婚礼了",
+        "onboard_time": 1780354818,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 54741,
+        "num": 144092,
+        "word": "黄仁勋官宣联手宇树造参考人形机器人",
+        "onboard_time": 1780353375,
+        "rank": 27,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 53926,
+        "num": 143828,
+        "word": "37岁男子花200元换一个月陪聊",
+        "onboard_time": 1780329500,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 67934,
+        "num": 142911,
+        "word": "也就老虎换小猫早挠你了",
+        "onboard_time": 1780345693,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 55158,
+        "num": 141855,
+        "word": "把伞放冰箱里",
+        "onboard_time": 1780333218,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 45235,
+        "num": 141411,
+        "word": "53岁脑死亡患者移植猪肝猪肾",
+        "onboard_time": 1780326081,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 45097,
+        "num": 140899,
+        "word": "王兴兴身家飙升至140亿元",
+        "onboard_time": 1780333218,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 44373,
+        "num": 139599,
+        "word": "苏新皓歌手全民举荐第一",
+        "onboard_time": 1780324043,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 42923,
+        "num": 138891,
+        "word": "管泽元 我错过了什么",
+        "onboard_time": 1780322902,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 42085,
+        "num": 138025,
+        "word": "灵魂摆渡",
+        "onboard_time": 1780317381,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 41286,
+        "num": 137301,
+        "word": "WE你要毁了LPL吗",
+        "onboard_time": 1780308500,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 40727,
+        "num": 137246,
+        "word": "法国情侣夸中餐日本网民破防",
+        "onboard_time": 1780318460,
+        "rank": 37,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 38581,
+        "num": 136163,
+        "word": "邓紫棋何超莲合照",
+        "onboard_time": 1780354818,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37293,
+        "num": 135244,
+        "word": "伊朗计划彻底封锁霍尔木兹",
+        "onboard_time": 1780322122,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 35974,
+        "num": 134585,
+        "word": "哈根达斯为什么卖不动了",
+        "onboard_time": 1780323803,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32397,
+        "num": 133780,
+        "word": "刘红兵你完了",
+        "onboard_time": 1780315639,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 31839,
+        "num": 133092,
+        "word": "主角 现实主义",
+        "onboard_time": 1780320442,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 31396,
+        "num": 132484,
+        "word": "八狸世家人手一狸",
+        "onboard_time": 1780348093,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 31767,
+        "num": 131600,
+        "word": "白鹿喝中药睡过头了",
+        "onboard_time": 1780296681,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 30033,
+        "num": 130925,
+        "word": "世界杯英格兰队驻地安保堪比军事堡垒",
+        "onboard_time": 1780333218,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 28292,
+        "num": 130347,
+        "word": "WE condi",
+        "onboard_time": 1780317500,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 26595,
+        "num": 129714,
+        "word": "租客租房卧室卫生间爬出大量蜈蚣",
+        "onboard_time": 1780322122,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24584,
+        "num": 128538,
+        "word": "月经这5种颜色暗示身体状态",
+        "onboard_time": 1780311140,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 23867,
+        "num": 127854,
+        "word": "曾沛慈个人胜率100%",
+        "onboard_time": 1780318700,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平深情寄语小树苗#"
+    }
+  }
+}
