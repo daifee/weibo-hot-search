@@ -1,6 +1,6 @@
 {
   "startTime": 1780332315159,
-  "endTime": 1780347665629,
+  "endTime": 1780352530123,
   "band_list": [
     {
       "raw_hot": 2518802,
@@ -307,8 +307,16 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 94832,
+      "num": 159495,
+      "word": "伊朗暂停通过中间人同美国对话",
+      "onboard_time": 1780327401,
+      "rank": 40,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 92418,
-      "num": 40223,
+      "num": 43098,
       "word": "把伞放冰箱里",
       "onboard_time": 1780333218,
       "rank": 30,
@@ -331,12 +339,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 85720,
-      "num": 159495,
-      "word": "伊朗暂停通过中间人同美国对话",
-      "onboard_time": 1780327401,
-      "rank": 40,
-      "category": "国际时政"
+      "raw_hot": 82027,
+      "num": 49115,
+      "word": "这个卖给黄仁勋2800不过分吧",
+      "onboard_time": 1780349533,
+      "rank": 12,
+      "category": "互联网"
     },
     {
       "raw_hot": 78738,
@@ -355,20 +363,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 75524,
+      "num": 70915,
+      "word": "黄仁勋称无所不能的电脑来了",
+      "onboard_time": 1780331898,
+      "rank": 6,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 74475,
+      "num": 74475,
+      "word": "人糊涂起来就这样莫名其妙",
+      "onboard_time": 1780335618,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 72827,
       "num": 158893,
       "word": "租客租房卧室卫生间爬出大量蜈蚣",
       "onboard_time": 1780322122,
       "rank": 43,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 70915,
-      "num": 70915,
-      "word": "黄仁勋称无所不能的电脑来了",
-      "onboard_time": 1780331898,
-      "rank": 6,
-      "category": "数码"
     },
     {
       "raw_hot": 70070,
@@ -411,24 +427,56 @@
       "category": "情感"
     },
     {
-      "raw_hot": 56377,
-      "num": 56377,
+      "raw_hot": 58199,
+      "num": 58199,
       "word": "当努力型遇上天赋型",
       "onboard_time": 1780333218,
       "rank": 8,
       "category": "情感"
     },
     {
-      "raw_hot": 33978,
-      "num": 40226,
-      "word": "人糊涂起来就这样莫名其妙",
-      "onboard_time": 1780335618,
-      "rank": 27,
+      "raw_hot": 39866,
+      "num": 43630,
+      "word": "也就老虎换小猫早挠你了",
+      "onboard_time": 1780345693,
+      "rank": 31,
       "category": "幽默"
     },
     {
+      "raw_hot": 34778,
+      "num": 43563,
+      "word": "日本菲律宾想联手偷",
+      "onboard_time": 1780333218,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 29816,
+      "num": 43772,
+      "word": "哈根达斯为什么卖不动了",
+      "onboard_time": 1780323803,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 29413,
+      "num": 43759,
+      "word": "53岁脑死亡患者移植猪肝猪肾",
+      "onboard_time": 1780326081,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 27581,
+      "num": 43461,
+      "word": "王兴兴身家飙升至140亿元",
+      "onboard_time": 1780333218,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 27159,
-      "num": 40219,
+      "num": 43235,
       "word": "主角 现实主义",
       "onboard_time": 1780320442,
       "rank": 33,
@@ -436,55 +484,39 @@
     },
     {
       "raw_hot": 26716,
-      "num": 40217,
+      "num": 42638,
       "word": "恋与制作人野火燎心",
       "onboard_time": 1780339335,
       "rank": 34,
       "category": "游戏"
     },
     {
-      "raw_hot": 25353,
-      "num": 40215,
-      "word": "日本菲律宾想联手偷",
-      "onboard_time": 1780333218,
-      "rank": 37,
-      "category": "国际时政"
+      "raw_hot": 23798,
+      "num": 43365,
+      "word": "男子举报出租车后遭咒骂女儿得癌症",
+      "onboard_time": 1780327221,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 23302,
-      "num": 40212,
+      "num": 42174,
       "word": "WE王朝了",
       "onboard_time": 1780336095,
       "rank": 39,
       "category": "电竞"
     },
     {
-      "raw_hot": 22683,
-      "num": 40210,
-      "word": "哈根达斯为什么卖不动了",
-      "onboard_time": 1780323803,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 21145,
-      "num": 40208,
-      "word": "王兴兴身家飙升至140亿元",
-      "onboard_time": 1780333218,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 20722,
-      "num": 36701,
-      "word": "也就老虎换小猫早挠你了",
-      "onboard_time": 1780345693,
-      "rank": 31,
+      "raw_hot": 21620,
+      "num": 42998,
+      "word": "八狸世家人手一狸",
+      "onboard_time": 1780348093,
+      "rank": 39,
       "category": "幽默"
     },
     {
       "raw_hot": 20182,
-      "num": 40208,
+      "num": 42590,
       "word": "英伟达发布PC端超级芯片",
       "onboard_time": 1780333218,
       "rank": 43,
@@ -507,12 +539,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 18257,
-      "num": 40205,
-      "word": "53岁脑死亡患者移植猪肝猪肾",
-      "onboard_time": 1780326081,
-      "rank": 45,
-      "category": "民生新闻"
+      "raw_hot": 18945,
+      "num": 42800,
+      "word": "世界杯英格兰队驻地安保堪比军事堡垒",
+      "onboard_time": 1780333218,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 17315,
@@ -521,22 +553,6 @@
       "onboard_time": 1780319721,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 17299,
-      "num": 40202,
-      "word": "世界杯英格兰队驻地安保堪比军事堡垒",
-      "onboard_time": 1780333218,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 16147,
-      "num": 40202,
-      "word": "男子举报出租车后遭咒骂女儿得癌症",
-      "onboard_time": 1780327221,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 15498,

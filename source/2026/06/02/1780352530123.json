@@ -1,0 +1,410 @@
+{
+  "runTime": 1780352530123,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 461811,
+        "num": 461811,
+        "word": "豆包将正式付费",
+        "onboard_time": 1780317321,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 128694,
+        "num": 296192,
+        "word": "豆包免费部分",
+        "onboard_time": 1780321342,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 12597,
+        "num": 239511,
+        "word": "长征十二号乙运载火箭首飞成功",
+        "onboard_time": 1780316001,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 109115,
+        "num": 109115,
+        "word": "记者卧底500人群聊揭秘崩老头内幕",
+        "onboard_time": 1780311680,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94832,
+        "num": 94832,
+        "word": "伊朗暂停通过中间人同美国对话",
+        "onboard_time": 1780327401,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 87686,
+        "num": 87686,
+        "word": "白云机场一航班落地滑行58分钟",
+        "onboard_time": 1780317500,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 74873,
+        "num": 74873,
+        "word": "虞书欣演长剧导短剧",
+        "onboard_time": 1780328900,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 74475,
+        "num": 74475,
+        "word": "人糊涂起来就这样莫名其妙",
+        "onboard_time": 1780335618,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 58199,
+        "num": 58199,
+        "word": "当努力型遇上天赋型",
+        "onboard_time": 1780333218,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 51274,
+        "num": 51274,
+        "word": "瑞幸把HelloKitty写成HeeloKitty",
+        "onboard_time": 1780325842,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127345,
+        "num": 50750,
+        "word": "台湾岛内统一声浪持续高涨",
+        "onboard_time": 1780324942,
+        "rank": 10,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 94432,
+        "num": 49960,
+        "word": "梁靖崑说张本智和瞎忙活",
+        "onboard_time": 1780330040,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 82027,
+        "num": 49115,
+        "word": "这个卖给黄仁勋2800不过分吧",
+        "onboard_time": 1780349533,
+        "rank": 12,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 75524,
+        "num": 48921,
+        "word": "黄仁勋称无所不能的电脑来了",
+        "onboard_time": 1780331898,
+        "rank": 13,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 53264,
+        "num": 47543,
+        "word": "路边加微信KTV女孩可能是崩老头",
+        "onboard_time": 1780324522,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 53007,
+        "num": 47327,
+        "word": "37岁男子花200元换一个月陪聊",
+        "onboard_time": 1780329500,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 46775,
+        "num": 46775,
+        "word": "TOP 新疆",
+        "onboard_time": 1780318642,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 44640,
+        "num": 44640,
+        "word": "嫌潮汕火锅太淡欲写5000字差评",
+        "onboard_time": 1780327521,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 44539,
+        "num": 44539,
+        "word": "俄5岁女童被男邻居强行抱走",
+        "onboard_time": 1780323623,
+        "rank": 18,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 35593,
+        "num": 44501,
+        "word": "苏新皓歌手全民举荐第一",
+        "onboard_time": 1780324043,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150193,
+        "num": 44396,
+        "word": "大部分人都对尺寸没有概念",
+        "onboard_time": 1780325901,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 45670,
+        "num": 44342,
+        "word": "这段话彻底杀死了我的钝感力",
+        "onboard_time": 1780315040,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 40944,
+        "num": 44233,
+        "word": "一个普通人的最大幸运",
+        "onboard_time": 1780327341,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 36228,
+        "num": 44203,
+        "word": "法国情侣夸中餐日本网民破防",
+        "onboard_time": 1780318460,
+        "rank": 23,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 34461,
+        "num": 44115,
+        "word": "田本昌看杨紫韩东君吻戏不舒服了",
+        "onboard_time": 1780323321,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 33629,
+        "num": 44012,
+        "word": "产检发现性病丈夫认为妻子故意隐瞒",
+        "onboard_time": 1780313238,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32360,
+        "num": 43995,
+        "word": "WE你要毁了LPL吗",
+        "onboard_time": 1780308500,
+        "rank": 26,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 31213,
+        "num": 43917,
+        "word": "月经这5种颜色暗示身体状态",
+        "onboard_time": 1780311140,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 29816,
+        "num": 43772,
+        "word": "哈根达斯为什么卖不动了",
+        "onboard_time": 1780323803,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29413,
+        "num": 43759,
+        "word": "53岁脑死亡患者移植猪肝猪肾",
+        "onboard_time": 1780326081,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39866,
+        "num": 43630,
+        "word": "也就老虎换小猫早挠你了",
+        "onboard_time": 1780345693,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 34778,
+        "num": 43563,
+        "word": "日本菲律宾想联手偷",
+        "onboard_time": 1780333218,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 27619,
+        "num": 43535,
+        "word": "灵魂摆渡",
+        "onboard_time": 1780317381,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 27581,
+        "num": 43461,
+        "word": "王兴兴身家飙升至140亿元",
+        "onboard_time": 1780333218,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23798,
+        "num": 43365,
+        "word": "男子举报出租车后遭咒骂女儿得癌症",
+        "onboard_time": 1780327221,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23785,
+        "num": 43235,
+        "word": "主角 现实主义",
+        "onboard_time": 1780320442,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 23756,
+        "num": 43186,
+        "word": "管泽元 我错过了什么",
+        "onboard_time": 1780322902,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 23283,
+        "num": 43098,
+        "word": "把伞放冰箱里",
+        "onboard_time": 1780333218,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 22728,
+        "num": 42998,
+        "word": "伊朗计划彻底封锁霍尔木兹",
+        "onboard_time": 1780322122,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 21620,
+        "num": 42998,
+        "word": "八狸世家人手一狸",
+        "onboard_time": 1780348093,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 18965,
+        "num": 42884,
+        "word": "刘红兵你完了",
+        "onboard_time": 1780315639,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 18945,
+        "num": 42800,
+        "word": "世界杯英格兰队驻地安保堪比军事堡垒",
+        "onboard_time": 1780333218,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 17408,
+        "num": 42724,
+        "word": "租客租房卧室卫生间爬出大量蜈蚣",
+        "onboard_time": 1780322122,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16066,
+        "num": 42638,
+        "word": "恋与制作人野火燎心",
+        "onboard_time": 1780339335,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 15138,
+        "num": 42590,
+        "word": "英伟达发布PC端超级芯片",
+        "onboard_time": 1780333218,
+        "rank": 44,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 14519,
+        "num": 42535,
+        "word": "WE condi",
+        "onboard_time": 1780317500,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 14490,
+        "num": 42449,
+        "word": "曾沛慈个人胜率100%",
+        "onboard_time": 1780318700,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 14261,
+        "num": 42313,
+        "word": "白鹿喝中药睡过头了",
+        "onboard_time": 1780296681,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 12840,
+        "num": 42262,
+        "word": "Monki喊话TES",
+        "onboard_time": 1780325243,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 12450,
+        "num": 42174,
+        "word": "WE王朝了",
+        "onboard_time": 1780336095,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平深情寄语小树苗#"
+    }
+  }
+}
