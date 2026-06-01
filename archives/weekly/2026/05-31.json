@@ -1,6 +1,6 @@
 {
   "startTime": 1780161470105,
-  "endTime": 1780278042561,
+  "endTime": 1780289562666,
   "band_list": [
     {
       "raw_hot": 4274003,
@@ -12,10 +12,18 @@
     },
     {
       "raw_hot": 2661374,
-      "num": 246249,
+      "num": 557866,
       "word": "何猷君奚梦瑶婚礼欢迎晚宴",
       "onboard_time": 1780270156,
       "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2512325,
+      "num": 565234,
+      "word": "白举纲宣布当爸",
+      "onboard_time": 1780282159,
+      "rank": 10,
       "category": "艺人"
     },
     {
@@ -91,6 +99,14 @@
       "category": "艺人,民生新闻"
     },
     {
+      "raw_hot": 1647187,
+      "num": 1647187,
+      "word": "日本排外情绪空前高涨",
+      "onboard_time": 1780282099,
+      "rank": 0,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 1586442,
       "num": 1586442,
       "word": "中国留学生因印度高温提前回国",
@@ -104,6 +120,14 @@
       "word": "刘德华妻子60岁状态",
       "onboard_time": 1780204160,
       "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1505607,
+      "num": 533647,
+      "word": "王嘉尔是何猷君婚礼伴郎",
+      "onboard_time": 1780283780,
+      "rank": 17,
       "category": "艺人"
     },
     {
@@ -163,12 +187,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1248048,
+      "num": 551503,
+      "word": "刘亦菲刘诗诗 代言",
+      "onboard_time": 1780276758,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1242856,
       "num": 906491,
       "word": "停止自嬷",
       "onboard_time": 1780210579,
       "rank": 3,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1194407,
+      "num": 690482,
+      "word": "肖战穆祉丞十日终焉路透",
+      "onboard_time": 1780287321,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 1191667,
+      "num": 686224,
+      "word": "有种被整个幼儿园背叛的感觉",
+      "onboard_time": 1780284501,
+      "rank": 4,
+      "category": "幽默"
     },
     {
       "raw_hot": 1175765,
@@ -180,7 +228,7 @@
     },
     {
       "raw_hot": 1158161,
-      "num": 245508,
+      "num": 369924,
       "word": "白鹿喝中药调理身体和睡眠",
       "onboard_time": 1780273880,
       "rank": 14,
@@ -192,14 +240,6 @@
       "word": "曝85花七折捡漏代言",
       "onboard_time": 1780239502,
       "rank": 10,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1150900,
-      "num": 241150,
-      "word": "刘亦菲刘诗诗 代言",
-      "onboard_time": 1780276758,
-      "rank": 17,
       "category": "艺人"
     },
     {
@@ -220,7 +260,7 @@
     },
     {
       "raw_hot": 1071766,
-      "num": 237603,
+      "num": 337635,
       "word": "张峻豪在二手平台卖衣服",
       "onboard_time": 1780272679,
       "rank": 20,
@@ -331,11 +371,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 792516,
+      "num": 899819,
+      "word": "腾讯视频6月电视剧片单",
+      "onboard_time": 1780284677,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 786656,
       "num": 387904,
       "word": "张凌赫活动商场玻璃破碎致5擦伤",
       "onboard_time": 1780226660,
       "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 778264,
+      "num": 546614,
+      "word": "孙怡忍了三天 发现自己真的很爱",
+      "onboard_time": 1780284741,
+      "rank": 14,
       "category": "艺人"
     },
     {
@@ -428,7 +484,7 @@
     },
     {
       "raw_hot": 678957,
-      "num": 234038,
+      "num": 387034,
       "word": "爱情公寓2026迎来了NPC宣发期",
       "onboard_time": 1780271598,
       "rank": 23,
@@ -459,6 +515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 646366,
+      "num": 557002,
+      "word": "东山精密跌停",
+      "onboard_time": 1780285939,
+      "rank": 12,
+      "category": "财经"
+    },
+    {
       "raw_hot": 643062,
       "num": 643062,
       "word": "曾沛慈长文告别三公",
@@ -475,6 +539,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 631004,
+      "num": 631004,
+      "word": "杨紫近一两年都不会参加综艺",
+      "onboard_time": 1780285880,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 630539,
+      "num": 541630,
+      "word": "A股",
+      "onboard_time": 1780279639,
+      "rank": 15,
+      "category": "财经"
+    },
+    {
       "raw_hot": 628303,
       "num": 363692,
       "word": "陈星旭王玉雯一起去看欧冠了",
@@ -489,6 +569,14 @@
       "onboard_time": 1780183396,
       "rank": 9,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 607191,
+      "num": 520008,
+      "word": "白鹿丞磊莫离剧宣发力了",
+      "onboard_time": 1780285341,
+      "rank": 20,
+      "category": "剧集"
     },
     {
       "raw_hot": 594198,
@@ -515,6 +603,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 578698,
+      "num": 578698,
+      "word": "有事和身体商量真有用",
+      "onboard_time": 1780282819,
+      "rank": 6,
+      "category": "情感"
+    },
+    {
       "raw_hot": 577876,
       "num": 577876,
       "word": "这才是六一该办的活动",
@@ -537,6 +633,14 @@
       "onboard_time": 1780212861,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 519555,
+      "num": 519555,
+      "word": "本周做什么都顺的星座",
+      "onboard_time": 1780283118,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 519203,
@@ -691,6 +795,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 432179,
+      "num": 432179,
+      "word": "樰姐来了开撕岳雨婷",
+      "onboard_time": 1780287500,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 429743,
       "num": 120332,
       "word": "王嘉尔出发参加何猷君奚梦瑶婚礼",
@@ -721,6 +833,14 @@
       "onboard_time": 1780183157,
       "rank": 21,
       "category": "网红"
+    },
+    {
+      "raw_hot": 418212,
+      "num": 418212,
+      "word": "杨紫说不会参加浪姐",
+      "onboard_time": 1780287921,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 405506,
@@ -785,6 +905,14 @@
       "onboard_time": 1780189218,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 381104,
+      "num": 576483,
+      "word": "男童100元变卖20克金条",
+      "onboard_time": 1780284920,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 374526,
@@ -883,6 +1011,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 354968,
+      "num": 404592,
+      "word": "谭松韵代旭新剧开机",
+      "onboard_time": 1780286300,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 354188,
       "num": 354188,
       "word": "姆巴佩欧冠金靴",
@@ -897,6 +1033,14 @@
       "onboard_time": 1780203080,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 348111,
+      "num": 528295,
+      "word": "男子手机丢失献血时顺走护士手机",
+      "onboard_time": 1780277898,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 346653,
@@ -947,12 +1091,28 @@
       "category": "网红"
     },
     {
+      "raw_hot": 338145,
+      "num": 526645,
+      "word": "给5岁女儿买完万元Gucci裙子发现打折",
+      "onboard_time": 1780288280,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 336948,
       "num": 283769,
       "word": "杨洋一袅楚宫腰",
       "onboard_time": 1780199539,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 335344,
+      "num": 417308,
+      "word": "哈尔滨巨星演唱会中断亲历者发声",
+      "onboard_time": 1780285280,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 334209,
@@ -977,6 +1137,22 @@
       "onboard_time": 1780207279,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 320344,
+      "num": 264777,
+      "word": "迪丽热巴cos小蛋糕",
+      "onboard_time": 1780285101,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 316193,
+      "num": 249932,
+      "word": "谁给董洁做的妆造",
+      "onboard_time": 1780284260,
+      "rank": 38,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 315940,
@@ -1107,6 +1283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 291261,
+      "num": 394525,
+      "word": "猫的大脑处理不了那么多事",
+      "onboard_time": 1780286962,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 289786,
       "num": 534982,
       "word": "央视曝光劣质驱蚊产品",
@@ -1137,6 +1321,14 @@
       "onboard_time": 1780235121,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 286290,
+      "num": 571886,
+      "word": "文班晋级总决赛获少林师傅祝福",
+      "onboard_time": 1780283479,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 284703,
@@ -1225,6 +1417,22 @@
       "onboard_time": 1780236082,
       "rank": 35,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 265861,
+      "num": 265861,
+      "word": "去河北喝古茗的时候记得穿上阿迪",
+      "onboard_time": 1780288941,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 262914,
+      "num": 262914,
+      "word": "一代人有一代人的六一",
+      "onboard_time": 1780288040,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 262354,
@@ -1403,6 +1611,14 @@
       "category": "艺人,作品衍生"
     },
     {
+      "raw_hot": 220343,
+      "num": 566280,
+      "word": "孙颖莎樊振东全红婵们等比例长大",
+      "onboard_time": 1780280421,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 219954,
       "num": 224342,
       "word": "日系车溃败",
@@ -1417,6 +1633,14 @@
       "onboard_time": 1780240761,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 219138,
+      "num": 219138,
+      "word": "抢救的原因是抢救",
+      "onboard_time": 1780287743,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 217804,
@@ -1539,6 +1763,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 203837,
+      "num": 203837,
+      "word": "19.9和2000元的防晒衣有什么区别",
+      "onboard_time": 1780286480,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 203306,
       "num": 182899,
       "word": "哈尔滨你怎么了",
@@ -1585,6 +1817,14 @@
       "onboard_time": 1780131079,
       "rank": 15,
       "category": "情感"
+    },
+    {
+      "raw_hot": 197161,
+      "num": 536557,
+      "word": "手机内文物照被闲鱼擅自上架售卖",
+      "onboard_time": 1780285341,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 195110,
@@ -1659,6 +1899,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 182616,
+      "num": 370424,
+      "word": "小米汽车5月交付超过30000台",
+      "onboard_time": 1780279458,
+      "rank": 30,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 181820,
+      "num": 181820,
+      "word": "迪丽热巴嘉人6月刊预告",
+      "onboard_time": 1780279579,
+      "rank": 41,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 181499,
       "num": 217223,
       "word": "哈尔滨大风过山车停摆倒挂半空",
@@ -1673,6 +1929,14 @@
       "onboard_time": 1780228519,
       "rank": 35,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 179918,
+      "num": 135655,
+      "word": "杨迪爬山朋友被救护车拉走",
+      "onboard_time": 1780289242,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 179690,
@@ -1737,6 +2001,14 @@
       "onboard_time": 1780196060,
       "rank": 43,
       "category": "电影"
+    },
+    {
+      "raw_hot": 173843,
+      "num": 173843,
+      "word": "鸿蒙智行5月交付46122辆",
+      "onboard_time": 1780284501,
+      "rank": 43,
+      "category": "汽车"
     },
     {
       "raw_hot": 172721,
@@ -1827,6 +2099,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 155890,
+      "num": 155890,
+      "word": "天涯社区复活",
+      "onboard_time": 1780285280,
+      "rank": 45,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 154062,
       "num": 154062,
       "word": "宋亚轩视频进度条是小时候的自己",
@@ -1881,6 +2161,14 @@
       "onboard_time": 1780146560,
       "rank": 28,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 149135,
+      "num": 369988,
+      "word": "女子称洗澡遭醉酒男闯入欲行不轨",
+      "onboard_time": 1780288222,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 148390,
@@ -1971,6 +2259,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 138249,
+      "num": 376830,
+      "word": "一支舞蹈加速外国人对日本祛魅",
+      "onboard_time": 1780288881,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 135765,
+      "num": 135765,
+      "word": "樊振东当上引荐人了",
+      "onboard_time": 1780289542,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 134650,
       "num": 134650,
       "word": "孟子义李昀锐合体奔跑吧收官录制",
@@ -2027,14 +2331,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 129517,
-      "num": 220673,
-      "word": "男子手机丢失献血时顺走护士手机",
-      "onboard_time": 1780277898,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 128909,
       "num": 208508,
       "word": "报告称孩子越多平均养育成本越低",
@@ -2065,6 +2361,14 @@
       "onboard_time": 1780221680,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 125292,
+      "num": 135499,
+      "word": "刘宪华巡演官宣",
+      "onboard_time": 1780288762,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 123289,
@@ -2859,6 +3163,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 18329,
+      "num": 714682,
+      "word": "守护平安与你童行",
+      "onboard_time": 1780289002,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 18099,
       "num": 22852,
       "word": "薛之谦演唱会",
@@ -2905,6 +3217,14 @@
       "onboard_time": 1780143260,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 4533,
+      "num": 263782,
+      "word": "100位明星齐聚天猫618",
+      "onboard_time": 1780286602,
+      "rank": 36,
+      "category": "艺人"
     }
   ],
   "hotgov_list": [
@@ -2922,6 +3242,9 @@
     },
     {
       "word": "#习近平祝小朋友们儿童节快乐#"
+    },
+    {
+      "word": "#总书记深情寄语少年儿童#"
     }
   ]
 }
