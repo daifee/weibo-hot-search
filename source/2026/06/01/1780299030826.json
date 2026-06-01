@@ -1,0 +1,410 @@
+{
+  "runTime": 1780299030826,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1468110,
+        "num": 1468110,
+        "word": "一车安全带全是P上去的",
+        "onboard_time": 1780290860,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1205981,
+        "num": 1205981,
+        "word": "闲鱼道歉",
+        "onboard_time": 1780296620,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23390,
+        "num": 1101439,
+        "word": "全国少先队员共1.12亿名",
+        "onboard_time": 1780279099,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 2739798,
+        "num": 1088653,
+        "word": "白鹿剧宣睡过头了",
+        "onboard_time": 1780296681,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1073076,
+        "num": 1073076,
+        "word": "天涯回归被挤爆了",
+        "onboard_time": 1780293620,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1026209,
+        "num": 1026209,
+        "word": "华为发布会",
+        "onboard_time": 1780295780,
+        "rank": 5,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 823434,
+        "num": 823434,
+        "word": "有种被整个幼儿园背叛的感觉",
+        "onboard_time": 1780284501,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 820488,
+        "num": 820488,
+        "word": "灯花笑 田曦薇",
+        "onboard_time": 1780295660,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 264389,
+        "num": 809126,
+        "word": "NBA总决赛地板有那味儿了",
+        "onboard_time": 1780295840,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 33777,
+        "num": 798865,
+        "word": "郑丽文今晚启程访美",
+        "onboard_time": 1780298241,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1070332,
+        "num": 779598,
+        "word": "何猷君奚梦瑶婚礼欢迎晚宴",
+        "onboard_time": 1780270156,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 843373,
+        "num": 770311,
+        "word": "白举纲宣布当爸",
+        "onboard_time": 1780282159,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 570918,
+        "num": 743121,
+        "word": "手机是我买过最回本的东西了",
+        "onboard_time": 1780291401,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 742793,
+        "num": 742793,
+        "word": "孙怡忍了三天 发现自己真的很爱",
+        "onboard_time": 1780284741,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 683925,
+        "num": 683925,
+        "word": "魏晨水下求婚 老婆只顾着追鱼",
+        "onboard_time": 1780293079,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 420241,
+        "num": 635831,
+        "word": "日本排外情绪空前高涨",
+        "onboard_time": 1780282099,
+        "rank": 15,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 375609,
+        "num": 606218,
+        "word": "有事和身体商量真有用",
+        "onboard_time": 1780282819,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 598633,
+        "num": 598633,
+        "word": "曝歌手帮唱嘉宾",
+        "onboard_time": 1780296740,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 29559,
+        "num": 539855,
+        "word": "多方回应索菲亚教堂棚顶疑被掀飞",
+        "onboard_time": 1780298360,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 44661,
+        "num": 535088,
+        "word": "天猫与你一探真箱",
+        "onboard_time": 1780297521,
+        "rank": 19,
+        "category": "综艺,互联网"
+      },
+      {
+        "raw_hot": 55552,
+        "num": 534093,
+        "word": "伊朗革命卫队宣布打击美军基地",
+        "onboard_time": 1780298600,
+        "rank": 20,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 533940,
+        "num": 533940,
+        "word": "去河北喝古茗的时候记得穿上阿迪",
+        "onboard_time": 1780288941,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 577008,
+        "num": 529026,
+        "word": "何猷君奚梦瑶儿女都这么大了",
+        "onboard_time": 1780292301,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 514631,
+        "num": 514631,
+        "word": "A股",
+        "onboard_time": 1780279639,
+        "rank": 23,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 452335,
+        "num": 452335,
+        "word": "时代少年团亮相华为发布会",
+        "onboard_time": 1780296499,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 445554,
+        "num": 445554,
+        "word": "侯明昊 歌手帮唱",
+        "onboard_time": 1780292301,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 427609,
+        "num": 427609,
+        "word": "古茗什么时候原谅北京",
+        "onboard_time": 1780298301,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 407764,
+        "num": 407764,
+        "word": "肖战穆祉丞十日终焉路透",
+        "onboard_time": 1780287321,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165481,
+        "num": 407000,
+        "word": "男童100元变卖20克金条",
+        "onboard_time": 1780284920,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140286,
+        "num": 406606,
+        "word": "美加墨世界杯球员身价榜",
+        "onboard_time": 1780296620,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 406374,
+        "num": 406374,
+        "word": "樰姐来了开撕岳雨婷",
+        "onboard_time": 1780287500,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 383012,
+        "num": 383012,
+        "word": "iOS28史诗级升级",
+        "onboard_time": 1780292181,
+        "rank": 31,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 382872,
+        "num": 382872,
+        "word": "灵魂摆渡十年定档",
+        "onboard_time": 1780292779,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 369298,
+        "num": 369298,
+        "word": "谁给董洁做的妆造",
+        "onboard_time": 1780284260,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 38884,
+        "num": 359854,
+        "word": "Gucci回应买完万元裙子发现打折",
+        "onboard_time": 1780298960,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 350966,
+        "num": 350966,
+        "word": "石蕊回应",
+        "onboard_time": 1780289961,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 343105,
+        "num": 343105,
+        "word": "抢救的原因是抢救",
+        "onboard_time": 1780287743,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 84381,
+        "num": 320270,
+        "word": "等风热吻你备案24集",
+        "onboard_time": 1780298960,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154945,
+        "num": 313867,
+        "word": "主角开分8.2",
+        "onboard_time": 1780297821,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 312651,
+        "num": 312651,
+        "word": "大学生一旦过了13周",
+        "onboard_time": 1780297460,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 287454,
+        "num": 287454,
+        "word": "刘亦菲刘诗诗 代言",
+        "onboard_time": 1780276758,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 256036,
+        "num": 256036,
+        "word": "杨紫近一两年都不会参加综艺",
+        "onboard_time": 1780285880,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 219192,
+        "num": 219192,
+        "word": "本周做什么都顺的星座",
+        "onboard_time": 1780283118,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 239475,
+        "num": 217764,
+        "word": "夏美 王洋洋",
+        "onboard_time": 1780291879,
+        "rank": 43,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 211752,
+        "num": 211752,
+        "word": "刘亦菲晒波兰随拍",
+        "onboard_time": 1780298720,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113651,
+        "num": 210810,
+        "word": "樊振东当上引荐人了",
+        "onboard_time": 1780289542,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 42695,
+        "num": 209336,
+        "word": "哈尔滨大风一居民楼窗户从楼顶吹落",
+        "onboard_time": 1780297521,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 190099,
+        "num": 206553,
+        "word": "朋友圈式切西瓜",
+        "onboard_time": 1780298360,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 85246,
+        "num": 203224,
+        "word": "文班晋级总决赛获少林师傅祝福",
+        "onboard_time": 1780283479,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 202441,
+        "num": 202441,
+        "word": "杨紫工作已经排到10月了",
+        "onboard_time": 1780298660,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记深情寄语少年儿童#"
+    }
+  }
+}
