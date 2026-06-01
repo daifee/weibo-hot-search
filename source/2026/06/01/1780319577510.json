@@ -1,0 +1,410 @@
+{
+  "runTime": 1780319577510,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 6730138,
+        "num": 6730138,
+        "word": "豆包将正式付费",
+        "onboard_time": 1780317321,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1864958,
+        "num": 1864958,
+        "word": "主角编剧疯了",
+        "onboard_time": 1780315100,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 59509,
+        "num": 1151215,
+        "word": "长征十二号乙运载火箭首飞成功",
+        "onboard_time": 1780316001,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 764165,
+        "num": 764165,
+        "word": "记者卧底500人群聊揭秘崩老头内幕",
+        "onboard_time": 1780311680,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 763156,
+        "num": 763156,
+        "word": "娜塔莎",
+        "onboard_time": 1780316300,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 409372,
+        "num": 409372,
+        "word": "刘红兵你完了",
+        "onboard_time": 1780315639,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 394313,
+        "num": 394313,
+        "word": "张碧晨求助歌手选歌",
+        "onboard_time": 1780315340,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 364073,
+        "num": 364073,
+        "word": "WE以下克上AL",
+        "onboard_time": 1780314740,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 342645,
+        "num": 342645,
+        "word": "在日本五分钟连续遇到两个雷霆日本人",
+        "onboard_time": 1780311980,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 295333,
+        "num": 295333,
+        "word": "男子去健身结果睡到闭店才被叫醒",
+        "onboard_time": 1780301240,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1730248,
+        "num": 295293,
+        "word": "杨紫 豆包",
+        "onboard_time": 1780318160,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1699308,
+        "num": 295088,
+        "word": "张凌赫与名媛合影",
+        "onboard_time": 1780305801,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 641260,
+        "num": 294830,
+        "word": "WE你要毁了LPL吗",
+        "onboard_time": 1780308500,
+        "rank": 12,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 536648,
+        "num": 294708,
+        "word": "刘亦菲回北电和同学聚会",
+        "onboard_time": 1780312700,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 469741,
+        "num": 294573,
+        "word": "00后一番票房",
+        "onboard_time": 1780318400,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 361023,
+        "num": 294325,
+        "word": "校长想了三辈子才想出的鬼点子",
+        "onboard_time": 1780305021,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 210315,
+        "num": 294235,
+        "word": "六一文案",
+        "onboard_time": 1780317022,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 391195,
+        "num": 293954,
+        "word": "韩庚女儿回东北血脉觉醒了",
+        "onboard_time": 1780316660,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 13948,
+        "num": 293932,
+        "word": "哈尔滨沙尘暴一秒入夜拍摄者发声",
+        "onboard_time": 1780319242,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 389100,
+        "num": 293750,
+        "word": "锤娜丽莎李川一度要分手",
+        "onboard_time": 1780303521,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 33749,
+        "num": 293529,
+        "word": "参赛选手走光被拍组委会致歉",
+        "onboard_time": 1780318522,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 3446704,
+        "num": 293337,
+        "word": "奚梦瑶婚礼",
+        "onboard_time": 1780316480,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 797924,
+        "num": 293260,
+        "word": "晚晚疑似怀孕了",
+        "onboard_time": 1780301419,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 709737,
+        "num": 293032,
+        "word": "这段话彻底杀死了我的钝感力",
+        "onboard_time": 1780315040,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 359279,
+        "num": 292789,
+        "word": "灵魂摆渡",
+        "onboard_time": 1780317381,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 270459,
+        "num": 292695,
+        "word": "白云机场一航班落地滑行58分钟",
+        "onboard_time": 1780317500,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133218,
+        "num": 292453,
+        "word": "印度热得芒果直接在树上腐烂了",
+        "onboard_time": 1780304059,
+        "rank": 26,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1152439,
+        "num": 292390,
+        "word": "奚梦瑶婚礼珠宝",
+        "onboard_time": 1780306880,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 230999,
+        "num": 292196,
+        "word": "丽江重罚78元一锅变78半斤餐厅",
+        "onboard_time": 1780305623,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160367,
+        "num": 291961,
+        "word": "纽约时报严重违反一个中国原则",
+        "onboard_time": 1780302140,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 242798,
+        "num": 291731,
+        "word": "国际车手驾坦克700环塔夺冠",
+        "onboard_time": 1780319002,
+        "rank": 30,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 291707,
+        "num": 291707,
+        "word": "张桂源叫杨博文羊羊博博问问",
+        "onboard_time": 1780319061,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 288657,
+        "num": 288657,
+        "word": "产检发现性病丈夫认为妻子故意隐瞒",
+        "onboard_time": 1780313238,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 275453,
+        "num": 275453,
+        "word": "TOP 新疆",
+        "onboard_time": 1780318642,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 273767,
+        "num": 273767,
+        "word": "爱笑 AL",
+        "onboard_time": 1780313899,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 243551,
+        "num": 243551,
+        "word": "白鹿喝中药睡过头了",
+        "onboard_time": 1780296681,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 221191,
+        "num": 221191,
+        "word": "穆祉丞高会晒妈妈转账",
+        "onboard_time": 1780304601,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 210145,
+        "num": 210145,
+        "word": "WE condi",
+        "onboard_time": 1780317500,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 219692,
+        "num": 207495,
+        "word": "浪姐个人胜率",
+        "onboard_time": 1780311920,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195281,
+        "num": 195281,
+        "word": "惠英红66岁拿下Loewe全球广告",
+        "onboard_time": 1780316180,
+        "rank": 39,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 188310,
+        "num": 188310,
+        "word": "AL对战WE",
+        "onboard_time": 1780307901,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 183932,
+        "num": 183932,
+        "word": "TES和WE争Msi门票",
+        "onboard_time": 1780315639,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 163312,
+        "num": 163312,
+        "word": "曾沛慈个人胜率100%",
+        "onboard_time": 1780318700,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146407,
+        "num": 146407,
+        "word": "七年前的白鹿",
+        "onboard_time": 1780309223,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137312,
+        "num": 137312,
+        "word": "法国情侣夸中餐日本网民破防",
+        "onboard_time": 1780318460,
+        "rank": 44,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 137524,
+        "num": 137152,
+        "word": "黄朔祝陈浚铭儿童节快乐",
+        "onboard_time": 1780311860,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136909,
+        "num": 136909,
+        "word": "TTG 张角",
+        "onboard_time": 1780313360,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 136181,
+        "num": 136181,
+        "word": "迪丽热巴 樱桃蛋糕",
+        "onboard_time": 1780307601,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101865,
+        "num": 121377,
+        "word": "中际旭创总市值破1.2万亿元",
+        "onboard_time": 1780316842,
+        "rank": 48,
+        "category": "财经,互联网"
+      },
+      {
+        "raw_hot": 118722,
+        "num": 118722,
+        "word": "月经这5种颜色暗示身体状态",
+        "onboard_time": 1780311140,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记始终牵挂孩子们的成长#"
+    }
+  }
+}
