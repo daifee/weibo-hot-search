@@ -1,6 +1,6 @@
 {
   "startTime": 1780161470105,
-  "endTime": 1780438101279,
+  "endTime": 1780444466836,
   "band_list": [
     {
       "raw_hot": 6730138,
@@ -355,6 +355,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1316363,
+      "num": 241738,
+      "word": "李登科曝王源事业停滞原因",
+      "onboard_time": 1780411282,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1314072,
       "num": 293260,
       "word": "晚晚疑似怀孕了",
@@ -464,6 +472,14 @@
       "word": "曝85花七折捡漏代言",
       "onboard_time": 1780239502,
       "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1130761,
+      "num": 241016,
+      "word": "迪丽热巴抹胸刺绣高定",
+      "onboard_time": 1780443559,
+      "rank": 21,
       "category": "艺人"
     },
     {
@@ -1099,6 +1115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 608563,
+      "num": 608563,
+      "word": "世界是本巨大的番茄小说",
+      "onboard_time": 1780419796,
+      "rank": 0,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 607191,
       "num": 520008,
       "word": "白鹿丞磊莫离剧宣发力了",
@@ -1169,6 +1193,14 @@
       "onboard_time": 1780282819,
       "rank": 6,
       "category": "情感"
+    },
+    {
+      "raw_hot": 577883,
+      "num": 268323,
+      "word": "割四赔五乱象",
+      "onboard_time": 1780427355,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 577876,
@@ -1265,6 +1297,14 @@
       "onboard_time": 1780288941,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 527962,
+      "num": 1026991,
+      "word": "老宅被亲戚偷装光伏板女子崩溃痛哭",
+      "onboard_time": 1780419618,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 526600,
@@ -1595,6 +1635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 437842,
+      "num": 761699,
+      "word": "灵魂摆渡",
+      "onboard_time": 1780317381,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 432179,
       "num": 432179,
       "word": "樰姐来了开撕岳雨婷",
@@ -1723,6 +1771,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 411012,
+      "num": 411012,
+      "word": "30岁女子爬楼瘦腿膝盖老成60岁",
+      "onboard_time": 1780409122,
+      "rank": 49,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 409372,
       "num": 409372,
       "word": "刘红兵你完了",
@@ -1736,6 +1792,14 @@
       "word": "何猷君回复王嘉尔",
       "onboard_time": 1780409181,
       "rank": 27,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 406029,
+      "num": 248112,
+      "word": "奚梦瑶何猷君婚礼誓词",
+      "onboard_time": 1780441218,
+      "rank": 15,
       "category": "艺人"
     },
     {
@@ -1760,6 +1824,14 @@
       "word": "韩庚鹿晗SM师兄弟合体",
       "onboard_time": 1780208480,
       "rank": 17,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 402280,
+      "num": 402280,
+      "word": "歌手",
+      "onboard_time": 1780442958,
+      "rank": 5,
       "category": "综艺"
     },
     {
@@ -2019,14 +2091,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 359279,
-      "num": 292789,
-      "word": "灵魂摆渡",
-      "onboard_time": 1780317381,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 358117,
       "num": 371977,
       "word": "被女主播开播前的调试震惊到了",
@@ -2089,6 +2153,14 @@
       "onboard_time": 1780289961,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 349147,
+      "num": 349147,
+      "word": "大量印度人排队报名学日语",
+      "onboard_time": 1780404682,
+      "rank": 48,
+      "category": "国际时政"
     },
     {
       "raw_hot": 348772,
@@ -2161,14 +2233,6 @@
       "onboard_time": 1780155201,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 339719,
-      "num": 339719,
-      "word": "世界是本巨大的番茄小说",
-      "onboard_time": 1780419796,
-      "rank": 0,
-      "category": "幽默"
     },
     {
       "raw_hot": 339014,
@@ -2441,6 +2505,14 @@
       "onboard_time": 1780371259,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 296079,
+      "num": 296079,
+      "word": "电动车是最伟大的发明",
+      "onboard_time": 1780414100,
+      "rank": 1,
+      "category": "幽默"
     },
     {
       "raw_hot": 294398,
@@ -2891,6 +2963,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 250843,
+      "num": 250843,
+      "word": "傅首尔瘦了38斤",
+      "onboard_time": 1780415899,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 250684,
       "num": 718327,
       "word": "马刺将提前续约文班亚马",
@@ -2928,6 +3008,14 @@
       "word": "王源压轴",
       "onboard_time": 1780241780,
       "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 248379,
+      "num": 285325,
+      "word": "你好星期六回应丁程鑫伤情",
+      "onboard_time": 1780422555,
+      "rank": 3,
       "category": "综艺"
     },
     {
@@ -3033,6 +3121,14 @@
       "onboard_time": 1780246098,
       "rank": 47,
       "category": "网红"
+    },
+    {
+      "raw_hot": 237368,
+      "num": 249828,
+      "word": "做过手帐的才知道她有多厉害",
+      "onboard_time": 1780420277,
+      "rank": 4,
+      "category": "幽默"
     },
     {
       "raw_hot": 237240,
@@ -3403,6 +3499,14 @@
       "category": "民生新闻,健康医疗"
     },
     {
+      "raw_hot": 205632,
+      "num": 229277,
+      "word": "美国把当年对日本话术套用给中国",
+      "onboard_time": 1780443740,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 205256,
       "num": 379294,
       "word": "田曦薇素颜染发",
@@ -3627,6 +3731,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 189071,
+      "num": 245659,
+      "word": "妻子穿几十元T恤丈夫满身名牌做医美",
+      "onboard_time": 1780416320,
+      "rank": 13,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 187562,
       "num": 187562,
       "word": "王洋洋 夏美",
@@ -3771,14 +3883,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 178479,
-      "num": 149673,
-      "word": "你好星期六回应丁程鑫伤情",
-      "onboard_time": 1780422555,
-      "rank": 3,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 178220,
       "num": 252915,
       "word": "万花世界4个原主每人不超过3分钟",
@@ -3859,6 +3963,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 167786,
+      "num": 244556,
+      "word": "事业编考生笔试第1因围报被取消资格",
+      "onboard_time": 1780410923,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 167375,
       "num": 167375,
       "word": "第一次理解精神损失费",
@@ -3873,6 +3985,14 @@
       "onboard_time": 1780155080,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 165192,
+      "num": 237199,
+      "word": "刘红兵同意离婚的原因",
+      "onboard_time": 1780443559,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 164909,
@@ -3979,6 +4099,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 158067,
+      "num": 243495,
+      "word": "从怀孕到生娃能领7笔钱",
+      "onboard_time": 1780411643,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 155890,
       "num": 155890,
       "word": "天涯社区复活",
@@ -4011,6 +4139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 153541,
+      "num": 239742,
+      "word": "八段锦国家级教材来了",
+      "onboard_time": 1780443559,
+      "rank": 22,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 153407,
       "num": 153407,
       "word": "长期不吃晚饭会变成什么样",
@@ -4025,6 +4161,14 @@
       "onboard_time": 1780372700,
       "rank": 33,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 153166,
+      "num": 235709,
+      "word": "孙正义再登亚洲首富",
+      "onboard_time": 1780435394,
+      "rank": 14,
+      "category": "财经,互联网"
     },
     {
       "raw_hot": 151920,
@@ -4075,14 +4219,6 @@
       "category": "综艺,互联网"
     },
     {
-      "raw_hot": 150109,
-      "num": 225373,
-      "word": "电动车是最伟大的发明",
-      "onboard_time": 1780414100,
-      "rank": 1,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 149378,
       "num": 133389,
       "word": "用豆包免费学英语的两个方法",
@@ -4107,12 +4243,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 148853,
-      "num": 305603,
-      "word": "大量印度人排队报名学日语",
-      "onboard_time": 1780404682,
-      "rank": 48,
-      "category": "国际时政"
+      "raw_hot": 148840,
+      "num": 233354,
+      "word": "小猫的面相真的会随主人",
+      "onboard_time": 1780443559,
+      "rank": 27,
+      "category": "幽默"
     },
     {
       "raw_hot": 148390,
@@ -4161,6 +4297,14 @@
       "onboard_time": 1780222760,
       "rank": 45,
       "category": "财经"
+    },
+    {
+      "raw_hot": 146186,
+      "num": 231432,
+      "word": "三星堆考古发现11件红玉髓珠",
+      "onboard_time": 1780412781,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 145614,
@@ -4331,14 +4475,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 132462,
-      "num": 148592,
-      "word": "30岁女子爬楼瘦腿膝盖老成60岁",
-      "onboard_time": 1780409122,
-      "rank": 49,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 132293,
       "num": 122488,
       "word": "潘宥诚主页里都是虞书欣在帮他宣传",
@@ -4355,12 +4491,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 131788,
+      "num": 249083,
+      "word": "U19国足0比3民主刚果U23",
+      "onboard_time": 1780443559,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 131679,
       "num": 131679,
       "word": "万花世界回应",
       "onboard_time": 1780150582,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 130981,
+      "num": 228421,
+      "word": "男子中6022万4个月后才敢晒奖",
+      "onboard_time": 1780412602,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 129685,
@@ -4507,8 +4659,8 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 112630,
-      "num": 147681,
+      "raw_hot": 113421,
+      "num": 226424,
       "word": "暖阳",
       "onboard_time": 1780416082,
       "rank": 12,
@@ -4545,14 +4697,6 @@
       "onboard_time": 1780214059,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 110876,
-      "num": 146982,
-      "word": "妻子穿几十元T恤丈夫满身名牌做医美",
-      "onboard_time": 1780416320,
-      "rank": 13,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 110549,
@@ -4619,14 +4763,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 102276,
-      "num": 149541,
-      "word": "做过手帐的才知道她有多厉害",
-      "onboard_time": 1780420277,
-      "rank": 4,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 101865,
       "num": 121377,
       "word": "中际旭创总市值破1.2万亿元",
@@ -4649,6 +4785,14 @@
       "onboard_time": 1780154362,
       "rank": 34,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 100085,
+      "num": 220298,
+      "word": "买1瓶飞天茅台必须搭售4瓶黔茅酒",
+      "onboard_time": 1780438635,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 99216,
@@ -4681,14 +4825,6 @@
       "onboard_time": 1780183517,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 96090,
-      "num": 96090,
-      "word": "割四赔五乱象",
-      "onboard_time": 1780427355,
-      "rank": 11,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 95885,
@@ -4737,6 +4873,14 @@
       "onboard_time": 1780202960,
       "rank": 20,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 93828,
+      "num": 216329,
+      "word": "燕云十六声把付鹏举修改为付鹏",
+      "onboard_time": 1780419618,
+      "rank": 18,
+      "category": "游戏"
     },
     {
       "raw_hot": 93708,
@@ -4859,6 +5003,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 83632,
+      "num": 208888,
+      "word": "武契奇不寻求再当总统",
+      "onboard_time": 1780413322,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 82649,
       "num": 230134,
       "word": "翘楚一集重生三集改命",
@@ -4883,28 +5035,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 81510,
-      "num": 193377,
-      "word": "事业编考生笔试第1因围报被取消资格",
-      "onboard_time": 1780410923,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 81308,
       "num": 81308,
       "word": "哈尔滨突发沙尘暴市民称有点像世界末日",
       "onboard_time": 1780252755,
       "rank": 45,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 81054,
-      "num": 146769,
-      "word": "老宅被亲戚偷装光伏板女子崩溃痛哭",
-      "onboard_time": 1780419618,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 81051,
@@ -4971,6 +5107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 75984,
+      "num": 212342,
+      "word": "莫离",
+      "onboard_time": 1780444221,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 74447,
       "num": 122773,
       "word": "618夏日续命神器大盘点",
@@ -5027,14 +5171,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 69268,
-      "num": 145385,
-      "word": "男子中6022万4个月后才敢晒奖",
-      "onboard_time": 1780412602,
-      "rank": 16,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 69030,
       "num": 72108,
       "word": "李宇春给我唱回彩铃时代了",
@@ -5051,12 +5187,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 68309,
-      "num": 144818,
-      "word": "燕云十六声把付鹏举修改为付鹏",
-      "onboard_time": 1780419618,
-      "rank": 18,
-      "category": "游戏"
+      "raw_hot": 68437,
+      "num": 205982,
+      "word": "胖是因为这些因素导致的",
+      "onboard_time": 1780414042,
+      "rank": 23,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 67266,
@@ -5147,14 +5283,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 62784,
-      "num": 62784,
-      "word": "孙正义再登亚洲首富",
-      "onboard_time": 1780435394,
-      "rank": 14,
-      "category": "财经,互联网"
-    },
-    {
       "raw_hot": 62302,
       "num": 72127,
       "word": "河智苑打歌舞台",
@@ -5225,14 +5353,6 @@
       "onboard_time": 1780241240,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 56723,
-      "num": 143766,
-      "word": "胖是因为这些因素导致的",
-      "onboard_time": 1780414042,
-      "rank": 23,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 55552,
@@ -5395,14 +5515,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 44283,
-      "num": 143336,
-      "word": "三星堆考古发现11件红玉髓珠",
-      "onboard_time": 1780412781,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 43223,
       "num": 323621,
       "word": "杭州多人吹空调吹出脑梗脑出血",
@@ -5489,14 +5601,6 @@
       "onboard_time": 1780408882,
       "rank": 10,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 38666,
-      "num": 142678,
-      "word": "从怀孕到生娃能领7笔钱",
-      "onboard_time": 1780411643,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 37874,
@@ -5689,14 +5793,6 @@
       "onboard_time": 1780333218,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 29968,
-      "num": 33025,
-      "word": "武契奇不寻求再当总统",
-      "onboard_time": 1780413322,
-      "rank": 29,
-      "category": "国际时政"
     },
     {
       "raw_hot": 29559,
