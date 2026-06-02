@@ -1,0 +1,411 @@
+{
+  "startTime": 1780426058526,
+  "endTime": 1780426058526,
+  "band_list": [
+    {
+      "raw_hot": 339719,
+      "num": 339719,
+      "word": "世界是本巨大的番茄小说",
+      "onboard_time": 1780419796,
+      "rank": 0,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 178479,
+      "num": 149673,
+      "word": "你好星期六回应丁程鑫伤情",
+      "onboard_time": 1780422555,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 150109,
+      "num": 150109,
+      "word": "电动车是最伟大的发明",
+      "onboard_time": 1780414100,
+      "rank": 1,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 148267,
+      "num": 148267,
+      "word": "演员魏宗万去世",
+      "onboard_time": 1780403902,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 143908,
+      "num": 143908,
+      "word": "丁程鑫受伤",
+      "onboard_time": 1780407322,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 117812,
+      "num": 148211,
+      "word": "长月烬明没人给陈都灵打call",
+      "onboard_time": 1780392861,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 112630,
+      "num": 147681,
+      "word": "暖阳",
+      "onboard_time": 1780416082,
+      "rank": 12,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 110876,
+      "num": 146982,
+      "word": "妻子穿几十元T恤丈夫满身名牌做医美",
+      "onboard_time": 1780416320,
+      "rank": 13,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 102276,
+      "num": 149541,
+      "word": "做过手帐的才知道她有多厉害",
+      "onboard_time": 1780420277,
+      "rank": 4,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 81510,
+      "num": 149343,
+      "word": "事业编考生笔试第1因围报被取消资格",
+      "onboard_time": 1780410923,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 81054,
+      "num": 146769,
+      "word": "老宅被亲戚偷装光伏板女子崩溃痛哭",
+      "onboard_time": 1780419618,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 77115,
+      "num": 149093,
+      "word": "不再发朋友圈算长大吗",
+      "onboard_time": 1780390823,
+      "rank": 6,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 74077,
+      "num": 146213,
+      "word": "5岁儿子29万存款被妈妈取到剩40",
+      "onboard_time": 1780397480,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 73300,
+      "num": 143846,
+      "word": "怪不得国外牛肉便宜",
+      "onboard_time": 1780402222,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 69268,
+      "num": 145385,
+      "word": "男子中6022万4个月后才敢晒奖",
+      "onboard_time": 1780412602,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 68714,
+      "num": 143786,
+      "word": "妻子与前男友车上睡觉男子怒砸车窗",
+      "onboard_time": 1780398260,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 66565,
+      "num": 148901,
+      "word": "王楚钦从摔拍少年到国乒队长",
+      "onboard_time": 1780419618,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 66184,
+      "num": 144962,
+      "word": "翘楚",
+      "onboard_time": 1780396520,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 65757,
+      "num": 148592,
+      "word": "30岁女子爬楼瘦腿膝盖老成60岁",
+      "onboard_time": 1780409122,
+      "rank": 8,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 65718,
+      "num": 144818,
+      "word": "燕云十六声把付鹏举修改为付鹏",
+      "onboard_time": 1780419618,
+      "rank": 18,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 58462,
+      "num": 148454,
+      "word": "豆包和豆包吵架",
+      "onboard_time": 1780406361,
+      "rank": 9,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 56723,
+      "num": 143766,
+      "word": "胖是因为这些因素导致的",
+      "onboard_time": 1780414042,
+      "rank": 23,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 56544,
+      "num": 144007,
+      "word": "神仙肉",
+      "onboard_time": 1780407742,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 55034,
+      "num": 143640,
+      "word": "山西沁源县委书记赵永进被查",
+      "onboard_time": 1780406963,
+      "rank": 24,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 54839,
+      "num": 143571,
+      "word": "河道有大量蛇出没已喷驱蛇粉",
+      "onboard_time": 1780405822,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 52339,
+      "num": 143541,
+      "word": "中国足球小将夺冠",
+      "onboard_time": 1780397781,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 49976,
+      "num": 143451,
+      "word": "张家齐和全红婵哥哥一起摘荔枝",
+      "onboard_time": 1780414281,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 46532,
+      "num": 143360,
+      "word": "歌手 苏新皓",
+      "onboard_time": 1780395981,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 46111,
+      "num": 143265,
+      "word": "马龙交棒队长读博去了",
+      "onboard_time": 1780412122,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 46021,
+      "num": 143168,
+      "word": "翘楚 短剧感",
+      "onboard_time": 1780398800,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 42507,
+      "num": 143132,
+      "word": "CBA总决赛",
+      "onboard_time": 1780405340,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 41138,
+      "num": 143059,
+      "word": "男子在健身房单边卸杠铃片蓄意伤人",
+      "onboard_time": 1780402280,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 40636,
+      "num": 142992,
+      "word": "大量印度人排队报名学日语",
+      "onboard_time": 1780404682,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 40462,
+      "num": 143336,
+      "word": "三星堆考古发现11件红玉髓珠",
+      "onboard_time": 1780412781,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 39392,
+      "num": 142884,
+      "word": "敖瑞鹏宣传灵魂摆渡十年",
+      "onboard_time": 1780412423,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 39202,
+      "num": 142812,
+      "word": "歌手帮唱嘉宾",
+      "onboard_time": 1780399460,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 38833,
+      "num": 142761,
+      "word": "灵魂摆渡一集才20分钟",
+      "onboard_time": 1780402941,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 38666,
+      "num": 142678,
+      "word": "从怀孕到生娃能领7笔钱",
+      "onboard_time": 1780411643,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 36216,
+      "num": 142624,
+      "word": "方圆脸减肥一下子没动力了",
+      "onboard_time": 1780392141,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 35651,
+      "num": 142566,
+      "word": "字节腾讯AI大动作",
+      "onboard_time": 1780414701,
+      "rank": 40,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 34593,
+      "num": 142477,
+      "word": "窦骁 演技赋魅",
+      "onboard_time": 1780411824,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 32996,
+      "num": 142424,
+      "word": "给阿嬷的情书女主被劝少看粉丝分析",
+      "onboard_time": 1780419618,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 32517,
+      "num": 142326,
+      "word": "阴阳师",
+      "onboard_time": 1780424054,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 32338,
+      "num": 142288,
+      "word": "刘红兵是我爸的人生复刻版",
+      "onboard_time": 1780419916,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 31113,
+      "num": 142125,
+      "word": "忆秦娥知世故了",
+      "onboard_time": 1780406361,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 28376,
+      "num": 142210,
+      "word": "荷兰警察将孕妇重摔在地致其早产",
+      "onboard_time": 1780401200,
+      "rank": 45,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 25689,
+      "num": 142061,
+      "word": "兹维列夫vs霍达尔",
+      "onboard_time": 1780422196,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 23786,
+      "num": 141951,
+      "word": "巴西19岁女子被鲨鱼咬断一条腿",
+      "onboard_time": 1780404321,
+      "rank": 48,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 22994,
+      "num": 141931,
+      "word": "开团秒跟最有用的一集",
+      "onboard_time": 1780426035,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 8563,
+      "num": 149993,
+      "word": "美丽中国行",
+      "onboard_time": 1780404563,
+      "rank": 2,
+      "category": "国内时政"
+    }
+  ],
+  "hotgov_list": [
+    {
+      "word": "#总书记寄望红色基因薪火相传#"
+    }
+  ]
+}
