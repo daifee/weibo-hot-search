@@ -1,0 +1,410 @@
+{
+  "runTime": 1780393728823,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 413974,
+        "num": 1105446,
+        "word": "翘楚首播反馈",
+        "onboard_time": 1780390162,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 325714,
+        "num": 798108,
+        "word": "印度男34秒摔死幼童拒捕与警方枪战",
+        "onboard_time": 1780383681,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 43125,
+        "num": 682320,
+        "word": "还有5天高考",
+        "onboard_time": 1780382960,
+        "rank": 2,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 4069422,
+        "num": 680128,
+        "word": "月薪一万是月薪五千的六倍",
+        "onboard_time": 1780390162,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 674993,
+        "num": 674993,
+        "word": "肖战白玉兰封予海",
+        "onboard_time": 1780392021,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 580947,
+        "num": 580947,
+        "word": "原来老祖宗才是最懂午睡的",
+        "onboard_time": 1780386021,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 536413,
+        "num": 536413,
+        "word": "神仙肉 陈星旭",
+        "onboard_time": 1780388782,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 498837,
+        "num": 498837,
+        "word": "建议爬山不要买白色雨衣",
+        "onboard_time": 1780372820,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 400995,
+        "num": 497024,
+        "word": "多代言发文贺王楚钦成为国乒男队队长",
+        "onboard_time": 1780391060,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 280466,
+        "num": 495891,
+        "word": "DeepSeek降价",
+        "onboard_time": 1780393280,
+        "rank": 9,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1884029,
+        "num": 491316,
+        "word": "陈学冬 奚梦瑶要幸福",
+        "onboard_time": 1780392441,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1621843,
+        "num": 489076,
+        "word": "不被爱的时候你是鹿晗也得被打码",
+        "onboard_time": 1780385240,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1234224,
+        "num": 487891,
+        "word": "国乒男队队长王楚钦",
+        "onboard_time": 1780383080,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 219143,
+        "num": 482888,
+        "word": "库里官宣拥抱李宁",
+        "onboard_time": 1780391423,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1154836,
+        "num": 482115,
+        "word": "张杰真不舒服了",
+        "onboard_time": 1780384521,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1077713,
+        "num": 479465,
+        "word": "奚梦瑶婚礼把陈学冬召唤出来了",
+        "onboard_time": 1780393461,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 847754,
+        "num": 476348,
+        "word": "韩国网民夸杀人犯长得帅",
+        "onboard_time": 1780392441,
+        "rank": 16,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 474853,
+        "num": 474853,
+        "word": "爸爸二十年前给我做的人生规划",
+        "onboard_time": 1780386021,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 602684,
+        "num": 469364,
+        "word": "马龙结束12年队长任期",
+        "onboard_time": 1780387702,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 399803,
+        "num": 460530,
+        "word": "财政局回应一公务员被指脚踏两条船",
+        "onboard_time": 1780388660,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1035281,
+        "num": 446816,
+        "word": "此沙被审判",
+        "onboard_time": 1780386623,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 351890,
+        "num": 439990,
+        "word": "长月烬明没人给陈都灵打call",
+        "onboard_time": 1780392861,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 770322,
+        "num": 421153,
+        "word": "全世界最尊重上海的人",
+        "onboard_time": 1780386862,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 746025,
+        "num": 409871,
+        "word": "谢天宇偷看路人裙底",
+        "onboard_time": 1780379600,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 409389,
+        "num": 409389,
+        "word": "迪丽热巴表现力强到让人震撼",
+        "onboard_time": 1780387341,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 367844,
+        "num": 408749,
+        "word": "半个娱乐圈宣传翘楚",
+        "onboard_time": 1780372100,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 380594,
+        "num": 406480,
+        "word": "池昌旭涉嫌逃税",
+        "onboard_time": 1780384401,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 329781,
+        "num": 403775,
+        "word": "上班最大意义不是拿点工资",
+        "onboard_time": 1780387821,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 286164,
+        "num": 401958,
+        "word": "妹妹14年后破译亡兄QQ专属相册",
+        "onboard_time": 1780386980,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151684,
+        "num": 400030,
+        "word": "财政部下达999亿育儿补贴补助资金",
+        "onboard_time": 1780375102,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 332163,
+        "num": 398388,
+        "word": "叶一茜带森碟来浪姐集邮",
+        "onboard_time": 1780386320,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 261012,
+        "num": 395388,
+        "word": "翘楚演员回应被认成AI",
+        "onboard_time": 1780390461,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 258869,
+        "num": 393450,
+        "word": "狼队小胖挂牌",
+        "onboard_time": 1780388782,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 246502,
+        "num": 391089,
+        "word": "李登科聊迪丽热巴",
+        "onboard_time": 1780390162,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 230283,
+        "num": 389087,
+        "word": "不再发朋友圈算长大吗",
+        "onboard_time": 1780390823,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 228240,
+        "num": 387202,
+        "word": "于正故意挑mean的回复",
+        "onboard_time": 1780385121,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 227887,
+        "num": 385118,
+        "word": "方圆脸减肥一下子没动力了",
+        "onboard_time": 1780392141,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 216576,
+        "num": 382269,
+        "word": "其实人是一根香蕉",
+        "onboard_time": 1780374141,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 24338,
+        "num": 381946,
+        "word": "尚雯婕综艺的尽头是考证",
+        "onboard_time": 1780393340,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 205256,
+        "num": 379294,
+        "word": "田曦薇素颜染发",
+        "onboard_time": 1780384580,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187765,
+        "num": 377804,
+        "word": "王皓王楚钦懂的都懂",
+        "onboard_time": 1780391121,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 55199,
+        "num": 375027,
+        "word": "央美毕业展大猫被揪掉了毛",
+        "onboard_time": 1780392261,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 184136,
+        "num": 371772,
+        "word": "杨天真晒与虞书欣自拍照",
+        "onboard_time": 1780388181,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183442,
+        "num": 369965,
+        "word": "翘楚漏了杨洋的云包场",
+        "onboard_time": 1780386801,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 180324,
+        "num": 368905,
+        "word": "icon直播间被封",
+        "onboard_time": 1780391301,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 180139,
+        "num": 366344,
+        "word": "王晓晨说很不喜欢自己的生活被曝光",
+        "onboard_time": 1780393160,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164909,
+        "num": 363478,
+        "word": "父亲给儿子儿媳1000万离婚后起诉要回",
+        "onboard_time": 1780393220,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92383,
+        "num": 362760,
+        "word": "金正恩与女足队员合影",
+        "onboard_time": 1780391060,
+        "rank": 47,
+        "category": "国际时政,体育"
+      },
+      {
+        "raw_hot": 177245,
+        "num": 359616,
+        "word": "为什么荔枝干不普及",
+        "onboard_time": 1780393461,
+        "rank": 48,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 163487,
+        "num": 357466,
+        "word": "长期坚持的秘诀就是无视中断",
+        "onboard_time": 1780393640,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记的文化足迹遍及大江南北#"
+    }
+  }
+}

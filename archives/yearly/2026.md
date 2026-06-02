@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/06/02 17:15:20
+本榜单时间：2026/01/01 00:35:36 ~ 2026/06/02 17:48:48
 </p>
 </blockquote>
 <p>
@@ -1227,6 +1227,12 @@ JYP从JYP辞职了（热度：4682490）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9C%88%E8%96%AA%E4%B8%80%E4%B8%87%E6%98%AF%E6%9C%88%E8%96%AA%E4%BA%94%E5%8D%83%E7%9A%84%E5%85%AD%E5%80%8D%23" target="weibo">
+月薪一万是月薪五千的六倍（热度：4069422）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%87%8C%E8%B5%AB%E5%8F%91%E4%BA%86%E5%A5%BD%E5%A4%9A%E7%BA%A2%E5%8C%85%23" target="weibo">
 张凌赫发了好多红包（热度：4061180）
 </a>
@@ -1805,12 +1811,6 @@ WB冠军（热度：3566119）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B3%B0%E5%B3%BB%E5%9B%9E%E5%BA%94%E7%A9%86%E7%A5%89%E4%B8%9E%E6%B2%A1%E9%A5%AD%E6%92%92%23" target="weibo">
 时代峰峻回应穆祉丞没饭撒（热度：3173626）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%BA%9B%E5%9B%BE%E7%89%87%E5%B1%85%E7%84%B6%E9%83%BD%E6%98%AFAI%E7%9A%84%23" target="weibo">
-这些图片居然都是AI的（热度：3170901）
 </a>
 </li>
 
