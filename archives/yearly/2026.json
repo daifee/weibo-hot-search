@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1780357914887,
+  "endTime": 1780375318320,
   "band_list": [
     {
       "raw_hot": 46860992,
@@ -1603,6 +1603,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 4090073,
+      "num": 441051,
+      "word": "奚梦瑶婚纱超600小时手工制作",
+      "onboard_time": 1780372700,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 4088060,
       "num": 4088060,
       "word": "孙颖莎vs张本美和",
@@ -1896,6 +1904,14 @@
       "word": "逐玉爱奇艺破万",
       "onboard_time": 1773233542,
       "rank": 10,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 3618600,
+      "num": 3618600,
+      "word": "半个娱乐圈宣传翘楚",
+      "onboard_time": 1780372100,
+      "rank": 0,
       "category": "剧集"
     },
     {
@@ -2385,22 +2401,6 @@
       "onboard_time": 1777007600,
       "rank": 0,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 3153650,
-      "num": 3153650,
-      "word": "我在春晚刷短视频",
-      "onboard_time": 1771248821,
-      "rank": 7,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 3146099,
-      "num": 3059224,
-      "word": "19岁女孩挪用1700万当榜一大姐",
-      "onboard_time": 1776686301,
-      "rank": 11,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [

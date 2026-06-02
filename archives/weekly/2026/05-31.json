@@ -1,6 +1,6 @@
 {
   "startTime": 1780161470105,
-  "endTime": 1780357914887,
+  "endTime": 1780375318320,
   "band_list": [
     {
       "raw_hot": 6730138,
@@ -25,6 +25,22 @@
       "onboard_time": 1780234221,
       "rank": 1,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 4090073,
+      "num": 441051,
+      "word": "奚梦瑶婚纱超600小时手工制作",
+      "onboard_time": 1780372700,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 3618600,
+      "num": 3618600,
+      "word": "半个娱乐圈宣传翘楚",
+      "onboard_time": 1780372100,
+      "rank": 0,
+      "category": "剧集"
     },
     {
       "raw_hot": 3446704,
@@ -97,6 +113,14 @@
       "onboard_time": 1780230200,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2199768,
+      "num": 439351,
+      "word": "因为一个人没文化而祛魅",
+      "onboard_time": 1780372100,
+      "rank": 11,
+      "category": "情感"
     },
     {
       "raw_hot": 2188253,
@@ -331,6 +355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1121367,
+      "num": 1121367,
+      "word": "华为韬定律",
+      "onboard_time": 1780372041,
+      "rank": 1,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1079749,
       "num": 1079749,
       "word": "边牧被偷后宰杀主人痛哭拒绝和解",
@@ -411,6 +443,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 947283,
+      "num": 947283,
+      "word": "建议爬山不要买白色雨衣",
+      "onboard_time": 1780372820,
+      "rank": 3,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 929527,
+      "num": 438177,
+      "word": "陈妍希六一晒孩子照片",
+      "onboard_time": 1780359980,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 915582,
       "num": 631500,
       "word": "校长想了三辈子才想出的鬼点子",
@@ -433,6 +481,14 @@
       "onboard_time": 1780231341,
       "rank": 12,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 892448,
+      "num": 892448,
+      "word": "挪威深海发现载有中国瓷器的沉船",
+      "onboard_time": 1780368260,
+      "rank": 4,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 889328,
@@ -499,6 +555,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 804414,
+      "num": 804414,
+      "word": "公安交管局就综艺安全带P图发声",
+      "onboard_time": 1780362919,
+      "rank": 5,
+      "category": "民生新闻,作品衍生"
+    },
+    {
       "raw_hot": 801135,
       "num": 325484,
       "word": "虞书欣让李登科保护好自己",
@@ -513,6 +577,14 @@
       "onboard_time": 1780284677,
       "rank": 1,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 789687,
+      "num": 433149,
+      "word": "iPhone18Pro电池容量曝光",
+      "onboard_time": 1780367299,
+      "rank": 14,
+      "category": "数码"
     },
     {
       "raw_hot": 786656,
@@ -691,6 +763,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 667945,
+      "num": 667945,
+      "word": "有些钱看似乱花其实是在救命",
+      "onboard_time": 1780364300,
+      "rank": 6,
+      "category": "情感"
+    },
+    {
       "raw_hot": 658025,
       "num": 378708,
       "word": "反派脊柱侧弯",
@@ -787,6 +867,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 606493,
+      "num": 431379,
+      "word": "王菲和谢霆锋最好嗑的地方",
+      "onboard_time": 1780373241,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 600263,
       "num": 385322,
       "word": "穆祉丞高会晒妈妈转账",
@@ -851,6 +939,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 573665,
+      "num": 573665,
+      "word": "父母离婚孩子压岁钱账户20多万变40元",
+      "onboard_time": 1780371920,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 570918,
       "num": 743121,
       "word": "手机是我买过最回本的东西了",
@@ -867,6 +963,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 568984,
+      "num": 435641,
+      "word": "奚梦瑶Dior高订婚纱",
+      "onboard_time": 1780373421,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 561845,
       "num": 323867,
       "word": "向太说真正有钱人不会给小孩买名牌",
@@ -881,6 +985,14 @@
       "onboard_time": 1780169774,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 542371,
+      "num": 428944,
+      "word": "其实人是一根香蕉",
+      "onboard_time": 1780374141,
+      "rank": 16,
+      "category": "情感"
     },
     {
       "raw_hot": 536648,
@@ -923,6 +1035,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 515875,
+      "num": 273090,
+      "word": "仅退款的风吹到餐饮界",
+      "onboard_time": 1780369280,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 510699,
       "num": 510699,
       "word": "主角变恐怖故事了",
@@ -963,6 +1083,22 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 490523,
+      "num": 259668,
+      "word": "原来有的演唱会按身份证分位置",
+      "onboard_time": 1780372460,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 490299,
+      "num": 490299,
+      "word": "严浩翔的安全带不是P的",
+      "onboard_time": 1780373902,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 488742,
       "num": 488742,
       "word": "关晓彤演技",
@@ -1001,6 +1137,14 @@
       "onboard_time": 1780229299,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 477924,
+      "num": 264527,
+      "word": "油价大涨了",
+      "onboard_time": 1780368559,
+      "rank": 21,
+      "category": "财经"
     },
     {
       "raw_hot": 472237,
@@ -1115,6 +1259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 442613,
+      "num": 442613,
+      "word": "库里签约李宁",
+      "onboard_time": 1780359562,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 441595,
       "num": 441595,
       "word": "王一栩给鞠婧祎推的资源",
@@ -1137,6 +1289,14 @@
       "onboard_time": 1780145721,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 427765,
+      "num": 427765,
+      "word": "刘红兵婚后一下就烂掉了",
+      "onboard_time": 1780369940,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 427609,
@@ -1241,6 +1401,14 @@
       "onboard_time": 1780208480,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 402069,
+      "num": 252737,
+      "word": "何超莲评论祝福何猷君",
+      "onboard_time": 1780359980,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 400212,
@@ -1523,6 +1691,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 352962,
+      "num": 252190,
+      "word": "鸟叔被移交检察机关",
+      "onboard_time": 1780368980,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 350966,
       "num": 350966,
       "word": "石蕊回应",
@@ -1675,6 +1851,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 325194,
+      "num": 246716,
+      "word": "儿子自闭症妻子确诊乳腺癌后丈夫提离婚",
+      "onboard_time": 1780371861,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 320831,
+      "num": 263709,
+      "word": "丞磊许你星河千里官宣",
+      "onboard_time": 1780368740,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 320756,
       "num": 320756,
       "word": "瑞幸把HelloKitty写成HeeloKitty",
@@ -1689,6 +1881,14 @@
       "onboard_time": 1780285101,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 319711,
+      "num": 246274,
+      "word": "山西省省长下矿井检查",
+      "onboard_time": 1780373481,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 315940,
@@ -1739,6 +1939,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 306049,
+      "num": 244505,
+      "word": "王楚钦5G冲浪",
+      "onboard_time": 1780374503,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 305992,
       "num": 305992,
       "word": "王源 好听",
@@ -1777,6 +1985,30 @@
       "onboard_time": 1780216458,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 296122,
+      "num": 241364,
+      "word": "蔡徐坤签售会",
+      "onboard_time": 1780371259,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 294634,
+      "num": 233184,
+      "word": "5个月宝宝近视1000度",
+      "onboard_time": 1780370299,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 294398,
+      "num": 229237,
+      "word": "陈都灵睡觉是化妆师主动提出",
+      "onboard_time": 1780360401,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 293687,
@@ -1971,6 +2203,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 273230,
+      "num": 273230,
+      "word": "世界杯",
+      "onboard_time": 1780182977,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 273156,
       "num": 352760,
       "word": "张雪机车第8名",
@@ -2059,6 +2299,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 261542,
+      "num": 261542,
+      "word": "虞书欣复刻小兰花施法手势",
+      "onboard_time": 1780364421,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 260308,
       "num": 371662,
       "word": "新娘墓前拜别母亲红盖头飘落",
@@ -2105,6 +2353,14 @@
       "onboard_time": 1780272200,
       "rank": 15,
       "category": "财经"
+    },
+    {
+      "raw_hot": 250684,
+      "num": 240303,
+      "word": "马刺将提前续约文班亚马",
+      "onboard_time": 1780372160,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 250609,
@@ -2219,6 +2475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 233305,
+      "num": 258685,
+      "word": "刘宇宁献唱翘楚OST",
+      "onboard_time": 1780374982,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 232666,
       "num": 314040,
       "word": "黄仁勋称无所不能的电脑来了",
@@ -2267,6 +2531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 229069,
+      "num": 355965,
+      "word": "王嘉尔转场张杰演唱会视频",
+      "onboard_time": 1780357757,
+      "rank": 6,
+      "category": "演出"
+    },
+    {
       "raw_hot": 224721,
       "num": 224721,
       "word": "郭晓婷只有她出场时没用运镜",
@@ -2281,6 +2553,14 @@
       "onboard_time": 1780227320,
       "rank": 33,
       "category": "艺人,作品衍生"
+    },
+    {
+      "raw_hot": 222761,
+      "num": 256141,
+      "word": "2人网暴抗洪女干部被罚",
+      "onboard_time": 1780363279,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 220343,
@@ -2499,6 +2779,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 204954,
+      "num": 237724,
+      "word": "陈都灵周翊然新剧开播",
+      "onboard_time": 1780368680,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 204927,
       "num": 204927,
       "word": "AL对战WE",
@@ -2579,6 +2867,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 198320,
+      "num": 242599,
+      "word": "李思潼 你是男生不可以靠这么近",
+      "onboard_time": 1780374442,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 198303,
       "num": 198303,
       "word": "用AI整理会议记录导致泄密",
@@ -2657,6 +2953,14 @@
       "onboard_time": 1780148362,
       "rank": 16,
       "category": "情感"
+    },
+    {
+      "raw_hot": 186732,
+      "num": 236358,
+      "word": "两大芯片巨头互攻",
+      "onboard_time": 1780359562,
+      "rank": 43,
+      "category": "数码"
     },
     {
       "raw_hot": 183932,
@@ -2851,14 +3155,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 166877,
-      "num": 166877,
-      "word": "世界杯",
-      "onboard_time": 1780182977,
-      "rank": 35,
-      "category": "体育"
-    },
-    {
       "raw_hot": 164447,
       "num": 164447,
       "word": "理想汽车5月交付",
@@ -2985,6 +3281,14 @@
       "onboard_time": 1780187718,
       "rank": 47,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 153212,
+      "num": 249317,
+      "word": "俄对乌克兰全境发动空袭",
+      "onboard_time": 1780372700,
+      "rank": 33,
+      "category": "国际时政"
     },
     {
       "raw_hot": 151920,
@@ -3115,14 +3419,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 144104,
-      "num": 355965,
-      "word": "王嘉尔转场张杰演唱会视频",
-      "onboard_time": 1780357757,
-      "rank": 6,
-      "category": "演出"
-    },
-    {
       "raw_hot": 143758,
       "num": 135319,
       "word": "马頔又缺装修经费了吗",
@@ -3145,6 +3441,14 @@
       "onboard_time": 1780296620,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 139432,
+      "num": 239380,
+      "word": "五哈版误闯天家",
+      "onboard_time": 1780370299,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 139417,
@@ -3387,6 +3691,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 119079,
+      "num": 256599,
+      "word": "财政部下达999亿育儿补贴补助资金",
+      "onboard_time": 1780375102,
+      "rank": 27,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 115245,
       "num": 115245,
       "word": "阿森纳黄牌",
@@ -3441,6 +3753,22 @@
       "onboard_time": 1780214059,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 110549,
+      "num": 235096,
+      "word": "灵魂摆渡十年今日正式开播",
+      "onboard_time": 1780373961,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 109989,
+      "num": 231740,
+      "word": "给阿嬷的情书票房超过镖人",
+      "onboard_time": 1780361541,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 109322,
@@ -3689,6 +4017,14 @@
       "onboard_time": 1780236323,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 82649,
+      "num": 230134,
+      "word": "翘楚一集重生三集改命",
+      "onboard_time": 1780373781,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 82027,
@@ -4259,6 +4595,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 30609,
+      "num": 250722,
+      "word": "宋雨琦看球活力感拉满",
+      "onboard_time": 1780373421,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 30377,
       "num": 232032,
       "word": "这些孩子没有儿童节",
@@ -4331,11 +4675,27 @@
       "category": "电影"
     },
     {
+      "raw_hot": 24354,
+      "num": 261377,
+      "word": "龙虎山被点名后摆渡车无需久等",
+      "onboard_time": 1780374081,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 24246,
       "num": 135727,
       "word": "半个名人圈都在领克玩赛车",
       "onboard_time": 1780220001,
       "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 23811,
+      "num": 977275,
+      "word": "网络举报宣传",
+      "onboard_time": 1780374081,
+      "rank": 2,
       "category": "民生新闻"
     },
     {
@@ -4456,6 +4816,14 @@
       "word": "谁是618消暑品类的定海神针",
       "onboard_time": 1780211120,
       "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 19137,
+      "num": 254057,
+      "word": "茅台否认经销商办峰会卖低价飞天",
+      "onboard_time": 1780373902,
+      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -4595,6 +4963,9 @@
     },
     {
       "word": "#习近平深情寄语小树苗#"
+    },
+    {
+      "word": "#大朋友习近平对孩子们的关爱和期望#"
     }
   ]
 }
