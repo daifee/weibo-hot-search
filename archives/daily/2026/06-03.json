@@ -1,6 +1,6 @@
 {
   "startTime": 1780426058526,
-  "endTime": 1780426058526,
+  "endTime": 1780426904671,
   "band_list": [
     {
       "raw_hot": 339719,
@@ -131,6 +131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 68309,
+      "num": 144818,
+      "word": "燕云十六声把付鹏举修改为付鹏",
+      "onboard_time": 1780419618,
+      "rank": 18,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 66565,
       "num": 148901,
       "word": "王楚钦从摔拍少年到国乒队长",
@@ -153,14 +161,6 @@
       "onboard_time": 1780409122,
       "rank": 8,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 65718,
-      "num": 144818,
-      "word": "燕云十六声把付鹏举修改为付鹏",
-      "onboard_time": 1780419618,
-      "rank": 18,
-      "category": "游戏"
     },
     {
       "raw_hot": 58462,
@@ -275,6 +275,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 40395,
+      "num": 142424,
+      "word": "给阿嬷的情书女主被劝少看粉丝分析",
+      "onboard_time": 1780419618,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
       "raw_hot": 39392,
       "num": 142884,
       "word": "敖瑞鹏宣传灵魂摆渡十年",
@@ -331,14 +339,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 32996,
-      "num": 142424,
-      "word": "给阿嬷的情书女主被劝少看粉丝分析",
-      "onboard_time": 1780419618,
-      "rank": 42,
-      "category": "电影"
-    },
-    {
       "raw_hot": 32517,
       "num": 142326,
       "word": "阴阳师",
@@ -393,6 +393,14 @@
       "onboard_time": 1780426035,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 22521,
+      "num": 128021,
+      "word": "翘楚优酷热度破7500",
+      "onboard_time": 1780419618,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 8563,
