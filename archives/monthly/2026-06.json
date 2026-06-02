@@ -1,6 +1,6 @@
 {
   "startTime": 1780247827631,
-  "endTime": 1780409569049,
+  "endTime": 1780411048710,
   "band_list": [
     {
       "raw_hot": 6730138,
@@ -59,6 +59,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2875913,
+      "num": 441950,
+      "word": "丁程鑫受伤",
+      "onboard_time": 1780407322,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2822945,
       "num": 2822945,
       "word": "天涯神帖",
@@ -83,6 +91,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2545805,
+      "num": 2545805,
+      "word": "演员魏宗万去世",
+      "onboard_time": 1780403902,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2518802,
       "num": 703298,
       "word": "于正 晚晚",
@@ -99,6 +115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2289032,
+      "num": 419824,
+      "word": "陈学冬是奚梦瑶专属娘家人",
+      "onboard_time": 1780409002,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2199768,
       "num": 754138,
       "word": "因为一个人没文化而祛魅",
@@ -107,27 +131,11 @@
       "category": "情感"
     },
     {
-      "raw_hot": 2160015,
-      "num": 2160015,
-      "word": "演员魏宗万去世",
-      "onboard_time": 1780403902,
-      "rank": 0,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 2150228,
       "num": 446816,
       "word": "此沙被审判",
       "onboard_time": 1780386623,
       "rank": 10,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 2076765,
-      "num": 441950,
-      "word": "丁程鑫受伤",
-      "onboard_time": 1780407322,
-      "rank": 12,
       "category": "艺人"
     },
     {
@@ -169,14 +177,6 @@
       "onboard_time": 1780282099,
       "rank": 0,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 1599733,
-      "num": 419824,
-      "word": "陈学冬是奚梦瑶专属娘家人",
-      "onboard_time": 1780409002,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 1586035,
@@ -227,20 +227,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1404702,
+      "num": 425385,
+      "word": "AI演员已经有眼神戏了",
+      "onboard_time": 1780402761,
+      "rank": 15,
+      "category": "作品衍生,互联网"
+    },
+    {
       "raw_hot": 1314072,
       "num": 293260,
       "word": "晚晚疑似怀孕了",
       "onboard_time": 1780301419,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1272568,
-      "num": 425385,
-      "word": "AI演员已经有眼神戏了",
-      "onboard_time": 1780402761,
-      "rank": 15,
-      "category": "作品衍生,互联网"
     },
     {
       "raw_hot": 1266024,
@@ -387,6 +387,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 915765,
+      "num": 787843,
+      "word": "5岁儿子29万存款被妈妈取到剩40",
+      "onboard_time": 1780397480,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 915582,
       "num": 631500,
       "word": "校长想了三辈子才想出的鬼点子",
@@ -403,20 +411,20 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 853230,
+      "num": 439990,
+      "word": "长月烬明没人给陈都灵打call",
+      "onboard_time": 1780392861,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 847754,
       "num": 476348,
       "word": "韩国网民夸杀人犯长得帅",
       "onboard_time": 1780392441,
       "rank": 16,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 844511,
-      "num": 439990,
-      "word": "长月烬明没人给陈都灵打call",
-      "onboard_time": 1780392861,
-      "rank": 21,
-      "category": "剧集"
     },
     {
       "raw_hot": 840213,
@@ -436,7 +444,7 @@
     },
     {
       "raw_hot": 818167,
-      "num": 386806,
+      "num": 391031,
       "word": "迪丽热巴回应没进组",
       "onboard_time": 1780400060,
       "rank": 21,
@@ -489,14 +497,6 @@
       "onboard_time": 1780367299,
       "rank": 14,
       "category": "数码"
-    },
-    {
-      "raw_hot": 787843,
-      "num": 787843,
-      "word": "5岁儿子29万存款被妈妈取到剩40",
-      "onboard_time": 1780397480,
-      "rank": 3,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 778264,
@@ -652,7 +652,7 @@
     },
     {
       "raw_hot": 639391,
-      "num": 639391,
+      "num": 1027379,
       "word": "山西沁源县委书记赵永进被查",
       "onboard_time": 1780406963,
       "rank": 4,
@@ -731,6 +731,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 583691,
+      "num": 583691,
+      "word": "神仙肉",
+      "onboard_time": 1780407742,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 578698,
       "num": 606218,
       "word": "有事和身体商量真有用",
@@ -787,6 +795,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 547265,
+      "num": 547265,
+      "word": "CBA总决赛",
+      "onboard_time": 1780405340,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 537981,
       "num": 435966,
       "word": "河道有大量蛇出没已喷驱蛇粉",
@@ -803,14 +819,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 536266,
-      "num": 536266,
-      "word": "CBA总决赛",
-      "onboard_time": 1780405340,
-      "rank": 5,
-      "category": "体育"
-    },
-    {
       "raw_hot": 533940,
       "num": 533940,
       "word": "去河北喝古茗的时候记得穿上阿迪",
@@ -820,7 +828,7 @@
     },
     {
       "raw_hot": 526600,
-      "num": 371142,
+      "num": 390562,
       "word": "妻子与前男友车上睡觉男子怒砸车窗",
       "onboard_time": 1780398260,
       "rank": 23,
@@ -875,16 +883,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 483082,
-      "num": 483082,
-      "word": "神仙肉",
-      "onboard_time": 1780407742,
-      "rank": 6,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 481458,
-      "num": 356870,
+      "num": 405847,
       "word": "翘楚",
       "onboard_time": 1780396520,
       "rank": 24,
@@ -945,6 +945,14 @@
       "onboard_time": 1780226960,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 457816,
+      "num": 425025,
+      "word": "方圆脸减肥一下子没动力了",
+      "onboard_time": 1780392141,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 453274,
@@ -1059,12 +1067,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 425025,
-      "num": 425025,
-      "word": "方圆脸减肥一下子没动力了",
-      "onboard_time": 1780392141,
-      "rank": 36,
-      "category": "幽默"
+      "raw_hot": 423936,
+      "num": 423936,
+      "word": "恋综女嘉宾撞脸张元英",
+      "onboard_time": 1780406783,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 420577,
@@ -1131,6 +1139,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 407834,
+      "num": 387808,
+      "word": "何猷君回复王嘉尔",
+      "onboard_time": 1780409181,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 404937,
       "num": 657779,
       "word": "儿子自闭症妻子确诊乳腺癌后丈夫提离婚",
@@ -1161,6 +1177,14 @@
       "onboard_time": 1780297460,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 397975,
+      "num": 402136,
+      "word": "13岁女儿跪求妈妈别离婚",
+      "onboard_time": 1780407562,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 395271,
@@ -1395,6 +1419,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 323736,
+      "num": 323736,
+      "word": "肖战 被AI做局",
+      "onboard_time": 1780409122,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 320831,
       "num": 678772,
       "word": "丞磊许你星河千里官宣",
@@ -1459,11 +1491,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 298901,
-      "num": 298901,
-      "word": "何猷君回复王嘉尔",
-      "onboard_time": 1780409181,
-      "rank": 27,
+      "raw_hot": 305339,
+      "num": 305339,
+      "word": "马思纯 丰满是我的优势",
+      "onboard_time": 1780408642,
+      "rank": 38,
       "category": "艺人"
     },
     {
@@ -1531,6 +1563,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 291853,
+      "num": 421634,
+      "word": "你的下一台电脑可能不是电脑了",
+      "onboard_time": 1780404499,
+      "rank": 29,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 291707,
       "num": 291707,
       "word": "张桂源叫杨博文羊羊博博问问",
@@ -1561,6 +1601,14 @@
       "onboard_time": 1780388782,
       "rank": 31,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 290184,
+      "num": 316629,
+      "word": "怪不得国外牛肉便宜",
+      "onboard_time": 1780402222,
+      "rank": 26,
+      "category": "幽默"
     },
     {
       "raw_hot": 289786,
@@ -1635,28 +1683,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 282031,
-      "num": 282031,
-      "word": "恋综女嘉宾撞脸张元英",
-      "onboard_time": 1780406783,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 280466,
       "num": 495891,
       "word": "DeepSeek降价",
       "onboard_time": 1780393280,
       "rank": 9,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 279477,
-      "num": 316629,
-      "word": "怪不得国外牛肉便宜",
-      "onboard_time": 1780402222,
-      "rank": 26,
-      "category": "幽默"
     },
     {
       "raw_hot": 275453,
@@ -1667,12 +1699,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 274937,
+      "num": 274937,
+      "word": "杨幂直播",
+      "onboard_time": 1780410142,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 273767,
       "num": 273767,
       "word": "爱笑 AL",
       "onboard_time": 1780313899,
       "rank": 34,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 273618,
+      "num": 273618,
+      "word": "郑恺苗苗三个孩子近照",
+      "onboard_time": 1780403001,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 273230,
@@ -1689,14 +1737,6 @@
       "onboard_time": 1780301001,
       "rank": 24,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 269387,
-      "num": 269387,
-      "word": "肖战 被AI做局",
-      "onboard_time": 1780409122,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 265204,
@@ -1729,14 +1769,6 @@
       "onboard_time": 1780288040,
       "rank": 37,
       "category": "情感"
-    },
-    {
-      "raw_hot": 261930,
-      "num": 402136,
-      "word": "13岁女儿跪求妈妈别离婚",
-      "onboard_time": 1780407562,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 261542,
@@ -1795,14 +1827,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 252592,
-      "num": 252592,
-      "word": "郑恺苗苗三个孩子近照",
-      "onboard_time": 1780403001,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 252193,
       "num": 244114,
       "word": "存储器价格暴涨近1000%原因",
@@ -1812,7 +1836,7 @@
     },
     {
       "raw_hot": 251778,
-      "num": 282975,
+      "num": 397353,
       "word": "荷兰警察将孕妇重摔在地致其早产",
       "onboard_time": 1780401200,
       "rank": 28,
@@ -1859,6 +1883,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 243781,
+      "num": 243781,
+      "word": "歌手 苏新皓",
+      "onboard_time": 1780395981,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 243627,
       "num": 381242,
       "word": "为什么荔枝干不普及",
@@ -1881,22 +1913,6 @@
       "onboard_time": 1780272440,
       "rank": 25,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 242167,
-      "num": 242167,
-      "word": "歌手 苏新皓",
-      "onboard_time": 1780395981,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 241441,
-      "num": 241441,
-      "word": "马思纯 丰满是我的优势",
-      "onboard_time": 1780408642,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 240668,
@@ -2035,6 +2051,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 219629,
+      "num": 274246,
+      "word": "豆包和豆包吵架",
+      "onboard_time": 1780406361,
+      "rank": 44,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 219583,
       "num": 228040,
       "word": "拉丁舞爆火裁判一个月跳瘦8斤",
@@ -2115,6 +2139,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 208060,
+      "num": 225535,
+      "word": "男子在健身房单边卸杠铃片蓄意伤人",
+      "onboard_time": 1780402280,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 207227,
       "num": 268884,
       "word": "虞书欣晒小小欣",
@@ -2156,7 +2188,7 @@
     },
     {
       "raw_hot": 203931,
-      "num": 177504,
+      "num": 189575,
       "word": "杨紫直播",
       "onboard_time": 1780406602,
       "rank": 41,
@@ -2169,14 +2201,6 @@
       "onboard_time": 1780286480,
       "rank": 40,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 203683,
-      "num": 282463,
-      "word": "你的下一台电脑可能不是电脑了",
-      "onboard_time": 1780404499,
-      "rank": 29,
-      "category": "互联网"
     },
     {
       "raw_hot": 202821,
@@ -2273,6 +2297,14 @@
       "onboard_time": 1780395740,
       "rank": 32,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 187562,
+      "num": 187562,
+      "word": "王洋洋 夏美",
+      "onboard_time": 1780397781,
+      "rank": 43,
+      "category": "网红"
     },
     {
       "raw_hot": 186732,
@@ -2379,14 +2411,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 178339,
-      "num": 172749,
-      "word": "王洋洋 夏美",
-      "onboard_time": 1780397781,
-      "rank": 43,
-      "category": "网红"
-    },
-    {
       "raw_hot": 178220,
       "num": 252915,
       "word": "万花世界4个原主每人不超过3分钟",
@@ -2403,14 +2427,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 177680,
-      "num": 177680,
-      "word": "男子在健身房单边卸杠铃片蓄意伤人",
-      "onboard_time": 1780402280,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 173843,
       "num": 173843,
       "word": "鸿蒙智行5月交付46122辆",
@@ -2425,14 +2441,6 @@
       "onboard_time": 1780398861,
       "rank": 42,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 171569,
-      "num": 171569,
-      "word": "豆包和豆包吵架",
-      "onboard_time": 1780406361,
-      "rank": 44,
-      "category": "互联网"
     },
     {
       "raw_hot": 169368,
@@ -2595,8 +2603,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 148853,
+      "num": 305603,
+      "word": "大量印度人排队报名学日语",
+      "onboard_time": 1780404682,
+      "rank": 48,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 146865,
-      "num": 248776,
+      "num": 305450,
       "word": "男子谎称快递员入室杀害22岁前女友",
       "onboard_time": 1780404623,
       "rank": 34,
@@ -2683,14 +2699,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 137691,
-      "num": 137691,
-      "word": "大量印度人排队报名学日语",
-      "onboard_time": 1780404682,
-      "rank": 48,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 137524,
       "num": 137152,
       "word": "黄朔祝陈浚铭儿童节快乐",
@@ -2745,6 +2753,14 @@
       "onboard_time": 1780275440,
       "rank": 42,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 132462,
+      "num": 132462,
+      "word": "30岁女子爬楼瘦腿膝盖老成60岁",
+      "onboard_time": 1780409122,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 132279,
@@ -2923,6 +2939,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 98301,
+      "num": 395649,
+      "word": "百万网红卖假牛肉卷后续",
+      "onboard_time": 1780410204,
+      "rank": 20,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 95885,
       "num": 311144,
       "word": "华为MatePadProMax全网首拆",
@@ -2977,6 +3001,14 @@
       "onboard_time": 1780391060,
       "rank": 21,
       "category": "国际时政,体育"
+    },
+    {
+      "raw_hot": 90833,
+      "num": 139767,
+      "word": "巴西19岁女子被鲨鱼咬断一条腿",
+      "onboard_time": 1780404321,
+      "rank": 47,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 89671,
@@ -3177,6 +3209,14 @@
       "onboard_time": 1780329500,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 66104,
+      "num": 197545,
+      "word": "刘浩存陈都灵打callback",
+      "onboard_time": 1780410022,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 65951,
@@ -3499,6 +3539,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 31745,
+      "num": 808299,
+      "word": "美丽中国行",
+      "onboard_time": 1780404563,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 31403,
       "num": 67943,
       "word": "部分驱蚊产品用的是农药标的是化妆品",
@@ -3521,14 +3569,6 @@
       "onboard_time": 1780333218,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 29644,
-      "num": 808299,
-      "word": "美丽中国行",
-      "onboard_time": 1780404563,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 29559,
@@ -3720,6 +3760,14 @@
       "word": "常德一餐厅被吐槽白开水48元一杯",
       "onboard_time": 1780390880,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 15595,
+      "num": 193377,
+      "word": "事业编考生笔试第1因围报被取消资格",
+      "onboard_time": 1780410923,
+      "rank": 41,
       "category": "民生新闻"
     },
     {
