@@ -1,0 +1,410 @@
+{
+  "runTime": 1780437314397,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 167675,
+        "num": 252453,
+        "word": "世界是本巨大的番茄小说",
+        "onboard_time": 1780419796,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 94006,
+        "num": 178761,
+        "word": "电动车是最伟大的发明",
+        "onboard_time": 1780414100,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 7493,
+        "num": 141534,
+        "word": "美丽中国行",
+        "onboard_time": 1780404563,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 89907,
+        "num": 89907,
+        "word": "30岁女子爬楼瘦腿膝盖老成60岁",
+        "onboard_time": 1780409122,
+        "rank": 3,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 70374,
+        "num": 70374,
+        "word": "做过手帐的才知道她有多厉害",
+        "onboard_time": 1780420277,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 68509,
+        "num": 68509,
+        "word": "你好星期六回应丁程鑫伤情",
+        "onboard_time": 1780422555,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 51824,
+        "num": 51824,
+        "word": "不再发朋友圈算长大吗",
+        "onboard_time": 1780390823,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 45337,
+        "num": 45337,
+        "word": "中国足球小将夺冠",
+        "onboard_time": 1780397781,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 40289,
+        "num": 45336,
+        "word": "山西沁源县委书记赵永进被查",
+        "onboard_time": 1780406963,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 36991,
+        "num": 45334,
+        "word": "事业编考生笔试第1因围报被取消资格",
+        "onboard_time": 1780410923,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137870,
+        "num": 45329,
+        "word": "演员魏宗万去世",
+        "onboard_time": 1780403902,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 79209,
+        "num": 45329,
+        "word": "割四赔五乱象",
+        "onboard_time": 1780427355,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 72921,
+        "num": 45324,
+        "word": "妻子穿几十元T恤丈夫满身名牌做医美",
+        "onboard_time": 1780416320,
+        "rank": 12,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 62593,
+        "num": 45324,
+        "word": "老宅被亲戚偷装光伏板女子崩溃痛哭",
+        "onboard_time": 1780419618,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 55157,
+        "num": 45319,
+        "word": "孙正义再登亚洲首富",
+        "onboard_time": 1780435394,
+        "rank": 14,
+        "category": "财经,互联网"
+      },
+      {
+        "raw_hot": 47265,
+        "num": 45316,
+        "word": "大量印度人排队报名学日语",
+        "onboard_time": 1780404682,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 45316,
+        "num": 45315,
+        "word": "长月烬明没人给陈都灵打call",
+        "onboard_time": 1780392861,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 44283,
+        "num": 44283,
+        "word": "三星堆考古发现11件红玉髓珠",
+        "onboard_time": 1780412781,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 44260,
+        "num": 44260,
+        "word": "暖阳",
+        "onboard_time": 1780416082,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 41051,
+        "num": 41051,
+        "word": "男子中6022万4个月后才敢晒奖",
+        "onboard_time": 1780412602,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88937,
+        "num": 40652,
+        "word": "丁程鑫受伤",
+        "onboard_time": 1780407322,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 74947,
+        "num": 39945,
+        "word": "妻子与前男友车上睡觉男子怒砸车窗",
+        "onboard_time": 1780398260,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 49742,
+        "num": 39787,
+        "word": "怪不得国外牛肉便宜",
+        "onboard_time": 1780402222,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 38297,
+        "num": 38297,
+        "word": "5岁儿子29万存款被妈妈取到剩40",
+        "onboard_time": 1780397480,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34379,
+        "num": 34379,
+        "word": "燕云十六声把付鹏举修改为付鹏",
+        "onboard_time": 1780419618,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 34175,
+        "num": 34175,
+        "word": "CBA总决赛",
+        "onboard_time": 1780405340,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 33060,
+        "num": 33060,
+        "word": "从怀孕到生娃能领7笔钱",
+        "onboard_time": 1780411643,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30470,
+        "num": 33057,
+        "word": "河道有大量蛇出没已喷驱蛇粉",
+        "onboard_time": 1780405822,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28085,
+        "num": 33043,
+        "word": "翘楚",
+        "onboard_time": 1780396520,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 27198,
+        "num": 33025,
+        "word": "武契奇不寻求再当总统",
+        "onboard_time": 1780413322,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 26998,
+        "num": 33002,
+        "word": "张家齐和全红婵哥哥一起摘荔枝",
+        "onboard_time": 1780414281,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 26818,
+        "num": 32995,
+        "word": "王楚钦从摔拍少年到国乒队长",
+        "onboard_time": 1780419618,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 26639,
+        "num": 32963,
+        "word": "男子在健身房单边卸杠铃片蓄意伤人",
+        "onboard_time": 1780402280,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25904,
+        "num": 32955,
+        "word": "歌手 苏新皓",
+        "onboard_time": 1780395981,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 25872,
+        "num": 32931,
+        "word": "胖是因为这些因素导致的",
+        "onboard_time": 1780414042,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 24594,
+        "num": 32926,
+        "word": "给阿嬷的情书女主被劝少看粉丝分析",
+        "onboard_time": 1780419618,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 23761,
+        "num": 32899,
+        "word": "马龙交棒队长读博去了",
+        "onboard_time": 1780412122,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 22456,
+        "num": 32890,
+        "word": "方圆脸减肥一下子没动力了",
+        "onboard_time": 1780392141,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 21367,
+        "num": 32869,
+        "word": "窦骁 演技赋魅",
+        "onboard_time": 1780411824,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20723,
+        "num": 32854,
+        "word": "荷兰警察将孕妇重摔在地致其早产",
+        "onboard_time": 1780401200,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 20704,
+        "num": 32833,
+        "word": "翘楚 短剧感",
+        "onboard_time": 1780398800,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20581,
+        "num": 32815,
+        "word": "刘红兵是我爸的人生复刻版",
+        "onboard_time": 1780419916,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 19527,
+        "num": 32815,
+        "word": "豆包和豆包吵架",
+        "onboard_time": 1780406361,
+        "rank": 42,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 19212,
+        "num": 32784,
+        "word": "忆秦娥知世故了",
+        "onboard_time": 1780406361,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 18894,
+        "num": 32775,
+        "word": "神仙肉",
+        "onboard_time": 1780407742,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 18694,
+        "num": 32764,
+        "word": "国乒队长是荣誉更是责任",
+        "onboard_time": 1780429694,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 18440,
+        "num": 32746,
+        "word": "巴西19岁女子被鲨鱼咬断一条腿",
+        "onboard_time": 1780404321,
+        "rank": 46,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 16747,
+        "num": 32728,
+        "word": "阴阳师",
+        "onboard_time": 1780424054,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 16628,
+        "num": 32706,
+        "word": "诽谤成毅商务合作已违法",
+        "onboard_time": 1780430833,
+        "rank": 48,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 16003,
+        "num": 32693,
+        "word": "字节腾讯AI大动作",
+        "onboard_time": 1780414701,
+        "rank": 49,
+        "category": "互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记寄望红色基因薪火相传#"
+    }
+  }
+}

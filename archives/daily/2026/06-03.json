@@ -1,6 +1,6 @@
 {
   "startTime": 1780426058526,
-  "endTime": 1780426904671,
+  "endTime": 1780437314397,
   "band_list": [
     {
       "raw_hot": 339719,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 150109,
-      "num": 150109,
+      "num": 178761,
       "word": "电动车是最伟大的发明",
       "onboard_time": 1780414100,
       "rank": 1,
@@ -75,6 +75,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 89907,
+      "num": 148592,
+      "word": "30岁女子爬楼瘦腿膝盖老成60岁",
+      "onboard_time": 1780409122,
+      "rank": 8,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 81510,
       "num": 149343,
       "word": "事业编考生笔试第1因围报被取消资格",
@@ -91,12 +99,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 79209,
+      "num": 45329,
+      "word": "割四赔五乱象",
+      "onboard_time": 1780427355,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 77115,
       "num": 149093,
       "word": "不再发朋友圈算长大吗",
       "onboard_time": 1780390823,
       "rank": 6,
       "category": "情感"
+    },
+    {
+      "raw_hot": 74947,
+      "num": 143786,
+      "word": "妻子与前男友车上睡觉男子怒砸车窗",
+      "onboard_time": 1780398260,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 74077,
@@ -120,14 +144,6 @@
       "word": "男子中6022万4个月后才敢晒奖",
       "onboard_time": 1780412602,
       "rank": 16,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 68714,
-      "num": 143786,
-      "word": "妻子与前男友车上睡觉男子怒砸车窗",
-      "onboard_time": 1780398260,
-      "rank": 22,
       "category": "民生新闻"
     },
     {
@@ -155,14 +171,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 65757,
-      "num": 148592,
-      "word": "30岁女子爬楼瘦腿膝盖老成60岁",
-      "onboard_time": 1780409122,
-      "rank": 8,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 58462,
       "num": 148454,
       "word": "豆包和豆包吵架",
@@ -185,6 +193,14 @@
       "onboard_time": 1780407742,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 55157,
+      "num": 45319,
+      "word": "孙正义再登亚洲首富",
+      "onboard_time": 1780435394,
+      "rank": 14,
+      "category": "财经,互联网"
     },
     {
       "raw_hot": 55034,
@@ -219,6 +235,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 47265,
+      "num": 142992,
+      "word": "大量印度人排队报名学日语",
+      "onboard_time": 1780404682,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 46532,
       "num": 143360,
       "word": "歌手 苏新皓",
@@ -243,6 +267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 44283,
+      "num": 143336,
+      "word": "三星堆考古发现11件红玉髓珠",
+      "onboard_time": 1780412781,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 42507,
       "num": 143132,
       "word": "CBA总决赛",
@@ -256,22 +288,6 @@
       "word": "男子在健身房单边卸杠铃片蓄意伤人",
       "onboard_time": 1780402280,
       "rank": 33,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 40636,
-      "num": 142992,
-      "word": "大量印度人排队报名学日语",
-      "onboard_time": 1780404682,
-      "rank": 34,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 40462,
-      "num": 143336,
-      "word": "三星堆考古发现11件红玉髓珠",
-      "onboard_time": 1780412781,
-      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -371,6 +387,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 27198,
+      "num": 33025,
+      "word": "武契奇不寻求再当总统",
+      "onboard_time": 1780413322,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 25689,
       "num": 142061,
       "word": "兹维列夫vs霍达尔",
@@ -401,6 +425,22 @@
       "onboard_time": 1780419618,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 18694,
+      "num": 32764,
+      "word": "国乒队长是荣誉更是责任",
+      "onboard_time": 1780429694,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 16628,
+      "num": 32706,
+      "word": "诽谤成毅商务合作已违法",
+      "onboard_time": 1780430833,
+      "rank": 48,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 8563,
