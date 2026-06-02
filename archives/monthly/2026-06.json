@@ -1,6 +1,6 @@
 {
   "startTime": 1780247827631,
-  "endTime": 1780437314397,
+  "endTime": 1780438101279,
   "band_list": [
     {
       "raw_hot": 6730138,
@@ -2604,7 +2604,7 @@
     },
     {
       "raw_hot": 150109,
-      "num": 178761,
+      "num": 225373,
       "word": "电动车是最伟大的发明",
       "onboard_time": 1780414100,
       "rank": 1,
@@ -2995,6 +2995,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 96090,
+      "num": 96090,
+      "word": "割四赔五乱象",
+      "onboard_time": 1780427355,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 95885,
       "num": 311144,
       "word": "华为MatePadProMax全网首拆",
@@ -3179,14 +3187,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 79209,
-      "num": 45329,
-      "word": "割四赔五乱象",
-      "onboard_time": 1780427355,
-      "rank": 11,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 78776,
       "num": 263545,
       "word": "邓紫棋何超莲合照",
@@ -3363,6 +3363,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 62784,
+      "num": 62784,
+      "word": "孙正义再登亚洲首富",
+      "onboard_time": 1780435394,
+      "rank": 14,
+      "category": "财经,互联网"
+    },
+    {
       "raw_hot": 62084,
       "num": 377323,
       "word": "MLCC概念大涨",
@@ -3425,14 +3433,6 @@
       "onboard_time": 1780392261,
       "rank": 41,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 55157,
-      "num": 45319,
-      "word": "孙正义再登亚洲首富",
-      "onboard_time": 1780435394,
-      "rank": 14,
-      "category": "财经,互联网"
     },
     {
       "raw_hot": 54985,
@@ -3763,6 +3763,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 29968,
+      "num": 33025,
+      "word": "武契奇不寻求再当总统",
+      "onboard_time": 1780413322,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 29559,
       "num": 539855,
       "word": "多方回应索菲亚教堂棚顶疑被掀飞",
@@ -3777,14 +3785,6 @@
       "onboard_time": 1780268836,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 27198,
-      "num": 33025,
-      "word": "武契奇不寻求再当总统",
-      "onboard_time": 1780413322,
-      "rank": 29,
-      "category": "国际时政"
     },
     {
       "raw_hot": 26716,
@@ -3907,6 +3907,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 20549,
+      "num": 32764,
+      "word": "国乒队长是荣誉更是责任",
+      "onboard_time": 1780429694,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 20249,
+      "num": 32706,
+      "word": "诽谤成毅商务合作已违法",
+      "onboard_time": 1780430833,
+      "rank": 48,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 20182,
       "num": 42590,
       "word": "英伟达发布PC端超级芯片",
@@ -3921,14 +3937,6 @@
       "onboard_time": 1780373902,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 18694,
-      "num": 32764,
-      "word": "国乒队长是荣誉更是责任",
-      "onboard_time": 1780429694,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 18329,
@@ -3969,14 +3977,6 @@
       "onboard_time": 1780390880,
       "rank": 17,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 16628,
-      "num": 32706,
-      "word": "诽谤成毅商务合作已违法",
-      "onboard_time": 1780430833,
-      "rank": 48,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 16305,
