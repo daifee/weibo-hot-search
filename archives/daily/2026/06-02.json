@@ -1,6 +1,6 @@
 {
   "startTime": 1780332315159,
-  "endTime": 1780377060979,
+  "endTime": 1780391720485,
   "band_list": [
     {
       "raw_hot": 4090073,
@@ -17,6 +17,14 @@
       "onboard_time": 1780372100,
       "rank": 0,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 2986991,
+      "num": 691497,
+      "word": "月薪一万是月薪五千的六倍",
+      "onboard_time": 1780390162,
+      "rank": 3,
+      "category": "幽默"
     },
     {
       "raw_hot": 2518802,
@@ -43,6 +51,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 2150228,
+      "num": 375253,
+      "word": "此沙被审判",
+      "onboard_time": 1780386623,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1729607,
+      "num": 372506,
+      "word": "不被爱的时候你是鹿晗也得被打码",
+      "onboard_time": 1780385240,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1677017,
       "num": 339127,
       "word": "奚梦瑶婚礼",
@@ -51,12 +75,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1465963,
+      "num": 1465963,
+      "word": "国乒男队队长王楚钦",
+      "onboard_time": 1780383080,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1266024,
       "num": 1121367,
       "word": "华为韬定律",
       "onboard_time": 1780372041,
       "rank": 1,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 1225280,
+      "num": 369645,
+      "word": "张杰真不舒服了",
+      "onboard_time": 1780384521,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 1159783,
@@ -91,6 +131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 986792,
+      "num": 371921,
+      "word": "谢天宇偷看路人裙底",
+      "onboard_time": 1780379600,
+      "rank": 12,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 929527,
       "num": 735703,
       "word": "陈妍希六一晒孩子照片",
@@ -113,6 +161,14 @@
       "onboard_time": 1780368260,
       "rank": 4,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 813642,
+      "num": 673569,
+      "word": "原来老祖宗才是最懂午睡的",
+      "onboard_time": 1780386021,
+      "rank": 4,
+      "category": "幽默"
     },
     {
       "raw_hot": 804628,
@@ -139,6 +195,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 759867,
+      "num": 358937,
+      "word": "全世界最尊重上海的人",
+      "onboard_time": 1780386862,
+      "rank": 19,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 712848,
       "num": 279534,
       "word": "夏美",
@@ -153,6 +217,14 @@
       "onboard_time": 1780318160,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 695638,
+      "num": 895080,
+      "word": "马龙结束12年队长任期",
+      "onboard_time": 1780387702,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 688599,
@@ -193,6 +265,14 @@
       "onboard_time": 1780372460,
       "rank": 25,
       "category": "情感"
+    },
+    {
+      "raw_hot": 628685,
+      "num": 628685,
+      "word": "神仙肉 陈星旭",
+      "onboard_time": 1780388782,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 606493,
@@ -243,6 +323,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 494344,
+      "num": 357896,
+      "word": "迪丽热巴表现力强到让人震撼",
+      "onboard_time": 1780387341,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 477924,
       "num": 771422,
       "word": "油价大涨了",
@@ -275,12 +363,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 447070,
+      "num": 447070,
+      "word": "财政局回应一公务员被指脚踏两条船",
+      "onboard_time": 1780388660,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 442613,
       "num": 815223,
       "word": "库里签约李宁",
       "onboard_time": 1780359562,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 438460,
+      "num": 354558,
+      "word": "池昌旭涉嫌逃税",
+      "onboard_time": 1780384401,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 427765,
@@ -363,6 +467,30 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 377775,
+      "num": 377775,
+      "word": "翘楚首播反馈",
+      "onboard_time": 1780390162,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 376647,
+      "num": 366338,
+      "word": "爸爸二十年前给我做的人生规划",
+      "onboard_time": 1780386021,
+      "rank": 15,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 360518,
+      "num": 340245,
+      "word": "多代言发文贺王楚钦成为国乒男队队长",
+      "onboard_time": 1780391060,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 352962,
       "num": 252190,
       "word": "鸟叔被移交检察机关",
@@ -385,6 +513,14 @@
       "onboard_time": 1780327521,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 334582,
+      "num": 351381,
+      "word": "叶一茜带森碟来浪姐集邮",
+      "onboard_time": 1780386320,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 332560,
@@ -417,6 +553,14 @@
       "onboard_time": 1780370299,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 306604,
+      "num": 348841,
+      "word": "李登科聊迪丽热巴",
+      "onboard_time": 1780390162,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 306049,
@@ -467,12 +611,60 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 291452,
+      "num": 347231,
+      "word": "于正故意挑mean的回复",
+      "onboard_time": 1780385121,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 290196,
+      "num": 338031,
+      "word": "狼队小胖挂牌",
+      "onboard_time": 1780388782,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 289473,
+      "num": 343545,
+      "word": "翘楚演员回应被认成AI",
+      "onboard_time": 1780390461,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 288378,
+      "num": 342027,
+      "word": "王皓王楚钦懂的都懂",
+      "onboard_time": 1780391121,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 286447,
+      "num": 335793,
+      "word": "妹妹14年后破译亡兄QQ专属相册",
+      "onboard_time": 1780386980,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 273230,
       "num": 625124,
       "word": "世界杯",
       "onboard_time": 1780364300,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 265049,
+      "num": 335142,
+      "word": "上班最大意义不是拿点工资",
+      "onboard_time": 1780387821,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 264937,
@@ -488,6 +680,14 @@
       "word": "虞书欣复刻小兰花施法手势",
       "onboard_time": 1780364421,
       "rank": 23,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 257322,
+      "num": 332838,
+      "word": "翘楚漏了杨洋的云包场",
+      "onboard_time": 1780386801,
+      "rank": 34,
       "category": "剧集"
     },
     {
@@ -515,12 +715,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 245806,
+      "num": 331564,
+      "word": "库里官宣拥抱李宁",
+      "onboard_time": 1780391423,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 243022,
       "num": 316516,
       "word": "记者卧底500人群聊揭秘崩老头内幕",
       "onboard_time": 1780311680,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 240668,
+      "num": 328620,
+      "word": "icon直播间被封",
+      "onboard_time": 1780391301,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 233305,
@@ -571,6 +787,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 219890,
+      "num": 364667,
+      "word": "印度男34秒摔死幼童拒捕与警方枪战",
+      "onboard_time": 1780383681,
+      "rank": 16,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 217096,
+      "num": 622780,
+      "word": "陈粒演唱会情侣假求婚",
+      "onboard_time": 1780376301,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
       "raw_hot": 211817,
       "num": 310685,
       "word": "英伟达市值一夜大增3190亿美元",
@@ -587,6 +819,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 206459,
+      "num": 319255,
+      "word": "糖尿病并不是单纯血糖高了",
+      "onboard_time": 1780378400,
+      "rank": 42,
+      "category": "民生新闻,健康医疗"
+    },
+    {
       "raw_hot": 204954,
       "num": 663783,
       "word": "陈都灵周翊然新剧开播",
@@ -595,12 +835,44 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 204755,
+      "num": 317728,
+      "word": "田曦薇素颜染发",
+      "onboard_time": 1780384580,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 202621,
+      "num": 314716,
+      "word": "杨天真晒与虞书欣自拍照",
+      "onboard_time": 1780388181,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 200287,
+      "num": 310348,
+      "word": "曝奚梦瑶婚礼机酒全包",
+      "onboard_time": 1780377261,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 200079,
       "num": 302040,
       "word": "丈夫当街抢娃反怼清华女博士不要脸",
       "onboard_time": 1780320501,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 199624,
+      "num": 307436,
+      "word": "青簪行也找过谢霆锋",
+      "onboard_time": 1780386680,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 188043,
@@ -627,12 +899,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 179680,
-      "num": 622780,
-      "word": "陈粒演唱会情侣假求婚",
-      "onboard_time": 1780376301,
-      "rank": 43,
-      "category": "演出"
+      "raw_hot": 182906,
+      "num": 313362,
+      "word": "梁靖崑任国乒男队副队长",
+      "onboard_time": 1780384881,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 182001,
+      "num": 306123,
+      "word": "王皓说男乒队伍更团结了",
+      "onboard_time": 1780387281,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 179501,
@@ -835,6 +1115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 95885,
+      "num": 311144,
+      "word": "华为MatePadProMax全网首拆",
+      "onboard_time": 1780390401,
+      "rank": 46,
+      "category": "数码"
+    },
+    {
       "raw_hot": 95227,
       "num": 160111,
       "word": "Monki喊话TES",
@@ -873,6 +1161,14 @@
       "onboard_time": 1780322902,
       "rank": 38,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 88634,
+      "num": 356077,
+      "word": "金正恩与女足队员合影",
+      "onboard_time": 1780391060,
+      "rank": 21,
+      "category": "国际时政,体育"
     },
     {
       "raw_hot": 88568,
@@ -987,12 +1283,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 63746,
+      "num": 345438,
+      "word": "伊朗媒体新发布最高领袖照片",
+      "onboard_time": 1780390461,
+      "rank": 27,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 63455,
       "num": 150683,
       "word": "日本菲律宾想联手偷",
       "onboard_time": 1780333218,
       "rank": 37,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 62084,
+      "num": 377323,
+      "word": "MLCC概念大涨",
+      "onboard_time": 1780386623,
+      "rank": 9,
+      "category": "互联网,财经"
     },
     {
       "raw_hot": 45235,
@@ -1008,6 +1320,22 @@
       "word": "王兴兴身家飙升至140亿元",
       "onboard_time": 1780333218,
       "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 44552,
+      "num": 701658,
+      "word": "还有5天高考",
+      "onboard_time": 1780382960,
+      "rank": 2,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 43223,
+      "num": 323621,
+      "word": "杭州多人吹空调吹出脑梗脑出血",
+      "onboard_time": 1780391660,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -1155,12 +1483,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 17306,
+      "num": 362358,
+      "word": "代购宝马X5经层层转包给个人运输",
+      "onboard_time": 1780390880,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 15746,
+      "num": 326477,
+      "word": "常德一餐厅被吐槽白开水48元一杯",
+      "onboard_time": 1780390880,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 15498,
       "num": 40201,
       "word": "WE天下谁人不识君",
       "onboard_time": 1780340833,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 15222,
+      "num": 361337,
+      "word": "市民暗访餐具消毒厂遭工作人员围堵",
+      "onboard_time": 1780390520,
+      "rank": 18,
+      "category": "舆论监督"
     }
   ],
   "hotgov_list": [
@@ -1172,6 +1524,9 @@
     },
     {
       "word": "#大朋友习近平对孩子们的关爱和期望#"
+    },
+    {
+      "word": "#总书记的文化足迹遍及大江南北#"
     }
   ]
 }
