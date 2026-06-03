@@ -1,6 +1,6 @@
 {
   "startTime": 1780426058526,
-  "endTime": 1780481973609,
+  "endTime": 1780498363589,
   "band_list": [
     {
       "raw_hot": 3646788,
@@ -17,6 +17,14 @@
       "onboard_time": 1780456760,
       "rank": 10,
       "category": "情感"
+    },
+    {
+      "raw_hot": 2427599,
+      "num": 307561,
+      "word": "迪丽热巴 我瘦下来很快",
+      "onboard_time": 1780493062,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 2322199,
@@ -43,6 +51,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1439340,
+      "num": 296461,
+      "word": "何猷君婚礼誓词没有贫穷",
+      "onboard_time": 1780483101,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1426797,
+      "num": 304412,
+      "word": "金鹤龙喊话迪丽热巴",
+      "onboard_time": 1780497082,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1319332,
       "num": 1319332,
       "word": "玩山姆托举梗妈妈再道歉",
@@ -67,6 +91,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1194603,
+      "num": 307238,
+      "word": "文旅局致歉王祖蓝吃粉争议",
+      "onboard_time": 1780493841,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1175682,
       "num": 325631,
       "word": "奚梦瑶结束婚礼后自己背个包就走了",
@@ -81,6 +113,14 @@
       "onboard_time": 1780450220,
       "rank": 21,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 1116592,
+      "num": 1178654,
+      "word": "女子花2万查丈夫出轨揪出辅警内鬼",
+      "onboard_time": 1780479380,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1027542,
@@ -115,6 +155,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 883397,
+      "num": 477696,
+      "word": "生理期结束的第一天",
+      "onboard_time": 1780480460,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 869893,
       "num": 869893,
       "word": "黄灿灿怎么说服陈瑶拍这个的",
@@ -147,6 +195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 759788,
+      "num": 305723,
+      "word": "奚梦瑶送粉丝发卡引争议",
+      "onboard_time": 1780487961,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 746973,
       "num": 746973,
       "word": "丁程鑫不敢想结婚",
@@ -163,14 +219,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 705468,
-      "num": 477696,
-      "word": "生理期结束的第一天",
-      "onboard_time": 1780480460,
-      "rank": 31,
-      "category": "情感"
-    },
-    {
       "raw_hot": 694120,
       "num": 1111059,
       "word": "老宅被亲戚偷装光伏板女子崩溃痛哭",
@@ -185,6 +233,14 @@
       "onboard_time": 1780469178,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 680794,
+      "num": 680794,
+      "word": "馒头从空气炸锅留学回来了",
+      "onboard_time": 1780485200,
+      "rank": 3,
+      "category": "幽默"
     },
     {
       "raw_hot": 672164,
@@ -225,6 +281,14 @@
       "onboard_time": 1780474159,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 621958,
+      "num": 621958,
+      "word": "男子11年前买29.7万元手机懊悔不已",
+      "onboard_time": 1780481660,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 617886,
@@ -291,6 +355,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 497748,
+      "num": 827251,
+      "word": "中国女排0比3捷克女排",
+      "onboard_time": 1780494562,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 491474,
       "num": 276105,
       "word": "陈学冬是奚梦瑶专属娘家人",
@@ -313,6 +385,14 @@
       "onboard_time": 1780448900,
       "rank": 29,
       "category": "艺人,互联网"
+    },
+    {
+      "raw_hot": 461972,
+      "num": 461972,
+      "word": "张宸逍夸王鹤棣 吴泽林捂耳朵",
+      "onboard_time": 1780484181,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 461970,
@@ -363,6 +443,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 421653,
+      "num": 304680,
+      "word": "委内瑞拉女警聊天时突然向女子开枪",
+      "onboard_time": 1780490180,
+      "rank": 14,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 420590,
       "num": 461680,
       "word": "歌手",
@@ -385,6 +473,14 @@
       "onboard_time": 1780414100,
       "rank": 1,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 414584,
+      "num": 303057,
+      "word": "金高银表白周迅",
+      "onboard_time": 1780497502,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 406029,
@@ -411,6 +507,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 396625,
+      "num": 298127,
+      "word": "主角结局 刘红兵和孩子都死了",
+      "onboard_time": 1780485379,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 383971,
       "num": 327260,
       "word": "女子捡12斤大鱼吃掉后请失主吃火锅",
@@ -435,12 +539,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 374176,
+      "num": 374176,
+      "word": "宋师去世",
+      "onboard_time": 1780487720,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 357998,
       "num": 355503,
       "word": "奚梦瑶婚礼香槟塔里装的是提拉米苏",
       "onboard_time": 1780470860,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 355567,
+      "num": 291142,
+      "word": "中国小姐姐卖麻糍分量太夸张",
+      "onboard_time": 1780484419,
+      "rank": 21,
+      "category": "美食"
     },
     {
       "raw_hot": 355296,
@@ -491,6 +611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 327332,
+      "num": 320677,
+      "word": "主角大结局",
+      "onboard_time": 1780482260,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 326277,
       "num": 326277,
       "word": "樊振东已到杜塞尔多夫训练",
@@ -513,6 +641,14 @@
       "onboard_time": 1780447100,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 321281,
+      "num": 321281,
+      "word": "萨巴伦卡无缘法网4强",
+      "onboard_time": 1780496301,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 320409,
@@ -539,6 +675,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 304145,
+      "num": 285898,
+      "word": "主角 死神来了",
+      "onboard_time": 1780487060,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 302930,
+      "num": 409837,
+      "word": "日本开始售卖黑白包装零食",
+      "onboard_time": 1780481060,
+      "rank": 26,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 301899,
       "num": 411226,
       "word": "女子爱喝冰饮胃癌晚期卵巢长肿瘤",
@@ -563,6 +715,30 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 284817,
+      "num": 284817,
+      "word": "中国男篮vs塞尔维亚FMP",
+      "onboard_time": 1780492881,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 283314,
+      "num": 283314,
+      "word": "家业广告",
+      "onboard_time": 1780494202,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 282535,
+      "num": 282535,
+      "word": "封潇潇楚嘉禾在一起了",
+      "onboard_time": 1780489100,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 279659,
       "num": 369445,
       "word": "多家银行下架3年期5年期定期存款",
@@ -579,12 +755,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 271465,
+      "num": 271465,
+      "word": "要学会把自己养得很好",
+      "onboard_time": 1780494141,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
       "raw_hot": 268986,
       "num": 268986,
       "word": "演员钟景辉去世",
       "onboard_time": 1780466960,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 268061,
+      "num": 268061,
+      "word": "Bin没击掌",
+      "onboard_time": 1780496661,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 264815,
@@ -755,6 +947,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 207688,
+      "num": 207688,
+      "word": "一进入高温就会人品消失",
+      "onboard_time": 1780491621,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 200944,
       "num": 431743,
       "word": "事业编考生笔试第1因围报被取消资格",
@@ -763,28 +963,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 200223,
+      "num": 200223,
+      "word": "窦骁主角下线陈都灵翘楚下线",
+      "onboard_time": 1780492881,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 198289,
       "num": 198289,
       "word": "AI特别消耗淡水资源",
       "onboard_time": 1780478900,
       "rank": 41,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 198136,
-      "num": 198136,
-      "word": "男子11年前买29.7万元手机懊悔不已",
-      "onboard_time": 1780481660,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 195520,
-      "num": 195520,
-      "word": "女子花2万查丈夫出轨揪出辅警内鬼",
-      "onboard_time": 1780479380,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 193452,
@@ -809,6 +1001,14 @@
       "onboard_time": 1780478839,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 188870,
+      "num": 188870,
+      "word": "商务业内眼里的白鹿",
+      "onboard_time": 1780493421,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 186080,
@@ -859,12 +1059,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 176192,
-      "num": 409837,
-      "word": "日本开始售卖黑白包装零食",
-      "onboard_time": 1780481060,
-      "rank": 26,
-      "category": "海外新闻"
+      "raw_hot": 173613,
+      "num": 268065,
+      "word": "薛艳华年仅36岁",
+      "onboard_time": 1780493123,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 171742,
@@ -883,6 +1083,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 164067,
+      "num": 199638,
+      "word": "萨巴伦卡失误",
+      "onboard_time": 1780493960,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 163118,
       "num": 504845,
       "word": "LPL决赛门票售罄",
@@ -899,6 +1107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 158786,
+      "num": 158786,
+      "word": "跟物理不好的人解释不清",
+      "onboard_time": 1780489401,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 157780,
       "num": 404397,
       "word": "AI演员已经有眼神戏了",
@@ -913,6 +1129,14 @@
       "onboard_time": 1780464141,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 154213,
+      "num": 154213,
+      "word": "20块的奶茶vs10块的牛奶",
+      "onboard_time": 1780492040,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 153166,
@@ -937,6 +1161,22 @@
       "onboard_time": 1780474340,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 150558,
+      "num": 150558,
+      "word": "杭州2个月抓蛇近900起创5年新高",
+      "onboard_time": 1780487779,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 149727,
+      "num": 149727,
+      "word": "家业大结局",
+      "onboard_time": 1780486700,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 149416,
@@ -968,6 +1208,30 @@
       "word": "三星堆考古发现11件红玉髓珠",
       "onboard_time": 1780412781,
       "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 139801,
+      "num": 139801,
+      "word": "凯文加内特公开批评维克托文班亚马",
+      "onboard_time": 1780484181,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 137036,
+      "num": 137036,
+      "word": "家业大结局he",
+      "onboard_time": 1780493362,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 133970,
+      "num": 302174,
+      "word": "全球首棵龙眼味荔枝树",
+      "onboard_time": 1780495822,
+      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -1003,6 +1267,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 125019,
+      "num": 125019,
+      "word": "主角 苦难文学",
+      "onboard_time": 1780487720,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 124769,
       "num": 392485,
       "word": "空腹入睡的人真的更长寿吗",
@@ -1017,6 +1289,22 @@
       "onboard_time": 1780466960,
       "rank": 28,
       "category": "教育"
+    },
+    {
+      "raw_hot": 123203,
+      "num": 120892,
+      "word": "忆秦娥得了ptsd",
+      "onboard_time": 1780494681,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 121543,
+      "num": 121543,
+      "word": "女子7万买黄金镶钻手镯5天掉5颗钻",
+      "onboard_time": 1780497922,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 117812,
@@ -1099,6 +1387,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 104963,
+      "num": 695447,
+      "word": "2026高考安检新变化",
+      "onboard_time": 1780489100,
+      "rank": 2,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 104896,
       "num": 372993,
       "word": "不再发朋友圈算长大吗",
@@ -1121,6 +1417,14 @@
       "onboard_time": 1780438635,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 99703,
+      "num": 119712,
+      "word": "何小鹏直播回应小鹏GX上市火爆",
+      "onboard_time": 1780488980,
+      "rank": 47,
+      "category": "汽车"
     },
     {
       "raw_hot": 99542,
@@ -1185,6 +1489,14 @@
       "onboard_time": 1780397781,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 87139,
+      "num": 119481,
+      "word": "AI数据中心 淡水资源",
+      "onboard_time": 1780478900,
+      "rank": 48,
+      "category": "互联网"
     },
     {
       "raw_hot": 86975,
@@ -1403,6 +1715,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 33786,
+      "num": 268062,
+      "word": "日英意推销六代机",
+      "onboard_time": 1780484479,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 32517,
       "num": 142326,
       "word": "阴阳师",
@@ -1564,6 +1884,9 @@
     },
     {
       "word": "#总书记引领贸易强国建设#"
+    },
+    {
+      "word": "#政绩观里的文化根脉#"
     }
   ]
 }
