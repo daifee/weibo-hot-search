@@ -1,6 +1,6 @@
 {
   "startTime": 1780512777133,
-  "endTime": 1780523817404,
+  "endTime": 1780524739113,
   "band_list": [
     {
       "raw_hot": 297205,
@@ -11,6 +11,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 238124,
+      "num": 214623,
+      "word": "国企干部公职人员离婚分割近亿财产",
+      "onboard_time": 1780500381,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 226878,
       "num": 94794,
       "word": "油泼面这段赵本山不让张艺谋删",
@@ -19,20 +27,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 214623,
-      "num": 214623,
-      "word": "国企干部公职人员离婚分割近亿财产",
-      "onboard_time": 1780500381,
-      "rank": 0,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 120152,
-      "num": 246748,
+      "num": 316376,
       "word": "女子花2万查丈夫出轨揪出辅警内鬼",
       "onboard_time": 1780479380,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 103603,
+      "num": 103603,
+      "word": "都大结局了翟子路还在遗憾",
+      "onboard_time": 1780501823,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 103121,
@@ -40,6 +48,14 @@
       "word": "日本停留现金社会的唯一好处",
       "onboard_time": 1780506017,
       "rank": 10,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 101841,
+      "num": 222672,
+      "word": "馒头从空气炸锅留学回来了",
+      "onboard_time": 1780485200,
+      "rank": 6,
       "category": "幽默"
     },
     {
@@ -67,27 +83,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 78937,
-      "num": 177863,
-      "word": "馒头从空气炸锅留学回来了",
-      "onboard_time": 1780485200,
-      "rank": 6,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 78136,
       "num": 78136,
       "word": "王菲不打低端局",
       "onboard_time": 1780499900,
       "rank": 13,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 75945,
-      "num": 74359,
-      "word": "都大结局了翟子路还在遗憾",
-      "onboard_time": 1780501823,
-      "rank": 15,
       "category": "剧集"
     },
     {
@@ -97,6 +97,14 @@
       "onboard_time": 1780480460,
       "rank": 14,
       "category": "情感"
+    },
+    {
+      "raw_hot": 71922,
+      "num": 59517,
+      "word": "小猫每天都在宝宝的被窝里",
+      "onboard_time": 1780506017,
+      "rank": 20,
+      "category": "幽默"
     },
     {
       "raw_hot": 71909,
@@ -115,20 +123,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 67891,
+      "num": 67891,
+      "word": "退休夫妻离婚互揭老底牵出近亿财产",
+      "onboard_time": 1780499362,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 65861,
       "num": 65861,
       "word": "主角结局 刘红兵和孩子都死了",
       "onboard_time": 1780485379,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 62285,
-      "num": 59517,
-      "word": "小猫每天都在宝宝的被窝里",
-      "onboard_time": 1780506017,
-      "rank": 20,
-      "category": "幽默"
     },
     {
       "raw_hot": 60771,
@@ -139,6 +147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 60601,
+      "num": 71102,
+      "word": "俄方提出停战条件",
+      "onboard_time": 1780499481,
+      "rank": 23,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 58439,
       "num": 58439,
       "word": "日本开始售卖黑白包装零食",
@@ -147,12 +163,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 52922,
-      "num": 59521,
-      "word": "退休夫妻离婚互揭老底牵出近亿财产",
-      "onboard_time": 1780499362,
-      "rank": 19,
-      "category": "民生新闻"
+      "raw_hot": 57879,
+      "num": 57879,
+      "word": "要分清执念和执念的区别",
+      "onboard_time": 1780506077,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 52621,
@@ -163,12 +179,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 50752,
-      "num": 46439,
-      "word": "要分清执念和执念的区别",
-      "onboard_time": 1780506077,
-      "rank": 24,
-      "category": "情感"
+      "raw_hot": 51770,
+      "num": 51770,
+      "word": "委内瑞拉女警聊天时突然向女子开枪",
+      "onboard_time": 1780490180,
+      "rank": 42,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 49672,
@@ -187,12 +203,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 47582,
-      "num": 71102,
-      "word": "俄方提出停战条件",
-      "onboard_time": 1780499481,
-      "rank": 23,
-      "category": "国际时政"
+      "raw_hot": 47539,
+      "num": 60275,
+      "word": "薛艳华年仅36岁",
+      "onboard_time": 1780493123,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 45727,
@@ -201,14 +217,6 @@
       "onboard_time": 1780506017,
       "rank": 25,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 41214,
-      "num": 36398,
-      "word": "委内瑞拉女警聊天时突然向女子开枪",
-      "onboard_time": 1780490180,
-      "rank": 42,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 37728,
@@ -233,14 +241,6 @@
       "onboard_time": 1780494562,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 36953,
-      "num": 36953,
-      "word": "薛艳华年仅36岁",
-      "onboard_time": 1780493123,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 36493,
@@ -315,6 +315,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 30514,
+      "num": 30514,
+      "word": "把京东洗衣当旅行外挂的是天才",
+      "onboard_time": 1780490599,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 30401,
       "num": 30401,
       "word": "萨巴伦卡无缘法网4强",
@@ -332,7 +340,7 @@
     },
     {
       "raw_hot": 28032,
-      "num": 27042,
+      "num": 28812,
       "word": "家业广告",
       "onboard_time": 1780494202,
       "rank": 40,
@@ -340,7 +348,7 @@
     },
     {
       "raw_hot": 27063,
-      "num": 27063,
+      "num": 28770,
       "word": "说唱歌手上恋综了",
       "onboard_time": 1780496781,
       "rank": 39,
@@ -348,7 +356,7 @@
     },
     {
       "raw_hot": 26840,
-      "num": 26840,
+      "num": 28850,
       "word": "不爱出门的人belike",
       "onboard_time": 1780509915,
       "rank": 41,
@@ -356,31 +364,23 @@
     },
     {
       "raw_hot": 25839,
-      "num": 26401,
+      "num": 28729,
       "word": "2026世界女排联赛",
       "onboard_time": 1780508895,
       "rank": 46,
       "category": "体育"
     },
     {
-      "raw_hot": 24470,
-      "num": 26401,
+      "raw_hot": 25838,
+      "num": 28963,
       "word": "家业大结局",
       "onboard_time": 1780486700,
       "rank": 47,
       "category": "剧集"
     },
     {
-      "raw_hot": 23873,
-      "num": 23873,
-      "word": "把京东洗衣当旅行外挂的是天才",
-      "onboard_time": 1780490599,
-      "rank": 32,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 22673,
-      "num": 26401,
+      "num": 28755,
       "word": "杭州2个月抓蛇近900起创5年新高",
       "onboard_time": 1780487779,
       "rank": 45,
@@ -395,8 +395,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 20262,
-      "num": 26401,
+      "raw_hot": 20775,
+      "num": 28809,
       "word": "女儿没怀疑自己饭量怀疑妈妈没交钱",
       "onboard_time": 1780478599,
       "rank": 48,
@@ -411,24 +411,24 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 17155,
-      "num": 24861,
-      "word": "赫瓦林斯卡晋级法网4强",
-      "onboard_time": 1780506137,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 17099,
-      "num": 23864,
+      "raw_hot": 18421,
+      "num": 28794,
       "word": "凯文加内特公开批评维克托文班亚马",
       "onboard_time": 1780484181,
       "rank": 40,
       "category": "体育"
     },
     {
+      "raw_hot": 17388,
+      "num": 28742,
+      "word": "赫瓦林斯卡晋级法网4强",
+      "onboard_time": 1780506137,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 9379,
-      "num": 146589,
+      "num": 187982,
       "word": "一组数据看我国物流越跑越稳",
       "onboard_time": 1780488140,
       "rank": 2,
