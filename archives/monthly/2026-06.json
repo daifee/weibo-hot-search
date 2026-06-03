@@ -1,6 +1,6 @@
 {
   "startTime": 1780247827631,
-  "endTime": 1780464402144,
+  "endTime": 1780480820746,
   "band_list": [
     {
       "raw_hot": 6730138,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 3646788,
-      "num": 326402,
+      "num": 698575,
       "word": "AI脸 生理性厌恶",
       "onboard_time": 1780458981,
       "rank": 20,
@@ -217,6 +217,14 @@
       "onboard_time": 1780306880,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1515764,
+      "num": 1515764,
+      "word": "被恶意仅退款2.36万卖家发声",
+      "onboard_time": 1780477401,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1505607,
@@ -515,6 +523,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 869893,
+      "num": 869893,
+      "word": "黄灿灿怎么说服陈瑶拍这个的",
+      "onboard_time": 1780476320,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 865409,
       "num": 450996,
       "word": "奚梦瑶戴了婆婆的珍珠项链",
@@ -731,6 +747,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 693970,
+      "num": 883029,
+      "word": "男子买34层房收房得知只盖到32层",
+      "onboard_time": 1780469178,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 688599,
       "num": 303294,
       "word": "网友晒田曦薇初中毕业照",
@@ -761,6 +785,14 @@
       "onboard_time": 1780392021,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 672164,
+      "num": 488992,
+      "word": "大家都叫奚梦瑶超模时的名字",
+      "onboard_time": 1780478000,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 667945,
@@ -859,12 +891,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 628808,
+      "num": 466442,
+      "word": "13岁的张元英",
+      "onboard_time": 1780474159,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 628685,
       "num": 628685,
       "word": "神仙肉 陈星旭",
       "onboard_time": 1780388782,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 617886,
+      "num": 617886,
+      "word": "中国小姐姐为了考研拆三平米房备考",
+      "onboard_time": 1780471640,
+      "rank": 5,
+      "category": "情感"
     },
     {
       "raw_hot": 607191,
@@ -880,6 +928,14 @@
       "word": "王菲和谢霆锋最好嗑的地方",
       "onboard_time": 1780373241,
       "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 602651,
+      "num": 279113,
+      "word": "迪丽热巴回复好友祝福",
+      "onboard_time": 1780474640,
+      "rank": 20,
       "category": "艺人"
     },
     {
@@ -987,8 +1043,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 543946,
+      "num": 543946,
+      "word": "时代少年团 苏州",
+      "onboard_time": 1780477579,
+      "rank": 6,
+      "category": "演出"
+    },
+    {
       "raw_hot": 539560,
-      "num": 324289,
+      "num": 429877,
       "word": "何猷君晒妈妈在婚礼上的照片",
       "onboard_time": 1780461081,
       "rank": 42,
@@ -1025,6 +1089,14 @@
       "onboard_time": 1780398260,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 519790,
+      "num": 519790,
+      "word": "曝白玉兰红毯顺序",
+      "onboard_time": 1780479622,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 519555,
@@ -1235,6 +1307,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 446666,
+      "num": 446666,
+      "word": "汪东城身高 基因彩票",
+      "onboard_time": 1780473140,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 445554,
       "num": 445554,
       "word": "侯明昊 歌手帮唱",
@@ -1363,6 +1443,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 415978,
+      "num": 456852,
+      "word": "男子中6022万彩票坚持不投资不挥霍",
+      "onboard_time": 1780472061,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 415728,
       "num": 455765,
       "word": "电动车是最伟大的发明",
@@ -1456,6 +1544,14 @@
       "word": "大学生一旦过了13周",
       "onboard_time": 1780297460,
       "rank": 39,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 400017,
+      "num": 507515,
+      "word": "女儿没怀疑自己饭量怀疑妈妈没交钱",
+      "onboard_time": 1780478599,
+      "rank": 8,
       "category": "幽默"
     },
     {
@@ -1601,6 +1697,14 @@
       "onboard_time": 1780314740,
       "rank": 7,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 357998,
+      "num": 294835,
+      "word": "奚梦瑶婚礼香槟塔里装的是提拉米苏",
+      "onboard_time": 1780470860,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 356806,
@@ -2091,6 +2195,22 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 279659,
+      "num": 279659,
+      "word": "多家银行下架3年期5年期定期存款",
+      "onboard_time": 1780467741,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 277862,
+      "num": 277862,
+      "word": "陈浩民老婆脸上扎了200多针",
+      "onboard_time": 1780472600,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 275453,
       "num": 299611,
       "word": "TOP 新疆",
@@ -2139,6 +2259,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 268986,
+      "num": 268986,
+      "word": "演员钟景辉去世",
+      "onboard_time": 1780466960,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 265204,
       "num": 265204,
       "word": "爬山搭子不要找六七岁小孩",
@@ -2185,6 +2313,14 @@
       "onboard_time": 1780364421,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 260827,
+      "num": 260827,
+      "word": "女子爱喝冰饮胃癌晚期卵巢长肿瘤",
+      "onboard_time": 1780472361,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 259231,
@@ -2305,6 +2441,14 @@
       "onboard_time": 1780402580,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 248230,
+      "num": 248230,
+      "word": "张凌赫叫王玉雯雯",
+      "onboard_time": 1780469359,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 247238,
@@ -2467,6 +2611,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 225818,
+      "num": 278043,
+      "word": "9个月宝宝生嚼蟑螂妈妈只抠出条腿",
+      "onboard_time": 1780480101,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 222761,
       "num": 673923,
       "word": "2人网暴抗洪女干部被罚",
@@ -2528,6 +2680,14 @@
       "word": "拉丁舞爆火裁判一个月跳瘦8斤",
       "onboard_time": 1780240761,
       "rank": 27,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 218186,
+      "num": 218186,
+      "word": "西安一公司通知放假后一夜搬空",
+      "onboard_time": 1780478300,
+      "rank": 30,
       "category": "民生新闻"
     },
     {
@@ -2619,6 +2779,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 211680,
+      "num": 211680,
+      "word": "生理期结束的第一天",
+      "onboard_time": 1780480460,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 211232,
       "num": 211232,
       "word": "奚梦瑶何猷君儿女腿长",
@@ -2641,6 +2809,14 @@
       "onboard_time": 1780317500,
       "rank": 37,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 209852,
+      "num": 209852,
+      "word": "刘宇宁周柯宇笑张凌赫",
+      "onboard_time": 1780480520,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 208060,
@@ -2811,12 +2987,36 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 193452,
+      "num": 193452,
+      "word": "孙一宁曝医美骗局",
+      "onboard_time": 1780466480,
+      "rank": 33,
+      "category": "网红"
+    },
+    {
       "raw_hot": 193363,
       "num": 324578,
       "word": "3岁孩子被过度保护只会说3个字",
       "onboard_time": 1780461922,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 189657,
+      "num": 185455,
+      "word": "云合",
+      "onboard_time": 1780478839,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 188057,
+      "num": 260942,
+      "word": "十日终焉在影视寒冬提供了大量岗位",
+      "onboard_time": 1780479560,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 187562,
@@ -2841,6 +3041,22 @@
       "onboard_time": 1780455680,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 185841,
+      "num": 185841,
+      "word": "王濛谈AI一人公司",
+      "onboard_time": 1780478960,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 185311,
+      "num": 185311,
+      "word": "张淼怡状态",
+      "onboard_time": 1780470681,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 183932,
@@ -2939,6 +3155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 179228,
+      "num": 170663,
+      "word": "此沙任敏 乌木逢春",
+      "onboard_time": 1780471281,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 178220,
       "num": 252915,
       "word": "万花世界4个原主每人不超过3分钟",
@@ -3003,6 +3227,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 168074,
+      "num": 168074,
+      "word": "AI特别消耗淡水资源",
+      "onboard_time": 1780478900,
+      "rank": 41,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 167992,
       "num": 430326,
       "word": "从怀孕到生娃能领7笔钱",
@@ -3041,6 +3273,14 @@
       "onboard_time": 1780318700,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 163118,
+      "num": 504845,
+      "word": "LPL决赛门票售罄",
+      "onboard_time": 1780470739,
+      "rank": 9,
+      "category": "电竞"
     },
     {
       "raw_hot": 162696,
@@ -3147,12 +3387,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 151664,
+      "num": 151664,
+      "word": "周杰伦瞿颖一起打网球",
+      "onboard_time": 1780474340,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 151597,
+      "num": 151597,
+      "word": "这就是小孩职场",
+      "onboard_time": 1780480280,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 151437,
       "num": 151437,
       "word": "主角伏笔",
       "onboard_time": 1780409542,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 149416,
+      "num": 149416,
+      "word": "丁程鑫被NPC亲脸",
+      "onboard_time": 1780469299,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 149343,
@@ -3233,6 +3497,22 @@
       "onboard_time": 1780243160,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 142346,
+      "num": 142346,
+      "word": "爱豆来演戏 演员去唱歌",
+      "onboard_time": 1780478900,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 141342,
+      "num": 141342,
+      "word": "女子花2万查丈夫出轨揪出辅警内鬼",
+      "onboard_time": 1780479380,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 140286,
@@ -3321,6 +3601,14 @@
       "onboard_time": 1780235121,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 134123,
+      "num": 280992,
+      "word": "NBA总决赛裁判名单正式出炉",
+      "onboard_time": 1780480581,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 132854,
@@ -3427,6 +3715,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 123260,
+      "num": 218599,
+      "word": "1290万人报名2026高考",
+      "onboard_time": 1780466960,
+      "rank": 28,
+      "category": "教育"
+    },
+    {
       "raw_hot": 121940,
       "num": 172228,
       "word": "月经这5种颜色暗示身体状态",
@@ -3523,6 +3819,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 108898,
+      "num": 219306,
+      "word": "SpaceXA股供应商名单曝光",
+      "onboard_time": 1780474461,
+      "rank": 27,
+      "category": "财经,互联网"
+    },
+    {
       "raw_hot": 106889,
       "num": 284436,
       "word": "张凌赫小时候是学校合唱团的",
@@ -3553,6 +3857,14 @@
       "onboard_time": 1780354818,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 105244,
+      "num": 185497,
+      "word": "玩山姆梗妈妈带货产品抽检不合格",
+      "onboard_time": 1780479439,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 101865,
@@ -3601,6 +3913,22 @@
       "onboard_time": 1780410204,
       "rank": 20,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 96824,
+      "num": 218243,
+      "word": "我国南天门计划最新进展",
+      "onboard_time": 1780474101,
+      "rank": 29,
+      "category": "军事"
+    },
+    {
+      "raw_hot": 96727,
+      "num": 123367,
+      "word": "伊朗导弹爆炸现场画面",
+      "onboard_time": 1780471340,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 95885,
@@ -4627,6 +4955,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 12790,
+      "num": 870700,
+      "word": "文化中国行叩问金石文脉",
+      "onboard_time": 1780472660,
+      "rank": 2,
+      "category": "民生新闻,综艺"
+    },
+    {
       "raw_hot": 7494,
       "num": 1130347,
       "word": "城事日记津彩有你",
@@ -4675,6 +5011,9 @@
     },
     {
       "word": "#文化兴国运兴#"
+    },
+    {
+      "word": "#总书记引领贸易强国建设#"
     }
   ]
 }
