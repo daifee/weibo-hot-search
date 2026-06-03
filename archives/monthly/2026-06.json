@@ -1,6 +1,6 @@
 {
   "startTime": 1780247827631,
-  "endTime": 1780462246388,
+  "endTime": 1780464402144,
   "band_list": [
     {
       "raw_hot": 6730138,
@@ -347,6 +347,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1175682,
+      "num": 325631,
+      "word": "奚梦瑶结束婚礼后自己背个包就走了",
+      "onboard_time": 1780457060,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1159783,
       "num": 1122143,
       "word": "其实人是一根香蕉",
@@ -420,7 +428,7 @@
     },
     {
       "raw_hot": 1027542,
-      "num": 615528,
+      "num": 762438,
       "word": "穿洞洞鞋得了角化型脚气",
       "onboard_time": 1780452620,
       "rank": 3,
@@ -448,14 +456,6 @@
       "word": "张馨予拍迪丽热巴",
       "onboard_time": 1780457899,
       "rank": 23,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 933672,
-      "num": 324717,
-      "word": "奚梦瑶结束婚礼后自己背个包就走了",
-      "onboard_time": 1780457060,
-      "rank": 25,
       "category": "艺人"
     },
     {
@@ -491,12 +491,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 912855,
+      "num": 332573,
+      "word": "国乒四大队长任职时世界冠军统计",
+      "onboard_time": 1780459940,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 892448,
       "num": 892448,
       "word": "挪威深海发现载有中国瓷器的沉船",
       "onboard_time": 1780368260,
       "rank": 4,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 888345,
+      "num": 1142135,
+      "word": "莲花CEO称超过1.8吨就是菜车",
+      "onboard_time": 1780460540,
+      "rank": 4,
+      "category": "汽车"
     },
     {
       "raw_hot": 865409,
@@ -595,14 +611,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 780000,
-      "num": 332573,
-      "word": "国乒四大队长任职时世界冠军统计",
-      "onboard_time": 1780459940,
-      "rank": 12,
-      "category": "体育"
-    },
-    {
       "raw_hot": 778264,
       "num": 742793,
       "word": "孙怡忍了三天 发现自己真的很爱",
@@ -636,7 +644,7 @@
     },
     {
       "raw_hot": 765281,
-      "num": 324018,
+      "num": 324100,
       "word": "贺峻霖公示期已过",
       "onboard_time": 1780457239,
       "rank": 27,
@@ -667,12 +675,28 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 746973,
+      "num": 746973,
+      "word": "丁程鑫不敢想结婚",
+      "onboard_time": 1780462163,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 731932,
       "num": 1117109,
       "word": "纽约时报严重违反一个中国原则",
       "onboard_time": 1780302140,
       "rank": 0,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 717800,
+      "num": 842544,
+      "word": "公司烧不起token了",
+      "onboard_time": 1780460360,
+      "rank": 5,
+      "category": "互联网"
     },
     {
       "raw_hot": 712848,
@@ -801,6 +825,14 @@
       "onboard_time": 1780325901,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 632513,
+      "num": 632513,
+      "word": "男童被机器人踢中腹部痛苦倒地",
+      "onboard_time": 1780460540,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 631004,
@@ -955,6 +987,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 539560,
+      "num": 324289,
+      "word": "何猷君晒妈妈在婚礼上的照片",
+      "onboard_time": 1780461081,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 537981,
       "num": 435966,
       "word": "河道有大量蛇出没已喷驱蛇粉",
@@ -1027,14 +1067,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 491704,
-      "num": 491704,
-      "word": "莲花CEO称超过1.8吨就是菜车",
-      "onboard_time": 1780460540,
-      "rank": 4,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 485595,
       "num": 485595,
       "word": "库里 李宁",
@@ -1092,7 +1124,7 @@
     },
     {
       "raw_hot": 468191,
-      "num": 323383,
+      "num": 323636,
       "word": "翘楚配角 我不是AI",
       "onboard_time": 1780448900,
       "rank": 29,
@@ -1155,6 +1187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 451376,
+      "num": 322620,
+      "word": "文彩元婚纱照",
+      "onboard_time": 1780461382,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 451234,
       "num": 680468,
       "word": "山西省省长下矿井检查",
@@ -1211,22 +1251,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 441226,
-      "num": 441226,
-      "word": "公司烧不起token了",
-      "onboard_time": 1780460360,
-      "rank": 5,
-      "category": "互联网"
-    },
-    {
-      "raw_hot": 441079,
-      "num": 322620,
-      "word": "文彩元婚纱照",
-      "onboard_time": 1780461382,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 440013,
       "num": 321898,
       "word": "黄仁勋谈喝豆汁感受",
@@ -1249,6 +1273,14 @@
       "onboard_time": 1780452858,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 436564,
+      "num": 325441,
+      "word": "金饰克价已大降300元",
+      "onboard_time": 1780461501,
+      "rank": 31,
+      "category": "财经"
     },
     {
       "raw_hot": 432179,
@@ -1400,6 +1432,14 @@
       "word": "何超莲评论祝福何猷君",
       "onboard_time": 1780359980,
       "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 401954,
+      "num": 401954,
+      "word": "李小冉疑似录制节目受伤",
+      "onboard_time": 1780461561,
+      "rank": 38,
       "category": "艺人"
     },
     {
@@ -1643,6 +1683,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 342995,
+      "num": 323318,
+      "word": "丈夫暗藏1400万女子付不起7000医药费",
+      "onboard_time": 1780457601,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 342645,
       "num": 342645,
       "word": "在日本五分钟连续遇到两个雷霆日本人",
@@ -1707,12 +1755,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 326277,
+      "num": 326277,
+      "word": "樊振东已到杜塞尔多夫训练",
+      "onboard_time": 1780462163,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 325714,
       "num": 798108,
       "word": "印度男34秒摔死幼童拒捕与警方枪战",
       "onboard_time": 1780383681,
       "rank": 16,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 324194,
+      "num": 324194,
+      "word": "耳机是一个很私密的物件",
+      "onboard_time": 1780461025,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 323736,
@@ -1731,14 +1795,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 321490,
-      "num": 321490,
-      "word": "丈夫暗藏1400万女子付不起7000医药费",
-      "onboard_time": 1780457601,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 320831,
       "num": 678772,
       "word": "丞磊许你星河千里官宣",
@@ -1755,19 +1811,19 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 320409,
+      "num": 320409,
+      "word": "陈学冬是唯一受邀的圈内挚友",
+      "onboard_time": 1780463901,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 320344,
       "num": 264777,
       "word": "迪丽热巴cos小蛋糕",
       "onboard_time": 1780285101,
       "rank": 35,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 319927,
-      "num": 319927,
-      "word": "何猷君晒妈妈在婚礼上的照片",
-      "onboard_time": 1780461081,
-      "rank": 42,
       "category": "艺人"
     },
     {
@@ -2099,20 +2155,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 264815,
+      "num": 325624,
+      "word": "丁程鑫你看看张凌赫在干嘛",
+      "onboard_time": 1780461982,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 264389,
       "num": 809126,
       "word": "NBA总决赛地板有那味儿了",
       "onboard_time": 1780295840,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 262921,
-      "num": 323861,
-      "word": "男童被机器人踢中腹部痛苦倒地",
-      "onboard_time": 1780460540,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 262914,
@@ -2153,6 +2209,14 @@
       "onboard_time": 1780386801,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 256328,
+      "num": 256328,
+      "word": "问界回应浙江台州M9事故",
+      "onboard_time": 1780462342,
+      "rank": 42,
+      "category": "汽车"
     },
     {
       "raw_hot": 255200,
@@ -2403,14 +2467,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 224506,
-      "num": 323015,
-      "word": "金饰克价已大降300元",
-      "onboard_time": 1780461501,
-      "rank": 31,
-      "category": "财经"
-    },
-    {
       "raw_hot": 222761,
       "num": 673923,
       "word": "2人网暴抗洪女干部被罚",
@@ -2491,14 +2547,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 217602,
-      "num": 217602,
-      "word": "耳机是一个很私密的物件",
-      "onboard_time": 1780461025,
-      "rank": 46,
-      "category": "情感"
-    },
-    {
       "raw_hot": 217096,
       "num": 622780,
       "word": "陈粒演唱会情侣假求婚",
@@ -2568,6 +2616,14 @@
       "word": "刘亦菲晒波兰随拍",
       "onboard_time": 1780298720,
       "rank": 44,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 211232,
+      "num": 211232,
+      "word": "奚梦瑶何猷君儿女腿长",
+      "onboard_time": 1780463240,
+      "rank": 46,
       "category": "艺人"
     },
     {
@@ -2755,12 +2811,12 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 187668,
-      "num": 321497,
-      "word": "丁程鑫不敢想结婚",
-      "onboard_time": 1780462163,
-      "rank": 40,
-      "category": "综艺"
+      "raw_hot": 193363,
+      "num": 324578,
+      "word": "3岁孩子被过度保护只会说3个字",
+      "onboard_time": 1780461922,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 187562,
@@ -2859,14 +2915,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 180707,
-      "num": 215220,
-      "word": "樊振东已到杜塞尔多夫训练",
-      "onboard_time": 1780462163,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 180591,
       "num": 180591,
       "word": "关晓彤演技",
@@ -2905,6 +2953,14 @@
       "onboard_time": 1780332078,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 177552,
+      "num": 263972,
+      "word": "梅西C罗首秀场次",
+      "onboard_time": 1780463061,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 173843,
@@ -3051,12 +3107,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 153637,
-      "num": 325624,
-      "word": "丁程鑫你看看张凌赫在干嘛",
-      "onboard_time": 1780461982,
-      "rank": 22,
-      "category": "综艺"
+      "raw_hot": 154216,
+      "num": 208220,
+      "word": "11岁男童深山走失13天靠野果存活",
+      "onboard_time": 1780464141,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 153212,
@@ -3121,14 +3177,6 @@
       "onboard_time": 1780444221,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 147161,
-      "num": 321512,
-      "word": "李小冉疑似录制节目受伤",
-      "onboard_time": 1780461561,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 146865,
@@ -3339,6 +3387,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 127467,
+      "num": 209476,
+      "word": "文班亚马最爱2016年总决赛",
+      "onboard_time": 1780459280,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 125833,
       "num": 145934,
       "word": "华为MatePadProMax电脑级体验",
@@ -3395,6 +3451,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 117384,
+      "num": 326146,
+      "word": "翘楚 剧情逻辑",
+      "onboard_time": 1780463722,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 113524,
       "num": 285971,
       "word": "当努力型遇上天赋型",
@@ -3449,6 +3513,14 @@
       "onboard_time": 1780361541,
       "rank": 47,
       "category": "电影"
+    },
+    {
+      "raw_hot": 109508,
+      "num": 324711,
+      "word": "妻子待产丈夫同城交友被骗15万",
+      "onboard_time": 1780464080,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 106889,
@@ -3513,6 +3585,14 @@
       "onboard_time": 1780413322,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 99084,
+      "num": 272935,
+      "word": "比亚迪汽车5月销量383453辆",
+      "onboard_time": 1780463061,
+      "rank": 37,
+      "category": "汽车"
     },
     {
       "raw_hot": 98301,
@@ -3787,6 +3867,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 67290,
+      "num": 326698,
+      "word": "开着沙发去旅行",
+      "onboard_time": 1780460661,
+      "rank": 19,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 67249,
       "num": 706815,
       "word": "六神新包装被指撞脸人民币",
@@ -3881,14 +3969,6 @@
       "onboard_time": 1780316001,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 58791,
-      "num": 326698,
-      "word": "开着沙发去旅行",
-      "onboard_time": 1780460661,
-      "rank": 19,
-      "category": "汽车"
     },
     {
       "raw_hot": 57815,
@@ -4259,6 +4339,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 30517,
+      "num": 211298,
+      "word": "一驴友徒步从20米悬崖摔下",
+      "onboard_time": 1780462943,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 30033,
       "num": 130925,
       "word": "世界杯英格兰队驻地安保堪比军事堡垒",
@@ -4283,6 +4371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 27585,
+      "num": 769907,
+      "word": "稳住心态更要守住防线",
+      "onboard_time": 1780457961,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 26716,
       "num": 42638,
       "word": "恋与制作人野火燎心",
@@ -4291,20 +4387,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 26196,
+      "num": 263750,
+      "word": "杭州13岁小孩哥AI识毒果断报警",
+      "onboard_time": 1780462943,
+      "rank": 40,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 25689,
       "num": 142061,
       "word": "兹维列夫vs霍达尔",
       "onboard_time": 1780422196,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 24910,
-      "num": 324578,
-      "word": "3岁孩子被过度保护只会说3个字",
-      "onboard_time": 1780461922,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 24354,
@@ -4328,14 +4424,6 @@
       "word": "男子举报出租车后遭咒骂女儿得癌症",
       "onboard_time": 1780327221,
       "rank": 48,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 23510,
-      "num": 692787,
-      "word": "稳住心态更要守住防线",
-      "onboard_time": 1780457961,
-      "rank": 2,
       "category": "民生新闻"
     },
     {
@@ -4553,6 +4641,14 @@
       "onboard_time": 1780286602,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2992,
+      "num": 325117,
+      "word": "耀眼 威海",
+      "onboard_time": 1780463722,
+      "rank": 17,
+      "category": "剧集"
     }
   ],
   "hotgov_list": [

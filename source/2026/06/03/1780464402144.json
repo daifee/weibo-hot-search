@@ -1,0 +1,410 @@
+{
+  "runTime": 1780464402144,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 888345,
+        "num": 1142135,
+        "word": "莲花CEO称超过1.8吨就是菜车",
+        "onboard_time": 1780460540,
+        "rank": 0,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 717800,
+        "num": 842544,
+        "word": "公司烧不起token了",
+        "onboard_time": 1780460360,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 27585,
+        "num": 769907,
+        "word": "稳住心态更要守住防线",
+        "onboard_time": 1780457961,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 932989,
+        "num": 762438,
+        "word": "穿洞洞鞋得了角化型脚气",
+        "onboard_time": 1780452620,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 746973,
+        "num": 746973,
+        "word": "丁程鑫不敢想结婚",
+        "onboard_time": 1780462163,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 632513,
+        "num": 632513,
+        "word": "男童被机器人踢中腹部痛苦倒地",
+        "onboard_time": 1780460540,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 401954,
+        "num": 401954,
+        "word": "李小冉疑似录制节目受伤",
+        "onboard_time": 1780461561,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 344001,
+        "num": 344001,
+        "word": "减脂期想吃什么要立刻去吃",
+        "onboard_time": 1780457481,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 326277,
+        "num": 326277,
+        "word": "樊振东已到杜塞尔多夫训练",
+        "onboard_time": 1780462163,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117384,
+        "num": 326146,
+        "word": "翘楚 剧情逻辑",
+        "onboard_time": 1780463722,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1930370,
+        "num": 326118,
+        "word": "陈学冬车祸后消失3年仍未痊愈",
+        "onboard_time": 1780449020,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1762656,
+        "num": 325953,
+        "word": "看起来不体面的工作能有多挣钱",
+        "onboard_time": 1780456760,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1245787,
+        "num": 325745,
+        "word": "迪丽热巴让张馨予先上车并安全报备",
+        "onboard_time": 1780458321,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1175682,
+        "num": 325631,
+        "word": "奚梦瑶结束婚礼后自己背个包就走了",
+        "onboard_time": 1780457060,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 912855,
+        "num": 325511,
+        "word": "国乒四大队长任职时世界冠军统计",
+        "onboard_time": 1780459940,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 436564,
+        "num": 325441,
+        "word": "金饰克价已大降300元",
+        "onboard_time": 1780461501,
+        "rank": 15,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 364344,
+        "num": 325236,
+        "word": "女子捡12斤大鱼吃掉后请失主吃火锅",
+        "onboard_time": 1780461321,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2992,
+        "num": 325117,
+        "word": "耀眼 威海",
+        "onboard_time": 1780463722,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 659472,
+        "num": 325007,
+        "word": "豆包不会做馒头",
+        "onboard_time": 1780450220,
+        "rank": 18,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 288892,
+        "num": 324868,
+        "word": "公积金提取范围新变化",
+        "onboard_time": 1780452858,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109508,
+        "num": 324711,
+        "word": "妻子待产丈夫同城交友被骗15万",
+        "onboard_time": 1780464080,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 3036066,
+        "num": 324536,
+        "word": "AI脸 生理性厌恶",
+        "onboard_time": 1780458981,
+        "rank": 21,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 657239,
+        "num": 324371,
+        "word": "张馨予拍迪丽热巴",
+        "onboard_time": 1780457899,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 539560,
+        "num": 324289,
+        "word": "何猷君晒妈妈在婚礼上的照片",
+        "onboard_time": 1780461081,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 324194,
+        "num": 324194,
+        "word": "耳机是一个很私密的物件",
+        "onboard_time": 1780461025,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 495774,
+        "num": 324100,
+        "word": "贺峻霖公示期已过",
+        "onboard_time": 1780457239,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 455948,
+        "num": 323636,
+        "word": "翘楚配角 我不是AI",
+        "onboard_time": 1780448900,
+        "rank": 26,
+        "category": "剧集,互联网"
+      },
+      {
+        "raw_hot": 342995,
+        "num": 323318,
+        "word": "丈夫暗藏1400万女子付不起7000医药费",
+        "onboard_time": 1780457601,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 198718,
+        "num": 322981,
+        "word": "王莉霞被逮捕",
+        "onboard_time": 1780453698,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 193363,
+        "num": 322542,
+        "word": "3岁孩子被过度保护只会说3个字",
+        "onboard_time": 1780461922,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1184197,
+        "num": 322176,
+        "word": "玩山姆托举梗妈妈再道歉",
+        "onboard_time": 1780454480,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 257285,
+        "num": 321593,
+        "word": "国内金价跌破980元每克",
+        "onboard_time": 1780444580,
+        "rank": 31,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 451376,
+        "num": 321523,
+        "word": "文彩元婚纱照",
+        "onboard_time": 1780461382,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 345716,
+        "num": 320947,
+        "word": "歌手第四期淘汰三名歌手",
+        "onboard_time": 1780457423,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 67290,
+        "num": 320507,
+        "word": "开着沙发去旅行",
+        "onboard_time": 1780460661,
+        "rank": 34,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 320409,
+        "num": 320409,
+        "word": "陈学冬是唯一受邀的圈内挚友",
+        "onboard_time": 1780463901,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 282256,
+        "num": 282256,
+        "word": "公园老人搂抱女孩系祖孙正常互动",
+        "onboard_time": 1780451780,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99084,
+        "num": 272935,
+        "word": "比亚迪汽车5月销量383453辆",
+        "onboard_time": 1780463061,
+        "rank": 37,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 264815,
+        "num": 264815,
+        "word": "丁程鑫你看看张凌赫在干嘛",
+        "onboard_time": 1780461982,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177552,
+        "num": 263972,
+        "word": "梅西C罗首秀场次",
+        "onboard_time": 1780463061,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 26196,
+        "num": 263750,
+        "word": "杭州13岁小孩哥AI识毒果断报警",
+        "onboard_time": 1780462943,
+        "rank": 40,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 263572,
+        "num": 263572,
+        "word": "田曦薇749万票断层领先",
+        "onboard_time": 1780450998,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 256328,
+        "num": 256328,
+        "word": "问界回应浙江台州M9事故",
+        "onboard_time": 1780462342,
+        "rank": 42,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 235291,
+        "num": 235291,
+        "word": "翘楚",
+        "onboard_time": 1780460181,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 212895,
+        "num": 212895,
+        "word": "纪检部门回应一公务员被曝脚踏两条船",
+        "onboard_time": 1780447402,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30517,
+        "num": 211298,
+        "word": "一驴友徒步从20米悬崖摔下",
+        "onboard_time": 1780462943,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 211232,
+        "num": 211232,
+        "word": "奚梦瑶何猷君儿女腿长",
+        "onboard_time": 1780463240,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130234,
+        "num": 210149,
+        "word": "美国把当年对日本话术套用给中国",
+        "onboard_time": 1780443740,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 127467,
+        "num": 209476,
+        "word": "文班亚马最爱2016年总决赛",
+        "onboard_time": 1780459280,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 154216,
+        "num": 208220,
+        "word": "11岁男童深山走失13天靠野果存活",
+        "onboard_time": 1780464141,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#文化兴国运兴#"
+    }
+  }
+}
