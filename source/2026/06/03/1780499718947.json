@@ -1,0 +1,410 @@
+{
+  "runTime": 1780499718947,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1053230,
+        "num": 1168516,
+        "word": "女子花2万查丈夫出轨揪出辅警内鬼",
+        "onboard_time": 1780479380,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 436017,
+        "num": 853187,
+        "word": "中国女排0比3捷克女排",
+        "onboard_time": 1780494562,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 102739,
+        "num": 746669,
+        "word": "2026高考安检新变化",
+        "onboard_time": 1780489100,
+        "rank": 2,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 726571,
+        "num": 726571,
+        "word": "馒头从空气炸锅留学回来了",
+        "onboard_time": 1780485200,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 585891,
+        "num": 585891,
+        "word": "男子11年前买29.7万元手机懊悔不已",
+        "onboard_time": 1780481660,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 425889,
+        "num": 425889,
+        "word": "张宸逍夸王鹤棣 吴泽林捂耳朵",
+        "onboard_time": 1780484181,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 368653,
+        "num": 368653,
+        "word": "美股",
+        "onboard_time": 1780498821,
+        "rank": 6,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 349970,
+        "num": 349970,
+        "word": "家业热度",
+        "onboard_time": 1780498402,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 341358,
+        "num": 341358,
+        "word": "宋师去世",
+        "onboard_time": 1780487720,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 328327,
+        "num": 328327,
+        "word": "萨巴伦卡无缘法网4强",
+        "onboard_time": 1780496301,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1944494,
+        "num": 327846,
+        "word": "迪丽热巴 我瘦下来很快",
+        "onboard_time": 1780493062,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1073499,
+        "num": 327032,
+        "word": "文旅局致歉王祖蓝吃粉争议",
+        "onboard_time": 1780493841,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 724145,
+        "num": 326422,
+        "word": "生理期结束的第一天",
+        "onboard_time": 1780480460,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 911725,
+        "num": 325345,
+        "word": "金高银表白周迅",
+        "onboard_time": 1780497502,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 771845,
+        "num": 324683,
+        "word": "奚梦瑶送粉丝发卡引争议",
+        "onboard_time": 1780487961,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 434302,
+        "num": 323554,
+        "word": "委内瑞拉女警聊天时突然向女子开枪",
+        "onboard_time": 1780490180,
+        "rank": 15,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1384913,
+        "num": 323055,
+        "word": "金鹤龙喊话迪丽热巴",
+        "onboard_time": 1780497082,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 332599,
+        "num": 322184,
+        "word": "主角大结局",
+        "onboard_time": 1780482260,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172290,
+        "num": 320890,
+        "word": "全球首棵龙眼味荔枝树",
+        "onboard_time": 1780495822,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 405173,
+        "num": 320598,
+        "word": "主角结局 刘红兵和孩子都死了",
+        "onboard_time": 1780485379,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1359477,
+        "num": 319624,
+        "word": "何猷君婚礼誓词没有贫穷",
+        "onboard_time": 1780483101,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 342640,
+        "num": 318315,
+        "word": "中国小姐姐卖麻糍分量太夸张",
+        "onboard_time": 1780484419,
+        "rank": 21,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 511948,
+        "num": 317962,
+        "word": "大家都叫奚梦瑶超模时的名字",
+        "onboard_time": 1780478000,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 336644,
+        "num": 316734,
+        "word": "刘红兵把孩子从医院偷带去游乐园",
+        "onboard_time": 1780498461,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 316311,
+        "num": 316311,
+        "word": "要学会把自己养得很好",
+        "onboard_time": 1780494141,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 288376,
+        "num": 288376,
+        "word": "日本开始售卖黑白包装零食",
+        "onboard_time": 1780481060,
+        "rank": 25,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 35359,
+        "num": 254860,
+        "word": "退休夫妻离婚互揭老底牵出近亿财产",
+        "onboard_time": 1780499362,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 250981,
+        "num": 250981,
+        "word": "主角 死神来了",
+        "onboard_time": 1780487060,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 250363,
+        "num": 250363,
+        "word": "Bin没击掌",
+        "onboard_time": 1780496661,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 21085,
+        "num": 248854,
+        "word": "日英意推销六代机",
+        "onboard_time": 1780484479,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 248212,
+        "num": 248212,
+        "word": "女儿没怀疑自己饭量怀疑妈妈没交钱",
+        "onboard_time": 1780478599,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 230355,
+        "num": 230355,
+        "word": "家业广告",
+        "onboard_time": 1780494202,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 218521,
+        "num": 218521,
+        "word": "中国男篮vs塞尔维亚FMP",
+        "onboard_time": 1780492881,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 213030,
+        "num": 213030,
+        "word": "商务业内眼里的白鹿",
+        "onboard_time": 1780493421,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206896,
+        "num": 206896,
+        "word": "翘楚",
+        "onboard_time": 1780491860,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190866,
+        "num": 190866,
+        "word": "一进入高温就会人品消失",
+        "onboard_time": 1780491621,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 194267,
+        "num": 189481,
+        "word": "窦骁主角下线陈都灵翘楚下线",
+        "onboard_time": 1780492881,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 10090,
+        "num": 183096,
+        "word": "俄方提出停战条件",
+        "onboard_time": 1780499481,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 180099,
+        "num": 180099,
+        "word": "爱豆来演戏 演员去唱歌",
+        "onboard_time": 1780478900,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174518,
+        "num": 174518,
+        "word": "封潇潇楚嘉禾分手",
+        "onboard_time": 1780498640,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 166965,
+        "num": 166965,
+        "word": "跟物理不好的人解释不清",
+        "onboard_time": 1780489401,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 152439,
+        "num": 152439,
+        "word": "20块的奶茶vs10块的牛奶",
+        "onboard_time": 1780492040,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 136575,
+        "num": 136575,
+        "word": "家业大结局he",
+        "onboard_time": 1780493362,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133568,
+        "num": 133568,
+        "word": "薛艳华年仅36岁",
+        "onboard_time": 1780493123,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131394,
+        "num": 131394,
+        "word": "说唱歌手上恋综了",
+        "onboard_time": 1780496781,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127700,
+        "num": 127700,
+        "word": "13岁的张元英",
+        "onboard_time": 1780474159,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126039,
+        "num": 126039,
+        "word": "萨巴伦卡失误",
+        "onboard_time": 1780493960,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125506,
+        "num": 125506,
+        "word": "易烊千玺这套可以直接进组了",
+        "onboard_time": 1780492640,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 125211,
+        "num": 125211,
+        "word": "杭州2个月抓蛇近900起创5年新高",
+        "onboard_time": 1780487779,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 84364,
+        "num": 125120,
+        "word": "何小鹏直播回应小鹏GX上市火爆",
+        "onboard_time": 1780488980,
+        "rank": 49,
+        "category": "汽车"
+      }
+    ],
+    "hotgov": {
+      "word": "#政绩观里的文化根脉#"
+    }
+  }
+}
