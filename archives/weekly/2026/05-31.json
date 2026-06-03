@@ -1,6 +1,6 @@
 {
   "startTime": 1780161470105,
-  "endTime": 1780445525529,
+  "endTime": 1780462246388,
   "band_list": [
     {
       "raw_hot": 6730138,
@@ -59,6 +59,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 3646788,
+      "num": 326402,
+      "word": "AI脸 生理性厌恶",
+      "onboard_time": 1780458981,
+      "rank": 20,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 3446704,
       "num": 339127,
       "word": "奚梦瑶婚礼",
@@ -89,6 +97,14 @@
       "onboard_time": 1780270156,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2615895,
+      "num": 339510,
+      "word": "看起来不体面的工作能有多挣钱",
+      "onboard_time": 1780456760,
+      "rank": 10,
+      "category": "情感"
     },
     {
       "raw_hot": 2545805,
@@ -127,6 +143,14 @@
       "num": 417168,
       "word": "李小冉秒删博",
       "onboard_time": 1780209560,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2322199,
+      "num": 334789,
+      "word": "陈学冬车祸后消失3年仍未痊愈",
+      "onboard_time": 1780449020,
       "rank": 11,
       "category": "艺人"
     },
@@ -363,6 +387,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1319332,
+      "num": 1319332,
+      "word": "玩山姆托举梗妈妈再道歉",
+      "onboard_time": 1780454480,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1314072,
       "num": 293260,
       "word": "晚晚疑似怀孕了",
@@ -385,6 +417,14 @@
       "onboard_time": 1780372041,
       "rank": 1,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 1263243,
+      "num": 327024,
+      "word": "迪丽热巴让张馨予先上车并安全报备",
+      "onboard_time": 1780458321,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 1254735,
@@ -483,6 +523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1122636,
+      "num": 326071,
+      "word": "豆包不会做馒头",
+      "onboard_time": 1780450220,
+      "rank": 21,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1113155,
       "num": 1113155,
       "word": "建议爬山不要买白色雨衣",
@@ -547,6 +595,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1027542,
+      "num": 615528,
+      "word": "穿洞洞鞋得了角化型脚气",
+      "onboard_time": 1780452620,
+      "rank": 3,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1026209,
       "num": 1026209,
       "word": "华为发布会",
@@ -561,6 +617,14 @@
       "onboard_time": 1780379600,
       "rank": 12,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 983429,
+      "num": 325264,
+      "word": "张馨予拍迪丽热巴",
+      "onboard_time": 1780457899,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 972587,
@@ -592,6 +656,14 @@
       "word": "谢霆锋王菲跨越25年的爱情",
       "onboard_time": 1780195880,
       "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 933672,
+      "num": 324717,
+      "word": "奚梦瑶结束婚礼后自己背个包就走了",
+      "onboard_time": 1780457060,
+      "rank": 25,
       "category": "艺人"
     },
     {
@@ -803,6 +875,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 780000,
+      "num": 332573,
+      "word": "国乒四大队长任职时世界冠军统计",
+      "onboard_time": 1780459940,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 778264,
       "num": 742793,
       "word": "孙怡忍了三天 发现自己真的很爱",
@@ -841,6 +921,14 @@
       "onboard_time": 1780273759,
       "rank": 4,
       "category": "演出"
+    },
+    {
+      "raw_hot": 765281,
+      "num": 324018,
+      "word": "贺峻霖公示期已过",
+      "onboard_time": 1780457239,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 764165,
@@ -1275,6 +1363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 557597,
+      "num": 896066,
+      "word": "歌手第四期淘汰三名歌手",
+      "onboard_time": 1780457423,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 547265,
       "num": 547265,
       "word": "CBA总决赛",
@@ -1403,6 +1499,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 491704,
+      "num": 491704,
+      "word": "莲花CEO称超过1.8吨就是菜车",
+      "onboard_time": 1780460540,
+      "rank": 4,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 488742,
       "num": 488742,
       "word": "关晓彤演技",
@@ -1497,6 +1601,14 @@
       "onboard_time": 1780373902,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 468191,
+      "num": 323383,
+      "word": "翘楚配角 我不是AI",
+      "onboard_time": 1780448900,
+      "rank": 29,
+      "category": "艺人,互联网"
     },
     {
       "raw_hot": 465388,
@@ -1659,12 +1771,44 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 441226,
+      "num": 441226,
+      "word": "公司烧不起token了",
+      "onboard_time": 1780460360,
+      "rank": 5,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 441079,
+      "num": 322620,
+      "word": "文彩元婚纱照",
+      "onboard_time": 1780461382,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 440013,
+      "num": 321898,
+      "word": "黄仁勋谈喝豆汁感受",
+      "onboard_time": 1780457481,
+      "rank": 34,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 438460,
       "num": 406480,
       "word": "池昌旭涉嫌逃税",
       "onboard_time": 1780384401,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 437050,
+      "num": 327642,
+      "word": "公积金提取范围新变化",
+      "onboard_time": 1780452858,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 432179,
@@ -1883,6 +2027,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 398122,
+      "num": 398122,
+      "word": "减脂期想吃什么要立刻去吃",
+      "onboard_time": 1780457481,
+      "rank": 6,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 397975,
       "num": 402136,
       "word": "13岁女儿跪求妈妈别离婚",
@@ -1963,6 +2115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 383971,
+      "num": 327260,
+      "word": "女子捡12斤大鱼吃掉后请失主吃火锅",
+      "onboard_time": 1780461321,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 383258,
       "num": 383258,
       "word": "马刺vs雷霆",
@@ -1995,6 +2155,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 382504,
+      "num": 325088,
+      "word": "公园老人搂抱女孩系祖孙正常互动",
+      "onboard_time": 1780451780,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 382051,
       "num": 382051,
       "word": "下周你好星期六快本味",
@@ -2009,6 +2177,14 @@
       "onboard_time": 1780284920,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 380461,
+      "num": 380461,
+      "word": "王楚钦是国乒71年来首个左手男单冠军",
+      "onboard_time": 1780455380,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 374526,
@@ -2171,6 +2347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 352465,
+      "num": 352465,
+      "word": "严浩翔谢帝上班就这样被挑衅",
+      "onboard_time": 1780459220,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 350966,
       "num": 350966,
       "word": "石蕊回应",
@@ -2201,6 +2385,14 @@
       "onboard_time": 1780277898,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 347702,
+      "num": 347702,
+      "word": "王莉霞被逮捕",
+      "onboard_time": 1780453698,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 346653,
@@ -2283,6 +2475,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 335999,
+      "num": 322427,
+      "word": "田曦薇749万票断层领先",
+      "onboard_time": 1780450998,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 335344,
       "num": 417308,
       "word": "哈尔滨巨星演唱会中断亲历者发声",
@@ -2363,6 +2563,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 321523,
+      "num": 321523,
+      "word": "何猷君说奚梦瑶今天是自己走出来的",
+      "onboard_time": 1780447100,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 321490,
+      "num": 321490,
+      "word": "丈夫暗藏1400万女子付不起7000医药费",
+      "onboard_time": 1780457601,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 320831,
       "num": 678772,
       "word": "丞磊许你星河千里官宣",
@@ -2384,6 +2600,14 @@
       "word": "迪丽热巴cos小蛋糕",
       "onboard_time": 1780285101,
       "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 319927,
+      "num": 319927,
+      "word": "何猷君晒妈妈在婚礼上的照片",
+      "onboard_time": 1780461081,
+      "rank": 42,
       "category": "艺人"
     },
     {
@@ -2424,6 +2648,14 @@
       "word": "灵魂摆渡一集才20分钟",
       "onboard_time": 1780402941,
       "rank": 9,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 312944,
+      "num": 328088,
+      "word": "灵魂摆渡 替身文学",
+      "onboard_time": 1780460900,
+      "rank": 14,
       "category": "剧集"
     },
     {
@@ -2723,6 +2955,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 286344,
+      "num": 286344,
+      "word": "纪检部门回应一公务员被曝脚踏两条船",
+      "onboard_time": 1780447402,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 286290,
       "num": 571886,
       "word": "文班晋级总决赛获少林师傅祝福",
@@ -2897,6 +3137,14 @@
       "onboard_time": 1780295840,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 262921,
+      "num": 323861,
+      "word": "男童被机器人踢中腹部痛苦倒地",
+      "onboard_time": 1780460540,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 262914,
@@ -3259,6 +3507,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 228812,
+      "num": 228812,
+      "word": "萨摩耶走秀时突然憋不住了",
+      "onboard_time": 1780449860,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 228456,
       "num": 601440,
       "word": "当一个班有10万人",
@@ -3273,6 +3529,14 @@
       "onboard_time": 1780218742,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 224506,
+      "num": 323015,
+      "word": "金饰克价已大降300元",
+      "onboard_time": 1780461501,
+      "rank": 31,
+      "category": "财经"
     },
     {
       "raw_hot": 223172,
@@ -3347,6 +3611,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 218042,
+      "num": 218042,
+      "word": "公司闹老鼠于是养了一只猫",
+      "onboard_time": 1780448181,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 217804,
       "num": 217804,
       "word": "多名艺人辞演后特朗普决定自己上台",
@@ -3361,6 +3633,14 @@
       "onboard_time": 1780196180,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 217602,
+      "num": 217602,
+      "word": "耳机是一个很私密的物件",
+      "onboard_time": 1780461025,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 217096,
@@ -3441,6 +3721,14 @@
       "onboard_time": 1780183877,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 211881,
+      "num": 211881,
+      "word": "刘宇宁热成毛不易了",
+      "onboard_time": 1780459280,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 211835,
@@ -3787,6 +4075,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 187668,
+      "num": 321497,
+      "word": "丁程鑫不敢想结婚",
+      "onboard_time": 1780462163,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 187562,
       "num": 187562,
       "word": "王洋洋 夏美",
@@ -3801,6 +4097,14 @@
       "onboard_time": 1780359562,
       "rank": 43,
       "category": "数码"
+    },
+    {
+      "raw_hot": 186080,
+      "num": 321514,
+      "word": "黄牛倒卖三甲专家号半年赚310万",
+      "onboard_time": 1780455680,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 183932,
@@ -3881,6 +4185,14 @@
       "onboard_time": 1780273157,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 180707,
+      "num": 215220,
+      "word": "樊振东已到杜塞尔多夫训练",
+      "onboard_time": 1780462163,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 180459,
@@ -4179,6 +4491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 153637,
+      "num": 325624,
+      "word": "丁程鑫你看看张凌赫在干嘛",
+      "onboard_time": 1780461982,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 153407,
       "num": 153407,
       "word": "长期不吃晚饭会变成什么样",
@@ -4305,6 +4625,14 @@
       "onboard_time": 1780214420,
       "rank": 28,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 147161,
+      "num": 321512,
+      "word": "李小冉疑似录制节目受伤",
+      "onboard_time": 1780461561,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 146865,
@@ -5371,6 +5699,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 58791,
+      "num": 326698,
+      "word": "开着沙发去旅行",
+      "onboard_time": 1780460661,
+      "rank": 19,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 57815,
       "num": 85698,
       "word": "乘风普通disco全民健身",
@@ -5539,6 +5875,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 44865,
+      "num": 323244,
+      "word": "张智霖新歌意外提前剧透",
+      "onboard_time": 1780459641,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 44661,
       "num": 535088,
       "word": "天猫与你一探真箱",
@@ -5569,6 +5913,14 @@
       "onboard_time": 1780297521,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 42484,
+      "num": 321656,
+      "word": "主角秦八娃 扫把星",
+      "onboard_time": 1780462102,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 41897,
@@ -5779,6 +6131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 32206,
+      "num": 321505,
+      "word": "马思纯说自己现在演不了黎吧啦",
+      "onboard_time": 1780461441,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 31839,
       "num": 133092,
       "word": "主角 现实主义",
@@ -5899,6 +6259,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 24910,
+      "num": 324578,
+      "word": "3岁孩子被过度保护只会说3个字",
+      "onboard_time": 1780461922,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 24354,
       "num": 261377,
       "word": "龙虎山被点名后摆渡车无需久等",
@@ -5936,6 +6304,14 @@
       "word": "男子举报出租车后遭咒骂女儿得癌症",
       "onboard_time": 1780327221,
       "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 23510,
+      "num": 692787,
+      "word": "稳住心态更要守住防线",
+      "onboard_time": 1780457961,
+      "rank": 2,
       "category": "民生新闻"
     },
     {
@@ -6268,6 +6644,9 @@
     },
     {
       "word": "#总书记寄望红色基因薪火相传#"
+    },
+    {
+      "word": "#文化兴国运兴#"
     }
   ]
 }

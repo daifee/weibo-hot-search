@@ -1,0 +1,410 @@
+{
+  "runTime": 1780462246388,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1319332,
+        "num": 1319332,
+        "word": "玩山姆托举梗妈妈再道歉",
+        "onboard_time": 1780454480,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 557597,
+        "num": 896066,
+        "word": "歌手第四期淘汰三名歌手",
+        "onboard_time": 1780457423,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23510,
+        "num": 692787,
+        "word": "稳住心态更要守住防线",
+        "onboard_time": 1780457961,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1027542,
+        "num": 615528,
+        "word": "穿洞洞鞋得了角化型脚气",
+        "onboard_time": 1780452620,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 491704,
+        "num": 491704,
+        "word": "莲花CEO称超过1.8吨就是菜车",
+        "onboard_time": 1780460540,
+        "rank": 4,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 441226,
+        "num": 441226,
+        "word": "公司烧不起token了",
+        "onboard_time": 1780460360,
+        "rank": 5,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 398122,
+        "num": 398122,
+        "word": "减脂期想吃什么要立刻去吃",
+        "onboard_time": 1780457481,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 380461,
+        "num": 380461,
+        "word": "王楚钦是国乒71年来首个左手男单冠军",
+        "onboard_time": 1780455380,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 352465,
+        "num": 352465,
+        "word": "严浩翔谢帝上班就这样被挑衅",
+        "onboard_time": 1780459220,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 347702,
+        "num": 347702,
+        "word": "王莉霞被逮捕",
+        "onboard_time": 1780453698,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 2615895,
+        "num": 339510,
+        "word": "看起来不体面的工作能有多挣钱",
+        "onboard_time": 1780456760,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 2322199,
+        "num": 334789,
+        "word": "陈学冬车祸后消失3年仍未痊愈",
+        "onboard_time": 1780449020,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 780000,
+        "num": 332573,
+        "word": "国乒四大队长任职时世界冠军统计",
+        "onboard_time": 1780459940,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 328319,
+        "num": 328319,
+        "word": "国内金价跌破980元每克",
+        "onboard_time": 1780444580,
+        "rank": 13,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 312944,
+        "num": 328088,
+        "word": "灵魂摆渡 替身文学",
+        "onboard_time": 1780460900,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 233154,
+        "num": 327978,
+        "word": "翘楚",
+        "onboard_time": 1780460181,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 437050,
+        "num": 327642,
+        "word": "公积金提取范围新变化",
+        "onboard_time": 1780452858,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 383971,
+        "num": 327260,
+        "word": "女子捡12斤大鱼吃掉后请失主吃火锅",
+        "onboard_time": 1780461321,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1263243,
+        "num": 327024,
+        "word": "迪丽热巴让张馨予先上车并安全报备",
+        "onboard_time": 1780458321,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 58791,
+        "num": 326698,
+        "word": "开着沙发去旅行",
+        "onboard_time": 1780460661,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 3646788,
+        "num": 326402,
+        "word": "AI脸 生理性厌恶",
+        "onboard_time": 1780458981,
+        "rank": 20,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1122636,
+        "num": 326071,
+        "word": "豆包不会做馒头",
+        "onboard_time": 1780450220,
+        "rank": 21,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 153637,
+        "num": 325624,
+        "word": "丁程鑫你看看张凌赫在干嘛",
+        "onboard_time": 1780461982,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 983429,
+        "num": 325264,
+        "word": "张馨予拍迪丽热巴",
+        "onboard_time": 1780457899,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 382504,
+        "num": 325088,
+        "word": "公园老人搂抱女孩系祖孙正常互动",
+        "onboard_time": 1780451780,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 933672,
+        "num": 324717,
+        "word": "奚梦瑶结束婚礼后自己背个包就走了",
+        "onboard_time": 1780457060,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24910,
+        "num": 324578,
+        "word": "3岁孩子被过度保护只会说3个字",
+        "onboard_time": 1780461922,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 765281,
+        "num": 324018,
+        "word": "贺峻霖公示期已过",
+        "onboard_time": 1780457239,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 262921,
+        "num": 323861,
+        "word": "男童被机器人踢中腹部痛苦倒地",
+        "onboard_time": 1780460540,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 468191,
+        "num": 323383,
+        "word": "翘楚配角 我不是AI",
+        "onboard_time": 1780448900,
+        "rank": 29,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 44865,
+        "num": 323244,
+        "word": "张智霖新歌意外提前剧透",
+        "onboard_time": 1780459641,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 224506,
+        "num": 323015,
+        "word": "金饰克价已大降300元",
+        "onboard_time": 1780461501,
+        "rank": 31,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 441079,
+        "num": 322620,
+        "word": "文彩元婚纱照",
+        "onboard_time": 1780461382,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 335999,
+        "num": 322427,
+        "word": "田曦薇749万票断层领先",
+        "onboard_time": 1780450998,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 440013,
+        "num": 321898,
+        "word": "黄仁勋谈喝豆汁感受",
+        "onboard_time": 1780457481,
+        "rank": 34,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 42484,
+        "num": 321656,
+        "word": "主角秦八娃 扫把星",
+        "onboard_time": 1780462102,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 321523,
+        "num": 321523,
+        "word": "何猷君说奚梦瑶今天是自己走出来的",
+        "onboard_time": 1780447100,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186080,
+        "num": 321514,
+        "word": "黄牛倒卖三甲专家号半年赚310万",
+        "onboard_time": 1780455680,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147161,
+        "num": 321512,
+        "word": "李小冉疑似录制节目受伤",
+        "onboard_time": 1780461561,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32206,
+        "num": 321505,
+        "word": "马思纯说自己现在演不了黎吧啦",
+        "onboard_time": 1780461441,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187668,
+        "num": 321497,
+        "word": "丁程鑫不敢想结婚",
+        "onboard_time": 1780462163,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 321490,
+        "num": 321490,
+        "word": "丈夫暗藏1400万女子付不起7000医药费",
+        "onboard_time": 1780457601,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 319927,
+        "num": 319927,
+        "word": "何猷君晒妈妈在婚礼上的照片",
+        "onboard_time": 1780461081,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 286344,
+        "num": 286344,
+        "word": "纪检部门回应一公务员被曝脚踏两条船",
+        "onboard_time": 1780447402,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 228812,
+        "num": 228812,
+        "word": "萨摩耶走秀时突然憋不住了",
+        "onboard_time": 1780449860,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 218042,
+        "num": 218042,
+        "word": "公司闹老鼠于是养了一只猫",
+        "onboard_time": 1780448181,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 217602,
+        "num": 217602,
+        "word": "耳机是一个很私密的物件",
+        "onboard_time": 1780461025,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 180707,
+        "num": 215220,
+        "word": "樊振东已到杜塞尔多夫训练",
+        "onboard_time": 1780462163,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 214430,
+        "num": 214430,
+        "word": "夏美 王洋洋",
+        "onboard_time": 1780447402,
+        "rank": 48,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 211881,
+        "num": 211881,
+        "word": "刘宇宁热成毛不易了",
+        "onboard_time": 1780459280,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#文化兴国运兴#"
+    }
+  }
+}

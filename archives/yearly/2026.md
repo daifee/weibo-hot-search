@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/06/03 08:12:05
+本榜单时间：2026/01/01 00:35:36 ~ 2026/06/03 12:50:46
 </p>
 </blockquote>
 <p>
@@ -1455,6 +1455,12 @@ JYP从JYP辞职了（热度：4682490）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23AI%E8%84%B8%20%E7%94%9F%E7%90%86%E6%80%A7%E5%8E%8C%E6%81%B6%23" target="weibo">
+AI脸 生理性厌恶（热度：3646788）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%80%90%E7%8E%89%E7%88%B1%E5%A5%87%E8%89%BA%E7%A0%B4%E4%B8%87%23" target="weibo">
 逐玉爱奇艺破万（热度：3639088）
 </a>
@@ -1805,12 +1811,6 @@ WB冠军（热度：3566119）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E6%9D%A8%E5%BD%93%E4%BC%97%E8%AE%A9%E5%BC%A0%E8%B1%86%E8%B1%86%E7%BB%99%E4%BB%96%E9%81%93%E6%AD%89%23" target="weibo">
 孙杨当众让张豆豆给他道歉（热度：3186719）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%BD%90%E6%80%9D%E9%92%A7%E5%9B%9E%E5%BA%94%E5%88%86%E6%89%8B%23" target="weibo">
-齐思钧回应分手（热度：3175580）
 </a>
 </li>
 
