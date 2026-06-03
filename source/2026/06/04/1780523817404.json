@@ -1,0 +1,410 @@
+{
+  "runTime": 1780523817404,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 82107,
+        "num": 246748,
+        "word": "女子花2万查丈夫出轨揪出辅警内鬼",
+        "onboard_time": 1780479380,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 78937,
+        "num": 177863,
+        "word": "馒头从空气炸锅留学回来了",
+        "onboard_time": 1780485200,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 6572,
+        "num": 146589,
+        "word": "一组数据看我国物流越跑越稳",
+        "onboard_time": 1780488140,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 71471,
+        "num": 71471,
+        "word": "油泼面这段赵本山不让张艺谋删",
+        "onboard_time": 1780503438,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 64716,
+        "num": 64716,
+        "word": "刘浩存演技",
+        "onboard_time": 1780502299,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 60030,
+        "num": 60030,
+        "word": "一进入高温就会人品消失",
+        "onboard_time": 1780491621,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 52922,
+        "num": 52922,
+        "word": "退休夫妻离婚互揭老底牵出近亿财产",
+        "onboard_time": 1780499362,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 46313,
+        "num": 46313,
+        "word": "俄方提出停战条件",
+        "onboard_time": 1780499481,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 64500,
+        "num": 45814,
+        "word": "都大结局了翟子路还在遗憾",
+        "onboard_time": 1780501823,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 36953,
+        "num": 36953,
+        "word": "薛艳华年仅36岁",
+        "onboard_time": 1780493123,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 182093,
+        "num": 36895,
+        "word": "国企干部公职人员离婚分割近亿财产",
+        "onboard_time": 1780500381,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 64964,
+        "num": 36739,
+        "word": "日本停留现金社会的唯一好处",
+        "onboard_time": 1780506017,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 59656,
+        "num": 36636,
+        "word": "张宸逍夸王鹤棣 吴泽林捂耳朵",
+        "onboard_time": 1780484181,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 27789,
+        "num": 36547,
+        "word": "主角大结局",
+        "onboard_time": 1780482260,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 50752,
+        "num": 36418,
+        "word": "要分清执念和执念的区别",
+        "onboard_time": 1780506077,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 41214,
+        "num": 36398,
+        "word": "委内瑞拉女警聊天时突然向女子开枪",
+        "onboard_time": 1780490180,
+        "rank": 15,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 36305,
+        "num": 36305,
+        "word": "主角结局 刘红兵和孩子都死了",
+        "onboard_time": 1780485379,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 34902,
+        "num": 34902,
+        "word": "生理期结束的第一天",
+        "onboard_time": 1780480460,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 29273,
+        "num": 29273,
+        "word": "日本开始售卖黑白包装零食",
+        "onboard_time": 1780481060,
+        "rank": 18,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 29082,
+        "num": 29082,
+        "word": "丁程鑫爆料宋亚轩不爱回消息",
+        "onboard_time": 1780502599,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 56657,
+        "num": 28962,
+        "word": "小猫每天都在宝宝的被窝里",
+        "onboard_time": 1780506017,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 29820,
+        "num": 28794,
+        "word": "要学会把自己养得很好",
+        "onboard_time": 1780494141,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 28584,
+        "num": 28584,
+        "word": "最信豆包的人出现了",
+        "onboard_time": 1780506017,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 27799,
+        "num": 27799,
+        "word": "家业热度",
+        "onboard_time": 1780498402,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 28525,
+        "num": 27789,
+        "word": "男子11年前买29.7万元手机懊悔不已",
+        "onboard_time": 1780481660,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27729,
+        "num": 27729,
+        "word": "王菲不打低端局",
+        "onboard_time": 1780499900,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 26052,
+        "num": 26052,
+        "word": "翘楚",
+        "onboard_time": 1780491860,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 25541,
+        "num": 25541,
+        "word": "中国小姐姐卖麻糍分量太夸张",
+        "onboard_time": 1780484419,
+        "rank": 27,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 25065,
+        "num": 25065,
+        "word": "20块的奶茶vs10块的牛奶",
+        "onboard_time": 1780492040,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 22673,
+        "num": 24651,
+        "word": "杭州2个月抓蛇近900起创5年新高",
+        "onboard_time": 1780487779,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29215,
+        "num": 24617,
+        "word": "行政楼盖章老师的各种态度",
+        "onboard_time": 1780506017,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 24470,
+        "num": 24470,
+        "word": "家业大结局",
+        "onboard_time": 1780486700,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 23873,
+        "num": 23873,
+        "word": "把京东洗衣当旅行外挂的是天才",
+        "onboard_time": 1780490599,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 23362,
+        "num": 23873,
+        "word": "宋师去世",
+        "onboard_time": 1780487720,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 21841,
+        "num": 23871,
+        "word": "上海野生动物园回应老虎吃草",
+        "onboard_time": 1780500740,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20778,
+        "num": 23871,
+        "word": "不爱出门的人belike",
+        "onboard_time": 1780509915,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 20459,
+        "num": 23870,
+        "word": "忆秦娥在刘红兵掌心蹭眼泪",
+        "onboard_time": 1780499900,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20233,
+        "num": 23867,
+        "word": "家业广告",
+        "onboard_time": 1780494202,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 18973,
+        "num": 23867,
+        "word": "跟物理不好的人解释不清",
+        "onboard_time": 1780489401,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 18311,
+        "num": 23865,
+        "word": "中国女排0比3捷克女排",
+        "onboard_time": 1780494562,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 17099,
+        "num": 23864,
+        "word": "凯文加内特公开批评维克托文班亚马",
+        "onboard_time": 1780484181,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 16990,
+        "num": 23863,
+        "word": "女儿没怀疑自己饭量怀疑妈妈没交钱",
+        "onboard_time": 1780478599,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 15851,
+        "num": 23863,
+        "word": "说唱歌手上恋综了",
+        "onboard_time": 1780496781,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 15740,
+        "num": 23860,
+        "word": "赫瓦林斯卡晋级法网4强",
+        "onboard_time": 1780506137,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 15138,
+        "num": 23860,
+        "word": "萨巴伦卡无缘法网4强",
+        "onboard_time": 1780496301,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 14572,
+        "num": 23858,
+        "word": "Bin没击掌",
+        "onboard_time": 1780496661,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 14087,
+        "num": 23857,
+        "word": "2026世界女排联赛",
+        "onboard_time": 1780508895,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 13645,
+        "num": 23856,
+        "word": "钎城民族风耳饰",
+        "onboard_time": 1780512075,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 11814,
+        "num": 23856,
+        "word": "主角 苦难文学",
+        "onboard_time": 1780487720,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 11810,
+        "num": 23854,
+        "word": "家业大结局he",
+        "onboard_time": 1780493362,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记引领贸易强国建设#"
+    }
+  }
+}

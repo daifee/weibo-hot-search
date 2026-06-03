@@ -1,6 +1,6 @@
 {
   "startTime": 1780512777133,
-  "endTime": 1780513659240,
+  "endTime": 1780523817404,
   "band_list": [
     {
       "raw_hot": 297205,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 120152,
-      "num": 122690,
+      "num": 246748,
       "word": "女子花2万查丈夫出轨揪出辅警内鬼",
       "onboard_time": 1780479380,
       "rank": 1,
@@ -67,8 +67,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 78767,
-      "num": 78767,
+      "raw_hot": 78937,
+      "num": 177863,
       "word": "馒头从空气炸锅留学回来了",
       "onboard_time": 1780485200,
       "rank": 6,
@@ -147,11 +147,27 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 52922,
+      "num": 59521,
+      "word": "退休夫妻离婚互揭老底牵出近亿财产",
+      "onboard_time": 1780499362,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 52621,
       "num": 78606,
       "word": "20块的奶茶vs10块的牛奶",
       "onboard_time": 1780492040,
       "rank": 8,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 50752,
+      "num": 46439,
+      "word": "要分清执念和执念的区别",
+      "onboard_time": 1780506077,
+      "rank": 24,
       "category": "情感"
     },
     {
@@ -179,14 +195,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 46439,
-      "num": 46439,
-      "word": "要分清执念和执念的区别",
-      "onboard_time": 1780506077,
-      "rank": 24,
-      "category": "情感"
-    },
-    {
       "raw_hot": 45727,
       "num": 45727,
       "word": "最信豆包的人出现了",
@@ -195,12 +203,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 38058,
-      "num": 59521,
-      "word": "退休夫妻离婚互揭老底牵出近亿财产",
-      "onboard_time": 1780499362,
-      "rank": 19,
-      "category": "民生新闻"
+      "raw_hot": 41214,
+      "num": 36398,
+      "word": "委内瑞拉女警聊天时突然向女子开枪",
+      "onboard_time": 1780490180,
+      "rank": 42,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 37728,
@@ -225,6 +233,14 @@
       "onboard_time": 1780494562,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 36953,
+      "num": 36953,
+      "word": "薛艳华年仅36岁",
+      "onboard_time": 1780493123,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 36493,
@@ -265,14 +281,6 @@
       "onboard_time": 1780487720,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 31384,
-      "num": 31384,
-      "word": "薛艳华年仅36岁",
-      "onboard_time": 1780493123,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 31311,
@@ -347,14 +355,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 26402,
-      "num": 26402,
-      "word": "委内瑞拉女警聊天时突然向女子开枪",
-      "onboard_time": 1780490180,
-      "rank": 42,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 25839,
       "num": 26401,
       "word": "2026世界女排联赛",
@@ -363,15 +363,23 @@
       "category": "体育"
     },
     {
-      "raw_hot": 21911,
+      "raw_hot": 24470,
       "num": 26401,
-      "word": "萨巴伦卡失误",
-      "onboard_time": 1780493960,
-      "rank": 44,
-      "category": "体育"
+      "word": "家业大结局",
+      "onboard_time": 1780486700,
+      "rank": 47,
+      "category": "剧集"
     },
     {
-      "raw_hot": 21804,
+      "raw_hot": 23873,
+      "num": 23873,
+      "word": "把京东洗衣当旅行外挂的是天才",
+      "onboard_time": 1780490599,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 22673,
       "num": 26401,
       "word": "杭州2个月抓蛇近900起创5年新高",
       "onboard_time": 1780487779,
@@ -379,12 +387,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 20354,
+      "raw_hot": 21911,
       "num": 26401,
-      "word": "家业大结局",
-      "onboard_time": 1780486700,
-      "rank": 47,
-      "category": "剧集"
+      "word": "萨巴伦卡失误",
+      "onboard_time": 1780493960,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 20262,
@@ -411,8 +419,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 17099,
+      "num": 23864,
+      "word": "凯文加内特公开批评维克托文班亚马",
+      "onboard_time": 1780484181,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 9379,
-      "num": 96413,
+      "num": 146589,
       "word": "一组数据看我国物流越跑越稳",
       "onboard_time": 1780488140,
       "rank": 2,
@@ -422,6 +438,9 @@
   "hotgov_list": [
     {
       "word": "#政绩观里的文化根脉#"
+    },
+    {
+      "word": "#总书记引领贸易强国建设#"
     }
   ]
 }
