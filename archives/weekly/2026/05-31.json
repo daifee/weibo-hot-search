@@ -1,6 +1,6 @@
 {
   "startTime": 1780161470105,
-  "endTime": 1780499718947,
+  "endTime": 1780512777133,
   "band_list": [
     {
       "raw_hot": 6730138,
@@ -3099,6 +3099,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 297205,
+      "num": 96409,
+      "word": "刘浩存演技",
+      "onboard_time": 1780502299,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 297190,
       "num": 604889,
       "word": "icon",
@@ -3963,6 +3971,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 226878,
+      "num": 94794,
+      "word": "油泼面这段赵本山不让张艺谋删",
+      "onboard_time": 1780503438,
+      "rank": 4,
+      "category": "电影"
+    },
+    {
       "raw_hot": 225818,
       "num": 278043,
       "word": "9个月宝宝生嚼蟑螂妈妈只抠出条腿",
@@ -4137,6 +4153,14 @@
       "onboard_time": 1780213280,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 214623,
+      "num": 214623,
+      "word": "国企干部公职人员离婚分割近亿财产",
+      "onboard_time": 1780500381,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 213905,
@@ -5891,6 +5915,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 103121,
+      "num": 78438,
+      "word": "日本停留现金社会的唯一好处",
+      "onboard_time": 1780506017,
+      "rank": 10,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 101865,
       "num": 121377,
       "word": "中际旭创总市值破1.2万亿元",
@@ -6227,6 +6259,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 79673,
+      "num": 78224,
+      "word": "丁程鑫爆料宋亚轩不爱回消息",
+      "onboard_time": 1780502599,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 79534,
       "num": 79534,
       "word": "哈弗茨真是大场面先生",
@@ -6259,6 +6299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 78136,
+      "num": 78136,
+      "word": "王菲不打低端局",
+      "onboard_time": 1780499900,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 78066,
       "num": 78066,
       "word": "台湾网红馆长撞脸三星堆文物",
@@ -6289,6 +6337,14 @@
       "onboard_time": 1780142300,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 75945,
+      "num": 74359,
+      "word": "都大结局了翟子路还在遗憾",
+      "onboard_time": 1780501823,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 74447,
@@ -6344,6 +6400,14 @@
       "word": "耀眼",
       "onboard_time": 1780143501,
       "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 69216,
+      "num": 78672,
+      "word": "忆秦娥在刘红兵掌心蹭眼泪",
+      "onboard_time": 1780499900,
+      "rank": 7,
       "category": "剧集"
     },
     {
@@ -6481,6 +6545,14 @@
       "onboard_time": 1780148121,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 62285,
+      "num": 59517,
+      "word": "小猫每天都在宝宝的被窝里",
+      "onboard_time": 1780506017,
+      "rank": 20,
+      "category": "幽默"
     },
     {
       "raw_hot": 62084,
@@ -6659,6 +6731,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 47582,
+      "num": 183096,
+      "word": "俄方提出停战条件",
+      "onboard_time": 1780499481,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 46439,
+      "num": 46439,
+      "word": "要分清执念和执念的区别",
+      "onboard_time": 1780506077,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 46117,
       "num": 223253,
       "word": "汪苏泷一直指我是什么意思",
@@ -6673,6 +6761,14 @@
       "onboard_time": 1780412122,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 45727,
+      "num": 45727,
+      "word": "最信豆包的人出现了",
+      "onboard_time": 1780506017,
+      "rank": 25,
+      "category": "幽默"
     },
     {
       "raw_hot": 45256,
@@ -6827,6 +6923,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 38058,
+      "num": 254860,
+      "word": "退休夫妻离婚互揭老底牵出近亿财产",
+      "onboard_time": 1780499362,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 37874,
       "num": 97399,
       "word": "蔡徐坤马来西亚音乐节压轴",
@@ -6859,6 +6963,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 36493,
+      "num": 34640,
+      "word": "行政楼盖章老师的各种态度",
+      "onboard_time": 1780506017,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 36037,
       "num": 381839,
       "word": "老人担保贷款110万去世家属才知情",
@@ -6881,14 +6993,6 @@
       "onboard_time": 1780414701,
       "rank": 40,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 35359,
-      "num": 254860,
-      "word": "退休夫妻离婚互揭老底牵出近亿财产",
-      "onboard_time": 1780499362,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 35052,
@@ -7035,6 +7139,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 30765,
+      "num": 30765,
+      "word": "上海野生动物园回应老虎吃草",
+      "onboard_time": 1780500740,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 30517,
       "num": 211298,
       "word": "一驴友徒步从20米悬崖摔下",
@@ -7115,6 +7227,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 26470,
+      "num": 26470,
+      "word": "不爱出门的人belike",
+      "onboard_time": 1780509915,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 26196,
       "num": 263750,
       "word": "杭州13岁小孩哥AI识毒果断报警",
@@ -7145,6 +7265,14 @@
       "onboard_time": 1780374081,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 24339,
+      "num": 26402,
+      "word": "钎城民族风耳饰",
+      "onboard_time": 1780512075,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 24338,
@@ -7259,6 +7387,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 21543,
+      "num": 26401,
+      "word": "2026世界女排联赛",
+      "onboard_time": 1780508895,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 21510,
       "num": 27036,
       "word": "万花世界预约",
@@ -7337,6 +7473,14 @@
       "onboard_time": 1780373902,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 18592,
+      "num": 26400,
+      "word": "AI工具清单",
+      "onboard_time": 1780512615,
+      "rank": 49,
+      "category": "互联网"
     },
     {
       "raw_hot": 18402,
@@ -7475,12 +7619,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 10090,
-      "num": 183096,
-      "word": "俄方提出停战条件",
-      "onboard_time": 1780499481,
-      "rank": 37,
-      "category": "国际时政"
+      "raw_hot": 8750,
+      "num": 96413,
+      "word": "一组数据看我国物流越跑越稳",
+      "onboard_time": 1780488140,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 4533,
