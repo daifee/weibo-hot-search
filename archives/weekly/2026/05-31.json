@@ -1,6 +1,6 @@
 {
   "startTime": 1780161470105,
-  "endTime": 1780590317637,
+  "endTime": 1780598158370,
   "band_list": [
     {
       "raw_hot": 6730138,
@@ -6931,6 +6931,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 126284,
+      "num": 109962,
+      "word": "当我用拼豆拼了一整套麻将",
+      "onboard_time": 1780591157,
+      "rank": 3,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 125833,
       "num": 145934,
       "word": "华为MatePadProMax电脑级体验",
@@ -7603,6 +7611,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 90573,
+      "num": 71151,
+      "word": "好怕现实中也有人长AI这样",
+      "onboard_time": 1780592418,
+      "rank": 13,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 89671,
       "num": 278246,
       "word": "也就老虎换小猫早挠你了",
@@ -7843,6 +7859,14 @@
       "category": "互联网,汽车"
     },
     {
+      "raw_hot": 77738,
+      "num": 77738,
+      "word": "用热成像偷拍小猫上厕所",
+      "onboard_time": 1780592836,
+      "rank": 7,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 77599,
       "num": 230001,
       "word": "6月金股",
@@ -7952,6 +7976,14 @@
       "word": "上海野生动物园回应老虎吃草",
       "onboard_time": 1780500740,
       "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 71845,
+      "num": 71145,
+      "word": "第7号台风要来了",
+      "onboard_time": 1780592418,
+      "rank": 15,
       "category": "民生新闻"
     },
     {
@@ -8363,6 +8395,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 45950,
+      "num": 71118,
+      "word": "连扫把都受不了广东的天气了",
+      "onboard_time": 1780593735,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 45256,
       "num": 105278,
       "word": "BIGBANG二十周年第一个纪念舞台",
@@ -8475,6 +8515,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 39552,
+      "num": 71104,
+      "word": "黄灿灿直播说她四公只有团秀一个舞台",
+      "onboard_time": 1780592418,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 39392,
       "num": 142884,
       "word": "敖瑞鹏宣传灵魂摆渡十年",
@@ -8553,6 +8601,14 @@
       "onboard_time": 1780232841,
       "rank": 31,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 37409,
+      "num": 71097,
+      "word": "小孩姐用碘伏吹风机演示指纹可视化",
+      "onboard_time": 1780566800,
+      "rank": 29,
+      "category": "科学科普"
     },
     {
       "raw_hot": 36544,
@@ -8667,6 +8723,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 32489,
+      "num": 71087,
+      "word": "最爱的漫画家住我楼上",
+      "onboard_time": 1780597094,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 32338,
       "num": 142288,
       "word": "刘红兵是我爸的人生复刻版",
@@ -8779,6 +8843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 30029,
+      "num": 71068,
+      "word": "塞尔维亚FMP绝杀中国男篮",
+      "onboard_time": 1780582582,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 29559,
       "num": 539855,
       "word": "多方回应索菲亚教堂棚顶疑被掀飞",
@@ -8803,12 +8875,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 28744,
+      "num": 71063,
+      "word": "男子被姐夫训斥起杀心儿子夺刀制止",
+      "onboard_time": 1780580001,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 28508,
       "num": 66332,
       "word": "傅菁直播太敢说了",
       "onboard_time": 1780268836,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 28396,
+      "num": 71060,
+      "word": "豉汁蒸肉片",
+      "onboard_time": 1780597575,
+      "rank": 40,
+      "category": "美食"
     },
     {
       "raw_hot": 28055,
@@ -8833,6 +8921,30 @@
       "onboard_time": 1780192158,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 27413,
+      "num": 71050,
+      "word": "2026F1摩纳哥大奖赛",
+      "onboard_time": 1780594994,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 27271,
+      "num": 71046,
+      "word": "开推4刘宇宁最冤枉的一次",
+      "onboard_time": 1780592418,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 27136,
+      "num": 71043,
+      "word": "安德列娃进法网决赛",
+      "onboard_time": 1780594096,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 26840,
@@ -8889,6 +9001,14 @@
       "onboard_time": 1780530558,
       "rank": 47,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 25080,
+      "num": 71034,
+      "word": "每夜憋醒三四次男子不敢睡觉怕猝死",
+      "onboard_time": 1780585281,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 24496,
@@ -9049,6 +9169,14 @@
       "onboard_time": 1780232841,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 21083,
+      "num": 71032,
+      "word": "安德列娃vs科斯秋克",
+      "onboard_time": 1780583241,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 20650,
