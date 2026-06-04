@@ -1,0 +1,411 @@
+{
+  "startTime": 1780590317637,
+  "endTime": 1780590317637,
+  "band_list": [
+    {
+      "raw_hot": 1310955,
+      "num": 172108,
+      "word": "何猷君伴郎之一是雅诗兰黛继承人",
+      "onboard_time": 1780568840,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1063945,
+      "num": 170341,
+      "word": "iPhone改日期 空出20G",
+      "onboard_time": 1780571300,
+      "rank": 20,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 942215,
+      "num": 171962,
+      "word": "奚梦瑶伴娘阵容",
+      "onboard_time": 1780580542,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 847650,
+      "num": 171505,
+      "word": "金秀贤与未成年金赛纶交往系不实消息",
+      "onboard_time": 1780576400,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 788663,
+      "num": 170181,
+      "word": "李晨 被误会的心形石头",
+      "onboard_time": 1780576639,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 770212,
+      "num": 171293,
+      "word": "宋祖儿路透长得像p了半小时的",
+      "onboard_time": 1780569439,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 738926,
+      "num": 171062,
+      "word": "刘亦菲又自己乱剪头发了",
+      "onboard_time": 1780563200,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 539520,
+      "num": 896323,
+      "word": "原价899的耐克降至429消费者仍不买账",
+      "onboard_time": 1780566680,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 395514,
+      "num": 395514,
+      "word": "Bin被罚15万",
+      "onboard_time": 1780579100,
+      "rank": 3,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 385313,
+      "num": 170610,
+      "word": "张凌赫粉丝补偿到账",
+      "onboard_time": 1780588280,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 382455,
+      "num": 382455,
+      "word": "江语晨来浪姐胖了12斤",
+      "onboard_time": 1780580120,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 364702,
+      "num": 169953,
+      "word": "奚梦瑶何猷君婚礼上摆蒜苔",
+      "onboard_time": 1780572080,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 345927,
+      "num": 345927,
+      "word": "窦靖童妹妹头",
+      "onboard_time": 1780588818,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 340531,
+      "num": 171646,
+      "word": "耐克正在被消费者抛弃",
+      "onboard_time": 1780587320,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 337522,
+      "num": 169722,
+      "word": "原来燃气灶一直用错了",
+      "onboard_time": 1780577180,
+      "rank": 23,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 315357,
+      "num": 171138,
+      "word": "曝Bin对自己行为非常后悔",
+      "onboard_time": 1780584621,
+      "rank": 15,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 297413,
+      "num": 169598,
+      "word": "刘亦菲一点法令纹没有",
+      "onboard_time": 1780578800,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 283909,
+      "num": 124922,
+      "word": "钟辰乐道歉了",
+      "onboard_time": 1780582341,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 281580,
+      "num": 281580,
+      "word": "原来面条坨了也有邪修",
+      "onboard_time": 1780573340,
+      "rank": 6,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 268983,
+      "num": 124616,
+      "word": "章子怡张艺谋 犟种闺女苦命爹",
+      "onboard_time": 1780580241,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 262888,
+      "num": 124078,
+      "word": "张元英对工作人员态度被审判",
+      "onboard_time": 1780572680,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 253448,
+      "num": 644132,
+      "word": "国企回应保安只让员工孩子进门躲雨",
+      "onboard_time": 1780583301,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 248095,
+      "num": 170522,
+      "word": "男子AI写歌月收入十几万",
+      "onboard_time": 1780566561,
+      "rank": 19,
+      "category": "民生新闻,音乐"
+    },
+    {
+      "raw_hot": 242256,
+      "num": 242256,
+      "word": "灵魂摆渡",
+      "onboard_time": 1780586000,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 238671,
+      "num": 123498,
+      "word": "黄多多为家人做饭",
+      "onboard_time": 1780575320,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 214180,
+      "num": 169336,
+      "word": "白鹿何与或演开到荼靡",
+      "onboard_time": 1780578500,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 210717,
+      "num": 122962,
+      "word": "田曦薇Gucci镜头",
+      "onboard_time": 1780569439,
+      "rank": 36,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 208391,
+      "num": 122503,
+      "word": "杨颖要求黑粉公开赔礼道歉",
+      "onboard_time": 1780550359,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 192264,
+      "num": 192264,
+      "word": "小米寻天汽车最新谍照曝光",
+      "onboard_time": 1780580001,
+      "rank": 8,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 188961,
+      "num": 121231,
+      "word": "黄灿灿唐艺昕 雪人",
+      "onboard_time": 1780574120,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 178742,
+      "num": 169111,
+      "word": "北京体育大学 恭迎龙王回归",
+      "onboard_time": 1780577840,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 174604,
+      "num": 124192,
+      "word": "大东码头14岁女孩落水已证实遇难",
+      "onboard_time": 1780588339,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 172163,
+      "num": 172163,
+      "word": "LPL发布BLG和Bin的处罚公告",
+      "onboard_time": 1780579100,
+      "rank": 9,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 168932,
+      "num": 168932,
+      "word": "胖东来将安装2000万元室外音响",
+      "onboard_time": 1780574839,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 154029,
+      "num": 119402,
+      "word": "林允瘦到打不动网球",
+      "onboard_time": 1780572199,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 144667,
+      "num": 123305,
+      "word": "上海泳渡赛隐私照遭泄露警方已立案",
+      "onboard_time": 1780579282,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 125028,
+      "num": 125028,
+      "word": "日本扬言以综合国力应对中国军力",
+      "onboard_time": 1780584560,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 124584,
+      "num": 115441,
+      "word": "歌手",
+      "onboard_time": 1780580781,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 122502,
+      "num": 122502,
+      "word": "我没有刚工作时那么善良了",
+      "onboard_time": 1780569740,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 115772,
+      "num": 115772,
+      "word": "中国女排3比2泰国女排",
+      "onboard_time": 1780583661,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 114634,
+      "num": 114634,
+      "word": "法网",
+      "onboard_time": 1780580241,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 114420,
+      "num": 170737,
+      "word": "科威特国际机场遭袭瞬间曝光",
+      "onboard_time": 1780580601,
+      "rank": 17,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 105902,
+      "num": 105902,
+      "word": "浪姐",
+      "onboard_time": 1780578440,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 103651,
+      "num": 103651,
+      "word": "安德列娃首进大满贯决赛",
+      "onboard_time": 1780586780,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 103337,
+      "num": 103337,
+      "word": "神仙肉 侯明昊",
+      "onboard_time": 1780569560,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 102126,
+      "num": 102126,
+      "word": "交警回应摩托车狂飙与高铁并驾齐驱",
+      "onboard_time": 1780588399,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 100660,
+      "num": 100660,
+      "word": "今天才知道潮汕不是一座城市",
+      "onboard_time": 1780576459,
+      "rank": 49,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 86507,
+      "num": 169112,
+      "word": "谷歌计划投放3200万只蚊子",
+      "onboard_time": 1780569320,
+      "rank": 26,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 63365,
+      "num": 102681,
+      "word": "金饰价格每克降约两成",
+      "onboard_time": 1780578621,
+      "rank": 47,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 17199,
+      "num": 532401,
+      "word": "中国种地技能又有新突破",
+      "onboard_time": 1780577300,
+      "rank": 2,
+      "category": "民生新闻"
+    }
+  ],
+  "hotgov_list": [
+    {
+      "word": "#一张泛黄发票的故事#"
+    }
+  ]
+}
