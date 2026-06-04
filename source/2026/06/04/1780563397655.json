@@ -1,0 +1,410 @@
+{
+  "runTime": 1780563397655,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 572335,
+        "num": 1091573,
+        "word": "翘楚男演员 分不清",
+        "onboard_time": 1780549939,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 271623,
+        "num": 783175,
+        "word": "泡泡玛特告奈雪的茶获赔32万",
+        "onboard_time": 1780554260,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 12633,
+        "num": 614801,
+        "word": "美丽中国行",
+        "onboard_time": 1780540820,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1295004,
+        "num": 582868,
+        "word": "不要穿灰色裤子去健身房",
+        "onboard_time": 1780555881,
+        "rank": 3,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 1133175,
+        "num": 578089,
+        "word": "吃外卖4年的最好证明",
+        "onboard_time": 1780560200,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 527103,
+        "num": 527103,
+        "word": "现在回小卖部简直是降维打击",
+        "onboard_time": 1780555340,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 430996,
+        "num": 430996,
+        "word": "时代峰峻 电影咖",
+        "onboard_time": 1780560619,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 395926,
+        "num": 395926,
+        "word": "是要吊销我的奶瓶吗",
+        "onboard_time": 1780559961,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 245414,
+        "num": 394872,
+        "word": "2030年AI耗水量够13亿人用一年",
+        "onboard_time": 1780559780,
+        "rank": 8,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 62183,
+        "num": 391871,
+        "word": "NBA总决赛球迷冲场",
+        "onboard_time": 1780545680,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1903146,
+        "num": 389460,
+        "word": "刘亦菲北电同学聚会照",
+        "onboard_time": 1780559720,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 837993,
+        "num": 387469,
+        "word": "疑似女子当街踩踏他人头部",
+        "onboard_time": 1780562420,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 571718,
+        "num": 384980,
+        "word": "杭州四季青半裸男团表演引争议",
+        "onboard_time": 1780559181,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 424852,
+        "num": 380691,
+        "word": "李荣浩亲吻杨丞琳播放量2亿",
+        "onboard_time": 1780556299,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 265614,
+        "num": 378146,
+        "word": "平均睡眠7小时却3年出现2次脑梗",
+        "onboard_time": 1780539798,
+        "rank": 14,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 242130,
+        "num": 376087,
+        "word": "空调28度会比26度省电吗",
+        "onboard_time": 1780549759,
+        "rank": 15,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 188542,
+        "num": 373379,
+        "word": "美股芯片巨头暴跌",
+        "onboard_time": 1780556779,
+        "rank": 16,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 188185,
+        "num": 372984,
+        "word": "全球央行扫货黄金",
+        "onboard_time": 1780550420,
+        "rank": 17,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 370458,
+        "num": 370458,
+        "word": "睫毛没把自己当异物",
+        "onboard_time": 1780556420,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 65098,
+        "num": 366658,
+        "word": "女子花8.3万买5部手机店员报警",
+        "onboard_time": 1780562480,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 938292,
+        "num": 365456,
+        "word": "杨颖要求黑粉公开赔礼道歉",
+        "onboard_time": 1780550359,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 549210,
+        "num": 357725,
+        "word": "小英都变张元英了",
+        "onboard_time": 1780548920,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 419778,
+        "num": 354041,
+        "word": "物业骂业主住不起就滚",
+        "onboard_time": 1780561159,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 416196,
+        "num": 350160,
+        "word": "樊振东回应职业发展传闻",
+        "onboard_time": 1780557622,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 169050,
+        "num": 345795,
+        "word": "中国不存在所谓强迫劳动",
+        "onboard_time": 1780543039,
+        "rank": 24,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 344413,
+        "num": 344413,
+        "word": "马頔一心动就咬李纯脑袋",
+        "onboard_time": 1780554380,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 263687,
+        "num": 317051,
+        "word": "刘冲抢了方媛的单人间",
+        "onboard_time": 1780549639,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 223881,
+        "num": 303550,
+        "word": "在工位上看到我爸发的消息",
+        "onboard_time": 1780550179,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 299177,
+        "num": 299177,
+        "word": "杨天真胳膊怎么了",
+        "onboard_time": 1780552099,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105782,
+        "num": 290970,
+        "word": "京东方A再涨停",
+        "onboard_time": 1780554500,
+        "rank": 29,
+        "category": "财经,互联网"
+      },
+      {
+        "raw_hot": 134691,
+        "num": 286404,
+        "word": "乌军用星链无人机炸毁俄护卫舰",
+        "onboard_time": 1780562120,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 286123,
+        "num": 286123,
+        "word": "猴哥说车前妻自曝曾被男明星搭讪",
+        "onboard_time": 1780557079,
+        "rank": 31,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 275067,
+        "num": 275067,
+        "word": "韩栋直播哭诉没戏拍",
+        "onboard_time": 1780546940,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203578,
+        "num": 264172,
+        "word": "做咖啡喝咖啡送咖啡的都辛苦",
+        "onboard_time": 1780561280,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 261559,
+        "num": 261559,
+        "word": "四太梁安琪一家吃饺子的排场",
+        "onboard_time": 1780561579,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 213384,
+        "num": 213384,
+        "word": "范丞丞赵今麦电影开通官微",
+        "onboard_time": 1780561399,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 184198,
+        "num": 213240,
+        "word": "曝iPhone18Pro首发第二代灵动岛",
+        "onboard_time": 1780551739,
+        "rank": 36,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 213117,
+        "num": 213117,
+        "word": "刘亦菲又自己乱剪头发了",
+        "onboard_time": 1780563200,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205421,
+        "num": 205421,
+        "word": "奚梦瑶对婆婆的称呼",
+        "onboard_time": 1780563140,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97212,
+        "num": 202595,
+        "word": "半导体集体爆涨原因",
+        "onboard_time": 1780562541,
+        "rank": 39,
+        "category": "财经,互联网"
+      },
+      {
+        "raw_hot": 24496,
+        "num": 201382,
+        "word": "这块路牌既有985又有211",
+        "onboard_time": 1780562360,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93983,
+        "num": 201352,
+        "word": "加满一箱油能少花20.5元",
+        "onboard_time": 1780557559,
+        "rank": 41,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 201330,
+        "num": 201330,
+        "word": "主角和小巷人家是一个时代的",
+        "onboard_time": 1780562360,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185678,
+        "num": 185678,
+        "word": "灵魂摆渡演技最差的出现了",
+        "onboard_time": 1780554799,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176414,
+        "num": 176414,
+        "word": "17岁女孩搓澡太用力竟致黄体破裂",
+        "onboard_time": 1780559421,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168573,
+        "num": 168573,
+        "word": "郭聪明自曝欠了很多债",
+        "onboard_time": 1780550659,
+        "rank": 45,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 153595,
+        "num": 153595,
+        "word": "奚梦瑶家境",
+        "onboard_time": 1780541719,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144759,
+        "num": 149998,
+        "word": "中方决定禁止新西兰有关议员入境",
+        "onboard_time": 1780555459,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 74044,
+        "num": 148290,
+        "word": "中国电动汽车全球爆火",
+        "onboard_time": 1780558939,
+        "rank": 48,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 147848,
+        "num": 147848,
+        "word": "歌手第三期歌单",
+        "onboard_time": 1780548981,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#100秒看大国外交的繁忙五月#"
+    }
+  }
+}
