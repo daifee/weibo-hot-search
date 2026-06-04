@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/06/01 01:17:07 ~ 2026/06/05 05:11:50
+本榜单时间：2026/06/01 01:17:07 ~ 2026/06/05 05:48:56
 </p>
 </blockquote>
 <p>
@@ -4737,6 +4737,12 @@ AI数据中心 淡水资源（热度：87139）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%80%E5%88%B0%E8%8D%BC%E9%9D%A1%20%E5%BD%AD%E5%86%A0%E8%8B%B1%23" target="weibo">
+开到荼靡 彭冠英（热度：66770）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E4%BB%8E%E6%91%94%E6%8B%8D%E5%B0%91%E5%B9%B4%E5%88%B0%E5%9B%BD%E4%B9%92%E9%98%9F%E9%95%BF%23" target="weibo">
 王楚钦从摔拍少年到国乒队长（热度：66565）
 </a>
@@ -4881,8 +4887,8 @@ MLCC概念大涨（热度：62084）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%80%E5%88%B0%E8%8D%BC%E9%9D%A1%20%E5%BD%AD%E5%86%A0%E8%8B%B1%23" target="weibo">
-开到荼靡 彭冠英（热度：54038）
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%9E%E6%89%AB%E6%8A%8A%E9%83%BD%E5%8F%97%E4%B8%8D%E4%BA%86%E5%B9%BF%E4%B8%9C%E7%9A%84%E5%A4%A9%E6%B0%94%E4%BA%86%23" target="weibo">
+连扫把都受不了广东的天气了（热度：53322）
 </a>
 </li>
 
@@ -4943,12 +4949,6 @@ Papi酱带货的宠物友好粘尘器翻车（热度：48578）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%98%E6%9C%893%E5%A4%A9%E9%AB%98%E8%80%83%E4%BA%86%23" target="weibo">
 还有3天高考了（热度：46103）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BF%9E%E6%89%AB%E6%8A%8A%E9%83%BD%E5%8F%97%E4%B8%8D%E4%BA%86%E5%B9%BF%E4%B8%9C%E7%9A%84%E5%A4%A9%E6%B0%94%E4%BA%86%23" target="weibo">
-连扫把都受不了广东的天气了（热度：45950）
 </a>
 </li>
 
@@ -5061,6 +5061,12 @@ Gucci回应买完万元裙子发现打折（热度：38884）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%AD%A9%E5%A7%90%E7%94%A8%E7%A2%98%E4%BC%8F%E5%90%B9%E9%A3%8E%E6%9C%BA%E6%BC%94%E7%A4%BA%E6%8C%87%E7%BA%B9%E5%8F%AF%E8%A7%86%E5%8C%96%23" target="weibo">
+小孩姐用碘伏吹风机演示指纹可视化（热度：38763）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E6%94%BF%E6%B3%95%E5%AD%A6%E9%99%A2%E5%81%B7%E6%8B%8D%E5%AD%A6%E7%94%9F%E8%A2%AB%E5%BC%80%E9%99%A4%E5%AD%A6%E7%B1%8D%23" target="weibo">
 上海政法学院偷拍学生被开除学籍（热度：37855）
 </a>
@@ -5073,8 +5079,8 @@ Gucci回应买完万元裙子发现打折（热度：38884）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%AD%A9%E5%A7%90%E7%94%A8%E7%A2%98%E4%BC%8F%E5%90%B9%E9%A3%8E%E6%9C%BA%E6%BC%94%E7%A4%BA%E6%8C%87%E7%BA%B9%E5%8F%AF%E8%A7%86%E5%8C%96%23" target="weibo">
-小孩姐用碘伏吹风机演示指纹可视化（热度：37409）
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BB%E8%A7%92%E7%9A%84%E6%9C%AC%E8%B4%A8%23" target="weibo">
+主角的本质（热度：37475）
 </a>
 </li>
 
@@ -5187,6 +5193,12 @@ NFC果汁包装小字藏兑水（热度：32077）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%A2%AB%E5%A7%90%E5%A4%AB%E8%AE%AD%E6%96%A5%E8%B5%B7%E6%9D%80%E5%BF%83%E5%84%BF%E5%AD%90%E5%A4%BA%E5%88%80%E5%88%B6%E6%AD%A2%23" target="weibo">
+男子被姐夫训斥起杀心儿子夺刀制止（热度：30910）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%92%8E%E5%9F%8E%E6%B0%91%E6%97%8F%E9%A3%8E%E8%80%B3%E9%A5%B0%23" target="weibo">
 钎城民族风耳饰（热度：30715）
 </a>
@@ -5231,18 +5243,6 @@ NFC果汁包装小字藏兑水（热度：32077）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A0%E6%9D%AD%E5%B7%9E2188%E5%85%83%E9%9D%A2%E9%A6%86%E8%80%81%E6%9D%BF%E5%9B%9E%E5%BA%94%23" target="weibo">
 网传杭州2188元面馆老板回应（热度：29241）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%A2%AB%E5%A7%90%E5%A4%AB%E8%AE%AD%E6%96%A5%E8%B5%B7%E6%9D%80%E5%BF%83%E5%84%BF%E5%AD%90%E5%A4%BA%E5%88%80%E5%88%B6%E6%AD%A2%23" target="weibo">
-男子被姐夫训斥起杀心儿子夺刀制止（热度：28744）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BB%E8%A7%92%E7%9A%84%E6%9C%AC%E8%B4%A8%23" target="weibo">
-主角的本质（热度：28580）
 </a>
 </li>
 
@@ -5351,6 +5351,12 @@ NFC果汁包装小字藏兑水（热度：32077）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E4%B8%BE%E6%8A%A5%E5%87%BA%E7%A7%9F%E8%BD%A6%E5%90%8E%E9%81%AD%E5%92%92%E9%AA%82%E5%A5%B3%E5%84%BF%E5%BE%97%E7%99%8C%E7%97%87%23" target="weibo">
 男子举报出租车后遭咒骂女儿得癌症（热度：23798）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%AA%E9%98%B3%E7%88%86%E5%8F%91%E4%B8%80%E6%AC%A1%E5%BC%BA%E7%83%88%E8%80%80%E6%96%91%23" target="weibo">
+太阳爆发一次强烈耀斑（热度：23747）
 </a>
 </li>
 
@@ -5565,12 +5571,6 @@ WE天下谁人不识君（热度：15498）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%AA%E9%98%B3%E7%88%86%E5%8F%91%E4%B8%80%E6%AC%A1%E5%BC%BA%E7%83%88%E8%80%80%E6%96%91%23" target="weibo">
-太阳爆发一次强烈耀斑（热度：14277）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%93%88%E5%B0%94%E6%BB%A8%E6%B2%99%E5%B0%98%E6%9A%B4%E4%B8%80%E7%A7%92%E5%85%A5%E5%A4%9C%E6%8B%8D%E6%91%84%E8%80%85%E5%8F%91%E5%A3%B0%23" target="weibo">
 哈尔滨沙尘暴一秒入夜拍摄者发声（热度：13948）
 </a>
@@ -5583,6 +5583,12 @@ WE天下谁人不识君（热度：15498）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E5%89%8D%E8%BF%99%E4%BA%9B%E4%BA%8B%E8%A6%81%E5%86%8D%E6%8D%8B%E4%B8%80%E9%81%8D%23" target="weibo">
+高考前这些事要再捋一遍（热度：9535）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E7%BB%84%E6%95%B0%E6%8D%AE%E7%9C%8B%E6%88%91%E5%9B%BD%E7%89%A9%E6%B5%81%E8%B6%8A%E8%B7%91%E8%B6%8A%E7%A8%B3%23" target="weibo">
 一组数据看我国物流越跑越稳（热度：9379）
 </a>
@@ -5591,12 +5597,6 @@ WE天下谁人不识君（热度：15498）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9F%8E%E4%BA%8B%E6%97%A5%E8%AE%B0%E6%B4%A5%E5%BD%A9%E6%9C%89%E4%BD%A0%23" target="weibo">
 城事日记津彩有你（热度：7494）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E5%89%8D%E8%BF%99%E4%BA%9B%E4%BA%8B%E8%A6%81%E5%86%8D%E6%8D%8B%E4%B8%80%E9%81%8D%23" target="weibo">
-高考前这些事要再捋一遍（热度：7393）
 </a>
 </li>
 

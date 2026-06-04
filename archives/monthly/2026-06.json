@@ -1,6 +1,6 @@
 {
   "startTime": 1780247827631,
-  "endTime": 1780607510799,
+  "endTime": 1780609736263,
   "band_list": [
     {
       "raw_hot": 6730138,
@@ -5708,7 +5708,7 @@
     },
     {
       "raw_hot": 100660,
-      "num": 100660,
+      "num": 217422,
       "word": "今天才知道潮汕不是一座城市",
       "onboard_time": 1780576459,
       "rank": 49,
@@ -6299,6 +6299,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 66770,
+      "num": 66770,
+      "word": "开到荼靡 彭冠英",
+      "onboard_time": 1780600155,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 66565,
       "num": 148901,
       "word": "王楚钦从摔拍少年到国乒队长",
@@ -6491,12 +6499,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 54038,
-      "num": 54038,
-      "word": "开到荼靡 彭冠英",
-      "onboard_time": 1780600155,
-      "rank": 19,
-      "category": "剧集"
+      "raw_hot": 53322,
+      "num": 71118,
+      "word": "连扫把都受不了广东的天气了",
+      "onboard_time": 1780593735,
+      "rank": 23,
+      "category": "幽默"
     },
     {
       "raw_hot": 52262,
@@ -6577,14 +6585,6 @@
       "onboard_time": 1780531099,
       "rank": 17,
       "category": "教育"
-    },
-    {
-      "raw_hot": 45950,
-      "num": 71118,
-      "word": "连扫把都受不了广东的天气了",
-      "onboard_time": 1780593735,
-      "rank": 23,
-      "category": "幽默"
     },
     {
       "raw_hot": 45235,
@@ -6731,6 +6731,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 38763,
+      "num": 71097,
+      "word": "小孩姐用碘伏吹风机演示指纹可视化",
+      "onboard_time": 1780566800,
+      "rank": 29,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 37855,
       "num": 277733,
       "word": "上海政法学院偷拍学生被开除学籍",
@@ -6747,12 +6755,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 37409,
-      "num": 71097,
-      "word": "小孩姐用碘伏吹风机演示指纹可视化",
-      "onboard_time": 1780566800,
-      "rank": 29,
-      "category": "科学科普"
+      "raw_hot": 37475,
+      "num": 23756,
+      "word": "主角的本质",
+      "onboard_time": 1780604834,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 35984,
@@ -6899,6 +6907,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 30910,
+      "num": 71063,
+      "word": "男子被姐夫训斥起杀心儿子夺刀制止",
+      "onboard_time": 1780580001,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 30715,
       "num": 30715,
       "word": "钎城民族风耳饰",
@@ -6961,22 +6977,6 @@
       "onboard_time": 1780575139,
       "rank": 21,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 28744,
-      "num": 71063,
-      "word": "男子被姐夫训斥起杀心儿子夺刀制止",
-      "onboard_time": 1780580001,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 28580,
-      "num": 19252,
-      "word": "主角的本质",
-      "onboard_time": 1780604834,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 28508,
@@ -7121,6 +7121,14 @@
       "onboard_time": 1780327221,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 23747,
+      "num": 23747,
+      "word": "太阳爆发一次强烈耀斑",
+      "onboard_time": 1780604354,
+      "rank": 41,
+      "category": "科学科普"
     },
     {
       "raw_hot": 23390,
@@ -7403,14 +7411,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 14277,
-      "num": 17909,
-      "word": "太阳爆发一次强烈耀斑",
-      "onboard_time": 1780604354,
-      "rank": 41,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 13948,
       "num": 293932,
       "word": "哈尔滨沙尘暴一秒入夜拍摄者发声",
@@ -7427,6 +7427,14 @@
       "category": "民生新闻,综艺"
     },
     {
+      "raw_hot": 9535,
+      "num": 124735,
+      "word": "高考前这些事要再捋一遍",
+      "onboard_time": 1780577600,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 9379,
       "num": 187982,
       "word": "一组数据看我国物流越跑越稳",
@@ -7439,14 +7447,6 @@
       "num": 1130347,
       "word": "城事日记津彩有你",
       "onboard_time": 1780232241,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 7393,
-      "num": 58460,
-      "word": "高考前这些事要再捋一遍",
-      "onboard_time": 1780577600,
       "rank": 2,
       "category": "民生新闻"
     },

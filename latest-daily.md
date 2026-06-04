@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/06/05 00:25:17 ~ 2026/06/05 05:11:50
+本榜单时间：2026/06/05 00:25:17 ~ 2026/06/05 05:48:56
 </p>
 </blockquote>
 <p>
@@ -327,20 +327,20 @@ LPL发布BLG和Bin的处罚公告（热度：172163）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%80%E5%88%B0%E8%8D%BC%E9%9D%A1%20%E5%BD%AD%E5%86%A0%E8%8B%B1%23" target="weibo">
+开到荼靡 彭冠英（热度：66770）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E9%A5%B0%E4%BB%B7%E6%A0%BC%E6%AF%8F%E5%85%8B%E9%99%8D%E7%BA%A6%E4%B8%A4%E6%88%90%23" target="weibo">
 金饰价格每克降约两成（热度：63365）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%80%E5%88%B0%E8%8D%BC%E9%9D%A1%20%E5%BD%AD%E5%86%A0%E8%8B%B1%23" target="weibo">
-开到荼靡 彭冠英（热度：54038）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%9E%E6%89%AB%E6%8A%8A%E9%83%BD%E5%8F%97%E4%B8%8D%E4%BA%86%E5%B9%BF%E4%B8%9C%E7%9A%84%E5%A4%A9%E6%B0%94%E4%BA%86%23" target="weibo">
-连扫把都受不了广东的天气了（热度：45950）
+连扫把都受不了广东的天气了（热度：53322）
 </a>
 </li>
 
@@ -358,7 +358,13 @@ LPL发布BLG和Bin的处罚公告（热度：172163）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%AD%A9%E5%A7%90%E7%94%A8%E7%A2%98%E4%BC%8F%E5%90%B9%E9%A3%8E%E6%9C%BA%E6%BC%94%E7%A4%BA%E6%8C%87%E7%BA%B9%E5%8F%AF%E8%A7%86%E5%8C%96%23" target="weibo">
-小孩姐用碘伏吹风机演示指纹可视化（热度：37409）
+小孩姐用碘伏吹风机演示指纹可视化（热度：38763）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BB%E8%A7%92%E7%9A%84%E6%9C%AC%E8%B4%A8%23" target="weibo">
+主角的本质（热度：37475）
 </a>
 </li>
 
@@ -371,6 +377,18 @@ LPL发布BLG和Bin的处罚公告（热度：172163）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97gapday%E9%9F%B3%E4%B9%90%E8%8A%82%23" target="weibo">
 鹿晗gapday音乐节（热度：31349）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%A6%88%E8%A2%AB%E6%9F%BF%E5%AD%90%E7%A0%B8%E4%B8%AD%E9%A2%9D%E5%A4%B4%E4%BC%A4%E5%8F%A33%E5%B9%B4%E6%B2%A1%E6%84%88%E5%90%88%23" target="weibo">
+大妈被柿子砸中额头伤口3年没愈合（热度：31294）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%A2%AB%E5%A7%90%E5%A4%AB%E8%AE%AD%E6%96%A5%E8%B5%B7%E6%9D%80%E5%BF%83%E5%84%BF%E5%AD%90%E5%A4%BA%E5%88%80%E5%88%B6%E6%AD%A2%23" target="weibo">
+男子被姐夫训斥起杀心儿子夺刀制止（热度：30910）
 </a>
 </li>
 
@@ -389,18 +407,6 @@ LPL发布BLG和Bin的处罚公告（热度：172163）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A7%A6%E5%8F%91%E4%BA%86%E9%AB%98%E8%80%83%E7%A5%9D%E7%A6%8F%E7%9A%84%E5%BA%95%E5%B1%82%E4%BB%A3%E7%A0%81%23" target="weibo">
 触发了高考祝福的底层代码（热度：29809）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%A2%AB%E5%A7%90%E5%A4%AB%E8%AE%AD%E6%96%A5%E8%B5%B7%E6%9D%80%E5%BF%83%E5%84%BF%E5%AD%90%E5%A4%BA%E5%88%80%E5%88%B6%E6%AD%A2%23" target="weibo">
-男子被姐夫训斥起杀心儿子夺刀制止（热度：28744）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BB%E8%A7%92%E7%9A%84%E6%9C%AC%E8%B4%A8%23" target="weibo">
-主角的本质（热度：28580）
 </a>
 </li>
 
@@ -435,14 +441,14 @@ LPL发布BLG和Bin的处罚公告（热度：172163）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%89%E5%BE%B7%E5%88%97%E5%A8%83vs%E7%A7%91%E6%96%AF%E7%A7%8B%E5%85%8B%23" target="weibo">
-安德列娃vs科斯秋克（热度：21083）
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%AA%E9%98%B3%E7%88%86%E5%8F%91%E4%B8%80%E6%AC%A1%E5%BC%BA%E7%83%88%E8%80%80%E6%96%91%23" target="weibo">
+太阳爆发一次强烈耀斑（热度：23747）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%A6%88%E8%A2%AB%E6%9F%BF%E5%AD%90%E7%A0%B8%E4%B8%AD%E9%A2%9D%E5%A4%B4%E4%BC%A4%E5%8F%A33%E5%B9%B4%E6%B2%A1%E6%84%88%E5%90%88%23" target="weibo">
-大妈被柿子砸中额头伤口3年没愈合（热度：19318）
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%89%E5%BE%B7%E5%88%97%E5%A8%83vs%E7%A7%91%E6%96%AF%E7%A7%8B%E5%85%8B%23" target="weibo">
+安德列娃vs科斯秋克（热度：21083）
 </a>
 </li>
 
@@ -459,14 +465,8 @@ LPL发布BLG和Bin的处罚公告（热度：172163）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%AA%E9%98%B3%E7%88%86%E5%8F%91%E4%B8%80%E6%AC%A1%E5%BC%BA%E7%83%88%E8%80%80%E6%96%91%23" target="weibo">
-太阳爆发一次强烈耀斑（热度：14277）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E5%89%8D%E8%BF%99%E4%BA%9B%E4%BA%8B%E8%A6%81%E5%86%8D%E6%8D%8B%E4%B8%80%E9%81%8D%23" target="weibo">
-高考前这些事要再捋一遍（热度：7393）
+高考前这些事要再捋一遍（热度：9535）
 </a>
 </li>
 

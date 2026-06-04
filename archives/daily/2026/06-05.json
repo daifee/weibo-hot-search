@@ -1,6 +1,6 @@
 {
   "startTime": 1780590317637,
-  "endTime": 1780607510799,
+  "endTime": 1780609736263,
   "band_list": [
     {
       "raw_hot": 1310955,
@@ -380,7 +380,7 @@
     },
     {
       "raw_hot": 100660,
-      "num": 100660,
+      "num": 217422,
       "word": "今天才知道潮汕不是一座城市",
       "onboard_time": 1780576459,
       "rank": 49,
@@ -419,6 +419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 66770,
+      "num": 66770,
+      "word": "开到荼靡 彭冠英",
+      "onboard_time": 1780600155,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 63365,
       "num": 102681,
       "word": "金饰价格每克降约两成",
@@ -427,15 +435,7 @@
       "category": "财经"
     },
     {
-      "raw_hot": 54038,
-      "num": 54038,
-      "word": "开到荼靡 彭冠英",
-      "onboard_time": 1780600155,
-      "rank": 19,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 45950,
+      "raw_hot": 53322,
       "num": 71118,
       "word": "连扫把都受不了广东的天气了",
       "onboard_time": 1780593735,
@@ -459,12 +459,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 37409,
+      "raw_hot": 38763,
       "num": 71097,
       "word": "小孩姐用碘伏吹风机演示指纹可视化",
       "onboard_time": 1780566800,
       "rank": 29,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 37475,
+      "num": 23756,
+      "word": "主角的本质",
+      "onboard_time": 1780604834,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 35984,
@@ -481,6 +489,22 @@
       "onboard_time": 1780570221,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 31294,
+      "num": 71028,
+      "word": "大妈被柿子砸中额头伤口3年没愈合",
+      "onboard_time": 1780588399,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 30910,
+      "num": 71063,
+      "word": "男子被姐夫训斥起杀心儿子夺刀制止",
+      "onboard_time": 1780580001,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 30502,
@@ -505,22 +529,6 @@
       "onboard_time": 1780601053,
       "rank": 38,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 28744,
-      "num": 71063,
-      "word": "男子被姐夫训斥起杀心儿子夺刀制止",
-      "onboard_time": 1780580001,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 28580,
-      "num": 19252,
-      "word": "主角的本质",
-      "onboard_time": 1780604834,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 28396,
@@ -563,20 +571,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 23747,
+      "num": 23747,
+      "word": "太阳爆发一次强烈耀斑",
+      "onboard_time": 1780604354,
+      "rank": 41,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 21083,
       "num": 71032,
       "word": "安德列娃vs科斯秋克",
       "onboard_time": 1780583241,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 19318,
-      "num": 71028,
-      "word": "大妈被柿子砸中额头伤口3年没愈合",
-      "onboard_time": 1780588399,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 17586,
@@ -595,16 +603,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 14277,
-      "num": 17909,
-      "word": "太阳爆发一次强烈耀斑",
-      "onboard_time": 1780604354,
-      "rank": 41,
-      "category": "科学科普"
-    },
-    {
-      "raw_hot": 7393,
-      "num": 58460,
+      "raw_hot": 9535,
+      "num": 124735,
       "word": "高考前这些事要再捋一遍",
       "onboard_time": 1780577600,
       "rank": 2,
