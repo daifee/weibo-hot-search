@@ -1,0 +1,410 @@
+{
+  "runTime": 1780607510799,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 70434,
+        "num": 98786,
+        "word": "今天才知道潮汕不是一座城市",
+        "onboard_time": 1780576459,
+        "rank": 0,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 62084,
+        "num": 72870,
+        "word": "原价899的耐克降至429消费者仍不买账",
+        "onboard_time": 1780566680,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 7393,
+        "num": 58460,
+        "word": "高考前这些事要再捋一遍",
+        "onboard_time": 1780577600,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 54038,
+        "num": 54038,
+        "word": "开到荼靡 彭冠英",
+        "onboard_time": 1780600155,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 51010,
+        "num": 51010,
+        "word": "当我用拼豆拼了一整套麻将",
+        "onboard_time": 1780591157,
+        "rank": 4,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 40424,
+        "num": 40424,
+        "word": "用热成像偷拍小猫上厕所",
+        "onboard_time": 1780592836,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 37465,
+        "num": 37465,
+        "word": "Bin被罚15万",
+        "onboard_time": 1780579100,
+        "rank": 6,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 37344,
+        "num": 37344,
+        "word": "连扫把都受不了广东的天气了",
+        "onboard_time": 1780593735,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 29911,
+        "num": 29911,
+        "word": "原来面条坨了也有邪修",
+        "onboard_time": 1780573340,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 28368,
+        "num": 28368,
+        "word": "窦靖童妹妹头",
+        "onboard_time": 1780588818,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 54080,
+        "num": 28290,
+        "word": "好怕现实中也有人长AI这样",
+        "onboard_time": 1780592418,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 37817,
+        "num": 28071,
+        "word": "耐克正在被消费者抛弃",
+        "onboard_time": 1780587320,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32559,
+        "num": 27825,
+        "word": "宋祖儿路透长得像p了半小时的",
+        "onboard_time": 1780569439,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 32048,
+        "num": 27631,
+        "word": "男子AI写歌月收入十几万",
+        "onboard_time": 1780566561,
+        "rank": 13,
+        "category": "民生新闻,音乐"
+      },
+      {
+        "raw_hot": 27543,
+        "num": 27543,
+        "word": "江语晨来浪姐胖了12斤",
+        "onboard_time": 1780580120,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 29809,
+        "num": 27373,
+        "word": "触发了高考祝福的底层代码",
+        "onboard_time": 1780601053,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 29493,
+        "num": 27321,
+        "word": "中方回应2名日本人处理日遗化武受伤",
+        "onboard_time": 1780571539,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 26904,
+        "num": 26904,
+        "word": "第7号台风要来了",
+        "onboard_time": 1780592418,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24468,
+        "num": 24468,
+        "word": "小孩姐用碘伏吹风机演示指纹可视化",
+        "onboard_time": 1780566800,
+        "rank": 18,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 23759,
+        "num": 23759,
+        "word": "男子被姐夫训斥起杀心儿子夺刀制止",
+        "onboard_time": 1780580001,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 75171,
+        "num": 23632,
+        "word": "原来燃气灶一直用错了",
+        "onboard_time": 1780577180,
+        "rank": 20,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 34805,
+        "num": 23244,
+        "word": "iPhone改日期 空出20G",
+        "onboard_time": 1780571300,
+        "rank": 21,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 22834,
+        "num": 22834,
+        "word": "日本扬言以综合国力应对中国军力",
+        "onboard_time": 1780584560,
+        "rank": 22,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 21300,
+        "num": 21300,
+        "word": "北京体育大学 恭迎龙王回归",
+        "onboard_time": 1780577840,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 20351,
+        "num": 20351,
+        "word": "黄灿灿唐艺昕 雪人",
+        "onboard_time": 1780574120,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 20004,
+        "num": 20004,
+        "word": "每夜憋醒三四次男子不敢睡觉怕猝死",
+        "onboard_time": 1780585281,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19743,
+        "num": 19743,
+        "word": "歌手",
+        "onboard_time": 1780580781,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 19478,
+        "num": 19478,
+        "word": "曝Bin对自己行为非常后悔",
+        "onboard_time": 1780584621,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 19441,
+        "num": 19441,
+        "word": "小米寻天汽车最新谍照曝光",
+        "onboard_time": 1780580001,
+        "rank": 28,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 19277,
+        "num": 19277,
+        "word": "豉汁蒸肉片",
+        "onboard_time": 1780597575,
+        "rank": 29,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 28580,
+        "num": 19252,
+        "word": "主角的本质",
+        "onboard_time": 1780604834,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 23624,
+        "num": 19210,
+        "word": "最爱的漫画家住我楼上",
+        "onboard_time": 1780597094,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 19022,
+        "num": 19022,
+        "word": "金饰价格每克降约两成",
+        "onboard_time": 1780578621,
+        "rank": 32,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 18903,
+        "num": 18903,
+        "word": "神仙肉 侯明昊",
+        "onboard_time": 1780569560,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 18111,
+        "num": 18111,
+        "word": "白鹿何与或演开到荼靡",
+        "onboard_time": 1780578500,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17924,
+        "num": 17924,
+        "word": "灵魂摆渡",
+        "onboard_time": 1780586000,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16922,
+        "num": 17924,
+        "word": "LPL发布BLG和Bin的处罚公告",
+        "onboard_time": 1780579100,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 16008,
+        "num": 17919,
+        "word": "大妈被柿子砸中额头伤口3年没愈合",
+        "onboard_time": 1780588399,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14928,
+        "num": 17918,
+        "word": "胖东来将安装2000万元室外音响",
+        "onboard_time": 1780574839,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14515,
+        "num": 17915,
+        "word": "我没有刚工作时那么善良了",
+        "onboard_time": 1780569740,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 14511,
+        "num": 17912,
+        "word": "上海泳渡赛隐私照遭泄露警方已立案",
+        "onboard_time": 1780579282,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14277,
+        "num": 17909,
+        "word": "太阳爆发一次强烈耀斑",
+        "onboard_time": 1780604354,
+        "rank": 41,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 13778,
+        "num": 17906,
+        "word": "浪姐",
+        "onboard_time": 1780578440,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 13443,
+        "num": 17904,
+        "word": "塞尔维亚FMP绝杀中国男篮",
+        "onboard_time": 1780582582,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 13289,
+        "num": 17902,
+        "word": "叶一茜听海把森碟唱哭了",
+        "onboard_time": 1780599734,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 13036,
+        "num": 17899,
+        "word": "刘萧旭郭宇欣逛超市路透",
+        "onboard_time": 1780587740,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 12205,
+        "num": 17895,
+        "word": "黄灿灿直播说她四公只有团秀一个舞台",
+        "onboard_time": 1780592418,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 12186,
+        "num": 17894,
+        "word": "交警回应摩托车狂飙与高铁并驾齐驱",
+        "onboard_time": 1780588399,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 11453,
+        "num": 17891,
+        "word": "中国女排3比2泰国女排",
+        "onboard_time": 1780583661,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 11424,
+        "num": 17887,
+        "word": "鹿晗gapday音乐节",
+        "onboard_time": 1780570221,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#一张泛黄发票的故事#"
+    }
+  }
+}
