@@ -1,6 +1,6 @@
 {
   "startTime": 1780247827631,
-  "endTime": 1780530723971,
+  "endTime": 1780532097173,
   "band_list": [
     {
       "raw_hot": 6730138,
@@ -267,6 +267,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1463052,
+      "num": 1463052,
+      "word": "国企干部公职人员离婚分割近亿财产",
+      "onboard_time": 1780500381,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1454400,
       "num": 432018,
       "word": "忆秦娥离婚",
@@ -337,14 +345,6 @@
       "onboard_time": 1780458321,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1256755,
-      "num": 1256755,
-      "word": "国企干部公职人员离婚分割近亿财产",
-      "onboard_time": 1780500381,
-      "rank": 0,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1248048,
@@ -620,7 +620,7 @@
     },
     {
       "raw_hot": 845668,
-      "num": 845668,
+      "num": 892096,
       "word": "给阿嬷的情书火了电影人集体沉默",
       "onboard_time": 1780528157,
       "rank": 1,
@@ -777,6 +777,14 @@
       "onboard_time": 1780272679,
       "rank": 21,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 750558,
+      "num": 311739,
+      "word": "仅退款 快递员罚款",
+      "onboard_time": 1780530440,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 746973,
@@ -1035,6 +1043,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 605529,
+      "num": 304757,
+      "word": "李昊炎加盟巴萨",
+      "onboard_time": 1780529718,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 602651,
       "num": 406233,
       "word": "迪丽热巴回复好友祝福",
@@ -1153,6 +1169,14 @@
       "onboard_time": 1780457423,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 552001,
+      "num": 552001,
+      "word": "刘浩存演技",
+      "onboard_time": 1780502299,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 547265,
@@ -1531,14 +1555,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 422241,
-      "num": 422241,
-      "word": "刘浩存演技",
-      "onboard_time": 1780502299,
-      "rank": 3,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 420590,
       "num": 461680,
       "word": "歌手",
@@ -1915,6 +1931,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 350832,
+      "num": 334948,
+      "word": "油泼面这段赵本山不让张艺谋删",
+      "onboard_time": 1780503438,
+      "rank": 4,
+      "category": "电影"
+    },
+    {
       "raw_hot": 349970,
       "num": 349970,
       "word": "家业热度",
@@ -2033,6 +2057,14 @@
       "onboard_time": 1780330040,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 331559,
+      "num": 331559,
+      "word": "新闻联播披露A股重要数据",
+      "onboard_time": 1780528337,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 329781,
@@ -2164,7 +2196,7 @@
     },
     {
       "raw_hot": 309917,
-      "num": 256732,
+      "num": 296365,
       "word": "男子带20万练功券酒店约见女主播",
       "onboard_time": 1780528218,
       "rank": 10,
@@ -2211,14 +2243,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 303360,
-      "num": 255279,
-      "word": "新闻联播披露A股重要数据",
-      "onboard_time": 1780528337,
-      "rank": 11,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 302930,
       "num": 409837,
       "word": "日本开始售卖黑白包装零食",
@@ -2233,14 +2257,6 @@
       "onboard_time": 1780472361,
       "rank": 25,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 298646,
-      "num": 265402,
-      "word": "油泼面这段赵本山不让张艺谋删",
-      "onboard_time": 1780503438,
-      "rank": 4,
-      "category": "电影"
     },
     {
       "raw_hot": 297190,
@@ -2337,6 +2353,14 @@
       "onboard_time": 1780286962,
       "rank": 27,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 291200,
+      "num": 291200,
+      "word": "荔枝和龙眼有宝宝了",
+      "onboard_time": 1780529838,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 290196,
@@ -2587,6 +2611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 263591,
+      "num": 263727,
+      "word": "于正记不得杨蓉是第几次续约",
+      "onboard_time": 1780528218,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 262914,
       "num": 262914,
       "word": "一代人有一代人的六一",
@@ -2747,6 +2779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 244077,
+      "num": 259783,
+      "word": "主角大结局升华了",
+      "onboard_time": 1780528337,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 243781,
       "num": 243781,
       "word": "歌手 苏新皓",
@@ -2761,14 +2801,6 @@
       "onboard_time": 1780393461,
       "rank": 48,
       "category": "美食"
-    },
-    {
-      "raw_hot": 243091,
-      "num": 253667,
-      "word": "于正记不得杨蓉是第几次续约",
-      "onboard_time": 1780528218,
-      "rank": 13,
-      "category": "剧集"
     },
     {
       "raw_hot": 242798,
@@ -2811,6 +2843,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 237590,
+      "num": 256989,
+      "word": "小猫每天都在宝宝的被窝里",
+      "onboard_time": 1780506017,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 237240,
       "num": 225494,
       "word": "王橹杰生周",
@@ -2819,16 +2859,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 236249,
-      "num": 253047,
-      "word": "李昊炎加盟巴萨",
-      "onboard_time": 1780529718,
-      "rank": 14,
-      "category": "体育"
-    },
-    {
       "raw_hot": 236056,
-      "num": 261864,
+      "num": 323147,
       "word": "一进入高温就会人品消失",
       "onboard_time": 1780491621,
       "rank": 31,
@@ -3059,6 +3091,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 213338,
+      "num": 724504,
+      "word": "带入考场即构成作弊高考安检新变化",
+      "onboard_time": 1780528937,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 213055,
       "num": 213055,
       "word": "王鹤棣 ELLE",
@@ -3081,14 +3121,6 @@
       "onboard_time": 1780443559,
       "rank": 27,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 212171,
-      "num": 249678,
-      "word": "荔枝和龙眼有宝宝了",
-      "onboard_time": 1780529838,
-      "rank": 16,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 211881,
@@ -3209,14 +3241,6 @@
       "onboard_time": 1780286480,
       "rank": 40,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 203479,
-      "num": 247226,
-      "word": "主角大结局升华了",
-      "onboard_time": 1780528337,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 202821,
@@ -3363,14 +3387,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 192016,
-      "num": 243125,
-      "word": "小猫每天都在宝宝的被窝里",
-      "onboard_time": 1780506017,
-      "rank": 20,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 189657,
       "num": 185455,
       "word": "云合",
@@ -3465,6 +3481,14 @@
       "onboard_time": 1780279458,
       "rank": 30,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 182410,
+      "num": 254307,
+      "word": "浪姐所有人都给代斯签名了",
+      "onboard_time": 1780528756,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 182001,
@@ -3563,6 +3587,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 173931,
+      "num": 261738,
+      "word": "退休夫妻离婚互揭老底牵出近亿财产",
+      "onboard_time": 1780499362,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 173843,
       "num": 173843,
       "word": "鸿蒙智行5月交付46122辆",
@@ -3651,12 +3683,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 164886,
-      "num": 259715,
-      "word": "退休夫妻离婚互揭老底牵出近亿财产",
-      "onboard_time": 1780499362,
-      "rank": 26,
-      "category": "民生新闻"
+      "raw_hot": 164712,
+      "num": 247187,
+      "word": "迪丽热巴如愿收到了方形西瓜蛋糕",
+      "onboard_time": 1780494081,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 164447,
@@ -3673,14 +3705,6 @@
       "onboard_time": 1780493960,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 163555,
-      "num": 641878,
-      "word": "带入考场即构成作弊高考安检新变化",
-      "onboard_time": 1780528937,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 163487,
@@ -3716,7 +3740,7 @@
     },
     {
       "raw_hot": 162566,
-      "num": 239680,
+      "num": 250094,
       "word": "行政楼盖章老师的各种态度",
       "onboard_time": 1780506017,
       "rank": 30,
@@ -3739,8 +3763,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 160313,
-      "num": 237751,
+      "raw_hot": 160430,
+      "num": 252698,
       "word": "日本停留现金社会的唯一好处",
       "onboard_time": 1780506017,
       "rank": 10,
@@ -3899,6 +3923,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 147469,
+      "num": 332950,
+      "word": "中国机器人亮相美国达人秀",
+      "onboard_time": 1780529838,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 146865,
       "num": 305450,
       "word": "男子谎称快递员入室杀害22岁前女友",
@@ -3939,14 +3971,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 143723,
-      "num": 233684,
-      "word": "迪丽热巴如愿收到了方形西瓜蛋糕",
-      "onboard_time": 1780494081,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 143545,
       "num": 143545,
       "word": "忆秦娥婚后",
@@ -3969,14 +3993,6 @@
       "onboard_time": 1780296620,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 140129,
-      "num": 235640,
-      "word": "浪姐所有人都给代斯签名了",
-      "onboard_time": 1780528756,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 139801,
@@ -4033,6 +4049,14 @@
       "onboard_time": 1780318460,
       "rank": 44,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 137110,
+      "num": 246887,
+      "word": "最信豆包的人出现了",
+      "onboard_time": 1780506017,
+      "rank": 25,
+      "category": "幽默"
     },
     {
       "raw_hot": 137036,
@@ -4100,7 +4124,7 @@
     },
     {
       "raw_hot": 131394,
-      "num": 207394,
+      "num": 218491,
       "word": "说唱歌手上恋综了",
       "onboard_time": 1780496781,
       "rank": 44,
@@ -4203,6 +4227,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 124679,
+      "num": 243157,
+      "word": "奚梦瑶婚礼后首露面",
+      "onboard_time": 1780530199,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 124487,
       "num": 290394,
       "word": "黄仁勋官宣联手宇树造参考人形机器人",
@@ -4249,6 +4281,14 @@
       "onboard_time": 1780246576,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 121002,
+      "num": 241062,
+      "word": "方媛追问周涛郭富城年轻时什么样",
+      "onboard_time": 1780527617,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 119816,
@@ -4316,7 +4356,7 @@
     },
     {
       "raw_hot": 110358,
-      "num": 232724,
+      "num": 238512,
       "word": "老人和邻居互殴次日自缢于邻家门口",
       "onboard_time": 1780529898,
       "rank": 29,
@@ -4347,20 +4387,12 @@
       "category": "财经,互联网"
     },
     {
-      "raw_hot": 108890,
-      "num": 248793,
-      "word": "中国机器人亮相美国达人秀",
-      "onboard_time": 1780529838,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 108465,
-      "num": 230144,
-      "word": "仅退款 快递员罚款",
-      "onboard_time": 1780530440,
-      "rank": 31,
-      "category": "民生新闻"
+      "raw_hot": 108694,
+      "num": 236798,
+      "word": "奚梦瑶摔倒陈学冬第一时间晒脚肿图",
+      "onboard_time": 1780527617,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 106889,
@@ -4411,28 +4443,12 @@
       "category": "民生新闻,教育"
     },
     {
-      "raw_hot": 104278,
-      "num": 229274,
-      "word": "最信豆包的人出现了",
-      "onboard_time": 1780506017,
-      "rank": 25,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 103603,
-      "num": 220185,
+      "num": 231033,
       "word": "都大结局了翟子路还在遗憾",
       "onboard_time": 1780501823,
       "rank": 15,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 102251,
-      "num": 227243,
-      "word": "奚梦瑶摔倒陈学冬第一时间晒脚肿图",
-      "onboard_time": 1780527617,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 101865,
@@ -4475,6 +4491,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 99307,
+      "num": 236306,
+      "word": "丁程鑫爆料宋亚轩不爱回消息",
+      "onboard_time": 1780502599,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 99084,
       "num": 272935,
       "word": "比亚迪汽车5月销量383453辆",
@@ -4499,6 +4523,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 97347,
+      "num": 258160,
+      "word": "俄方提出停战条件",
+      "onboard_time": 1780499481,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 96727,
       "num": 123367,
       "word": "伊朗导弹爆炸现场画面",
@@ -4513,6 +4545,14 @@
       "onboard_time": 1780390401,
       "rank": 46,
       "category": "数码"
+    },
+    {
+      "raw_hot": 95360,
+      "num": 233704,
+      "word": "萨巴伦卡回应法网出局",
+      "onboard_time": 1780531280,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 95227,
@@ -4603,14 +4643,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 88621,
-      "num": 258160,
-      "word": "俄方提出停战条件",
-      "onboard_time": 1780499481,
-      "rank": 37,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 88568,
       "num": 273728,
       "word": "俄5岁女童被男邻居强行抱走",
@@ -4633,14 +4665,6 @@
       "onboard_time": 1780242919,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 87705,
-      "num": 221338,
-      "word": "奚梦瑶婚礼后首露面",
-      "onboard_time": 1780530199,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 87139,
@@ -4667,12 +4691,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 85709,
-      "num": 224154,
-      "word": "丁程鑫爆料宋亚轩不爱回消息",
-      "onboard_time": 1780502599,
-      "rank": 12,
-      "category": "综艺"
+      "raw_hot": 85320,
+      "num": 229560,
+      "word": "虞书欣陆柯燃谁想拍的一看便知",
+      "onboard_time": 1780531459,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 84381,
@@ -4763,20 +4787,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 77714,
-      "num": 217185,
-      "word": "方媛追问周涛郭富城年轻时什么样",
-      "onboard_time": 1780527617,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 77599,
       "num": 230001,
       "word": "6月金股",
       "onboard_time": 1780276339,
       "rank": 27,
       "category": "财经"
+    },
+    {
+      "raw_hot": 76593,
+      "num": 225120,
+      "word": "难怪叫主角 因为配角走光了",
+      "onboard_time": 1780529898,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 74006,
@@ -4808,6 +4832,14 @@
       "word": "租客租房卧室卫生间爬出大量蜈蚣",
       "onboard_time": 1780322122,
       "rank": 43,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 71983,
+      "num": 221287,
+      "word": "上海野生动物园回应老虎吃草",
+      "onboard_time": 1780500740,
+      "rank": 36,
       "category": "民生新闻"
     },
     {
@@ -4945,14 +4977,6 @@
       "onboard_time": 1780333218,
       "rank": 37,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 62650,
-      "num": 212845,
-      "word": "上海野生动物园回应老虎吃草",
-      "onboard_time": 1780500740,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 62084,
@@ -5105,6 +5129,14 @@
       "onboard_time": 1780412122,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 46103,
+      "num": 260134,
+      "word": "还有3天高考了",
+      "onboard_time": 1780531099,
+      "rank": 17,
+      "category": "教育"
     },
     {
       "raw_hot": 45235,
@@ -5673,6 +5705,22 @@
       "onboard_time": 1780390880,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 16597,
+      "num": 249059,
+      "word": "世界杯法国队身价超约旦队78倍",
+      "onboard_time": 1780531399,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 16481,
+      "num": 220220,
+      "word": "Viper首次打EDG就是生死战",
+      "onboard_time": 1780531578,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 16305,
