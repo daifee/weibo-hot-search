@@ -1,6 +1,6 @@
 {
   "startTime": 1780247827631,
-  "endTime": 1780609736263,
+  "endTime": 1780613677290,
   "band_list": [
     {
       "raw_hot": 6730138,
@@ -2043,6 +2043,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 413750,
+      "num": 294239,
+      "word": "快餐三巨头 摩尔定律HBM韬定律",
+      "onboard_time": 1780611015,
+      "rank": 3,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 412638,
       "num": 412638,
       "word": "白鹿喝中药睡过头了",
@@ -2201,6 +2209,14 @@
       "onboard_time": 1780315340,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 392124,
+      "num": 588364,
+      "word": "大妈被柿子砸中额头伤口3年没愈合",
+      "onboard_time": 1780588399,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 391195,
@@ -4027,6 +4043,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 206636,
+      "num": 424704,
+      "word": "今天才知道潮汕不是一座城市",
+      "onboard_time": 1780576459,
+      "rank": 49,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 206459,
       "num": 319255,
       "word": "糖尿病并不是单纯血糖高了",
@@ -5299,6 +5323,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 131114,
+      "num": 141477,
+      "word": "金饰价格每克降约两成",
+      "onboard_time": 1780578621,
+      "rank": 49,
+      "category": "财经"
+    },
+    {
       "raw_hot": 130981,
       "num": 379364,
       "word": "男子中6022万4个月后才敢晒奖",
@@ -5465,6 +5497,14 @@
       "onboard_time": 1780527617,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 120289,
+      "num": 79193,
+      "word": "小孩姐用碘伏吹风机演示指纹可视化",
+      "onboard_time": 1780566800,
+      "rank": 29,
+      "category": "科学科普"
     },
     {
       "raw_hot": 119816,
@@ -5707,14 +5747,6 @@
       "category": "财经,互联网"
     },
     {
-      "raw_hot": 100660,
-      "num": 217422,
-      "word": "今天才知道潮汕不是一座城市",
-      "onboard_time": 1780576459,
-      "rank": 49,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 100246,
       "num": 314424,
       "word": "终于等到孟子义现代剧",
@@ -5891,20 +5923,20 @@
       "category": "国际时政,体育"
     },
     {
+      "raw_hot": 91464,
+      "num": 79178,
+      "word": "好怕现实中也有人长AI这样",
+      "onboard_time": 1780592418,
+      "rank": 13,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 90833,
       "num": 141951,
       "word": "巴西19岁女子被鲨鱼咬断一条腿",
       "onboard_time": 1780404321,
       "rank": 47,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 90573,
-      "num": 71151,
-      "word": "好怕现实中也有人长AI这样",
-      "onboard_time": 1780592418,
-      "rank": 13,
-      "category": "互联网"
     },
     {
       "raw_hot": 89671,
@@ -5937,14 +5969,6 @@
       "onboard_time": 1780476680,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 88648,
-      "num": 184694,
-      "word": "大妈被柿子砸中额头伤口3年没愈合",
-      "onboard_time": 1780588399,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 88568,
@@ -6075,6 +6099,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 79307,
+      "num": 79307,
+      "word": "塞尔维亚FMP绝杀中国男篮",
+      "onboard_time": 1780582582,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 78821,
       "num": 459450,
       "word": "兹维列夫进法网四强",
@@ -6116,7 +6148,7 @@
     },
     {
       "raw_hot": 77738,
-      "num": 77738,
+      "num": 79281,
       "word": "用热成像偷拍小猫上厕所",
       "onboard_time": 1780592836,
       "rank": 7,
@@ -6128,14 +6160,6 @@
       "word": "6月金股",
       "onboard_time": 1780276339,
       "rank": 27,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 76792,
-      "num": 141477,
-      "word": "金饰价格每克降约两成",
-      "onboard_time": 1780578621,
-      "rank": 49,
       "category": "财经"
     },
     {
@@ -6300,7 +6324,7 @@
     },
     {
       "raw_hot": 66770,
-      "num": 66770,
+      "num": 79132,
       "word": "开到荼靡 彭冠英",
       "onboard_time": 1780600155,
       "rank": 19,
@@ -6507,6 +6531,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 52403,
+      "num": 55549,
+      "word": "主角的本质",
+      "onboard_time": 1780604834,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 52262,
       "num": 172481,
       "word": "中国往返伊朗航线恢复运营",
@@ -6603,6 +6635,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 45031,
+      "num": 71087,
+      "word": "最爱的漫画家住我楼上",
+      "onboard_time": 1780597094,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 44870,
       "num": 145493,
       "word": "一个普通男生的十年",
@@ -6633,6 +6673,14 @@
       "onboard_time": 1780382960,
       "rank": 2,
       "category": "教育"
+    },
+    {
+      "raw_hot": 43575,
+      "num": 71063,
+      "word": "男子被姐夫训斥起杀心儿子夺刀制止",
+      "onboard_time": 1780580001,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 43223,
@@ -6731,14 +6779,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 38763,
-      "num": 71097,
-      "word": "小孩姐用碘伏吹风机演示指纹可视化",
-      "onboard_time": 1780566800,
-      "rank": 29,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 37855,
       "num": 277733,
       "word": "上海政法学院偷拍学生被开除学籍",
@@ -6755,20 +6795,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 37475,
-      "num": 23756,
-      "word": "主角的本质",
-      "onboard_time": 1780604834,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 35984,
-      "num": 71087,
-      "word": "最爱的漫画家住我楼上",
-      "onboard_time": 1780597094,
-      "rank": 32,
-      "category": "情感"
+      "raw_hot": 37672,
+      "num": 55522,
+      "word": "太阳爆发一次强烈耀斑",
+      "onboard_time": 1780604354,
+      "rank": 41,
+      "category": "科学科普"
     },
     {
       "raw_hot": 35974,
@@ -6777,6 +6809,14 @@
       "onboard_time": 1780323803,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 35729,
+      "num": 55517,
+      "word": "叶一茜听海把森碟唱哭了",
+      "onboard_time": 1780599734,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 35651,
@@ -6793,6 +6833,22 @@
       "onboard_time": 1780411824,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 34280,
+      "num": 55508,
+      "word": "触发了高考祝福的底层代码",
+      "onboard_time": 1780601053,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 34279,
+      "num": 71034,
+      "word": "每夜憋醒三四次男子不敢睡觉怕猝死",
+      "onboard_time": 1780585281,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 33786,
@@ -6907,14 +6963,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 30910,
-      "num": 71063,
-      "word": "男子被姐夫训斥起杀心儿子夺刀制止",
-      "onboard_time": 1780580001,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 30715,
       "num": 30715,
       "word": "钎城民族风耳饰",
@@ -6945,22 +6993,6 @@
       "onboard_time": 1780333218,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 30029,
-      "num": 71068,
-      "word": "塞尔维亚FMP绝杀中国男篮",
-      "onboard_time": 1780582582,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 29809,
-      "num": 43721,
-      "word": "触发了高考祝福的底层代码",
-      "onboard_time": 1780601053,
-      "rank": 38,
-      "category": "幽默"
     },
     {
       "raw_hot": 29559,
@@ -7075,14 +7107,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 25080,
-      "num": 71034,
-      "word": "每夜憋醒三四次男子不敢睡觉怕猝死",
-      "onboard_time": 1780585281,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 24496,
       "num": 201382,
       "word": "这块路牌既有985又有211",
@@ -7115,20 +7139,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 24025,
+      "num": 340925,
+      "word": "高考前这些事要再捋一遍",
+      "onboard_time": 1780577600,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 23798,
       "num": 43365,
       "word": "男子举报出租车后遭咒骂女儿得癌症",
       "onboard_time": 1780327221,
       "rank": 48,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 23747,
-      "num": 23747,
-      "word": "太阳爆发一次强烈耀斑",
-      "onboard_time": 1780604354,
-      "rank": 41,
-      "category": "科学科普"
     },
     {
       "raw_hot": 23390,
@@ -7299,14 +7323,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 17586,
-      "num": 43680,
-      "word": "叶一茜听海把森碟唱哭了",
-      "onboard_time": 1780599734,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 17388,
       "num": 28742,
       "word": "赫瓦林斯卡晋级法网4强",
@@ -7425,14 +7441,6 @@
       "onboard_time": 1780472660,
       "rank": 2,
       "category": "民生新闻,综艺"
-    },
-    {
-      "raw_hot": 9535,
-      "num": 124735,
-      "word": "高考前这些事要再捋一遍",
-      "onboard_time": 1780577600,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 9379,
