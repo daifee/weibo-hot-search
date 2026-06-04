@@ -1,6 +1,6 @@
 {
   "startTime": 1780247827631,
-  "endTime": 1780563397655,
+  "endTime": 1780564275368,
   "band_list": [
     {
       "raw_hot": 6730138,
@@ -347,6 +347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1419817,
+      "num": 1082696,
+      "word": "不要穿灰色裤子去健身房",
+      "onboard_time": 1780555881,
+      "rank": 3,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 1404702,
       "num": 425385,
       "word": "AI演员已经有眼神戏了",
@@ -369,14 +377,6 @@
       "onboard_time": 1780301419,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1295004,
-      "num": 582868,
-      "word": "不要穿灰色裤子去健身房",
-      "onboard_time": 1780555881,
-      "rank": 3,
-      "category": "运动健身"
     },
     {
       "raw_hot": 1294942,
@@ -476,7 +476,7 @@
     },
     {
       "raw_hot": 1133175,
-      "num": 578089,
+      "num": 1082642,
       "word": "吃外卖4年的最好证明",
       "onboard_time": 1780560200,
       "rank": 4,
@@ -587,7 +587,15 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 938292,
+      "raw_hot": 973822,
+      "num": 387469,
+      "word": "疑似女子当街踩踏他人头部",
+      "onboard_time": 1780562420,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 944160,
       "num": 365456,
       "word": "杨颖要求黑粉公开赔礼道歉",
       "onboard_time": 1780550359,
@@ -641,6 +649,14 @@
       "onboard_time": 1780497502,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 897955,
+      "num": 354041,
+      "word": "物业骂业主住不起就滚",
+      "onboard_time": 1780561159,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 892448,
@@ -713,14 +729,6 @@
       "onboard_time": 1780301240,
       "rank": 4,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 837993,
-      "num": 387469,
-      "word": "疑似女子当街踩踏他人头部",
-      "onboard_time": 1780562420,
-      "rank": 11,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 820488,
@@ -1067,6 +1075,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 652681,
+      "num": 384980,
+      "word": "杭州四季青半裸男团表演引争议",
+      "onboard_time": 1780559181,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 651066,
       "num": 651066,
       "word": "世界是本巨大的番茄小说",
@@ -1315,14 +1331,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 571718,
-      "num": 384980,
-      "word": "杭州四季青半裸男团表演引争议",
-      "onboard_time": 1780559181,
-      "rank": 12,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 570918,
       "num": 743121,
       "word": "手机是我买过最回本的东西了",
@@ -1411,6 +1419,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 531375,
+      "num": 213117,
+      "word": "刘亦菲又自己乱剪头发了",
+      "onboard_time": 1780563200,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 527103,
       "num": 527103,
       "word": "现在回小卖部简直是降维打击",
@@ -1449,6 +1465,14 @@
       "onboard_time": 1780369280,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 515479,
+      "num": 515479,
+      "word": "时代峰峻 电影咖",
+      "onboard_time": 1780560619,
+      "rank": 6,
+      "category": "电影"
     },
     {
       "raw_hot": 510699,
@@ -1739,14 +1763,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 430996,
-      "num": 430996,
-      "word": "时代峰峻 电影咖",
-      "onboard_time": 1780560619,
-      "rank": 6,
-      "category": "电影"
-    },
-    {
       "raw_hot": 427765,
       "num": 427765,
       "word": "刘红兵婚后一下就烂掉了",
@@ -1809,14 +1825,6 @@
       "onboard_time": 1780320982,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 419778,
-      "num": 354041,
-      "word": "物业骂业主住不起就滚",
-      "onboard_time": 1780561159,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 418212,
@@ -2201,6 +2209,14 @@
       "onboard_time": 1780484419,
       "rank": 21,
       "category": "美食"
+    },
+    {
+      "raw_hot": 355194,
+      "num": 261559,
+      "word": "四太梁安琪一家吃饺子的排场",
+      "onboard_time": 1780561579,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 354968,
@@ -2651,6 +2667,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 292296,
+      "num": 286123,
+      "word": "猴哥说车前妻自曝曾被男明星搭讪",
+      "onboard_time": 1780557079,
+      "rank": 31,
+      "category": "网红"
+    },
+    {
       "raw_hot": 292208,
       "num": 292208,
       "word": "泥人村干部被卷走监控曝光",
@@ -2793,14 +2817,6 @@
       "onboard_time": 1780283479,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 286123,
-      "num": 286123,
-      "word": "猴哥说车前妻自曝曾被男明星搭讪",
-      "onboard_time": 1780557079,
-      "rank": 31,
-      "category": "网红"
     },
     {
       "raw_hot": 284817,
@@ -2979,14 +2995,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 261559,
-      "num": 261559,
-      "word": "四太梁安琪一家吃饺子的排场",
-      "onboard_time": 1780561579,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 261542,
       "num": 690702,
       "word": "虞书欣复刻小兰花施法手势",
@@ -3155,8 +3163,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 245577,
+      "num": 376087,
+      "word": "空调28度会比26度省电吗",
+      "onboard_time": 1780549759,
+      "rank": 13,
+      "category": "数码"
+    },
+    {
       "raw_hot": 245414,
-      "num": 394872,
+      "num": 1082828,
       "word": "2030年AI耗水量够13亿人用一年",
       "onboard_time": 1780559780,
       "rank": 8,
@@ -3201,14 +3217,6 @@
       "onboard_time": 1780272440,
       "rank": 25,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 242130,
-      "num": 376087,
-      "word": "空调28度会比26度省电吗",
-      "onboard_time": 1780549759,
-      "rank": 13,
-      "category": "数码"
     },
     {
       "raw_hot": 240668,
@@ -3355,6 +3363,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 227812,
+      "num": 176148,
+      "word": "黄仁勋想见Faker",
+      "onboard_time": 1780563919,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 226388,
       "num": 226388,
       "word": "万花世界 鞠婧祎戏份",
@@ -3377,6 +3393,14 @@
       "onboard_time": 1780550179,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 223483,
+      "num": 207609,
+      "word": "17岁女孩搓澡太用力竟致黄体破裂",
+      "onboard_time": 1780559421,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 222761,
@@ -3475,6 +3499,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 218017,
+      "num": 373379,
+      "word": "美股芯片巨头暴跌",
+      "onboard_time": 1780556779,
+      "rank": 16,
+      "category": "财经"
+    },
+    {
       "raw_hot": 217804,
       "num": 217804,
       "word": "多名艺人辞演后特朗普决定自己上台",
@@ -3569,14 +3601,6 @@
       "onboard_time": 1780537819,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 213117,
-      "num": 213117,
-      "word": "刘亦菲又自己乱剪头发了",
-      "onboard_time": 1780563200,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 213055,
@@ -3931,14 +3955,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 188542,
-      "num": 373379,
-      "word": "美股芯片巨头暴跌",
-      "onboard_time": 1780556779,
-      "rank": 16,
-      "category": "财经"
-    },
-    {
       "raw_hot": 188185,
       "num": 372984,
       "word": "全球央行扫货黄金",
@@ -4155,14 +4171,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 176414,
-      "num": 176414,
-      "word": "17岁女孩搓澡太用力竟致黄体破裂",
-      "onboard_time": 1780559421,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 174518,
       "num": 174518,
       "word": "封潇潇楚嘉禾分手",
@@ -4297,6 +4305,14 @@
       "onboard_time": 1780494081,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 164671,
+      "num": 164671,
+      "word": "神仙肉男主传一个跑一个",
+      "onboard_time": 1780564100,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 164447,
@@ -4577,6 +4593,22 @@
       "onboard_time": 1780529838,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 147042,
+      "num": 147042,
+      "word": "给阿嬷的情书票房破15亿",
+      "onboard_time": 1780564159,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 146947,
+      "num": 146946,
+      "word": "能不能禁大磨皮大滤镜",
+      "onboard_time": 1780558821,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 146865,
@@ -5259,6 +5291,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 96085,
+      "num": 146948,
+      "word": "比亚迪携手中国石化深化战略合作",
+      "onboard_time": 1780564159,
+      "rank": 47,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 95885,
       "num": 311144,
       "word": "华为MatePadProMax全网首拆",
@@ -5473,6 +5513,14 @@
       "onboard_time": 1780355959,
       "rank": 45,
       "category": "财经"
+    },
+    {
+      "raw_hot": 81697,
+      "num": 209406,
+      "word": "耀眼",
+      "onboard_time": 1780251555,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 81431,
@@ -6123,14 +6171,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 32817,
-      "num": 32817,
-      "word": "耀眼",
-      "onboard_time": 1780251555,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 32517,
       "num": 142326,
       "word": "阴阳师",
@@ -6323,6 +6363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 24301,
+      "num": 1082705,
+      "word": "端午小长假购票提醒收好",
+      "onboard_time": 1780556000,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 23798,
       "num": 43365,
       "word": "男子举报出租车后遭咒骂女儿得癌症",
@@ -6435,6 +6483,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 19514,
+      "num": 209503,
+      "word": "曝光不戴头盔人员透露单位引关注",
+      "onboard_time": 1780563681,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 19137,
       "num": 254057,
       "word": "茅台否认经销商办峰会卖低价飞天",
@@ -6496,6 +6552,14 @@
       "word": "代购宝马X5经层层转包给个人运输",
       "onboard_time": 1780390880,
       "rank": 17,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 16728,
+      "num": 171540,
+      "word": "起底2188元一碗面关联门店",
+      "onboard_time": 1780563620,
+      "rank": 38,
       "category": "民生新闻"
     },
     {

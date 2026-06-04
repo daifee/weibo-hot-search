@@ -1,0 +1,410 @@
+{
+  "runTime": 1780564275368,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 520900,
+        "num": 1083344,
+        "word": "翘楚男演员 分不清",
+        "onboard_time": 1780549939,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 230570,
+        "num": 1082828,
+        "word": "2030年AI耗水量够13亿人用一年",
+        "onboard_time": 1780559780,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 24301,
+        "num": 1082705,
+        "word": "端午小长假购票提醒收好",
+        "onboard_time": 1780556000,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1419817,
+        "num": 1082696,
+        "word": "不要穿灰色裤子去健身房",
+        "onboard_time": 1780555881,
+        "rank": 3,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 1082642,
+        "num": 1082642,
+        "word": "吃外卖4年的最好证明",
+        "onboard_time": 1780560200,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 515479,
+        "num": 515479,
+        "word": "时代峰峻 电影咖",
+        "onboard_time": 1780560619,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 480127,
+        "num": 480127,
+        "word": "现在回小卖部简直是降维打击",
+        "onboard_time": 1780555340,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 323760,
+        "num": 323760,
+        "word": "是要吊销我的奶瓶吗",
+        "onboard_time": 1780559961,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 294306,
+        "num": 294306,
+        "word": "睫毛没把自己当异物",
+        "onboard_time": 1780556420,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 60159,
+        "num": 293108,
+        "word": "NBA总决赛球迷冲场",
+        "onboard_time": 1780545680,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1819469,
+        "num": 272809,
+        "word": "刘亦菲北电同学聚会照",
+        "onboard_time": 1780559720,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 897955,
+        "num": 263588,
+        "word": "物业骂业主住不起就滚",
+        "onboard_time": 1780561159,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 652681,
+        "num": 248156,
+        "word": "杭州四季青半裸男团表演引争议",
+        "onboard_time": 1780559181,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 245577,
+        "num": 245577,
+        "word": "空调28度会比26度省电吗",
+        "onboard_time": 1780549759,
+        "rank": 13,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 218017,
+        "num": 218017,
+        "word": "美股芯片巨头暴跌",
+        "onboard_time": 1780556779,
+        "rank": 14,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 183545,
+        "num": 212180,
+        "word": "泡泡玛特告奈雪的茶获赔32万",
+        "onboard_time": 1780554260,
+        "rank": 15,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 169245,
+        "num": 210496,
+        "word": "全球央行扫货黄金",
+        "onboard_time": 1780550420,
+        "rank": 16,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 210052,
+        "num": 210052,
+        "word": "平均睡眠7小时却3年出现2次脑梗",
+        "onboard_time": 1780539798,
+        "rank": 17,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 19514,
+        "num": 209503,
+        "word": "曝光不戴头盔人员透露单位引关注",
+        "onboard_time": 1780563681,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81697,
+        "num": 209406,
+        "word": "耀眼",
+        "onboard_time": 1780563681,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 944160,
+        "num": 208149,
+        "word": "杨颖要求黑粉公开赔礼道歉",
+        "onboard_time": 1780550359,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 223483,
+        "num": 207609,
+        "word": "17岁女孩搓澡太用力竟致黄体破裂",
+        "onboard_time": 1780559421,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 531375,
+        "num": 207083,
+        "word": "刘亦菲又自己乱剪头发了",
+        "onboard_time": 1780563200,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 527832,
+        "num": 206651,
+        "word": "小英都变张元英了",
+        "onboard_time": 1780548920,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206221,
+        "num": 206221,
+        "word": "在工位上看到我爸发的消息",
+        "onboard_time": 1780550179,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 422008,
+        "num": 195268,
+        "word": "李荣浩亲吻杨丞琳播放量2亿",
+        "onboard_time": 1780556299,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 336522,
+        "num": 195002,
+        "word": "马頔一心动就咬李纯脑袋",
+        "onboard_time": 1780554380,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182125,
+        "num": 182125,
+        "word": "做咖啡喝咖啡送咖啡的都辛苦",
+        "onboard_time": 1780561280,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 113306,
+        "num": 182012,
+        "word": "中国不存在所谓强迫劳动",
+        "onboard_time": 1780543039,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 91502,
+        "num": 180149,
+        "word": "半导体集体爆涨原因",
+        "onboard_time": 1780562541,
+        "rank": 29,
+        "category": "财经,互联网"
+      },
+      {
+        "raw_hot": 973822,
+        "num": 179318,
+        "word": "疑似女子当街踩踏他人头部",
+        "onboard_time": 1780562420,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 355194,
+        "num": 178439,
+        "word": "四太梁安琪一家吃饺子的排场",
+        "onboard_time": 1780561579,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 292296,
+        "num": 177565,
+        "word": "猴哥说车前妻自曝曾被男明星搭讪",
+        "onboard_time": 1780557079,
+        "rank": 32,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 227812,
+        "num": 176148,
+        "word": "黄仁勋想见Faker",
+        "onboard_time": 1780563919,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 238788,
+        "num": 175829,
+        "word": "韩栋直播哭诉没戏拍",
+        "onboard_time": 1780546940,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 220018,
+        "num": 174091,
+        "word": "刘冲抢了方媛的单人间",
+        "onboard_time": 1780549639,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174030,
+        "num": 174030,
+        "word": "曝iPhone18Pro首发第二代灵动岛",
+        "onboard_time": 1780551739,
+        "rank": 36,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 206970,
+        "num": 173193,
+        "word": "范丞丞赵今麦电影开通官微",
+        "onboard_time": 1780561399,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 16728,
+        "num": 171540,
+        "word": "起底2188元一碗面关联门店",
+        "onboard_time": 1780563620,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 196980,
+        "num": 168132,
+        "word": "杨天真胳膊怎么了",
+        "onboard_time": 1780552099,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185647,
+        "num": 165779,
+        "word": "奚梦瑶对婆婆的称呼",
+        "onboard_time": 1780563140,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164671,
+        "num": 164671,
+        "word": "神仙肉男主传一个跑一个",
+        "onboard_time": 1780564100,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114572,
+        "num": 156238,
+        "word": "苹果实况你要毁了小猫",
+        "onboard_time": 1780544360,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 180614,
+        "num": 153994,
+        "word": "灵魂摆渡演技最差的出现了",
+        "onboard_time": 1780554799,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148909,
+        "num": 148909,
+        "word": "郭聪明自曝欠了很多债",
+        "onboard_time": 1780550659,
+        "rank": 44,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 112586,
+        "num": 147269,
+        "word": "乌军用星链无人机炸毁俄护卫舰",
+        "onboard_time": 1780562120,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 147042,
+        "num": 147042,
+        "word": "给阿嬷的情书票房破15亿",
+        "onboard_time": 1780564159,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 96085,
+        "num": 146948,
+        "word": "比亚迪携手中国石化深化战略合作",
+        "onboard_time": 1780564159,
+        "rank": 47,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 85318,
+        "num": 146947,
+        "word": "加满一箱油能少花20.5元",
+        "onboard_time": 1780557559,
+        "rank": 48,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 146947,
+        "num": 146946,
+        "word": "能不能禁大磨皮大滤镜",
+        "onboard_time": 1780558821,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#100秒看大国外交的繁忙五月#"
+    }
+  }
+}
