@@ -1,6 +1,6 @@
 {
   "startTime": 1780247827631,
-  "endTime": 1780576111083,
+  "endTime": 1780588703729,
   "band_list": [
     {
       "raw_hot": 6730138,
@@ -211,6 +211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1871442,
+      "num": 205368,
+      "word": "余承恩工作室删除神仙肉评论",
+      "onboard_time": 1780586901,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1864958,
       "num": 1864958,
       "word": "主角编剧疯了",
@@ -240,6 +248,14 @@
       "word": "李登科曝王源事业停滞原因",
       "onboard_time": 1780411282,
       "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1710153,
+      "num": 338926,
+      "word": "何猷君伴郎之一是雅诗兰黛继承人",
+      "onboard_time": 1780568840,
+      "rank": 18,
       "category": "艺人"
     },
     {
@@ -424,6 +440,14 @@
       "word": "迪丽热巴让张馨予先上车并安全报备",
       "onboard_time": 1780458321,
       "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1261724,
+      "num": 234263,
+      "word": "金秀贤与未成年金赛纶交往系不实消息",
+      "onboard_time": 1780576400,
+      "rank": 11,
       "category": "艺人"
     },
     {
@@ -651,14 +675,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 971966,
-      "num": 338926,
-      "word": "何猷君伴郎之一是雅诗兰黛继承人",
-      "onboard_time": 1780568840,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 944160,
       "num": 365456,
       "word": "杨颖要求黑粉公开赔礼道歉",
@@ -667,11 +683,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 932405,
+      "num": 199094,
+      "word": "李晨 被误会的心形石头",
+      "onboard_time": 1780576639,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 929527,
       "num": 735703,
       "word": "陈妍希六一晒孩子照片",
       "onboard_time": 1780359980,
       "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 928780,
+      "num": 223747,
+      "word": "奚梦瑶伴娘阵容",
+      "onboard_time": 1780580542,
+      "rank": 14,
       "category": "艺人"
     },
     {
@@ -793,6 +825,14 @@
       "onboard_time": 1780301240,
       "rank": 4,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 836292,
+      "num": 231207,
+      "word": "Gemini 美国豆包",
+      "onboard_time": 1780580120,
+      "rank": 12,
+      "category": "互联网"
     },
     {
       "raw_hot": 820488,
@@ -1467,6 +1507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 542357,
+      "num": 542357,
+      "word": "江语晨来浪姐胖了12斤",
+      "onboard_time": 1780580120,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 537981,
       "num": 435966,
       "word": "河道有大量蛇出没已喷驱蛇粉",
@@ -1577,6 +1625,14 @@
       "onboard_time": 1780300640,
       "rank": 5,
       "category": "电影"
+    },
+    {
+      "raw_hot": 505386,
+      "num": 505386,
+      "word": "Bin被罚15万",
+      "onboard_time": 1780579100,
+      "rank": 4,
+      "category": "电竞"
     },
     {
       "raw_hot": 500707,
@@ -2003,6 +2059,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 408307,
+      "num": 203185,
+      "word": "钟辰乐道歉了",
+      "onboard_time": 1780582341,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 407886,
       "num": 276037,
       "word": "iPhone18ProMax实测厚度8.75mm",
@@ -2017,6 +2081,14 @@
       "onboard_time": 1780409181,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 407459,
+      "num": 197553,
+      "word": "原来燃气灶一直用错了",
+      "onboard_time": 1780577180,
+      "rank": 32,
+      "category": "科学科普"
     },
     {
       "raw_hot": 406029,
@@ -2235,6 +2307,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 371647,
+      "num": 197046,
+      "word": "章子怡张艺谋 犟种闺女苦命爹",
+      "onboard_time": 1780580241,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 370458,
       "num": 370458,
       "word": "睫毛没把自己当异物",
@@ -2296,6 +2376,14 @@
       "word": "奚梦瑶婚礼香槟塔里装的是提拉米苏",
       "onboard_time": 1780470860,
       "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 357661,
+      "num": 194366,
+      "word": "刘亦菲一点法令纹没有",
+      "onboard_time": 1780578800,
+      "rank": 36,
       "category": "艺人"
     },
     {
@@ -2419,6 +2507,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 342999,
+      "num": 190432,
+      "word": "黄多多为家人做饭",
+      "onboard_time": 1780575320,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 342995,
       "num": 323318,
       "word": "丈夫暗藏1400万女子付不起7000医药费",
@@ -2440,6 +2536,14 @@
       "word": "给5岁女儿买完万元Gucci裙子发现打折",
       "onboard_time": 1780288280,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 336915,
+      "num": 789850,
+      "word": "国企回应保安只让员工孩子进门躲雨",
+      "onboard_time": 1780583301,
+      "rank": 1,
       "category": "民生新闻"
     },
     {
@@ -2987,6 +3091,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 282677,
+      "num": 282677,
+      "word": "小米寻天汽车最新谍照曝光",
+      "onboard_time": 1780580001,
+      "rank": 6,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 282535,
       "num": 282535,
       "word": "封潇潇楚嘉禾在一起了",
@@ -3323,12 +3435,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 244480,
+      "num": 244480,
+      "word": "白鹿何与或演开到荼靡",
+      "onboard_time": 1780578500,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 244077,
       "num": 259783,
       "word": "主角大结局升华了",
       "onboard_time": 1780528337,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 243940,
+      "num": 243940,
+      "word": "LPL发布BLG和Bin的处罚公告",
+      "onboard_time": 1780579100,
+      "rank": 8,
+      "category": "电竞"
     },
     {
       "raw_hot": 243781,
@@ -3377,6 +3505,14 @@
       "onboard_time": 1780246098,
       "rank": 47,
       "category": "网红"
+    },
+    {
+      "raw_hot": 239040,
+      "num": 239040,
+      "word": "曝Bin对自己行为非常后悔",
+      "onboard_time": 1780584621,
+      "rank": 9,
+      "category": "电竞"
     },
     {
       "raw_hot": 237794,
@@ -3529,6 +3665,14 @@
       "onboard_time": 1780480101,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 225718,
+      "num": 167773,
+      "word": "张凌赫粉丝补偿到账",
+      "onboard_time": 1780588280,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 223881,
@@ -3875,6 +4019,14 @@
       "category": "民生新闻,健康医疗"
     },
     {
+      "raw_hot": 205503,
+      "num": 205503,
+      "word": "胖东来将安装2000万元室外音响",
+      "onboard_time": 1780574839,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 205421,
       "num": 205421,
       "word": "奚梦瑶对婆婆的称呼",
@@ -4051,6 +4203,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 196831,
+      "num": 196831,
+      "word": "北京体育大学 恭迎龙王回归",
+      "onboard_time": 1780577840,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 195281,
       "num": 195281,
       "word": "惠英红66岁拿下Loewe全球广告",
@@ -4096,6 +4256,14 @@
       "word": "苏州大学回应36岁副教授薛艳华去世",
       "onboard_time": 1780528578,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 191848,
+      "num": 191848,
+      "word": "上海泳渡赛隐私照遭泄露警方已立案",
+      "onboard_time": 1780579282,
+      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -4249,6 +4417,14 @@
       "onboard_time": 1780279458,
       "rank": 30,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 182561,
+      "num": 182561,
+      "word": "中国女排3比2泰国女排",
+      "onboard_time": 1780583661,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 182528,
@@ -4587,6 +4763,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 160225,
+      "num": 153385,
+      "word": "浪姐",
+      "onboard_time": 1780578440,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 160192,
+      "num": 160192,
+      "word": "耐克正在被消费者抛弃",
+      "onboard_time": 1780587320,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 159881,
       "num": 159881,
       "word": "曝张纪中离婚前将两套豪宅过户给现任",
@@ -4795,6 +4987,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 147346,
+      "num": 200241,
+      "word": "日本扬言以综合国力应对中国军力",
+      "onboard_time": 1780584560,
+      "rank": 28,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 147042,
       "num": 287698,
       "word": "给阿嬷的情书票房破15亿",
@@ -4841,6 +5041,14 @@
       "onboard_time": 1780571661,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 145648,
+      "num": 145648,
+      "word": "刘萧旭郭宇欣逛超市路透",
+      "onboard_time": 1780587740,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 145614,
@@ -5123,14 +5331,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 127024,
-      "num": 120738,
-      "word": "黄多多为家人做饭",
-      "onboard_time": 1780575320,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 125833,
       "num": 145934,
       "word": "华为MatePadProMax电脑级体验",
@@ -5209,6 +5409,14 @@
       "onboard_time": 1780311140,
       "rank": 49,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 121549,
+      "num": 146814,
+      "word": "客服回应iPhone改日期空出20G",
+      "onboard_time": 1780578500,
+      "rank": 47,
+      "category": "数码"
     },
     {
       "raw_hot": 121543,
@@ -5443,12 +5651,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 103258,
+      "num": 204424,
+      "word": "大东码头14岁女孩落水已证实遇难",
+      "onboard_time": 1780588339,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 101865,
       "num": 121377,
       "word": "中际旭创总市值破1.2万亿元",
       "onboard_time": 1780316842,
       "rank": 48,
       "category": "财经,互联网"
+    },
+    {
+      "raw_hot": 100839,
+      "num": 202305,
+      "word": "科威特国际机场遭袭瞬间曝光",
+      "onboard_time": 1780580601,
+      "rank": 25,
+      "category": "国际时政"
     },
     {
       "raw_hot": 100246,
@@ -5667,6 +5891,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 88648,
+      "num": 184694,
+      "word": "大妈被柿子砸中额头伤口3年没愈合",
+      "onboard_time": 1780588399,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 88568,
       "num": 273728,
       "word": "俄5岁女童被男邻居强行抱走",
@@ -5843,6 +6075,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 76792,
+      "num": 141477,
+      "word": "金饰价格每克降约两成",
+      "onboard_time": 1780578621,
+      "rank": 49,
+      "category": "财经"
+    },
+    {
       "raw_hot": 76593,
       "num": 225120,
       "word": "难怪叫主角 因为配角走光了",
@@ -5921,6 +6161,14 @@
       "onboard_time": 1780230080,
       "rank": 39,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 70848,
+      "num": 203917,
+      "word": "交警回应摩托车狂飙与高铁并驾齐驱",
+      "onboard_time": 1780588399,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 70411,
@@ -6193,14 +6441,6 @@
       "onboard_time": 1780570339,
       "rank": 36,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 51173,
-      "num": 144377,
-      "word": "胖东来将安装2000万元室外音响",
-      "onboard_time": 1780574839,
-      "rank": 20,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 50536,
@@ -6963,6 +7203,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 15176,
+      "num": 201752,
+      "word": "女子收房发现别墅旁长出同款违建",
+      "onboard_time": 1780588399,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 13948,
       "num": 293932,
       "word": "哈尔滨沙尘暴一秒入夜拍摄者发声",
@@ -7052,6 +7300,9 @@
     },
     {
       "word": "#100秒看大国外交的繁忙五月#"
+    },
+    {
+      "word": "#一张泛黄发票的故事#"
     }
   ]
 }
