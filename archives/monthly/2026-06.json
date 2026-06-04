@@ -1,6 +1,6 @@
 {
   "startTime": 1780247827631,
-  "endTime": 1780532097173,
+  "endTime": 1780548327520,
   "band_list": [
     {
       "raw_hot": 6730138,
@@ -89,6 +89,14 @@
       "onboard_time": 1780296681,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 2672850,
+      "num": 221017,
+      "word": "奚梦瑶晒照感谢婆婆",
+      "onboard_time": 1780536678,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 2661374,
@@ -211,6 +219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1699706,
+      "num": 219175,
+      "word": "奚梦瑶家境",
+      "onboard_time": 1780541719,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1647187,
       "num": 1647187,
       "word": "日本排外情绪空前高涨",
@@ -233,6 +249,14 @@
       "onboard_time": 1780477401,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1506236,
+      "num": 1027216,
+      "word": "平均睡眠7小时却3年出现2次脑梗",
+      "onboard_time": 1780539798,
+      "rank": 3,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 1505607,
@@ -305,6 +329,14 @@
       "onboard_time": 1780402761,
       "rank": 15,
       "category": "作品衍生,互联网"
+    },
+    {
+      "raw_hot": 1353053,
+      "num": 350412,
+      "word": "地球online穿模了",
+      "onboard_time": 1780542319,
+      "rank": 10,
+      "category": "幽默"
     },
     {
       "raw_hot": 1319332,
@@ -443,6 +475,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1096052,
+      "num": 347584,
+      "word": "韩栋直播哭诉没戏拍",
+      "onboard_time": 1780546940,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1087485,
       "num": 1087485,
       "word": "严浩翔的安全带不是P的",
@@ -488,6 +528,14 @@
       "word": "穿洞洞鞋得了角化型脚气",
       "onboard_time": 1780452620,
       "rank": 3,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 1026612,
+      "num": 1026612,
+      "word": "租房遇见这空调天塌了",
+      "onboard_time": 1780541600,
+      "rank": 4,
       "category": "幽默"
     },
     {
@@ -707,6 +755,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 778322,
+      "num": 220582,
+      "word": "iPhone18Pro八大亮点",
+      "onboard_time": 1780536860,
+      "rank": 21,
+      "category": "数码"
+    },
+    {
       "raw_hot": 778264,
       "num": 742793,
       "word": "孙怡忍了三天 发现自己真的很爱",
@@ -795,6 +851,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 742848,
+      "num": 327872,
+      "word": "顾客被张雪店员教唆偷开无牌照机车",
+      "onboard_time": 1780541840,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 731932,
       "num": 1117109,
       "word": "纽约时报严重违反一个中国原则",
@@ -833,6 +897,14 @@
       "onboard_time": 1780315040,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 701377,
+      "num": 701377,
+      "word": "苹果实况你要毁了小猫",
+      "onboard_time": 1780544360,
+      "rank": 5,
+      "category": "幽默"
     },
     {
       "raw_hot": 695638,
@@ -875,6 +947,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 682062,
+      "num": 682062,
+      "word": "尼克斯1比0马刺",
+      "onboard_time": 1780544300,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 678957,
       "num": 387034,
       "word": "爱情公寓2026迎来了NPC宣发期",
@@ -913,6 +993,14 @@
       "onboard_time": 1780444580,
       "rank": 10,
       "category": "财经"
+    },
+    {
+      "raw_hot": 660426,
+      "num": 660426,
+      "word": "2188元一碗面日均卖出几十碗",
+      "onboard_time": 1780544541,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 651066,
@@ -1163,6 +1251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 560469,
+      "num": 317245,
+      "word": "杨洋曾想整鼻子",
+      "onboard_time": 1780542198,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 557597,
       "num": 896066,
       "word": "歌手第四期淘汰三名歌手",
@@ -1257,6 +1353,14 @@
       "onboard_time": 1780300640,
       "rank": 5,
       "category": "电影"
+    },
+    {
+      "raw_hot": 503246,
+      "num": 220299,
+      "word": "法国女孩头痛多年在中国找到病因",
+      "onboard_time": 1780545138,
+      "rank": 22,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 497748,
@@ -1523,6 +1627,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 429741,
+      "num": 220034,
+      "word": "飞机上偶遇张凌赫睡觉",
+      "onboard_time": 1780542499,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 427765,
       "num": 427765,
       "word": "刘红兵婚后一下就烂掉了",
@@ -1643,6 +1755,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 407886,
+      "num": 219496,
+      "word": "iPhone18ProMax实测厚度8.75mm",
+      "onboard_time": 1780538479,
+      "rank": 24,
+      "category": "数码"
+    },
+    {
       "raw_hot": 407834,
       "num": 387808,
       "word": "何猷君回复王嘉尔",
@@ -1723,6 +1843,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 397439,
+      "num": 316250,
+      "word": "女子买验孕笔用后仅退款还嘲讽商家",
+      "onboard_time": 1780538120,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 395271,
       "num": 395271,
       "word": "虞书欣演长剧导短剧",
@@ -1747,12 +1875,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 390559,
+      "num": 1062489,
+      "word": "家业没破万",
+      "onboard_time": 1780535838,
+      "rank": 0,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 389100,
       "num": 358230,
       "word": "锤娜丽莎李川一度要分手",
       "onboard_time": 1780303521,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 388051,
+      "num": 1032750,
+      "word": "中国不存在所谓强迫劳动",
+      "onboard_time": 1780543039,
+      "rank": 1,
+      "category": "国内时政"
     },
     {
       "raw_hot": 385952,
@@ -1835,6 +1979,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 369544,
+      "num": 369544,
+      "word": "杨紫吐槽横店怎么会有这么多坏马",
+      "onboard_time": 1780541780,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 369298,
       "num": 369298,
       "word": "谁给董洁做的妆造",
@@ -1881,6 +2033,14 @@
       "onboard_time": 1780300101,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 356560,
+      "num": 308909,
+      "word": "NBA总决赛球迷冲场",
+      "onboard_time": 1780545680,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 356036,
@@ -2155,6 +2315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 316500,
+      "num": 316500,
+      "word": "杨紫扛剧能力",
+      "onboard_time": 1780545380,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 316311,
       "num": 316311,
       "word": "要学会把自己养得很好",
@@ -2256,6 +2424,14 @@
       "word": "女子爱喝冰饮胃癌晚期卵巢长肿瘤",
       "onboard_time": 1780472361,
       "rank": 25,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 297545,
+      "num": 297545,
+      "word": "注会师跳槽甲方10个月赚6000万",
+      "onboard_time": 1780533559,
+      "rank": 17,
       "category": "民生新闻"
     },
     {
@@ -2563,6 +2739,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 270696,
+      "num": 219037,
+      "word": "当章若楠发现主持人的裙子有点短",
+      "onboard_time": 1780547300,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 268986,
       "num": 268986,
       "word": "演员钟景辉去世",
@@ -2633,6 +2817,14 @@
       "onboard_time": 1780364421,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 261475,
+      "num": 217486,
+      "word": "NBA总决赛",
+      "onboard_time": 1780535061,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 259231,
@@ -2859,6 +3051,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 236150,
+      "num": 217287,
+      "word": "向太自曝房产只写了自己名字",
+      "onboard_time": 1780546098,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 236056,
       "num": 323147,
       "word": "一进入高温就会人品消失",
@@ -2873,6 +3073,14 @@
       "onboard_time": 1780238360,
       "rank": 12,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 234713,
+      "num": 362591,
+      "word": "曝VisionPro产品线被移除",
+      "onboard_time": 1780542799,
+      "rank": 9,
+      "category": "数码"
     },
     {
       "raw_hot": 233305,
@@ -2971,12 +3179,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 222382,
+      "num": 218081,
+      "word": "家业 版权剧",
+      "onboard_time": 1780543639,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 221927,
       "num": 221927,
       "word": "忆秦娥知世故了",
       "onboard_time": 1780406361,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 221467,
+      "num": 221467,
+      "word": "日本超市货架正在失去颜色",
+      "onboard_time": 1780536799,
+      "rank": 18,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 220552,
@@ -3067,12 +3291,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 216714,
+      "num": 216714,
+      "word": "12岁男孩一顿半斤肉体重200斤",
+      "onboard_time": 1780541359,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 216562,
       "num": 433299,
       "word": "妻子穿几十元T恤丈夫满身名牌做医美",
       "onboard_time": 1780416320,
       "rank": 13,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 215438,
+      "num": 215438,
+      "word": "尼克斯vs马刺",
+      "onboard_time": 1780535420,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 215387,
@@ -3097,6 +3337,14 @@
       "onboard_time": 1780528937,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 213165,
+      "num": 213165,
+      "word": "虞书欣双轨海外热度超过许我耀眼",
+      "onboard_time": 1780537819,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 213055,
@@ -3387,6 +3635,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 190439,
+      "num": 217978,
+      "word": "灵魂摆渡十年孕妇故事大反转",
+      "onboard_time": 1780541479,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 189669,
+      "num": 189669,
+      "word": "王嘉尔何猷君跳舞",
+      "onboard_time": 1780538059,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 189657,
       "num": 185455,
       "word": "云合",
@@ -3401,6 +3665,14 @@
       "onboard_time": 1780397781,
       "rank": 43,
       "category": "网红"
+    },
+    {
+      "raw_hot": 186789,
+      "num": 186789,
+      "word": "苹果输入法你上过学没有",
+      "onboard_time": 1780544959,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 186732,
@@ -3433,6 +3705,14 @@
       "onboard_time": 1780470681,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 184563,
+      "num": 184563,
+      "word": "6月桃花运最旺的星座",
+      "onboard_time": 1780543700,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 183932,
@@ -3619,6 +3899,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 173117,
+      "num": 173117,
+      "word": "Knight要去MSI",
+      "onboard_time": 1780546581,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 172290,
       "num": 320890,
       "word": "全球首棵龙眼味荔枝树",
@@ -3707,6 +3995,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 163666,
+      "num": 163666,
+      "word": "去图书馆太频繁的后果",
+      "onboard_time": 1780534580,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 163487,
       "num": 357466,
       "word": "长期坚持的秘诀就是无视中断",
@@ -3747,6 +4043,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 162494,
+      "num": 162494,
+      "word": "马頔看到了网友让他别碰李纯",
+      "onboard_time": 1780537520,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 162018,
       "num": 143425,
       "word": "其实补气血真的很简单",
@@ -3777,6 +4081,14 @@
       "onboard_time": 1780320021,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 159730,
+      "num": 159730,
+      "word": "胡三元 老年痴呆",
+      "onboard_time": 1780533799,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 159321,
@@ -3825,6 +4137,14 @@
       "onboard_time": 1780492040,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 153545,
+      "num": 153545,
+      "word": "布伦森回应伤情",
+      "onboard_time": 1780547300,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 153212,
@@ -3881,6 +4201,14 @@
       "onboard_time": 1780487779,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 149784,
+      "num": 149784,
+      "word": "正脸和侧脸的差别能有多大",
+      "onboard_time": 1780547840,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 149727,
@@ -4073,6 +4401,14 @@
       "onboard_time": 1780313360,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 136306,
+      "num": 136306,
+      "word": "31岁美女模特祖孙三代同患罕见病",
+      "onboard_time": 1780547961,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 135765,
@@ -4345,6 +4681,14 @@
       "onboard_time": 1780273578,
       "rank": 9,
       "category": "演出"
+    },
+    {
+      "raw_hot": 111957,
+      "num": 218576,
+      "word": "菲律宾落选安理会非常任理事国",
+      "onboard_time": 1780533861,
+      "rank": 27,
+      "category": "国际时政"
     },
     {
       "raw_hot": 110549,
@@ -4747,6 +5091,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 81431,
+      "num": 122879,
+      "word": "泽连斯基称愿即刻与普京直接谈判",
+      "onboard_time": 1780540279,
+      "rank": 49,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 81308,
       "num": 81308,
       "word": "哈尔滨突发沙尘暴市民称有点像世界末日",
@@ -4987,6 +5339,22 @@
       "category": "互联网,财经"
     },
     {
+      "raw_hot": 60073,
+      "num": 216752,
+      "word": "高考旗袍被考生家长买断货",
+      "onboard_time": 1780547000,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 59897,
+      "num": 177487,
+      "word": "周迅朴叙俊金高银同框",
+      "onboard_time": 1780548200,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 59509,
       "num": 1151215,
       "word": "长征十二号乙运载火箭首飞成功",
@@ -5209,6 +5577,14 @@
       "onboard_time": 1780462102,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 41853,
+      "num": 1027229,
+      "word": "每一次突破见证中国基建实力",
+      "onboard_time": 1780540879,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 41721,
@@ -5849,6 +6225,9 @@
     },
     {
       "word": "#政绩观里的文化根脉#"
+    },
+    {
+      "word": "#100秒看大国外交的繁忙五月#"
     }
   ]
 }
