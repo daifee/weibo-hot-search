@@ -1,0 +1,410 @@
+{
+  "runTime": 1780576111083,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 869701,
+        "num": 1139152,
+        "word": "原价899的耐克降至429消费者仍不买账",
+        "onboard_time": 1780566680,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 519488,
+        "num": 818365,
+        "word": "中方回应2名日本人处理日遗化武受伤",
+        "onboard_time": 1780571539,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 29722,
+        "num": 659399,
+        "word": "粤港澳大湾区又一座世界之最",
+        "onboard_time": 1780556120,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1245420,
+        "num": 630356,
+        "word": "原来面条坨了也有邪修",
+        "onboard_time": 1780573340,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1009431,
+        "num": 621683,
+        "word": "黄灿灿唐艺昕 雪人",
+        "onboard_time": 1780574120,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 593275,
+        "num": 593275,
+        "word": "吃外卖4年的最好证明",
+        "onboard_time": 1780560200,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 398195,
+        "num": 398195,
+        "word": "神仙肉 侯明昊",
+        "onboard_time": 1780569560,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 269210,
+        "num": 269210,
+        "word": "时代峰峻 电影咖",
+        "onboard_time": 1780560619,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 185616,
+        "num": 185616,
+        "word": "泡泡玛特告奈雪的茶获赔32万",
+        "onboard_time": 1780554260,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 153504,
+        "num": 153504,
+        "word": "2030年AI耗水量够13亿人用一年",
+        "onboard_time": 1780559780,
+        "rank": 9,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1511218,
+        "num": 153153,
+        "word": "刘亦菲又自己乱剪头发了",
+        "onboard_time": 1780563200,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1316390,
+        "num": 152360,
+        "word": "宋祖儿路透长得像p了半小时的",
+        "onboard_time": 1780569439,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 369244,
+        "num": 150416,
+        "word": "男子AI写歌月收入十几万",
+        "onboard_time": 1780566561,
+        "rank": 12,
+        "category": "民生新闻,音乐"
+      },
+      {
+        "raw_hot": 37772,
+        "num": 149489,
+        "word": "主角里到底有几个黑娃",
+        "onboard_time": 1780574779,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1215063,
+        "num": 149080,
+        "word": "奚梦瑶何猷君婚礼上摆蒜苔",
+        "onboard_time": 1780572080,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 230853,
+        "num": 146931,
+        "word": "中国夫妻在卡车上包饺子的视频在外网火了",
+        "onboard_time": 1780569320,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 214850,
+        "num": 146253,
+        "word": "我没有刚工作时那么善良了",
+        "onboard_time": 1780569740,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 145822,
+        "num": 145822,
+        "word": "巴萨迎历史上首位中国球员",
+        "onboard_time": 1780571661,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 785289,
+        "num": 145161,
+        "word": "张元英对工作人员态度被审判",
+        "onboard_time": 1780572680,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 74898,
+        "num": 144874,
+        "word": "泪点低的看不得王传君这幅画",
+        "onboard_time": 1780574960,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 51173,
+        "num": 144377,
+        "word": "胖东来将安装2000万元室外音响",
+        "onboard_time": 1780574839,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29241,
+        "num": 143665,
+        "word": "网传杭州2188元面馆老板回应",
+        "onboard_time": 1780575139,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2499859,
+        "num": 142598,
+        "word": "iPhone改日期 空出20G",
+        "onboard_time": 1780571300,
+        "rank": 22,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 971966,
+        "num": 141654,
+        "word": "何猷君伴郎之一是雅诗兰黛继承人",
+        "onboard_time": 1780568840,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 74051,
+        "num": 141015,
+        "word": "山西临汾副市长吴勇主动投案",
+        "onboard_time": 1780574839,
+        "rank": 24,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 670302,
+        "num": 140184,
+        "word": "杨颖要求黑粉公开赔礼道歉",
+        "onboard_time": 1780550359,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 462255,
+        "num": 139569,
+        "word": "田曦薇Gucci镜头",
+        "onboard_time": 1780569439,
+        "rank": 26,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 341324,
+        "num": 139177,
+        "word": "肝衰竭姐姐放弃治疗救弟痛哭不想死",
+        "onboard_time": 1780567819,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 458439,
+        "num": 138157,
+        "word": "曝TF家族运动会分组名单",
+        "onboard_time": 1780566918,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 315399,
+        "num": 137749,
+        "word": "何超盈坐奚梦瑶家人旁边",
+        "onboard_time": 1780565539,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150116,
+        "num": 137180,
+        "word": "谷歌计划投放3200万只蚊子",
+        "onboard_time": 1780569320,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 298713,
+        "num": 135803,
+        "word": "林允瘦到打不动网球",
+        "onboard_time": 1780572199,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 237939,
+        "num": 135117,
+        "word": "神仙肉男主传一个跑一个",
+        "onboard_time": 1780564100,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135077,
+        "num": 135077,
+        "word": "女子为穿衣好看1个月瘦20斤",
+        "onboard_time": 1780572739,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 223713,
+        "num": 129524,
+        "word": "四太梁安琪一家吃饺子的排场",
+        "onboard_time": 1780561579,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 221175,
+        "num": 127220,
+        "word": "网传雪人曾沛慈换黄灿灿",
+        "onboard_time": 1780575199,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123185,
+        "num": 123185,
+        "word": "发明实况拼图的简直是天才",
+        "onboard_time": 1780566981,
+        "rank": 36,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 218673,
+        "num": 122662,
+        "word": "刘亦菲北电同学聚会照",
+        "onboard_time": 1780559720,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 211550,
+        "num": 120966,
+        "word": "鹿晗gapday音乐节",
+        "onboard_time": 1780570221,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 127024,
+        "num": 120738,
+        "word": "黄多多为家人做饭",
+        "onboard_time": 1780575320,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110764,
+        "num": 110764,
+        "word": "杭州四季青半裸男团表演引争议",
+        "onboard_time": 1780559181,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 183420,
+        "num": 110225,
+        "word": "丞磊沈羽洁 低配版西出玉门",
+        "onboard_time": 1780571239,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179323,
+        "num": 109033,
+        "word": "papi酱带货粘尘器翻车",
+        "onboard_time": 1780574599,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112615,
+        "num": 107407,
+        "word": "黄仁勋教你如何应对亚洲父母",
+        "onboard_time": 1780575680,
+        "rank": 43,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 175469,
+        "num": 107351,
+        "word": "周渝民妻子回应被诈骗741万",
+        "onboard_time": 1780564640,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132647,
+        "num": 105678,
+        "word": "花彩香为儿子倾尽所有被赶出家门",
+        "onboard_time": 1780573998,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105077,
+        "num": 105077,
+        "word": "17岁女孩搓澡太用力竟致黄体破裂",
+        "onboard_time": 1780559421,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86386,
+        "num": 100223,
+        "word": "美股芯片巨头暴跌",
+        "onboard_time": 1780556779,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 77929,
+        "num": 99972,
+        "word": "马宁独自一人征战世界杯",
+        "onboard_time": 1780564459,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 99763,
+        "num": 99763,
+        "word": "做咖啡喝咖啡送咖啡的都辛苦",
+        "onboard_time": 1780561280,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#100秒看大国外交的繁忙五月#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1780161470105,
-  "endTime": 1780574858049,
+  "endTime": 1780576111083,
   "band_list": [
     {
       "raw_hot": 6730138,
@@ -371,6 +371,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1511218,
+      "num": 362212,
+      "word": "刘亦菲又自己乱剪头发了",
+      "onboard_time": 1780563200,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1506236,
       "num": 1027216,
       "word": "平均睡眠7小时却3年出现2次脑梗",
@@ -451,14 +459,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1428860,
-      "num": 362212,
-      "word": "刘亦菲又自己乱剪头发了",
-      "onboard_time": 1780563200,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1426797,
       "num": 323055,
       "word": "金鹤龙喊话迪丽热巴",
@@ -507,20 +507,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1316390,
+      "num": 356031,
+      "word": "宋祖儿路透长得像p了半小时的",
+      "onboard_time": 1780569439,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1314072,
       "num": 293260,
       "word": "晚晚疑似怀孕了",
       "onboard_time": 1780301419,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1296293,
-      "num": 356031,
-      "word": "宋祖儿路透长得像p了半小时的",
-      "onboard_time": 1780569439,
-      "rank": 11,
-      "category": "剧集"
     },
     {
       "raw_hot": 1294942,
@@ -571,6 +571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1245420,
+      "num": 630356,
+      "word": "原来面条坨了也有邪修",
+      "onboard_time": 1780573340,
+      "rank": 4,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1242856,
       "num": 906491,
       "word": "停止自嬷",
@@ -583,6 +591,14 @@
       "num": 482115,
       "word": "张杰真不舒服了",
       "onboard_time": 1780384521,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1215063,
+      "num": 346990,
+      "word": "奚梦瑶何猷君婚礼上摆蒜苔",
+      "onboard_time": 1780572080,
       "rank": 13,
       "category": "艺人"
     },
@@ -707,14 +723,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1079628,
-      "num": 346990,
-      "word": "奚梦瑶何猷君婚礼上摆蒜苔",
-      "onboard_time": 1780572080,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1077713,
       "num": 479465,
       "word": "奚梦瑶婚礼把陈学冬召唤出来了",
@@ -779,6 +787,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 1009431,
+      "num": 621683,
+      "word": "黄灿灿唐艺昕 雪人",
+      "onboard_time": 1780574120,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 986792,
       "num": 409871,
       "word": "谢天宇偷看路人裙底",
@@ -817,6 +833,14 @@
       "onboard_time": 1780169474,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 971966,
+      "num": 338926,
+      "word": "何猷君伴郎之一是雅诗兰黛继承人",
+      "onboard_time": 1780568840,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 956319,
@@ -1043,14 +1067,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 817162,
-      "num": 338926,
-      "word": "何猷君伴郎之一是雅诗兰黛继承人",
-      "onboard_time": 1780568840,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 813642,
       "num": 673569,
       "word": "原来老祖宗才是最懂午睡的",
@@ -1128,6 +1144,14 @@
       "word": "张凌赫活动商场玻璃破碎致5擦伤",
       "onboard_time": 1780226660,
       "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 785289,
+      "num": 335977,
+      "word": "张元英对工作人员态度被审判",
+      "onboard_time": 1780572680,
+      "rank": 22,
       "category": "艺人"
     },
     {
@@ -1955,6 +1979,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 519488,
+      "num": 818365,
+      "word": "中方回应2名日本人处理日遗化武受伤",
+      "onboard_time": 1780571539,
+      "rank": 5,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 519203,
       "num": 519203,
       "word": "老人买基金亏70多万银行承担70%",
@@ -2211,14 +2243,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 457742,
-      "num": 457742,
-      "word": "原来面条坨了也有邪修",
-      "onboard_time": 1780573340,
-      "rank": 4,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 454714,
       "num": 354500,
       "word": "刘诗诗把头纱给刘冲披上了",
@@ -2315,14 +2339,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 445924,
-      "num": 335977,
-      "word": "张元英对工作人员态度被审判",
-      "onboard_time": 1780572680,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 445554,
       "num": 445554,
       "word": "侯明昊 歌手帮唱",
@@ -2393,14 +2409,6 @@
       "onboard_time": 1780287500,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 431706,
-      "num": 431706,
-      "word": "中方回应2名日本人处理日遗化武受伤",
-      "onboard_time": 1780571539,
-      "rank": 5,
-      "category": "国内时政"
     },
     {
       "raw_hot": 429743,
@@ -2675,6 +2683,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 398195,
+      "num": 398195,
+      "word": "神仙肉 侯明昊",
+      "onboard_time": 1780569560,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 398122,
       "num": 398122,
       "word": "减脂期想吃什么要立刻去吃",
@@ -2859,14 +2875,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 379243,
-      "num": 379243,
-      "word": "黄灿灿唐艺昕 雪人",
-      "onboard_time": 1780574120,
-      "rank": 6,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 374526,
       "num": 250627,
       "word": "58岁走红拉丁裁判紧绷了45年",
@@ -2907,14 +2915,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 371533,
-      "num": 371533,
-      "word": "神仙肉 侯明昊",
-      "onboard_time": 1780569560,
-      "rank": 7,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 370458,
       "num": 370458,
       "word": "睫毛没把自己当异物",
@@ -2937,6 +2937,14 @@
       "onboard_time": 1780284260,
       "rank": 38,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 369244,
+      "num": 341316,
+      "word": "男子AI写歌月收入十几万",
+      "onboard_time": 1780566561,
+      "rank": 15,
+      "category": "民生新闻,音乐"
     },
     {
       "raw_hot": 368653,
@@ -3209,14 +3217,6 @@
       "onboard_time": 1780311980,
       "rank": 8,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 341316,
-      "num": 341316,
-      "word": "男子AI写歌月收入十几万",
-      "onboard_time": 1780566561,
-      "rank": 15,
-      "category": "民生新闻,音乐"
     },
     {
       "raw_hot": 340285,
@@ -3635,6 +3635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 298713,
+      "num": 285244,
+      "word": "林允瘦到打不动网球",
+      "onboard_time": 1780572199,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 298702,
       "num": 298702,
       "word": "张凌赫直播",
@@ -3905,14 +3913,6 @@
       "onboard_time": 1780283479,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 285244,
-      "num": 285244,
-      "word": "林允瘦到打不动网球",
-      "onboard_time": 1780572199,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 284817,
@@ -4715,6 +4715,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 221175,
+      "num": 127220,
+      "word": "网传雪人曾沛慈换黄灿灿",
+      "onboard_time": 1780575199,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 220552,
       "num": 220552,
       "word": "西安一公司通知放假后一夜搬空",
@@ -4883,6 +4891,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 214850,
+      "num": 314747,
+      "word": "我没有刚工作时那么善良了",
+      "onboard_time": 1780569740,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 213905,
       "num": 280589,
       "word": "华为耳夹耳机典藏版正式发布",
@@ -4979,6 +4995,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 211550,
+      "num": 210290,
+      "word": "鹿晗gapday音乐节",
+      "onboard_time": 1780570221,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
       "raw_hot": 211314,
       "num": 211314,
       "word": "邓超没做腋下管理",
@@ -4995,28 +5019,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 211131,
-      "num": 314747,
-      "word": "我没有刚工作时那么善良了",
-      "onboard_time": 1780569740,
-      "rank": 26,
-      "category": "情感"
-    },
-    {
       "raw_hot": 210315,
       "num": 294235,
       "word": "六一文案",
       "onboard_time": 1780317022,
       "rank": 16,
       "category": "情感"
-    },
-    {
-      "raw_hot": 210290,
-      "num": 210290,
-      "word": "鹿晗gapday音乐节",
-      "onboard_time": 1780570221,
-      "rank": 33,
-      "category": "演出"
     },
     {
       "raw_hot": 210145,
@@ -5523,6 +5531,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 183420,
+      "num": 163646,
+      "word": "丞磊沈羽洁 低配版西出玉门",
+      "onboard_time": 1780571239,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 183405,
       "num": 217941,
       "word": "王源工体上座率",
@@ -5641,6 +5657,14 @@
       "onboard_time": 1780194319,
       "rank": 42,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 179323,
+      "num": 143959,
+      "word": "papi酱带货粘尘器翻车",
+      "onboard_time": 1780574599,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 179228,
@@ -5881,14 +5905,6 @@
       "onboard_time": 1780493960,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 163646,
-      "num": 163646,
-      "word": "丞磊沈羽洁 低配版西出玉门",
-      "onboard_time": 1780571239,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 163487,
@@ -6179,6 +6195,14 @@
       "category": "综艺,互联网"
     },
     {
+      "raw_hot": 150116,
+      "num": 263466,
+      "word": "谷歌计划投放3200万只蚊子",
+      "onboard_time": 1780569320,
+      "rank": 31,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 149727,
       "num": 149727,
       "word": "家业大结局",
@@ -6323,6 +6347,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 145822,
+      "num": 340202,
+      "word": "巴萨迎历史上首位中国球员",
+      "onboard_time": 1780571661,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 145614,
       "num": 272924,
       "word": "一个普通人的最大幸运",
@@ -6363,14 +6395,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 143959,
-      "num": 143959,
-      "word": "papi酱带货粘尘器翻车",
-      "onboard_time": 1780574599,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 143758,
       "num": 135319,
       "word": "马頔又缺装修经费了吗",
@@ -6385,14 +6409,6 @@
       "onboard_time": 1780243160,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 142791,
-      "num": 263466,
-      "word": "谷歌计划投放3200万只蚊子",
-      "onboard_time": 1780569320,
-      "rank": 31,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 140286,
@@ -6499,14 +6515,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 136477,
-      "num": 340202,
-      "word": "巴萨迎历史上首位中国球员",
-      "onboard_time": 1780571661,
-      "rank": 17,
-      "category": "体育"
-    },
-    {
       "raw_hot": 136306,
       "num": 136306,
       "word": "31岁美女模特祖孙三代同患罕见病",
@@ -6521,6 +6529,14 @@
       "onboard_time": 1780289542,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 135077,
+      "num": 190315,
+      "word": "女子为穿衣好看1个月瘦20斤",
+      "onboard_time": 1780572739,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 134691,
@@ -6561,6 +6577,14 @@
       "onboard_time": 1780275440,
       "rank": 42,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 132647,
+      "num": 105678,
+      "word": "花彩香为儿子倾尽所有被赶出家门",
+      "onboard_time": 1780573998,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 132644,
@@ -6683,20 +6707,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 127024,
+      "num": 120738,
+      "word": "黄多多为家人做饭",
+      "onboard_time": 1780575320,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 125833,
       "num": 145934,
       "word": "华为MatePadProMax电脑级体验",
       "onboard_time": 1780304660,
       "rank": 46,
       "category": "数码"
-    },
-    {
-      "raw_hot": 125778,
-      "num": 190315,
-      "word": "女子为穿衣好看1个月瘦20斤",
-      "onboard_time": 1780572739,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 125506,
@@ -6881,6 +6905,14 @@
       "onboard_time": 1780419618,
       "rank": 18,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 112615,
+      "num": 107407,
+      "word": "黄仁勋教你如何应对亚洲父母",
+      "onboard_time": 1780575680,
+      "rank": 43,
+      "category": "互联网"
     },
     {
       "raw_hot": 112016,
@@ -7108,7 +7140,7 @@
     },
     {
       "raw_hot": 99684,
-      "num": 99684,
+      "num": 99972,
       "word": "马宁独自一人征战世界杯",
       "onboard_time": 1780564459,
       "rank": 46,
@@ -7571,12 +7603,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 74898,
+      "num": 144874,
+      "word": "泪点低的看不得王传君这幅画",
+      "onboard_time": 1780574960,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 74447,
       "num": 122773,
       "word": "618夏日续命神器大盘点",
       "onboard_time": 1780215200,
       "rank": 42,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 74051,
+      "num": 141015,
+      "word": "山西临汾副市长吴勇主动投案",
+      "onboard_time": 1780574839,
+      "rank": 24,
+      "category": "国内时政"
     },
     {
       "raw_hot": 74044,
@@ -7979,6 +8027,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 51173,
+      "num": 144377,
+      "word": "胖东来将安装2000万元室外音响",
+      "onboard_time": 1780574839,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 50536,
       "num": 71135,
       "word": "成毅沉迷下象棋",
@@ -8219,6 +8275,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 37772,
+      "num": 149489,
+      "word": "主角里到底有几个黑娃",
+      "onboard_time": 1780574779,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 37547,
       "num": 324674,
       "word": "京东十二姬合作十个勤天",
@@ -8456,6 +8520,14 @@
       "word": "多方回应索菲亚教堂棚顶疑被掀飞",
       "onboard_time": 1780298360,
       "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 29241,
+      "num": 143665,
+      "word": "网传杭州2188元面馆老板回应",
+      "onboard_time": 1780575139,
+      "rank": 21,
       "category": "民生新闻"
     },
     {
@@ -8969,14 +9041,6 @@
       "onboard_time": 1780488140,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 8968,
-      "num": 108761,
-      "word": "主角里到底有几个黑娃",
-      "onboard_time": 1780574779,
-      "rank": 44,
-      "category": "剧集"
     },
     {
       "raw_hot": 4533,
