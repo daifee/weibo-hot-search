@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/06/05 00:25:17 ~ 2026/06/05 02:35:58
+本榜单时间：2026/06/05 00:25:17 ~ 2026/06/05 03:28:27
 </p>
 </blockquote>
 <p>
@@ -358,7 +358,13 @@ LPL发布BLG和Bin的处罚公告（热度：172163）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%80%E7%88%B1%E7%9A%84%E6%BC%AB%E7%94%BB%E5%AE%B6%E4%BD%8F%E6%88%91%E6%A5%BC%E4%B8%8A%23" target="weibo">
-最爱的漫画家住我楼上（热度：32489）
+最爱的漫画家住我楼上（热度：35984）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%80%E5%88%B0%E8%8D%BC%E9%9D%A1%20%E5%BD%AD%E5%86%A0%E8%8B%B1%23" target="weibo">
+开到荼靡 彭冠英（热度：34362）
 </a>
 </li>
 
@@ -423,8 +429,20 @@ LPL发布BLG和Bin的处罚公告（热度：172163）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A7%A6%E5%8F%91%E4%BA%86%E9%AB%98%E8%80%83%E7%A5%9D%E7%A6%8F%E7%9A%84%E5%BA%95%E5%B1%82%E4%BB%A3%E7%A0%81%23" target="weibo">
+触发了高考祝福的底层代码（热度：19985）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%A6%88%E8%A2%AB%E6%9F%BF%E5%AD%90%E7%A0%B8%E4%B8%AD%E9%A2%9D%E5%A4%B4%E4%BC%A4%E5%8F%A33%E5%B9%B4%E6%B2%A1%E6%84%88%E5%90%88%23" target="weibo">
 大妈被柿子砸中额头伤口3年没愈合（热度：19318）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8F%B6%E4%B8%80%E8%8C%9C%E5%90%AC%E6%B5%B7%E6%8A%8A%E6%A3%AE%E7%A2%9F%E5%94%B1%E5%93%AD%E4%BA%86%23" target="weibo">
+叶一茜听海把森碟唱哭了（热度：17586）
 </a>
 </li>
 

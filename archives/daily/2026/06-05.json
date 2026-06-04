@@ -1,6 +1,6 @@
 {
   "startTime": 1780590317637,
-  "endTime": 1780598158370,
+  "endTime": 1780601307512,
   "band_list": [
     {
       "raw_hot": 1310955,
@@ -459,12 +459,20 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 32489,
+      "raw_hot": 35984,
       "num": 71087,
       "word": "最爱的漫画家住我楼上",
       "onboard_time": 1780597094,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 34362,
+      "num": 43836,
+      "word": "开到荼靡 彭冠英",
+      "onboard_time": 1780600155,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 31349,
@@ -547,12 +555,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 19985,
+      "num": 43721,
+      "word": "触发了高考祝福的底层代码",
+      "onboard_time": 1780601053,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 19318,
       "num": 71028,
       "word": "大妈被柿子砸中额头伤口3年没愈合",
       "onboard_time": 1780588399,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 17586,
+      "num": 43680,
+      "word": "叶一茜听海把森碟唱哭了",
+      "onboard_time": 1780599734,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 17199,
