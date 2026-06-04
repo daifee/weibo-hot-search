@@ -1,22 +1,38 @@
 {
   "startTime": 1780512777133,
-  "endTime": 1780548327520,
+  "endTime": 1780550495043,
   "band_list": [
     {
       "raw_hot": 2672850,
-      "num": 221017,
+      "num": 312704,
       "word": "奚梦瑶晒照感谢婆婆",
       "onboard_time": 1780536678,
       "rank": 20,
       "category": "艺人"
     },
     {
+      "raw_hot": 1906472,
+      "num": 354335,
+      "word": "韩栋直播哭诉没戏拍",
+      "onboard_time": 1780546940,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1699706,
-      "num": 219175,
+      "num": 292418,
       "word": "奚梦瑶家境",
       "onboard_time": 1780541719,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1527123,
+      "num": 350412,
+      "word": "地球online穿模了",
+      "onboard_time": 1780542319,
+      "rank": 10,
+      "category": "幽默"
     },
     {
       "raw_hot": 1506236,
@@ -35,22 +51,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1353053,
-      "num": 350412,
-      "word": "地球online穿模了",
-      "onboard_time": 1780542319,
-      "rank": 10,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 1096052,
-      "num": 347584,
-      "word": "韩栋直播哭诉没戏拍",
-      "onboard_time": 1780546940,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1026612,
       "num": 1026612,
       "word": "租房遇见这空调天塌了",
@@ -67,8 +67,24 @@
       "category": "电影"
     },
     {
+      "raw_hot": 808725,
+      "num": 792534,
+      "word": "苹果实况你要毁了小猫",
+      "onboard_time": 1780544360,
+      "rank": 5,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 784618,
+      "num": 347239,
+      "word": "小英都变张元英了",
+      "onboard_time": 1780548920,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 778322,
-      "num": 220582,
+      "num": 300131,
       "word": "iPhone18Pro八大亮点",
       "onboard_time": 1780536860,
       "rank": 21,
@@ -83,6 +99,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 744092,
+      "num": 1119054,
+      "word": "中国不存在所谓强迫劳动",
+      "onboard_time": 1780543039,
+      "rank": 1,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 742848,
       "num": 327872,
       "word": "顾客被张雪店员教唆偷开无牌照机车",
@@ -91,12 +115,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 701377,
-      "num": 701377,
-      "word": "苹果实况你要毁了小猫",
-      "onboard_time": 1780544360,
-      "rank": 5,
-      "category": "幽默"
+      "raw_hot": 693339,
+      "num": 308623,
+      "word": "当章若楠发现主持人的裙子有点短",
+      "onboard_time": 1780547300,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 682062,
@@ -115,12 +139,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 607796,
+      "num": 804255,
+      "word": "NBA总决赛球迷冲场",
+      "onboard_time": 1780545680,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 605529,
       "num": 304757,
       "word": "李昊炎加盟巴萨",
       "onboard_time": 1780529718,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 597684,
+      "num": 302424,
+      "word": "法国女孩头痛多年在中国找到病因",
+      "onboard_time": 1780545138,
+      "rank": 22,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 560469,
@@ -139,24 +179,32 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 503246,
-      "num": 220299,
-      "word": "法国女孩头痛多年在中国找到病因",
-      "onboard_time": 1780545138,
-      "rank": 22,
-      "category": "健康医疗"
+      "raw_hot": 533024,
+      "num": 533024,
+      "word": "歌手第三期歌单",
+      "onboard_time": 1780548981,
+      "rank": 7,
+      "category": "综艺"
     },
     {
-      "raw_hot": 429741,
-      "num": 220034,
+      "raw_hot": 500707,
+      "num": 297475,
       "word": "飞机上偶遇张凌赫睡觉",
       "onboard_time": 1780542499,
       "rank": 23,
       "category": "艺人"
     },
     {
+      "raw_hot": 426344,
+      "num": 327807,
+      "word": "刘冲抢了方媛的单人间",
+      "onboard_time": 1780549639,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 407886,
-      "num": 219496,
+      "num": 276037,
       "word": "iPhone18ProMax实测厚度8.75mm",
       "onboard_time": 1780538479,
       "rank": 24,
@@ -179,12 +227,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 388051,
-      "num": 1032750,
-      "word": "中国不存在所谓强迫劳动",
-      "onboard_time": 1780543039,
-      "rank": 1,
-      "category": "国内时政"
+      "raw_hot": 380308,
+      "num": 279138,
+      "word": "杨颖要求黑粉公开赔礼道歉",
+      "onboard_time": 1780550359,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 369544,
@@ -193,14 +241,6 @@
       "onboard_time": 1780541780,
       "rank": 8,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 356560,
-      "num": 308909,
-      "word": "NBA总决赛球迷冲场",
-      "onboard_time": 1780545680,
-      "rank": 16,
-      "category": "体育"
     },
     {
       "raw_hot": 350832,
@@ -267,14 +307,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 270696,
-      "num": 219037,
-      "word": "当章若楠发现主持人的裙子有点短",
-      "onboard_time": 1780547300,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 264000,
       "num": 264000,
       "word": "文旅局致歉王祖蓝吃粉争议",
@@ -304,6 +336,14 @@
       "word": "馒头从空气炸锅留学回来了",
       "onboard_time": 1780485200,
       "rank": 6,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 246799,
+      "num": 246799,
+      "word": "苹果输入法你上过学没有",
+      "onboard_time": 1780544959,
+      "rank": 38,
       "category": "幽默"
     },
     {
@@ -347,6 +387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 234870,
+      "num": 344883,
+      "word": "空调28度会比26度省电吗",
+      "onboard_time": 1780549759,
+      "rank": 13,
+      "category": "数码"
+    },
+    {
       "raw_hot": 234713,
       "num": 362591,
       "word": "曝VisionPro产品线被移除",
@@ -363,6 +411,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 228697,
+      "num": 330159,
+      "word": "翘楚男演员 分不清",
+      "onboard_time": 1780549939,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 222382,
       "num": 218081,
       "word": "家业 版权剧",
@@ -372,7 +428,7 @@
     },
     {
       "raw_hot": 221467,
-      "num": 221467,
+      "num": 340794,
       "word": "日本超市货架正在失去颜色",
       "onboard_time": 1780536799,
       "rank": 18,
@@ -385,6 +441,14 @@
       "onboard_time": 1780541359,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 215500,
+      "num": 215500,
+      "word": "桃花坞",
+      "onboard_time": 1780549700,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 215438,
@@ -411,6 +475,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 200721,
+      "num": 321167,
+      "word": "乘客嫌贵大闹公交男生挺身而出",
+      "onboard_time": 1780549820,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 198321,
+      "num": 198321,
+      "word": "正脸和侧脸的差别能有多大",
+      "onboard_time": 1780547840,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 192143,
       "num": 246851,
       "word": "苏州大学回应36岁副教授薛艳华去世",
@@ -433,14 +513,6 @@
       "onboard_time": 1780538059,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 186789,
-      "num": 186789,
-      "word": "苹果输入法你上过学没有",
-      "onboard_time": 1780544959,
-      "rank": 38,
-      "category": "幽默"
     },
     {
       "raw_hot": 184563,
@@ -483,20 +555,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 168316,
+      "num": 226268,
+      "word": "翘楚",
+      "onboard_time": 1780491860,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 167475,
+      "num": 171102,
+      "word": "去图书馆太频繁的后果",
+      "onboard_time": 1780534580,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 164712,
       "num": 247187,
       "word": "迪丽热巴如愿收到了方形西瓜蛋糕",
       "onboard_time": 1780494081,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 163666,
-      "num": 163666,
-      "word": "去图书馆太频繁的后果",
-      "onboard_time": 1780534580,
-      "rank": 42,
-      "category": "幽默"
     },
     {
       "raw_hot": 162566,
@@ -539,12 +619,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 149784,
-      "num": 149784,
-      "word": "正脸和侧脸的差别能有多大",
-      "onboard_time": 1780547840,
-      "rank": 46,
-      "category": "幽默"
+      "raw_hot": 149670,
+      "num": 336218,
+      "word": "忆秦娥舞台坍塌砸死孩子",
+      "onboard_time": 1780549281,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 148006,
+      "num": 212909,
+      "word": "袁咏仪孟子义桃花坞师徒合体",
+      "onboard_time": 1780550240,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 147469,
@@ -561,6 +649,14 @@
       "onboard_time": 1780534460,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 139876,
+      "num": 314688,
+      "word": "警方介入机器人飞踢男童事件",
+      "onboard_time": 1780549759,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 137110,
@@ -603,8 +699,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 114688,
+      "num": 215174,
+      "word": "翘楚单更",
+      "onboard_time": 1780549281,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 111957,
-      "num": 218576,
+      "num": 282822,
       "word": "菲律宾落选安理会非常任理事国",
       "onboard_time": 1780533861,
       "rank": 27,
@@ -625,6 +729,14 @@
       "onboard_time": 1780527617,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 106541,
+      "num": 322111,
+      "word": "国企干部离婚分割近亿财产当严查",
+      "onboard_time": 1780549281,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 105732,
@@ -683,6 +795,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 89451,
+      "num": 168021,
+      "word": "全球央行扫货黄金",
+      "onboard_time": 1780550420,
+      "rank": 47,
+      "category": "财经"
+    },
+    {
       "raw_hot": 85320,
       "num": 229560,
       "word": "虞书欣陆柯燃谁想拍的一看便知",
@@ -705,14 +825,6 @@
       "onboard_time": 1780540279,
       "rank": 49,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 79343,
-      "num": 226268,
-      "word": "翘楚",
-      "onboard_time": 1780491860,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 78136,
@@ -785,6 +897,14 @@
       "onboard_time": 1780548200,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 59516,
+      "num": 213698,
+      "word": "文班亚马说自己打得很糟糕",
+      "onboard_time": 1780549461,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 58439,
