@@ -1,6 +1,6 @@
 {
   "startTime": 1780590317637,
-  "endTime": 1780613677290,
+  "endTime": 1780614976676,
   "band_list": [
     {
       "raw_hot": 1310955,
@@ -147,6 +147,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 305635,
+      "num": 424704,
+      "word": "今天才知道潮汕不是一座城市",
+      "onboard_time": 1780576459,
+      "rank": 49,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 297413,
       "num": 169598,
       "word": "刘亦菲一点法令纹没有",
@@ -243,14 +251,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 206636,
-      "num": 424704,
-      "word": "今天才知道潮汕不是一座城市",
-      "onboard_time": 1780576459,
-      "rank": 49,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 192264,
       "num": 192264,
       "word": "小米寻天汽车最新谍照曝光",
@@ -267,6 +267,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 182888,
+      "num": 689418,
+      "word": "日本扬言以综合国力应对中国军力",
+      "onboard_time": 1780584560,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 178742,
       "num": 169111,
       "word": "北京体育大学 恭迎龙王回归",
@@ -281,6 +289,14 @@
       "onboard_time": 1780588339,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 174525,
+      "num": 136236,
+      "word": "小孩姐用碘伏吹风机演示指纹可视化",
+      "onboard_time": 1780566800,
+      "rank": 29,
+      "category": "科学科普"
     },
     {
       "raw_hot": 172163,
@@ -308,35 +324,35 @@
     },
     {
       "raw_hot": 144667,
-      "num": 123305,
+      "num": 132303,
       "word": "上海泳渡赛隐私照遭泄露警方已立案",
       "onboard_time": 1780579282,
       "rank": 35,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 131114,
-      "num": 102681,
-      "word": "金饰价格每克降约两成",
-      "onboard_time": 1780578621,
-      "rank": 47,
-      "category": "财经"
+      "raw_hot": 139230,
+      "num": 139230,
+      "word": "塞尔维亚FMP绝杀中国男篮",
+      "onboard_time": 1780582582,
+      "rank": 37,
+      "category": "体育"
     },
     {
-      "raw_hot": 126284,
-      "num": 109962,
+      "raw_hot": 135784,
+      "num": 138936,
       "word": "当我用拼豆拼了一整套麻将",
       "onboard_time": 1780591157,
       "rank": 3,
       "category": "休闲"
     },
     {
-      "raw_hot": 125028,
-      "num": 125028,
-      "word": "日本扬言以综合国力应对中国军力",
-      "onboard_time": 1780584560,
-      "rank": 29,
-      "category": "国内时政"
+      "raw_hot": 131114,
+      "num": 134557,
+      "word": "金饰价格每克降约两成",
+      "onboard_time": 1780578621,
+      "rank": 47,
+      "category": "财经"
     },
     {
       "raw_hot": 124584,
@@ -355,12 +371,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 120289,
-      "num": 79193,
-      "word": "小孩姐用碘伏吹风机演示指纹可视化",
-      "onboard_time": 1780566800,
-      "rank": 29,
-      "category": "科学科普"
+      "raw_hot": 120137,
+      "num": 137986,
+      "word": "用热成像偷拍小猫上厕所",
+      "onboard_time": 1780592836,
+      "rank": 7,
+      "category": "幽默"
     },
     {
       "raw_hot": 115772,
@@ -387,6 +403,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 113390,
+      "num": 133805,
+      "word": "奚梦瑶晚学名言",
+      "onboard_time": 1780614016,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 109214,
+      "num": 133174,
+      "word": "好怕现实中也有人长AI这样",
+      "onboard_time": 1780592418,
+      "rank": 13,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 105902,
       "num": 105902,
       "word": "浪姐",
@@ -404,7 +436,7 @@
     },
     {
       "raw_hot": 103337,
-      "num": 103337,
+      "num": 115121,
       "word": "神仙肉 侯明昊",
       "onboard_time": 1780569560,
       "rank": 46,
@@ -412,19 +444,19 @@
     },
     {
       "raw_hot": 102126,
-      "num": 102126,
+      "num": 118546,
       "word": "交警回应摩托车狂飙与高铁并驾齐驱",
       "onboard_time": 1780588399,
       "rank": 48,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 91464,
-      "num": 79178,
-      "word": "好怕现实中也有人长AI这样",
-      "onboard_time": 1780592418,
-      "rank": 13,
-      "category": "互联网"
+      "raw_hot": 94176,
+      "num": 137064,
+      "word": "中方回应2名日本人处理日遗化武受伤",
+      "onboard_time": 1780571539,
+      "rank": 26,
+      "category": "国内时政"
     },
     {
       "raw_hot": 86507,
@@ -435,24 +467,8 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 79307,
-      "num": 79307,
-      "word": "塞尔维亚FMP绝杀中国男篮",
-      "onboard_time": 1780582582,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 77738,
-      "num": 79281,
-      "word": "用热成像偷拍小猫上厕所",
-      "onboard_time": 1780592836,
-      "rank": 7,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 71845,
-      "num": 71145,
+      "num": 117367,
       "word": "第7号台风要来了",
       "onboard_time": 1780592418,
       "rank": 15,
@@ -460,51 +476,67 @@
     },
     {
       "raw_hot": 66770,
-      "num": 79132,
+      "num": 126932,
       "word": "开到荼靡 彭冠英",
       "onboard_time": 1780600155,
       "rank": 19,
       "category": "剧集"
     },
     {
-      "raw_hot": 55615,
-      "num": 71108,
-      "word": "中方回应2名日本人处理日遗化武受伤",
-      "onboard_time": 1780571539,
-      "rank": 26,
-      "category": "国内时政"
+      "raw_hot": 65423,
+      "num": 128540,
+      "word": "每夜憋醒三四次男子不敢睡觉怕猝死",
+      "onboard_time": 1780585281,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
-      "raw_hot": 53322,
-      "num": 71118,
-      "word": "连扫把都受不了广东的天气了",
-      "onboard_time": 1780593735,
-      "rank": 23,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 52403,
-      "num": 55549,
+      "raw_hot": 59165,
+      "num": 122961,
       "word": "主角的本质",
       "onboard_time": 1780604834,
       "rank": 30,
       "category": "剧集"
     },
     {
-      "raw_hot": 45031,
-      "num": 71087,
+      "raw_hot": 56642,
+      "num": 127829,
+      "word": "连扫把都受不了广东的天气了",
+      "onboard_time": 1780593735,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 55902,
+      "num": 123758,
       "word": "最爱的漫画家住我楼上",
       "onboard_time": 1780597094,
       "rank": 32,
       "category": "情感"
     },
     {
-      "raw_hot": 43575,
-      "num": 71063,
+      "raw_hot": 54598,
+      "num": 124601,
+      "word": "谢金燕真的是满50岁减30岁",
+      "onboard_time": 1780614016,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 49689,
+      "num": 121513,
       "word": "男子被姐夫训斥起杀心儿子夺刀制止",
       "onboard_time": 1780580001,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 47529,
+      "num": 120266,
+      "word": "叶一茜听海把森碟唱哭了",
+      "onboard_time": 1780599734,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 39552,
@@ -515,36 +547,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 37672,
-      "num": 55522,
-      "word": "太阳爆发一次强烈耀斑",
-      "onboard_time": 1780604354,
-      "rank": 41,
-      "category": "科学科普"
-    },
-    {
-      "raw_hot": 35729,
-      "num": 55517,
-      "word": "叶一茜听海把森碟唱哭了",
-      "onboard_time": 1780599734,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 34280,
-      "num": 55508,
+      "raw_hot": 38784,
+      "num": 116576,
       "word": "触发了高考祝福的底层代码",
       "onboard_time": 1780601053,
       "rank": 38,
       "category": "幽默"
     },
     {
-      "raw_hot": 34279,
-      "num": 71034,
-      "word": "每夜憋醒三四次男子不敢睡觉怕猝死",
-      "onboard_time": 1780585281,
-      "rank": 47,
-      "category": "民生新闻"
+      "raw_hot": 37672,
+      "num": 111011,
+      "word": "太阳爆发一次强烈耀斑",
+      "onboard_time": 1780604354,
+      "rank": 41,
+      "category": "科学科普"
     },
     {
       "raw_hot": 31349,
@@ -553,6 +569,22 @@
       "onboard_time": 1780570221,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 31286,
+      "num": 114081,
+      "word": "开推4刘宇宁最冤枉的一次",
+      "onboard_time": 1780592418,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 31053,
+      "num": 401193,
+      "word": "高考前这些事要再捋一遍",
+      "onboard_time": 1780577600,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 30502,
@@ -579,14 +611,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 27271,
-      "num": 71046,
-      "word": "开推4刘宇宁最冤枉的一次",
-      "onboard_time": 1780592418,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 27136,
       "num": 71043,
       "word": "安德列娃进法网决赛",
@@ -595,11 +619,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 24025,
-      "num": 340925,
-      "word": "高考前这些事要再捋一遍",
-      "onboard_time": 1780577600,
-      "rank": 2,
+      "raw_hot": 22419,
+      "num": 130440,
+      "word": "开一家拼豆店成本不到5万元",
+      "onboard_time": 1780614196,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -609,6 +633,14 @@
       "onboard_time": 1780583241,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 20421,
+      "num": 131484,
+      "word": "930元金饰掉色后检测出全是铜",
+      "onboard_time": 1780614257,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 17199,
