@@ -1,6 +1,6 @@
 {
   "startTime": 1780247827631,
-  "endTime": 1780661710268,
+  "endTime": 1780668496754,
   "band_list": [
     {
       "raw_hot": 6730138,
@@ -2300,7 +2300,7 @@
     },
     {
       "raw_hot": 428191,
-      "num": 345040,
+      "num": 615541,
       "word": "母亲60g黄金藏水壶被女儿当废品卖了",
       "onboard_time": 1780654340,
       "rank": 10,
@@ -2356,7 +2356,7 @@
     },
     {
       "raw_hot": 420590,
-      "num": 461680,
+      "num": 714548,
       "word": "歌手",
       "onboard_time": 1780442958,
       "rank": 5,
@@ -3156,7 +3156,7 @@
     },
     {
       "raw_hot": 333183,
-      "num": 691559,
+      "num": 1163988,
       "word": "高考期间有必要禁豆包吗",
       "onboard_time": 1780653680,
       "rank": 5,
@@ -5116,7 +5116,7 @@
     },
     {
       "raw_hot": 194657,
-      "num": 194657,
+      "num": 511038,
       "word": "男子吃槟榔18年嘴溃烂张不开",
       "onboard_time": 1780652239,
       "rank": 27,
@@ -5860,7 +5860,7 @@
     },
     {
       "raw_hot": 156642,
-      "num": 431799,
+      "num": 644954,
       "word": "国足vs新加坡",
       "onboard_time": 1780656980,
       "rank": 35,
@@ -6924,7 +6924,7 @@
     },
     {
       "raw_hot": 100000,
-      "num": 1550310,
+      "num": 2198789,
       "word": "浪姐直播",
       "onboard_time": 1780658839,
       "rank": 0,
@@ -6940,7 +6940,7 @@
     },
     {
       "raw_hot": 100000,
-      "num": 674248,
+      "num": 781156,
       "word": "歌手直播",
       "onboard_time": 1780658780,
       "rank": 4,
@@ -6964,7 +6964,7 @@
     },
     {
       "raw_hot": 100000,
-      "num": 404177,
+      "num": 1109680,
       "word": "杭州非法试管婴儿事件最新通报",
       "onboard_time": 1780661120,
       "rank": 10,
@@ -6972,7 +6972,7 @@
     },
     {
       "raw_hot": 100000,
-      "num": 388322,
+      "num": 1039547,
       "word": "荔枝冰奶",
       "onboard_time": 1780658059,
       "rank": 12,
@@ -7028,7 +7028,7 @@
     },
     {
       "raw_hot": 100000,
-      "num": 190633,
+      "num": 766998,
       "word": "日本宅男去世满屋收藏变垃圾",
       "onboard_time": 1780659079,
       "rank": 31,
@@ -7052,7 +7052,7 @@
     },
     {
       "raw_hot": 100000,
-      "num": 186563,
+      "num": 773684,
       "word": "曾沛慈嗓子哑成这样",
       "onboard_time": 1780661479,
       "rank": 36,
@@ -7060,7 +7060,7 @@
     },
     {
       "raw_hot": 100000,
-      "num": 185731,
+      "num": 474373,
       "word": "韩国丈夫偷拍并嘲笑孕晚期妻子",
       "onboard_time": 1780657879,
       "rank": 37,
@@ -7100,11 +7100,299 @@
     },
     {
       "raw_hot": 100000,
-      "num": 163874,
+      "num": 540708,
       "word": "原来高考完最难受的是高二生",
       "onboard_time": 1780658540,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 14233022,
+      "word": "DNA组太牛了",
+      "onboard_time": 1780664541,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 1712587,
+      "word": "卫星影像记录中国生态巨变",
+      "onboard_time": 1780664421,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 1695521,
+      "word": "潇洒小姐",
+      "onboard_time": 1780666583,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 1156797,
+      "word": "范丞丞跑男贴脸开大白鹿",
+      "onboard_time": 1780665022,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 1141918,
+      "word": "上海男篮CBA总冠军",
+      "onboard_time": 1780667788,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 1115827,
+      "word": "CBA",
+      "onboard_time": 1780664661,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 1092985,
+      "word": "小米雷军与特斯拉陶琳互动",
+      "onboard_time": 1780664181,
+      "rank": 9,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 1063770,
+      "word": "张月好大一滴泪",
+      "onboard_time": 1780662921,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 1057495,
+      "word": "安崎团885票",
+      "onboard_time": 1780667185,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 1012285,
+      "word": "谁想淘汰何宣林",
+      "onboard_time": 1780666163,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 1002113,
+      "word": "窦靖童帮唱一句没唱",
+      "onboard_time": 1780662441,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 983351,
+      "word": "国足2比1新加坡",
+      "onboard_time": 1780667907,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 975893,
+      "word": "美股半导体股大涨",
+      "onboard_time": 1780665502,
+      "rank": 16,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 945263,
+      "word": "张碧晨 吴莫愁",
+      "onboard_time": 1780667063,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 942787,
+      "word": "胡彦斌第一",
+      "onboard_time": 1780668444,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 901854,
+      "word": "上海男篮vs广厦男篮",
+      "onboard_time": 1780665802,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 897588,
+      "word": "王源线下皮肤状态",
+      "onboard_time": 1780664723,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 776623,
+      "word": "女子在酒店休息遭陌生男子刷卡开门",
+      "onboard_time": 1780668144,
+      "rank": 22,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 776284,
+      "word": "张碧晨发挥最好的一期",
+      "onboard_time": 1780664661,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 698175,
+      "word": "李斌姚明同看总决赛",
+      "onboard_time": 1780665982,
+      "rank": 27,
+      "category": "体育,汽车"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 691181,
+      "word": "白鹿听到李晨说有buff的表情",
+      "onboard_time": 1780666402,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 690403,
+      "word": "尤长靖锤娜丽莎 意外好听",
+      "onboard_time": 1780664242,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 689952,
+      "word": "胡彦斌编曲大魔王",
+      "onboard_time": 1780667244,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 679778,
+      "word": "潇洒小姐 手麦",
+      "onboard_time": 1780666944,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 644861,
+      "word": "锁的麦 断断续续",
+      "onboard_time": 1780662741,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 636949,
+      "word": "DNA组才838",
+      "onboard_time": 1780665142,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 607708,
+      "word": "胆小鬼组进步好大",
+      "onboard_time": 1780668203,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 567000,
+      "word": "普通disco 贵在热闹",
+      "onboard_time": 1780663761,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 565569,
+      "word": "60元网购了雷霆果型榴莲",
+      "onboard_time": 1780664604,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 565172,
+      "word": "锤娜丽莎飙高音",
+      "onboard_time": 1780668084,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 564936,
+      "word": "唐艺昕假发掉了",
+      "onboard_time": 1780667788,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 562883,
+      "word": "塞尔吉尼奥国足首球",
+      "onboard_time": 1780668203,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 537556,
+      "word": "F1",
+      "onboard_time": 1780667124,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 516058,
+      "word": "国足半场2比0新加坡",
+      "onboard_time": 1780664723,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 497588,
+      "word": "浪姐规则 十年内没人能懂",
+      "onboard_time": 1780662741,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 485763,
+      "word": "男子被查票1分钟辱骂列车员14次",
+      "onboard_time": 1780664541,
+      "rank": 48,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 99703,
@@ -9053,6 +9341,9 @@
     },
     {
       "word": "#习近平将对朝鲜进行国事访问#"
+    },
+    {
+      "word": "#习近平同通伦举行会谈#"
     }
   ]
 }
