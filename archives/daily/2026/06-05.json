@@ -1,12 +1,20 @@
 {
   "startTime": 1780590317637,
-  "endTime": 1780633179738,
+  "endTime": 1780642233084,
   "band_list": [
     {
       "raw_hot": 3627510,
       "num": 536468,
       "word": "汪东城曝吴尊要当爷爷了",
       "onboard_time": 1780628839,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2269072,
+      "num": 294886,
+      "word": "陈学冬 避谶",
+      "onboard_time": 1780635320,
       "rank": 10,
       "category": "艺人"
     },
@@ -67,6 +75,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 1072391,
+      "num": 813109,
+      "word": "判断孩子有没有学霸潜质",
+      "onboard_time": 1780636159,
+      "rank": 3,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1063945,
       "num": 170341,
       "word": "iPhone改日期 空出20G",
@@ -81,6 +97,22 @@
       "onboard_time": 1780623259,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1004631,
+      "num": 287240,
+      "word": "奚梦瑶模特朋友一个没来",
+      "onboard_time": 1780633459,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1000953,
+      "num": 1160152,
+      "word": "南开大学一学生被电诈220万",
+      "onboard_time": 1780636519,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 980385,
@@ -99,6 +131,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 941542,
+      "num": 941542,
+      "word": "豆包首次付费后月活减少610万",
+      "onboard_time": 1780629498,
+      "rank": 8,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 939632,
+      "num": 505702,
+      "word": "李晨曾送了好多艺人水晶兔子",
+      "onboard_time": 1780631180,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 880874,
       "num": 503074,
       "word": "奚梦瑶晚晚婚礼审美",
@@ -108,7 +156,7 @@
     },
     {
       "raw_hot": 853944,
-      "num": 564885,
+      "num": 777220,
       "word": "存款达到多少可以提前退休",
       "onboard_time": 1780631359,
       "rank": 7,
@@ -187,12 +235,28 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 617759,
-      "num": 505702,
-      "word": "李晨曾送了好多艺人水晶兔子",
-      "onboard_time": 1780631180,
-      "rank": 13,
-      "category": "艺人"
+      "raw_hot": 662538,
+      "num": 662538,
+      "word": "一馒落三馒生",
+      "onboard_time": 1780636100,
+      "rank": 5,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 625077,
+      "num": 625077,
+      "word": "中餐厅收工合照",
+      "onboard_time": 1780638380,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 566988,
+      "num": 566988,
+      "word": "租房的三件套",
+      "onboard_time": 1780634300,
+      "rank": 7,
+      "category": "幽默"
     },
     {
       "raw_hot": 548134,
@@ -201,14 +265,6 @@
       "onboard_time": 1780632859,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 547846,
-      "num": 547846,
-      "word": "豆包首次付费后月活减少610万",
-      "onboard_time": 1780629498,
-      "rank": 8,
-      "category": "互联网"
     },
     {
       "raw_hot": 539520,
@@ -241,6 +297,38 @@
       "onboard_time": 1780630100,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 468614,
+      "num": 277924,
+      "word": "朵朵说小酒窝是小仙女",
+      "onboard_time": 1780638439,
+      "rank": 23,
+      "category": "艺人,作品衍生"
+    },
+    {
+      "raw_hot": 465267,
+      "num": 277626,
+      "word": "张凌赫转账最快的男人",
+      "onboard_time": 1780634181,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 452132,
+      "num": 280640,
+      "word": "宋亚轩一把抱住刘耀文",
+      "onboard_time": 1780638560,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 449565,
+      "num": 230745,
+      "word": "刘诗诗干练小黑裙",
+      "onboard_time": 1780638979,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 447955,
@@ -283,6 +371,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 396972,
+      "num": 219860,
+      "word": "杨紫和郭晶晶一起上台领聘",
+      "onboard_time": 1780634120,
+      "rank": 32,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 395514,
       "num": 395514,
       "word": "Bin被罚15万",
@@ -323,6 +419,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 375135,
+      "num": 291963,
+      "word": "果然出来吃火锅还是得戴眼镜",
+      "onboard_time": 1780635800,
+      "rank": 11,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 367726,
       "num": 367726,
       "word": "高考明星红包雨",
@@ -345,6 +449,14 @@
       "onboard_time": 1780631000,
       "rank": 15,
       "category": "情感"
+    },
+    {
+      "raw_hot": 357591,
+      "num": 214985,
+      "word": "黄磊孙莉9岁儿子正脸照",
+      "onboard_time": 1780634421,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 356073,
@@ -435,6 +547,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 307822,
+      "num": 307822,
+      "word": "C罗姆巴佩詹姆斯超燃世界杯短片",
+      "onboard_time": 1780634360,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 305635,
       "num": 424704,
       "word": "今天才知道潮汕不是一座城市",
@@ -451,6 +571,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 302775,
+      "num": 208760,
+      "word": "奚梦瑶会在澳门开答谢宴",
+      "onboard_time": 1780639700,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 300687,
       "num": 331510,
       "word": "奚梦瑶何猷君相亲节目第一次见面",
@@ -459,12 +587,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 299189,
+      "num": 299189,
+      "word": "杨洋不让江山杀青",
+      "onboard_time": 1780641321,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 297413,
       "num": 277787,
       "word": "刘亦菲一点法令纹没有",
       "onboard_time": 1780578800,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 291726,
+      "num": 277136,
+      "word": "妈妈哄二宝一时性急打掉大宝玩具",
+      "onboard_time": 1780636640,
+      "rank": 25,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 285673,
@@ -491,6 +635,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 282873,
+      "num": 225677,
+      "word": "中央空调才是电费刺客",
+      "onboard_time": 1780640239,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 281580,
       "num": 281580,
       "word": "原来面条坨了也有邪修",
@@ -505,6 +657,14 @@
       "onboard_time": 1780622298,
       "rank": 18,
       "category": "情感"
+    },
+    {
+      "raw_hot": 276555,
+      "num": 276555,
+      "word": "黑龙江挪车反杀案二审维持死缓",
+      "onboard_time": 1780637540,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 272828,
@@ -579,6 +739,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 240132,
+      "num": 279502,
+      "word": "实习医生无证拔牙致患者死亡获刑",
+      "onboard_time": 1780631420,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 238671,
       "num": 123498,
       "word": "黄多多为家人做饭",
@@ -601,6 +769,14 @@
       "onboard_time": 1780578500,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 213998,
+      "num": 213998,
+      "word": "男子落水7天6夜从海口漂到澄迈",
+      "onboard_time": 1780639099,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 210717,
@@ -627,12 +803,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 203332,
+      "num": 203332,
+      "word": "意识到了一杯奶茶钱真不是小钱",
+      "onboard_time": 1780641979,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 202256,
       "num": 295327,
       "word": "芒种",
       "onboard_time": 1780614978,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 200713,
+      "num": 280211,
+      "word": "KPL票价",
+      "onboard_time": 1780638620,
+      "rank": 18,
+      "category": "电竞"
     },
     {
       "raw_hot": 200177,
@@ -707,6 +899,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 182574,
+      "num": 406920,
+      "word": "湘雅二医院逾8亿元工程招标疑云",
+      "onboard_time": 1780632021,
+      "rank": 18,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 179312,
       "num": 179312,
       "word": "主角花彩香结局",
@@ -755,6 +955,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 170618,
+      "num": 170618,
+      "word": "孟子义回桃花坞晒照",
+      "onboard_time": 1780635440,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 169350,
+      "num": 202102,
+      "word": "C罗詹姆斯爆笑互让球王",
+      "onboard_time": 1780640659,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 168932,
       "num": 168932,
       "word": "胖东来将安装2000万元室外音响",
@@ -769,6 +985,22 @@
       "onboard_time": 1780631779,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 165888,
+      "num": 276756,
+      "word": "韩国芯片巨头全线崩盘",
+      "onboard_time": 1780638859,
+      "rank": 26,
+      "category": "财经,互联网"
+    },
+    {
+      "raw_hot": 164073,
+      "num": 113418,
+      "word": "对减肥最难减的地方有实感了",
+      "onboard_time": 1780637960,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 163934,
@@ -793,6 +1025,14 @@
       "onboard_time": 1780620200,
       "rank": 39,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 154494,
+      "num": 113148,
+      "word": "VOGUE出图",
+      "onboard_time": 1780642158,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 154311,
@@ -824,14 +1064,6 @@
       "word": "上海泳渡赛隐私照遭泄露警方已立案",
       "onboard_time": 1780579282,
       "rank": 35,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 144498,
-      "num": 279502,
-      "word": "实习医生无证拔牙致患者死亡获刑",
-      "onboard_time": 1780631420,
-      "rank": 34,
       "category": "民生新闻"
     },
     {
@@ -963,6 +1195,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 89404,
+      "num": 113923,
+      "word": "线上线下买家电差别有多大",
+      "onboard_time": 1780634181,
+      "rank": 46,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 86507,
       "num": 169112,
       "word": "谷歌计划投放3200万只蚊子",
@@ -987,20 +1227,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 74017,
-      "num": 406920,
-      "word": "湘雅二医院逾8亿元工程招标疑云",
-      "onboard_time": 1780632021,
-      "rank": 18,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 71845,
       "num": 117367,
       "word": "第7号台风要来了",
       "onboard_time": 1780592418,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 70914,
+      "num": 237147,
+      "word": "曾沛慈说演唱会新专辑计划都在排了",
+      "onboard_time": 1780637060,
+      "rank": 29,
+      "category": "演出"
     },
     {
       "raw_hot": 66770,
@@ -1019,6 +1259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 61145,
+      "num": 206212,
+      "word": "十个勤天新疆全障碍沟通",
+      "onboard_time": 1780642038,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 59930,
       "num": 165382,
       "word": "AI说了我最想跟老板说的话",
@@ -1033,6 +1281,14 @@
       "onboard_time": 1780604834,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 58531,
+      "num": 113702,
+      "word": "小米机器人团队拿下双料冠军",
+      "onboard_time": 1780641440,
+      "rank": 47,
+      "category": "互联网"
     },
     {
       "raw_hot": 55902,
@@ -1065,6 +1321,14 @@
       "onboard_time": 1780580001,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 48484,
+      "num": 815627,
+      "word": "网警侦破涉2026高考诈骗案",
+      "onboard_time": 1780633820,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 47529,
@@ -1105,6 +1369,14 @@
       "onboard_time": 1780629080,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 37762,
+      "num": 204663,
+      "word": "全年最6的一天6月6日星期六",
+      "onboard_time": 1780641260,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 37672,
@@ -1171,12 +1443,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 25785,
+      "num": 279080,
+      "word": "上百老人千万养老钱被鸡蛋投资卷走",
+      "onboard_time": 1780641019,
+      "rank": 20,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 25306,
       "num": 326655,
       "word": "普京就俄乌谈判最新表态",
       "onboard_time": 1780622419,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 22693,
+      "num": 279686,
+      "word": "记者卧底洗脑营揭秘鸡蛋骗局",
+      "onboard_time": 1780641621,
+      "rank": 19,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 22419,
@@ -1222,6 +1510,9 @@
   "hotgov_list": [
     {
       "word": "#一张泛黄发票的故事#"
+    },
+    {
+      "word": "#跟着总书记共绘美丽中国#"
     }
   ]
 }
