@@ -1,6 +1,6 @@
 {
   "startTime": 1780675459497,
-  "endTime": 1780678867028,
+  "endTime": 1780686152325,
   "band_list": [
     {
       "raw_hot": 100000,
@@ -511,6 +511,46 @@
       "num": 185397,
       "word": "父亲送32岁女儿进教育机构治网瘾",
       "onboard_time": 1780670423,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 96335,
+      "word": "完美解决了吃碳水会晕的问题",
+      "onboard_time": 1780678938,
+      "rank": 9,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 94388,
+      "word": "唐艺昕也得避谶",
+      "onboard_time": 1780680077,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 90300,
+      "word": "救救江语晨",
+      "onboard_time": 1780679418,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 62212,
+      "word": "阚清子早该唱跳了",
+      "onboard_time": 1780679597,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 54483,
+      "word": "交警霸气回应3年僵尸车车主",
+      "onboard_time": 1780686016,
       "rank": 49,
       "category": "民生新闻"
     }
