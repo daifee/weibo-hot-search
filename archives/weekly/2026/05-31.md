@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/05/31 01:17:50 ~ 2026/06/06 03:02:32
+本榜单时间：2026/05/31 01:17:50 ~ 2026/06/06 03:17:47
 </p>
 </blockquote>
 <p>
@@ -7073,6 +7073,12 @@ U19国足1比0哥伦比亚U19（热度：100000）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%A4%E8%AD%A6%E9%9C%B8%E6%B0%94%E5%9B%9E%E5%BA%943%E5%B9%B4%E5%83%B5%E5%B0%B8%E8%BD%A6%E8%BD%A6%E4%B8%BB%23" target="weibo">
 交警霸气回应3年僵尸车车主（热度：100000）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E4%BB%81%E5%8B%8BFaker%E5%8F%8C%E7%AD%BE%E6%98%BE%E5%8D%A1%23" target="weibo">
+黄仁勋Faker双签显卡（热度：100000）
 </a>
 </li>
 

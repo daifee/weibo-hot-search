@@ -1,6 +1,6 @@
 {
   "startTime": 1780675459497,
-  "endTime": 1780686152325,
+  "endTime": 1780687067069,
   "band_list": [
     {
       "raw_hot": 100000,
@@ -553,6 +553,14 @@
       "onboard_time": 1780686016,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 45570,
+      "word": "黄仁勋Faker双签显卡",
+      "onboard_time": 1780685354,
+      "rank": 47,
+      "category": "电竞,互联网"
     }
   ],
   "hotgov_list": [

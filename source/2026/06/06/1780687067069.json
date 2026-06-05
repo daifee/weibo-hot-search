@@ -1,0 +1,410 @@
+{
+  "runTime": 1780687067069,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 100000,
+        "num": 424699,
+        "word": "红果3类短剧禁拍13类受限",
+        "onboard_time": 1780670783,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 249951,
+        "word": "黄金",
+        "onboard_time": 1780669044,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 198599,
+        "word": "卫星影像记录中国生态巨变",
+        "onboard_time": 1780664421,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 188000,
+        "word": "李晨好大一个白眼",
+        "onboard_time": 1780673782,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 185101,
+        "word": "黄灿灿发文道歉",
+        "onboard_time": 1780672642,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 175510,
+        "word": "潇洒小姐排名第一",
+        "onboard_time": 1780674140,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 156510,
+        "word": "男子胸痛挂号13分钟医生出现",
+        "onboard_time": 1780675762,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 115747,
+        "word": "以后真要把细菌当衣服穿了",
+        "onboard_time": 1780672102,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 91170,
+        "word": "世界杯",
+        "onboard_time": 1780668563,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 89111,
+        "word": "完美解决了吃碳水会晕的问题",
+        "onboard_time": 1780678938,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 88375,
+        "word": "范丞丞在帮白鹿解围",
+        "onboard_time": 1780671323,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 87474,
+        "word": "曾沛慈谢楠看到902票懵了",
+        "onboard_time": 1780674023,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 87209,
+        "word": "情侣3次在家分娩产子首胎夭折",
+        "onboard_time": 1780673842,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 86269,
+        "word": "唐艺昕也得避谶",
+        "onboard_time": 1780680077,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 85789,
+        "word": "歌手回应排名",
+        "onboard_time": 1780674802,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 84817,
+        "word": "孙怡 一站到底",
+        "onboard_time": 1780675762,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 83396,
+        "word": "歌手排名",
+        "onboard_time": 1780668503,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 82619,
+        "word": "荔枝冰奶",
+        "onboard_time": 1780658059,
+        "rank": 17,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 82120,
+        "word": "36岁女子辞去财务工作参加高考",
+        "onboard_time": 1780671682,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 81181,
+        "word": "多家酒店问题被曝光后牙科蓝膜卖爆",
+        "onboard_time": 1780673901,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 80255,
+        "word": "唐艺昕假发掉了",
+        "onboard_time": 1780667788,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 79920,
+        "word": "黄灿灿失误",
+        "onboard_time": 1780669823,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 78587,
+        "word": "日本宅男去世满屋收藏变垃圾",
+        "onboard_time": 1780659079,
+        "rank": 22,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 77954,
+        "word": "心疼范玮琪",
+        "onboard_time": 1780671923,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 77582,
+        "word": "丞磊帮白鹿擦嘴",
+        "onboard_time": 1780676181,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 74319,
+        "word": "救救江语晨",
+        "onboard_time": 1780679418,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 73395,
+        "word": "王哲林夺冠夜29分15篮板",
+        "onboard_time": 1780675221,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 72862,
+        "word": "60元网购了雷霆果型榴莲",
+        "onboard_time": 1780664604,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 71561,
+        "word": "MiuMiu上海展览",
+        "onboard_time": 1780673901,
+        "rank": 28,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 70398,
+        "word": "东部战区回应荷兰军舰过航台湾海峡",
+        "onboard_time": 1780670244,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 70286,
+        "word": "温峥嵘自己玩上了",
+        "onboard_time": 1780677621,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 65938,
+        "word": "李心洁 见鬼",
+        "onboard_time": 1780678579,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 64586,
+        "word": "阚清子 叶琳大小姐回归",
+        "onboard_time": 1780669764,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 56790,
+        "word": "窦靖童帮唱一句没唱",
+        "onboard_time": 1780662441,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 54033,
+        "word": "江语晨淘汰待定",
+        "onboard_time": 1780670723,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 53324,
+        "word": "谁想淘汰何宣林",
+        "onboard_time": 1780666163,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 52556,
+        "word": "耳帝说胡彦斌齐豫明显高出一档",
+        "onboard_time": 1780678817,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 51225,
+        "word": "阚清子早该唱跳了",
+        "onboard_time": 1780679597,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 49900,
+        "word": "侯宇为徐洁儿发声",
+        "onboard_time": 1780674621,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 49557,
+        "word": "浪姐排名",
+        "onboard_time": 1780669884,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 49464,
+        "word": "张镇麟 第四冠",
+        "onboard_time": 1780675460,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 48857,
+        "word": "男子每天2L果汁半年瘦20斤进抢救室",
+        "onboard_time": 1780668743,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 48272,
+        "word": "F1",
+        "onboard_time": 1780667124,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 47549,
+        "word": "上海男篮CBA总冠军",
+        "onboard_time": 1780667788,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 47194,
+        "word": "国足2比1新加坡",
+        "onboard_time": 1780667907,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 46523,
+        "word": "韩国丈夫偷拍并嘲笑孕晚期妻子",
+        "onboard_time": 1780657879,
+        "rank": 45,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 46120,
+        "word": "母亲60g黄金藏水壶被女儿当废品卖了",
+        "onboard_time": 1780654340,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 45570,
+        "word": "黄仁勋Faker双签显卡",
+        "onboard_time": 1780685354,
+        "rank": 47,
+        "category": "电竞,互联网"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 44993,
+        "word": "U19国足1比0哥伦比亚U19",
+        "onboard_time": 1780677858,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 44705,
+        "word": "男子吃槟榔18年嘴溃烂张不开",
+        "onboard_time": 1780652239,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同通伦举行会谈#"
+    }
+  }
+}
