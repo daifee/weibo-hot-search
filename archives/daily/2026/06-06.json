@@ -1,6 +1,6 @@
 {
   "startTime": 1780675459497,
-  "endTime": 1780693565730,
+  "endTime": 1780698137726,
   "band_list": [
     {
       "raw_hot": 100000,
@@ -588,7 +588,7 @@
     },
     {
       "raw_hot": 100000,
-      "num": 27197,
+      "num": 29639,
       "word": "每周五都被浪姐气晕",
       "onboard_time": 1780693093,
       "rank": 33,
@@ -601,6 +601,22 @@
       "onboard_time": 1780692973,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 59761,
+      "word": "看得出来老师是第一次带毕业班",
+      "onboard_time": 1780696153,
+      "rank": 18,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 32601,
+      "word": "沈阳一地路边现大量幼猫无人看管",
+      "onboard_time": 1780695613,
+      "rank": 35,
+      "category": "舆论监督"
     }
   ],
   "hotgov_list": [
