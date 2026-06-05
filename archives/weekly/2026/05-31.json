@@ -1,6 +1,6 @@
 {
   "startTime": 1780161470105,
-  "endTime": 1780668496754,
+  "endTime": 1780675459497,
   "band_list": [
     {
       "raw_hot": 6730138,
@@ -9004,7 +9004,7 @@
     },
     {
       "raw_hot": 100000,
-      "num": 564936,
+      "num": 1325128,
       "word": "唐艺昕假发掉了",
       "onboard_time": 1780667788,
       "rank": 41,
@@ -9049,6 +9049,238 @@
       "onboard_time": 1780664541,
       "rank": 48,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 6431241,
+      "word": "歌手排名",
+      "onboard_time": 1780668503,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 1955086,
+      "word": "黄金",
+      "onboard_time": 1780669044,
+      "rank": 1,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 1099323,
+      "word": "浪姐排名",
+      "onboard_time": 1780669884,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 517002,
+      "word": "以后真要把细菌当衣服穿了",
+      "onboard_time": 1780672102,
+      "rank": 5,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 507162,
+      "word": "黄灿灿失误",
+      "onboard_time": 1780669823,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 468789,
+      "word": "王楚钦搞错了高考日期",
+      "onboard_time": 1780673901,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 457791,
+      "word": "李晨好大一个白眼",
+      "onboard_time": 1780673782,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 440944,
+      "word": "黄灿灿发文道歉",
+      "onboard_time": 1780672642,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 435619,
+      "word": "情侣3次在家分娩产子首胎夭折",
+      "onboard_time": 1780673842,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 435227,
+      "word": "MiuMiu上海展览",
+      "onboard_time": 1780673901,
+      "rank": 14,
+      "category": "时尚"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 433617,
+      "word": "范丞丞在帮白鹿解围",
+      "onboard_time": 1780671323,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 431521,
+      "word": "曾沛慈谢楠看到902票懵了",
+      "onboard_time": 1780674023,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 430836,
+      "word": "红果3类短剧禁拍13类受限",
+      "onboard_time": 1780670783,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 430122,
+      "word": "多款网红美瞳透氧量不达标",
+      "onboard_time": 1780674562,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 428973,
+      "word": "歌手回应排名",
+      "onboard_time": 1780674802,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 428178,
+      "word": "潇洒小姐排名第一",
+      "onboard_time": 1780674140,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 424234,
+      "word": "心疼范玮琪",
+      "onboard_time": 1780671923,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 422951,
+      "word": "男子每天2L果汁半年瘦20斤进抢救室",
+      "onboard_time": 1780668743,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 422086,
+      "word": "东部战区回应荷兰军舰过航台湾海峡",
+      "onboard_time": 1780670244,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 420315,
+      "word": "江语晨淘汰待定",
+      "onboard_time": 1780670723,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 419542,
+      "word": "36岁女子辞去财务工作参加高考",
+      "onboard_time": 1780671682,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 413940,
+      "word": "唐艺昕继承了孙怡的一切",
+      "onboard_time": 1780670303,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 406545,
+      "word": "曾沛慈团902票",
+      "onboard_time": 1780670123,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 391676,
+      "word": "王哲林夺冠夜29分15篮板",
+      "onboard_time": 1780675221,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 364482,
+      "word": "侯宇为徐洁儿发声",
+      "onboard_time": 1780674621,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 355461,
+      "word": "胆小鬼 不至于831",
+      "onboard_time": 1780668563,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 352489,
+      "word": "理想高管回应对比视频",
+      "onboard_time": 1780671383,
+      "rank": 46,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 346960,
+      "word": "多家酒店问题被曝光后牙科蓝膜卖爆",
+      "onboard_time": 1780673901,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 345581,
+      "word": "黄仁勋T1合照做了Faker经典手势",
+      "onboard_time": 1780674140,
+      "rank": 49,
+      "category": "互联网,电竞"
     },
     {
       "raw_hot": 99703,
