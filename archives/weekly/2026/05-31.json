@@ -1,6 +1,6 @@
 {
   "startTime": 1780161470105,
-  "endTime": 1780614976676,
+  "endTime": 1780623507746,
   "band_list": [
     {
       "raw_hot": 6730138,
@@ -515,6 +515,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1323696,
+      "num": 629213,
+      "word": "曾沛慈发文致歉",
+      "onboard_time": 1780615217,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1319332,
       "num": 1319332,
       "word": "玩山姆托举梗妈妈再道歉",
@@ -564,7 +572,7 @@
     },
     {
       "raw_hot": 1261724,
-      "num": 234263,
+      "num": 320066,
       "word": "金秀贤与未成年金赛纶交往系不实消息",
       "onboard_time": 1780576400,
       "rank": 11,
@@ -657,6 +665,14 @@
       "onboard_time": 1780284501,
       "rank": 4,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1181947,
+      "num": 1189111,
+      "word": "中国消费者抛弃耐克比想象中更快",
+      "onboard_time": 1780617559,
+      "rank": 0,
+      "category": "财经"
     },
     {
       "raw_hot": 1175765,
@@ -843,6 +859,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 980385,
+      "num": 980385,
+      "word": "二手油车价格崩盘",
+      "onboard_time": 1780620740,
+      "rank": 1,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 973822,
       "num": 387469,
       "word": "疑似女子当街踩踏他人头部",
@@ -892,7 +916,7 @@
     },
     {
       "raw_hot": 942215,
-      "num": 223747,
+      "num": 316847,
       "word": "奚梦瑶伴娘阵容",
       "onboard_time": 1780580542,
       "rank": 14,
@@ -900,7 +924,7 @@
     },
     {
       "raw_hot": 932405,
-      "num": 199094,
+      "num": 288384,
       "word": "李晨 被误会的心形石头",
       "onboard_time": 1780576639,
       "rank": 30,
@@ -1019,6 +1043,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 880874,
+      "num": 325361,
+      "word": "奚梦瑶晚晚婚礼审美",
+      "onboard_time": 1780620619,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 869893,
       "num": 869893,
       "word": "黄灿灿怎么说服陈瑶拍这个的",
@@ -1049,6 +1081,14 @@
       "onboard_time": 1780392441,
       "rank": 16,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 847689,
+      "num": 324321,
+      "word": "何猷君看了一下爽文发现也不爽啊",
+      "onboard_time": 1780620319,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 845668,
@@ -1299,6 +1339,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 754498,
+      "num": 621761,
+      "word": "办婚礼未领证分手后男方诉返22万",
+      "onboard_time": 1780616178,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 750558,
       "num": 311739,
       "word": "仅退款 快递员罚款",
@@ -1417,6 +1465,14 @@
       "onboard_time": 1780387702,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 695280,
+      "num": 328813,
+      "word": "普京称俄方同意妥协",
+      "onboard_time": 1780619479,
+      "rank": 7,
+      "category": "国际时政"
     },
     {
       "raw_hot": 694120,
@@ -1947,6 +2003,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 538092,
+      "num": 538092,
+      "word": "张豆豆对孙杨说你别老想亲我",
+      "onboard_time": 1780619479,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 537981,
       "num": 435966,
       "word": "河道有大量蛇出没已喷驱蛇粉",
@@ -1985,6 +2049,14 @@
       "onboard_time": 1780548981,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 528965,
+      "num": 321192,
+      "word": "胡先煦第一次演现偶",
+      "onboard_time": 1780619479,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 527103,
@@ -2371,6 +2443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 447955,
+      "num": 689418,
+      "word": "日本扬言以综合国力应对中国军力",
+      "onboard_time": 1780584560,
+      "rank": 28,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 447070,
       "num": 460530,
       "word": "财政局回应一公务员被指脚踏两条船",
@@ -2636,7 +2716,7 @@
     },
     {
       "raw_hot": 413750,
-      "num": 294239,
+      "num": 312518,
       "word": "快餐三巨头 摩尔定律HBM韬定律",
       "onboard_time": 1780611015,
       "rank": 3,
@@ -2785,6 +2865,14 @@
       "onboard_time": 1780407562,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 397703,
+      "num": 318676,
+      "word": "当我用拼豆拼了一整套麻将",
+      "onboard_time": 1780591157,
+      "rank": 3,
+      "category": "休闲"
     },
     {
       "raw_hot": 397488,
@@ -3012,7 +3100,7 @@
     },
     {
       "raw_hot": 371647,
-      "num": 197046,
+      "num": 283457,
       "word": "章子怡张艺谋 犟种闺女苦命爹",
       "onboard_time": 1780580241,
       "rank": 33,
@@ -3140,7 +3228,7 @@
     },
     {
       "raw_hot": 357661,
-      "num": 194366,
+      "num": 277787,
       "word": "刘亦菲一点法令纹没有",
       "onboard_time": 1780578800,
       "rank": 36,
@@ -3347,8 +3435,16 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 341342,
+      "num": 317743,
+      "word": "曾沛慈回应雪人换黄灿灿",
+      "onboard_time": 1780615158,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 340531,
-      "num": 171646,
+      "num": 269563,
       "word": "耐克正在被消费者抛弃",
       "onboard_time": 1780587320,
       "rank": 44,
@@ -3459,6 +3555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 332902,
+      "num": 327754,
+      "word": "法国1比2科特迪瓦",
+      "onboard_time": 1780622238,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 332599,
       "num": 322184,
       "word": "主角大结局",
@@ -3497,6 +3601,14 @@
       "onboard_time": 1780387821,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 329606,
+      "num": 329606,
+      "word": "曝歌手第五期补位嘉宾",
+      "onboard_time": 1780616117,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 328327,
@@ -4075,6 +4187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 285673,
+      "num": 310666,
+      "word": "偶遇金钟大带女儿吃饭",
+      "onboard_time": 1780619659,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 284817,
       "num": 284817,
       "word": "中国男篮vs塞尔维亚FMP",
@@ -4097,6 +4217,14 @@
       "onboard_time": 1780159339,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 283350,
+      "num": 314560,
+      "word": "周深白鹿六搭",
+      "onboard_time": 1780617920,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 283314,
@@ -4235,6 +4363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 272828,
+      "num": 309163,
+      "word": "世界杯夺冠热门为何热身赛翻车",
+      "onboard_time": 1780619240,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 272570,
       "num": 319073,
       "word": "陈妍希去看谢霆锋的演唱会",
@@ -4249,6 +4385,14 @@
       "onboard_time": 1780301001,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 269400,
+      "num": 306360,
+      "word": "2026高考",
+      "onboard_time": 1780618699,
+      "rank": 24,
+      "category": "教育"
     },
     {
       "raw_hot": 269118,
@@ -4491,6 +4635,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 248520,
+      "num": 305395,
+      "word": "中国小电驴在英国卖爆了",
+      "onboard_time": 1780621278,
+      "rank": 25,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 248379,
       "num": 364524,
       "word": "你好星期六回应丁程鑫伤情",
@@ -4521,6 +4673,14 @@
       "onboard_time": 1780354818,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 247020,
+      "num": 299948,
+      "word": "济南冰雹",
+      "onboard_time": 1780621278,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 246799,
@@ -5147,6 +5307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 212184,
+      "num": 315738,
+      "word": "什么行为极大改善了你的心理健康",
+      "onboard_time": 1780622298,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
       "raw_hot": 211881,
       "num": 211881,
       "word": "刘宇宁热成毛不易了",
@@ -5403,6 +5571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 202256,
+      "num": 295327,
+      "word": "芒种",
+      "onboard_time": 1780614978,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 201743,
       "num": 201743,
       "word": "宋亚轩又输给了李宇春",
@@ -5457,6 +5633,14 @@
       "onboard_time": 1780492881,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 200177,
+      "num": 293145,
+      "word": "巴西37岁女子假扮12岁女童骗收养",
+      "onboard_time": 1780617979,
+      "rank": 32,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 200150,
@@ -5555,6 +5739,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 194553,
+      "num": 303858,
+      "word": "浪姐强度",
+      "onboard_time": 1780620800,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 193855,
       "num": 254936,
       "word": "小米隐藏王牌即将落地",
@@ -5635,6 +5827,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 190070,
+      "num": 291969,
+      "word": "程晓玥回应女儿长相",
+      "onboard_time": 1780617198,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 189669,
       "num": 189669,
       "word": "王嘉尔何猷君跳舞",
@@ -5649,6 +5849,14 @@
       "onboard_time": 1780221140,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 188962,
+      "num": 290003,
+      "word": "好怕现实中也有人长AI这样",
+      "onboard_time": 1780592418,
+      "rank": 13,
+      "category": "互联网"
     },
     {
       "raw_hot": 188185,
@@ -5715,6 +5923,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 184524,
+      "num": 302185,
+      "word": "攻玉官宣",
+      "onboard_time": 1780623259,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 184198,
       "num": 213240,
       "word": "曝iPhone18Pro首发第二代灵动岛",
@@ -5769,14 +5985,6 @@
       "onboard_time": 1780384881,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 182888,
-      "num": 689418,
-      "word": "日本扬言以综合国力应对中国军力",
-      "onboard_time": 1780584560,
-      "rank": 28,
-      "category": "国内时政"
     },
     {
       "raw_hot": 182617,
@@ -5961,6 +6169,14 @@
       "onboard_time": 1780233561,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 175820,
+      "num": 285774,
+      "word": "朴乾旭发文道歉",
+      "onboard_time": 1780618820,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 175471,
@@ -6291,6 +6507,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 157303,
+      "num": 280236,
+      "word": "孙怡红裙香槟",
+      "onboard_time": 1780620560,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 156902,
+      "num": 282915,
+      "word": "中国出口管制让日本急了",
+      "onboard_time": 1780620200,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 155890,
       "num": 155890,
       "word": "天涯社区复活",
@@ -6321,6 +6553,14 @@
       "onboard_time": 1780566981,
       "rank": 28,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 154311,
+      "num": 299036,
+      "word": "江语晨回应和潘玮柏传绯闻",
+      "onboard_time": 1780621160,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 154216,
@@ -6377,6 +6617,14 @@
       "onboard_time": 1780435394,
       "rank": 14,
       "category": "财经,互联网"
+    },
+    {
+      "raw_hot": 152184,
+      "num": 280079,
+      "word": "用热成像偷拍小猫上厕所",
+      "onboard_time": 1780592836,
+      "rank": 7,
+      "category": "幽默"
     },
     {
       "raw_hot": 151920,
@@ -6627,6 +6875,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 145112,
+      "num": 276283,
+      "word": "AG 小麦",
+      "onboard_time": 1780623439,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 144808,
       "num": 354528,
       "word": "刘宇宁再唱平凡的日子借一点光",
@@ -6651,6 +6907,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 143994,
+      "num": 272681,
+      "word": "特朗普将现身NBA总决赛G3",
+      "onboard_time": 1780622778,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 143758,
       "num": 135319,
       "word": "马頔又缺装修经费了吗",
@@ -6665,6 +6929,14 @@
       "onboard_time": 1780243160,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 141868,
+      "num": 271085,
+      "word": "泽连斯基向普京发出公开信",
+      "onboard_time": 1780620021,
+      "rank": 46,
+      "category": "国际时政"
     },
     {
       "raw_hot": 140286,
@@ -6785,14 +7057,6 @@
       "onboard_time": 1780547961,
       "rank": 48,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 135784,
-      "num": 138936,
-      "word": "当我用拼豆拼了一整套麻将",
-      "onboard_time": 1780591157,
-      "rank": 3,
-      "category": "休闲"
     },
     {
       "raw_hot": 135765,
@@ -6945,6 +7209,14 @@
       "onboard_time": 1780445479,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 128988,
+      "num": 266856,
+      "word": "连扫把都受不了广东的天气了",
+      "onboard_time": 1780593735,
+      "rank": 23,
+      "category": "幽默"
     },
     {
       "raw_hot": 128909,
@@ -7113,14 +7385,6 @@
       "onboard_time": 1780527617,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 120137,
-      "num": 137986,
-      "word": "用热成像偷拍小猫上厕所",
-      "onboard_time": 1780592836,
-      "rank": 7,
-      "category": "幽默"
     },
     {
       "raw_hot": 119816,
@@ -7297,14 +7561,6 @@
       "onboard_time": 1780152141,
       "rank": 32,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 109214,
-      "num": 133174,
-      "word": "好怕现实中也有人长AI这样",
-      "onboard_time": 1780592418,
-      "rank": 13,
-      "category": "互联网"
     },
     {
       "raw_hot": 108898,
@@ -7777,6 +8033,14 @@
       "onboard_time": 1780236323,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 83485,
+      "num": 273886,
+      "word": "不要相信豆包识别的野生蘑菇",
+      "onboard_time": 1780622480,
+      "rank": 44,
+      "category": "幽默,互联网"
     },
     {
       "raw_hot": 82819,
@@ -8299,14 +8563,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 56642,
-      "num": 127829,
-      "word": "连扫把都受不了广东的天气了",
-      "onboard_time": 1780593735,
-      "rank": 23,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 55902,
       "num": 123758,
       "word": "最爱的漫画家住我楼上",
@@ -8603,6 +8859,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 39939,
+      "num": 684734,
+      "word": "高考前这些事要再捋一遍",
+      "onboard_time": 1780577600,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 39552,
       "num": 71104,
       "word": "黄灿灿直播说她四公只有团秀一个舞台",
@@ -8891,14 +9155,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 31053,
-      "num": 401193,
-      "word": "高考前这些事要再捋一遍",
-      "onboard_time": 1780577600,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 30794,
       "num": 95368,
       "word": "LPL",
@@ -9080,6 +9336,14 @@
       "word": "特朗普说美伊协议可能在本周末达成",
       "onboard_time": 1780530558,
       "rank": 47,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 25306,
+      "num": 326655,
+      "word": "普京就俄乌谈判最新表态",
+      "onboard_time": 1780622419,
+      "rank": 9,
       "category": "国际时政"
     },
     {
@@ -9537,6 +9801,14 @@
       "onboard_time": 1780488140,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 6000,
+      "num": 287307,
+      "word": "市民路遇邮政车队押运考卷",
+      "onboard_time": 1780623378,
+      "rank": 36,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 4533,
