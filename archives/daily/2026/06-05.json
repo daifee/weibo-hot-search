@@ -1,7 +1,31 @@
 {
   "startTime": 1780590317637,
-  "endTime": 1780623507746,
+  "endTime": 1780633179738,
   "band_list": [
+    {
+      "raw_hot": 3627510,
+      "num": 536468,
+      "word": "汪东城曝吴尊要当爷爷了",
+      "onboard_time": 1780628839,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1489378,
+      "num": 394844,
+      "word": "iPhone18ProMax配色",
+      "onboard_time": 1780624698,
+      "rank": 21,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 1371363,
+      "num": 638405,
+      "word": "高考试卷押送车队震撼瞬间",
+      "onboard_time": 1780628719,
+      "rank": 3,
+      "category": "教育"
+    },
     {
       "raw_hot": 1323696,
       "num": 629213,
@@ -19,6 +43,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1204119,
+      "num": 624499,
+      "word": "上班期间摸过最大的一次鱼",
+      "onboard_time": 1780629200,
+      "rank": 4,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 1196125,
+      "num": 595834,
+      "word": "家业 华莱士",
+      "onboard_time": 1780628118,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1181947,
       "num": 1189111,
       "word": "中国消费者抛弃耐克比想象中更快",
@@ -33,6 +73,14 @@
       "onboard_time": 1780571300,
       "rank": 20,
       "category": "数码"
+    },
+    {
+      "raw_hot": 1054476,
+      "num": 581350,
+      "word": "攻玉官宣",
+      "onboard_time": 1780623259,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 980385,
@@ -52,15 +100,23 @@
     },
     {
       "raw_hot": 880874,
-      "num": 325361,
+      "num": 503074,
       "word": "奚梦瑶晚晚婚礼审美",
       "onboard_time": 1780620619,
       "rank": 10,
       "category": "艺人"
     },
     {
+      "raw_hot": 853944,
+      "num": 564885,
+      "word": "存款达到多少可以提前退休",
+      "onboard_time": 1780631359,
+      "rank": 7,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 847689,
-      "num": 324321,
+      "num": 524098,
       "word": "何猷君看了一下爽文发现也不爽啊",
       "onboard_time": 1780620319,
       "rank": 11,
@@ -107,12 +163,52 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 719493,
+      "num": 516184,
+      "word": "高考加油红包",
+      "onboard_time": 1780629560,
+      "rank": 12,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 711475,
+      "num": 1113836,
+      "word": "英国间谍2次偷窃中国茶叶机密",
+      "onboard_time": 1780627639,
+      "rank": 0,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 695280,
       "num": 328813,
       "word": "普京称俄方同意妥协",
       "onboard_time": 1780619479,
       "rank": 7,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 617759,
+      "num": 505702,
+      "word": "李晨曾送了好多艺人水晶兔子",
+      "onboard_time": 1780631180,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 548134,
+      "num": 346151,
+      "word": "易烊千玺杂志",
+      "onboard_time": 1780632859,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 547846,
+      "num": 547846,
+      "word": "豆包首次付费后月活减少610万",
+      "onboard_time": 1780629498,
+      "rank": 8,
+      "category": "互联网"
     },
     {
       "raw_hot": 539520,
@@ -139,6 +235,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 488976,
+      "num": 398451,
+      "word": "为什么有的人大早晨就馊了",
+      "onboard_time": 1780630100,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 447955,
       "num": 689418,
       "word": "日本扬言以综合国力应对中国军力",
@@ -147,12 +251,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 420358,
+      "num": 391044,
+      "word": "网友模仿豆包火了",
+      "onboard_time": 1780627158,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 413750,
       "num": 312518,
       "word": "快餐三巨头 摩尔定律HBM韬定律",
       "onboard_time": 1780611015,
       "rank": 3,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 406709,
+      "num": 406709,
+      "word": "孙杨张豆豆不用参加离婚综艺了",
+      "onboard_time": 1780630160,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 397703,
@@ -179,6 +299,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 386531,
+      "num": 386531,
+      "word": "高考群也没想到会变成相亲群",
+      "onboard_time": 1780630820,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 385313,
       "num": 170610,
       "word": "张凌赫粉丝补偿到账",
@@ -195,6 +323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 367726,
+      "num": 367726,
+      "word": "高考明星红包雨",
+      "onboard_time": 1780626319,
+      "rank": 24,
+      "category": "教育,艺人"
+    },
+    {
       "raw_hot": 364702,
       "num": 169953,
       "word": "奚梦瑶何猷君婚礼上摆蒜苔",
@@ -203,12 +339,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 361694,
+      "num": 423471,
+      "word": "朋友对研究生的概念",
+      "onboard_time": 1780631000,
+      "rank": 15,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 356073,
+      "num": 541693,
+      "word": "Bin没有道歉",
+      "onboard_time": 1780630281,
+      "rank": 9,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 345927,
       "num": 345927,
       "word": "窦靖童妹妹头",
       "onboard_time": 1780588818,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 341905,
+      "num": 341905,
+      "word": "新疆小孩在游客临走前硬塞小羊",
+      "onboard_time": 1780627758,
+      "rank": 28,
+      "category": "正能量"
     },
     {
       "raw_hot": 341342,
@@ -251,6 +411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 328238,
+      "num": 328238,
+      "word": "杨紫参加六五环境日",
+      "onboard_time": 1780631959,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 315357,
       "num": 171138,
       "word": "曝Bin对自己行为非常后悔",
@@ -259,12 +427,36 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 315298,
+      "num": 315298,
+      "word": "高考加油",
+      "onboard_time": 1780621220,
+      "rank": 31,
+      "category": "教育"
+    },
+    {
       "raw_hot": 305635,
       "num": 424704,
       "word": "今天才知道潮汕不是一座城市",
       "onboard_time": 1780576459,
       "rank": 49,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 303262,
+      "num": 303262,
+      "word": "11个月幼儿患重病爷爷探孙途中身亡",
+      "onboard_time": 1780625659,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 300687,
+      "num": 331510,
+      "word": "奚梦瑶何猷君相亲节目第一次见面",
+      "onboard_time": 1780624939,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 297413,
@@ -305,6 +497,14 @@
       "onboard_time": 1780573340,
       "rank": 6,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 279354,
+      "num": 315738,
+      "word": "什么行为极大改善了你的心理健康",
+      "onboard_time": 1780622298,
+      "rank": 18,
+      "category": "情感"
     },
     {
       "raw_hot": 272828,
@@ -387,6 +587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 229490,
+      "num": 229490,
+      "word": "Anthropic呼吁全球暂停AI开发",
+      "onboard_time": 1780625659,
+      "rank": 38,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 214180,
       "num": 169336,
       "word": "白鹿何与或演开到荼靡",
@@ -395,20 +603,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 212184,
-      "num": 315738,
-      "word": "什么行为极大改善了你的心理健康",
-      "onboard_time": 1780622298,
-      "rank": 18,
-      "category": "情感"
-    },
-    {
       "raw_hot": 210717,
       "num": 122962,
       "word": "田曦薇Gucci镜头",
       "onboard_time": 1780569439,
       "rank": 36,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 210702,
+      "num": 229582,
+      "word": "杨紫9部一番满广剧集",
+      "onboard_time": 1780625959,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 208391,
@@ -433,6 +641,14 @@
       "onboard_time": 1780617979,
       "rank": 32,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 198444,
+      "num": 198444,
+      "word": "辽宁本溪商铺爆炸已致2死13伤",
+      "onboard_time": 1780628180,
+      "rank": 41,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 194553,
@@ -475,11 +691,27 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 184524,
-      "num": 302185,
-      "word": "攻玉官宣",
-      "onboard_time": 1780623259,
-      "rank": 27,
+      "raw_hot": 184313,
+      "num": 184313,
+      "word": "南部档案",
+      "onboard_time": 1780626678,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 183444,
+      "num": 272681,
+      "word": "特朗普将现身NBA总决赛G3",
+      "onboard_time": 1780622778,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 179312,
+      "num": 179312,
+      "word": "主角花彩香结局",
+      "onboard_time": 1780629800,
+      "rank": 44,
       "category": "剧集"
     },
     {
@@ -531,6 +763,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 167310,
+      "num": 167310,
+      "word": "穆祉丞巡演诸暨站官宣",
+      "onboard_time": 1780631779,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 163934,
+      "num": 407856,
+      "word": "AG 小麦",
+      "onboard_time": 1780623439,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 157303,
       "num": 280236,
       "word": "孙怡红裙香槟",
@@ -571,14 +819,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 145112,
-      "num": 276283,
-      "word": "AG 小麦",
-      "onboard_time": 1780623439,
-      "rank": 43,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 144667,
       "num": 132303,
       "word": "上海泳渡赛隐私照遭泄露警方已立案",
@@ -587,12 +827,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 143994,
-      "num": 272681,
-      "word": "特朗普将现身NBA总决赛G3",
-      "onboard_time": 1780622778,
-      "rank": 45,
-      "category": "国际时政"
+      "raw_hot": 144498,
+      "num": 279502,
+      "word": "实习医生无证拔牙致患者死亡获刑",
+      "onboard_time": 1780631420,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 141868,
@@ -608,6 +848,14 @@
       "word": "塞尔维亚FMP绝杀中国男篮",
       "onboard_time": 1780582582,
       "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 138054,
+      "num": 342805,
+      "word": "台球界来了个C罗",
+      "onboard_time": 1780631839,
+      "rank": 27,
       "category": "体育"
     },
     {
@@ -731,6 +979,22 @@
       "category": "幽默,互联网"
     },
     {
+      "raw_hot": 75616,
+      "num": 207868,
+      "word": "微博电影之夜盛典官宣",
+      "onboard_time": 1780632680,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 74017,
+      "num": 406920,
+      "word": "湘雅二医院逾8亿元工程招标疑云",
+      "onboard_time": 1780632021,
+      "rank": 18,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 71845,
       "num": 117367,
       "word": "第7号台风要来了",
@@ -755,6 +1019,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 59930,
+      "num": 165382,
+      "word": "AI说了我最想跟老板说的话",
+      "onboard_time": 1780633100,
+      "rank": 47,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 59165,
       "num": 122961,
       "word": "主角的本质",
@@ -777,6 +1049,14 @@
       "onboard_time": 1780614016,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 52772,
+      "num": 346292,
+      "word": "京东成立国内首个健康防骗直播间",
+      "onboard_time": 1780632500,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 49689,
@@ -819,6 +1099,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 37783,
+      "num": 166199,
+      "word": "夜幕之下你拿这个考验我",
+      "onboard_time": 1780629080,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 37672,
       "num": 111011,
       "word": "太阳爆发一次强烈耀斑",
@@ -849,6 +1137,14 @@
       "onboard_time": 1780587740,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 29427,
+      "num": 651817,
+      "word": "仲夏正式开启",
+      "onboard_time": 1780626558,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 28396,

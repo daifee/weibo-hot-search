@@ -1,6 +1,6 @@
 {
   "startTime": 1780161470105,
-  "endTime": 1780623507746,
+  "endTime": 1780633179738,
   "band_list": [
     {
       "raw_hot": 6730138,
@@ -73,6 +73,14 @@
       "onboard_time": 1780458981,
       "rank": 20,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 3627510,
+      "num": 536468,
+      "word": "汪东城曝吴尊要当爷爷了",
+      "onboard_time": 1780628839,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 3446704,
@@ -411,6 +419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1489378,
+      "num": 394844,
+      "word": "iPhone18ProMax配色",
+      "onboard_time": 1780624698,
+      "rank": 21,
+      "category": "数码"
+    },
+    {
       "raw_hot": 1489301,
       "num": 1489301,
       "word": "法国高温致7人死亡中国留学生发声",
@@ -505,6 +521,14 @@
       "onboard_time": 1780202361,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1371363,
+      "num": 638405,
+      "word": "高考试卷押送车队震撼瞬间",
+      "onboard_time": 1780628719,
+      "rank": 3,
+      "category": "教育"
     },
     {
       "raw_hot": 1345515,
@@ -641,6 +665,22 @@
       "onboard_time": 1780296620,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1204119,
+      "num": 624499,
+      "word": "上班期间摸过最大的一次鱼",
+      "onboard_time": 1780629200,
+      "rank": 4,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 1196125,
+      "num": 595834,
+      "word": "家业 华莱士",
+      "onboard_time": 1780628118,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 1194603,
@@ -801,6 +841,14 @@
       "onboard_time": 1780215920,
       "rank": 39,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1054476,
+      "num": 581350,
+      "word": "攻玉官宣",
+      "onboard_time": 1780623259,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 1027542,
@@ -1044,7 +1092,7 @@
     },
     {
       "raw_hot": 880874,
-      "num": 325361,
+      "num": 503074,
       "word": "奚梦瑶晚晚婚礼审美",
       "onboard_time": 1780620619,
       "rank": 10,
@@ -1067,6 +1115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 853944,
+      "num": 564885,
+      "word": "存款达到多少可以提前退休",
+      "onboard_time": 1780631359,
+      "rank": 7,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 853230,
       "num": 439990,
       "word": "长月烬明没人给陈都灵打call",
@@ -1084,7 +1140,7 @@
     },
     {
       "raw_hot": 847689,
-      "num": 324321,
+      "num": 524098,
       "word": "何猷君看了一下爽文发现也不爽啊",
       "onboard_time": 1780620319,
       "rank": 11,
@@ -1411,6 +1467,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 719493,
+      "num": 516184,
+      "word": "高考加油红包",
+      "onboard_time": 1780629560,
+      "rank": 12,
+      "category": "教育"
+    },
+    {
       "raw_hot": 717800,
       "num": 842544,
       "word": "公司烧不起token了",
@@ -1425,6 +1489,14 @@
       "onboard_time": 1780329439,
       "rank": 13,
       "category": "网红"
+    },
+    {
+      "raw_hot": 711475,
+      "num": 1113836,
+      "word": "英国间谍2次偷窃中国茶叶机密",
+      "onboard_time": 1780627639,
+      "rank": 0,
+      "category": "国际时政"
     },
     {
       "raw_hot": 709737,
@@ -1763,6 +1835,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 617759,
+      "num": 505702,
+      "word": "李晨曾送了好多艺人水晶兔子",
+      "onboard_time": 1780631180,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 607796,
       "num": 804255,
       "word": "NBA总决赛球迷冲场",
@@ -1977,6 +2057,22 @@
       "onboard_time": 1780502299,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 548134,
+      "num": 346151,
+      "word": "易烊千玺杂志",
+      "onboard_time": 1780632859,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 547846,
+      "num": 547846,
+      "word": "豆包首次付费后月活减少610万",
+      "onboard_time": 1780629498,
+      "rank": 8,
+      "category": "互联网"
     },
     {
       "raw_hot": 547265,
@@ -2201,6 +2297,14 @@
       "onboard_time": 1780387341,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 488976,
+      "num": 398451,
+      "word": "为什么有的人大早晨就馊了",
+      "onboard_time": 1780630100,
+      "rank": 20,
+      "category": "幽默"
     },
     {
       "raw_hot": 488742,
@@ -2635,6 +2739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 420358,
+      "num": 391044,
+      "word": "网友模仿豆包火了",
+      "onboard_time": 1780627158,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 418787,
       "num": 193904,
       "word": "薛小婉任权复合了",
@@ -2769,6 +2881,14 @@
       "onboard_time": 1780577180,
       "rank": 32,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 406709,
+      "num": 406709,
+      "word": "孙杨张豆豆不用参加离婚综艺了",
+      "onboard_time": 1780630160,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 406029,
@@ -2963,6 +3083,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 386531,
+      "num": 386531,
+      "word": "高考群也没想到会变成相亲群",
+      "onboard_time": 1780630820,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 385952,
       "num": 271165,
       "word": "七年前的白鹿",
@@ -3155,6 +3283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 367726,
+      "num": 367726,
+      "word": "高考明星红包雨",
+      "onboard_time": 1780626319,
+      "rank": 24,
+      "category": "教育,艺人"
+    },
+    {
       "raw_hot": 367602,
       "num": 367602,
       "word": "小城良方排播",
@@ -3211,6 +3347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 361694,
+      "num": 423471,
+      "word": "朋友对研究生的概念",
+      "onboard_time": 1780631000,
+      "rank": 15,
+      "category": "情感"
+    },
+    {
       "raw_hot": 358117,
       "num": 371977,
       "word": "被女主播开播前的调试震惊到了",
@@ -3249,6 +3393,14 @@
       "onboard_time": 1780187538,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 356073,
+      "num": 541693,
+      "word": "Bin没有道歉",
+      "onboard_time": 1780630281,
+      "rank": 9,
+      "category": "电竞"
     },
     {
       "raw_hot": 356036,
@@ -3435,6 +3587,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 341905,
+      "num": 341905,
+      "word": "新疆小孩在游客临走前硬塞小羊",
+      "onboard_time": 1780627758,
+      "rank": 28,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 341342,
       "num": 317743,
       "word": "曾沛慈回应雪人换黄灿灿",
@@ -3619,6 +3779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 328238,
+      "num": 328238,
+      "word": "杨紫参加六五环境日",
+      "onboard_time": 1780631959,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 327082,
       "num": 327082,
       "word": "谢霆锋曾回应与王菲世纪牵手",
@@ -3737,6 +3905,14 @@
       "onboard_time": 1780584621,
       "rank": 9,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 315298,
+      "num": 315298,
+      "word": "高考加油",
+      "onboard_time": 1780621220,
+      "rank": 31,
+      "category": "教育"
     },
     {
       "raw_hot": 314853,
@@ -3875,6 +4051,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 303262,
+      "num": 303262,
+      "word": "11个月幼儿患重病爷爷探孙途中身亡",
+      "onboard_time": 1780625659,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 302930,
       "num": 409837,
       "word": "日本开始售卖黑白包装零食",
@@ -3897,6 +4081,14 @@
       "onboard_time": 1780472361,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 300687,
+      "num": 331510,
+      "word": "奚梦瑶何猷君相亲节目第一次见面",
+      "onboard_time": 1780624939,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 299177,
@@ -4281,6 +4473,14 @@
       "onboard_time": 1780467741,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 279354,
+      "num": 315738,
+      "word": "什么行为极大改善了你的心理健康",
+      "onboard_time": 1780622298,
+      "rank": 18,
+      "category": "情感"
     },
     {
       "raw_hot": 277862,
@@ -4947,6 +5147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 229490,
+      "num": 229490,
+      "word": "Anthropic呼吁全球暂停AI开发",
+      "onboard_time": 1780625659,
+      "rank": 38,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 229213,
       "num": 242701,
       "word": "要分清执念和执念的区别",
@@ -5307,14 +5515,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 212184,
-      "num": 315738,
-      "word": "什么行为极大改善了你的心理健康",
-      "onboard_time": 1780622298,
-      "rank": 18,
-      "category": "情感"
-    },
-    {
       "raw_hot": 211881,
       "num": 211881,
       "word": "刘宇宁热成毛不易了",
@@ -5369,6 +5569,14 @@
       "onboard_time": 1780463240,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 210702,
+      "num": 229582,
+      "word": "杨紫9部一番满广剧集",
+      "onboard_time": 1780625959,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 210315,
@@ -5667,6 +5875,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 198444,
+      "num": 198444,
+      "word": "辽宁本溪商铺爆炸已致2死13伤",
+      "onboard_time": 1780628180,
+      "rank": 41,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 198321,
       "num": 198321,
       "word": "正脸和侧脸的差别能有多大",
@@ -5923,11 +6139,11 @@
       "category": "情感"
     },
     {
-      "raw_hot": 184524,
-      "num": 302185,
-      "word": "攻玉官宣",
-      "onboard_time": 1780623259,
-      "rank": 27,
+      "raw_hot": 184313,
+      "num": 184313,
+      "word": "南部档案",
+      "onboard_time": 1780626678,
+      "rank": 42,
       "category": "剧集"
     },
     {
@@ -5953,6 +6169,14 @@
       "onboard_time": 1780156580,
       "rank": 25,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 183444,
+      "num": 272681,
+      "word": "特朗普将现身NBA总决赛G3",
+      "onboard_time": 1780622778,
+      "rank": 45,
+      "category": "国际时政"
     },
     {
       "raw_hot": 183420,
@@ -6097,6 +6321,14 @@
       "onboard_time": 1780574599,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 179312,
+      "num": 179312,
+      "word": "主角花彩香结局",
+      "onboard_time": 1780629800,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 179228,
@@ -6323,6 +6555,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 167310,
+      "num": 167310,
+      "word": "穆祉丞巡演诸暨站官宣",
+      "onboard_time": 1780631779,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
       "raw_hot": 166965,
       "num": 166965,
       "word": "跟物理不好的人解释不清",
@@ -6361,6 +6601,14 @@
       "onboard_time": 1780493960,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 163934,
+      "num": 407856,
+      "word": "AG 小麦",
+      "onboard_time": 1780623439,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 163487,
@@ -6875,14 +7123,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 145112,
-      "num": 276283,
-      "word": "AG 小麦",
-      "onboard_time": 1780623439,
-      "rank": 43,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 144808,
       "num": 354528,
       "word": "刘宇宁再唱平凡的日子借一点光",
@@ -6907,12 +7147,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 143994,
-      "num": 272681,
-      "word": "特朗普将现身NBA总决赛G3",
-      "onboard_time": 1780622778,
-      "rank": 45,
-      "category": "国际时政"
+      "raw_hot": 144498,
+      "num": 279502,
+      "word": "实习医生无证拔牙致患者死亡获刑",
+      "onboard_time": 1780631420,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 143758,
@@ -7009,6 +7249,14 @@
       "onboard_time": 1780288881,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 138054,
+      "num": 342805,
+      "word": "台球界来了个C罗",
+      "onboard_time": 1780631839,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 137524,
@@ -8195,6 +8443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 75616,
+      "num": 207868,
+      "word": "微博电影之夜盛典官宣",
+      "onboard_time": 1780632680,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 74898,
       "num": 144874,
       "word": "泪点低的看不得王传君这幅画",
@@ -8225,6 +8481,14 @@
       "onboard_time": 1780558939,
       "rank": 48,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 74017,
+      "num": 406920,
+      "word": "湘雅二医院逾8亿元工程招标疑云",
+      "onboard_time": 1780632021,
+      "rank": 18,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 74006,
@@ -8491,6 +8755,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 59930,
+      "num": 165382,
+      "word": "AI说了我最想跟老板说的话",
+      "onboard_time": 1780633100,
+      "rank": 47,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 59897,
       "num": 177487,
       "word": "周迅朴叙俊金高银同框",
@@ -8649,6 +8921,14 @@
       "onboard_time": 1780200859,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 52772,
+      "num": 346292,
+      "word": "京东成立国内首个健康防骗直播间",
+      "onboard_time": 1780632500,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 52262,
@@ -8947,6 +9227,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 37783,
+      "num": 166199,
+      "word": "夜幕之下你拿这个考验我",
+      "onboard_time": 1780629080,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 37772,
       "num": 149489,
       "word": "主角里到底有几个黑娃",
@@ -9209,6 +9497,14 @@
       "onboard_time": 1780298360,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 29427,
+      "num": 651817,
+      "word": "仲夏正式开启",
+      "onboard_time": 1780626558,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 29241,
