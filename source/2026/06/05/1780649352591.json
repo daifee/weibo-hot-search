@@ -1,0 +1,410 @@
+{
+  "runTime": 1780649352591,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 557291,
+        "num": 1089166,
+        "word": "男子落水7天6夜从海口漂到澄迈",
+        "onboard_time": 1780639099,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 311985,
+        "num": 784666,
+        "word": "豆包首次付费后月活减少610万",
+        "onboard_time": 1780629498,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 4568,
+        "num": 719031,
+        "word": "美丽中国行",
+        "onboard_time": 1780540820,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 2866113,
+        "num": 697608,
+        "word": "意识到了一杯奶茶钱真不是小钱",
+        "onboard_time": 1780641979,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 656782,
+        "num": 656782,
+        "word": "中央空调才是电费刺客",
+        "onboard_time": 1780640239,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 934894,
+        "num": 606436,
+        "word": "南开大学一学生被电诈220万",
+        "onboard_time": 1780636519,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 520869,
+        "num": 520869,
+        "word": "判断孩子有没有学霸潜质",
+        "onboard_time": 1780636159,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 461924,
+        "num": 461924,
+        "word": "周杰伦北京抢票",
+        "onboard_time": 1780643839,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 443809,
+        "num": 443809,
+        "word": "Faker送黄仁勋签名队服",
+        "onboard_time": 1780647800,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 253437,
+        "num": 443214,
+        "word": "时代峰峻两位艺人入选瞩目影人",
+        "onboard_time": 1780648280,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 47461,
+        "num": 434780,
+        "word": "核查处置望奎双汇猪肉抗生素超标",
+        "onboard_time": 1780648160,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1890158,
+        "num": 423257,
+        "word": "陈学冬 避谶",
+        "onboard_time": 1780635320,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 698869,
+        "num": 416198,
+        "word": "虞书欣花苞公主",
+        "onboard_time": 1780644979,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 250955,
+        "num": 412152,
+        "word": "中餐厅收工合照",
+        "onboard_time": 1780638380,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 513432,
+        "num": 402620,
+        "word": "高考加油红包",
+        "onboard_time": 1780629560,
+        "rank": 14,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 625421,
+        "num": 398867,
+        "word": "鲁豫脑袋大 梅婷是花瓶 郎朗效果差",
+        "onboard_time": 1780645939,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 745434,
+        "num": 388612,
+        "word": "陈学冬12部主演作品11部无法上线",
+        "onboard_time": 1780642698,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138941,
+        "num": 386052,
+        "word": "英国间谍2次偷窃中国茶叶机密",
+        "onboard_time": 1780627639,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 87515,
+        "num": 374601,
+        "word": "地方回应摸排企业与追觅合作状况",
+        "onboard_time": 1780648519,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170839,
+        "num": 371470,
+        "word": "麦当劳头顶长包了",
+        "onboard_time": 1780646719,
+        "rank": 19,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 553653,
+        "num": 360905,
+        "word": "何猷君曾说大学就想娶奚梦瑶",
+        "onboard_time": 1780646300,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 273394,
+        "num": 355728,
+        "word": "宋亚轩一把抱住刘耀文",
+        "onboard_time": 1780638560,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162466,
+        "num": 350642,
+        "word": "C罗姆巴佩詹姆斯超燃世界杯短片",
+        "onboard_time": 1780634360,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 842920,
+        "num": 341796,
+        "word": "李晨曾送了好多艺人水晶兔子",
+        "onboard_time": 1780631180,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 471510,
+        "num": 336256,
+        "word": "小的是多大的 小的是我",
+        "onboard_time": 1780643179,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 550353,
+        "num": 324878,
+        "word": "奚梦瑶坐货车去拍婚纱照",
+        "onboard_time": 1780649180,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 259420,
+        "num": 320345,
+        "word": "二手油车价格",
+        "onboard_time": 1780642639,
+        "rank": 26,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 317675,
+        "num": 317675,
+        "word": "租房的三件套",
+        "onboard_time": 1780634300,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 171741,
+        "num": 317661,
+        "word": "家业 华莱士",
+        "onboard_time": 1780628118,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120720,
+        "num": 317656,
+        "word": "易中天集体下跌",
+        "onboard_time": 1780649299,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 96572,
+        "num": 317655,
+        "word": "vivo镜头下的青春闪闪发光",
+        "onboard_time": 1780646719,
+        "rank": 30,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 317655,
+        "num": 317654,
+        "word": "存款达到多少可以提前退休",
+        "onboard_time": 1780631359,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 296697,
+        "num": 296697,
+        "word": "康师傅冰红茶卖不动了",
+        "onboard_time": 1780643480,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 266842,
+        "num": 266842,
+        "word": "果然出来吃火锅还是得戴眼镜",
+        "onboard_time": 1780635800,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 39744,
+        "num": 266043,
+        "word": "独居后才知道原来我超棒的",
+        "onboard_time": 1780648639,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 265788,
+        "num": 265788,
+        "word": "刘诗诗干练小黑裙",
+        "onboard_time": 1780638979,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 254658,
+        "num": 254658,
+        "word": "黑龙江挪车反杀案二审维持死缓",
+        "onboard_time": 1780637540,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117666,
+        "num": 251502,
+        "word": "韩国芯片巨头全线崩盘",
+        "onboard_time": 1780638859,
+        "rank": 37,
+        "category": "财经,互联网"
+      },
+      {
+        "raw_hot": 27579,
+        "num": 250145,
+        "word": "特朗普开会睡觉视频曝光",
+        "onboard_time": 1780649240,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 250082,
+        "num": 250082,
+        "word": "一馒落三馒生",
+        "onboard_time": 1780636100,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 237404,
+        "num": 237404,
+        "word": "去吃面偶遇朱一龙",
+        "onboard_time": 1780644679,
+        "rank": 40,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 52863,
+        "num": 226637,
+        "word": "十个勤天演我下班",
+        "onboard_time": 1780649119,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 223845,
+        "num": 223845,
+        "word": "抖音副总裁回应豆包误判蘑菇",
+        "onboard_time": 1780644859,
+        "rank": 42,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 235421,
+        "num": 221078,
+        "word": "沈月李嘉琦重庆落地签",
+        "onboard_time": 1780644080,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143926,
+        "num": 143926,
+        "word": "KPL票价",
+        "onboard_time": 1780638620,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 143534,
+        "num": 143534,
+        "word": "杨洋不让江山杀青",
+        "onboard_time": 1780641321,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142035,
+        "num": 142035,
+        "word": "乒超赛程",
+        "onboard_time": 1780649059,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 170563,
+        "num": 141700,
+        "word": "杨紫和郭晶晶一起上台领聘",
+        "onboard_time": 1780634120,
+        "rank": 47,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 148009,
+        "num": 141563,
+        "word": "iPhone18ProMax配色",
+        "onboard_time": 1780624698,
+        "rank": 48,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 165276,
+        "num": 140972,
+        "word": "朵朵说小酒窝是小仙女",
+        "onboard_time": 1780638439,
+        "rank": 49,
+        "category": "艺人,作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平将对朝鲜进行国事访问#"
+    }
+  }
+}

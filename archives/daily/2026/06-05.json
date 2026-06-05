@@ -1,6 +1,6 @@
 {
   "startTime": 1780590317637,
-  "endTime": 1780642233084,
+  "endTime": 1780649352591,
   "band_list": [
     {
       "raw_hot": 3627510,
@@ -11,8 +11,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2866113,
+      "num": 697608,
+      "word": "意识到了一杯奶茶钱真不是小钱",
+      "onboard_time": 1780641979,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 2269072,
-      "num": 294886,
+      "num": 423257,
       "word": "陈学冬 避谶",
       "onboard_time": 1780635320,
       "rank": 10,
@@ -203,6 +211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 745434,
+      "num": 388612,
+      "word": "陈学冬12部主演作品11部无法上线",
+      "onboard_time": 1780642698,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 738926,
       "num": 268617,
       "word": "刘亦菲又自己乱剪头发了",
@@ -227,6 +243,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 698869,
+      "num": 416198,
+      "word": "虞书欣花苞公主",
+      "onboard_time": 1780644979,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 695280,
       "num": 328813,
       "word": "普京称俄方同意妥协",
@@ -243,6 +267,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 656782,
+      "num": 656782,
+      "word": "中央空调才是电费刺客",
+      "onboard_time": 1780640239,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 625421,
+      "num": 398867,
+      "word": "鲁豫脑袋大 梅婷是花瓶 郎朗效果差",
+      "onboard_time": 1780645939,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 625077,
       "num": 625077,
       "word": "中餐厅收工合照",
@@ -257,6 +297,30 @@
       "onboard_time": 1780634300,
       "rank": 7,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 557291,
+      "num": 1089166,
+      "word": "男子落水7天6夜从海口漂到澄迈",
+      "onboard_time": 1780639099,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 553653,
+      "num": 360905,
+      "word": "何猷君曾说大学就想娶奚梦瑶",
+      "onboard_time": 1780646300,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 550353,
+      "num": 324878,
+      "word": "奚梦瑶坐货车去拍婚纱照",
+      "onboard_time": 1780649180,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 548134,
@@ -299,6 +363,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 471510,
+      "num": 336256,
+      "word": "小的是多大的 小的是我",
+      "onboard_time": 1780643179,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 468614,
       "num": 277924,
       "word": "朵朵说小酒窝是小仙女",
@@ -315,8 +387,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 461924,
+      "num": 461924,
+      "word": "周杰伦北京抢票",
+      "onboard_time": 1780643839,
+      "rank": 7,
+      "category": "演出"
+    },
+    {
       "raw_hot": 452132,
-      "num": 280640,
+      "num": 355728,
       "word": "宋亚轩一把抱住刘耀文",
       "onboard_time": 1780638560,
       "rank": 17,
@@ -324,7 +404,7 @@
     },
     {
       "raw_hot": 449565,
-      "num": 230745,
+      "num": 265788,
       "word": "刘诗诗干练小黑裙",
       "onboard_time": 1780638979,
       "rank": 30,
@@ -337,6 +417,14 @@
       "onboard_time": 1780584560,
       "rank": 29,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 443809,
+      "num": 443809,
+      "word": "Faker送黄仁勋签名队服",
+      "onboard_time": 1780647800,
+      "rank": 8,
+      "category": "电竞"
     },
     {
       "raw_hot": 420358,
@@ -548,7 +636,7 @@
     },
     {
       "raw_hot": 307822,
-      "num": 307822,
+      "num": 350642,
       "word": "C罗姆巴佩詹姆斯超燃世界杯短片",
       "onboard_time": 1780634360,
       "rank": 8,
@@ -603,6 +691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 296697,
+      "num": 296697,
+      "word": "康师傅冰红茶卖不动了",
+      "onboard_time": 1780643480,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 291726,
       "num": 277136,
       "word": "妈妈哄二宝一时性急打掉大宝玩具",
@@ -633,14 +729,6 @@
       "onboard_time": 1780617920,
       "rank": 19,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 282873,
-      "num": 225677,
-      "word": "中央空调才是电费刺客",
-      "onboard_time": 1780640239,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 281580,
@@ -699,12 +787,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 259420,
+      "num": 320345,
+      "word": "二手油车价格",
+      "onboard_time": 1780642639,
+      "rank": 26,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 253448,
       "num": 644132,
       "word": "国企回应保安只让员工孩子进门躲雨",
       "onboard_time": 1780583301,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 253437,
+      "num": 443214,
+      "word": "时代峰峻两位艺人入选瞩目影人",
+      "onboard_time": 1780648280,
+      "rank": 9,
+      "category": "电影"
     },
     {
       "raw_hot": 248520,
@@ -755,11 +859,35 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 237404,
+      "num": 237404,
+      "word": "去吃面偶遇朱一龙",
+      "onboard_time": 1780644679,
+      "rank": 40,
+      "category": "艺人,作品衍生"
+    },
+    {
+      "raw_hot": 235421,
+      "num": 221078,
+      "word": "沈月李嘉琦重庆落地签",
+      "onboard_time": 1780644080,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 229490,
       "num": 229490,
       "word": "Anthropic呼吁全球暂停AI开发",
       "onboard_time": 1780625659,
       "rank": 38,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 223845,
+      "num": 223845,
+      "word": "抖音副总裁回应豆包误判蘑菇",
+      "onboard_time": 1780644859,
+      "rank": 42,
       "category": "互联网"
     },
     {
@@ -769,14 +897,6 @@
       "onboard_time": 1780578500,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 213998,
-      "num": 213998,
-      "word": "男子落水7天6夜从海口漂到澄迈",
-      "onboard_time": 1780639099,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 210717,
@@ -801,14 +921,6 @@
       "onboard_time": 1780550359,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 203332,
-      "num": 203332,
-      "word": "意识到了一杯奶茶钱真不是小钱",
-      "onboard_time": 1780641979,
-      "rank": 39,
-      "category": "情感"
     },
     {
       "raw_hot": 202256,
@@ -955,6 +1067,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 170839,
+      "num": 371470,
+      "word": "麦当劳头顶长包了",
+      "onboard_time": 1780646719,
+      "rank": 19,
+      "category": "美食"
+    },
+    {
       "raw_hot": 170618,
       "num": 170618,
       "word": "孟子义回桃花坞晒照",
@@ -1067,6 +1187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 142035,
+      "num": 142035,
+      "word": "乒超赛程",
+      "onboard_time": 1780649059,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 141868,
       "num": 271085,
       "word": "泽连斯基向普京发出公开信",
@@ -1121,6 +1249,14 @@
       "onboard_time": 1780569740,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 120720,
+      "num": 317656,
+      "word": "易中天集体下跌",
+      "onboard_time": 1780649299,
+      "rank": 29,
+      "category": "财经"
     },
     {
       "raw_hot": 115772,
@@ -1187,6 +1323,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 96572,
+      "num": 317655,
+      "word": "vivo镜头下的青春闪闪发光",
+      "onboard_time": 1780646719,
+      "rank": 30,
+      "category": "数码"
+    },
+    {
       "raw_hot": 94176,
       "num": 137064,
       "word": "中方回应2名日本人处理日遗化武受伤",
@@ -1201,6 +1345,14 @@
       "onboard_time": 1780634181,
       "rank": 46,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 87515,
+      "num": 374601,
+      "word": "地方回应摸排企业与追觅合作状况",
+      "onboard_time": 1780648519,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 86507,
@@ -1307,6 +1459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 52863,
+      "num": 226637,
+      "word": "十个勤天演我下班",
+      "onboard_time": 1780649119,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 52772,
       "num": 346292,
       "word": "京东成立国内首个健康防骗直播间",
@@ -1339,12 +1499,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 47461,
+      "num": 434780,
+      "word": "核查处置望奎双汇猪肉抗生素超标",
+      "onboard_time": 1780648160,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 39939,
       "num": 684734,
       "word": "高考前这些事要再捋一遍",
       "onboard_time": 1780577600,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 39744,
+      "num": 266043,
+      "word": "独居后才知道原来我超棒的",
+      "onboard_time": 1780648639,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 39552,
@@ -1427,6 +1603,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 27579,
+      "num": 250145,
+      "word": "特朗普开会睡觉视频曝光",
+      "onboard_time": 1780649240,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 27413,
       "num": 71050,
       "word": "2026F1摩纳哥大奖赛",
@@ -1505,6 +1689,14 @@
       "onboard_time": 1780623378,
       "rank": 36,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 4568,
+      "num": 719031,
+      "word": "美丽中国行",
+      "onboard_time": 1780540820,
+      "rank": 2,
+      "category": "国内时政"
     }
   ],
   "hotgov_list": [
@@ -1513,6 +1705,9 @@
     },
     {
       "word": "#跟着总书记共绘美丽中国#"
+    },
+    {
+      "word": "#习近平将对朝鲜进行国事访问#"
     }
   ]
 }
