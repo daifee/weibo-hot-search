@@ -1,6 +1,6 @@
 {
   "startTime": 1780675459497,
-  "endTime": 1780675459497,
+  "endTime": 1780678867028,
   "band_list": [
     {
       "raw_hot": 100000,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 100000,
-      "num": 457791,
+      "num": 769448,
       "word": "李晨好大一个白眼",
       "onboard_time": 1780673782,
       "rank": 11,
@@ -156,7 +156,7 @@
     },
     {
       "raw_hot": 100000,
-      "num": 430836,
+      "num": 1399604,
       "word": "红果3类短剧禁拍13类受限",
       "onboard_time": 1780670783,
       "rank": 19,
@@ -401,6 +401,118 @@
       "onboard_time": 1780674140,
       "rank": 49,
       "category": "互联网,电竞"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 397629,
+      "word": "男子胸痛挂号13分钟医生出现",
+      "onboard_time": 1780675762,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 392964,
+      "word": "孙怡 一站到底",
+      "onboard_time": 1780675762,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 347155,
+      "word": "张镇麟 第四冠",
+      "onboard_time": 1780675460,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 337551,
+      "word": "丞磊帮白鹿擦嘴",
+      "onboard_time": 1780676181,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 313481,
+      "word": "温峥嵘自己玩上了",
+      "onboard_time": 1780677621,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 289694,
+      "word": "李心洁 见鬼",
+      "onboard_time": 1780678579,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 234433,
+      "word": "阚清子 叶琳大小姐回归",
+      "onboard_time": 1780669764,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 199671,
+      "word": "耳帝说胡彦斌齐豫明显高出一档",
+      "onboard_time": 1780678817,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 193924,
+      "word": "乘客用智能眼镜偷拍空姐上传社区",
+      "onboard_time": 1780672102,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 191848,
+      "word": "U19国足1比0哥伦比亚U19",
+      "onboard_time": 1780677858,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 189661,
+      "word": "土伦杯",
+      "onboard_time": 1780673362,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 188009,
+      "word": "母亲60g黄金藏水壶被女儿当废品卖了",
+      "onboard_time": 1780654340,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 186345,
+      "word": "F1",
+      "onboard_time": 1780667124,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 185397,
+      "word": "父亲送32岁女儿进教育机构治网瘾",
+      "onboard_time": 1780670423,
+      "rank": 49,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
