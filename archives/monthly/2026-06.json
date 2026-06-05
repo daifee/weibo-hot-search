@@ -1,6 +1,6 @@
 {
   "startTime": 1780247827631,
-  "endTime": 1780692873353,
+  "endTime": 1780693565730,
   "band_list": [
     {
       "raw_hot": 6730138,
@@ -7793,6 +7793,22 @@
       "onboard_time": 1780690694,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 27197,
+      "word": "每周五都被浪姐气晕",
+      "onboard_time": 1780693093,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 25043,
+      "word": "恋与制作人",
+      "onboard_time": 1780692973,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 99703,
