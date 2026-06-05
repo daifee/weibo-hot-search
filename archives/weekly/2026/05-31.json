@@ -1,6 +1,6 @@
 {
   "startTime": 1780161470105,
-  "endTime": 1780657196571,
+  "endTime": 1780661710268,
   "band_list": [
     {
       "raw_hot": 6730138,
@@ -916,7 +916,7 @@
     },
     {
       "raw_hot": 1007152,
-      "num": 242173,
+      "num": 323372,
       "word": "奚梦瑶儿子盼何猷君追平身高",
       "onboard_time": 1780653800,
       "rank": 20,
@@ -2868,7 +2868,7 @@
     },
     {
       "raw_hot": 428191,
-      "num": 242563,
+      "num": 345040,
       "word": "母亲60g黄金藏水壶被女儿当废品卖了",
       "onboard_time": 1780654340,
       "rank": 10,
@@ -3060,7 +3060,7 @@
     },
     {
       "raw_hot": 410452,
-      "num": 242413,
+      "num": 358344,
       "word": "谢震廷自首",
       "onboard_time": 1780649601,
       "rank": 14,
@@ -3348,7 +3348,7 @@
     },
     {
       "raw_hot": 384133,
-      "num": 242348,
+      "num": 320751,
       "word": "孙怡赵今麦同框",
       "onboard_time": 1780649781,
       "rank": 15,
@@ -3980,7 +3980,7 @@
     },
     {
       "raw_hot": 333183,
-      "num": 333183,
+      "num": 691559,
       "word": "高考期间有必要禁豆包吗",
       "onboard_time": 1780653680,
       "rank": 5,
@@ -5076,7 +5076,7 @@
     },
     {
       "raw_hot": 258129,
-      "num": 242311,
+      "num": 368806,
       "word": "高考假",
       "onboard_time": 1780656621,
       "rank": 16,
@@ -7260,7 +7260,7 @@
     },
     {
       "raw_hot": 159077,
-      "num": 164444,
+      "num": 215638,
       "word": "一定要警惕路边的提拉米苏",
       "onboard_time": 1780653020,
       "rank": 32,
@@ -7292,7 +7292,7 @@
     },
     {
       "raw_hot": 156642,
-      "num": 156642,
+      "num": 431799,
       "word": "国足vs新加坡",
       "onboard_time": 1780656980,
       "rank": 35,
@@ -7460,7 +7460,7 @@
     },
     {
       "raw_hot": 151074,
-      "num": 151074,
+      "num": 290315,
       "word": "比马伊琍还牛的商战名字出现了",
       "onboard_time": 1780656621,
       "rank": 39,
@@ -8444,7 +8444,7 @@
     },
     {
       "raw_hot": 107111,
-      "num": 132193,
+      "num": 191351,
       "word": "追觅高管称旗下所有基金投资合规",
       "onboard_time": 1780652782,
       "rank": 47,
@@ -8577,6 +8577,198 @@
       "onboard_time": 1780438635,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 808299,
+      "word": "美丽中国行",
+      "onboard_time": 1780404563,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 1550310,
+      "word": "浪姐直播",
+      "onboard_time": 1780658839,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 897619,
+      "word": "王楚钦说北大未名湖很美",
+      "onboard_time": 1780660700,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 674248,
+      "word": "歌手直播",
+      "onboard_time": 1780658780,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 433275,
+      "word": "耀眼开分5.9",
+      "onboard_time": 1780657699,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 425685,
+      "word": "DRG 早点",
+      "onboard_time": 1780659740,
+      "rank": 8,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 404177,
+      "word": "杭州非法试管婴儿事件最新通报",
+      "onboard_time": 1780661120,
+      "rank": 10,
+      "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 388322,
+      "word": "荔枝冰奶",
+      "onboard_time": 1780658059,
+      "rank": 12,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 337032,
+      "word": "直播间捡漏顶级翡翠实为废料",
+      "onboard_time": 1780660759,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 329092,
+      "word": "普京称待冲突结束俄乌应说谢天谢地",
+      "onboard_time": 1780660879,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 320959,
+      "word": "纪检部门介入离婚牵出近亿财产",
+      "onboard_time": 1780660879,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 203021,
+      "word": "刘亦菲官宣芭比波朗",
+      "onboard_time": 1780657639,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 191894,
+      "word": "2026KPL夏季转会期",
+      "onboard_time": 1780659621,
+      "rank": 28,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 191140,
+      "word": "快餐店吃米粥吃出6个连环刀片",
+      "onboard_time": 1780661540,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 190633,
+      "word": "日本宅男去世满屋收藏变垃圾",
+      "onboard_time": 1780659079,
+      "rank": 31,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 189812,
+      "word": "被虞书欣看得镜头一抖",
+      "onboard_time": 1780657699,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 188573,
+      "word": "杨紫发郭晶晶合照",
+      "onboard_time": 1780661599,
+      "rank": 35,
+      "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 186563,
+      "word": "曾沛慈嗓子哑成这样",
+      "onboard_time": 1780661479,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 185731,
+      "word": "韩国丈夫偷拍并嘲笑孕晚期妻子",
+      "onboard_time": 1780657879,
+      "rank": 37,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 184548,
+      "word": "鸡蛋骗局",
+      "onboard_time": 1780660279,
+      "rank": 38,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 182425,
+      "word": "马桶预测西班牙胜率大",
+      "onboard_time": 1780661120,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 180573,
+      "word": "爸妈买的降压神器有多离谱",
+      "onboard_time": 1780661120,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 179256,
+      "word": "京东帮我把产品用到退休",
+      "onboard_time": 1780640059,
+      "rank": 42,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 163874,
+      "word": "原来高考完最难受的是高二生",
+      "onboard_time": 1780658540,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 99703,
@@ -10121,14 +10313,6 @@
       "onboard_time": 1780320442,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 31745,
-      "num": 808299,
-      "word": "美丽中国行",
-      "onboard_time": 1780404563,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 31403,
