@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/06/01 01:17:07 ~ 2026/06/06 13:13:42
+本榜单时间：2026/06/01 01:17:07 ~ 2026/06/06 15:54:34
 </p>
 </blockquote>
 <p>
@@ -6113,6 +6113,12 @@ NBA总决赛马刺vs尼克斯（热度：100000）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E8%BF%99%E4%B8%80%E5%B9%95%E8%A7%81%E8%AF%81%E4%B8%AD%E6%9C%9D%E5%8F%8B%E8%B0%8A%E5%8E%86%E4%B9%85%E5%BC%A5%E5%9D%9A%23%23" target="weibo">
 #这一幕见证中朝友谊历久弥坚#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E5%9B%9E%E9%A1%BE%E4%B9%A0%E8%BF%91%E5%B9%B37%E5%B9%B4%E5%89%8D%E5%AF%B9%E6%9C%9D%E9%B2%9C%E5%8E%86%E5%8F%B2%E6%80%A7%E8%AE%BF%E9%97%AE%23%23" target="weibo">
+#回顾习近平7年前对朝鲜历史性访问#
 </a>
 </li>
 
