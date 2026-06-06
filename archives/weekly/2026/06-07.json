@@ -1,6 +1,6 @@
 {
   "startTime": 1780762467317,
-  "endTime": 1780762467317,
+  "endTime": 1780767748606,
   "band_list": [
     {
       "raw_hot": 100000,
@@ -236,7 +236,7 @@
     },
     {
       "raw_hot": 100000,
-      "num": 381799,
+      "num": 382913,
       "word": "高考新增AI监考员",
       "onboard_time": 1780761501,
       "rank": 29,
@@ -268,7 +268,7 @@
     },
     {
       "raw_hot": 100000,
-      "num": 359316,
+      "num": 378050,
       "word": "4所公立幼儿园报名看家长工资流水",
       "onboard_time": 1780759701,
       "rank": 33,
@@ -292,7 +292,7 @@
     },
     {
       "raw_hot": 100000,
-      "num": 322750,
+      "num": 337407,
       "word": "王哲林回应删朱芳雨微信",
       "onboard_time": 1780760302,
       "rank": 36,
@@ -300,7 +300,7 @@
     },
     {
       "raw_hot": 100000,
-      "num": 315281,
+      "num": 337635,
       "word": "陈瑶 雪人",
       "onboard_time": 1780748362,
       "rank": 37,
@@ -316,7 +316,7 @@
     },
     {
       "raw_hot": 100000,
-      "num": 271727,
+      "num": 337084,
       "word": "JDG缺席MSI",
       "onboard_time": 1780759942,
       "rank": 39,
@@ -324,7 +324,7 @@
     },
     {
       "raw_hot": 100000,
-      "num": 271713,
+      "num": 337536,
       "word": "谢楠的手一直在抖",
       "onboard_time": 1780754243,
       "rank": 40,
@@ -332,7 +332,7 @@
     },
     {
       "raw_hot": 100000,
-      "num": 266769,
+      "num": 337594,
       "word": "范玮琪演唱会听到孙怡赢了的反应",
       "onboard_time": 1780755204,
       "rank": 41,
@@ -348,7 +348,7 @@
     },
     {
       "raw_hot": 100000,
-      "num": 234974,
+      "num": 337028,
       "word": "白鹿粉丝云包场30万座",
       "onboard_time": 1780752382,
       "rank": 43,
@@ -372,7 +372,7 @@
     },
     {
       "raw_hot": 100000,
-      "num": 219741,
+      "num": 337162,
       "word": "网红边牧锄头鉴定价值超2000元",
       "onboard_time": 1780760901,
       "rank": 46,
@@ -396,11 +396,123 @@
     },
     {
       "raw_hot": 100000,
-      "num": 215050,
+      "num": 337670,
       "word": "F1",
       "onboard_time": 1780762400,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 396551,
+      "word": "高考一定带好身份证准考证",
+      "onboard_time": 1780751182,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 338078,
+      "word": "蔡明 唐艺昕想吃樱桃就有人种",
+      "onboard_time": 1780765158,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 337994,
+      "word": "阚清子甩头发完全魅魔",
+      "onboard_time": 1780766297,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 337775,
+      "word": "感情里的微妙悖论",
+      "onboard_time": 1780763779,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 337549,
+      "word": "以为是爱狗人士结果是爱心人士",
+      "onboard_time": 1780763180,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 337468,
+      "word": "单依纯橄榄树 神女吟唱",
+      "onboard_time": 1780752022,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 337455,
+      "word": "淡淡格局",
+      "onboard_time": 1780765278,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 337357,
+      "word": "刘耀文合作艾美奖提名编舞家",
+      "onboard_time": 1780765218,
+      "rank": 39,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 337316,
+      "word": "XLG对战NRG",
+      "onboard_time": 1780762939,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 337291,
+      "word": "女生请求天鹅帮忙捡反光板",
+      "onboard_time": 1780766657,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 337251,
+      "word": "代斯淘汰待定",
+      "onboard_time": 1780757004,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 337197,
+      "word": "陈小春唱了庆余年主题曲借过一下",
+      "onboard_time": 1780758083,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 337134,
+      "word": "黄灿灿 谢谢你姐姐",
+      "onboard_time": 1780754843,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 337058,
+      "word": "女子开错车连夜联系车主归还",
+      "onboard_time": 1780758263,
+      "rank": 48,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
