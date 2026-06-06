@@ -1,0 +1,410 @@
+{
+  "runTime": 1780746963852,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 100000,
+        "num": 1221356,
+        "word": "女生嘴含夹竹桃拍照中毒过敏",
+        "onboard_time": 1780741041,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 840733,
+        "word": "英伟达市值一夜蒸发2.2万亿",
+        "onboard_time": 1780735700,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 664777,
+        "word": "教育部发布4条高考特别提醒",
+        "onboard_time": 1780730120,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 608514,
+        "word": "上海一医院妇科专家挂号费5000元",
+        "onboard_time": 1780738160,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 588429,
+        "word": "AI文风太好认",
+        "onboard_time": 1780732823,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 574203,
+        "word": "浪姐直播",
+        "onboard_time": 1780745900,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 572675,
+        "word": "吃完的榴莲别急着扔",
+        "onboard_time": 1780739843,
+        "rank": 6,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 365948,
+        "word": "种地吧麦田音乐会",
+        "onboard_time": 1780744821,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 365572,
+        "word": "U23国足读秒绝杀",
+        "onboard_time": 1780745660,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 365089,
+        "word": "高考时间",
+        "onboard_time": 1780718183,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 364375,
+        "word": "曝沈月文章抄袭",
+        "onboard_time": 1780741041,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 363687,
+        "word": "李晨被恶意解读不舒服了",
+        "onboard_time": 1780741940,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 363298,
+        "word": "16岁女孩被捅重伤行凶者轻生身亡",
+        "onboard_time": 1780745181,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 363021,
+        "word": "海来阿木黑脸",
+        "onboard_time": 1780733842,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 362088,
+        "word": "榴莲核煮饭",
+        "onboard_time": 1780731922,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 361589,
+        "word": "佘诗曼回应曾霸凌杨思琦",
+        "onboard_time": 1780743860,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 360976,
+        "word": "AI入侵李荣浩",
+        "onboard_time": 1780746081,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 360852,
+        "word": "网红狗被偷宰杀警方已刑事立案",
+        "onboard_time": 1780742780,
+        "rank": 17,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 360555,
+        "word": "外卖员直言人多了但单少了",
+        "onboard_time": 1780746441,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 358079,
+        "word": "台湾太阳花女王逃美7年被押解返台",
+        "onboard_time": 1780746441,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 357485,
+        "word": "何猷君保姆坐奚梦瑶父母旁边",
+        "onboard_time": 1780743922,
+        "rank": 20,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 355551,
+        "word": "男子疑遭妻子家暴跳楼身亡调查",
+        "onboard_time": 1780746441,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 353907,
+        "word": "李荣浩跟豆包说啥了",
+        "onboard_time": 1780738641,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 352449,
+        "word": "谢娜今晚有好消息宣布",
+        "onboard_time": 1780746200,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 351535,
+        "word": "中国人聚是一栋楼 散是满地球",
+        "onboard_time": 1780728620,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 350245,
+        "word": "阚清子整个人大蜕变",
+        "onboard_time": 1780734681,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 347390,
+        "word": "2岁女儿给爸爸降温背上多了四张人脸",
+        "onboard_time": 1780738160,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 347368,
+        "word": "苏醒分析浪姐现场喊金牌King",
+        "onboard_time": 1780735700,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 300396,
+        "word": "金价年内大跌",
+        "onboard_time": 1780746021,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 293061,
+        "word": "iPhoneUltra机模再曝光",
+        "onboard_time": 1780736180,
+        "rank": 29,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 289971,
+        "word": "被薛凯琪选择定居北京这段笑死",
+        "onboard_time": 1780739780,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 286765,
+        "word": "浪姐四公4位姐姐道歉",
+        "onboard_time": 1780737739,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 223633,
+        "word": "直接请老妈吃肯德基",
+        "onboard_time": 1780739121,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 222956,
+        "word": "曾沛慈反复看了超过20次Susan说",
+        "onboard_time": 1780745961,
+        "rank": 33,
+        "category": "综艺,作品衍生"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 218493,
+        "word": "特朗普官宣和马斯克又成朋友了",
+        "onboard_time": 1780743621,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 218432,
+        "word": "碰瓷被儿子怒吼的患癌母亲已火化",
+        "onboard_time": 1780731201,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 206103,
+        "word": "宋亚轩给丁程鑫严浩翔拍照",
+        "onboard_time": 1780745300,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 188581,
+        "word": "郑秀晶回应争议",
+        "onboard_time": 1780732400,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 155205,
+        "word": "梅西C罗成新晋十亿富豪",
+        "onboard_time": 1780743739,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 154241,
+        "word": "沈月方打假文章抄袭",
+        "onboard_time": 1780744642,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 152559,
+        "word": "花海是贺峻霖纪录片主角",
+        "onboard_time": 1780739962,
+        "rank": 40,
+        "category": "综艺,电竞"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 150322,
+        "word": "1499元茅台消失了",
+        "onboard_time": 1780739360,
+        "rank": 41,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 147281,
+        "word": "严浩翔YAN纹身",
+        "onboard_time": 1780727781,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 139809,
+        "word": "BLG对战JDG",
+        "onboard_time": 1780739900,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 133159,
+        "word": "徐若晗1分半画袁咏仪彭冠英王子奇",
+        "onboard_time": 1780741882,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 129284,
+        "word": "浪姐声明",
+        "onboard_time": 1780727301,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 127078,
+        "word": "司机停车礼让母鸡后前方山体垮塌",
+        "onboard_time": 1780741041,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 126639,
+        "word": "U23国足1比0塔吉克斯坦U23",
+        "onboard_time": 1780745241,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 125753,
+        "word": "苹果iOS27渲染视频",
+        "onboard_time": 1780739001,
+        "rank": 48,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 124089,
+        "word": "田曦薇把自己贴进毛茸茸里",
+        "onboard_time": 1780742780,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#回顾习近平7年前对朝鲜历史性访问#"
+    }
+  }
+}
