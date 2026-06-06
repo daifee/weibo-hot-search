@@ -1,6 +1,6 @@
 {
   "startTime": 1780247827631,
-  "endTime": 1780709402440,
+  "endTime": 1780722034994,
   "band_list": [
     {
       "raw_hot": 6730138,
@@ -8131,6 +8131,350 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 100000,
+      "num": 1174046,
+      "word": "歌手谢谢验票",
+      "onboard_time": 1780717163,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 879568,
+      "word": "全国首例盲人脑机接口复明成功",
+      "onboard_time": 1780714939,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 829931,
+      "word": "这是我们的大美中国",
+      "onboard_time": 1780713321,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 820581,
+      "word": "高考时间",
+      "onboard_time": 1780718183,
+      "rank": 3,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 808626,
+      "word": "浪姐观众 金牌的king",
+      "onboard_time": 1780718722,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 759973,
+      "word": "李晨郑恺回应争议",
+      "onboard_time": 1780718183,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 301652,
+      "word": "广东真不适合养萨摩耶",
+      "onboard_time": 1780716442,
+      "rank": 7,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 278133,
+      "word": "曝青岛某网球场竟是用废网球建的",
+      "onboard_time": 1780720762,
+      "rank": 8,
+      "category": "民生新闻,体育"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 277875,
+      "word": "尼克斯2比0马刺",
+      "onboard_time": 1780720581,
+      "rank": 9,
+      "category": "体育,体育"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 12073864,
+      "word": "金泽去世",
+      "onboard_time": 1780708999,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 277549,
+      "word": "重庆理工一副校长遇刺身亡",
+      "onboard_time": 1780719981,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 277091,
+      "word": "何超盈女儿在奚梦瑶婚礼上演讲",
+      "onboard_time": 1780717344,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 276578,
+      "word": "文班亚马致命失误",
+      "onboard_time": 1780718302,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 276433,
+      "word": "全球资产崩跌",
+      "onboard_time": 1780713200,
+      "rank": 15,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 276216,
+      "word": "谢娜发了和李心洁的聊天记录",
+      "onboard_time": 1780720642,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 275849,
+      "word": "金泽曾透露为当演员拼命减肥",
+      "onboard_time": 1780720882,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 275401,
+      "word": "范丞丞下沉口碑",
+      "onboard_time": 1780721782,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 274928,
+      "word": "李登科聊刘亦菲7折捡漏刘诗诗代言",
+      "onboard_time": 1780717344,
+      "rank": 20,
+      "category": "艺人,作品衍生"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 274775,
+      "word": "摄影师开黄腔被女子制止后P图报复",
+      "onboard_time": 1780713619,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 274534,
+      "word": "iPhone17续航有望改善",
+      "onboard_time": 1780714340,
+      "rank": 22,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 274268,
+      "word": "王濛金牌含金量",
+      "onboard_time": 1780710980,
+      "rank": 23,
+      "category": "体育,综艺"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 273671,
+      "word": "国内金饰价格大幅下跌",
+      "onboard_time": 1780720101,
+      "rank": 25,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 273536,
+      "word": "你多久没喊过Siri了",
+      "onboard_time": 1780717042,
+      "rank": 26,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 273272,
+      "word": "王菲 我打牌的时候没空打她",
+      "onboard_time": 1780721002,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 268472,
+      "word": "11月龄女婴确诊遗传病母亲自责痛哭",
+      "onboard_time": 1780720341,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 267899,
+      "word": "孙颖莎的原声祝福",
+      "onboard_time": 1780720341,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 267764,
+      "word": "王濛成名之前家里不给上祖坟",
+      "onboard_time": 1780717222,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 267516,
+      "word": "虐猫举报人母亲全名被报出",
+      "onboard_time": 1780716143,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 263150,
+      "word": "王濛表情变化",
+      "onboard_time": 1780721181,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 216914,
+      "word": "北京大学红包",
+      "onboard_time": 1780717702,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 216849,
+      "word": "等着李荣浩的好好考",
+      "onboard_time": 1780711520,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 216625,
+      "word": "江语晨崩溃大哭",
+      "onboard_time": 1780709780,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 204581,
+      "word": "曝白鹿开到荼靡导演李木戈",
+      "onboard_time": 1780710559,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 203784,
+      "word": "消费者回应为什么不买耐克了",
+      "onboard_time": 1780720522,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 203546,
+      "word": "电影偷偷藏不住改档",
+      "onboard_time": 1780721300,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 203504,
+      "word": "房企开始按奢侈品逻辑卖房",
+      "onboard_time": 1780720522,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 192846,
+      "word": "沙溢把角落里的白鹿拉到中间",
+      "onboard_time": 1780719921,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 181350,
+      "word": "回村后过上向往的生活",
+      "onboard_time": 1780721901,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 180501,
+      "word": "杨紫家业不怕成绩来得慢",
+      "onboard_time": 1780721842,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 164848,
+      "word": "王一博体验做帽子",
+      "onboard_time": 1780715844,
+      "rank": 46,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 159244,
+      "word": "恋与深空",
+      "onboard_time": 1780716743,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 156777,
+      "word": "黄金白银崩跌原因",
+      "onboard_time": 1780714822,
+      "rank": 48,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 156406,
+      "word": "国际空间站宇航员准备随时撤离",
+      "onboard_time": 1780710799,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 99703,
       "num": 125120,
       "word": "何小鹏直播回应小鹏GX上市火爆",
@@ -10072,6 +10416,9 @@
     },
     {
       "word": "#习近平同通伦举行会谈#"
+    },
+    {
+      "word": "#这一幕见证中朝友谊历久弥坚#"
     }
   ]
 }
