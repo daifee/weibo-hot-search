@@ -1,6 +1,6 @@
 {
   "startTime": 1780247827631,
-  "endTime": 1780783881087,
+  "endTime": 1780789032330,
   "band_list": [
     {
       "raw_hot": 6730138,
@@ -9796,7 +9796,7 @@
     },
     {
       "raw_hot": 100000,
-      "num": 743910,
+      "num": 843360,
       "word": "4所公立幼儿园报名看家长工资流水",
       "onboard_time": 1780759701,
       "rank": 34,
@@ -9876,7 +9876,7 @@
     },
     {
       "raw_hot": 100000,
-      "num": 396551,
+      "num": 481545,
       "word": "高考一定带好身份证准考证",
       "onboard_time": 1780751182,
       "rank": 2,
@@ -9988,7 +9988,7 @@
     },
     {
       "raw_hot": 100000,
-      "num": 61615,
+      "num": 163308,
       "word": "公积金新政有望唤醒十万亿沉睡资金",
       "onboard_time": 1780777934,
       "rank": 30,
@@ -10004,11 +10004,147 @@
     },
     {
       "raw_hot": 100000,
-      "num": 24413,
+      "num": 161186,
       "word": "谁在纵容用智能眼镜偷拍空姐",
       "onboard_time": 1780781954,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 609942,
+      "word": "跑男将迎最后一轮拍摄",
+      "onboard_time": 1780749623,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 278993,
+      "word": "高考第一天",
+      "onboard_time": 1780787837,
+      "rank": 5,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 167686,
+      "word": "今天高考",
+      "onboard_time": 1780788076,
+      "rank": 8,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 166143,
+      "word": "唐艺昕疑似皮肤病复发",
+      "onboard_time": 1780788196,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 165480,
+      "word": "李佳航这是咋了",
+      "onboard_time": 1780764260,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 160488,
+      "word": "小米回应SU7电吸门无防夹功能",
+      "onboard_time": 1780788257,
+      "rank": 19,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 159595,
+      "word": "5个部位疼可能是心梗先兆",
+      "onboard_time": 1780788377,
+      "rank": 20,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 158821,
+      "word": "金价跌回2025年是买还是等",
+      "onboard_time": 1780788317,
+      "rank": 21,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 150060,
+      "word": "人数降了招生多了这届高考不难了吗",
+      "onboard_time": 1780788019,
+      "rank": 24,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 120935,
+      "word": "高考为什么定在6月",
+      "onboard_time": 1780788257,
+      "rank": 27,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 103921,
+      "word": "中国记者采访菲代表团竟被嘲笑辱骂",
+      "onboard_time": 1780788377,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 89144,
+      "word": "奔跑吧",
+      "onboard_time": 1780788558,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 66909,
+      "word": "孙怡张月确认无误俩站姐",
+      "onboard_time": 1780786096,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 62730,
+      "word": "二手中国校服凭什么刷爆非洲",
+      "onboard_time": 1780786816,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 61278,
+      "word": "香港全职妈妈做的晚餐",
+      "onboard_time": 1780788377,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 61113,
+      "word": "宋亚轩刘耀文戴同一帽子",
+      "onboard_time": 1780786816,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 51792,
+      "word": "侯宇没名气就是原罪",
+      "onboard_time": 1780785256,
+      "rank": 46,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 99703,

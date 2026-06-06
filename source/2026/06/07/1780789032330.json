@@ -1,0 +1,410 @@
+{
+  "runTime": 1780789032330,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 100000,
+        "num": 843360,
+        "word": "4所公立幼儿园报名看家长工资流水",
+        "onboard_time": 1780759701,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 609942,
+        "word": "跑男将迎最后一轮拍摄",
+        "onboard_time": 1780749623,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 481545,
+        "word": "高考一定带好身份证准考证",
+        "onboard_time": 1780751182,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 311338,
+        "word": "万千惠路边哭惨了",
+        "onboard_time": 1780760181,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 297520,
+        "word": "女生请求天鹅帮忙捡反光板",
+        "onboard_time": 1780766657,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 278993,
+        "word": "高考第一天",
+        "onboard_time": 1780787837,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 249790,
+        "word": "唐艺昕又过敏了吗",
+        "onboard_time": 1780758623,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 237744,
+        "word": "萨摩耶坐飞机累得都不耶了",
+        "onboard_time": 1780753702,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 167686,
+        "word": "今天高考",
+        "onboard_time": 1780788076,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 167388,
+        "word": "高考加油",
+        "onboard_time": 1780787597,
+        "rank": 9,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 166360,
+        "word": "野人先生忽然在日本引起了讨论",
+        "onboard_time": 1780759162,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 166143,
+        "word": "唐艺昕疑似皮肤病复发",
+        "onboard_time": 1780788196,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 165480,
+        "word": "李佳航这是咋了",
+        "onboard_time": 1780764260,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 164476,
+        "word": "澳门特大卖淫案细节曝光",
+        "onboard_time": 1780760843,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 163992,
+        "word": "曝沈月文章抄袭",
+        "onboard_time": 1780741041,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 163308,
+        "word": "公积金新政有望唤醒十万亿沉睡资金",
+        "onboard_time": 1780777934,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 162087,
+        "word": "谢娜演唱会全国巡演",
+        "onboard_time": 1780754303,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 161530,
+        "word": "安德列娃法网女单冠军",
+        "onboard_time": 1780759582,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 161186,
+        "word": "谁在纵容用智能眼镜偷拍空姐",
+        "onboard_time": 1780781954,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 160488,
+        "word": "小米回应SU7电吸门无防夹功能",
+        "onboard_time": 1780788257,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 159595,
+        "word": "5个部位疼可能是心梗先兆",
+        "onboard_time": 1780788377,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 158821,
+        "word": "金价跌回2025年是买还是等",
+        "onboard_time": 1780788317,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 158343,
+        "word": "以为是爱狗人士结果是爱心人士",
+        "onboard_time": 1780763180,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 153774,
+        "word": "赵兆情商",
+        "onboard_time": 1780759524,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 150060,
+        "word": "人数降了招生多了这届高考不难了吗",
+        "onboard_time": 1780788019,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 134998,
+        "word": "阚清子甩头发完全魅魔",
+        "onboard_time": 1780766297,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 132345,
+        "word": "雪饼猴称4元烤肠嫌贵可以不吃",
+        "onboard_time": 1780759821,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 120935,
+        "word": "高考为什么定在6月",
+        "onboard_time": 1780788257,
+        "rank": 27,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 108195,
+        "word": "宇树回应联手英伟达",
+        "onboard_time": 1780760302,
+        "rank": 28,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 104574,
+        "word": "高考新增AI监考员",
+        "onboard_time": 1780761501,
+        "rank": 29,
+        "category": "教育,互联网"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 103921,
+        "word": "中国记者采访菲代表团竟被嘲笑辱骂",
+        "onboard_time": 1780788377,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 103258,
+        "word": "安崎给张月道歉",
+        "onboard_time": 1780755861,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 97070,
+        "word": "百妖谱 邓为",
+        "onboard_time": 1780760661,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 93638,
+        "word": "感情里的微妙悖论",
+        "onboard_time": 1780763779,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 91310,
+        "word": "黄灿灿一开口曾沛慈就哭了",
+        "onboard_time": 1780751661,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 89144,
+        "word": "奔跑吧",
+        "onboard_time": 1780788558,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 69675,
+        "word": "鸡蛋价格暴涨四成",
+        "onboard_time": 1780761141,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 66909,
+        "word": "孙怡张月确认无误俩站姐",
+        "onboard_time": 1780786096,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 65893,
+        "word": "何猷君保姆坐奚梦瑶父母旁边",
+        "onboard_time": 1780743922,
+        "rank": 38,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 62730,
+        "word": "二手中国校服凭什么刷爆非洲",
+        "onboard_time": 1780786816,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 61278,
+        "word": "香港全职妈妈做的晚餐",
+        "onboard_time": 1780788377,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 61113,
+        "word": "宋亚轩刘耀文戴同一帽子",
+        "onboard_time": 1780786816,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 58391,
+        "word": "萧蔷为了短发剪了短发",
+        "onboard_time": 1780749502,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 57326,
+        "word": "女生嘴含夹竹桃拍照中毒过敏",
+        "onboard_time": 1780741041,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 57091,
+        "word": "安崎 谢谢蔡明阿姨",
+        "onboard_time": 1780761201,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 53005,
+        "word": "浪姐排名",
+        "onboard_time": 1780756163,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 51792,
+        "word": "侯宇没名气就是原罪",
+        "onboard_time": 1780785256,
+        "rank": 46,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 51237,
+        "word": "单依纯橄榄树 神女吟唱",
+        "onboard_time": 1780752022,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 46153,
+        "word": "狗狗濒死奔向主人见最后一面",
+        "onboard_time": 1780754303,
+        "rank": 48,
+        "category": "民生新闻,幽默"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 44993,
+        "word": "F1",
+        "onboard_time": 1780762400,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记对生态环境保护的期盼和嘱托#"
+    }
+  }
+}
