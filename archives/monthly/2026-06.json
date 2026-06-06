@@ -1,6 +1,6 @@
 {
   "startTime": 1780247827631,
-  "endTime": 1780769666628,
+  "endTime": 1780775702811,
   "band_list": [
     {
       "raw_hot": 6730138,
@@ -9969,6 +9969,22 @@
       "onboard_time": 1780768637,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 33285,
+      "word": "直击2026重庆高考考点",
+      "onboard_time": 1780774273,
+      "rank": 41,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 33224,
+      "word": "BLG挺进败者组半决赛",
+      "onboard_time": 1780774394,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 99703,
