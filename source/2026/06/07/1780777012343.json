@@ -1,0 +1,410 @@
+{
+  "runTime": 1780777012343,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 100000,
+        "num": 100848,
+        "word": "赵兆情商",
+        "onboard_time": 1780759524,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 100787,
+        "word": "萨摩耶坐飞机累得都不耶了",
+        "onboard_time": 1780753702,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 100482,
+        "word": "高考一定带好身份证准考证",
+        "onboard_time": 1780751182,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 100178,
+        "word": "万千惠路边哭惨了",
+        "onboard_time": 1780760181,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 99615,
+        "word": "唐艺昕又过敏了吗",
+        "onboard_time": 1780758623,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 99346,
+        "word": "以为是爱狗人士结果是爱心人士",
+        "onboard_time": 1780763180,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 98962,
+        "word": "女生请求天鹅帮忙捡反光板",
+        "onboard_time": 1780766657,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 98685,
+        "word": "浪姐排名",
+        "onboard_time": 1780756163,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 98393,
+        "word": "4所公立幼儿园报名看家长工资流水",
+        "onboard_time": 1780759701,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 97870,
+        "word": "安德列娃法网女单冠军",
+        "onboard_time": 1780759582,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 97592,
+        "word": "澳门特大卖淫案细节曝光",
+        "onboard_time": 1780760843,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 97320,
+        "word": "野人先生忽然在日本引起了讨论",
+        "onboard_time": 1780759162,
+        "rank": 11,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 97190,
+        "word": "蔡明 唐艺昕想吃樱桃就有人种",
+        "onboard_time": 1780765158,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 95548,
+        "word": "安崎给张月道歉",
+        "onboard_time": 1780755861,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 95029,
+        "word": "谢娜演唱会全国巡演",
+        "onboard_time": 1780754303,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 89366,
+        "word": "黄灿灿一开口曾沛慈就哭了",
+        "onboard_time": 1780751661,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 76110,
+        "word": "阚清子甩头发完全魅魔",
+        "onboard_time": 1780766297,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 66107,
+        "word": "银环蛇被装进塑料袋挂在车上",
+        "onboard_time": 1780756823,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 59819,
+        "word": "安崎 谢谢蔡明阿姨",
+        "onboard_time": 1780761201,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 56021,
+        "word": "瑞幸咖啡去冰仅半杯可退款",
+        "onboard_time": 1780748301,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 55284,
+        "word": "感情里的微妙悖论",
+        "onboard_time": 1780763779,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 50710,
+        "word": "陈瑶 雪人",
+        "onboard_time": 1780748362,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 49807,
+        "word": "百妖谱 邓为",
+        "onboard_time": 1780760661,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 43679,
+        "word": "萧蔷为了短发剪了短发",
+        "onboard_time": 1780749502,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 35866,
+        "word": "范玮琪演唱会听到孙怡赢了的反应",
+        "onboard_time": 1780755204,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 35768,
+        "word": "心疼张月",
+        "onboard_time": 1780754243,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 35663,
+        "word": "高考新增AI监考员",
+        "onboard_time": 1780761501,
+        "rank": 26,
+        "category": "教育,互联网"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 35496,
+        "word": "F1",
+        "onboard_time": 1780762400,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 35399,
+        "word": "网红边牧锄头鉴定价值超2000元",
+        "onboard_time": 1780760901,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 35269,
+        "word": "GALA道歉",
+        "onboard_time": 1780760181,
+        "rank": 29,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 35175,
+        "word": "孙怡江语晨看到分数的表情",
+        "onboard_time": 1780756643,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 34757,
+        "word": "单依纯橄榄树 神女吟唱",
+        "onboard_time": 1780752022,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 34081,
+        "word": "黄灿灿 谢谢你姐姐",
+        "onboard_time": 1780754843,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 33804,
+        "word": "谢楠的手一直在抖",
+        "onboard_time": 1780754243,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 33680,
+        "word": "万千惠输了一百多票",
+        "onboard_time": 1780750102,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 32260,
+        "word": "泪桥 最佳舞台",
+        "onboard_time": 1780755384,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 32259,
+        "word": "狗狗濒死奔向主人见最后一面",
+        "onboard_time": 1780754303,
+        "rank": 36,
+        "category": "民生新闻,幽默"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 32258,
+        "word": "淡淡格局",
+        "onboard_time": 1780765278,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 32256,
+        "word": "女生嘴含夹竹桃拍照中毒过敏",
+        "onboard_time": 1780741041,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 32254,
+        "word": "鸡蛋价格暴涨四成",
+        "onboard_time": 1780761141,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 32251,
+        "word": "白鹿粉丝云包场30万座",
+        "onboard_time": 1780752382,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 32247,
+        "word": "宇树回应联手英伟达",
+        "onboard_time": 1780760302,
+        "rank": 41,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 32245,
+        "word": "刘耀文合作艾美奖提名编舞家",
+        "onboard_time": 1780765218,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 32244,
+        "word": "2026F1摩纳哥大奖赛排位赛",
+        "onboard_time": 1780768637,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 32242,
+        "word": "台湾太阳花女王逃美7年被押解返台",
+        "onboard_time": 1780746441,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 32238,
+        "word": "安德列娃vs赫瓦林斯卡",
+        "onboard_time": 1780754182,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 32237,
+        "word": "BLG挺进败者组半决赛",
+        "onboard_time": 1780774394,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 32235,
+        "word": "JDG缺席MSI",
+        "onboard_time": 1780759942,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 32231,
+        "word": "直击2026重庆高考考点",
+        "onboard_time": 1780774273,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 32229,
+        "word": "王哲林回应删朱芳雨微信",
+        "onboard_time": 1780760302,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记对生态环境保护的期盼和嘱托#"
+    }
+  }
+}

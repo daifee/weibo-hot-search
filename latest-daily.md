@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/06/07 00:14:27 ~ 2026/06/07 03:55:02
+本榜单时间：2026/06/07 00:14:27 ~ 2026/06/07 04:16:52
 </p>
 </blockquote>
 <p>
@@ -413,6 +413,12 @@ XLG对战NRG（热度：100000）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23BLG%E6%8C%BA%E8%BF%9B%E8%B4%A5%E8%80%85%E7%BB%84%E5%8D%8A%E5%86%B3%E8%B5%9B%23" target="weibo">
 BLG挺进败者组半决赛（热度：100000）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E5%A4%AA%E9%98%B3%E8%8A%B1%E5%A5%B3%E7%8E%8B%E9%80%83%E7%BE%8E7%E5%B9%B4%E8%A2%AB%E6%8A%BC%E8%A7%A3%E8%BF%94%E5%8F%B0%23" target="weibo">
+台湾太阳花女王逃美7年被押解返台（热度：100000）
 </a>
 </li>
 

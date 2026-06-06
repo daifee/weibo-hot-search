@@ -1,6 +1,6 @@
 {
   "startTime": 1780762467317,
-  "endTime": 1780775702811,
+  "endTime": 1780777012343,
   "band_list": [
     {
       "raw_hot": 100000,
@@ -537,6 +537,14 @@
       "onboard_time": 1780774394,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 32242,
+      "word": "台湾太阳花女王逃美7年被押解返台",
+      "onboard_time": 1780746441,
+      "rank": 44,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
