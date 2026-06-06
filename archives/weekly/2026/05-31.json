@@ -1,6 +1,6 @@
 {
   "startTime": 1780161470105,
-  "endTime": 1780733268427,
+  "endTime": 1780740804041,
   "band_list": [
     {
       "raw_hot": 6730138,
@@ -10340,7 +10340,7 @@
     },
     {
       "raw_hot": 100000,
-      "num": 405107,
+      "num": 526808,
       "word": "榴莲核煮饭",
       "onboard_time": 1780731922,
       "rank": 30,
@@ -10460,7 +10460,7 @@
     },
     {
       "raw_hot": 100000,
-      "num": 243544,
+      "num": 296527,
       "word": "浪姐对比20个麦确认是金牌的King",
       "onboard_time": 1780732581,
       "rank": 36,
@@ -10484,11 +10484,243 @@
     },
     {
       "raw_hot": 100000,
-      "num": 186029,
+      "num": 299306,
       "word": "AI文风太好认",
       "onboard_time": 1780732823,
       "rank": 46,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 4844695,
+      "word": "李荣浩 明天都给我好好考",
+      "onboard_time": 1780737321,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 1274060,
+      "word": "英伟达市值一夜蒸发2.2万亿",
+      "onboard_time": 1780735700,
+      "rank": 1,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 471068,
+      "word": "浪姐四公4位姐姐道歉",
+      "onboard_time": 1780737739,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 410607,
+      "word": "鹿晗被节目组打码",
+      "onboard_time": 1780738641,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 298595,
+      "word": "阚清子整个人大蜕变",
+      "onboard_time": 1780734681,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 297418,
+      "word": "海来阿木黑脸",
+      "onboard_time": 1780733842,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 296899,
+      "word": "苏醒分析浪姐现场喊金牌King",
+      "onboard_time": 1780735700,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 295978,
+      "word": "上海一医院妇科专家挂号费5000元",
+      "onboard_time": 1780738160,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 295557,
+      "word": "BLG对战JDG",
+      "onboard_time": 1780739900,
+      "rank": 16,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 295291,
+      "word": "田曦薇4K高清生图好权威",
+      "onboard_time": 1780737739,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 294569,
+      "word": "iPhoneUltra机模再曝光",
+      "onboard_time": 1780736180,
+      "rank": 18,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 293863,
+      "word": "李荣浩跟豆包说啥了",
+      "onboard_time": 1780738641,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 293378,
+      "word": "2岁女儿给爸爸降温背上多了四张人脸",
+      "onboard_time": 1780738160,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 292538,
+      "word": "李晨口碑",
+      "onboard_time": 1780724423,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 281100,
+      "word": "吃麦满分祝你满分",
+      "onboard_time": 1780740261,
+      "rank": 24,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 274245,
+      "word": "德国性侵案被告称遭媒体公开姓名",
+      "onboard_time": 1780739121,
+      "rank": 26,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 272506,
+      "word": "美股科技股暴跌原因",
+      "onboard_time": 1780739900,
+      "rank": 27,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 271526,
+      "word": "因感谢贫穷走红的北大女孩现状",
+      "onboard_time": 1780736302,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 268335,
+      "word": "大陆赠台小熊猫抵达台北",
+      "onboard_time": 1780740559,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 267990,
+      "word": "花海是贺峻霖纪录片主角",
+      "onboard_time": 1780739962,
+      "rank": 30,
+      "category": "综艺,电竞"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 258507,
+      "word": "被薛凯琪选择定居北京这段笑死",
+      "onboard_time": 1780739780,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 240793,
+      "word": "吃完的榴莲别急着扔",
+      "onboard_time": 1780739843,
+      "rank": 34,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 227482,
+      "word": "直接请老妈吃肯德基",
+      "onboard_time": 1780739121,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 224865,
+      "word": "胡彦斌发长文",
+      "onboard_time": 1780740381,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 191487,
+      "word": "郑恺跑男最不吃压力之人",
+      "onboard_time": 1780736720,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 178154,
+      "word": "哈兰德回应中国网友玩梗",
+      "onboard_time": 1780734861,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 140614,
+      "word": "印度20岁厨师不幸被冰箱炸死",
+      "onboard_time": 1780734740,
+      "rank": 43,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 131954,
+      "word": "一曲退役",
+      "onboard_time": 1780734740,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 129937,
+      "word": "苹果iOS27渲染视频",
+      "onboard_time": 1780739001,
+      "rank": 47,
+      "category": "数码"
     },
     {
       "raw_hot": 99703,
