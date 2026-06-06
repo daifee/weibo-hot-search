@@ -1,0 +1,410 @@
+{
+  "runTime": 1780733268427,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 100000,
+        "num": 13082138,
+        "word": "李晨口碑翻车",
+        "onboard_time": 1780724423,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 2223718,
+        "word": "废品站称没见60g黄金母亲疑其撒谎",
+        "onboard_time": 1780724841,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 1712516,
+        "word": "我国多领域再迎硬核突破",
+        "onboard_time": 1780730361,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 1153109,
+        "word": "浪姐声明",
+        "onboard_time": 1780727301,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 617646,
+        "word": "金价跌回2025年",
+        "onboard_time": 1780729760,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 613390,
+        "word": "李晨郑恺回应争议",
+        "onboard_time": 1780718183,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 491079,
+        "word": "吾妻淑柔 吾妻属牛",
+        "onboard_time": 1780722683,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 408260,
+        "word": "中国人聚是一栋楼 散是满地球",
+        "onboard_time": 1780728620,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 405107,
+        "word": "榴莲核煮饭",
+        "onboard_time": 1780731922,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 387461,
+        "word": "高考时间",
+        "onboard_time": 1780718183,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 387454,
+        "word": "范丞丞下沉口碑",
+        "onboard_time": 1780721782,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 387164,
+        "word": "郑秀晶回应争议",
+        "onboard_time": 1780732400,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 386776,
+        "word": "碰瓷被儿子怒吼的患癌母亲已火化",
+        "onboard_time": 1780731201,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 386514,
+        "word": "汤唯疑似去香港待产",
+        "onboard_time": 1780730182,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 386367,
+        "word": "王菲 我打牌的时候没空打她",
+        "onboard_time": 1780721002,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 386197,
+        "word": "印尼赛陈雨菲1比2安洗莹",
+        "onboard_time": 1780732221,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 385808,
+        "word": "WB官宣一笙加入",
+        "onboard_time": 1780729882,
+        "rank": 16,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 385677,
+        "word": "全国首例盲人脑机接口复明成功",
+        "onboard_time": 1780714939,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 385273,
+        "word": "你多久没喊过Siri了",
+        "onboard_time": 1780717042,
+        "rank": 18,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 385271,
+        "word": "范丞丞的口碑",
+        "onboard_time": 1780730601,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 382560,
+        "word": "严浩翔YAN纹身",
+        "onboard_time": 1780727781,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 374599,
+        "word": "上海月租500元的房子什么样",
+        "onboard_time": 1780724423,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 369368,
+        "word": "鹿晗耳朵还没适应新发型",
+        "onboard_time": 1780727002,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 362899,
+        "word": "徐振轩道歉",
+        "onboard_time": 1780724841,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 334595,
+        "word": "北京市政协主席魏小东任上落马",
+        "onboard_time": 1780732942,
+        "rank": 24,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 321151,
+        "word": "海来阿木向张碧晨道歉",
+        "onboard_time": 1780722202,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 281983,
+        "word": "邓超钓鱼 惠英红上钩",
+        "onboard_time": 1780730361,
+        "rank": 26,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 277857,
+        "word": "曝青岛某网球场竟是用废网球建的",
+        "onboard_time": 1780720762,
+        "rank": 27,
+        "category": "民生新闻,体育"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 277726,
+        "word": "侧躺玩手机受害者",
+        "onboard_time": 1780725742,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 277704,
+        "word": "国安部提醒出国旅游别乱拍照",
+        "onboard_time": 1780727002,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 277702,
+        "word": "曾沛慈安慰黄灿灿",
+        "onboard_time": 1780727963,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 269217,
+        "word": "王一博进组被打假",
+        "onboard_time": 1780727723,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 259989,
+        "word": "舞蹈世家二十年后出了一个宇航员",
+        "onboard_time": 1780725443,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 255366,
+        "word": "京东洗衣机直播间来就送全家筒",
+        "onboard_time": 1780730182,
+        "rank": 33,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 253003,
+        "word": "田曦薇白裙大波浪造型",
+        "onboard_time": 1780729282,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 246230,
+        "word": "高考作文时间不够一定要写结尾",
+        "onboard_time": 1780723042,
+        "rank": 35,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 243544,
+        "word": "浪姐对比20个麦确认是金牌的King",
+        "onboard_time": 1780732581,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 241084,
+        "word": "张真源拍了孟子义送的花篮",
+        "onboard_time": 1780728563,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 215851,
+        "word": "全球资产崩跌",
+        "onboard_time": 1780713200,
+        "rank": 38,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 214658,
+        "word": "男子谎称有高考答案每份卖2000元",
+        "onboard_time": 1780731802,
+        "rank": 39,
+        "category": "舆论监督,教育"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 214266,
+        "word": "张月说黄灿灿天天都在声明",
+        "onboard_time": 1780728682,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 213928,
+        "word": "白鹿一周年快乐阿月",
+        "onboard_time": 1780731861,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 195759,
+        "word": "摄影师开黄腔被女子制止后P图报复",
+        "onboard_time": 1780713619,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 191011,
+        "word": "京东用三轮车把包裹运进大山",
+        "onboard_time": 1780733062,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 190590,
+        "word": "严浩翔接受发生的一切事",
+        "onboard_time": 1780727002,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 189533,
+        "word": "歌手谢谢验票",
+        "onboard_time": 1780717163,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 186029,
+        "word": "AI文风太好认",
+        "onboard_time": 1780732823,
+        "rank": 46,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 184025,
+        "word": "文班亚马致命失误",
+        "onboard_time": 1780718302,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 183480,
+        "word": "王濛金牌含金量",
+        "onboard_time": 1780710980,
+        "rank": 48,
+        "category": "体育,综艺"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 183241,
+        "word": "李登科聊刘亦菲7折捡漏刘诗诗代言",
+        "onboard_time": 1780717344,
+        "rank": 49,
+        "category": "艺人,作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#回顾习近平7年前对朝鲜历史性访问#"
+    }
+  }
+}
