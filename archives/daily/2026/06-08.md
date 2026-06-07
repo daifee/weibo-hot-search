@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/06/08 00:24:50 ~ 2026/06/08 04:46:41
+本榜单时间：2026/06/08 00:24:50 ~ 2026/06/08 06:12:40
 </p>
 </blockquote>
 <p>
@@ -407,6 +407,24 @@ A股重大调整来袭（热度：100000）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%A8%8B49%E5%B0%8F%E6%97%B6%E7%9A%84%E7%81%AB%E8%BD%A6%E5%87%BA%E5%8F%917%E5%B0%8F%E6%97%B6%E6%8A%98%E8%BF%94%23" target="weibo">
 全程49小时的火车出发7小时折返（热度：100000）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9B%BE%E6%B2%9B%E6%85%88%E5%A4%AF%E7%88%86%E4%BA%86%23" target="weibo">
+曾沛慈夯爆了（热度：100000）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E9%9A%BE%E4%B8%8D%E9%9A%BE%23" target="weibo">
+高考数学难不难（热度：100000）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%90%86%E7%A7%91%E7%94%B7%E7%94%9F%E5%B1%80%E9%87%8C%E5%B1%80%E6%B0%94%E7%9A%84%E8%80%83%E5%90%8E%E6%84%9F%E8%A8%80%23" target="weibo">
+理科男生局里局气的考后感言（热度：100000）
 </a>
 </li>
 
