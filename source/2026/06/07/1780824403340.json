@@ -1,0 +1,410 @@
+{
+  "runTime": 1780824403340,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 100000,
+        "num": 37067248,
+        "word": "高考数学",
+        "onboard_time": 1780810882,
+        "rank": 0,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 4417259,
+        "word": "张雪峰账号更新",
+        "onboard_time": 1780819580,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 1725603,
+        "word": "我国氢煤混烧技术取得重大突破",
+        "onboard_time": 1780817541,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 875105,
+        "word": "高考作文 妈妈背我去医院",
+        "onboard_time": 1780818440,
+        "rank": 3,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 668113,
+        "word": "翘楚弹幕 没法看",
+        "onboard_time": 1780816520,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 583382,
+        "word": "高考语文默写",
+        "onboard_time": 1780804884,
+        "rank": 5,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 479598,
+        "word": "JDG小玖退役",
+        "onboard_time": 1780823664,
+        "rank": 6,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 454379,
+        "word": "浪姐7 兴风作浪的节目组",
+        "onboard_time": 1780817122,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 395306,
+        "word": "AG转会公告",
+        "onboard_time": 1780823723,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 372440,
+        "word": "宗馥莉把自己名字印在包装上",
+        "onboard_time": 1780820540,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 370266,
+        "word": "马斯克称禁止中国客户投SpaceX",
+        "onboard_time": 1780810281,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 367962,
+        "word": "真考琵琶行了",
+        "onboard_time": 1780805723,
+        "rank": 11,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 366768,
+        "word": "时代少年团 高考作文",
+        "onboard_time": 1780809982,
+        "rank": 12,
+        "category": "艺人,教育"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 364098,
+        "word": "原来蛋挞和可露丽都是修女发明的",
+        "onboard_time": 1780820961,
+        "rank": 13,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 364003,
+        "word": "柳智敏的酒杯腿又被夸",
+        "onboard_time": 1780821081,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 363533,
+        "word": "导演组一直问李晨是什么意思",
+        "onboard_time": 1780811541,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 363049,
+        "word": "一卷作文 脑子里只有网络烂梗",
+        "onboard_time": 1780807702,
+        "rank": 16,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 362816,
+        "word": "高考 豆包",
+        "onboard_time": 1780803208,
+        "rank": 17,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 362461,
+        "word": "保送北大的4名同学拉横幅送考",
+        "onboard_time": 1780823424,
+        "rank": 18,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 361821,
+        "word": "重庆暴雨一大人一小孩被激流冲走",
+        "onboard_time": 1780823363,
+        "rank": 19,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 361626,
+        "word": "李晨妹妹结婚",
+        "onboard_time": 1780797321,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 361223,
+        "word": "大冰建议两口子别一起旅行",
+        "onboard_time": 1780821681,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 360682,
+        "word": "心梗发作前一个月就有征兆",
+        "onboard_time": 1780816520,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 360142,
+        "word": "高考作文",
+        "onboard_time": 1780801522,
+        "rank": 23,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 359949,
+        "word": "黄子韬做了16颗牙贴面",
+        "onboard_time": 1780823062,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 359611,
+        "word": "A股重大调整来袭",
+        "onboard_time": 1780823544,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 341142,
+        "word": "白鹿天就要亮了阿璃不哭",
+        "onboard_time": 1780819821,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 188310,
+        "word": "老舅常驻五哈吧",
+        "onboard_time": 1780817122,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 188230,
+        "word": "白鹿说没能量时就停一停",
+        "onboard_time": 1780822280,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 188129,
+        "word": "肖战谈18岁后对人生的理解",
+        "onboard_time": 1780818440,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 187860,
+        "word": "男生高考认考场发现教室就自己1人",
+        "onboard_time": 1780813940,
+        "rank": 30,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 187648,
+        "word": "李现晒了女友视角的摄影照",
+        "onboard_time": 1780808362,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 187415,
+        "word": "近视的人老了都是两副眼镜",
+        "onboard_time": 1780823183,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 187249,
+        "word": "曾沛慈打破我对善良等于吃亏偏见",
+        "onboard_time": 1780823482,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 187126,
+        "word": "炎亚纶 高考作文",
+        "onboard_time": 1780809142,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 186954,
+        "word": "AG小俞断开连接",
+        "onboard_time": 1780822581,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 186790,
+        "word": "陈丽君把信递给机场工作人员了",
+        "onboard_time": 1780817901,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 186597,
+        "word": "高考时间",
+        "onboard_time": 1780801402,
+        "rank": 37,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 186416,
+        "word": "9岁男孩因吃夜市提拉米苏进ICU",
+        "onboard_time": 1780817301,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 186262,
+        "word": "全场球迷高喊梅西",
+        "onboard_time": 1780823723,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 186161,
+        "word": "卢昱晓点赞双人视频",
+        "onboard_time": 1780814121,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 176859,
+        "word": "甄嬛传温宜公主今天高考",
+        "onboard_time": 1780824323,
+        "rank": 41,
+        "category": "艺人,教育"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 171623,
+        "word": "985211警车快被摸包浆了",
+        "onboard_time": 1780822102,
+        "rank": 42,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 152148,
+        "word": "鹿晗有鱼尾纹了",
+        "onboard_time": 1780811242,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 148707,
+        "word": "AI短剧 100集浓缩成3分钟",
+        "onboard_time": 1780822041,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 148685,
+        "word": "侯宇道歉",
+        "onboard_time": 1780807823,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 148475,
+        "word": "库克最后一届WWDC",
+        "onboard_time": 1780820421,
+        "rank": 46,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 148249,
+        "word": "千万别听阴天没太阳",
+        "onboard_time": 1780812861,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 148169,
+        "word": "特朗普刚起床就发了AI视频",
+        "onboard_time": 1780808004,
+        "rank": 48,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 148057,
+        "word": "高考",
+        "onboard_time": 1780798461,
+        "rank": 49,
+        "category": "民生新闻,教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#回顾这些瞬间感受中朝一家亲#"
+    }
+  }
+}
