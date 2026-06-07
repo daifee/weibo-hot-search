@@ -1,6 +1,6 @@
 {
   "startTime": 1780762467317,
-  "endTime": 1780808815840,
+  "endTime": 1780810174849,
   "band_list": [
     {
       "raw_hot": 100000,
@@ -820,7 +820,7 @@
     },
     {
       "raw_hot": 100000,
-      "num": 2189237,
+      "num": 2469390,
       "word": "高考语文默写",
       "onboard_time": 1780804884,
       "rank": 4,
@@ -876,7 +876,7 @@
     },
     {
       "raw_hot": 100000,
-      "num": 432745,
+      "num": 1443957,
       "word": "本手妙手俗手 年年破防",
       "onboard_time": 1780804345,
       "rank": 11,
@@ -1036,7 +1036,7 @@
     },
     {
       "raw_hot": 100000,
-      "num": 382383,
+      "num": 411131,
       "word": "翘楚热度",
       "onboard_time": 1780808603,
       "rank": 33,
@@ -1108,7 +1108,7 @@
     },
     {
       "raw_hot": 100000,
-      "num": 283079,
+      "num": 322229,
       "word": "特朗普刚起床就发了AI视频",
       "onboard_time": 1780808004,
       "rank": 44,
@@ -1137,6 +1137,94 @@
       "onboard_time": 1780801704,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 328756,
+      "word": "炎亚纶 高考作文",
+      "onboard_time": 1780809142,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 326260,
+      "word": "考生未进考场被塞复读广告",
+      "onboard_time": 1780809561,
+      "rank": 18,
+      "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 324776,
+      "word": "山西沁源应急管理局局长被查",
+      "onboard_time": 1780809261,
+      "rank": 21,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 322559,
+      "word": "鹿晗腿长184cm",
+      "onboard_time": 1780809561,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 322352,
+      "word": "日本不只想改南京大屠杀",
+      "onboard_time": 1780802543,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 322105,
+      "word": "时代少年团 高考作文",
+      "onboard_time": 1780809982,
+      "rank": 31,
+      "category": "艺人,教育"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 321956,
+      "word": "日本将南京大屠杀改为南京事件",
+      "onboard_time": 1780803927,
+      "rank": 33,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 290141,
+      "word": "偶遇马嘉祺吃烤肉",
+      "onboard_time": 1780809203,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 287080,
+      "word": "香蕉可能会从日本人的餐桌上消失",
+      "onboard_time": 1780809682,
+      "rank": 41,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 282857,
+      "word": "宋亚轩终于赢了李宇春",
+      "onboard_time": 1780809741,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 273304,
+      "word": "任何关系的底层逻辑",
+      "onboard_time": 1780808961,
+      "rank": 46,
+      "category": "情感"
     }
   ],
   "hotgov_list": [

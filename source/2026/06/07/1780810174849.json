@@ -1,0 +1,410 @@
+{
+  "runTime": 1780810174849,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 100000,
+        "num": 13882052,
+        "word": "高考作文",
+        "onboard_time": 1780801522,
+        "rank": 0,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 6846077,
+        "word": "真考琵琶行了",
+        "onboard_time": 1780805723,
+        "rank": 1,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 2884947,
+        "word": "静音护航就是最棒的高考应援",
+        "onboard_time": 1780797921,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 2740242,
+        "word": "25届哭了",
+        "onboard_time": 1780806083,
+        "rank": 3,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 2469390,
+        "word": "高考语文默写",
+        "onboard_time": 1780804884,
+        "rank": 4,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 1443957,
+        "word": "本手妙手俗手 年年破防",
+        "onboard_time": 1780804345,
+        "rank": 5,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 411131,
+        "word": "翘楚热度",
+        "onboard_time": 1780808603,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 355608,
+        "word": "曾沛慈凌晨四点半发长文",
+        "onboard_time": 1780795881,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 330287,
+        "word": "狼队转会公告",
+        "onboard_time": 1780808004,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 329969,
+        "word": "美国1比2德国",
+        "onboard_time": 1780802122,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 329438,
+        "word": "高考 豆包",
+        "onboard_time": 1780803208,
+        "rank": 10,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 329195,
+        "word": "一卷作文 脑子里只有网络烂梗",
+        "onboard_time": 1780807702,
+        "rank": 11,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 328756,
+        "word": "炎亚纶 高考作文",
+        "onboard_time": 1780809142,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 328231,
+        "word": "侯宇道歉",
+        "onboard_time": 1780807823,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 327728,
+        "word": "高考作文 修为散尽的感觉",
+        "onboard_time": 1780805843,
+        "rank": 14,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 327323,
+        "word": "唐艺昕疑似皮肤病复发",
+        "onboard_time": 1780788196,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 327208,
+        "word": "霍尔木兹滞留船只密密麻麻",
+        "onboard_time": 1780799060,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 326738,
+        "word": "马斯克解释太空算力中心",
+        "onboard_time": 1780797260,
+        "rank": 17,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 326260,
+        "word": "考生未进考场被塞复读广告",
+        "onboard_time": 1780809561,
+        "rank": 18,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 325952,
+        "word": "多款新能源车涨价了",
+        "onboard_time": 1780795881,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 325437,
+        "word": "李晨妹妹结婚",
+        "onboard_time": 1780797321,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 324776,
+        "word": "山西沁源应急管理局局长被查",
+        "onboard_time": 1780809261,
+        "rank": 21,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 324498,
+        "word": "李现晒了女友视角的摄影照",
+        "onboard_time": 1780808362,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 324008,
+        "word": "李佳航这是咋了",
+        "onboard_time": 1780764260,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 323746,
+        "word": "天津作文 难写",
+        "onboard_time": 1780805363,
+        "rank": 24,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 323393,
+        "word": "全国一卷 词语的变化",
+        "onboard_time": 1780804884,
+        "rank": 25,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 322907,
+        "word": "天津卷 调学生",
+        "onboard_time": 1780806623,
+        "rank": 26,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 322559,
+        "word": "鹿晗腿长184cm",
+        "onboard_time": 1780809561,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 322490,
+        "word": "杨紫韩东君的落地签",
+        "onboard_time": 1780800442,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 322352,
+        "word": "日本不只想改南京大屠杀",
+        "onboard_time": 1780802543,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 322229,
+        "word": "特朗普刚起床就发了AI视频",
+        "onboard_time": 1780808004,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 322105,
+        "word": "时代少年团 高考作文",
+        "onboard_time": 1780809982,
+        "rank": 31,
+        "category": "艺人,教育"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 322030,
+        "word": "2026高考第一批显眼包出现了",
+        "onboard_time": 1780798160,
+        "rank": 32,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 321956,
+        "word": "日本将南京大屠杀改为南京事件",
+        "onboard_time": 1780803927,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 321745,
+        "word": "高考第一天民警为无证可办笑了",
+        "onboard_time": 1780808243,
+        "rank": 34,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 321734,
+        "word": "开考前1小时考生身份证丢了",
+        "onboard_time": 1780797921,
+        "rank": 35,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 317262,
+        "word": "演员杨雪自曝结婚原因",
+        "onboard_time": 1780795460,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 312989,
+        "word": "李可馨比李晨小十八岁",
+        "onboard_time": 1780804945,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 309725,
+        "word": "高考",
+        "onboard_time": 1780798461,
+        "rank": 38,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 292743,
+        "word": "独居就是重新爱了一次小时候的自己",
+        "onboard_time": 1780804046,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 290141,
+        "word": "偶遇马嘉祺吃烤肉",
+        "onboard_time": 1780809203,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 287080,
+        "word": "香蕉可能会从日本人的餐桌上消失",
+        "onboard_time": 1780809682,
+        "rank": 41,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 284162,
+        "word": "曾沛慈说一开始就是想要抽签决定",
+        "onboard_time": 1780807342,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 282857,
+        "word": "宋亚轩终于赢了李宇春",
+        "onboard_time": 1780809741,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 277019,
+        "word": "AI恐慌",
+        "onboard_time": 1780803748,
+        "rank": 44,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 274711,
+        "word": "韩国人拍剧真是没轻没重的",
+        "onboard_time": 1780807883,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 273304,
+        "word": "任何关系的底层逻辑",
+        "onboard_time": 1780808961,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 271982,
+        "word": "詹姆斯将高尔夫球打进地中海被起诉",
+        "onboard_time": 1780791440,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 271808,
+        "word": "追光者王楚钦",
+        "onboard_time": 1780801704,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 271778,
+        "word": "蔚来985",
+        "onboard_time": 1780805124,
+        "rank": 49,
+        "category": "民生新闻,教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#青春正好路在脚下#"
+    }
+  }
+}
