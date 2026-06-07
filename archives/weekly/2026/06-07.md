@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/06/07 00:14:27 ~ 2026/06/08 02:11:25
+本榜单时间：2026/06/07 00:14:27 ~ 2026/06/08 02:49:09
 </p>
 </blockquote>
 <p>
@@ -1961,6 +1961,12 @@ Anthropic警告AI失控（热度：100000）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BA%A2%E7%89%9B%20%E7%A0%B4%E8%BD%A6%23" target="weibo">
 红牛 破车（热度：100000）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%B9%E7%BB%B4%E5%88%97%E5%A4%AB%E9%A6%96%E5%A4%BA%E5%A4%A7%E6%BB%A1%E8%B4%AF%E5%86%A0%E5%86%9B%23" target="weibo">
+兹维列夫首夺大满贯冠军（热度：100000）
 </a>
 </li>
 
