@@ -1,0 +1,410 @@
+{
+  "runTime": 1780871888260,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 100000,
+        "num": 1083784,
+        "word": "张月直接离场了",
+        "onboard_time": 1780843466,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 1012569,
+        "word": "不要擅自回复外星人",
+        "onboard_time": 1780847304,
+        "rank": 1,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 351575,
+        "word": "中国基建上新要编织六张网",
+        "onboard_time": 1780833442,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 342010,
+        "word": "浪姐四公个喜人气排名",
+        "onboard_time": 1780853357,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 201706,
+        "word": "兹维列夫首夺大满贯冠军",
+        "onboard_time": 1780856775,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 187217,
+        "word": "张月不可置信的看了很久",
+        "onboard_time": 1780846582,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 160350,
+        "word": "12306回应火车出发7小时中途折返",
+        "onboard_time": 1780845206,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 96206,
+        "word": "耐克市值几乎蒸发掉一个阿迪达斯",
+        "onboard_time": 1780835421,
+        "rank": 7,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 77330,
+        "word": "喜欢独处的人是这么想的",
+        "onboard_time": 1780848921,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 77002,
+        "word": "陈瑶 没事我今天就回来了",
+        "onboard_time": 1780846344,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 76214,
+        "word": "懂张若昀了 唐艺昕是明媚的解药",
+        "onboard_time": 1780848143,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 76025,
+        "word": "曾沛慈看到张慧雯淘汰泪崩了",
+        "onboard_time": 1780846883,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 75068,
+        "word": "中产家族的破产七件套",
+        "onboard_time": 1780825342,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 74743,
+        "word": "齐思钧 雷霆雨露俱是天恩",
+        "onboard_time": 1780847902,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 74123,
+        "word": "江苏一考生8点59才发现走错考场",
+        "onboard_time": 1780832302,
+        "rank": 14,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 73090,
+        "word": "朝鲜平壤街头挂起五星红旗",
+        "onboard_time": 1780843708,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 72899,
+        "word": "央视曝光小作坊翻新牙刷",
+        "onboard_time": 1780847002,
+        "rank": 16,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 65610,
+        "word": "49岁男子在香港至舟山货船上失踪",
+        "onboard_time": 1780850360,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 59826,
+        "word": "陈瑶一直在哭",
+        "onboard_time": 1780845264,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 57423,
+        "word": "谢娜新歌 四川人民不管管吗",
+        "onboard_time": 1780843886,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 55374,
+        "word": "张远演唱会主题押中高考作文",
+        "onboard_time": 1780870455,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 55081,
+        "word": "狗子回家高烧三天",
+        "onboard_time": 1780842566,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 52601,
+        "word": "高考数学",
+        "onboard_time": 1780810882,
+        "rank": 22,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 51377,
+        "word": "九寨沟县发生一起车祸致6死",
+        "onboard_time": 1780837043,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 50113,
+        "word": "蔡明为王濛发声",
+        "onboard_time": 1780845624,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 49838,
+        "word": "代斯 我再也不唱歌了",
+        "onboard_time": 1780841607,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 48985,
+        "word": "孙怡一公队友全部淘汰",
+        "onboard_time": 1780847123,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 47390,
+        "word": "七根心简2",
+        "onboard_time": 1780841004,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 46592,
+        "word": "我军电子干扰让荷兰军舰变瞎变聋",
+        "onboard_time": 1780842686,
+        "rank": 28,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 44237,
+        "word": "搁浅夯爆了",
+        "onboard_time": 1780840166,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 42685,
+        "word": "曾沛慈夯爆了",
+        "onboard_time": 1780869854,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 42224,
+        "word": "张慧雯孙怡 是妈妈是女儿",
+        "onboard_time": 1780851620,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 41959,
+        "word": "葛军高考数学考了一百零几分",
+        "onboard_time": 1780841365,
+        "rank": 32,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 39756,
+        "word": "浪姐四公排名",
+        "onboard_time": 1780845024,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 39354,
+        "word": "杰士邦又要被卖了",
+        "onboard_time": 1780847481,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 39354,
+        "word": "安崎问阚清子还会选择那个人吗",
+        "onboard_time": 1780842686,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 39353,
+        "word": "F1",
+        "onboard_time": 1780843826,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 39350,
+        "word": "周翊然破万神图有了",
+        "onboard_time": 1780848023,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 39349,
+        "word": "法拉利刹车",
+        "onboard_time": 1780846165,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 39349,
+        "word": "全程49小时的火车出发7小时折返",
+        "onboard_time": 1780861575,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 39347,
+        "word": "关掉朋友圈之后发现自己不爱旅游",
+        "onboard_time": 1780824984,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 39347,
+        "word": "庄法乘风值倒数第一",
+        "onboard_time": 1780849161,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 39346,
+        "word": "理科男生局里局气的考后感言",
+        "onboard_time": 1780864633,
+        "rank": 42,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 39343,
+        "word": "兹维列夫vs科博利",
+        "onboard_time": 1780845325,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 39342,
+        "word": "被架进考场",
+        "onboard_time": 1780835543,
+        "rank": 44,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 39341,
+        "word": "安崎情商",
+        "onboard_time": 1780843346,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 39340,
+        "word": "一定要定期去检查眼睛",
+        "onboard_time": 1780849220,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 39340,
+        "word": "张怡宁说回北京任职很高兴",
+        "onboard_time": 1780871656,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 39339,
+        "word": "唐艺昕 人怎么能争气成这样",
+        "onboard_time": 1780836083,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 39337,
+        "word": "高考数学难不难",
+        "onboard_time": 1780824803,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#这些名字见证中朝友谊#"
+    }
+  }
+}
