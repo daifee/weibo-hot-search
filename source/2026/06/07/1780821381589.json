@@ -1,0 +1,410 @@
+{
+  "runTime": 1780821381589,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 100000,
+        "num": 5472421,
+        "word": "高考数学",
+        "onboard_time": 1780810882,
+        "rank": 0,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 1908643,
+        "word": "真考琵琶行了",
+        "onboard_time": 1780805723,
+        "rank": 1,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 1325910,
+        "word": "我国氢煤混烧技术取得重大突破",
+        "onboard_time": 1780817541,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 1195800,
+        "word": "翘楚弹幕 没法看",
+        "onboard_time": 1780816520,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 798571,
+        "word": "浪姐7 兴风作浪的节目组",
+        "onboard_time": 1780817122,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 483108,
+        "word": "高考语文默写",
+        "onboard_time": 1780804884,
+        "rank": 5,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 475312,
+        "word": "高考 豆包",
+        "onboard_time": 1780803208,
+        "rank": 6,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 311893,
+        "word": "老舅常驻五哈吧",
+        "onboard_time": 1780817122,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 304351,
+        "word": "千万别听阴天没太阳",
+        "onboard_time": 1780812861,
+        "rank": 8,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 243372,
+        "word": "丁宁执掌北京乒协",
+        "onboard_time": 1780816340,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 239823,
+        "word": "马斯克称禁止中国客户投SpaceX",
+        "onboard_time": 1780810281,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 235637,
+        "word": "张雪峰账号更新",
+        "onboard_time": 1780819580,
+        "rank": 11,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 232583,
+        "word": "时代少年团 高考作文",
+        "onboard_time": 1780809982,
+        "rank": 12,
+        "category": "艺人,教育"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 230026,
+        "word": "5大AI写高考作文",
+        "onboard_time": 1780815860,
+        "rank": 13,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 224132,
+        "word": "炎亚纶 高考作文",
+        "onboard_time": 1780809142,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 221287,
+        "word": "导演组一直问李晨是什么意思",
+        "onboard_time": 1780811541,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 219386,
+        "word": "高考作文",
+        "onboard_time": 1780801522,
+        "rank": 16,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 214230,
+        "word": "一卷作文 脑子里只有网络烂梗",
+        "onboard_time": 1780807702,
+        "rank": 17,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 209308,
+        "word": "特朗普刚起床就发了AI视频",
+        "onboard_time": 1780808004,
+        "rank": 18,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 208417,
+        "word": "姆巴佩否认梅西靠天赋C罗靠努力说法",
+        "onboard_time": 1780810521,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 207954,
+        "word": "李晨妹妹结婚",
+        "onboard_time": 1780797321,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 207898,
+        "word": "男生高考认考场发现教室就自己1人",
+        "onboard_time": 1780813940,
+        "rank": 21,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 207386,
+        "word": "李现晒了女友视角的摄影照",
+        "onboard_time": 1780808362,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 206522,
+        "word": "心梗发作前一个月就有征兆",
+        "onboard_time": 1780816520,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 206097,
+        "word": "陈丽君把信递给机场工作人员了",
+        "onboard_time": 1780817901,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 205755,
+        "word": "侯宇道歉",
+        "onboard_time": 1780807823,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 205449,
+        "word": "高考作文 妈妈背我去医院",
+        "onboard_time": 1780818440,
+        "rank": 26,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 204886,
+        "word": "鹿晗有鱼尾纹了",
+        "onboard_time": 1780811242,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 204151,
+        "word": "肖战谈18岁后对人生的理解",
+        "onboard_time": 1780818440,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 203894,
+        "word": "霍尔木兹滞留船只密密麻麻",
+        "onboard_time": 1780799060,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 203636,
+        "word": "600度以上近视的人要避免剧烈运动",
+        "onboard_time": 1780815262,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 203022,
+        "word": "唐艺昕疑似皮肤病复发",
+        "onboard_time": 1780788196,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 202510,
+        "word": "张月莫离剧宣",
+        "onboard_time": 1780820720,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 201987,
+        "word": "原来蛋挞和可露丽都是修女发明的",
+        "onboard_time": 1780820961,
+        "rank": 33,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 201428,
+        "word": "赵樱子又医美了",
+        "onboard_time": 1780810281,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 201126,
+        "word": "柳智敏的酒杯腿又被夸",
+        "onboard_time": 1780821081,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 200658,
+        "word": "外婆带着黄金和存折迎接高考外孙女",
+        "onboard_time": 1780815801,
+        "rank": 36,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 200292,
+        "word": "疑似跑男有剧本",
+        "onboard_time": 1780821139,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 198381,
+        "word": "宗馥莉把自己名字印在包装上",
+        "onboard_time": 1780820540,
+        "rank": 38,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 197402,
+        "word": "库克最后一届WWDC",
+        "onboard_time": 1780820421,
+        "rank": 39,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 196938,
+        "word": "女子离婚查账牵出19套罚没房",
+        "onboard_time": 1780820302,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 196766,
+        "word": "天津卷 调学生",
+        "onboard_time": 1780806623,
+        "rank": 41,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 192230,
+        "word": "卢昱晓点赞双人视频",
+        "onboard_time": 1780814121,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 191312,
+        "word": "白鹿天就要亮了阿璃不哭",
+        "onboard_time": 1780819821,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 166703,
+        "word": "任何关系的底层逻辑",
+        "onboard_time": 1780808961,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 162885,
+        "word": "陈赫鹿晗被邓超气到了",
+        "onboard_time": 1780818381,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 138015,
+        "word": "狼队小胖断开连接",
+        "onboard_time": 1780815801,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 136475,
+        "word": "中国足球小将",
+        "onboard_time": 1780820842,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 136134,
+        "word": "我国乘用车12年胖了近400公斤",
+        "onboard_time": 1780811481,
+        "rank": 48,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 136081,
+        "word": "琵琶行原唱发文",
+        "onboard_time": 1780810641,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#回顾这些瞬间感受中朝一家亲#"
+    }
+  }
+}
