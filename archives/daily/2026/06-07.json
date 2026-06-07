@@ -1,6 +1,6 @@
 {
   "startTime": 1780762467317,
-  "endTime": 1780791205955,
+  "endTime": 1780808815840,
   "band_list": [
     {
       "raw_hot": 100000,
@@ -564,7 +564,7 @@
     },
     {
       "raw_hot": 100000,
-      "num": 189510,
+      "num": 282997,
       "word": "谁在纵容用智能眼镜偷拍空姐",
       "onboard_time": 1780781954,
       "rank": 37,
@@ -604,7 +604,7 @@
     },
     {
       "raw_hot": 100000,
-      "num": 217892,
+      "num": 429919,
       "word": "唐艺昕疑似皮肤病复发",
       "onboard_time": 1780788196,
       "rank": 11,
@@ -612,7 +612,7 @@
     },
     {
       "raw_hot": 100000,
-      "num": 216735,
+      "num": 425065,
       "word": "李佳航这是咋了",
       "onboard_time": 1780764260,
       "rank": 12,
@@ -785,11 +785,366 @@
       "onboard_time": 1780788076,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 20709000,
+      "word": "高考作文",
+      "onboard_time": 1780801522,
+      "rank": 0,
+      "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 7296903,
+      "word": "真考琵琶行了",
+      "onboard_time": 1780805723,
+      "rank": 1,
+      "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 4455357,
+      "word": "静音护航就是最棒的高考应援",
+      "onboard_time": 1780797921,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 3521162,
+      "word": "25届哭了",
+      "onboard_time": 1780806083,
+      "rank": 3,
+      "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 2189237,
+      "word": "高考语文默写",
+      "onboard_time": 1780804884,
+      "rank": 4,
+      "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 439378,
+      "word": "曾沛慈凌晨四点半发长文",
+      "onboard_time": 1780795881,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 438928,
+      "word": "杨紫韩东君的落地签",
+      "onboard_time": 1780800442,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 437971,
+      "word": "狼队转会公告",
+      "onboard_time": 1780808004,
+      "rank": 7,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 436484,
+      "word": "高考第一天民警为无证可办笑了",
+      "onboard_time": 1780808243,
+      "rank": 8,
+      "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 435202,
+      "word": "美国1比2德国",
+      "onboard_time": 1780802122,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 433055,
+      "word": "高考语文",
+      "onboard_time": 1780794979,
+      "rank": 10,
+      "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 432745,
+      "word": "本手妙手俗手 年年破防",
+      "onboard_time": 1780804345,
+      "rank": 11,
+      "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 430332,
+      "word": "高考 豆包",
+      "onboard_time": 1780803208,
+      "rank": 12,
+      "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 427611,
+      "word": "侯宇道歉",
+      "onboard_time": 1780807823,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 426545,
+      "word": "全国一卷 词语的变化",
+      "onboard_time": 1780804884,
+      "rank": 15,
+      "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 424263,
+      "word": "霍尔木兹滞留船只密密麻麻",
+      "onboard_time": 1780799060,
+      "rank": 17,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 422435,
+      "word": "马斯克解释太空算力中心",
+      "onboard_time": 1780797260,
+      "rank": 18,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 422099,
+      "word": "多款新能源车涨价了",
+      "onboard_time": 1780795881,
+      "rank": 19,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 419572,
+      "word": "李晨妹妹结婚",
+      "onboard_time": 1780797321,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 418883,
+      "word": "一卷作文 脑子里只有网络烂梗",
+      "onboard_time": 1780807702,
+      "rank": 21,
+      "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 417724,
+      "word": "蔚来985",
+      "onboard_time": 1780805124,
+      "rank": 22,
+      "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 415697,
+      "word": "李现晒了女友视角的摄影照",
+      "onboard_time": 1780808362,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 414224,
+      "word": "天津作文 难写",
+      "onboard_time": 1780805363,
+      "rank": 24,
+      "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 413666,
+      "word": "2026高考第一批显眼包出现了",
+      "onboard_time": 1780798160,
+      "rank": 25,
+      "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 412634,
+      "word": "男子家中砸墙意外砸出三千万现金",
+      "onboard_time": 1780808483,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 410936,
+      "word": "曾沛慈说一开始就是想要抽签决定",
+      "onboard_time": 1780807342,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 410190,
+      "word": "官方解读2026高考作文题",
+      "onboard_time": 1780807402,
+      "rank": 28,
+      "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 408181,
+      "word": "天津卷 调学生",
+      "onboard_time": 1780806623,
+      "rank": 29,
+      "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 407585,
+      "word": "演员杨雪自曝结婚原因",
+      "onboard_time": 1780795460,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 398193,
+      "word": "开考前1小时考生身份证丢了",
+      "onboard_time": 1780797921,
+      "rank": 31,
+      "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 383554,
+      "word": "高考作文 修为散尽的感觉",
+      "onboard_time": 1780805843,
+      "rank": 32,
+      "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 382383,
+      "word": "翘楚热度",
+      "onboard_time": 1780808603,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 382378,
+      "word": "李可馨比李晨小十八岁",
+      "onboard_time": 1780804945,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 370636,
+      "word": "独居就是重新爱了一次小时候的自己",
+      "onboard_time": 1780804046,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 334381,
+      "word": "韩国人拍剧真是没轻没重的",
+      "onboard_time": 1780807883,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 309530,
+      "word": "吉赛尔7年减了20斤",
+      "onboard_time": 1780808243,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 306548,
+      "word": "高考时间",
+      "onboard_time": 1780801402,
+      "rank": 40,
+      "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 283832,
+      "word": "高考语文阅读",
+      "onboard_time": 1780806683,
+      "rank": 41,
+      "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 283296,
+      "word": "陈小春叫板周深不好意思了",
+      "onboard_time": 1780807043,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 283208,
+      "word": "AI写的高考作文",
+      "onboard_time": 1780807043,
+      "rank": 43,
+      "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 283079,
+      "word": "特朗普刚起床就发了AI视频",
+      "onboard_time": 1780808004,
+      "rank": 44,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 283032,
+      "word": "AI恐慌",
+      "onboard_time": 1780803748,
+      "rank": 45,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 282755,
+      "word": "詹姆斯将高尔夫球打进地中海被起诉",
+      "onboard_time": 1780791440,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 282588,
+      "word": "追光者王楚钦",
+      "onboard_time": 1780801704,
+      "rank": 49,
+      "category": "体育"
     }
   ],
   "hotgov_list": [
     {
       "word": "#总书记对生态环境保护的期盼和嘱托#"
+    },
+    {
+      "word": "#青春正好路在脚下#"
     }
   ]
 }
