@@ -1,6 +1,6 @@
 {
   "startTime": 1780762467317,
-  "endTime": 1780858149727,
+  "endTime": 1780863592909,
   "band_list": [
     {
       "raw_hot": 100000,
@@ -2609,6 +2609,22 @@
       "onboard_time": 1780856775,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 310051,
+      "word": "中国基建上新要编织六张网",
+      "onboard_time": 1780833442,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 47121,
+      "word": "全程49小时的火车出发7小时折返",
+      "onboard_time": 1780861575,
+      "rank": 48,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
