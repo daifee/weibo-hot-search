@@ -1,0 +1,410 @@
+{
+  "runTime": 1780837187618,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 100000,
+        "num": 1543566,
+        "word": "高考数学",
+        "onboard_time": 1780810882,
+        "rank": 0,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 1514004,
+        "word": "我浪姐了 我力竭了",
+        "onboard_time": 1780834281,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 1279333,
+        "word": "中国逐日工程多项关键技术获新突破",
+        "onboard_time": 1780833982,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 1218199,
+        "word": "范丞丞 跑男",
+        "onboard_time": 1780836263,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 1019385,
+        "word": "浪姐 又要中途淘汰",
+        "onboard_time": 1780834584,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 742738,
+        "word": "关掉朋友圈之后发现自己不爱旅游",
+        "onboard_time": 1780824984,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 661223,
+        "word": "高考数学答案",
+        "onboard_time": 1780827861,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 629089,
+        "word": "iPhone用户的崩溃瞬间",
+        "onboard_time": 1780827322,
+        "rank": 7,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 493852,
+        "word": "数学一卷",
+        "onboard_time": 1780826302,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 483784,
+        "word": "A股重大调整来袭",
+        "onboard_time": 1780823544,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 478406,
+        "word": "黄子韬怒斥偷拍牙医",
+        "onboard_time": 1780826842,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 465193,
+        "word": "傅子纯去世",
+        "onboard_time": 1780834642,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 457816,
+        "word": "中产家族的破产七件套",
+        "onboard_time": 1780825342,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 445039,
+        "word": "陈都灵发了20万红包",
+        "onboard_time": 1780831462,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 431405,
+        "word": "浪姐直播",
+        "onboard_time": 1780831520,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 420880,
+        "word": "数学大题 不让我动笔",
+        "onboard_time": 1780829421,
+        "rank": 15,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 417807,
+        "word": "TES战胜WE",
+        "onboard_time": 1780834402,
+        "rank": 16,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 416041,
+        "word": "AI短剧 100集浓缩成3分钟",
+        "onboard_time": 1780822041,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 412411,
+        "word": "歌手范玮琪回来了",
+        "onboard_time": 1780833982,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 406026,
+        "word": "被架进考场",
+        "onboard_time": 1780835543,
+        "rank": 19,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 398472,
+        "word": "唐艺昕 人怎么能争气成这样",
+        "onboard_time": 1780836083,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 393287,
+        "word": "江语晨安全了",
+        "onboard_time": 1780835964,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 391625,
+        "word": "江苏一考生8点59才发现走错考场",
+        "onboard_time": 1780832302,
+        "rank": 22,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 384995,
+        "word": "海屿你神级舞台",
+        "onboard_time": 1780836924,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 376816,
+        "word": "陈都灵三部一番破万剧",
+        "onboard_time": 1780831221,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 343351,
+        "word": "数学老师连续4年高考最高137分",
+        "onboard_time": 1780829421,
+        "rank": 25,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 343279,
+        "word": "左边 好听好想哭",
+        "onboard_time": 1780834221,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 343201,
+        "word": "耐克市值几乎蒸发掉一个阿迪达斯",
+        "onboard_time": 1780835421,
+        "rank": 27,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 343138,
+        "word": "何宣林李心洁高音好爽",
+        "onboard_time": 1780836982,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 343039,
+        "word": "央视曝光手机高价回收骗局",
+        "onboard_time": 1780830860,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 343033,
+        "word": "数学一卷 难",
+        "onboard_time": 1780826963,
+        "rank": 30,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 334909,
+        "word": "张月把自己唱哭了",
+        "onboard_time": 1780836022,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 325482,
+        "word": "黄子韬做了16颗牙贴面",
+        "onboard_time": 1780823062,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 325038,
+        "word": "深圳宝妈称印度巴基斯坦人增多",
+        "onboard_time": 1780824923,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 307781,
+        "word": "詹姆斯吐槽AI加速假新闻传播",
+        "onboard_time": 1780834342,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 299804,
+        "word": "泽尻英龙华被男友甩了",
+        "onboard_time": 1780836022,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 291386,
+        "word": "网友看到李晨这段完整拍摄过程了",
+        "onboard_time": 1780828342,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 285661,
+        "word": "压力给到27届",
+        "onboard_time": 1780828281,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 280998,
+        "word": "薛之谦上上谦火锅店全部关闭",
+        "onboard_time": 1780835783,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 274746,
+        "word": "柳智敏的酒杯腿又被夸",
+        "onboard_time": 1780821081,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 274246,
+        "word": "中国女排vs波兰女排",
+        "onboard_time": 1780833622,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 274016,
+        "word": "唐艺昕回应皮肤问题",
+        "onboard_time": 1780835182,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 229233,
+        "word": "时代少年团 高考作文",
+        "onboard_time": 1780809982,
+        "rank": 42,
+        "category": "艺人,教育"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 215987,
+        "word": "近视的人老了都是两副眼镜",
+        "onboard_time": 1780823183,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 213527,
+        "word": "大冰建议两口子别一起旅行",
+        "onboard_time": 1780821681,
+        "rank": 44,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 207466,
+        "word": "黄灿灿变绿灿灿",
+        "onboard_time": 1780831942,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 193118,
+        "word": "DRG早点回归",
+        "onboard_time": 1780834882,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 193102,
+        "word": "TES晋级2026MSI",
+        "onboard_time": 1780835124,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 181487,
+        "word": "日本樱岛火山喷发下起火山灰雨",
+        "onboard_time": 1780836624,
+        "rank": 48,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 175688,
+        "word": "高考数学难不难",
+        "onboard_time": 1780824803,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#回顾这些瞬间感受中朝一家亲#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1780247827631,
-  "endTime": 1780833359910,
+  "endTime": 1780837187618,
   "band_list": [
     {
       "raw_hot": 6730138,
@@ -11316,7 +11316,7 @@
     },
     {
       "raw_hot": 100000,
-      "num": 276525,
+      "num": 391625,
       "word": "江苏一考生8点59才发现走错考场",
       "onboard_time": 1780832302,
       "rank": 34,
@@ -11353,6 +11353,190 @@
       "onboard_time": 1780831581,
       "rank": 49,
       "category": "艺人,教育"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 1514004,
+      "word": "我浪姐了 我力竭了",
+      "onboard_time": 1780834281,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 1279333,
+      "word": "中国逐日工程多项关键技术获新突破",
+      "onboard_time": 1780833982,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 1218199,
+      "word": "范丞丞 跑男",
+      "onboard_time": 1780836263,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 1019385,
+      "word": "浪姐 又要中途淘汰",
+      "onboard_time": 1780834584,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 465193,
+      "word": "傅子纯去世",
+      "onboard_time": 1780834642,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 417807,
+      "word": "TES战胜WE",
+      "onboard_time": 1780834402,
+      "rank": 16,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 412411,
+      "word": "歌手范玮琪回来了",
+      "onboard_time": 1780833982,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 406026,
+      "word": "被架进考场",
+      "onboard_time": 1780835543,
+      "rank": 19,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 398472,
+      "word": "唐艺昕 人怎么能争气成这样",
+      "onboard_time": 1780836083,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 393287,
+      "word": "江语晨安全了",
+      "onboard_time": 1780835964,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 384995,
+      "word": "海屿你神级舞台",
+      "onboard_time": 1780836924,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 343279,
+      "word": "左边 好听好想哭",
+      "onboard_time": 1780834221,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 343201,
+      "word": "耐克市值几乎蒸发掉一个阿迪达斯",
+      "onboard_time": 1780835421,
+      "rank": 27,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 343138,
+      "word": "何宣林李心洁高音好爽",
+      "onboard_time": 1780836982,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 334909,
+      "word": "张月把自己唱哭了",
+      "onboard_time": 1780836022,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 307781,
+      "word": "詹姆斯吐槽AI加速假新闻传播",
+      "onboard_time": 1780834342,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 299804,
+      "word": "泽尻英龙华被男友甩了",
+      "onboard_time": 1780836022,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 280998,
+      "word": "薛之谦上上谦火锅店全部关闭",
+      "onboard_time": 1780835783,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 274246,
+      "word": "中国女排vs波兰女排",
+      "onboard_time": 1780833622,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 274016,
+      "word": "唐艺昕回应皮肤问题",
+      "onboard_time": 1780835182,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 193118,
+      "word": "DRG早点回归",
+      "onboard_time": 1780834882,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 193102,
+      "word": "TES晋级2026MSI",
+      "onboard_time": 1780835124,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 181487,
+      "word": "日本樱岛火山喷发下起火山灰雨",
+      "onboard_time": 1780836624,
+      "rank": 48,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 99703,
