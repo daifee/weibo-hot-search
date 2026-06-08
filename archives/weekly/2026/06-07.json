@@ -1,6 +1,6 @@
 {
   "startTime": 1780762467317,
-  "endTime": 1780898334455,
+  "endTime": 1780902866167,
   "band_list": [
     {
       "raw_hot": 100000,
@@ -3020,7 +3020,7 @@
     },
     {
       "raw_hot": 100000,
-      "num": 1169407,
+      "num": 1842791,
       "word": "朝方举行盛大欢迎仪式",
       "onboard_time": 1780897401,
       "rank": 0,
@@ -3036,7 +3036,7 @@
     },
     {
       "raw_hot": 100000,
-      "num": 963068,
+      "num": 1431889,
       "word": "中国同时集齐造船业3颗明珠",
       "onboard_time": 1780885400,
       "rank": 2,
@@ -3060,7 +3060,7 @@
     },
     {
       "raw_hot": 100000,
-      "num": 831945,
+      "num": 1070683,
       "word": "去面试被公司留下吃午饭了",
       "onboard_time": 1780896381,
       "rank": 5,
@@ -3385,6 +3385,182 @@
       "onboard_time": 1780896262,
       "rank": 49,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 1701140,
+      "word": "奔跑吧道歉",
+      "onboard_time": 1780900040,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 1394899,
+      "word": "跑男录制结束离开后满地垃圾",
+      "onboard_time": 1780901360,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 681705,
+      "word": "高考作文 给阿嬷的情书",
+      "onboard_time": 1780901180,
+      "rank": 5,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 607963,
+      "word": "文旅宣传费",
+      "onboard_time": 1780901722,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 374114,
+      "word": "Gemini 美国大豆包",
+      "onboard_time": 1780898721,
+      "rank": 8,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 370718,
+      "word": "乘风五公双人合作曲限时推荐",
+      "onboard_time": 1780902321,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 367905,
+      "word": "儿子涉嫌吃空饷医院院长放弃人才考察",
+      "onboard_time": 1780899260,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 365889,
+      "word": "菲律宾地震一快餐店瞬间成废墟",
+      "onboard_time": 1780901902,
+      "rank": 18,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 364730,
+      "word": "朋友是流动的",
+      "onboard_time": 1780900161,
+      "rank": 19,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 363551,
+      "word": "金正恩和夫人到机场迎接",
+      "onboard_time": 1780898539,
+      "rank": 21,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 354940,
+      "word": "25岁婴儿定格在66厘米",
+      "onboard_time": 1780902562,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 349857,
+      "word": "关晓彤20年前拍摄现场照片",
+      "onboard_time": 1780901481,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 313347,
+      "word": "由于高考不让带量角器",
+      "onboard_time": 1780901961,
+      "rank": 32,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 253146,
+      "word": "全球股市强震",
+      "onboard_time": 1780897822,
+      "rank": 35,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 249352,
+      "word": "孙怡 想要一直很安静",
+      "onboard_time": 1780902801,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 244199,
+      "word": "菲律宾7.9级地震现场画面",
+      "onboard_time": 1780902261,
+      "rank": 37,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 231426,
+      "word": "半熟恋人5女嘉宾撞脸唐嫣",
+      "onboard_time": 1780902202,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 218373,
+      "word": "豆包凌晨吓醒我",
+      "onboard_time": 1780902081,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 215283,
+      "word": "粉丝怎么认出王一博的",
+      "onboard_time": 1780899081,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 205594,
+      "word": "伺候人的活AI干不了",
+      "onboard_time": 1780901902,
+      "rank": 47,
+      "category": "互联网,幽默"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 201218,
+      "word": "耀眼但凡提早一天播",
+      "onboard_time": 1780899201,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 200024,
+      "word": "跑男冠名商",
+      "onboard_time": 1780902801,
+      "rank": 49,
+      "category": "综艺"
     }
   ],
   "hotgov_list": [
@@ -3402,6 +3578,9 @@
     },
     {
       "word": "#习近平在朝鲜媒体发表署名文章#"
+    },
+    {
+      "word": "#习近平总书记访问朝鲜#"
     }
   ]
 }

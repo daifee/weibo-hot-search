@@ -1,0 +1,410 @@
+{
+  "runTime": 1780902866167,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 100000,
+        "num": 1842791,
+        "word": "朝方举行盛大欢迎仪式",
+        "onboard_time": 1780897401,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 1701140,
+        "word": "奔跑吧道歉",
+        "onboard_time": 1780900040,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 1431889,
+        "word": "中国同时集齐造船业3颗明珠",
+        "onboard_time": 1780885400,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 1394899,
+        "word": "跑男录制结束离开后满地垃圾",
+        "onboard_time": 1780901360,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 1070683,
+        "word": "去面试被公司留下吃午饭了",
+        "onboard_time": 1780896381,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 681705,
+        "word": "高考作文 给阿嬷的情书",
+        "onboard_time": 1780901180,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 645842,
+        "word": "高考物理 选拔牛顿接班人",
+        "onboard_time": 1780891640,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 607963,
+        "word": "文旅宣传费",
+        "onboard_time": 1780901722,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 374114,
+        "word": "Gemini 美国大豆包",
+        "onboard_time": 1780898721,
+        "rank": 8,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 373956,
+        "word": "登贝莱要求姆巴佩多防守",
+        "onboard_time": 1780889600,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 372649,
+        "word": "霍思燕爱犬在意大利夺冠",
+        "onboard_time": 1780890140,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 372087,
+        "word": "物理一卷考哭了",
+        "onboard_time": 1780890501,
+        "rank": 11,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 370718,
+        "word": "乘风五公双人合作曲限时推荐",
+        "onboard_time": 1780902321,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 369802,
+        "word": "李思潼的第一个红毯要来了",
+        "onboard_time": 1780891940,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 369320,
+        "word": "高考物理",
+        "onboard_time": 1780883360,
+        "rank": 14,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 368649,
+        "word": "朱珠法网曝光vivo新折叠",
+        "onboard_time": 1780891521,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 367905,
+        "word": "儿子涉嫌吃空饷医院院长放弃人才考察",
+        "onboard_time": 1780899260,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 366276,
+        "word": "新能源车变胖让老司机都犯愁",
+        "onboard_time": 1780885460,
+        "rank": 17,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 365889,
+        "word": "菲律宾地震一快餐店瞬间成废墟",
+        "onboard_time": 1780901902,
+        "rank": 18,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 364730,
+        "word": "朋友是流动的",
+        "onboard_time": 1780900161,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 364184,
+        "word": "高考历史",
+        "onboard_time": 1780883540,
+        "rank": 20,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 363551,
+        "word": "金正恩和夫人到机场迎接",
+        "onboard_time": 1780898539,
+        "rank": 21,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 356766,
+        "word": "A股行情",
+        "onboard_time": 1780880482,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 354940,
+        "word": "25岁婴儿定格在66厘米",
+        "onboard_time": 1780902562,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 352102,
+        "word": "王一博吴磊李现王星越 开个旅综吧",
+        "onboard_time": 1780897281,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 349857,
+        "word": "关晓彤20年前拍摄现场照片",
+        "onboard_time": 1780901481,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 348055,
+        "word": "世界杯",
+        "onboard_time": 1780890921,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 345248,
+        "word": "奚梦瑶婚礼后去看法网",
+        "onboard_time": 1780880602,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 341227,
+        "word": "金秀贤重启活动",
+        "onboard_time": 1780889181,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 337745,
+        "word": "现在的年轻人竞争压力太大",
+        "onboard_time": 1780890501,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 335674,
+        "word": "跑男",
+        "onboard_time": 1780893442,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 334106,
+        "word": "王源裸上身淋浴戏",
+        "onboard_time": 1780889361,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 313347,
+        "word": "由于高考不让带量角器",
+        "onboard_time": 1780901961,
+        "rank": 32,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 306321,
+        "word": "张慧雯原来是哭着跳完的",
+        "onboard_time": 1780884621,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 298300,
+        "word": "张月直接离场了",
+        "onboard_time": 1780843466,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 253146,
+        "word": "全球股市强震",
+        "onboard_time": 1780897822,
+        "rank": 35,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 249352,
+        "word": "孙怡 想要一直很安静",
+        "onboard_time": 1780902801,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 244199,
+        "word": "菲律宾7.9级地震现场画面",
+        "onboard_time": 1780902261,
+        "rank": 37,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 243665,
+        "word": "金价",
+        "onboard_time": 1780883479,
+        "rank": 38,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 231426,
+        "word": "半熟恋人5女嘉宾撞脸唐嫣",
+        "onboard_time": 1780902202,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 220758,
+        "word": "吃自助餐为什么容易饱",
+        "onboard_time": 1780896561,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 218373,
+        "word": "豆包凌晨吓醒我",
+        "onboard_time": 1780902081,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 215283,
+        "word": "粉丝怎么认出王一博的",
+        "onboard_time": 1780899081,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 214213,
+        "word": "2026KPL夏季赛大名单",
+        "onboard_time": 1780894101,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 210040,
+        "word": "高圆圆穿搭还是杨桃那味儿",
+        "onboard_time": 1780892841,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 207779,
+        "word": "洪洋杨紫李现是北影的同一届同学",
+        "onboard_time": 1780889722,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 206642,
+        "word": "曾沛慈团 心引力",
+        "onboard_time": 1780892001,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 205594,
+        "word": "伺候人的活AI干不了",
+        "onboard_time": 1780901902,
+        "rank": 47,
+        "category": "互联网,幽默"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 201218,
+        "word": "耀眼但凡提早一天播",
+        "onboard_time": 1780899201,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 200024,
+        "word": "跑男冠名商",
+        "onboard_time": 1780902801,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记访问朝鲜#"
+    }
+  }
+}
