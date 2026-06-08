@@ -1,6 +1,6 @@
 {
   "startTime": 1780849490773,
-  "endTime": 1780871888260,
+  "endTime": 1780877892978,
   "band_list": [
     {
       "raw_hot": 100000,
@@ -436,7 +436,7 @@
     },
     {
       "raw_hot": 100000,
-      "num": 725072,
+      "num": 755478,
       "word": "浪姐四公个喜人气排名",
       "onboard_time": 1780853357,
       "rank": 3,
@@ -484,7 +484,7 @@
     },
     {
       "raw_hot": 100000,
-      "num": 201706,
+      "num": 564792,
       "word": "兹维列夫首夺大满贯冠军",
       "onboard_time": 1780856775,
       "rank": 6,
@@ -500,7 +500,7 @@
     },
     {
       "raw_hot": 100000,
-      "num": 351575,
+      "num": 853622,
       "word": "中国基建上新要编织六张网",
       "onboard_time": 1780833442,
       "rank": 2,
@@ -556,7 +556,7 @@
     },
     {
       "raw_hot": 100000,
-      "num": 55374,
+      "num": 580881,
       "word": "张远演唱会主题押中高考作文",
       "onboard_time": 1780870455,
       "rank": 20,
@@ -569,6 +569,198 @@
       "onboard_time": 1780871656,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 1125601,
+      "word": "高考",
+      "onboard_time": 1780873698,
+      "rank": 1,
+      "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 806337,
+      "word": "发现外星生命须立即通报联合国",
+      "onboard_time": 1780875138,
+      "rank": 3,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 720237,
+      "word": "伊朗向以色列发射多轮导弹",
+      "onboard_time": 1780875079,
+      "rank": 6,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 589355,
+      "word": "埃里克森在比赛中晕倒",
+      "onboard_time": 1780874538,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 588341,
+      "word": "华为昇腾910C完成训练",
+      "onboard_time": 1780873218,
+      "rank": 8,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 586197,
+      "word": "曝浪姐五公队长",
+      "onboard_time": 1780875319,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 573057,
+      "word": "张慧雯直播",
+      "onboard_time": 1780876581,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 559983,
+      "word": "上海最有性价比的旅游 骑行",
+      "onboard_time": 1780875920,
+      "rank": 17,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 559813,
+      "word": "林子聪1天减重超5斤",
+      "onboard_time": 1780873218,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 545232,
+      "word": "江语晨黑脸",
+      "onboard_time": 1780877121,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 539541,
+      "word": "女子多次恶意退款健身时被抓",
+      "onboard_time": 1780875559,
+      "rank": 24,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 536381,
+      "word": "王濛 有姐姐离开对我们情绪也有影响",
+      "onboard_time": 1780877180,
+      "rank": 26,
+      "category": "综艺,体育"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 528303,
+      "word": "江语晨四公个喜倒一",
+      "onboard_time": 1780875679,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 524081,
+      "word": "杨超越素人时期遭职场霸凌",
+      "onboard_time": 1780846823,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 518484,
+      "word": "记者刚开口安慰考生说我已经考上了",
+      "onboard_time": 1780877360,
+      "rank": 32,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 513842,
+      "word": "惠英红代言loewe 终结年龄焦虑",
+      "onboard_time": 1780874718,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 508547,
+      "word": "男子以免费摘花生诱杀留守妇女藏尸",
+      "onboard_time": 1780830023,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 503973,
+      "word": "浪姐五公分组",
+      "onboard_time": 1780874958,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 495558,
+      "word": "何宣林自己救自己",
+      "onboard_time": 1780876461,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 487460,
+      "word": "陪考爸爸开房车路边泡茶松弛感拉满",
+      "onboard_time": 1780875739,
+      "rank": 42,
+      "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 482366,
+      "word": "董璇张维伊小酒窝手牵手下班",
+      "onboard_time": 1780876880,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 478698,
+      "word": "金饰价跌回2025年水平",
+      "onboard_time": 1780876640,
+      "rank": 45,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 474345,
+      "word": "祥云县教育体育局道歉",
+      "onboard_time": 1780877540,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 469878,
+      "word": "男子夜班关闭门窗体温飙到41度去世",
+      "onboard_time": 1780877781,
+      "rank": 48,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
