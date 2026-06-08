@@ -1,6 +1,6 @@
 {
   "startTime": 1780247827631,
-  "endTime": 1780882888039,
+  "endTime": 1780898334455,
   "band_list": [
     {
       "raw_hot": 6730138,
@@ -2924,7 +2924,7 @@
     },
     {
       "raw_hot": 355669,
-      "num": 405421,
+      "num": 559930,
       "word": "A股行情",
       "onboard_time": 1780653559,
       "rank": 4,
@@ -8068,7 +8068,7 @@
     },
     {
       "raw_hot": 100000,
-      "num": 324023,
+      "num": 554223,
       "word": "金价",
       "onboard_time": 1780709300,
       "rank": 35,
@@ -12260,7 +12260,7 @@
     },
     {
       "raw_hot": 100000,
-      "num": 368292,
+      "num": 538806,
       "word": "奚梦瑶婚礼后去看法网",
       "onboard_time": 1780880602,
       "rank": 15,
@@ -12332,7 +12332,7 @@
     },
     {
       "raw_hot": 100000,
-      "num": 343496,
+      "num": 490336,
       "word": "女孩考完数学自信估分149到150",
       "onboard_time": 1780882759,
       "rank": 29,
@@ -12409,6 +12409,350 @@
       "onboard_time": 1780882519,
       "rank": 49,
       "category": "财经"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 1169407,
+      "word": "朝方举行盛大欢迎仪式",
+      "onboard_time": 1780897401,
+      "rank": 0,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 1115104,
+      "word": "跑男",
+      "onboard_time": 1780893442,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 963068,
+      "word": "中国同时集齐造船业3颗明珠",
+      "onboard_time": 1780885400,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 933024,
+      "word": "高考物理 选拔牛顿接班人",
+      "onboard_time": 1780891640,
+      "rank": 3,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 838370,
+      "word": "李思潼的第一个红毯要来了",
+      "onboard_time": 1780891940,
+      "rank": 4,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 831945,
+      "word": "去面试被公司留下吃午饭了",
+      "onboard_time": 1780896381,
+      "rank": 5,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 727501,
+      "word": "朝方在机场热情迎接",
+      "onboard_time": 1780890081,
+      "rank": 6,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 577094,
+      "word": "高考历史",
+      "onboard_time": 1780883540,
+      "rank": 7,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 575830,
+      "word": "新能源车变胖让老司机都犯愁",
+      "onboard_time": 1780885460,
+      "rank": 8,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 571144,
+      "word": "物理一卷考哭了",
+      "onboard_time": 1780890501,
+      "rank": 10,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 567970,
+      "word": "33岁已婚男猥亵强奸12岁少女",
+      "onboard_time": 1780893442,
+      "rank": 11,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 564727,
+      "word": "霍思燕爱犬在意大利夺冠",
+      "onboard_time": 1780890140,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 562966,
+      "word": "张慧雯原来是哭着跳完的",
+      "onboard_time": 1780884621,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 555367,
+      "word": "王源裸上身淋浴戏",
+      "onboard_time": 1780889361,
+      "rank": 15,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 550470,
+      "word": "曾沛慈团 心引力",
+      "onboard_time": 1780892001,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 547742,
+      "word": "相信什么就会吸引什么",
+      "onboard_time": 1780886781,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 544517,
+      "word": "苹果WWDC26参会礼品曝光",
+      "onboard_time": 1780894702,
+      "rank": 19,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 541413,
+      "word": "朱珠法网曝光vivo新折叠",
+      "onboard_time": 1780891521,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 537867,
+      "word": "2026KPL夏季赛大名单",
+      "onboard_time": 1780894101,
+      "rank": 22,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 533751,
+      "word": "金秀贤重启活动",
+      "onboard_time": 1780889181,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 531003,
+      "word": "现在的年轻人竞争压力太大",
+      "onboard_time": 1780890501,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 527459,
+      "word": "王一博吴磊李现王星越 开个旅综吧",
+      "onboard_time": 1780897281,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 523995,
+      "word": "麦琳带货口条好清晰",
+      "onboard_time": 1780887082,
+      "rank": 26,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 518673,
+      "word": "让AI做高考数学题",
+      "onboard_time": 1780892241,
+      "rank": 28,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 517710,
+      "word": "马年考商鞅变法",
+      "onboard_time": 1780890561,
+      "rank": 29,
+      "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 514917,
+      "word": "跑男放错安阳地标性建筑",
+      "onboard_time": 1780896021,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 512216,
+      "word": "央视新闻发的白鹿",
+      "onboard_time": 1780893680,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 509681,
+      "word": "历史二卷 盲人摸象",
+      "onboard_time": 1780888880,
+      "rank": 32,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 502304,
+      "word": "淡淡四公排名",
+      "onboard_time": 1780896681,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 499598,
+      "word": "骂对方小孩没家教遭暴打男子发声",
+      "onboard_time": 1780888340,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 497202,
+      "word": "吃自助餐为什么容易饱",
+      "onboard_time": 1780896561,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 494998,
+      "word": "者来女力挺张慧雯代斯",
+      "onboard_time": 1780897341,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 490312,
+      "word": "洪洋杨紫李现是北影的同一届同学",
+      "onboard_time": 1780889722,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 487347,
+      "word": "高考历史把我当古人整",
+      "onboard_time": 1780897761,
+      "rank": 40,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 483489,
+      "word": "白鹿新剧躺在坟墓里流泪",
+      "onboard_time": 1780896862,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 479782,
+      "word": "高圆圆穿搭还是杨桃那味儿",
+      "onboard_time": 1780892841,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 476648,
+      "word": "听到讨厌的人过生日就这态度",
+      "onboard_time": 1780887201,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 474510,
+      "word": "认真用手机居然违规了",
+      "onboard_time": 1780897701,
+      "rank": 44,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 471730,
+      "word": "高考物理",
+      "onboard_time": 1780883360,
+      "rank": 45,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 468033,
+      "word": "登贝莱要求姆巴佩多防守",
+      "onboard_time": 1780889600,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 465496,
+      "word": "埃里克森心脏起搏器工作正常",
+      "onboard_time": 1780887381,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 463757,
+      "word": "A股失守4000",
+      "onboard_time": 1780897581,
+      "rank": 48,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 100000,
+      "num": 460466,
+      "word": "曾沛慈SoFigaro预告",
+      "onboard_time": 1780896262,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 99703,
@@ -14370,6 +14714,9 @@
     },
     {
       "word": "#这些名字见证中朝友谊#"
+    },
+    {
+      "word": "#习近平在朝鲜媒体发表署名文章#"
     }
   ]
 }
