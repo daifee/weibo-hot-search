@@ -1,0 +1,410 @@
+{
+  "runTime": 1780882888039,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 100000,
+        "num": 1203278,
+        "word": "菲律宾群岛7.9级地震",
+        "onboard_time": 1780877360,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 908880,
+        "word": "韩国股市",
+        "onboard_time": 1780881380,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 889763,
+        "word": "中国基建上新要编织六张网",
+        "onboard_time": 1780833442,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 889430,
+        "word": "发现外星生命须立即通报联合国",
+        "onboard_time": 1780875138,
+        "rank": 3,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 888414,
+        "word": "张月全程一直黑脸",
+        "onboard_time": 1780877901,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 887004,
+        "word": "浪姐四公个喜人气排名",
+        "onboard_time": 1780853357,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 719210,
+        "word": "男子夜班关闭门窗体温飙到41度去世",
+        "onboard_time": 1780877781,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 409105,
+        "word": "埃里克森在比赛中晕倒",
+        "onboard_time": 1780874538,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 409059,
+        "word": "不要擅自回复外星人",
+        "onboard_time": 1780847304,
+        "rank": 8,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 407906,
+        "word": "江语晨黑脸",
+        "onboard_time": 1780877121,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 406639,
+        "word": "张月直接离场了",
+        "onboard_time": 1780843466,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 405421,
+        "word": "A股行情",
+        "onboard_time": 1780880482,
+        "rank": 11,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 404483,
+        "word": "记者刚开口安慰考生说我已经考上了",
+        "onboard_time": 1780877360,
+        "rank": 12,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 403741,
+        "word": "高考",
+        "onboard_time": 1780873698,
+        "rank": 13,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 403024,
+        "word": "齐思钧 雷霆雨露俱是天恩",
+        "onboard_time": 1780847902,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 368292,
+        "word": "奚梦瑶婚礼后去看法网",
+        "onboard_time": 1780880602,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 366684,
+        "word": "NBA",
+        "onboard_time": 1780882161,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 366264,
+        "word": "上海最有性价比的旅游 骑行",
+        "onboard_time": 1780875920,
+        "rank": 17,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 363784,
+        "word": "8岁女孩爱吃大量碳水确诊脂肪肝",
+        "onboard_time": 1780879521,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 361557,
+        "word": "伊朗向以色列发射多轮导弹",
+        "onboard_time": 1780875079,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 360190,
+        "word": "男子自制易燃物泄私愤烧伤女主播",
+        "onboard_time": 1780882222,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 357780,
+        "word": "考场外满身泥水的父亲称闺女不嫌弃",
+        "onboard_time": 1780882222,
+        "rank": 21,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 355599,
+        "word": "一周不洗的床单上有什么",
+        "onboard_time": 1780880960,
+        "rank": 22,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 354514,
+        "word": "活泼的黄灿灿也颓了",
+        "onboard_time": 1780878922,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 353346,
+        "word": "杨超越素人时期遭职场霸凌",
+        "onboard_time": 1780846823,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 351487,
+        "word": "三星SK海力士跌10%",
+        "onboard_time": 1780879761,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 348131,
+        "word": "律师谈牙医偷拍黄子韬",
+        "onboard_time": 1780881681,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 347439,
+        "word": "王濛 有姐姐离开对我们情绪也有影响",
+        "onboard_time": 1780877180,
+        "rank": 27,
+        "category": "综艺,体育"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 344947,
+        "word": "12306回应火车出发7小时中途折返",
+        "onboard_time": 1780845206,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 343496,
+        "word": "女孩考完数学自信估分149到150",
+        "onboard_time": 1780882759,
+        "rank": 29,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 341786,
+        "word": "曝浪姐五公队长",
+        "onboard_time": 1780875319,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 339813,
+        "word": "高考数学",
+        "onboard_time": 1780810882,
+        "rank": 31,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 337319,
+        "word": "以为做饭至少要有个锅",
+        "onboard_time": 1780879041,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 335199,
+        "word": "黄子韬怒斥偷拍牙医",
+        "onboard_time": 1780826842,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 333691,
+        "word": "江语晨四公个喜倒一",
+        "onboard_time": 1780875679,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 332909,
+        "word": "特朗普告诉以色列不要反击",
+        "onboard_time": 1780878501,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 330187,
+        "word": "张慧雯直播",
+        "onboard_time": 1780876581,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 329422,
+        "word": "林子聪1天减重超5斤",
+        "onboard_time": 1780873218,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 326923,
+        "word": "金饰价跌回2025年水平",
+        "onboard_time": 1780876640,
+        "rank": 38,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 325387,
+        "word": "懂张若昀了 唐艺昕是明媚的解药",
+        "onboard_time": 1780848143,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 322846,
+        "word": "阚清子的眼睛哭到反光",
+        "onboard_time": 1780880781,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 321577,
+        "word": "男生走出考场大喊妈家长齐回答",
+        "onboard_time": 1780879281,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 318976,
+        "word": "张慧雯孙怡 是妈妈是女儿",
+        "onboard_time": 1780851620,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 317180,
+        "word": "纳达尔懂球帝",
+        "onboard_time": 1780880000,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 315497,
+        "word": "兹维列夫首夺大满贯冠军",
+        "onboard_time": 1780856775,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 314691,
+        "word": "宇树需要英伟达还是英伟达需要宇树",
+        "onboard_time": 1780882820,
+        "rank": 45,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 312781,
+        "word": "范玮琪四公排名",
+        "onboard_time": 1780881980,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 310805,
+        "word": "浪姐五公选曲歌单",
+        "onboard_time": 1780879941,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 307580,
+        "word": "傅子纯去世",
+        "onboard_time": 1780834642,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 306741,
+        "word": "韩国股市又跌到熔断了",
+        "onboard_time": 1780882519,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#这些名字见证中朝友谊#"
+    }
+  }
+}
