@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/06/07 00:14:27 ~ 2026/06/09 07:46:22
+本榜单时间：2026/06/07 00:14:27 ~ 2026/06/09 12:05:14
 </p>
 </blockquote>
 <p>
@@ -2729,6 +2729,12 @@ Gemini 美国大豆包（热度：100000）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E9%87%91%E6%AD%A3%E6%81%A9%E5%9C%A8%E5%B9%B3%E5%A3%A4%E4%BC%9A%E8%B0%88%23%23" target="weibo">
 #习近平同金正恩在平壤会谈#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E6%9C%9D%E9%B2%9C%E6%AC%A2%E8%BF%8E%E6%9C%80%E5%B0%8A%E9%87%8D%E7%9A%84%E8%B4%B5%E5%AE%BE%23%23" target="weibo">
+#朝鲜欢迎最尊重的贵宾#
 </a>
 </li>
 
