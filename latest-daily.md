@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/06/11 00:41:39 ~ 2026/06/11 13:57:57
+本榜单时间：2026/06/11 00:41:39 ~ 2026/06/11 17:51:50
 </p>
 </blockquote>
 <p>
@@ -29,6 +29,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%AE%BF%E6%9C%9D%E6%8F%90%E5%87%BA%E5%9B%9B%E4%B8%AA%E5%9D%9A%E6%8C%81%23%23" target="weibo">
 #习近平访朝提出四个坚持#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E5%85%B1%E4%BA%A7%E5%85%9A%E4%BA%BA%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%AF%86%E7%A0%81%23%23" target="weibo">
+#共产党人的精神密码#
 </a>
 </li>
 
