@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/06/13 00:49:58 ~ 2026/06/13 16:28:46
+本榜单时间：2026/06/13 00:49:58 ~ 2026/06/13 18:13:50
 </p>
 </blockquote>
 <p>
@@ -29,6 +29,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%8F%AE%E5%98%B1%E8%A6%81%E4%BF%9D%E6%8A%A4%E5%A5%BD%E6%96%87%E5%8C%96%E5%92%8C%E8%87%AA%E7%84%B6%E9%81%97%E4%BA%A7%23%23" target="weibo">
 #总书记叮嘱要保护好文化和自然遗产#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E6%9B%B4%E6%9C%89%E5%8A%9B%E5%9C%B0%E6%8E%A8%E8%BF%9B%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E6%96%87%E5%8C%96%E5%BB%BA%E8%AE%BE%23%23" target="weibo">
+#更有力地推进中国特色社会主义文化建设#
 </a>
 </li>
 
