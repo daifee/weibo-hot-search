@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/06/14 00:22:01 ~ 2026/06/15 22:44:23
+本榜单时间：2026/06/14 00:22:01 ~ 2026/06/16 01:24:40
 </p>
 </blockquote>
 <p>
@@ -47,6 +47,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E5%85%B1%E4%BA%A7%E5%85%9A%E5%91%98%E4%B9%A0%E8%BF%91%E5%B9%B3%23%23" target="weibo">
 #共产党员习近平#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%85%9A%E5%BB%BA%E6%80%9D%E6%83%B3%E5%86%85%E6%B6%B5%E8%A6%81%E4%B9%89%23%23" target="weibo">
+#习近平党建思想内涵要义#
 </a>
 </li>
 
