@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/06/14 00:22:01 ~ 2026/06/16 08:11:05
+本榜单时间：2026/06/14 00:22:01 ~ 2026/06/16 13:04:23
 </p>
 </blockquote>
 <p>
@@ -53,6 +53,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%85%9A%E5%BB%BA%E6%80%9D%E6%83%B3%E5%86%85%E6%B6%B5%E8%A6%81%E4%B9%89%23%23" target="weibo">
 #习近平党建思想内涵要义#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%85%9A%E5%BB%BA%E6%80%9D%E6%83%B3%E9%B2%9C%E6%98%8E%E6%8F%90%E5%87%BA14%E4%B8%AA%E5%9D%9A%E6%8C%81%23%23" target="weibo">
+#习近平党建思想鲜明提出14个坚持#
 </a>
 </li>
 
