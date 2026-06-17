@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/06/14 00:22:01 ~ 2026/06/17 07:58:07
+本榜单时间：2026/06/14 00:22:01 ~ 2026/06/17 12:48:18
 </p>
 </blockquote>
 <p>
@@ -71,6 +71,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E4%B8%AD%E7%BC%85%E8%83%9E%E6%B3%A2%E6%83%85%E8%B0%8A%E6%B7%B1%E5%8E%9A%23%23" target="weibo">
 #中缅胞波情谊深厚#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E8%B5%93%E7%BB%AD%E4%B8%AD%E7%BC%85%E8%83%9E%E6%B3%A2%E6%83%85%E8%B0%8A%23%23" target="weibo">
+#赓续中缅胞波情谊#
 </a>
 </li>
 
