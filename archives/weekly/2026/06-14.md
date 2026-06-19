@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/06/14 00:22:01 ~ 2026/06/19 10:16:22
+本榜单时间：2026/06/14 00:22:01 ~ 2026/06/19 13:00:04
 </p>
 </blockquote>
 <p>
@@ -107,6 +107,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E8%B7%9F%E7%9D%80%E6%80%BB%E4%B9%A6%E8%AE%B0%E9%87%8D%E6%B8%A9%E5%85%A5%E5%85%9A%E8%AA%93%E8%AF%8D%23%23" target="weibo">
 #跟着总书记重温入党誓词#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E6%80%BB%E4%B9%A6%E8%AE%B0%E7%9A%84%E5%AE%B6%E5%9B%BD%E6%83%85%E6%80%80%23%23" target="weibo">
+#总书记的家国情怀#
 </a>
 </li>
 
