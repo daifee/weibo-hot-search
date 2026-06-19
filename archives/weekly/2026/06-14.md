@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/06/14 00:22:01 ~ 2026/06/19 17:50:59
+本榜单时间：2026/06/14 00:22:01 ~ 2026/06/19 20:32:19
 </p>
 </blockquote>
 <p>
@@ -119,6 +119,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%BC%95%E5%B1%88%E5%8E%9F%E8%AF%97%E8%AF%9D%E5%AE%B6%E5%9B%BD%E6%83%85%23%23" target="weibo">
 #总书记引屈原诗话家国情#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E5%92%8C%E6%80%BB%E4%B9%A6%E8%AE%B0%E4%B8%80%E8%B5%B7%E6%84%9F%E6%82%9F%E5%AE%B6%E5%9B%BD%E6%83%85%E6%80%80%23%23" target="weibo">
+#和总书记一起感悟家国情怀#
 </a>
 </li>
 
