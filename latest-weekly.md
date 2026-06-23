@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/06/21 01:02:16 ~ 2026/06/23 13:09:47
+本榜单时间：2026/06/21 01:02:16 ~ 2026/06/23 16:44:19
 </p>
 </blockquote>
 <p>
@@ -59,6 +59,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%BC%95%E9%A2%86%E5%BC%BA%E5%9B%BD%E4%B9%8B%E8%B7%AF%23%23" target="weibo">
 #总书记引领强国之路#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%BC%BA%E5%85%9A%E5%85%B4%E5%85%9A%E7%9A%84%E6%95%85%E4%BA%8B%23%23" target="weibo">
+#习近平强党兴党的故事#
 </a>
 </li>
 
