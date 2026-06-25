@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/06/25 01:11:35 ~ 2026/06/25 20:03:13
+本榜单时间：2026/06/25 01:11:35 ~ 2026/06/25 22:45:24
 </p>
 </blockquote>
 <p>
@@ -35,6 +35,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%BF%83%E7%B3%BB%E4%B8%AD%E5%9B%BD%E9%A5%AD%E7%A2%97%23%23" target="weibo">
 #总书记心系中国饭碗#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%92%8C%E4%B9%A1%E4%BA%B2%E4%BB%AC%E5%9C%A8%E4%B8%80%E8%B5%B7%23%23" target="weibo">
+#习近平总书记和乡亲们在一起#
 </a>
 </li>
 
