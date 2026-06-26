@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/06/26 01:19:12 ~ 2026/06/26 21:30:16
+本榜单时间：2026/06/26 01:19:12 ~ 2026/06/26 23:29:21
 </p>
 </blockquote>
 <p>
@@ -41,6 +41,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%BC%9A%E8%A7%81%E5%AD%9F%E5%8A%A0%E6%8B%89%E5%9B%BD%E6%80%BB%E7%90%86%23%23" target="weibo">
 #习近平会见孟加拉国总理#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E6%9E%84%E5%BB%BA%E6%96%B0%E6%97%B6%E4%BB%A3%E4%B8%AD%E5%AD%9F%E5%91%BD%E8%BF%90%E5%85%B1%E5%90%8C%E4%BD%93%23%23" target="weibo">
+#构建新时代中孟命运共同体#
 </a>
 </li>
 
