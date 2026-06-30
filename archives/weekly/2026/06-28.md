@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/06/28 00:12:46 ~ 2026/06/30 20:17:18
+本榜单时间：2026/06/28 00:12:46 ~ 2026/06/30 23:09:28
 </p>
 </blockquote>
 <p>
@@ -65,6 +65,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%AF%B9%E5%85%A8%E4%BD%93%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A%E5%91%98%E7%9A%84%E5%8F%B7%E5%8F%AC%23%23" target="weibo">
 #总书记对全体中国共产党员的号召#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E5%A7%8B%E7%BB%88%E6%8A%8A%E4%BA%BA%E6%B0%91%E7%94%9F%E5%91%BD%E5%AE%89%E5%85%A8%E6%94%BE%E5%9C%A8%E9%A6%96%E4%BD%8D%23%23" target="weibo">
+#始终把人民生命安全放在首位#
 </a>
 </li>
 
