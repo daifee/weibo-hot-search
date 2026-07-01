@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/06/28 00:12:46 ~ 2026/07/01 13:29:30
+本榜单时间：2026/06/28 00:12:46 ~ 2026/07/01 14:52:39
 </p>
 </blockquote>
 <p>
@@ -83,6 +83,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%91%E4%B8%83%E4%B8%80%E5%8B%8B%E7%AB%A0%E8%8E%B7%E5%BE%97%E8%80%85%E9%A2%81%E6%8E%88%E5%8B%8B%E7%AB%A0%23%23" target="weibo">
 #习近平向七一勋章获得者颁授勋章#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%8F%91%E8%A1%A8%E5%BA%86%E7%A5%9D%E5%BB%BA%E5%85%9A105%E5%91%A8%E5%B9%B4%E9%87%8D%E8%A6%81%E8%AE%B2%E8%AF%9D%23%23" target="weibo">
+#习近平发表庆祝建党105周年重要讲话#
 </a>
 </li>
 
