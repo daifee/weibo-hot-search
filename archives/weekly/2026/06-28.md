@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/06/28 00:12:46 ~ 2026/07/01 18:02:16
+本榜单时间：2026/06/28 00:12:46 ~ 2026/07/01 18:55:16
 </p>
 </blockquote>
 <p>
@@ -95,6 +95,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E5%BA%86%E7%A5%9D%E5%BB%BA%E5%85%9A105%E5%91%A8%E5%B9%B4%E5%A4%A7%E4%BC%9A%23%23" target="weibo">
 #庆祝建党105周年大会#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E8%AF%A6%E8%A7%A3%E5%85%9A%E7%9A%846%E4%B8%AA%E4%BC%98%E7%A7%80%E7%89%B9%E8%B4%A8%23%23" target="weibo">
+#详解党的6个优秀特质#
 </a>
 </li>
 
