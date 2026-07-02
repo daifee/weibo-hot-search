@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/07/01 01:24:42 ~ 2026/07/02 13:36:13
+本榜单时间：2026/07/01 01:24:42 ~ 2026/07/02 17:24:59
 </p>
 </blockquote>
 <p>
@@ -65,6 +65,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E6%9C%80%E9%AB%98%E7%A4%BC%E9%81%87%E8%87%B4%E6%95%AC%E5%8A%9F%E5%8B%8B%E5%85%9A%E5%91%98%23%23" target="weibo">
 #最高礼遇致敬功勋党员#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E6%80%BB%E4%B9%A6%E8%AE%B0%E8%BF%99%E6%A0%B7%E5%8B%89%E5%8A%B1%E9%9D%92%E5%B9%B4%23%23" target="weibo">
+#总书记这样勉励青年#
 </a>
 </li>
 
