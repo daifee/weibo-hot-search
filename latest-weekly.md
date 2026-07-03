@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/06/28 00:12:46 ~ 2026/07/03 09:11:12
+本榜单时间：2026/06/28 00:12:46 ~ 2026/07/03 11:49:58
 </p>
 </blockquote>
 <p>
@@ -125,6 +125,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%85%9A%E5%BB%BA%E6%80%9D%E6%83%B3%E5%BC%95%E9%A2%86%E5%BC%BA%E5%85%9A%E5%BC%BA%E5%9B%BD%E6%96%B0%E5%BE%81%E7%A8%8B%23%23" target="weibo">
 #习近平党建思想引领强党强国新征程#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E5%85%9A%E4%B8%BA%E4%BB%80%E4%B9%88%E8%83%BD%E7%9A%84%E5%85%B3%E9%94%AE%E5%AF%86%E7%A0%81%23%23" target="weibo">
+#党为什么能的关键密码#
 </a>
 </li>
 
