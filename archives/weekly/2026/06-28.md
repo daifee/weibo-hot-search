@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/06/28 00:12:46 ~ 2026/07/03 15:30:45
+本榜单时间：2026/06/28 00:12:46 ~ 2026/07/03 16:34:48
 </p>
 </blockquote>
 <p>
@@ -131,6 +131,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E5%85%9A%E4%B8%BA%E4%BB%80%E4%B9%88%E8%83%BD%E7%9A%84%E5%85%B3%E9%94%AE%E5%AF%86%E7%A0%81%23%23" target="weibo">
 #党为什么能的关键密码#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E4%BB%A5%E4%B8%83%E4%B8%80%E4%B9%8B%E5%90%8D%E8%87%B4%E6%95%AC%E6%9C%80%E9%97%AA%E4%BA%AE%E7%9A%84%E6%98%9F%23%23" target="weibo">
+#以七一之名致敬最闪亮的星#
 </a>
 </li>
 
