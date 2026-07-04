@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/06/28 00:12:46 ~ 2026/07/04 09:08:54
+本榜单时间：2026/06/28 00:12:46 ~ 2026/07/04 11:41:54
 </p>
 </blockquote>
 <p>
@@ -143,6 +143,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E4%B8%AD%E5%A4%AE%E5%86%9B%E5%A7%94%E4%B8%BE%E8%A1%8C%E6%99%8B%E5%8D%87%E4%B8%8A%E5%B0%86%E5%86%9B%E8%A1%94%E4%BB%AA%E5%BC%8F%23%23" target="weibo">
 #中央军委举行晋升上将军衔仪式#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E5%8A%9B%E9%87%8F%E6%9D%A5%E8%87%AA%E4%BA%BA%E6%B0%91%23%23" target="weibo">
+#力量来自人民#
 </a>
 </li>
 
