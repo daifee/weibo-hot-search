@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/07/06 00:17:05 ~ 2026/07/06 13:19:33
+本榜单时间：2026/07/06 00:17:05 ~ 2026/07/06 17:18:12
 </p>
 </blockquote>
 <p>
@@ -29,6 +29,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E6%80%BB%E4%B9%A6%E8%AE%B0%E9%BC%93%E5%8A%B1%E6%88%91%E5%A5%BD%E5%A5%BD%E5%B9%B2%23%23" target="weibo">
 #总书记鼓励我好好干#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E9%BB%91%E5%B1%B1%E6%80%BB%E7%BB%9F%E4%BA%92%E8%87%B4%E8%B4%BA%E7%94%B5%23%23" target="weibo">
+#习近平同黑山总统互致贺电#
 </a>
 </li>
 
