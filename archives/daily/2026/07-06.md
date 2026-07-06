@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/07/06 00:17:05 ~ 2026/07/06 18:51:41
+本榜单时间：2026/07/06 00:17:05 ~ 2026/07/06 21:05:52
 </p>
 </blockquote>
 <p>
@@ -35,6 +35,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E9%BB%91%E5%B1%B1%E6%80%BB%E7%BB%9F%E4%BA%92%E8%87%B4%E8%B4%BA%E7%94%B5%23%23" target="weibo">
 #习近平同黑山总统互致贺电#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%87%B4%E7%94%B5%E7%A5%9D%E8%B4%BA%E8%97%A4%E6%A3%AE%E5%BA%86%E5%AD%90%E5%BD%93%E9%80%89%E7%A7%98%E9%B2%81%E6%80%BB%E7%BB%9F%23%23" target="weibo">
+#习近平致电祝贺藤森庆子当选秘鲁总统#
 </a>
 </li>
 
