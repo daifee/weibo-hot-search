@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/07/01 01:24:42 ~ 2026/07/09 07:37:07
+本榜单时间：2026/07/01 01:24:42 ~ 2026/07/09 11:51:46
 </p>
 </blockquote>
 <p>
@@ -185,6 +185,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%91%E9%99%88%E7%AB%8B%E6%B3%89%E8%B4%B2%E5%BE%B7%E9%A2%81%E5%8F%91%E5%A5%96%E7%AB%A0%E8%AF%81%E4%B9%A6%23%23" target="weibo">
 #习近平向陈立泉贲德颁发奖章证书#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%BF%99%E6%A0%B7%E8%B5%9E%E9%A2%82%E7%A7%91%E6%8A%80%E5%B7%A5%E4%BD%9C%E8%80%85%E6%A5%B7%E6%A8%A1%23%23" target="weibo">
+#习近平这样赞颂科技工作者楷模#
 </a>
 </li>
 
