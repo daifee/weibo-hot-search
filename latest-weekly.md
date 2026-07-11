@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/07/05 00:33:46 ~ 2026/07/11 08:06:19
+本榜单时间：2026/07/05 00:33:46 ~ 2026/07/11 11:53:00
 </p>
 </blockquote>
 <p>
@@ -137,6 +137,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E6%96%B0%E6%97%B6%E4%BB%A3%E4%B8%AD%E7%BA%B3%E5%91%BD%E8%BF%90%E5%85%B1%E5%90%8C%E4%BD%93%23%23" target="weibo">
 #新时代中纳命运共同体#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%B8%8E%E9%87%91%E6%AD%A3%E6%81%A9%E4%BA%92%E8%87%B4%E8%B4%BA%E7%94%B5%23%23" target="weibo">
+#习近平与金正恩互致贺电#
 </a>
 </li>
 
