@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/07/01 01:24:42 ~ 2026/07/12 09:03:11
+本榜单时间：2026/07/01 01:24:42 ~ 2026/07/12 12:30:51
 </p>
 </blockquote>
 <p>
@@ -245,6 +245,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E6%80%BB%E4%B9%A6%E8%AE%B0%E7%89%B5%E6%8C%82%E5%8F%97%E7%81%BE%E7%9A%84%E5%9C%B0%E6%96%B9%23%23" target="weibo">
 #总书记牵挂受灾的地方#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E6%80%BB%E4%B9%A6%E8%AE%B0%E8%BF%99%E6%A0%B7%E5%8B%89%E5%8A%B1%E7%A7%91%E6%8A%80%E5%B7%A5%E4%BD%9C%E8%80%85%23%23" target="weibo">
+#总书记这样勉励科技工作者#
 </a>
 </li>
 
