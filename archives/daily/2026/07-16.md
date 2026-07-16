@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/07/16 00:41:51 ~ 2026/07/16 15:37:21
+本榜单时间：2026/07/16 00:41:51 ~ 2026/07/16 18:18:27
 </p>
 </blockquote>
 <p>
@@ -35,6 +35,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E8%B7%9F%E7%9D%80%E6%80%BB%E4%B9%A6%E8%AE%B0%E6%84%9F%E6%82%9F%E4%BA%BA%E6%B0%91%E5%9F%8E%E5%B8%82%E7%9A%84%E6%96%B0%E4%B8%8E%E5%BF%83%23%23" target="weibo">
 #跟着总书记感悟人民城市的新与心#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E5%85%A8%E9%9D%A2%E8%B7%B5%E8%A1%8C%E4%BA%BA%E6%B0%91%E5%9F%8E%E5%B8%82%E7%90%86%E5%BF%B5%23%23" target="weibo">
+#全面践行人民城市理念#
 </a>
 </li>
 
