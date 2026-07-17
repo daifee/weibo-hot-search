@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/07/17 00:00:52 ~ 2026/07/17 14:24:48
+本榜单时间：2026/07/17 00:00:52 ~ 2026/07/17 15:34:33
 </p>
 </blockquote>
 <p>
@@ -35,6 +35,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%9C%A8%E4%B8%8A%E6%B5%B7%E8%80%83%E5%AF%9F%E7%BA%AA%E5%AE%9E%23%23" target="weibo">
 #习近平总书记在上海考察纪实#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E6%90%BA%E6%89%8B%E6%9E%84%E5%BB%BA%E5%85%AC%E6%AD%A3%E5%90%88%E7%90%86%E7%9A%84%E5%85%A8%E7%90%83%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%B2%BB%E7%90%86%E4%BD%93%E7%B3%BB%23%23" target="weibo">
+#携手构建公正合理的全球人工智能治理体系#
 </a>
 </li>
 
