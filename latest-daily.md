@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/07/17 00:00:52 ~ 2026/07/17 19:52:03
+本榜单时间：2026/07/17 00:00:52 ~ 2026/07/17 21:52:35
 </p>
 </blockquote>
 <p>
@@ -47,6 +47,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%B8%BB%E6%97%A8%E8%AE%B2%E8%AF%9D%E5%85%A8%E6%96%87%23%23" target="weibo">
 #习近平主旨讲话全文#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%B0%B1%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%85%A8%E7%90%83%E6%B2%BB%E7%90%86%E6%8F%90%E5%87%BA4%E7%82%B9%E6%84%8F%E8%A7%81%23%23" target="weibo">
+#习近平就人工智能全球治理提出4点意见#
 </a>
 </li>
 
