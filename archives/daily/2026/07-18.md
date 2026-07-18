@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/07/18 01:20:10 ~ 2026/07/18 11:16:06
+本榜单时间：2026/07/18 01:20:10 ~ 2026/07/18 12:23:47
 </p>
 </blockquote>
 <p>
@@ -35,6 +35,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%AF%B9%E9%87%8D%E5%BA%86%E5%BD%AD%E6%B0%B4%E5%B1%B1%E4%BD%93%E5%B4%A9%E5%A1%8C%E4%BD%9C%E9%87%8D%E8%A6%81%E6%8C%87%E7%A4%BA%23%23" target="weibo">
 #习近平对重庆彭水山体崩塌作重要指示#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E8%AF%BB%E6%87%82%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%B8%BB%E5%B8%AD%E7%9A%84%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%8D%83%E9%87%8C%E9%A9%AC%E4%B9%8B%E5%96%BB%23%23" target="weibo">
+#读懂习近平主席的人工智能千里马之喻#
 </a>
 </li>
 
