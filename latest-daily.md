@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/07/18 01:20:10 ~ 2026/07/18 21:39:22
+本榜单时间：2026/07/18 01:20:10 ~ 2026/07/18 21:58:53
 </p>
 </blockquote>
 <p>
@@ -53,6 +53,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E7%A7%91%E5%AD%A6%E7%BB%84%E7%BB%87%E6%90%9C%E6%95%91%E9%98%B2%E6%AD%A2%E5%8F%91%E7%94%9F%E6%AC%A1%E7%94%9F%E7%81%BE%E5%AE%B3%23%23" target="weibo">
 #科学组织搜救防止发生次生灾害#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%BB%A5%E5%8D%83%E9%87%8C%E9%A9%AC%E5%96%BB%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23%23" target="weibo">
+#习近平以千里马喻人工智能#
 </a>
 </li>
 
