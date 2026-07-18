@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/07/01 01:24:42 ~ 2026/07/18 16:54:29
+本榜单时间：2026/07/01 01:24:42 ~ 2026/07/18 17:56:05
 </p>
 </blockquote>
 <p>
@@ -365,6 +365,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E8%AF%BB%E6%87%82%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%B8%BB%E5%B8%AD%E7%9A%84%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%8D%83%E9%87%8C%E9%A9%AC%E4%B9%8B%E5%96%BB%23%23" target="weibo">
 #读懂习近平主席的人工智能千里马之喻#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%80%BB%E4%B9%A6%E8%AE%B0%E4%B8%8A%E6%B5%B7%E8%A1%8C%23%23" target="weibo">
+#习近平总书记上海行#
 </a>
 </li>
 
