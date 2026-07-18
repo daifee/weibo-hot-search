@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/07/01 01:24:42 ~ 2026/07/18 17:56:05
+本榜单时间：2026/07/01 01:24:42 ~ 2026/07/18 18:25:25
 </p>
 </blockquote>
 <p>
@@ -371,6 +371,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%80%BB%E4%B9%A6%E8%AE%B0%E4%B8%8A%E6%B5%B7%E8%A1%8C%23%23" target="weibo">
 #习近平总书记上海行#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E7%A7%91%E5%AD%A6%E7%BB%84%E7%BB%87%E6%90%9C%E6%95%91%E9%98%B2%E6%AD%A2%E5%8F%91%E7%94%9F%E6%AC%A1%E7%94%9F%E7%81%BE%E5%AE%B3%23%23" target="weibo">
+#科学组织搜救防止发生次生灾害#
 </a>
 </li>
 
