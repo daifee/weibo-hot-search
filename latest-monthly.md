@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/07/01 01:24:42 ~ 2026/07/19 21:38:36
+本榜单时间：2026/07/01 01:24:42 ~ 2026/07/19 22:02:25
 </p>
 </blockquote>
 <p>
@@ -395,6 +395,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E6%95%B0%E5%8D%81%E5%9B%BD%E4%BB%A3%E8%A1%A8%E4%B8%BA%E4%BD%95%E9%BD%90%E8%81%9A%E4%B8%8A%E6%B5%B7%E4%B8%96%E7%95%8C%E4%BC%9A%E5%AE%A2%E5%8E%85%23%23" target="weibo">
 #数十国代表为何齐聚上海世界会客厅#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E5%90%91%E4%B8%8A%E5%90%91%E5%96%84%E9%80%A0%E7%A6%8F%E4%BA%BA%E7%B1%BB%23%23" target="weibo">
+#向上向善造福人类#
 </a>
 </li>
 
