@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/07/19 00:07:11 ~ 2026/07/20 19:22:52
+本榜单时间：2026/07/19 00:07:11 ~ 2026/07/20 21:13:27
 </p>
 </blockquote>
 <p>
@@ -41,6 +41,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E5%90%91%E4%B8%8A%E5%90%91%E5%96%84%E9%80%A0%E7%A6%8F%E4%BA%BA%E7%B1%BB%23%23" target="weibo">
 #向上向善造福人类#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%BC%95%E7%94%A8%E4%B8%AD%E5%9B%BD%E5%8F%A4%E8%AF%AD%E8%B0%88%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23%23" target="weibo">
+#习近平引用中国古语谈人工智能#
 </a>
 </li>
 
