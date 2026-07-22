@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/07/01 01:24:42 ~ 2026/07/22 15:09:23
+本榜单时间：2026/07/01 01:24:42 ~ 2026/07/22 17:33:21
 </p>
 </blockquote>
 <p>
@@ -419,6 +419,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%9E%A9%E6%9C%9B%E7%9A%84%E4%BA%BA%E6%B0%91%E5%9F%8E%E5%B8%82%23%23" target="weibo">
 #习近平瞩望的人民城市#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%80%BB%E4%B9%A6%E8%AE%B0%E4%B8%80%E7%9B%B4%E9%9D%9E%E5%B8%B8%E9%87%8D%E8%A7%86%E5%9F%BA%E7%A1%80%E6%95%99%E8%82%B2%23%23" target="weibo">
+#习近平总书记一直非常重视基础教育#
 </a>
 </li>
 
