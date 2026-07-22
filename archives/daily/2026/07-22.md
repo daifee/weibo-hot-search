@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/07/22 00:29:01 ~ 2026/07/22 17:57:55
+本榜单时间：2026/07/22 00:29:01 ~ 2026/07/22 19:54:23
 </p>
 </blockquote>
 <p>
@@ -35,6 +35,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%80%BB%E4%B9%A6%E8%AE%B0%E4%B8%80%E7%9B%B4%E9%9D%9E%E5%B8%B8%E9%87%8D%E8%A7%86%E5%9F%BA%E7%A1%80%E6%95%99%E8%82%B2%23%23" target="weibo">
 #习近平总书记一直非常重视基础教育#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%AF%B9%E5%9F%BA%E7%A1%80%E6%95%99%E8%82%B2%E5%B7%A5%E4%BD%9C%E4%BD%9C%E5%87%BA%E9%87%8D%E8%A6%81%E6%8C%87%E7%A4%BA%23%23" target="weibo">
+#习近平对基础教育工作作出重要指示#
 </a>
 </li>
 
