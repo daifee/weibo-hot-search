@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/07/19 00:07:11 ~ 2026/07/25 18:09:05
+本榜单时间：2026/07/19 00:07:11 ~ 2026/07/25 19:18:42
 </p>
 </blockquote>
 <p>
@@ -113,6 +113,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E7%BB%99%E6%88%90%E9%95%BF%E5%BF%AB%E7%9A%84%E5%AD%A9%E5%AD%90%E6%8D%A2%E4%B8%8A%E4%B8%80%E4%BB%B6%E5%A4%A7%E8%A1%A3%E6%9C%8D%23%23" target="weibo">
 #给成长快的孩子换上一件大衣服#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E5%85%B1%E4%BA%A7%E5%85%9A%E5%B0%B1%E6%98%AF%E7%BB%99%E8%80%81%E7%99%BE%E5%A7%93%E5%8A%9E%E4%BA%8B%E7%9A%84%23%23" target="weibo">
+#共产党就是给老百姓办事的#
 </a>
 </li>
 
