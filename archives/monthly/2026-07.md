@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/07/01 01:24:42 ~ 2026/07/27 13:07:42
+本榜单时间：2026/07/01 01:24:42 ~ 2026/07/27 16:38:52
 </p>
 </blockquote>
 <p>
@@ -497,6 +497,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%BF%83%E7%B3%BB%E4%B8%AD%E5%8D%8E%E7%91%B0%E5%AE%9D%23%23" target="weibo">
 #总书记心系中华瑰宝#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E5%8D%A2%E6%8B%89%E9%80%9A%E7%94%B5%E8%AF%9D%23%23" target="weibo">
+#习近平同卢拉通电话#
 </a>
 </li>
 
