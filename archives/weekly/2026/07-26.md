@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/07/26 01:08:03 ~ 2026/07/30 15:13:46
+本榜单时间：2026/07/26 01:08:03 ~ 2026/07/30 16:38:55
 </p>
 </blockquote>
 <p>
@@ -95,6 +95,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%BF%83%E7%B3%BB%E4%BE%A8%E5%8A%A1%E5%B7%A5%E4%BD%9C%23%23" target="weibo">
 #总书记心系侨务工作#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E4%BA%8C%E5%8D%81%E5%B1%8A%E4%BA%94%E4%B8%AD%E5%85%A8%E4%BC%9A%E4%BB%8A%E5%B9%B410%E6%9C%88%E5%8F%AC%E5%BC%80%23%23" target="weibo">
+#二十届五中全会今年10月召开#
 </a>
 </li>
 
