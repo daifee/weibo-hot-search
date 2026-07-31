@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/07/26 01:08:03 ~ 2026/07/31 15:56:50
+本榜单时间：2026/07/26 01:08:03 ~ 2026/07/31 16:17:30
 </p>
 </blockquote>
 <p>
@@ -119,6 +119,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E6%9C%89%E4%B8%80%E7%A7%8D%E5%BD%93%E7%BA%A2%E5%8F%AB%E4%B8%AD%E5%9B%BD%E5%86%9B%E4%BA%BA%23%23" target="weibo">
 #有一种当红叫中国军人#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE%E6%94%BF%E6%B2%BB%E5%B1%80%E7%AC%AC%E4%BA%8C%E5%8D%81%E4%B8%83%E6%AC%A1%E9%9B%86%E4%BD%93%E5%AD%A6%E4%B9%A0%23%23" target="weibo">
+#中共中央政治局第二十七次集体学习#
 </a>
 </li>
 
