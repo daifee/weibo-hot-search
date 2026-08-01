@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/07/26 01:08:03 ~ 2026/08/01 19:42:22
+本榜单时间：2026/07/26 01:08:03 ~ 2026/08/01 21:42:21
 </p>
 </blockquote>
 <p>
@@ -155,6 +155,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E7%BB%9F%E5%B8%85%E4%B8%8E%E5%A3%AB%E5%85%B5%E5%BF%83%E8%BF%9E%E5%BF%83%23%23" target="weibo">
 #统帅与士兵心连心#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E7%BB%9F%E5%B8%85%E7%9A%84%E7%88%B1%E5%85%B5%E4%B9%8B%E6%83%85%23%23" target="weibo">
+#统帅的爱兵之情#
 </a>
 </li>
 
