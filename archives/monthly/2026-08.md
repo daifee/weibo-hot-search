@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/08/01 01:47:45 ~ 2026/08/04 20:07:16
+本榜单时间：2026/08/01 01:47:45 ~ 2026/08/04 20:26:51
 </p>
 </blockquote>
 <p>
@@ -95,6 +95,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%B7%B1%E6%83%85%E7%A4%BC%E8%B5%9E%E6%96%B0%E6%97%B6%E4%BB%A3%E8%8B%B1%E9%9B%84%23%23" target="weibo">
 #习近平深情礼赞新时代英雄#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E4%B8%8B%E5%8D%8A%E5%B9%B4%E7%BB%8F%E6%B5%8E%E5%B7%A5%E4%BD%9C%E9%83%A8%E7%BD%B2%E6%8F%90%E5%88%B0%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23%23" target="weibo">
+#下半年经济工作部署提到人工智能#
 </a>
 </li>
 
