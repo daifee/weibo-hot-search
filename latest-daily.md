@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/08/06 00:48:01 ~ 2026/08/06 12:41:42
+本榜单时间：2026/08/06 00:48:01 ~ 2026/08/06 15:45:58
 </p>
 </blockquote>
 <p>
@@ -29,6 +29,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E6%B7%B1%E5%85%A5%E5%AD%A6%E4%B9%A0%E9%A2%86%E4%BC%9A%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%85%9A%E5%BB%BA%E6%80%9D%E6%83%B3%23%23" target="weibo">
 #深入学习领会习近平党建思想#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E4%B8%9C%E6%96%B9%E4%B9%8B%E7%BA%A6%E7%9B%B8%E7%BA%A6%E6%9C%AA%E6%9D%A5%23%23" target="weibo">
+#东方之约相约未来#
 </a>
 </li>
 

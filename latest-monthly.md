@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/08/01 01:47:45 ~ 2026/08/06 12:41:42
+本榜单时间：2026/08/01 01:47:45 ~ 2026/08/06 15:45:58
 </p>
 </blockquote>
 <p>
@@ -113,6 +113,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E9%87%8D%E6%B8%A9%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%9C%A8%E5%9C%B0%E6%96%B9%E5%B7%A5%E4%BD%9C%E6%97%B6%E7%9A%84%E7%82%B9%E6%BB%B4%E7%9E%AC%E9%97%B4%23%23" target="weibo">
 #重温总书记在地方工作时的点滴瞬间#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E4%B8%9C%E6%96%B9%E4%B9%8B%E7%BA%A6%E7%9B%B8%E7%BA%A6%E6%9C%AA%E6%9D%A5%23%23" target="weibo">
+#东方之约相约未来#
 </a>
 </li>
 
