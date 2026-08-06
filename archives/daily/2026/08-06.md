@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/08/06 00:48:01 ~ 2026/08/06 08:53:31
+本榜单时间：2026/08/06 00:48:01 ~ 2026/08/06 12:19:50
 </p>
 </blockquote>
 <p>
@@ -23,6 +23,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E9%87%8D%E6%B8%A9%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%9C%A8%E5%9C%B0%E6%96%B9%E5%B7%A5%E4%BD%9C%E6%97%B6%E7%9A%84%E7%82%B9%E6%BB%B4%E7%9E%AC%E9%97%B4%23%23" target="weibo">
 #重温总书记在地方工作时的点滴瞬间#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E6%B7%B1%E5%85%A5%E5%AD%A6%E4%B9%A0%E9%A2%86%E4%BC%9A%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%85%9A%E5%BB%BA%E6%80%9D%E6%83%B3%23%23" target="weibo">
+#深入学习领会习近平党建思想#
 </a>
 </li>
 
