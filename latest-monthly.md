@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/08/01 01:47:45 ~ 2026/08/08 16:09:12
+本榜单时间：2026/08/01 01:47:45 ~ 2026/08/08 16:52:02
 </p>
 </blockquote>
 <p>
@@ -149,6 +149,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%BF%83%E7%B3%BB%E4%BD%93%E8%82%B2%E5%BC%BA%E5%9B%BD%E5%BB%BA%E8%AE%BE%23%23" target="weibo">
 #习近平心系体育强国建设#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E4%BA%BA%E4%B9%8B%E7%9B%B8%E7%9F%A5%E8%B4%B5%E5%9C%A8%E7%9F%A5%E5%BF%83%23%23" target="weibo">
+#人之相知贵在知心#
 </a>
 </li>
 
