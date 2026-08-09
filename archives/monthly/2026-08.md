@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/08/01 01:47:45 ~ 2026/08/09 19:56:43
+本榜单时间：2026/08/01 01:47:45 ~ 2026/08/09 21:04:29
 </p>
 </blockquote>
 <p>
@@ -167,6 +167,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%80%BB%E4%B9%A6%E8%AE%B0%E4%BB%8A%E5%B9%B4%E4%BB%A5%E6%9D%A5%E6%B2%BB%E5%9B%BD%E7%90%86%E6%94%BF%E7%BA%AA%E5%AE%9E%23%23" target="weibo">
 #习近平总书记今年以来治国理政纪实#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E5%81%A5%E5%85%A8%E4%B8%8A%E4%B8%8B%E8%B4%AF%E9%80%9A%E6%89%A7%E8%A1%8C%E6%9C%89%E5%8A%9B%E7%9A%84%E7%BB%84%E7%BB%87%E4%BD%93%E7%B3%BB%23%23" target="weibo">
+#健全上下贯通执行有力的组织体系#
 </a>
 </li>
 
