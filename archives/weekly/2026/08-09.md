@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/08/09 00:42:47 ~ 2026/08/14 10:25:05
+本榜单时间：2026/08/09 00:42:47 ~ 2026/08/14 11:08:07
 </p>
 </blockquote>
 <p>
@@ -89,6 +89,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%BF%83%E7%B3%BB%E5%9B%BD%E5%AE%B6%E5%85%AC%E5%9B%AD%23%23" target="weibo">
 #总书记心系国家公园#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E6%80%BB%E4%B9%A6%E8%AE%B0%E7%94%A8%E8%BF%99%E4%BA%9B%E5%8F%A4%E8%AF%AD%E9%98%90%E9%87%8A%E8%87%AA%E7%84%B6%E4%B9%8B%E9%81%93%23%23" target="weibo">
+#总书记用这些古语阐释自然之道#
 </a>
 </li>
 
