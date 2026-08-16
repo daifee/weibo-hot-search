@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/08/01 01:47:45 ~ 2026/08/16 19:45:43
+本榜单时间：2026/08/01 01:47:45 ~ 2026/08/16 20:52:05
 </p>
 </blockquote>
 <p>
@@ -263,6 +263,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%A7%8D%E4%B8%8B%E7%9A%84%E4%B8%89%E6%A3%B5%E6%9D%89%E6%A0%91%23%23" target="weibo">
 #习近平种下的三棵杉树#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E5%88%87%E5%AE%9E%E6%8B%85%E8%B4%9F%E8%B5%B7%E7%AE%A1%E5%85%9A%E6%B2%BB%E5%85%9A%E6%94%BF%E6%B2%BB%E8%B4%A3%E4%BB%BB%23%23" target="weibo">
+#切实担负起管党治党政治责任#
 </a>
 </li>
 
