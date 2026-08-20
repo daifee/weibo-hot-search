@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/08/20 00:39:42 ~ 2026/08/20 16:06:32
+本榜单时间：2026/08/20 00:39:42 ~ 2026/08/20 16:48:14
 </p>
 </blockquote>
 <p>
@@ -23,6 +23,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%BF%83%E7%B3%BB%E5%8C%BB%E5%8A%A1%E5%B7%A5%E4%BD%9C%E8%80%85%23%23" target="weibo">
 #总书记心系医务工作者#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E6%80%BB%E4%B9%A6%E8%AE%B0%E6%8C%87%E5%BC%95%E5%AE%A3%E4%BC%A0%E6%80%9D%E6%83%B3%E6%96%87%E5%8C%96%E5%B7%A5%E4%BD%9C%23%23" target="weibo">
+#总书记指引宣传思想文化工作#
 </a>
 </li>
 
