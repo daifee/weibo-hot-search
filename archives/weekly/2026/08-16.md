@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/08/16 00:33:31 ~ 2026/08/21 18:58:39
+本榜单时间：2026/08/16 00:33:31 ~ 2026/08/21 19:34:12
 </p>
 </blockquote>
 <p>
@@ -83,6 +83,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E6%80%BB%E4%B9%A6%E8%AE%B0%E4%B8%BA%E5%90%84%E5%9C%B0%E5%9F%B9%E8%82%B2%E5%8F%91%E5%B1%95%E6%96%B0%E5%8A%A8%E8%83%BD%E6%8C%87%E6%98%8E%E6%96%B9%E5%90%91%23%23" target="weibo">
 #总书记为各地培育发展新动能指明方向#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E7%BB%BF%E6%88%91%E6%B6%93%E6%BB%B4%E4%BC%9A%E5%AE%83%E5%8D%83%E9%A1%B7%E6%BE%84%E7%A2%A7%23%23" target="weibo">
+#绿我涓滴会它千顷澄碧#
 </a>
 </li>
 
