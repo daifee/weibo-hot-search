@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/08/01 01:47:45 ~ 2026/08/22 18:50:14
+本榜单时间：2026/08/01 01:47:45 ~ 2026/08/22 19:28:04
 </p>
 </blockquote>
 <p>
@@ -323,6 +323,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E4%B8%80%E6%9D%A1%E6%9D%BF%E5%87%B3%E8%BF%9E%E6%B0%91%E5%BF%83%23%23" target="weibo">
 #一条板凳连民心#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E4%B8%80%E4%BB%BD20%E4%B8%87%E5%AD%97%E7%9A%84%E6%88%98%E7%95%A5%E6%93%98%E7%94%BB%23%23" target="weibo">
+#一份20万字的战略擘画#
 </a>
 </li>
 
