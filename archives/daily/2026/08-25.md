@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/08/25 00:06:10 ~ 2026/08/25 14:59:06
+本榜单时间：2026/08/25 00:06:10 ~ 2026/08/25 15:26:51
 </p>
 </blockquote>
 <p>
@@ -35,6 +35,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E6%A0%91%E7%AB%8B%E9%87%8D%E5%AE%9E%E5%B9%B2%E9%87%8D%E5%AE%9E%E7%BB%A9%E7%9A%84%E9%80%89%E4%BA%BA%E7%94%A8%E4%BA%BA%E5%AF%BC%E5%90%91%23%23" target="weibo">
 #树立重实干重实绩的选人用人导向#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E4%BB%A5%E9%80%A0%E7%A6%8F%E4%BA%BA%E6%B0%91%E4%B8%BA%E6%9C%80%E5%A4%A7%E6%94%BF%E7%BB%A9%23%23" target="weibo">
+#以造福人民为最大政绩#
 </a>
 </li>
 
