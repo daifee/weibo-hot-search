@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/08/23 00:33:21 ~ 2026/08/25 11:27:47
+本榜单时间：2026/08/23 00:33:21 ~ 2026/08/25 12:09:59
 </p>
 </blockquote>
 <p>
@@ -59,6 +59,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E7%BA%A6%E6%97%A6%E5%9B%BD%E7%8E%8B%E9%98%BF%E5%8D%9C%E6%9D%9C%E6%8B%89%E4%BA%8C%E4%B8%96%E4%BC%9A%E8%B0%88%23%23" target="weibo">
 #习近平同约旦国王阿卜杜拉二世会谈#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E6%A0%91%E7%AB%8B%E9%87%8D%E5%AE%9E%E5%B9%B2%E9%87%8D%E5%AE%9E%E7%BB%A9%E7%9A%84%E9%80%89%E4%BA%BA%E7%94%A8%E4%BA%BA%E5%AF%BC%E5%90%91%23%23" target="weibo">
+#树立重实干重实绩的选人用人导向#
 </a>
 </li>
 
