@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/08/01 01:47:45 ~ 2026/08/26 19:57:10
+本榜单时间：2026/08/01 01:47:45 ~ 2026/08/26 21:04:44
 </p>
 </blockquote>
 <p>
@@ -389,6 +389,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E6%8A%8A%E6%AD%A3%E7%A1%AE%E6%94%BF%E7%BB%A9%E8%A7%82%E6%A0%91%E8%B5%B7%E6%9D%A5%E8%B7%B5%E8%A1%8C%E5%A5%BD%23%23" target="weibo">
 #把正确政绩观树起来践行好#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%AF%B9%E8%A5%BF%E8%97%8F%E6%B3%A5%E7%9F%B3%E6%B5%81%E7%81%BE%E5%AE%B3%E4%BD%9C%E5%87%BA%E9%87%8D%E8%A6%81%E6%8C%87%E7%A4%BA%23%23" target="weibo">
+#习近平对西藏泥石流灾害作出重要指示#
 </a>
 </li>
 
