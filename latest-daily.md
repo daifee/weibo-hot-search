@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/08/26 00:09:58 ~ 2026/08/26 15:26:52
+本榜单时间：2026/08/26 00:09:58 ~ 2026/08/26 15:55:37
 </p>
 </blockquote>
 <p>
@@ -29,6 +29,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E6%8A%8A%E6%AD%A3%E7%A1%AE%E6%94%BF%E7%BB%A9%E8%A7%82%E6%A0%91%E8%B5%B7%E6%9D%A5%E8%B7%B5%E8%A1%8C%E5%A5%BD%23%23" target="weibo">
 #把正确政绩观树起来践行好#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E4%BB%A5%E9%80%A0%E7%A6%8F%E4%BA%BA%E6%B0%91%E4%B8%BA%E6%9C%80%E5%A4%A7%E6%94%BF%E7%BB%A9%23%23" target="weibo">
+#以造福人民为最大政绩#
 </a>
 </li>
 
