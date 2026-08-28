@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/08/23 00:33:21 ~ 2026/08/28 13:34:49
+本榜单时间：2026/08/23 00:33:21 ~ 2026/08/29 01:17:41
 </p>
 </blockquote>
 <p>
@@ -113,6 +113,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%BF%83%E4%B8%AD%E7%9A%84%E6%9C%80%E5%A4%A7%E6%94%BF%E7%BB%A9%23%23" target="weibo">
 #习近平心中的最大政绩#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E5%90%91%E5%90%89%E9%9A%86%E6%B3%A5%E7%9F%B3%E6%B5%81%E7%81%BE%E5%AE%B3%E9%81%87%E9%9A%BE%E4%BA%BA%E5%91%98%E9%BB%98%E5%93%80%23%23" target="weibo">
+#向吉隆泥石流灾害遇难人员默哀#
 </a>
 </li>
 
