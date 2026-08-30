@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/08/01 01:47:45 ~ 2026/08/30 20:08:00
+本榜单时间：2026/08/01 01:47:45 ~ 2026/08/31 00:29:10
 </p>
 </blockquote>
 <p>
@@ -443,6 +443,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%A6%BB%E4%BA%AC%E5%87%BA%E5%B8%AD2026%E4%B8%8A%E5%90%88%E5%B3%B0%E4%BC%9A%23%23" target="weibo">
 #习近平离京出席2026上合峰会#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E4%B8%BB%E5%B8%AD%E8%AE%BF%E9%97%AE%E5%90%89%E5%B0%94%E5%90%89%E6%96%AF%E6%96%AF%E5%9D%A6%23%23" target="weibo">
+#习主席访问吉尔吉斯斯坦#
 </a>
 </li>
 
