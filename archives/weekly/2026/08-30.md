@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/08/30 02:18:19 ~ 2026/09/01 09:11:58
+本榜单时间：2026/08/30 02:18:19 ~ 2026/09/01 14:28:09
 </p>
 </blockquote>
 <p>
@@ -59,6 +59,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%94%A8%E5%90%89%E5%B0%94%E5%90%89%E6%96%AF%E8%AF%AD%E5%90%91%E4%BB%AA%E4%BB%97%E9%98%9F%E5%91%98%E9%97%AE%E5%A5%BD%23%23" target="weibo">
 #习近平用吉尔吉斯语向仪仗队员问好#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E4%B8%BB%E5%B8%AD%E4%B8%80%E4%B8%AA%E4%B8%8B%E5%8D%88%E5%85%88%E5%90%8E%E4%BC%9A%E8%A7%81%E4%B8%89%E5%9B%BD%E6%80%BB%E7%BB%9F%23%23" target="weibo">
+#习主席一个下午先后会见三国总统#
 </a>
 </li>
 
