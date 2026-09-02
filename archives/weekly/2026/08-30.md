@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/08/30 02:18:19 ~ 2026/09/02 16:42:46
+本榜单时间：2026/08/30 02:18:19 ~ 2026/09/02 19:36:43
 </p>
 </blockquote>
 <p>
@@ -95,6 +95,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E4%B8%AD%E5%9F%83%E4%BC%A0%E7%BB%9F%E5%8F%8B%E8%B0%8A%E7%BB%B5%E5%BB%B6%E5%8D%83%E5%B9%B4%E5%8E%86%E4%B9%85%E5%BC%A5%E5%9D%9A%23%23" target="weibo">
 #中埃传统友谊绵延千年历久弥坚#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E5%9F%83%E5%8F%8A%E6%80%BB%E7%BB%9F%E5%A1%9E%E8%A5%BF%E4%BC%9A%E8%B0%88%23%23" target="weibo">
+#习近平同埃及总统塞西会谈#
 </a>
 </li>
 
