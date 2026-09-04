@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/08/30 02:18:19 ~ 2026/09/04 12:58:41
+本榜单时间：2026/08/30 02:18:19 ~ 2026/09/04 16:51:02
 </p>
 </blockquote>
 <p>
@@ -143,6 +143,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%BF%83%E4%B8%AD%E7%9A%84%E4%B8%8A%E5%90%88%E5%A4%A7%E5%AE%B6%E5%BA%AD%23%23" target="weibo">
 #习近平心中的上合大家庭#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%B8%BB%E5%B8%AD%E6%80%BB%E7%BB%93%E4%B8%AD%E5%9F%83%E5%85%B3%E7%B3%BB70%E5%B9%B4%E9%B2%9C%E6%98%8E%E7%89%B9%E5%BE%81%23%23" target="weibo">
+#习近平主席总结中埃关系70年鲜明特征#
 </a>
 </li>
 
