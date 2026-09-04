@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/09/04 01:46:29 ~ 2026/09/04 17:58:18
+本榜单时间：2026/09/04 01:46:29 ~ 2026/09/04 21:24:30
 </p>
 </blockquote>
 <p>
@@ -41,6 +41,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%B8%BB%E5%B8%AD%E6%80%BB%E7%BB%93%E4%B8%AD%E5%9F%83%E5%85%B3%E7%B3%BB70%E5%B9%B4%E9%B2%9C%E6%98%8E%E7%89%B9%E5%BE%81%23%23" target="weibo">
 #习近平主席总结中埃关系70年鲜明特征#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%87%B4%E4%BF%A1%E7%A5%9D%E8%B4%BA%E5%B0%8F%E5%96%87%E5%8F%AD%E5%BC%80%E6%92%AD70%E5%91%A8%E5%B9%B4%23%23" target="weibo">
+#习近平致信祝贺小喇叭开播70周年#
 </a>
 </li>
 
