@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/09/01 01:00:03 ~ 2026/09/04 08:21:04
+本榜单时间：2026/09/01 01:00:03 ~ 2026/09/04 11:58:57
 </p>
 </blockquote>
 <p>
@@ -107,6 +107,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%B8%BA%E8%B7%B5%E8%A1%8C%E5%85%A8%E7%90%83%E6%B2%BB%E7%90%86%E5%80%A1%E8%AE%AE%E5%87%9D%E5%BF%83%E8%81%9A%E5%8A%9B%23%23" target="weibo">
 #习近平为践行全球治理倡议凝心聚力#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%BF%83%E4%B8%AD%E7%9A%84%E4%B8%8A%E5%90%88%E5%A4%A7%E5%AE%B6%E5%BA%AD%23%23" target="weibo">
+#习近平心中的上合大家庭#
 </a>
 </li>
 

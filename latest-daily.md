@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/09/04 01:46:29 ~ 2026/09/04 08:21:04
+本榜单时间：2026/09/04 01:46:29 ~ 2026/09/04 11:58:57
 </p>
 </blockquote>
 <p>
@@ -29,6 +29,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%86%8D%E8%B0%88%E4%B8%8A%E5%90%88%E5%88%9D%E5%BF%83%23%23" target="weibo">
 #习近平再谈上合初心#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%BF%83%E4%B8%AD%E7%9A%84%E4%B8%8A%E5%90%88%E5%A4%A7%E5%AE%B6%E5%BA%AD%23%23" target="weibo">
+#习近平心中的上合大家庭#
 </a>
 </li>
 
