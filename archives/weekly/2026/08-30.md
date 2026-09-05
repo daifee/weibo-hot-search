@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/08/30 02:18:19 ~ 2026/09/05 18:51:03
+本榜单时间：2026/08/30 02:18:19 ~ 2026/09/05 21:50:33
 </p>
 </blockquote>
 <p>
@@ -167,6 +167,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23100%E7%A7%92%E7%9C%8B%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%B9%81%E5%BF%99%E7%9A%84%E4%BA%9A%E9%9D%9E%E4%B9%8B%E8%A1%8C%23%23" target="weibo">
 #100秒看习近平繁忙的亚非之行#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%B8%BB%E5%B8%AD%E4%B8%AD%E4%BA%9A%E4%B8%AD%E4%B8%9C%E4%B9%8B%E6%97%85%E9%9A%BE%E5%BF%98%E7%9E%AC%E9%97%B4%23%23" target="weibo">
+#习近平主席中亚中东之旅难忘瞬间#
 </a>
 </li>
 
