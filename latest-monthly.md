@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/09/01 01:00:03 ~ 2026/09/05 09:13:58
+本榜单时间：2026/09/01 01:00:03 ~ 2026/09/05 13:31:35
 </p>
 </blockquote>
 <p>
@@ -125,6 +125,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%87%B4%E4%BF%A1%E7%A5%9D%E8%B4%BA%E5%B0%8F%E5%96%87%E5%8F%AD%E5%BC%80%E6%92%AD70%E5%91%A8%E5%B9%B4%23%23" target="weibo">
 #习近平致信祝贺小喇叭开播70周年#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E5%85%A8%E6%99%AF%E8%AE%B0%E5%BD%95%E4%B9%A0%E4%B8%BB%E5%B8%AD%E4%B8%AD%E4%BA%9A%E4%B8%AD%E4%B8%9C%E4%B9%8B%E8%A1%8C%23%23" target="weibo">
+#全景记录习主席中亚中东之行#
 </a>
 </li>
 
