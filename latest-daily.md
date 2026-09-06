@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/09/06 00:44:26 ~ 2026/09/06 19:13:14
+本榜单时间：2026/09/06 00:44:26 ~ 2026/09/06 20:48:47
 </p>
 </blockquote>
 <p>
@@ -35,6 +35,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%BF%83%E7%B3%BB%E7%A7%91%E6%8A%80%E5%88%9B%E6%96%B0%23%23" target="weibo">
 #总书记心系科技创新#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%BF%83%E7%B3%BB%E9%9D%92%E5%B9%B4%E7%A7%91%E6%8A%80%E5%B7%A5%E4%BD%9C%E8%80%85%23%23" target="weibo">
+#习近平心系青年科技工作者#
 </a>
 </li>
 
