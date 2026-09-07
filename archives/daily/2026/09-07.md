@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/09/07 00:08:48 ~ 2026/09/07 14:22:16
+本榜单时间：2026/09/07 00:08:48 ~ 2026/09/07 17:16:58
 </p>
 </blockquote>
 <p>
@@ -29,6 +29,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E4%B8%BB%E5%B8%AD%E4%B8%AD%E4%BA%9A%E4%B8%AD%E4%B8%9C%E8%A1%8C%E7%9A%84%E4%B8%89%E7%82%B9%E5%90%AF%E7%A4%BA%23%23" target="weibo">
 #习主席中亚中东行的三点启示#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E5%90%91%E6%96%B0%E4%B9%8B%E7%BF%BC%23%23" target="weibo">
+#向新之翼#
 </a>
 </li>
 
