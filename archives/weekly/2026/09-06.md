@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/09/06 00:44:26 ~ 2026/09/08 20:49:21
+本榜单时间：2026/09/06 00:44:26 ~ 2026/09/09 00:49:28
 </p>
 </blockquote>
 <p>
@@ -71,6 +71,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E6%80%BB%E4%B9%A6%E8%AE%B0%E7%89%B5%E6%8C%82%E9%9D%92%E5%B0%91%E5%B9%B4%E5%81%A5%E5%BA%B7%E6%88%90%E9%95%BF%E5%85%A8%E9%9D%A2%E5%8F%91%E5%B1%95%23%23" target="weibo">
 #总书记牵挂青少年健康成长全面发展#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E8%8B%B1%E5%9B%BD%E9%A6%96%E7%9B%B8%E4%BC%AF%E7%BA%B3%E5%A7%86%E9%80%9A%E7%94%B5%E8%AF%9D%23%23" target="weibo">
+#习近平同英国首相伯纳姆通电话#
 </a>
 </li>
 
