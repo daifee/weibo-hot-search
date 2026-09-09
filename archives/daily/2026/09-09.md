@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/09/09 00:49:28 ~ 2026/09/09 17:33:22
+本榜单时间：2026/09/09 00:49:28 ~ 2026/09/09 19:41:30
 </p>
 </blockquote>
 <p>
@@ -29,6 +29,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E5%90%91%E6%96%B0%E4%B9%8B%E7%BF%BC%23%23" target="weibo">
 #向新之翼#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%B0%B1%E6%9C%9D%E9%B2%9C%E5%9B%BD%E5%BA%8678%E5%91%A8%E5%B9%B4%E5%90%91%E9%87%91%E6%AD%A3%E6%81%A9%E8%87%B4%E8%B4%BA%E7%94%B5%23%23" target="weibo">
+#习近平就朝鲜国庆78周年向金正恩致贺电#
 </a>
 </li>
 
