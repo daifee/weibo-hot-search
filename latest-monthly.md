@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/09/01 01:00:03 ~ 2026/09/13 19:32:00
+本榜单时间：2026/09/01 01:00:03 ~ 2026/09/13 22:34:09
 </p>
 </blockquote>
 <p>
@@ -281,6 +281,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%87%BA%E5%B8%AD%E9%87%91%E7%A0%96%E5%B3%B0%E4%BC%9A%E7%AC%AC%E4%BA%8C%E9%98%B6%E6%AE%B5%E4%BC%9A%E8%AE%AE%23%23" target="weibo">
 #习近平出席金砖峰会第二阶段会议#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%9C%86%E6%BB%A1%E7%BB%93%E6%9D%9F%E5%87%BA%E5%B8%AD%E9%87%91%E7%A0%96%E5%9B%BD%E5%AE%B6%E9%A2%86%E5%AF%BC%E4%BA%BA%E7%AC%AC%E5%8D%81%E5%85%AB%E6%AC%A1%E4%BC%9A%E6%99%A4%23%23" target="weibo">
+#习近平圆满结束出席金砖国家领导人第十八次会晤#
 </a>
 </li>
 
