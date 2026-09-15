@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/09/13 00:56:06 ~ 2026/09/15 17:56:42
+本榜单时间：2026/09/13 00:56:06 ~ 2026/09/15 21:47:02
 </p>
 </blockquote>
 <p>
@@ -77,6 +77,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%BB%99%E6%BC%B3%E5%B7%9E110%E5%85%A8%E4%BD%93%E9%98%9F%E5%91%98%E5%9B%9E%E4%BF%A1%23%23" target="weibo">
 #习近平给漳州110全体队员回信#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%8D%97%E4%BA%9A%E4%B9%8B%E8%A1%8C%E4%B8%89%E5%A4%A7%E6%88%90%E6%9E%9C%23%23" target="weibo">
+#习近平南亚之行三大成果#
 </a>
 </li>
 
