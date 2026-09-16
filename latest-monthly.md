@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/09/01 01:00:03 ~ 2026/09/16 19:56:14
+本榜单时间：2026/09/01 01:00:03 ~ 2026/09/17 00:36:57
 </p>
 </blockquote>
 <p>
@@ -335,6 +335,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E9%87%91%E7%A0%96%E5%90%88%E4%BD%9C%E8%BF%9B%E7%A8%8B%E4%B8%AD%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%8D%B0%E8%AE%B0%23%23" target="weibo">
 #金砖合作进程中的中国印记#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%8F%90%E7%AC%94%E5%86%99%E4%B8%8B%E4%BA%BA%E6%B0%91%E7%9A%84%E4%BF%9D%E6%8A%A4%E7%A5%9E%23%23" target="weibo">
+#习近平提笔写下人民的保护神#
 </a>
 </li>
 
