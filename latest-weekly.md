@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/09/13 00:56:06 ~ 2026/09/16 08:39:36
+本榜单时间：2026/09/13 00:56:06 ~ 2026/09/16 13:52:31
 </p>
 </blockquote>
 <p>
@@ -83,6 +83,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%8D%97%E4%BA%9A%E4%B9%8B%E8%A1%8C%E4%B8%89%E5%A4%A7%E6%88%90%E6%9E%9C%23%23" target="weibo">
 #习近平南亚之行三大成果#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%87%B4%E4%BF%A1%E7%A5%9D%E8%B4%BA%E5%90%89%E6%9E%97%E5%A4%A7%E5%AD%A6%E5%BB%BA%E6%A0%A180%E5%91%A8%E5%B9%B4%23%23" target="weibo">
+#习近平致信祝贺吉林大学建校80周年#
 </a>
 </li>
 
