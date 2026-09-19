@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/09/01 01:00:03 ~ 2026/09/19 19:20:02
+本榜单时间：2026/09/01 01:00:03 ~ 2026/09/19 22:18:07
 </p>
 </blockquote>
 <p>
@@ -377,6 +377,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E6%80%BB%E4%B9%A6%E8%AE%B0%E9%AB%98%E5%BA%A6%E9%87%8D%E8%A7%86%E5%85%88%E8%BF%9B%E5%88%B6%E9%80%A0%E4%B8%9A%E5%8F%91%E5%B1%95%23%23" target="weibo">
 #总书记高度重视先进制造业发展#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%A4%9A%E6%AC%A1%E5%AF%84%E8%AF%AD%E4%B8%AD%E5%9B%BD%E4%BD%93%E8%82%B2%E5%81%A5%E5%84%BF%23%23" target="weibo">
+#习近平总书记多次寄语中国体育健儿#
 </a>
 </li>
 
