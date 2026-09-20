@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/09/01 01:00:03 ~ 2026/09/20 09:24:01
+本榜单时间：2026/09/01 01:00:03 ~ 2026/09/20 13:59:02
 </p>
 </blockquote>
 <p>
@@ -383,6 +383,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%A4%9A%E6%AC%A1%E5%AF%84%E8%AF%AD%E4%B8%AD%E5%9B%BD%E4%BD%93%E8%82%B2%E5%81%A5%E5%84%BF%23%23" target="weibo">
 #习近平总书记多次寄语中国体育健儿#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E9%87%8D%E6%B8%A9%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%AF%B9%E4%B8%AD%E5%8D%8E%E4%BD%93%E8%82%B2%E5%81%A5%E5%84%BF%E7%9A%84%E5%8B%89%E5%8A%B1%23%23" target="weibo">
+#重温总书记对中华体育健儿的勉励#
 </a>
 </li>
 
