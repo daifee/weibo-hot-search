@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/09/01 01:00:03 ~ 2026/09/20 14:37:21
+本榜单时间：2026/09/01 01:00:03 ~ 2026/09/20 19:04:51
 </p>
 </blockquote>
 <p>
@@ -389,6 +389,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E9%87%8D%E6%B8%A9%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%AF%B9%E4%B8%AD%E5%8D%8E%E4%BD%93%E8%82%B2%E5%81%A5%E5%84%BF%E7%9A%84%E5%8B%89%E5%8A%B1%23%23" target="weibo">
 #重温总书记对中华体育健儿的勉励#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E5%88%B6%E9%80%A0%E4%B8%9A%E6%98%AF%E7%AB%8B%E5%9B%BD%E4%B9%8B%E6%9C%AC%E5%BC%BA%E5%9B%BD%E4%B9%8B%E5%9F%BA%23%23" target="weibo">
+#制造业是立国之本强国之基#
 </a>
 </li>
 
