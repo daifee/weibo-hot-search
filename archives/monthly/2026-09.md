@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/09/01 01:00:03 ~ 2026/09/22 17:48:07
+本榜单时间：2026/09/01 01:00:03 ~ 2026/09/22 21:34:51
 </p>
 </blockquote>
 <p>
@@ -425,6 +425,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E4%BB%8E%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%B8%80%E5%B0%81%E5%B0%81%E4%BF%A1%E4%BB%B6%E4%B8%AD%E7%9C%8B%E4%B8%AD%E7%BE%8E%E4%BA%BA%E6%B0%91%E5%8F%8B%E8%B0%8A%23%23" target="weibo">
 #从习近平一封封信件中看中美人民友谊#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E8%B7%A8%E8%B6%8A%E5%B1%B1%E6%B5%B7%E7%BB%AD%E5%86%99%E9%BC%93%E5%B2%AD%E6%83%85%E7%BC%98%23%23" target="weibo">
+#跨越山海续写鼓岭情缘#
 </a>
 </li>
 
