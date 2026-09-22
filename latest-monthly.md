@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/09/01 01:00:03 ~ 2026/09/22 09:45:18
+本榜单时间：2026/09/01 01:00:03 ~ 2026/09/22 12:43:56
 </p>
 </blockquote>
 <p>
@@ -413,6 +413,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E4%BA%8C%E5%8D%81%E5%B1%8A%E4%BA%94%E4%B8%AD%E5%85%A8%E4%BC%9A10%E6%9C%8826%E6%97%A5%E8%87%B329%E6%97%A5%E5%8F%AC%E5%BC%80%23%23" target="weibo">
 #二十届五中全会10月26日至29日召开#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%B8%BB%E5%B8%AD%E6%8C%87%E5%BC%95%E4%B8%AD%E7%BE%8E%E5%85%B3%E7%B3%BB%E5%8F%91%E5%B1%95%23%23" target="weibo">
+#习近平主席指引中美关系发展#
 </a>
 </li>
 
