@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/09/20 01:55:49 ~ 2026/09/24 13:10:30
+本榜单时间：2026/09/20 01:55:49 ~ 2026/09/24 17:51:00
 </p>
 </blockquote>
 <p>
@@ -113,6 +113,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E4%B8%BB%E5%B8%AD%E8%AE%BF%E9%97%AE%E7%BE%8E%E5%9B%BD%23%23" target="weibo">
 #习主席访问美国#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E5%8D%8E%E7%9B%9B%E9%A1%BF%E5%86%8D%E6%AC%A1%E8%A7%81%E9%9D%A2%23%23" target="weibo">
+#中美元首华盛顿再次见面#
 </a>
 </li>
 
