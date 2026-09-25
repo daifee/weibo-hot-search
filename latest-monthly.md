@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/09/01 01:00:03 ~ 2026/09/25 09:21:21
+本榜单时间：2026/09/01 01:00:03 ~ 2026/09/25 09:44:09
 </p>
 </blockquote>
 <p>
@@ -497,6 +497,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E4%B8%AD%E7%BE%8E%E4%B8%8D%E5%BF%85%E8%AE%B3%E8%A8%80%E7%AB%9E%E4%BA%89%23%23" target="weibo">
 #中美不必讳言竞争#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E4%B8%8D%E5%88%B0%E5%8D%8A%E5%B9%B4%E5%AE%9E%E7%8E%B0%E4%BA%92%E8%AE%BF%23%23" target="weibo">
+#中美元首不到半年实现互访#
 </a>
 </li>
 
