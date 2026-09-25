@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/09/20 01:55:49 ~ 2026/09/25 06:38:43
+本榜单时间：2026/09/20 01:55:49 ~ 2026/09/25 09:21:21
 </p>
 </blockquote>
 <p>
@@ -131,6 +131,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%87%BA%E5%B8%AD%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%BE%E8%A1%8C%E7%9A%84%E6%AC%A2%E8%BF%8E%E4%BB%AA%E5%BC%8F%23%23" target="weibo">
 #习近平出席特朗普举行的欢迎仪式#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E4%B8%AD%E7%BE%8E%E4%B8%8D%E5%BF%85%E8%AE%B3%E8%A8%80%E7%AB%9E%E4%BA%89%23%23" target="weibo">
+#中美不必讳言竞争#
 </a>
 </li>
 
