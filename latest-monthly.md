@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/09/01 01:00:03 ~ 2026/09/25 21:32:33
+本榜单时间：2026/09/01 01:00:03 ~ 2026/09/25 22:04:03
 </p>
 </blockquote>
 <p>
@@ -509,6 +509,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%9C%A8%E6%AC%A2%E8%BF%8E%E5%AE%B4%E4%BC%9A%E7%A5%9D%E5%A4%A7%E5%AE%B6%E4%B8%AD%E7%A7%8B%E5%BF%AB%E4%B9%90%23%23" target="weibo">
 #习近平在欢迎宴会祝大家中秋快乐#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%B8%BB%E5%B8%AD%E7%9A%84%E4%B8%AD%E7%A7%8B%E7%A5%9D%E7%A6%8F%23%23" target="weibo">
+#习近平主席的中秋祝福#
 </a>
 </li>
 
