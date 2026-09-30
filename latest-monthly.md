@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/09/01 01:00:03 ~ 2026/09/30 15:02:28
+本榜单时间：2026/09/01 01:00:03 ~ 2026/09/30 21:33:13
 </p>
 </blockquote>
 <p>
@@ -599,6 +599,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%91%E4%BA%BA%E6%B0%91%E8%8B%B1%E9%9B%84%E6%95%AC%E7%8C%AE%E8%8A%B1%E7%AF%AE%23%23" target="weibo">
 #习近平向人民英雄敬献花篮#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E5%9B%BD%E5%BA%8677%E5%91%A8%E5%B9%B4%E6%8B%9B%E5%BE%85%E4%BC%9A%23%23" target="weibo">
+#国庆77周年招待会#
 </a>
 </li>
 
