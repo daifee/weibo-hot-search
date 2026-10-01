@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/10/01 03:03:12 ~ 2026/10/01 10:03:38
+本榜单时间：2026/10/01 03:03:12 ~ 2026/10/01 14:19:17
 </p>
 </blockquote>
 <p>
@@ -29,6 +29,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E5%90%91%E5%85%A8%E5%9B%BD%E5%90%84%E6%97%8F%E4%BA%BA%E6%B0%91%E8%87%B4%E4%BB%A5%E8%8A%82%E6%97%A5%E7%A5%9D%E8%B4%BA%23%23" target="weibo">
 #向全国各族人民致以节日祝贺#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E9%87%8D%E6%B8%A9%E6%80%BB%E4%B9%A6%E8%AE%B0%E8%BF%99%E7%95%AA%E4%BB%A4%E4%BA%BA%E7%83%AD%E8%A1%80%E6%B2%B8%E8%85%BE%E7%9A%84%E8%AF%9D%E8%AF%AD%23%23" target="weibo">
+#重温总书记这番令人热血沸腾的话语#
 </a>
 </li>
 
