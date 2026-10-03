@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/10/01 03:03:12 ~ 2026/10/03 20:26:21
+本榜单时间：2026/10/01 03:03:12 ~ 2026/10/03 21:37:58
 </p>
 </blockquote>
 <p>
@@ -59,6 +59,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E6%88%91%E5%9C%A8%E5%B1%B1%E6%B2%B3%E5%9C%A8%23%23" target="weibo">
 #我在山河在#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E6%80%BB%E4%B9%A6%E8%AE%B0%E8%B5%9E%E8%AA%89%E7%9A%84%E7%88%B1%E5%9B%BD%E8%80%85%23%23" target="weibo">
+#总书记赞誉的爱国者#
 </a>
 </li>
 
