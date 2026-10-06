@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/10/06 00:18:55 ~ 2026/10/06 11:14:20
+本榜单时间：2026/10/06 00:18:55 ~ 2026/10/06 18:01:34
 </p>
 </blockquote>
 <p>
@@ -29,6 +29,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E6%96%87%E9%9F%B5%E6%82%A0%E9%95%BF%23%23" target="weibo">
 #文韵悠长#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E6%80%BB%E4%B9%A6%E8%AE%B0%E8%B0%88%E5%AE%B6%E5%9B%BD%E5%90%8C%E5%BF%83%23%23" target="weibo">
+#总书记谈家国同心#
 </a>
 </li>
 
