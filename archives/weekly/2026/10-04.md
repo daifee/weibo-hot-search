@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/10/04 01:11:11 ~ 2026/10/08 17:18:02
+本榜单时间：2026/10/04 01:11:11 ~ 2026/10/09 00:19:13
 </p>
 </blockquote>
 <p>
@@ -77,6 +77,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%80%BB%E4%B9%A6%E8%AE%B0%E9%87%8D%E8%A7%86%E6%88%91%E5%9B%BD%E8%88%AA%E5%A4%A9%E4%BA%8B%E4%B8%9A%E5%8F%91%E5%B1%95%23%23" target="weibo">
 #习近平总书记重视我国航天事业发展#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E6%80%BB%E4%B9%A6%E8%AE%B0%E8%80%83%E5%AF%9F%E7%9A%84%E9%95%BF%E5%BE%81%E6%95%85%E5%9C%B0%23%23" target="weibo">
+#总书记考察的长征故地#
 </a>
 </li>
 
