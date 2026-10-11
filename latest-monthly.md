@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/10/01 03:03:12 ~ 2026/10/11 10:05:18
+本榜单时间：2026/10/01 03:03:12 ~ 2026/10/11 16:37:36
 </p>
 </blockquote>
 <p>
@@ -131,6 +131,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E5%9B%9B%E9%87%8D%E8%A7%86%E8%A7%92%E7%9C%8B%E4%B8%AD%E5%8D%8E%E6%B0%91%E6%97%8F%E7%9A%84%E6%96%87%E5%8C%96%E4%B8%BB%E4%BD%93%E6%80%A7%23%23" target="weibo">
 #四重视角看中华民族的文化主体性#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E6%80%BB%E4%B9%A6%E8%AE%B0%E6%B7%B1%E6%83%85%E8%AE%B2%E8%BF%B0%E7%9A%84%E9%95%BF%E5%BE%81%E6%95%85%E4%BA%8B%E4%B8%8E%E4%BC%9F%E5%A4%A7%E9%95%BF%E5%BE%81%E7%B2%BE%E7%A5%9E%23%23" target="weibo">
+#总书记深情讲述的长征故事与伟大长征精神#
 </a>
 </li>
 
