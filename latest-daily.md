@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/10/18 00:17:53 ~ 2026/10/18 13:39:59
+本榜单时间：2026/10/18 00:17:53 ~ 2026/10/18 17:49:07
 </p>
 </blockquote>
 <p>
@@ -29,6 +29,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E6%80%BB%E4%B9%A6%E8%AE%B0%E8%B5%B4%E4%B9%8C%E5%85%B0%E5%AF%9F%E5%B8%83%E8%80%83%E5%AF%9F%E7%BA%AA%E5%AE%9E%23%23" target="weibo">
 #总书记赴乌兰察布考察纪实#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%AF%B9%E8%80%81%E5%B9%B4%E4%BA%BA%E7%9A%84%E4%B9%85%E4%B9%85%E5%85%B3%E6%80%80%23%23" target="weibo">
+#总书记对老年人的久久关怀#
 </a>
 </li>
 
