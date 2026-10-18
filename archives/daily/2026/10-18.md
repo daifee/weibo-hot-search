@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/10/18 00:17:53 ~ 2026/10/18 18:46:54
+本榜单时间：2026/10/18 00:17:53 ~ 2026/10/18 22:08:29
 </p>
 </blockquote>
 <p>
@@ -35,6 +35,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%AF%B9%E8%80%81%E5%B9%B4%E4%BA%BA%E7%9A%84%E4%B9%85%E4%B9%85%E5%85%B3%E6%80%80%23%23" target="weibo">
 #总书记对老年人的久久关怀#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%B0%8A%E8%80%81%E6%95%AC%E8%80%81%E7%9A%84%E6%B8%A9%E6%9A%96%E8%AF%9D%E8%AF%AD%23%23" target="weibo">
+#总书记尊老敬老的温暖话语#
 </a>
 </li>
 
