@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/10/19 01:30:57 ~ 2026/10/19 19:04:58
+本榜单时间：2026/10/19 01:30:57 ~ 2026/10/19 22:33:21
 </p>
 </blockquote>
 <p>
@@ -35,6 +35,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%A4%9A%E6%AC%A1%E6%B7%B1%E6%83%85%E8%AE%B2%E8%BF%B0%E9%95%BF%E5%BE%81%E6%95%85%E4%BA%8B%23%23" target="weibo">
 #总书记多次深情讲述长征故事#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E6%80%BB%E4%B9%A6%E8%AE%B0%E4%B8%BA%E4%BD%95%E5%85%B3%E6%B3%A8%E8%BF%99%E9%A1%B9%E6%96%B0%E5%9F%BA%E5%BB%BA%23%23" target="weibo">
+#总书记为何关注这项新基建#
 </a>
 </li>
 
