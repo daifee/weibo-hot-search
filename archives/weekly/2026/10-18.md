@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/10/18 00:17:53 ~ 2026/10/20 19:17:24
+本榜单时间：2026/10/18 00:17:53 ~ 2026/10/20 21:47:12
 </p>
 </blockquote>
 <p>
@@ -71,6 +71,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E4%B8%AD%E5%A4%AE%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E5%AD%A6%E9%99%A2%E5%BB%BA%E9%99%A270%E5%91%A8%E5%B9%B4%23%23" target="weibo">
 #中央社会主义学院建院70周年#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E5%9C%A8%E6%96%B0%E7%9A%84%E9%95%BF%E5%BE%81%E8%B7%AF%E4%B8%8A%E7%BB%A7%E7%BB%AD%E5%A5%8B%E5%8B%87%E5%89%8D%E8%BF%9B%23%23" target="weibo">
+#在新的长征路上继续奋勇前进#
 </a>
 </li>
 
