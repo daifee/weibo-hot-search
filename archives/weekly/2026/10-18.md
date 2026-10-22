@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/10/18 00:17:53 ~ 2026/10/22 18:26:00
+本榜单时间：2026/10/18 00:17:53 ~ 2026/10/22 23:02:30
 </p>
 </blockquote>
 <p>
@@ -101,6 +101,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E9%95%BF%E5%BE%81%E4%BC%9F%E5%A4%A7%E8%83%9C%E5%88%A9%E4%B9%8B%E8%B7%AF%E7%9A%84%E5%9B%9B%E4%B8%AA%E4%BE%9D%E9%9D%A0%23%23" target="weibo">
 #长征伟大胜利之路的四个依靠#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E5%A4%A7%E5%8A%9B%E5%BC%98%E6%89%AC%E4%BC%9F%E5%A4%A7%E9%95%BF%E5%BE%81%E7%B2%BE%E7%A5%9E%23%23" target="weibo">
+#大力弘扬伟大长征精神#
 </a>
 </li>
 
