@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/10/01 03:03:12 ~ 2026/10/22 08:07:44
+本榜单时间：2026/10/01 03:03:12 ~ 2026/10/22 12:11:11
 </p>
 </blockquote>
 <p>
@@ -305,6 +305,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%AF%B4%E9%95%BF%E5%BE%81%23%23" target="weibo">
 #习近平说长征#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E7%BA%AA%E5%BF%B5%E9%95%BF%E5%BE%81%E8%83%9C%E5%88%A990%E5%91%A8%E5%B9%B4%E5%A4%A7%E4%BC%9A%23%23" target="weibo">
+#纪念长征胜利90周年大会#
 </a>
 </li>
 
