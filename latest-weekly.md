@@ -1,9 +1,9 @@
 <h1>
-微博热搜-周榜（2026/10/18）
+微博热搜-周榜（2026/10/25）
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/10/18 00:17:53 ~ 2026/10/24 22:45:38
+本榜单时间：2026/10/25 02:03:34 ~ 2026/10/25 02:03:34
 </p>
 </blockquote>
 <p>
@@ -19,126 +19,6 @@
 正能量
 </h2>
 <ol>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%23%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%BF%83%E7%B3%BB%E4%B8%87%E9%87%8C%E7%BB%BF%E8%89%B2%E9%95%BF%E5%9F%8E%23%23" target="weibo">
-#总书记心系万里绿色长城#
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%23%E6%80%BB%E4%B9%A6%E8%AE%B0%E8%B5%B4%E4%B9%8C%E5%85%B0%E5%AF%9F%E5%B8%83%E8%80%83%E5%AF%9F%E7%BA%AA%E5%AE%9E%23%23" target="weibo">
-#总书记赴乌兰察布考察纪实#
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%23%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%AF%B9%E8%80%81%E5%B9%B4%E4%BA%BA%E7%9A%84%E4%B9%85%E4%B9%85%E5%85%B3%E6%80%80%23%23" target="weibo">
-#总书记对老年人的久久关怀#
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%23%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%B0%8A%E8%80%81%E6%95%AC%E8%80%81%E7%9A%84%E6%B8%A9%E6%9A%96%E8%AF%9D%E8%AF%AD%23%23" target="weibo">
-#总书记尊老敬老的温暖话语#
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%23%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%BC%BA%E8%B0%83%E7%AE%97%E5%8A%9B%E4%BA%A7%E4%B8%9A%E5%89%8D%E6%99%AF%E5%B9%BF%E9%98%94%23%23" target="weibo">
-#总书记强调算力产业前景广阔#
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%23%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%A4%9A%E6%AC%A1%E6%B7%B1%E6%83%85%E8%AE%B2%E8%BF%B0%E9%95%BF%E5%BE%81%E6%95%85%E4%BA%8B%23%23" target="weibo">
-#总书记多次深情讲述长征故事#
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%23%E6%80%BB%E4%B9%A6%E8%AE%B0%E4%B8%BA%E4%BD%95%E5%85%B3%E6%B3%A8%E8%BF%99%E9%A1%B9%E6%96%B0%E5%9F%BA%E5%BB%BA%23%23" target="weibo">
-#总书记为何关注这项新基建#
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%23%E8%B7%9F%E7%9D%80%E6%80%BB%E4%B9%A6%E8%AE%B0%E8%B5%B0%E5%A5%BD%E6%96%B0%E6%97%B6%E4%BB%A3%E7%9A%84%E9%95%BF%E5%BE%81%E8%B7%AF%23%23" target="weibo">
-#跟着总书记走好新时代的长征路#
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%23%E4%B8%AD%E5%A4%AE%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E5%AD%A6%E9%99%A2%E5%BB%BA%E9%99%A270%E5%91%A8%E5%B9%B4%23%23" target="weibo">
-#中央社会主义学院建院70周年#
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%23%E5%9C%A8%E6%96%B0%E7%9A%84%E9%95%BF%E5%BE%81%E8%B7%AF%E4%B8%8A%E7%BB%A7%E7%BB%AD%E5%A5%8B%E5%8B%87%E5%89%8D%E8%BF%9B%23%23" target="weibo">
-#在新的长征路上继续奋勇前进#
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%AF%B4%E9%95%BF%E5%BE%81%23%23" target="weibo">
-#习近平说长征#
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%23%E6%88%91%E4%BB%AC%E7%9A%84%E9%95%BF%E5%BE%81%E8%B7%AF%23%23" target="weibo">
-#我们的长征路#
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%23%E7%BA%AA%E5%BF%B5%E9%95%BF%E5%BE%81%E8%83%9C%E5%88%A990%E5%91%A8%E5%B9%B4%E5%A4%A7%E4%BC%9A%23%23" target="weibo">
-#纪念长征胜利90周年大会#
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%23%E9%95%BF%E5%BE%81%E4%BC%9F%E5%A4%A7%E8%83%9C%E5%88%A9%E4%B9%8B%E8%B7%AF%E7%9A%84%E5%9B%9B%E4%B8%AA%E4%BE%9D%E9%9D%A0%23%23" target="weibo">
-#长征伟大胜利之路的四个依靠#
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%23%E5%A4%A7%E5%8A%9B%E5%BC%98%E6%89%AC%E4%BC%9F%E5%A4%A7%E9%95%BF%E5%BE%81%E7%B2%BE%E7%A5%9E%23%23" target="weibo">
-#大力弘扬伟大长征精神#
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%AF%B9%E8%A5%BF%E8%97%8F7.0%E7%BA%A7%E5%9C%B0%E9%9C%87%E4%BD%9C%E5%87%BA%E9%87%8D%E8%A6%81%E6%8C%87%E7%A4%BA%23%23" target="weibo">
-#习近平对西藏7.0级地震作出重要指示#
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%23%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE%E6%94%BF%E6%B2%BB%E5%B1%80%E5%8F%AC%E5%BC%80%E4%BC%9A%E8%AE%AE%23%23" target="weibo">
-#中共中央政治局召开会议#
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%23%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE%E6%94%BF%E6%B2%BB%E5%B1%8010%E6%9C%8823%E6%97%A5%E5%8F%AC%E5%BC%80%E4%BC%9A%E8%AE%AE%23%23" target="weibo">
-#中共中央政治局10月23日召开会议#
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%23%E6%88%91%E7%9A%84%E9%95%BF%E5%BE%81%E5%AD%A6%E4%B9%A0%E6%89%8B%E8%AE%B0%23%23" target="weibo">
-#我的长征学习手记#
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%23%E4%BC%9F%E5%A4%A7%E8%BF%9C%E5%BE%81%E9%97%AA%E8%80%80%E7%90%86%E6%83%B3%E4%BF%A1%E5%BF%B5%E4%B9%8B%E5%85%89%23%23" target="weibo">
-#伟大远征闪耀理想信念之光#
-</a>
-</li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E7%BF%98%E9%A6%96%E6%9C%A8%E8%88%B9%E8%A7%81%E8%AF%81%E9%9D%A9%E5%91%BD%E4%BF%A1%E4%BB%B0%23%23" target="weibo">
