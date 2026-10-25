@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/10/25 02:03:34 ~ 2026/10/25 14:32:19
+本榜单时间：2026/10/25 02:03:34 ~ 2026/10/25 17:43:12
 </p>
 </blockquote>
 <p>
@@ -29,6 +29,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%85%A8%E9%9D%A2%E4%BB%8E%E4%B8%A5%E6%B2%BB%E5%85%9A%E4%B9%8B%E5%96%BB%23%23" target="weibo">
 #总书记全面从严治党之喻#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E6%80%BB%E4%B9%A6%E8%AE%B0%E8%AE%B2%E5%88%B0%E7%9A%84%E9%95%BF%E5%BE%81%E6%95%85%E4%BA%8B%E5%82%AC%E4%BA%BA%E5%A5%8B%E8%BF%9B%23%23" target="weibo">
+#总书记讲到的长征故事催人奋进#
 </a>
 </li>
 
