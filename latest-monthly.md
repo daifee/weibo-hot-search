@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/10/01 03:03:12 ~ 2026/10/26 12:36:09
+本榜单时间：2026/10/01 03:03:12 ~ 2026/10/26 14:41:12
 </p>
 </blockquote>
 <p>
@@ -383,6 +383,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E6%80%BB%E4%B9%A6%E8%AE%B0%E4%B8%BA%E4%BD%95%E8%AE%B2%E5%9B%9B%E7%9F%A5%E6%8B%92%E9%87%91%E7%9A%84%E6%95%85%E4%BA%8B%23%23" target="weibo">
 #总书记为何讲四知拒金的故事#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E4%BA%8C%E5%8D%81%E5%B1%8A%E4%BA%94%E4%B8%AD%E5%85%A8%E4%BC%9A%E5%BC%80%E5%A7%8B%E4%B8%BE%E8%A1%8C%23%23" target="weibo">
+#二十届五中全会开始举行#
 </a>
 </li>
 
