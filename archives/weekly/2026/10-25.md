@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/10/25 02:03:34 ~ 2026/10/26 09:29:45
+本榜单时间：2026/10/25 02:03:34 ~ 2026/10/26 12:36:09
 </p>
 </blockquote>
 <p>
@@ -41,6 +41,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E6%AF%94%E5%88%A9%E6%97%B6%E5%9B%BD%E7%8E%8B%E4%BA%92%E8%87%B4%E8%B4%BA%E4%BF%A1%23%23" target="weibo">
 #习近平同比利时国王互致贺信#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E6%80%BB%E4%B9%A6%E8%AE%B0%E4%B8%BA%E4%BD%95%E8%AE%B2%E5%9B%9B%E7%9F%A5%E6%8B%92%E9%87%91%E7%9A%84%E6%95%85%E4%BA%8B%23%23" target="weibo">
+#总书记为何讲四知拒金的故事#
 </a>
 </li>
 
