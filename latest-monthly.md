@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/10/01 03:03:12 ~ 2026/10/27 18:48:16
+本榜单时间：2026/10/01 03:03:12 ~ 2026/10/27 22:18:21
 </p>
 </blockquote>
 <p>
@@ -407,6 +407,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E6%80%BB%E4%B9%A6%E8%AE%B0%E8%AF%B4%E8%BF%99%E6%A0%B7%E7%9A%84%E8%8B%B9%E6%9E%9C%E7%8E%B0%E5%9C%A8%E4%B9%9F%E4%B8%8D%E8%83%BD%E5%90%83%23%23" target="weibo">
 #总书记说这样的苹果现在也不能吃#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%87%B4%E7%94%B5%E7%A5%9D%E8%B4%BA%E5%8D%A2%E6%8B%89%E5%BD%93%E9%80%89%E8%BF%9E%E4%BB%BB%23%23" target="weibo">
+#习近平致电祝贺卢拉当选连任#
 </a>
 </li>
 
