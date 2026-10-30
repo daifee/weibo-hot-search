@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/10/01 03:03:12 ~ 2026/10/30 13:15:00
+本榜单时间：2026/10/01 03:03:12 ~ 2026/10/30 18:21:33
 </p>
 </blockquote>
 <p>
@@ -443,6 +443,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E5%85%9A%E7%9A%84%E4%BA%8C%E5%8D%81%E5%B1%8A%E4%BA%94%E4%B8%AD%E5%85%A8%E4%BC%9A%E5%85%AC%E6%8A%A5%23%23" target="weibo">
 #党的二十届五中全会公报#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E4%BA%8C%E5%8D%81%E5%B1%8A%E4%BA%94%E4%B8%AD%E5%85%A8%E4%BC%9A%E5%85%AC%E6%8A%A5%E4%B8%80%E5%9B%BE%E9%80%9F%E8%A7%88%23%23" target="weibo">
+#二十届五中全会公报一图速览#
 </a>
 </li>
 
