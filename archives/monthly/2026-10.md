@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/10/01 03:03:12 ~ 2026/10/31 10:13:12
+本榜单时间：2026/10/01 03:03:12 ~ 2026/10/31 16:41:00
 </p>
 </blockquote>
 <p>
@@ -467,6 +467,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A%E4%B8%8D%E6%80%95%E8%BF%9C%E5%BE%81%E9%9A%BE%23%23" target="weibo">
 #中国共产党不怕远征难#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E5%85%9A%E7%9A%84%E4%BA%8C%E5%8D%81%E5%B1%8A%E4%BA%94%E4%B8%AD%E5%85%A8%E4%BC%9A%E4%BE%A7%E8%AE%B0%23%23" target="weibo">
+#党的二十届五中全会侧记#
 </a>
 </li>
 
