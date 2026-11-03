@@ -1,9 +1,9 @@
 <h1>
-微博热搜-日榜（2026/11/03）
+微博热搜-日榜（2026/11/04）
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/11/03 02:42:16 ~ 2026/11/03 18:42:28
+本榜单时间：2026/11/04 02:01:29 ~ 2026/11/04 02:01:29
 </p>
 </blockquote>
 <p>
@@ -21,20 +21,8 @@
 <ol>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%8C%87%E7%A4%BA%E8%BF%9B%E4%B8%80%E6%AD%A5%E5%81%9A%E5%A5%BD%E9%BB%84%E6%B2%B3%E4%BF%9D%E6%8A%A4%E6%B2%BB%E7%90%86%23%23" target="weibo">
-#习近平指示进一步做好黄河保护治理#
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%23%E4%BA%94%E4%B8%AD%E5%85%A8%E4%BC%9A%E5%86%B3%E5%AE%9A%E8%AF%9E%E7%94%9F%E8%AE%B0%23%23" target="weibo">
-#五中全会决定诞生记#
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%8C%E9%95%87%E7%BD%91%E4%BA%8B%23%23" target="weibo">
-#乌镇网事#
+<a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%80%BB%E4%B9%A6%E8%AE%B0%E7%9A%84%E9%BB%84%E6%B2%B3%E7%89%B5%E6%8C%82%23%23" target="weibo">
+#习近平总书记的黄河牵挂#
 </a>
 </li>
 
