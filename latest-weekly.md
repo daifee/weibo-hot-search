@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/11/01 03:28:55 ~ 2026/11/05 19:21:02
+本榜单时间：2026/11/01 03:28:55 ~ 2026/11/06 02:39:59
 </p>
 </blockquote>
 <p>
@@ -95,6 +95,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E4%B8%BB%E5%B8%AD%E5%BC%95%E9%A2%86%E6%8E%A8%E5%8A%A8%E8%BF%9B%E5%8D%9A%E4%BC%9A%E8%B6%8A%E5%8A%9E%E8%B6%8A%E5%A5%BD%23%23" target="weibo">
 #习主席引领推动进博会越办越好#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E4%BA%94%E4%B8%AD%E5%85%A8%E4%BC%9A%E7%B2%BE%E7%A5%9E%E5%AD%A6%E4%B9%A0%E6%89%8B%E5%86%8C%E8%AF%B7%E6%9F%A5%E6%94%B6%23%23" target="weibo">
+#五中全会精神学习手册请查收#
 </a>
 </li>
 
