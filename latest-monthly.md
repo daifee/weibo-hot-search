@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/11/01 03:28:55 ~ 2026/11/07 14:59:48
+本榜单时间：2026/11/01 03:28:55 ~ 2026/11/07 15:31:35
 </p>
 </blockquote>
 <p>
@@ -125,6 +125,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E5%8A%A0%E8%93%AC%E6%80%BB%E7%BB%9F%E4%BC%9A%E8%B0%88%23%23" target="weibo">
 #习近平同加蓬总统会谈#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%BC%9A%E8%A7%81%E5%A5%A5%E5%9C%B0%E5%88%A9%E6%80%BB%E7%90%86%23%23" target="weibo">
+#习近平会见奥地利总理#
 </a>
 </li>
 
