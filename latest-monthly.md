@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/11/01 03:28:55 ~ 2026/11/08 10:39:51
+本榜单时间：2026/11/01 03:28:55 ~ 2026/11/08 18:05:19
 </p>
 </blockquote>
 <p>
@@ -143,6 +143,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%80%BB%E4%B9%A6%E8%AE%B0%E6%AE%B7%E5%88%87%E5%AF%84%E8%AF%AD%E6%96%B0%E9%97%BB%E5%B7%A5%E4%BD%9C%E8%80%85%23%23" target="weibo">
 #习近平总书记殷切寄语新闻工作者#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E6%80%BB%E4%B9%A6%E8%AE%B0%E7%9A%84%E9%BB%84%E6%B2%B3%E6%83%85%23%23" target="weibo">
+#总书记的黄河情#
 </a>
 </li>
 
