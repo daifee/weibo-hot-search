@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/11/01 03:28:55 ~ 2026/11/08 18:41:57
+本榜单时间：2026/11/01 03:28:55 ~ 2026/11/09 01:01:29
 </p>
 </blockquote>
 <p>
@@ -149,6 +149,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E6%80%BB%E4%B9%A6%E8%AE%B0%E7%9A%84%E9%BB%84%E6%B2%B3%E6%83%85%23%23" target="weibo">
 #总书记的黄河情#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E9%AB%98%E5%8E%9F%E4%B8%8A%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%AE%A9%E5%87%BA%E8%87%AA%E5%B7%B1%E7%9A%84%E6%B0%A7%E6%B0%94%E8%A2%8B%23%23" target="weibo">
+#高原上习近平让出自己的氧气袋#
 </a>
 </li>
 
