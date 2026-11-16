@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/11/16 00:20:15 ~ 2026/11/16 10:20:14
+本榜单时间：2026/11/16 00:20:15 ~ 2026/11/16 17:20:34
 </p>
 </blockquote>
 <p>
@@ -29,6 +29,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%9A%84%E6%B7%B1%E5%9C%B3%E6%83%85%E7%BC%98%23%23" target="weibo">
 #习近平的深圳情缘#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%87%B4%E4%BF%A1%E7%A5%9D%E8%B4%BA%E6%9A%A8%E5%8D%97%E5%A4%A7%E5%AD%A6%E5%BB%BA%E6%A0%A1120%E5%91%A8%E5%B9%B4%23%23" target="weibo">
+#习近平致信祝贺暨南大学建校120周年#
 </a>
 </li>
 
