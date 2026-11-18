@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/11/15 00:34:18 ~ 2026/11/18 22:27:12
+本榜单时间：2026/11/15 00:34:18 ~ 2026/11/19 05:17:27
 </p>
 </blockquote>
 <p>
@@ -89,6 +89,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E4%BA%8E%E9%81%93%E5%90%84%E5%8A%AA%E5%8A%9B%E5%8D%83%E9%87%8C%E8%87%AA%E5%90%8C%E9%A3%8E%23%23" target="weibo">
 #于道各努力千里自同风#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E6%8F%A1%E6%89%8B%23%23" target="weibo">
+#中美元首握手#
 </a>
 </li>
 
