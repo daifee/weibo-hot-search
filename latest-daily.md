@@ -1,9 +1,9 @@
 <h1>
-微博热搜-日榜（2026/11/20）
+微博热搜-日榜（2026/11/21）
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/11/20 05:19:21 ~ 2026/11/20 21:24:54
+本榜单时间：2026/11/21 03:53:38 ~ 2026/11/21 03:53:38
 </p>
 </blockquote>
 <p>
@@ -21,32 +21,8 @@
 <ol>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%23%E4%B8%AD%E7%BE%8E%E5%85%B3%E7%B3%BB%E6%80%BB%E4%BD%93%E7%A8%B3%E5%AE%9A%E5%90%91%E5%A5%BD%23%23" target="weibo">
-#中美关系总体稳定向好#
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E4%B8%BB%E5%B8%AD%E4%B8%AD%E4%BF%84%E7%BE%8E%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4%E9%87%8D%E8%A6%81%E8%AE%B2%E8%AF%9D%E9%87%91%E5%8F%A5%23%23" target="weibo">
-#习主席中俄美元首会晤重要讲话金句#
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%23%E4%B8%AD%E4%BF%84%E7%BE%8E%E5%85%83%E9%A6%96%E9%A6%96%E6%AC%A1%E4%BC%9A%E6%99%A4%E5%BE%AE%E8%A7%82%E5%AF%9F%23%23" target="weibo">
-#中俄美元首首次会晤微观察#
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E4%B8%BB%E5%B8%AD%E7%9A%84%E6%B7%B1%E5%9C%B3APEC%E6%97%B6%E9%97%B4%23%23" target="weibo">
-#习主席的深圳APEC时间#
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%BC%9A%E8%A7%81%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%E6%80%BB%E7%90%86%23%23" target="weibo">
-#习近平会见马来西亚总理#
+<a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%BC%9A%E8%A7%81%E6%B3%B0%E5%9B%BD%E6%80%BB%E7%90%86%23%23" target="weibo">
+#习近平会见泰国总理#
 </a>
 </li>
 
