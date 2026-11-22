@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/11/01 03:28:55 ~ 2026/11/22 11:00:35
+本榜单时间：2026/11/01 03:28:55 ~ 2026/11/22 16:25:32
 </p>
 </blockquote>
 <p>
@@ -383,6 +383,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%B9%BF%E4%B8%9C%E8%A1%8C%23%23" target="weibo">
 #习近平总书记广东行#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E8%BF%91%E5%8D%81%E5%B9%B4%E6%9D%A5%E6%9C%80%E5%85%A8%E7%9A%84APEC%E5%85%A8%E5%AE%B6%E7%A6%8F%23%23" target="weibo">
+#近十年来最全的APEC全家福#
 </a>
 </li>
 
