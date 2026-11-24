@@ -1,9 +1,9 @@
 <h1>
-微博热搜-日榜（2026/11/24）
+微博热搜-日榜（2026/11/25）
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/11/24 05:05:18 ~ 2026/11/24 19:19:25
+本榜单时间：2026/11/25 01:22:34 ~ 2026/11/25 01:22:34
 </p>
 </blockquote>
 <p>
@@ -21,20 +21,8 @@
 <ol>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%23%E4%B8%89%E4%B8%AA%E6%97%B6%E9%97%B4%E5%9D%90%E6%A0%87%E8%AF%BB%E6%87%82APEC%E4%B8%AD%E5%9B%BD%E5%B9%B4%23%23" target="weibo">
-#三个时间坐标读懂APEC中国年#
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%23100%E7%A7%92%E7%9C%8B%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%B8%BB%E5%B8%AD%E7%9A%84APEC%E6%97%B6%E9%97%B4%23%23" target="weibo">
-#100秒看习近平主席的APEC时间#
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%23%E5%85%A8%E7%90%83%E4%B9%8B%E6%B2%BB%23%23" target="weibo">
-#全球之治#
+<a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%B8%BB%E5%B8%AD%E5%90%91%E4%B8%96%E7%95%8C%E6%8E%A8%E4%BB%8B%E4%B8%AD%E5%9B%BD%E8%BF%99%E5%9B%9B%E5%BA%A7%E5%9F%8E%E5%B8%82%23%23" target="weibo">
+#习近平主席向世界推介中国这四座城市#
 </a>
 </li>
 
