@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/11/26 06:19:29 ~ 2026/11/26 16:45:23
+本榜单时间：2026/11/26 06:19:29 ~ 2026/11/26 22:55:32
 </p>
 </blockquote>
 <p>
@@ -35,6 +35,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E6%B2%BB%E5%85%9A%E5%8A%A1%E5%BF%85%E4%BB%8E%E4%B8%A5%E4%BB%8E%E4%B8%A5%E5%BF%85%E4%BE%9D%E6%B3%95%E5%BA%A6%23%23" target="weibo">
 #治党务必从严从严必依法度#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%AF%84%E8%AF%AD%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E4%BA%8B%E4%B8%9A%23%23" target="weibo">
+#总书记寄语中国航天事业#
 </a>
 </li>
 
