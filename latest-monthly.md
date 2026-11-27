@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/11/01 03:28:55 ~ 2026/11/27 10:23:06
+本榜单时间：2026/11/01 03:28:55 ~ 2026/11/27 15:46:29
 </p>
 </blockquote>
 <p>
@@ -455,6 +455,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%AF%84%E8%AF%AD%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E4%BA%8B%E4%B8%9A%23%23" target="weibo">
 #总书记寄语中国航天事业#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%B7%B1%E5%9C%B3%E6%97%B6%E9%97%B4%E7%9A%84%E6%97%B6%E4%BB%A3%E5%9B%9E%E5%93%8D%23%23" target="weibo">
+#习近平深圳时间的时代回响#
 </a>
 </li>
 
