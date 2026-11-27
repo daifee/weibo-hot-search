@@ -1,9 +1,9 @@
 <h1>
-微博热搜-日榜（2026/11/27）
+微博热搜-日榜（2026/11/28）
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/11/27 03:14:47 ~ 2026/11/27 19:09:45
+本榜单时间：2026/11/28 02:02:25 ~ 2026/11/28 02:02:25
 </p>
 </blockquote>
 <p>
@@ -21,20 +21,8 @@
 <ol>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%23%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%AF%84%E8%AF%AD%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E4%BA%8B%E4%B8%9A%23%23" target="weibo">
-#总书记寄语中国航天事业#
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%B7%B1%E5%9C%B3%E6%97%B6%E9%97%B4%E7%9A%84%E6%97%B6%E4%BB%A3%E5%9B%9E%E5%93%8D%23%23" target="weibo">
-#习近平深圳时间的时代回响#
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E4%B8%BB%E5%B8%AD%E5%BC%95%E9%A2%86%E5%85%A8%E7%90%83%E7%BB%8F%E6%B5%8E%E5%90%88%E4%BD%9C%E5%A4%A7%E5%8A%BF%23%23" target="weibo">
-#习主席引领全球经济合作大势#
+<a href="https://s.weibo.com/weibo?q=%23%23%E4%BA%9A%E5%A4%AA%E5%90%88%E4%BD%9C%E9%B9%8F%E7%A8%8B%E4%B8%87%E9%87%8C%23%23" target="weibo">
+#亚太合作鹏程万里#
 </a>
 </li>
 

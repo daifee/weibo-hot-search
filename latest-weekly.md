@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/11/22 01:17:54 ~ 2026/11/27 19:09:45
+本榜单时间：2026/11/22 01:17:54 ~ 2026/11/28 02:02:25
 </p>
 </blockquote>
 <p>
@@ -113,6 +113,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E4%B8%BB%E5%B8%AD%E5%BC%95%E9%A2%86%E5%85%A8%E7%90%83%E7%BB%8F%E6%B5%8E%E5%90%88%E4%BD%9C%E5%A4%A7%E5%8A%BF%23%23" target="weibo">
 #习主席引领全球经济合作大势#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E4%BA%9A%E5%A4%AA%E5%90%88%E4%BD%9C%E9%B9%8F%E7%A8%8B%E4%B8%87%E9%87%8C%23%23" target="weibo">
+#亚太合作鹏程万里#
 </a>
 </li>
 
