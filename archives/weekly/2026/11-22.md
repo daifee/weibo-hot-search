@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/11/22 01:17:54 ~ 2026/11/27 15:46:29
+本榜单时间：2026/11/22 01:17:54 ~ 2026/11/27 19:09:45
 </p>
 </blockquote>
 <p>
@@ -107,6 +107,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%B7%B1%E5%9C%B3%E6%97%B6%E9%97%B4%E7%9A%84%E6%97%B6%E4%BB%A3%E5%9B%9E%E5%93%8D%23%23" target="weibo">
 #习近平深圳时间的时代回响#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E4%B8%BB%E5%B8%AD%E5%BC%95%E9%A2%86%E5%85%A8%E7%90%83%E7%BB%8F%E6%B5%8E%E5%90%88%E4%BD%9C%E5%A4%A7%E5%8A%BF%23%23" target="weibo">
+#习主席引领全球经济合作大势#
 </a>
 </li>
 
